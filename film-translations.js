@@ -26,11 +26,26 @@ const translatedCities={
  zh:["普斯科夫","莫斯科","圣彼得堡"],es:["Pskov","Moscú","San Petersburgo"],ar:["بسكوف","موسكو","سانت بطرسبرغ"],fr:["Pskov","Moscou","Saint-Pétersbourg"],pt:["Pskov","Moscovo","São Petersburgo"],de:["Pskow","Moskau","Sankt Petersburg"],
  hi:["प्सकोव","मॉस्को","सेंट पीटर्सबर्ग"],bn:["পস্কভ","মস্কো","সেন্ট পিটার্সবার্গ"],ja:["プスコフ","モスクワ","サンクトペテルブルク"],be:["Пскоў","Масква","Санкт-Пецярбург"],uk:["Псков","Москва","Санкт-Петербург"],kk:["Псков","Мәскеу","Санкт-Петербург"],ky:["Псков","Москва","Санкт-Петербург"],uz:["Pskov","Moskva","Sankt-Peterburg"],tg:["Псков","Маскав","Санкт-Петербург"],tk:["Pskow","Moskwa","Sankt-Peterburg"],az:["Pskov","Moskva","Sankt-Peterburq"],hy:["Պսկով","Մոսկվա","Սանկտ Պետերբուրգ"],ro:["Pskov","Moscova","Sankt Petersburg"],ka:["ფსკოვი","მოსკოვი","სანქტ-პეტერბურგი"]
 };
+// Explicit Gregorian month names (January, August, November).
+// Do not use browser Intl here: reduced locale data may silently fall back to
+// English or placeholders such as M11. Preserve the artist's month/year order.
+const localizedGregorianMonths={
+ zh:["一月","八月","十一月"],es:["enero","agosto","noviembre"],
+ ar:["يناير","أغسطس","نوفمبر"],fr:["janvier","août","novembre"],
+ pt:["janeiro","agosto","novembro"],de:["Januar","August","November"],
+ hi:["जनवरी","अगस्त","नवंबर"],bn:["জানুয়ারী","আগস্ট","নভেম্বর"],ja:["1月","8月","11月"],
+ be:["студзень","жнівень","лістапад"],uk:["січень","серпень","листопад"],
+ kk:["қаңтар","тамыз","қараша"],ky:["январь","август","ноябрь"],
+ uz:["yanvar","avgust","noyabr"],tg:["январ","август","ноябр"],
+ tk:["ýanwar","awgust","noýabr"],az:["yanvar","avqust","noyabr"],
+ hy:["հունվար","օգոստոս","նոյեմբեր"],ro:["ianuarie","august","noiembrie"],
+ ka:["იანვარი","აგვისტო","ნოემბერი"]
+};
 Object.entries(newFilmTranslations).forEach(([code,copy])=>{
  const suffix=code[0].toUpperCase()+code.slice(1);
  const [pskov,moscow,petersburg]=translatedCities[code];
- const month=number=>new Intl.DateTimeFormat(code,{month:"long",timeZone:"UTC"}).format(new Date(Date.UTC(2023,number-1,1)));
- const dates=["2017-2020",`${month(8)}-${month(1)} 2017`,`${month(11)} 2023`,"2024","2017-2024","2018-2020",`${month(8)} 2017`,"2019"];
+ const [january,august,november]=localizedGregorianMonths[code];
+ const dates=["2017-2020",`${august}-${january} 2017`,`${november} 2023`,"2024","2017-2024","2018-2020",`${august} 2017`,"2019"];
  const cities=[`${pskov}-${moscow}`,`${petersburg}, ${pskov}, ${moscow}`,moscow,moscow,`${moscow}-${pskov}-${moscow}`,`${moscow}-${pskov}-${moscow}`,moscow,moscow];
  films.forEach((film,index)=>{
   film[code]=copy[index];film["date"+suffix]=dates[index];film["city"+suffix]=cities[index];
@@ -58,5 +73,5 @@ Object.entries(journeyParts).forEach(([code,[title,subtitle]])=>{
  const suffix=code[0].toUpperCase()+code.slice(1);
  films[1][code]=title;films[1]["subtitle"+suffix]=subtitle;
  const zaruyar=films[3][code]?.match(/^(.*?)\s*[.。։।]\s*(.+)$/u);
- if(zaruyar){films[3][code]=zaruyar[2];films[3]["subtitle"+suffix]=zaruyar[1].toLocaleLowerCase(code)}
+ if(zaruyar){films[3][code]=zaruyar[2];films[3]["subtitle"+suffix]=zaruyar[1]}
 });
