@@ -4,77 +4,37 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#141414">
-  <meta name="description" content="Голубев-Линецкий. Kameralog.">
-  <title>Голубев-Линецкий</title>
+  <meta name="description" content="Камералог. Голубев-Линецкий.">
+  <title>Камералог — Голубев-Линецкий</title>
   <link rel="stylesheet" href="./base.css">
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./style.css?v=gallery-1">
   <script src="./films.js" defer></script>
   <script src="./locales.js" defer></script>
-  <script src="./app.js" defer></script>
+  <script src="./film-translations.js" defer></script>
+  <script src="./app.js?v=gallery-1" defer></script>
 </head>
 <body>
   <a class="skip" href="#works">К работам</a>
-  <aside id="language-panel" aria-labelledby="language-heading">
-    <div class="language-heading"><h2 id="language-heading" lang="en" dir="ltr">languages</h2><button class="language-close" aria-label="Закрыть / Close">×</button></div>
-    <label class="sr-only" for="language-search">Найти язык / Search languages</label>
-    <input type="search" id="language-search" placeholder="Найти язык" autocomplete="off">
-    <nav aria-label="languages"><ul id="language-list"></ul></nav>
-    <p id="no-languages" hidden>Ничего не найдено / No matches</p>
-  </aside>
   <div class="page">
-    <header>
-      <div class="identity">
-        <h1 id="artist">Голубев-Линецкий</h1>
-        <p id="discipline">Kameralog</p>
+    <header class="site-header">
+      <a class="identity" href="./index.html">
+        <span class="wordmark">Камералог</span>
+        <span id="artist">Голубев-Линецкий</span>
+      </a>
+      <div class="language-menu">
+        <button class="language-open" aria-expanded="false" aria-controls="language-panel" type="button">languages <span aria-hidden="true">⌄</span></button>
+        <section id="language-panel" hidden aria-label="languages">
+          <label class="sr-only" for="language-search">Найти язык</label>
+          <input id="language-search" type="search" autocomplete="off" placeholder="Найти язык">
+          <ul id="language-list"></ul>
+          <p id="no-languages" hidden>Ничего не найдено</p>
+        </section>
       </div>
-      <button class="language-open" lang="en" dir="ltr" aria-controls="language-panel" aria-expanded="false">languages</button>
-      <label class="language" hidden>
-        <span class="sr-only" id="language-label" lang="en">languages</span>
-        <select aria-labelledby="language-label" id="language">
-          <option value="ru">Русский</option>
-          <option value="en">English</option>
-          <option value="zh">中文</option>
-          <option value="es">Español</option>
-          <option value="ar">العربية</option>
-          <option value="fa">فارسی</option>
-          <option value="he">עברית</option>
-          <option value="fr">Français</option>
-          <option value="pt">Português</option>
-          <option value="de">Deutsch</option>
-          <option value="da">Dansk</option>
-          <option value="sv">Svenska</option>
-          <option value="nb">Norsk (bokmål)</option>
-          <option value="fi">Suomi</option>
-          <option value="is">Íslenska</option>
-          <option value="et">Eesti</option>
-          <option value="lv">Latviešu</option>
-          <option value="lt">Lietuvių</option>
-          <option value="vep">Vepsän kel’</option>
-          <option value="tr">Türkçe</option>
-          <option value="hi">हिन्दी</option>
-          <option value="bn">বাংলা</option>
-          <option value="ja">日本語</option>
-          <option value="be">Беларуская</option>
-          <option value="uk">Українська</option>
-          <option value="kk">Қазақша</option>
-          <option value="ky">Кыргызча</option>
-          <option value="uz">O‘zbekcha</option>
-          <option value="tg">Тоҷикӣ</option>
-          <option value="tk">Türkmençe</option>
-          <option value="az">Azərbaycanca</option>
-          <option value="hy">Հայերեն</option>
-          <option value="ro">Română</option>
-          <option value="ka">ქართული</option>
-        </select>
-      </label>
     </header>
-    <p class="locale-note" id="locale-note" hidden lang="ru"></p>
-    <main id="works" aria-label="Фильмы">
-      <noscript><p>Для встроенных плееров включите JavaScript. Фильмы: <a href="https://vimeo.com/cigaretteburn" target="_blank" rel="noopener noreferrer">Vimeo</a>.</p></noscript>
-    </main>
-    <footer>
-      <span>2026</span>
-    </footer>
+    <p id="locale-note" class="locale-note" hidden></p>
+    <main id="works" tabindex="-1"></main>
+    <noscript><p>Для просмотра галереи включите JavaScript. <a href="https://vimeo.com/cigaretteburn">Фильмы на Vimeo</a>.</p></noscript>
+    <footer dir="ltr">2017-...</footer>
   </div>
 </body>
 </html>

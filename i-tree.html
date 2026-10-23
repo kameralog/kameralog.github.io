@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#141414">
+  <meta name="description" content="Я, Дерево. 2017-2024. Москва-Псков-Москва. Камералог.">
+  <title>Я, Дерево — Камералог</title>
+  <link rel="stylesheet" href="./base.css">
+  <link rel="stylesheet" href="./style.css?v=gallery-1">
+  <script src="./films.js" defer></script>
+  <script src="./locales.js" defer></script>
+  <script src="./film-translations.js" defer></script>
+  <script src="./app.js?v=gallery-1" defer></script>
+</head>
+<body data-film="i-tree">
+  <a class="skip" href="#works">К работам</a>
+  <div class="page">
+    <header class="site-header">
+      <a class="identity" href="./index.html">
+        <span class="wordmark">Камералог</span>
+        <span id="artist">Голубев-Линецкий</span>
+      </a>
+      <div class="language-menu">
+        <button class="language-open" aria-expanded="false" aria-controls="language-panel" type="button">languages <span aria-hidden="true">⌄</span></button>
+        <section id="language-panel" hidden aria-label="languages">
+          <label class="sr-only" for="language-search">Найти язык</label>
+          <input id="language-search" type="search" autocomplete="off" placeholder="Найти язык">
+          <ul id="language-list"></ul>
+          <p id="no-languages" hidden>Ничего не найдено</p>
+        </section>
+      </div>
+    </header>
+    <p id="locale-note" class="locale-note" hidden></p>
+    <main id="works" tabindex="-1"><h1>Я, Дерево</h1></main>
+    <noscript><p></p><p>2017-2024. Москва-Псков-Москва.</p><p><a href="https://vimeo.com/955510542">Vimeo</a> · <a href="./index.html">Все работы</a></p></noscript>
+    <footer dir="ltr">2017-...</footer>
+  </div>
+</body>
+</html>
