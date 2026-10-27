@@ -47,7 +47,7 @@ function render(){
   works.className="gallery";
   works.innerHTML=films.map((film,i)=>{
    const text=filmText(film,code),slug=catalog[i][0];
-   return `<article class="film-card"><a class="film-link" href="${href(slug)}"><div class="still"><img src="./assets/gallery/${slug}.jpg" alt="" width="960" height="600" ${i>2?'loading="lazy"':'fetchpriority="high"'}></div><div class="card-caption" lang="${text.lang}"><h2 class="film-title">${escapeText(text.title)}</h2>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}</div></a></article>`;
+   return `<article class="film-card"><a class="film-link" href="${href(slug)}"><div class="still"><img src="./assets/gallery/${slug}.jpg?v=20" alt="" width="960" height="600" ${i>2?'loading="lazy"':'fetchpriority="high"'}></div><div class="card-caption" lang="${text.lang}"><h2 class="film-title">${escapeText(text.title)}</h2>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}</div></a></article>`;
   }).join("");
   document.title=`${siteName} — ${artistNames[code]||"Golubev-Linetsky"}`;
  }else{
@@ -56,7 +56,8 @@ function render(){
   const film=films[index],text=filmText(film,code);
   document.querySelector(".skip").textContent=text.title;
   works.className="detail";
-  works.innerHTML=`<div class="detail-heading" lang="${text.lang}"><h1>${escapeText(text.title)}</h1>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}${film.alternate?`<p class="alternate" lang="de">${film.alternate}</p>`:""}</div>
+  works.style.setProperty("--ratio",film.ratio);
+  works.innerHTML=`<div class="detail-heading" lang="${text.lang}"><h1>${escapeText(text.title)}</h1>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}</div>
   <div class="player" style="--ratio:${film.ratio}"><iframe src="https://player.vimeo.com/video/${film.id}?autoplay=0&title=0&byline=0&portrait=0&dnt=1" title="${escapeText(text.title)}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
   <div class="detail-meta"><p class="creation" lang="${text.lang}" dir="auto"><span class="creation-city">${escapeText(text.city)}</span><span class="creation-separator"> · </span><span class="creation-date">${escapeText(text.date)}</span></p><a class="vimeo-link" href="https://vimeo.com/${film.id}" target="_blank" rel="noopener noreferrer" dir="ltr">Vimeo</a></div>`;
   document.title=`${text.title} — ${siteName}`;

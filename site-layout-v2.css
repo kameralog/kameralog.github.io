@@ -1,6 +1,6 @@
 @font-face{font-family:"Noto Sans";src:url("./assets/noto-sans.ttf") format("truetype");font-display:swap}
 :root{--font-body:"Noto Sans",sans-serif;--color-bg:#141414;--color-text:#e5e5e5;--color-muted:#aaa;--color-line:#414141;--text-xs:clamp(.75rem,.72rem + .1vw,.8rem);--text-sm:clamp(.875rem,.85rem + .1vw,.94rem);--text-base:clamp(1rem,.96rem + .15vw,1.08rem);--text-lg:clamp(1.125rem,1rem + .4vw,1.35rem);--text-xl:clamp(1.5rem,1.1rem + 1vw,1.9rem)}
-:root{--text-film-caption:.75rem;--text-film-heading:.875rem;--text-film-subtitle:.625rem;--text-site-name:1rem;--text-identity:.625rem}
+:root{--text-film-caption:.625rem;--text-film-heading:var(--text-film-caption);--text-film-subtitle:.5rem;--text-site-name:1rem;--text-identity:.625rem}
 a{color:inherit;text-decoration:none}
 .vimeo-link:hover{text-decoration:underline;text-underline-offset:4px}
 .film-link:hover .film-title{color:#fff}
@@ -32,13 +32,12 @@ body[data-film] .site-header{padding-bottom:var(--film-spacing);margin-bottom:va
 .still{width:100%;aspect-ratio:16/10;display:flex;align-items:center;justify-content:center;background:#0b0b0b;overflow:hidden}
 .still img{display:block;width:100%;height:100%;object-fit:cover;object-position:center}
 .card-caption{padding-top:13px}
-.film-title{font-size:var(--text-film-caption);line-height:1.5;font-weight:400;overflow-wrap:anywhere}
-.film-subtitle{font-size:var(--text-film-subtitle);line-height:1.5;color:var(--color-muted);margin-top:3px}
+.film-title{font-size:var(--text-film-caption);line-height:1.4;font-weight:400;overflow-wrap:anywhere}
+.film-subtitle{font-size:var(--text-film-subtitle);line-height:1.4;color:var(--color-muted);margin-top:1px}
 .detail{width:100%;max-width:none;margin:0}
 .detail-heading{margin-bottom:var(--film-spacing);color:var(--color-text)}
-.detail-heading h1{font-weight:700;font-size:var(--text-film-heading);line-height:1.5}
-.detail-heading .film-subtitle{font-size:var(--text-film-subtitle);margin-top:4px}
-.alternate{color:var(--color-muted);font-size:var(--text-film-caption);margin-top:4px}
+.detail-heading h1{font-weight:700;font-size:var(--text-film-heading);line-height:1.4}
+.detail-heading .film-subtitle{font-size:var(--text-film-subtitle);margin-top:1px}
 .player{position:relative;background:#080808;width:100%;aspect-ratio:var(--ratio,16/9)}
 .player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .detail-meta{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:start;gap:8px 24px;margin-top:var(--film-spacing);font-size:var(--text-identity);direction:ltr}

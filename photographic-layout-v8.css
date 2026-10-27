@@ -3,13 +3,21 @@
   --scene-left: calc((100vw - var(--scene-width)) / 2);
   --photo-width: var(--scene-width);
   --photo-left: var(--scene-left);
-  --scene-height: calc(var(--photo-width) * .563);
+  --scene-height: calc(var(--photo-width) * .5625);
   --background-blend: calc(var(--photo-width) * .0444444444);
-  --wordmark-baseline: calc(var(--photo-width) * .05);
+  --wordmark-baseline: calc(var(--photo-width) * .0685);
   --card-black: #000;
   --card-frame: 4px;
   --gallery-gap: calc(var(--scene-width) * .0194444444);
   --gallery-row-gap: var(--gallery-gap);
+  /* Coordinates of the two light strokes in the opening photograph. */
+  --band-top: calc(var(--photo-width) * .076);
+  --band-bottom: calc(var(--photo-width) * .42);
+  --band-height: calc(var(--band-bottom) - var(--band-top));
+  --stage-air: clamp(12px, calc(var(--scene-width) * .0166666667), 28px);
+  --film-meta-tone: #808080;
+  --film-plate-top: 8px;
+  --film-plate-bottom: 6px;
 }
 html { background: #141414; }
 body { position: relative; isolation: isolate; min-height: 100vh; min-height: 100svh; }
@@ -23,8 +31,8 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
   left: 0; right: 0; bottom: 0; z-index: 1;
   /* The opening transition is unique; only the plain photo repeats afterwards. */
   background:
-    url("./assets/background-transition-v10.jpg") var(--photo-left) top / var(--photo-width) auto no-repeat,
-    url("./assets/background-rotating-v10.jpg") var(--photo-left) top / var(--photo-width) auto repeat;
+    url("./assets/background-transition-v22.jpg") var(--photo-left) top / var(--photo-width) auto no-repeat,
+    url("./assets/background-mixed-v18.jpg") var(--photo-left) top / var(--photo-width) auto repeat;
 }
 .page {
   width: calc(var(--scene-width) * .7972222222);
@@ -38,9 +46,9 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
 .identity {
   position: absolute; z-index: 2;
   left: calc(var(--photo-left) + var(--photo-width) * .10);
-  top: calc(var(--photo-width) * .013);
+  top: calc(var(--photo-width) * .03);
   width: calc(var(--photo-width) * .27);
-  height: calc(var(--photo-width) * .052);
+  height: calc(var(--photo-width) * .046);
   min-height: 44px;
 }
 .identity:focus-visible { outline: 1px solid #e5e5e5; outline-offset: 5px; }
@@ -71,15 +79,57 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
 .film-link:focus-visible { outline: 1px solid #e5e5e5; outline-offset: 5px; }
 .card-caption { padding: 13px 4px 6px; }
 .card-caption:is([lang=ar],[lang=fa],[lang=he]) { direction: rtl; text-align: right; }
-.detail { background: var(--card-black); }
-.detail-heading { padding: 12px; margin-bottom: 0; }
-.detail-meta { padding: 8px 12px; margin-top: 0; }
+.detail {
+  background: var(--card-black);
+  border: var(--card-frame) solid var(--card-black);
+}
+.detail-heading {
+  /* Match the lower plate's visible insets, including the outer 4px frame.
+     Above the heading the frame adds space; below metadata it adds space. */
+  padding: calc(var(--film-plate-top) - var(--card-frame)) 4px
+    calc(var(--film-plate-bottom) + var(--card-frame));
+  margin-bottom: 0;
+}
+.detail-meta {
+  --metadata-line: 16px;
+  padding: var(--film-plate-top) 4px var(--film-plate-bottom); margin-top: 0;
+  font-size: var(--text-film-subtitle); color: var(--film-meta-tone);
+}
+.detail .creation, .detail .vimeo-link {
+  font-size: var(--text-film-subtitle); color: var(--film-meta-tone);
+}
+.detail .creation span { color: inherit; }
 .creation { white-space: normal; flex: 1 1 230px; }
 .locale-note { padding: 10px 12px; background: var(--card-black); }
 footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0; }
 @media (min-width: 951px) {
-  body:not([data-film]) .site-header {
-    height: calc(var(--scene-width) * .068);
+  .language-open {
+    height: min(calc(var(--wordmark-baseline) + 12px), var(--band-top));
+  }
+  .site-header, body[data-film] .site-header {
+    height: var(--band-top);
+  }
+  .content-stage {
+    height: var(--band-height);
+    padding-block: var(--stage-air);
+    display: flex; flex-direction: column; justify-content: center;
+  }
+  .content-stage > #works { flex: none; }
+  .locale-note:not([hidden]) {
+    position: absolute;
+    top: calc(var(--band-bottom) + 12px);
+    max-width: calc(var(--scene-width) * .43);
+    margin: 0;
+  }
+  body[data-film] .detail {
+    /* Reserve space for the black frame, heading and metadata before fitting video. */
+    --detail-room: min(var(--band-height), calc(100svh - var(--band-top) - 24px));
+    --player-max-height: max(120px, calc(var(--detail-room) - var(--stage-air) * 2 - 6rem));
+    width: min(
+      66.666667%,
+      calc(var(--player-max-height) * var(--ratio, 16 / 9) + var(--card-frame) * 2)
+    );
+    margin: 0 auto 0 0;
   }
 }
 @media (max-width: 950px) {
@@ -93,8 +143,8 @@ footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0
 @media (max-width: 540px) {
   :root {
     --photo-width: 180vw;
-    /* Align the underline's left tip (source x≈211/2000), not the letter К. */
-    --photo-left: calc(20px - var(--photo-width) * .1055);
+    /* Align the new photograph's underline tip (source x≈245/2000). */
+    --photo-left: calc(20px - var(--photo-width) * .1225);
   }
   .identity {
     left: max(0px, calc(var(--photo-left) + var(--photo-width) * .10));

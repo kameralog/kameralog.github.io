@@ -3,7 +3,7 @@
 // Upload years are used ONLY for Zaruyar and On the Right Bank, as instructed.
 const films = [
  {id:"394256229",ru:"Звери",en:"Animals",subtitleRu:"опыт визуального исследования",subtitleEn:"Visual study experience",dateRu:"2017-2020",dateEn:"2017-2020",cityRu:"Псков-Москва",cityEn:"Pskov-Moscow",duration:"04:30",ratio:"16 / 9"},
- {id:"272842965",ru:"Путешествие",en:"Journey",subtitleRu:"с комментариями",subtitleEn:"with commentary",alternate:"Die Reise",dateRu:"август-январь 2017",dateEn:"August-January 2017",cityRu:"Санкт-Петербург, Псков, Москва",cityEn:"Saint Petersburg, Pskov, Moscow",duration:"28:24",ratio:"4 / 3"},
+ {id:"272842965",ru:"Путешествие",en:"Journey",subtitleRu:"с комментариями",subtitleEn:"with commentary",dateRu:"август-январь 2017",dateEn:"August-January 2017",cityRu:"Санкт-Петербург, Псков, Москва",cityEn:"Saint Petersburg, Pskov, Moscow",duration:"28:24",ratio:"4 / 3"},
  {id:"885718308",ru:"Представление",en:"Presentation",subtitleRu:"опыт медиального реди-мейда",subtitleEn:"An Experiment in Media Readymade",dateRu:"ноябрь 2023",dateEn:"November 2023",cityRu:"Москва",cityEn:"Moscow",duration:"09:21",ratio:"16 / 9"},
  {id:"1008823051",ru:"Заруяр",en:"Zaruyar",subtitleRu:"Эллипс",subtitleEn:"Ellipse",dateRu:"2024",dateEn:"2024",cityRu:"Москва",cityEn:"Moscow",duration:"22:06",ratio:"16 / 9"},
  {id:"955510542",ru:"Я, Дерево",en:"I, Tree",dateRu:"2017-2024",dateEn:"2017-2024",cityRu:"Москва-Псков-Москва",cityEn:"Moscow-Pskov-Moscow",duration:"04:39",ratio:"16 / 9"},
