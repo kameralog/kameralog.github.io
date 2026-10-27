@@ -1,0 +1,107 @@
+:root {
+  --scene-width: min(100vw, 2000px);
+  --scene-left: calc((100vw - var(--scene-width)) / 2);
+  --photo-width: var(--scene-width);
+  --photo-left: var(--scene-left);
+  --scene-height: calc(var(--photo-width) * .563);
+  --background-blend: calc(var(--photo-width) * .0444444444);
+  --wordmark-baseline: calc(var(--photo-width) * .05);
+  --card-black: #000;
+  --card-frame: 4px;
+  --gallery-gap: calc(var(--scene-width) * .0194444444);
+  --gallery-row-gap: var(--gallery-gap);
+}
+html { background: #141414; }
+body { position: relative; isolation: isolate; min-height: 100vh; min-height: 100svh; }
+.site-background { position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+.background-main {
+  position: absolute; top: 0; left: var(--photo-left);
+  width: var(--photo-width); max-width: none; height: auto;
+}
+.background-fill {
+  position: absolute; top: calc(var(--scene-height) - var(--background-blend));
+  left: 0; right: 0; bottom: 0; z-index: 1;
+  /* The opening transition is unique; only the plain photo repeats afterwards. */
+  background:
+    url("./assets/background-transition-v10.jpg") var(--photo-left) top / var(--photo-width) auto no-repeat,
+    url("./assets/background-rotating-v10.jpg") var(--photo-left) top / var(--photo-width) auto repeat;
+}
+.page {
+  width: calc(var(--scene-width) * .7972222222);
+  margin-inline: auto; padding: 0 0 32px;
+}
+.site-header, body[data-film] .site-header {
+  position: static; display: block;
+  height: calc(var(--scene-width) * .0926388889);
+  padding: 0; margin: 0; border: 0;
+}
+.identity {
+  position: absolute; z-index: 2;
+  left: calc(var(--photo-left) + var(--photo-width) * .10);
+  top: calc(var(--photo-width) * .013);
+  width: calc(var(--photo-width) * .27);
+  height: calc(var(--photo-width) * .052);
+  min-height: 44px;
+}
+.identity:focus-visible { outline: 1px solid #e5e5e5; outline-offset: 5px; }
+.language-menu {
+  position: absolute; z-index: 5;
+  top: 0;
+  right: calc(var(--scene-left) + var(--scene-width) * .1166666667);
+  direction: ltr;
+}
+.language-open {
+  margin: 0; padding-inline: 2px; padding-bottom: 0;
+  font-size: clamp(6px, calc(var(--photo-width) * .015), 9px);
+  min-width: 44px;
+  height: max(44px, calc(var(--wordmark-baseline) + 12px));
+  align-items: flex-start;
+  /* Noto Sans line-box metrics place the glyph bottoms on the photo baseline. */
+  padding-top: calc(var(--wordmark-baseline) - 1.4em);
+}
+#language-panel, [dir=rtl] #language-panel { top: calc(100% + 8px); right: 0; left: auto; }
+.gallery {
+  direction: ltr; align-items: start;
+  column-gap: var(--gallery-gap); row-gap: var(--gallery-row-gap);
+}
+.film-link {
+  height: auto; background: var(--card-black);
+  border: var(--card-frame) solid var(--card-black);
+}
+.film-link:focus-visible { outline: 1px solid #e5e5e5; outline-offset: 5px; }
+.card-caption { padding: 13px 4px 6px; }
+.card-caption:is([lang=ar],[lang=fa],[lang=he]) { direction: rtl; text-align: right; }
+.detail { background: var(--card-black); }
+.detail-heading { padding: 12px; margin-bottom: 0; }
+.detail-meta { padding: 8px 12px; margin-top: 0; }
+.creation { white-space: normal; flex: 1 1 230px; }
+.locale-note { padding: 10px 12px; background: var(--card-black); }
+footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0; }
+@media (min-width: 951px) {
+  body:not([data-film]) .site-header {
+    height: calc(var(--scene-width) * .068);
+  }
+}
+@media (max-width: 950px) {
+  .page { width: auto; margin-inline: 28px; }
+  .site-header, body[data-film] .site-header {
+    height: max(52px, calc(var(--wordmark-baseline) + 24px));
+  }
+  .gallery { column-gap: 28px; row-gap: 28px; }
+  .language-menu { right: 28px; }
+}
+@media (max-width: 540px) {
+  :root {
+    --photo-width: 180vw;
+    /* Align the underline's left tip (source x≈211/2000), not the letter К. */
+    --photo-left: calc(20px - var(--photo-width) * .1055);
+  }
+  .identity {
+    left: max(0px, calc(var(--photo-left) + var(--photo-width) * .10));
+  }
+  .page { margin-inline: 20px; padding-bottom: 20px; }
+  .gallery { column-gap: 20px; row-gap: 20px; }
+  .card-caption { padding: 12px 4px 6px; }
+  .language-menu { right: 20px; }
+  #language-panel { width: 255px; }
+}

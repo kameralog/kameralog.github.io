@@ -4,23 +4,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#141414">
-  <meta name="site-version" content="native-vimeo-fullwidth-v7">
+  <meta name="site-version" content="mobile-underline-aligned-v15">
   <meta name="description" content="Путешествие. август-январь 2017. Санкт-Петербург, Псков, Москва. Камералог.">
   <title>Путешествие — Камералог</title>
   <link rel="stylesheet" href="./base.css">
-  <link rel="stylesheet" href="./site-layout-v2.css?v=7">
+  <link rel="preload" as="image" href="./assets/background-main-v8.jpg">
+  <link rel="stylesheet" href="./site-layout-v2.css?v=8">
+  <link rel="stylesheet" href="./photographic-layout-v8.css?v=15">
   <script src="./films.js?v=3" defer></script>
   <script src="./locales.js" defer></script>
   <script src="./film-translations.js?v=7" defer></script>
-  <script src="./site-vimeo-v2.js?v=6" defer></script>
+  <script src="./site-vimeo-v2.js?v=8" defer></script>
 </head>
 <body data-film="die-reise">
   <a class="skip" href="#works">К работам</a>
+  <div class="site-background" aria-hidden="true">
+    <div class="background-fill"></div>
+    <img class="background-main" src="./assets/background-main-v8.jpg" alt="" width="2000" height="1126" fetchpriority="high">
+  </div>
   <div class="page">
     <header class="site-header">
-      <a class="identity" href="./index.html">
-        <span class="wordmark">Камералог</span>
-        <span id="artist">Голубев-Линецкий</span>
+      <a class="identity" href="./index.html" aria-label="Камералог — главная страница">
+        <span class="wordmark sr-only">Камералог</span>
+        <span id="artist" class="sr-only">Голубев-Линецкий</span>
       </a>
       <div class="language-menu">
         <button class="language-open" aria-expanded="false" aria-controls="language-panel" type="button">languages <span aria-hidden="true">⌄</span></button>
@@ -33,6 +39,7 @@
       </div>
     </header>
     <p id="locale-note" class="locale-note" hidden></p>
+    <h1 class="gallery-heading sr-only">Камералог — Голубев-Линецкий</h1>
     <main id="works" tabindex="-1"><h1>Путешествие</h1></main>
     <noscript><p>с комментариями</p><p>Санкт-Петербург, Псков, Москва · август-январь 2017</p><p><a href="https://vimeo.com/272842965">Vimeo</a></p></noscript>
     <footer aria-hidden="true"></footer>

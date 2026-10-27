@@ -32,6 +32,9 @@ function render(){
  document.querySelector(".wordmark").textContent=siteName;
  document.querySelector(".wordmark").lang=code==="ru"?"ru":"en";
  document.querySelector(".identity").href=href("");
+ document.querySelector(".identity").setAttribute("aria-label",code==="ru"?"Камералог — главная страница":"Kameralog — home");
+ const galleryHeading=document.querySelector(".gallery-heading");
+ if(galleryHeading){galleryHeading.hidden=Boolean(pageSlug);galleryHeading.textContent=`${siteName} — ${artistNames[code]||"Golubev-Linetsky"}`;}
  const note=document.querySelector("#locale-note");
  note.textContent=additionalLocales[code]?.notice||"";note.hidden=!note.textContent;
  list.querySelectorAll("button").forEach(button=>button.setAttribute("aria-current",String(button.dataset.lang===code)));
