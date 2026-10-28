@@ -24,6 +24,35 @@ function filmText(film,code){
  return {title:film[actual],subtitle:film["subtitle"+suffix]||"",date:film["date"+suffix],city:film["city"+suffix],lang:actual};
 }
 function href(slug){return `./${slug?slug:"index"}.html?lang=${encodeURIComponent(currentLanguage)}`}
+// Reserve v22 geometry; enlarge only the accessible copy inside each black plate.
+function referenceText(text){
+ return `<div class="type-reference" aria-hidden="true"><span class="reference-title">${escapeText(text.title)}</span>${text.subtitle?`<span class="reference-subtitle">${escapeText(text.subtitle)}</span>`:""}</div>`;
+}
+function fittedText(content,extraClass=""){
+ return `<div class="type-fit"><div class="type-content ${extraClass}">${content}</div></div>`;
+}
+let fittingFrame=0;
+function fitTypography(){
+ works.querySelectorAll(".type-fit").forEach(box=>{
+  const content=box.firstElementChild;
+  const fits=()=>content.getBoundingClientRect().height<=box.getBoundingClientRect().height+.1&&content.scrollWidth<=box.clientWidth+1;
+  content.style.setProperty("--type-scale","1");
+  if(!fits()){
+   let low=2/3,high=1;
+   for(let i=0;i<12;i++){
+    const middle=(low+high)/2;
+    content.style.setProperty("--type-scale",String(middle));
+    if(fits())low=middle;else high=middle;
+   }
+   content.style.setProperty("--type-scale",String(low));
+  }
+  box.classList.add("is-fitted");
+ });
+}
+function scheduleTypographyFit(){
+ cancelAnimationFrame(fittingFrame);
+ fittingFrame=requestAnimationFrame(fitTypography);
+}
 function render(){
  const code=currentLanguage,rtl=["ar","he","fa"].includes(code);
  document.documentElement.lang=code;document.documentElement.dir=rtl?"rtl":"ltr";
@@ -47,7 +76,7 @@ function render(){
   works.className="gallery";
   works.innerHTML=films.map((film,i)=>{
    const text=filmText(film,code),slug=catalog[i][0];
-   return `<article class="film-card"><a class="film-link" href="${href(slug)}"><div class="still"><img src="./assets/gallery/${slug}.jpg?v=20" alt="" width="960" height="600" ${i>2?'loading="lazy"':'fetchpriority="high"'}></div><div class="card-caption" lang="${text.lang}"><h2 class="film-title">${escapeText(text.title)}</h2>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}</div></a></article>`;
+   return `<article class="film-card"><a class="film-link" href="${href(slug)}"><div class="still"><img src="./assets/gallery/${slug}.jpg?v=20" alt="" width="960" height="600" ${i>2?'loading="lazy"':'fetchpriority="high"'}></div><div class="card-caption" lang="${text.lang}">${referenceText(text)}${fittedText(`<h2 class="film-title">${escapeText(text.title)}</h2>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}`)}</div></a></article>`;
   }).join("");
   document.title=`${siteName} — ${artistNames[code]||"Golubev-Linetsky"}`;
  }else{
@@ -57,11 +86,12 @@ function render(){
   document.querySelector(".skip").textContent=text.title;
   works.className="detail";
   works.style.setProperty("--ratio",film.ratio);
-  works.innerHTML=`<div class="detail-heading" lang="${text.lang}"><h1>${escapeText(text.title)}</h1>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}</div>
+  works.innerHTML=`<div class="detail-heading" lang="${text.lang}">${referenceText(text)}${fittedText(`<h1>${escapeText(text.title)}</h1>${text.subtitle?`<p class="film-subtitle">${escapeText(text.subtitle)}</p>`:""}`)}</div>
   <div class="player" style="--ratio:${film.ratio}"><iframe src="https://player.vimeo.com/video/${film.id}?autoplay=0&title=0&byline=0&portrait=0&dnt=1" title="${escapeText(text.title)}" allow="autoplay; fullscreen; picture-in-picture; encrypted-media" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe></div>
-  <div class="detail-meta"><p class="creation" lang="${text.lang}" dir="auto"><span class="creation-city">${escapeText(text.city)}</span><span class="creation-separator"> · </span><span class="creation-date">${escapeText(text.date)}</span></p><a class="vimeo-link" href="https://vimeo.com/${film.id}" target="_blank" rel="noopener noreferrer" dir="ltr">Vimeo</a></div>`;
+  <div class="detail-meta"><div class="metadata-reference type-reference" aria-hidden="true"><p class="reference-creation" lang="${text.lang}" dir="auto">${escapeText(text.city)} · ${escapeText(text.date)}</p><span class="reference-vimeo" dir="ltr">Vimeo</span></div>${fittedText(`<p class="creation" lang="${text.lang}" dir="auto"><span class="creation-city">${escapeText(text.city)}</span><span class="creation-separator"> · </span><span class="creation-date">${escapeText(text.date)}</span></p><a class="vimeo-link" href="https://vimeo.com/${film.id}" target="_blank" rel="noopener noreferrer" dir="ltr">Vimeo</a>`,"metadata-text")}</div>`;
   document.title=`${text.title} — ${siteName}`;
  }
+ scheduleTypographyFit();
 }
 function closeLanguages(restoreFocus=false){panel.hidden=true;opener.setAttribute("aria-expanded","false");if(restoreFocus)opener.focus()}
 Object.entries(languageNames).forEach(([code,name])=>{
@@ -92,3 +122,6 @@ search.addEventListener("input",()=>{
  });document.querySelector("#no-languages").hidden=count>0;
 });
 render();
+new ResizeObserver(scheduleTypographyFit).observe(works);
+document.fonts.ready.then(scheduleTypographyFit);
+window.addEventListener("resize",scheduleTypographyFit);

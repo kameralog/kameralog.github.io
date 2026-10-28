@@ -77,13 +77,14 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
   border: var(--card-frame) solid var(--card-black);
 }
 .film-link:focus-visible { outline: 1px solid #e5e5e5; outline-offset: 5px; }
-.card-caption { padding: 13px 4px 6px; }
+.card-caption { position: relative; padding: 13px 4px 6px; }
 .card-caption:is([lang=ar],[lang=fa],[lang=he]) { direction: rtl; text-align: right; }
 .detail {
   background: var(--card-black);
   border: var(--card-frame) solid var(--card-black);
 }
 .detail-heading {
+  position: relative;
   /* Match the lower plate's visible insets, including the outer 4px frame.
      Above the heading the frame adds space; below metadata it adds space. */
   padding: calc(var(--film-plate-top) - var(--card-frame)) 4px
@@ -91,6 +92,7 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
   margin-bottom: 0;
 }
 .detail-meta {
+  position: relative; display: block;
   --metadata-line: 16px;
   padding: var(--film-plate-top) 4px var(--film-plate-bottom); margin-top: 0;
   font-size: var(--text-film-subtitle); color: var(--film-meta-tone);
@@ -100,6 +102,19 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
 }
 .detail .creation span { color: inherit; }
 .creation { white-space: normal; flex: 1 1 230px; }
+.type-reference { visibility: hidden; pointer-events: none; }
+.reference-title { display: block; font-size: 10px; line-height: 1.4; font-weight: 400; overflow-wrap: anywhere; }
+.reference-subtitle { display: block; max-width: 72ch; margin-top: 1px; font-size: 8px; line-height: 1.4; }
+.detail-heading .reference-title { font-weight: 700; overflow-wrap: normal; }
+.metadata-reference, .metadata-text { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: start; gap: 8px 24px; direction: ltr; }
+.reference-creation { flex: 1 1 230px; white-space: normal; text-align: left; font-size: 8px; line-height: var(--metadata-line); }
+.reference-vimeo { display: block; flex: 0 1 auto; min-height: var(--metadata-line); margin-left: auto; text-align: right; font-size: 8px; line-height: var(--metadata-line); }
+.type-fit { position: absolute; inset: 2px 4px; display: flex; flex-direction: column; justify-content: center; visibility: hidden; }
+.type-fit.is-fitted { visibility: visible; }
+.type-content { flex: none; min-width: 0; width: 100%; --text-film-caption: calc(15px * var(--type-scale, 1)); --text-film-heading: var(--text-film-caption); --text-film-subtitle: calc(12px * var(--type-scale, 1)); }
+.type-content .creation-date { white-space: nowrap; }
+.detail-heading > .type-fit { top: calc(-1 * var(--card-frame)); bottom: 0; }
+.detail-meta > .type-fit { top: 0; bottom: calc(-1 * var(--card-frame)); }
 .locale-note { padding: 10px 12px; background: var(--card-black); }
 footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0; }
 @media (min-width: 951px) {
