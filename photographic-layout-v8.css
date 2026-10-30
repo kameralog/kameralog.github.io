@@ -31,8 +31,8 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
   left: 0; right: 0; bottom: 0; z-index: 1;
   /* The opening transition is unique; only the plain photo repeats afterwards. */
   background:
-    url("./assets/background-transition-v22.jpg") var(--photo-left) top / var(--photo-width) auto no-repeat,
-    url("./assets/background-mixed-v18.jpg") var(--photo-left) top / var(--photo-width) auto repeat;
+    url("./assets/background-transition-v25.jpg") var(--photo-left) top / var(--photo-width) auto no-repeat,
+    url("./assets/background-mixed-v25.jpg") var(--photo-left) top / var(--photo-width) auto repeat;
 }
 .page {
   width: calc(var(--scene-width) * .7972222222);
