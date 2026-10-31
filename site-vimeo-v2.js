@@ -12,23 +12,6 @@ const languageNames={
 };
 const backLabels={ru:"Все работы",en:"All works",zh:"全部作品",es:"Todas las obras",ar:"جميع الأعمال",fa:"همهٔ آثار",he:"כל העבודות",fr:"Toutes les œuvres",pt:"Todos os trabalhos",de:"Alle Arbeiten",da:"Alle værker",sv:"Alla verk",nb:"Alle verk",fi:"Kaikki teokset",is:"Öll verk",et:"Kõik teosed",lv:"Visi darbi",lt:"Visi darbai",tr:"Tüm eserler",hi:"सभी कृतियाँ",bn:"সব কাজ",ja:"すべての作品",be:"Усе працы",uk:"Усі роботи",kk:"Барлық жұмыстар",ky:"Бардык иштер",uz:"Barcha ishlar",tg:"Ҳамаи корҳо",tk:"Ähli işler",az:"Bütün işlər",hy:"Բոլոր աշխատանքները",ro:"Toate lucrările",ka:"ყველა ნამუშევარი",vep:"Все работы"};
 const artistNames={ru:"Голубев-Линецкий",be:"Голубеў-Лінецкі",uk:"Голубєв-Лінецький",vep:"Голубев-Линецкий"};
-const headerIdentities={
- ru:"камералог /// голубев-линецкий",
- be:"камералог /// голубеў-лінецкі",
- uk:"камералог /// голубєв-лінецький",
- kk:"камералог /// голубев-линецкий",
- ky:"камералог /// голубев-линецкий",
- tg:"камералог /// голубев-линецкий",
- ar:"كاميرالوغ /// غولوبيف-لينيتسكي",
- fa:"کامرالوگ /// گولوبف-لینتسکی",
- he:"קמרלוג /// גולובב-לינצקי",
- zh:"卡梅拉洛格 /// 戈卢别夫-利涅茨基",
- ja:"カメラログ /// ゴルベフ＝リネツキー",
- hi:"कैमेरालॉग /// गोलुबेव-लिनेत्स्की",
- bn:"ক্যামেরালগ /// গোলুবেভ-লিনেৎস্কি",
- hy:"կամերալոգ /// գոլուբև-լինեցկի",
- ka:"კამერალოგ /// გოლუბევ-ლინეცკი"
-};
 const works=document.querySelector("#works"),panel=document.querySelector("#language-panel"),opener=document.querySelector(".language-open"),search=document.querySelector("#language-search"),list=document.querySelector("#language-list");
 const pageSlug=document.body.dataset.film;
 let currentLanguage=new URLSearchParams(location.search).get("lang")||"ru";
@@ -73,9 +56,6 @@ function scheduleTypographyFit(){
 function render(){
  const code=currentLanguage,rtl=["ar","he","fa"].includes(code);
  document.documentElement.lang=code;document.documentElement.dir=rtl?"rtl":"ltr";
- const signature=document.querySelector("#header-signature");
- signature.textContent=headerIdentities[code]||"kameralog /// golubev-linetsky";
- signature.lang=code;
  document.querySelector("#artist").textContent=artistNames[code]||"Golubev-Linetsky";
  const siteName=code==="ru"?"Камералог":"Kameralog";
  document.querySelector(".wordmark").textContent=siteName;

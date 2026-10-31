@@ -58,17 +58,8 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
   top: var(--header-caption-y);
   right: calc(var(--scene-left) + var(--scene-width) * .1166666667);
   direction: ltr;
-  font-size: clamp(6px, calc(var(--photo-width) * .015), 9px);
+  font-size: clamp(5px, calc(var(--photo-width) * .0125), 7.5px);
   color: var(--color-muted);
-}
-.header-signature {
-  position: absolute; z-index: 3; top: var(--header-caption-y);
-  left: calc(var(--scene-left) + var(--scene-width) * .1013888889);
-  width: max-content; max-width: calc(100vw - 130px);
-  font-size: clamp(6px, calc(var(--photo-width) * .015), 9px);
-  font-weight: 400; line-height: 1.4;
-  color: var(--color-muted); text-align: left; white-space: nowrap;
-  unicode-bidi: plaintext; pointer-events: none;
 }
 .language-open {
   position: relative;
@@ -124,7 +115,7 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
 .reference-vimeo { display: block; flex: 0 1 auto; min-height: var(--metadata-line); margin-left: auto; text-align: right; font-size: 8px; line-height: var(--metadata-line); }
 .type-fit { position: absolute; inset: 2px 4px; display: flex; flex-direction: column; justify-content: center; visibility: hidden; }
 .type-fit.is-fitted { visibility: visible; }
-.type-content { flex: none; min-width: 0; width: 100%; --text-film-caption: calc(15px * var(--type-scale, 1)); --text-film-heading: var(--text-film-caption); --text-film-subtitle: calc(12px * var(--type-scale, 1)); }
+.type-content { flex: none; min-width: 0; width: 100%; --text-film-caption: calc(12.5px * var(--type-scale, 1)); --text-film-heading: var(--text-film-caption); --text-film-subtitle: calc(10px * var(--type-scale, 1)); }
 .type-content .creation-date { white-space: nowrap; }
 .detail-heading > .type-fit { top: calc(-1 * var(--card-frame)); bottom: 0; }
 .detail-meta > .type-fit { top: 0; bottom: calc(-1 * var(--card-frame)); }
@@ -164,7 +155,6 @@ footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0
   }
   .gallery { column-gap: 28px; row-gap: 28px; }
   .language-menu { right: 28px; }
-  .header-signature { left: 28px; }
 }
 @media (max-width: 540px) {
   :root {
@@ -179,6 +169,5 @@ footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0
   .gallery { column-gap: 20px; row-gap: 20px; }
   .card-caption { padding: 12px 4px 6px; }
   .language-menu { right: 20px; }
-  .header-signature { left: 20px; }
   #language-panel { width: 255px; }
 }
