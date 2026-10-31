@@ -46,7 +46,7 @@ Object.entries(newFilmTranslations).forEach(([code,copy])=>{
  const [pskov,moscow,petersburg]=translatedCities[code];
  const [january,august,november]=localizedGregorianMonths[code];
  const dates=["2017-2020",`${august}-${january} 2017`,`${november} 2023`,"2024","2017-2024","2018-2020",`${august} 2017`,"2019"];
- const cities=[`${pskov}-${moscow}`,`${petersburg}, ${pskov}, ${moscow}`,moscow,moscow,`${moscow}-${pskov}-${moscow}`,`${moscow}-${pskov}-${moscow}`,moscow,moscow];
+ const cities=[`${pskov}-${moscow}`,`${petersburg}-${pskov}-${moscow}`,moscow,moscow,`${moscow}-${pskov}-${moscow}`,`${moscow}-${pskov}-${moscow}`,moscow,moscow];
  films.forEach((film,index)=>{
   film[code]=copy[index];film["date"+suffix]=dates[index];film["city"+suffix]=cities[index];
   if(index===0)film["subtitle"+suffix]=copy[8];

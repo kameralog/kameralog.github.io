@@ -70,7 +70,7 @@ Object.entries(additionalLocales).forEach(([code,locale])=>{
  const suffix=code[0].toUpperCase()+code.slice(1);
  const [pskov,moscow,petersburg]=locale.cities;
  const dates=["2017-2020",locale.months[0],locale.months[1],"2024","2017-2024","2018-2020",locale.months[2],"2019"];
- const cities=[`${pskov}-${moscow}`,`${petersburg}, ${pskov}, ${moscow}`,moscow,moscow,`${moscow}-${pskov}-${moscow}`,`${moscow}-${pskov}-${moscow}`,moscow,moscow];
+ const cities=[`${pskov}-${moscow}`,`${petersburg}-${pskov}-${moscow}`,moscow,moscow,`${moscow}-${pskov}-${moscow}`,`${moscow}-${pskov}-${moscow}`,moscow,moscow];
  films.forEach((film,index)=>{
   film[code]=locale.titles[index];film["date"+suffix]=dates[index];film["city"+suffix]=cities[index];
   if(index===0)film["subtitle"+suffix]=locale.subtitles[0];

@@ -6,6 +6,7 @@
   --scene-height: calc(var(--photo-width) * .5625);
   --background-blend: calc(var(--photo-width) * .0444444444);
   --wordmark-baseline: calc(var(--photo-width) * .0685);
+  --header-caption-y: calc(var(--photo-width) * .0585);
   --card-black: #000;
   --card-frame: 4px;
   --gallery-gap: calc(var(--scene-width) * .0194444444);
@@ -54,19 +55,31 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
 .identity:focus-visible { outline: 1px solid #e5e5e5; outline-offset: 5px; }
 .language-menu {
   position: absolute; z-index: 5;
-  top: 0;
+  top: var(--header-caption-y);
   right: calc(var(--scene-left) + var(--scene-width) * .1166666667);
   direction: ltr;
+  font-size: clamp(6px, calc(var(--photo-width) * .015), 9px);
+  color: var(--color-muted);
+}
+.header-signature {
+  position: absolute; z-index: 3; top: var(--header-caption-y);
+  left: calc(var(--scene-left) + var(--scene-width) * .1013888889);
+  width: max-content; max-width: calc(100vw - 130px);
+  font-size: clamp(6px, calc(var(--photo-width) * .015), 9px);
+  font-weight: 400; line-height: 1.4;
+  color: var(--color-muted); text-align: left; white-space: nowrap;
+  unicode-bidi: plaintext; pointer-events: none;
 }
 .language-open {
+  position: relative;
   margin: 0; padding-inline: 2px; padding-bottom: 0;
-  font-size: clamp(6px, calc(var(--photo-width) * .015), 9px);
+  font-size: inherit;
   min-width: 44px;
-  height: max(44px, calc(var(--wordmark-baseline) + 12px));
+  min-height: 0; height: 16px; line-height: 1.4;
   align-items: flex-start;
-  /* Noto Sans line-box metrics place the glyph bottoms on the photo baseline. */
-  padding-top: calc(var(--wordmark-baseline) - 1.4em);
+  padding-top: 0;
 }
+.language-open::before { content: ""; position: absolute; inset: -28px 0 0; }
 #language-panel, [dir=rtl] #language-panel { top: calc(100% + 8px); right: 0; left: auto; }
 .gallery {
   direction: ltr; align-items: start;
@@ -118,9 +131,6 @@ body { position: relative; isolation: isolate; min-height: 100vh; min-height: 10
 .locale-note { padding: 10px 12px; background: var(--card-black); }
 footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0; }
 @media (min-width: 951px) {
-  .language-open {
-    height: min(calc(var(--wordmark-baseline) + 12px), var(--band-top));
-  }
   .site-header, body[data-film] .site-header {
     height: var(--band-top);
   }
@@ -154,6 +164,7 @@ footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0
   }
   .gallery { column-gap: 28px; row-gap: 28px; }
   .language-menu { right: 28px; }
+  .header-signature { left: 28px; }
 }
 @media (max-width: 540px) {
   :root {
@@ -168,5 +179,6 @@ footer, body[data-film] footer { display: none; border: 0; margin: 0; padding: 0
   .gallery { column-gap: 20px; row-gap: 20px; }
   .card-caption { padding: 12px 4px 6px; }
   .language-menu { right: 20px; }
+  .header-signature { left: 20px; }
   #language-panel { width: 255px; }
 }
