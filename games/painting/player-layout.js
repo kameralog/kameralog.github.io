@@ -30,7 +30,7 @@ if(page){
 }
 const authHost=await waitFor(()=>document.getElementById('painting-account'));
 const authUI=authHost.shadowRoot;
-const hide=document.createElement('style');hide.textContent='#open{display:none!important}';authUI.append(hide);
+const hide=document.createElement('style');hide.textContent='#open{display:none!important}dialog{color-scheme:dark;background:#1d1d1b!important;color:#eeeae2!important;border:1px solid #373732!important;border-radius:18px!important;font:16px/1.6 system-ui!important}button,input{background:#151515!important;color:#eeeae2!important;border:1px solid #373732!important;border-radius:10px!important}button:hover{border-color:#d8a7a0!important}p,small{color:#b7b3aa!important}button:focus-visible,input:focus-visible{outline:2px solid #d8bd83;outline-offset:3px}';authUI.append(hide);
 const choices=document.createElement('div');choices.className='row';
 const enter=document.createElement('button'),register=document.createElement('button');enter.type=register.type='button';enter.textContent='Войти';register.textContent='Зарегистрироваться';choices.append(enter,register);
 authUI.querySelector('#guest').prepend(choices);
@@ -44,3 +44,4 @@ try{
  const app=await waitFor(()=>App.getApps().find(a=>a.name==='painting-player'));
  A.onAuthStateChanged(A.getAuth(app),u=>{const wasGuest=!currentUser;currentUser=u;accountButton.textContent=u?(page?'Аккаунт / выход':'Мой кабинет'):'Логин';if(u&&wasGuest&&authUI.querySelector('dialog').open)authUI.querySelector('dialog').close();});
 }catch{accountButton.title='Сервис входа временно недоступен';}
+if(page)import('./player-notes.js').catch(()=>{const p=document.createElement('p');p.textContent='Не удалось загрузить оформление и заметки. Обновите страницу.';document.getElementById('cabinet-content').append(p);});
