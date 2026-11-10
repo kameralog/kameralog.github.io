@@ -4,24 +4,18 @@ on:
   push:
     branches: [main]
     paths:
-      - 'games/painting/artists-batch-*.js'
-      - 'games/painting/build-artists.mjs'
-      - 'games/painting/update-guide.mjs'
-      - 'games/painting/order-sections.mjs'
-      - 'games/painting/search-artists.mjs'
-      - 'games/painting/install-player-auth.mjs'
-      - 'games/painting/player-auth.js'
-      - 'games/painting/player-cabinet.js'
-      - 'games/painting/player-layout.js'
+      - 'games/painting/**'
       - '.github/workflows/build-artists.yml'
 permissions:
   contents: write
+  pages: write
 concurrency:
   group: painting-build
   cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
         with:
@@ -30,12 +24,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Build latest main and publish with bounded retries
+      - name: Build latest main and commit with bounded retries
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          published=false
           for attempt in 1 2 3 4 5; do
             git fetch origin main
             git reset --hard origin/main
@@ -44,6 +39,8 @@ jobs:
               node update-guide.mjs
               node order-sections.mjs
               node search-artists.mjs
+              node install-registry-visibility.mjs --test
+              node install-registry-visibility.mjs
               node build-artists.mjs
               node --input-type=module --check < player-auth.js
               node --input-type=module --check < player-cabinet.js
@@ -53,15 +50,71 @@ jobs:
             )
             git add games/painting/artists.js games/painting/index.html games/painting/cabinet.html
             if git diff --cached --quiet; then
-              echo "Latest main already contains the generated result."
-              exit 0
+              published=true
+              break
             fi
-            git commit -m "Build artists and update guide sections"
+            git commit -m "Build artists and repair registry visibility"
             if git push origin HEAD:main; then
-              exit 0
+              published=true
+              break
             fi
-            echo "Push failed on attempt ${attempt}; will rebuild latest main."
             sleep "$((attempt * 3))"
           done
-          echo "Unable to publish after five attempts. No force-push performed." >&2
+          test "$published" = true
+          echo "EXPECTED_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      - name: Recover known blocked deployment and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          endpoint="repos/$GITHUB_REPOSITORY/pages"
+          gh api "$endpoint" > "$RUNNER_TEMP/pages.json"
+          mode=$(jq -r '.build_type // "legacy"' "$RUNNER_TEMP/pages.json")
+          if [ "$mode" != legacy ]; then
+            echo "::error::Pages uses workflow publishing. No settings changed; a custom deployment workflow is required."
+            exit 1
+          fi
+          test "$(jq -r '.source.branch' "$RUNNER_TEMP/pages.json")" = main
+          test "$(jq -r '.source.path' "$RUNNER_TEMP/pages.json")" = /
+          known="$endpoint/deployments/3b73a78ac2efb8d60e4a83243447bb1cc79a39fc"
+          if gh api "$known" > "$RUNNER_TEMP/known-deployment.json" 2> "$RUNNER_TEMP/pages-error"; then
+            status=$(jq -r '.status' "$RUNNER_TEMP/known-deployment.json")
+            case "$status" in
+              succeed|success|failed|errored|canceled|cancelled) ;;
+              queued|deployment_queued|deployment_in_progress|syncing_files|finished_file_sync|updating_pages) gh api --method POST "$known/cancel" ;;
+              *) echo "Unknown deployment status: $status; nothing canceled." >&2; exit 1 ;;
+            esac
+          elif ! grep -q 'HTTP 404' "$RUNNER_TEMP/pages-error"; then
+            cat "$RUNNER_TEMP/pages-error" >&2
+            exit 1
+          fi
+          gh api --method POST "$endpoint/builds"
+      - name: Verify published catalogue and visibility patch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          base=$(jq -r '.html_url' "$RUNNER_TEMP/pages.json")
+          case "$base" in https://*) ;; *) echo "Invalid Pages URL" >&2; exit 1;; esac
+          for attempt in $(seq 1 90); do
+            gh api "repos/$GITHUB_REPOSITORY/pages/builds/latest" > "$RUNNER_TEMP/pages-build.json"
+            status=$(jq -r '.status' "$RUNNER_TEMP/pages-build.json")
+            commit=$(jq -r '.commit' "$RUNNER_TEMP/pages-build.json")
+            if [ "$status" = errored ] && [ "$commit" = "$EXPECTED_COMMIT" ]; then
+              jq '.error' "$RUNNER_TEMP/pages-build.json" >&2
+              exit 1
+            fi
+            if [ "$status" = built ] && [ "$commit" = "$EXPECTED_COMMIT" ] &&
+              curl --fail --silent --show-error --location --max-time 20 "${base%/}/games/painting/artists.js?v=$EXPECTED_COMMIT" -o "$RUNNER_TEMP/live-artists.js" &&
+              cmp -s games/painting/artists.js "$RUNNER_TEMP/live-artists.js" &&
+              curl --fail --silent --show-error --location --max-time 20 "${base%/}/games/painting/?v=$EXPECTED_COMMIT" -o "$RUNNER_TEMP/live-index.html" &&
+              grep -q 'registry-visibility:start' "$RUNNER_TEMP/live-index.html"; then
+              echo "Published catalogue matches $EXPECTED_COMMIT; registry visibility patch is present."
+              exit 0
+            fi
+            sleep 15
+          done
+          echo "::error::Pages publication not verified within polling window. No success claimed."
           exit 1
