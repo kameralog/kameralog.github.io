@@ -19,9 +19,6 @@ if(page){
 }
 const authHost=await waitFor(()=>document.getElementById('painting-account')),authUI=authHost.shadowRoot;
 const authStyle=document.createElement('style');authStyle.textContent='#open{display:none!important}dialog{color-scheme:dark;background:#10130e!important;color:#f2efde!important;border:1px solid #667451!important;border-radius:12px!important;font:16px/1.65 system-ui!important}p,small{color:#abb29e!important}'+controls;authUI.append(authStyle);
-const choices=document.createElement('div');choices.className='row';const enter=document.createElement('button'),register=document.createElement('button');enter.type=register.type='button';enter.textContent='Войти';register.textContent='Зарегистрироваться';choices.append(enter,register);authUI.querySelector('#guest').prepend(choices);
-function choose(create){const active=authUI.getElementById('submit').textContent==='Зарегистрироваться';if(active!==create)authUI.getElementById('mode').click();authUI.getElementById('email').focus();}
-enter.onclick=()=>choose(false);register.onclick=()=>choose(true);
 let currentUser=null;accountButton.textContent='Логин';accountButton.onclick=()=>{if(currentUser&&!page)location.href=new URL('./cabinet.html',location.href).href;else authUI.getElementById('open').click();};
 try{
  const [App,A]=await Promise.all([import('https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js'),import('https://www.gstatic.com/firebasejs/12.0.0/firebase-auth.js')]);
