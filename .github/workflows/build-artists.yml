@@ -6,6 +6,7 @@ on:
       - 'games/painting/artists-batch-*.js'
       - 'games/painting/build-artists.mjs'
       - 'games/painting/update-guide.mjs'
+      - 'games/painting/order-sections.mjs'
       - '.github/workflows/build-artists.yml'
 permissions:
   contents: write
@@ -23,6 +24,9 @@ jobs:
       - name: Update guide sections from existing artist cards
         working-directory: games/painting
         run: node update-guide.mjs
+      - name: Order guide and artist sections chronologically
+        working-directory: games/painting
+        run: node order-sections.mjs
       - name: Build artists.js and switch loader
         working-directory: games/painting
         run: node build-artists.mjs
