@@ -19,7 +19,12 @@ const entries=Object.entries(data);
 const sortable=([,c])=>c.group==='europe'||c.group==='modern_contexts';
 const ordered=entries.filter(sortable).sort((a,b)=>(years[a[0]]??9999)-(years[b[0]]??9999));
 let index=0;
-const next=Object.fromEntries(entries.map(entry=>sortable(entry)?ordered[index++]:entry));
+const sorted=entries.map(entry=>sortable(entry)?ordered[index++]:entry);
+const italy=sorted.filter(([,c])=>c.group==='italian_century');
+const rest=sorted.filter(([,c])=>c.group!=='italian_century');
+const gothic=rest.findIndex(([id])=>id==='gothic');
+if(!italy.length||gothic<0||rest[gothic+1]?.[0]!=='northern')throw Error('Expected Italian centuries and adjacent Gothic/Northern sections');
+const next=Object.fromEntries([...rest.slice(0,gothic+1),...italy,...rest.slice(gothic+1)]);
 for(const [,c]of Object.entries(next))if(c.group==='modern_contexts')c.group='europe';
 html=html.slice(0,start)+JSON.stringify(next)+html.slice(end);
 const sections=Object.entries(next).map(([id,c])=>({id,title:c.title,group:c.group,names:c.meta.names,links:c.meta.links||{}}));
@@ -28,15 +33,15 @@ const CHRONO_SECTIONS=${JSON.stringify(sections)};
 function chronologicalArtists(){
   const normalize=s=>String(s).normalize('NFKD').replace(/\\p{M}/gu,'').toLowerCase().replace(/[^\\p{L}\\p{N}]/gu,'');
   const artists=Object.entries(ARTISTS),used=new Set();
-  const groups=new Map();
+  const groups=[];
   for(const section of CHRONO_SECTIONS){
     const names=new Set(section.names.map(normalize));
     const ids=new Set(Object.values(section.links));
     const selected=artists.filter(([id,a])=>ids.has(id)||[a.name,a.latin,...(a.aliases||[])].some(n=>n&&names.has(normalize(n))));
     for(const [id]of selected)used.add(id);
-    if(selected.length){if(!groups.has(section.group))groups.set(section.group,[]);groups.get(section.group).push({section,selected});}
+    if(selected.length){if(groups.at(-1)?.[0]!==section.group)groups.push([section.group,[]]);groups.at(-1)[1].push({section,selected});}
   }
-  const labels={europe:'Эпохи, стили и направления',italian_century:'Италия: столетия',china:'Китай',japan:'Япония',japan_school:'Японские традиции',korea:'Корея',india:'Индия',mesoamerica:'Мезоамерика',egypt:'Египет'};
+  const labels={europe:'Эпохи, стили и направления',italian_century:'Италия: столетия, а не единый стиль',china:'Китай',japan:'Япония',japan_school:'Японские традиции',korea:'Корея',india:'Индия',mesoamerica:'Мезоамерика',egypt:'Египет'};
   let result='<p class="ar-muted">Направления расположены по времени возникновения; их периоды могут перекрываться. Один художник может встречаться в нескольких разделах.</p>';
   for(const [group,items]of groups)result+='<section><h2>'+html(labels[group]||group)+'</h2>'+items.map(({section,selected})=>'<section><h3>'+html(section.title)+'</h3><div class="ar-grid">'+selected.map(([id,a])=>artcard(id,a)).join('')+'</div></section>').join('')+'</section>';
   const other=artists.filter(([id])=>!used.has(id));
@@ -55,6 +60,9 @@ else{
   if(html.split(grid).length!==2)throw Error('Artist grid changed');
   html=html.replace(grid,()=> '${chronologicalArtists()}');
 }
+const guideOld="const grouped={};for(const [k,c]of items)(grouped[c.group]??=[]).push([k,c]);document.getElementById('gp-list').innerHTML=Object.entries(grouped)";
+const guideNew="const grouped=[];for(const [k,c]of items){if(grouped.at(-1)?.[0]!==c.group)grouped.push([c.group,[]]);grouped.at(-1)[1].push([k,c])}document.getElementById('gp-list').innerHTML=grouped";
+if(html.includes(guideOld)){if(html.split(guideOld).length!==2)throw Error('Guide grouping anchor repeated');html=html.replace(guideOld,()=>guideNew)}else if(!html.includes(guideNew))throw Error('Guide grouping renderer changed');
 for(const match of html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi))if(match[1].trim())new vm.Script(match[1]);
 fs.writeFileSync('index.html',html);
-console.log('Chronological sections shared by guide and artists; Italian centuries and other regional groups preserved.');
+console.log('Italian centuries placed after Late Gothic and before Northern Renaissance in guide and artist lists.');
