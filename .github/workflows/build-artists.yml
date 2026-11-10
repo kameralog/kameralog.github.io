@@ -8,6 +8,8 @@ on:
       - 'games/painting/update-guide.mjs'
       - 'games/painting/order-sections.mjs'
       - 'games/painting/search-artists.mjs'
+      - 'games/painting/install-player-auth.mjs'
+      - 'games/painting/player-auth.js'
       - '.github/workflows/build-artists.yml'
 permissions:
   contents: write
@@ -34,6 +36,12 @@ jobs:
       - name: Build artists.js and switch loader
         working-directory: games/painting
         run: node build-artists.mjs
+      - name: Check and install player authentication module
+        working-directory: games/painting
+        run: |
+          node --input-type=module --check < player-auth.js
+          node install-player-auth.mjs --test
+          node install-player-auth.mjs
       - name: Commit result
         run: |
           git config user.name "github-actions[bot]"
