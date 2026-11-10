@@ -79,17 +79,42 @@ jobs:
           test "$(jq -r '.source.path' "$RUNNER_TEMP/pages.json")" = /
           known="$endpoint/deployments/3b73a78ac2efb8d60e4a83243447bb1cc79a39fc"
           if gh api "$known" > "$RUNNER_TEMP/known-deployment.json" 2> "$RUNNER_TEMP/pages-error"; then
-            status=$(jq -r '.status' "$RUNNER_TEMP/known-deployment.json")
+            status=$(jq -r '.status // empty' "$RUNNER_TEMP/known-deployment.json")
             case "$status" in
               succeed|success|failed|errored|canceled|cancelled) ;;
-              queued|deployment_queued|deployment_in_progress|syncing_files|finished_file_sync|updating_pages) gh api --method POST "$known/cancel" ;;
-              *) echo "Unknown deployment status: $status; nothing canceled." >&2; exit 1 ;;
+              queued|deployment_queued|deployment_in_progress|syncing_files|finished_file_sync|updating_pages)
+                if ! gh api --method POST "$known/cancel" > "$RUNNER_TEMP/cancel-result" 2> "$RUNNER_TEMP/cancel-error"; then
+                  if grep -Eq 'HTTP (404|409)' "$RUNNER_TEMP/cancel-error"; then
+                    echo "::warning::Known deployment changed state during cancellation; requesting a new build."
+                  else
+                    cat "$RUNNER_TEMP/cancel-error" >&2
+                    exit 1
+                  fi
+                fi
+                ;;
+              "") echo "::warning::Known deployment returned no status; no cancellation attempted. Requesting a new build." ;;
+              *) echo "::warning::Unrecognized deployment status '$status'; no cancellation attempted. Requesting a new build." ;;
             esac
           elif ! grep -q 'HTTP 404' "$RUNNER_TEMP/pages-error"; then
             cat "$RUNNER_TEMP/pages-error" >&2
             exit 1
           fi
-          gh api --method POST "$endpoint/builds"
+          requested=false
+          for attempt in 1 2 3 4 5; do
+            if gh api --method POST "$endpoint/builds" > "$RUNNER_TEMP/build-request.json" 2> "$RUNNER_TEMP/build-request-error"; then
+              requested=true
+              break
+            fi
+            cat "$RUNNER_TEMP/build-request-error" >&2
+            if ! grep -Eq 'HTTP (409|429|500|502|503|504)' "$RUNNER_TEMP/build-request-error"; then
+              exit 1
+            fi
+            sleep "$((attempt * 5))"
+          done
+          if [ "$requested" != true ]; then
+            echo "::error::Pages did not accept the new build request after five attempts."
+            exit 1
+          fi
       - name: Verify published catalogue and visibility patch
         env:
           GH_TOKEN: ${{ github.token }}
