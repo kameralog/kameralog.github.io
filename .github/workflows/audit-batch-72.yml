@@ -1,0 +1,71 @@
+name: Audit batch 72 candidates
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/audit-batch-72.yml']
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Inspect base registry and every source batch
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          const dir='games/painting';
+          const html=fs.readFileSync(`${dir}/index.html`,'utf8');
+          function extract(name){
+            const re=new RegExp(String.raw`\b(?:const|let|var)\s+`+name+String.raw`\s*=\s*([\[{])`);
+            const m=re.exec(html);
+            if(!m)throw Error(`Declaration not found: ${name}`);
+            const start=m.index+m[0].length-1;
+            let depth=0,quote='',escape=false,line=false,block=false;
+            for(let i=start;i<html.length;i++){
+              const c=html[i],next=html[i+1];
+              if(line){if(c==='\n')line=false;continue;}
+              if(block){if(c==='*'&&next==='/'){block=false;i++;}continue;}
+              if(quote){if(escape)escape=false;else if(c.charCodeAt(0)===92)escape=true;else if(c===quote)quote='';continue;}
+              if(c==='/'&&next==='/'){line=true;i++;continue;}
+              if(c==='/'&&next==='*'){block=true;i++;continue;}
+              if(c==='"'||c==="'"||c==='`'){quote=c;continue;}
+              if(c==='['||c==='{')depth++;
+              if((c===']'||c==='}')&&--depth===0)return vm.runInNewContext('('+html.slice(start,i+1)+')',{}, {timeout:5000});
+            }
+            throw Error(`Unclosed declaration: ${name}`);
+          }
+          const CARDS=extract('CARDS'),base=extract('ARTISTS');
+          const records=[];
+          function collect(batch,file){
+            if(!batch||typeof batch!=='object')throw Error(`Invalid registry: ${file}`);
+            for(const [id,a]of Object.entries(batch))records.push({file,id,name:a.name,latin:a.latin,aliases:a.aliases||[]});
+          }
+          collect(base,'index.html:ARTISTS');
+          const files=fs.readdirSync(dir).filter(f=>/^artists-batch-\d+\.js$/.test(f)).sort((a,b)=>Number(a.match(/\d+/)[0])-Number(b.match(/\d+/)[0]));
+          const errors=[];
+          for(const file of files){
+            let calls=0;
+            const s={CARDS,console,document:{getElementById:()=>null},MutationObserver:class{observe(){}}};
+            s.window=s;s.registerPaintingArtists=b=>{calls++;collect(b,file);};
+            try{vm.runInNewContext(fs.readFileSync(`${dir}/${file}`,'utf8'),s,{filename:file,timeout:5000});if(!calls)throw Error('No registration');}
+            catch(e){errors.push(`${file}: ${e.message}`);}
+          }
+          const norm=s=>String(s||'').normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replaceAll('ё','е').replace(/[^\p{L}\p{N}]/gu,'');
+          const candidates={Lingelbach:['lingelbach','лингельбах'],Hobbema:['hobbema','хоббем','гоббем'],Wouwerman:['wouwerman','вауверман','воуверман'],Mieris:['mieris','мирис'],Goyen:['goyen','гойен']};
+          const results=Object.fromEntries(Object.entries(candidates).map(([candidate,terms])=>[candidate,records.filter(r=>[r.id,r.name,r.latin,...r.aliases].some(x=>terms.some(t=>norm(x).includes(norm(t)))))]));
+          const report={baseIncluded:true,sourceBatchFiles:files.length,registrations:records.length,errors,results};
+          const text=JSON.stringify(report,null,2);
+          console.log(text);
+          fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY,'## Batch 72 candidate audit\n\nSurname matches are candidates for manual identity review, not automatic duplicate decisions. Any execution error makes this audit incomplete.\n\n```json\n'+text+'\n```\n');
+          if(errors.length)process.exitCode=1;
+          NODE
