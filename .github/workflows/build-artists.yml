@@ -5,8 +5,13 @@ on:
     paths:
       - 'games/painting/artists-batch-*.js'
       - 'games/painting/build-artists.mjs'
+      - 'games/painting/update-guide.mjs'
+      - '.github/workflows/build-artists.yml'
 permissions:
   contents: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +20,9 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Update guide sections from existing artist cards
+        working-directory: games/painting
+        run: node update-guide.mjs
       - name: Build artists.js and switch loader
         working-directory: games/painting
         run: node build-artists.mjs
@@ -23,5 +31,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add games/painting/artists.js games/painting/index.html
-          git diff --cached --quiet || git commit -m "Build artists.js from batches"
+          git diff --cached --quiet || git commit -m "Build artists and update guide sections"
           git push
