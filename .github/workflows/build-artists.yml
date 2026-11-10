@@ -7,6 +7,7 @@ on:
       - 'games/painting/build-artists.mjs'
       - 'games/painting/update-guide.mjs'
       - 'games/painting/order-sections.mjs'
+      - 'games/painting/search-artists.mjs'
       - '.github/workflows/build-artists.yml'
 permissions:
   contents: write
@@ -27,6 +28,9 @@ jobs:
       - name: Order guide and artist sections chronologically
         working-directory: games/painting
         run: node order-sections.mjs
+      - name: Add search to artist list
+        working-directory: games/painting
+        run: node search-artists.mjs
       - name: Build artists.js and switch loader
         working-directory: games/painting
         run: node build-artists.mjs
