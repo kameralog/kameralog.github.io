@@ -2,6 +2,7 @@ name: Build artists.js
 on:
   workflow_dispatch:
   push:
+    branches: [main]
     paths:
       - 'games/painting/artists-batch-*.js'
       - 'games/painting/build-artists.mjs'
@@ -21,31 +22,42 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Update guide sections from existing artist cards
-        working-directory: games/painting
-        run: node update-guide.mjs
-      - name: Order guide and artist sections chronologically
-        working-directory: games/painting
-        run: node order-sections.mjs
-      - name: Add search to artist list
-        working-directory: games/painting
-        run: node search-artists.mjs
-      - name: Build artists.js and switch loader
-        working-directory: games/painting
-        run: node build-artists.mjs
-      - name: Check and install player authentication module
-        working-directory: games/painting
+      - name: Build latest main and publish with bounded retries
+        shell: bash
         run: |
-          node --input-type=module --check < player-auth.js
-          node install-player-auth.mjs --test
-          node install-player-auth.mjs
-      - name: Commit result
-        run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add games/painting/artists.js games/painting/index.html
-          git diff --cached --quiet || git commit -m "Build artists and update guide sections"
-          git push
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            (
+              cd games/painting
+              node update-guide.mjs
+              node order-sections.mjs
+              node search-artists.mjs
+              node build-artists.mjs
+              node --input-type=module --check < player-auth.js
+              node install-player-auth.mjs --test
+              node install-player-auth.mjs
+            )
+            git add games/painting/artists.js games/painting/index.html
+            if git diff --cached --quiet; then
+              echo "Latest main already contains the generated result."
+              exit 0
+            fi
+            git commit -m "Build artists and update guide sections"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push failed on attempt ${attempt}; will rebuild latest main."
+            sleep "$((attempt * 3))"
+          done
+          echo "Unable to publish after five attempts. No force-push performed." >&2
+          exit 1
