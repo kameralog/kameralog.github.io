@@ -1,2 +1,60 @@
 <!doctype html>
-<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Статистика — Живопись</title><style>:root{color-scheme:dark;font:16px/1.6 system-ui;background:#131611;color:#f2efde}*{box-sizing:border-box}body{margin:0}main{max-width:1000px;margin:auto;padding:24px;overflow-wrap:anywhere}nav{display:flex;gap:16px;flex-wrap:wrap}a{color:#d2df98}button{font:inherit;color:inherit;background:#20271b;border:1px solid #667451;padding:10px 14px;border-radius:9px;cursor:pointer}button:disabled{opacity:.5}h1{font-size:clamp(36px,6vw,64px)}h2{font-size:19px}article{border-top:1px solid #48543c;padding:14px 0}.fine{color:#abb29e;font-size:14px}[hidden]{display:none!important}</style><script type="module" src="./player-auth.js"></script><script type="module" src="./player-stats.js"></script></head><body data-painting-statistics="page"><main><nav><a href="./">← В игру</a><a href="./cabinet.html">Мой кабинет</a><button id="stats-account">Аккаунт / вход</button></nav><h1>Статистика</h1><p class="fine">История новых завершённых раундов. Старый локальный прогресс и гостевые раунды автоматически не импортируются.</p><p id="stats-status" role="status" aria-live="polite">Подключаем статистику…</p><button id="stats-refresh" disabled>Обновить / повторить отправку</button><p id="stats-summary"></p><p id="stats-history-status" role="status"></p><div id="stats-list"></div><button id="stats-more" hidden>Показать ещё 50</button><p class="fine">Это личная статистика, не проверенный сервером соревновательный рейтинг. На общем устройстве выходите из аккаунта.</p></main></body></html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Статистика — Живопись</title>
+<style>
+:root{color-scheme:dark;font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#f2efde;background:#131611}*{box-sizing:border-box}html,body{min-height:100%}body{margin:0;min-height:100vh;min-height:100dvh}a{color:#d2df98}button,.cabinet-nav a{font:inherit;color:#f2efde;background:transparent;border:1px solid #58664b;border-radius:9px;padding:11px 16px;line-height:1.4;cursor:pointer}button:hover:not(:disabled),.cabinet-nav a:hover{border-color:#d2df98;background:#252d1f}button:disabled{opacity:.42;cursor:default}button:focus-visible,a:focus-visible{outline:3px solid #d2df98;outline-offset:3px}[hidden]{display:none!important}
+#games-home-bar{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:48px;padding:10px 22px;background:#10130e;border-bottom:1px solid #3e4736;font-size:14px}#games-home-bar a{color:#e2d5ba;text-decoration:none;white-space:nowrap}#games-home-bar span{color:#abb29e;font-size:12px}
+main{max-width:1180px;margin:auto;padding:0 24px 40px;overflow-wrap:anywhere}.cabinet-header{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;border-bottom:1px solid #3e4736;padding:22px 0}.brand{font-size:13px;letter-spacing:.15em}.cabinet-nav{display:flex;gap:7px;flex-wrap:wrap;justify-content:flex-end;min-width:0}.cabinet-nav a{text-decoration:none;display:inline-flex;align-items:center;justify-content:center}.cabinet-nav [aria-current="page"]{background:#2c3623;border-color:#8b9a66}.cabinet-intro{padding:35px 0 24px}h1{font-size:clamp(44px,7vw,82px);font-weight:500;letter-spacing:-.055em;line-height:1.05;margin:20px 0}.intro-text{max-width:760px;margin:0;color:#abb29e}
+.stats-toolbar{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;margin:0 0 22px}#stats-status{flex:1 1 320px;min-width:0;margin:0;color:#abb29e;font-size:14px}#stats-refresh{flex:0 1 auto}#stats-summary{padding:20px;border:1px solid #48543c;border-radius:10px;background:#20271b;margin:0 0 32px;line-height:1.8}#stats-summary:empty{display:none}.section-heading{font-size:24px;font-weight:500;line-height:1.3;margin:0 0 18px}#stats-history-status{color:#abb29e;font-size:14px;margin:0 0 18px}#stats-history-status:empty{display:none}#stats-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;color:#abb29e}#stats-list article{display:flex;flex-direction:column;gap:12px;min-width:0;background:#20271b;border:1px solid #48543c;border-radius:10px;padding:20px;overflow-wrap:anywhere}#stats-list article h2{font-size:19px;line-height:1.35;font-weight:500;color:#f2efde;margin:0}#stats-list article p{margin:0}#stats-more{margin-top:22px}footer{border-top:1px solid #3e4736;margin-top:42px;padding-top:20px;font-size:11px;color:#abb29e}footer p{margin:0 0 8px}
+@media(max-width:800px){main{padding:0 16px 30px}#stats-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){#games-home-bar{padding:9px 14px}#games-home-bar span{display:none}.cabinet-nav{justify-content:flex-start;width:100%}.stats-toolbar{align-items:stretch}#stats-refresh{width:100%}}
+@media(max-width:500px){.cabinet-header{gap:12px;padding:18px 0}.brand{font-size:11px}.cabinet-nav a,.cabinet-nav button{font-size:13px;padding:8px 10px}#stats-list{grid-template-columns:1fr}#stats-list article{padding:16px}.cabinet-intro{padding-top:24px}}
+</style>
+<script type="module" src="./player-auth.js"></script>
+<script type="module" src="./player-stats.js"></script>
+<script type="module">
+const account=document.getElementById('stats-account');
+document.addEventListener('painting:stats-owner',e=>{account.textContent=e.detail.uid?'Аккаунт / выход':'Логин'});
+for(let i=0;i<150;i++){
+ const root=document.getElementById('painting-account')?.shadowRoot;
+ if(root){const style=document.createElement('style');style.textContent='#open{display:none!important}dialog{color-scheme:dark;background:#10130e!important;color:#f2efde!important;border:1px solid #667451!important;border-radius:12px!important;font:16px/1.65 system-ui!important}p,small{color:#abb29e!important}button,input,select,textarea{font:inherit;color:#f2efde!important;background:transparent!important;border:1px solid #58664b!important;border-radius:9px!important;padding:11px 16px}button{cursor:pointer}button:hover:not(:disabled){border-color:#d2df98!important;background:#252d1f!important}button:disabled{opacity:.42}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #d2df98!important;outline-offset:3px}button[type="submit"]{background:#d2df98!important;color:#15200d!important;border-color:#d2df98!important}';root.append(style);break}
+ await new Promise(r=>setTimeout(r,200));
+}
+</script>
+</head>
+<body data-painting-statistics="page">
+<div id="games-home-bar"><a href="./">← В игру</a><span>Живопись: мой кабинет</span></div>
+<main>
+<header class="cabinet-header">
+<span class="brand">ЖИВОПИСЬ / МОЙ КАБИНЕТ</span>
+<nav class="cabinet-nav" aria-label="Навигация кабинета">
+<a href="./cabinet.html#artists">Мои художники</a>
+<a href="./cabinet.html#works">Избранные картины</a>
+<a href="./cabinet.html#notes">Заметки</a>
+<a href="./cabinet.html#catalog">Каталог</a>
+<a href="./statistics.html" aria-current="page">Статистика</a>
+<button id="stats-account" type="button">Логин</button>
+</nav>
+</header>
+<section class="cabinet-intro" aria-labelledby="stats-title">
+<h1 id="stats-title">Статистика</h1>
+<p class="intro-text">История завершённых раундов и результаты ваших игр.</p>
+</section>
+<section aria-label="Состояние синхронизации">
+<div class="stats-toolbar"><p id="stats-status" role="status" aria-live="polite">Подключаем статистику…</p><button id="stats-refresh" type="button" disabled>Обновить / повторить отправку</button></div>
+<p id="stats-summary"></p>
+</section>
+<section aria-labelledby="stats-history-title">
+<h2 id="stats-history-title" class="section-heading">История раундов</h2>
+<p id="stats-history-status" role="status"></p>
+<div id="stats-list"></div>
+<button id="stats-more" type="button" hidden>Показать ещё 50</button>
+</section>
+<noscript><p>Для загрузки статистики включите JavaScript.</p></noscript>
+<footer><p>Сохраняются новые раунды, начатые после входа в аккаунт. Старый локальный прогресс и гостевые раунды автоматически не импортируются.</p><p>Это личная статистика, не проверенный сервером соревновательный рейтинг. На общем устройстве выходите из аккаунта.</p></footer>
+</main>
+</body>
+</html>
