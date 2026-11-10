@@ -1,47 +1,50 @@
 const page=document.body.dataset.playerCabinet==='page';
 async function waitFor(fn){for(let i=0;i<150;i++){const value=fn();if(value)return value;await new Promise(r=>setTimeout(r,200));}throw Error('Interface not ready');}
-let accountButton;
+const controls=`button,input,select,textarea{font:inherit;color:#f2efde!important;background:transparent!important;border:1px solid #58664b!important;border-radius:9px!important;padding:11px 16px}button{cursor:pointer}button:hover:not(:disabled){border-color:#d2df98!important;background:#252d1f!important}button:disabled{opacity:.42}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #d2df98!important;outline-offset:3px}button.active,button[aria-current="page"]{background:#2c3623!important;border-color:#8b9a66!important}button[type="submit"]{background:#d2df98!important;color:#15200d!important;border-color:#d2df98!important}`;
+let accountButton,cabinet;
 if(page){
  accountButton=document.getElementById('account-button');
- const host=await waitFor(()=>document.getElementById('painting-cabinet'));
- const s=host.shadowRoot;
- const style=document.createElement('style');
- style.textContent=':host{position:static!important;display:block!important;font:inherit!important;color:inherit!important}dialog[open]{position:static!important;display:block!important;width:100%!important;max-width:none!important;max-height:none!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;overflow:visible!important;background:transparent!important;color:inherit!important}#open,#close,h2{display:none!important}#tools>.row{gap:10px}#list{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(280px,100%),1fr));gap:16px}article{background:#fff;border:1px solid #d5d8ca!important;border-radius:12px;padding:18px!important}#search{margin:16px 0}button{border-radius:10px}';
- s.append(style);document.getElementById('cabinet-content').append(host);
- s.getElementById('open').click();
- const d=s.querySelector('dialog');d.close();d.show();
- d.addEventListener('cancel',e=>e.preventDefault());
- const hashes={savedArtists:'artists',favoriteWorks:'works',catalog:'catalog'};
- const tabs=[...s.querySelectorAll('[data-tab]')];
- tabs.forEach(b=>b.addEventListener('click',()=>{const hash=hashes[b.dataset.tab];if(location.hash!=='#'+hash)location.hash=hash;}));
- function applyHash(){const b=tabs.find(b=>hashes[b.dataset.tab]===location.hash.slice(1));if(b)b.click();}
- window.addEventListener('hashchange',applyHash);applyHash();
+ cabinet=await waitFor(()=>document.getElementById('painting-cabinet'));
+ const s=cabinet.shadowRoot,d=s.querySelector('dialog');
+ const initial=document.createElement('style');initial.textContent=':host{position:static!important;display:block!important}dialog[open]{position:static!important;display:block!important;width:100%!important;max-width:none!important;max-height:none!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;overflow:visible!important;background:transparent!important;outline:none!important;box-shadow:none!important}dialog:focus,dialog:focus-visible{outline:none!important}#open,#close,#heading{display:none!important}';s.append(initial);
+ document.getElementById('cabinet-content').append(cabinet);
+ s.getElementById('open').click();d.close();d.show();d.addEventListener('cancel',e=>e.preventDefault());
  function fixLinks(){for(const a of s.querySelectorAll('a[href]')){const old=new URL(a.href);if(old.searchParams.has('artist')){const u=new URL('./',location.href);u.searchParams.set('artist',old.searchParams.get('artist'));if(a.href!==u.href)a.href=u.href;}}}
  new MutationObserver(fixLinks).observe(s,{childList:true,subtree:true});fixLinks();
 }else{
  const artistsButton=await waitFor(()=>[...document.querySelectorAll('button,a,[role="button"]')].find(el=>el.textContent.trim()==='Художники'&&el.getClientRects().length));
- accountButton=document.createElement('button');accountButton.type='button';accountButton.id='painting-account-nav';
- accountButton.className=artistsButton.className;accountButton.classList.remove('active','selected');accountButton.style.cssText=artistsButton.style.cssText;
- accountButton.style.minWidth='120px';accountButton.style.whiteSpace='nowrap';accountButton.textContent='Логин';
- artistsButton.after(accountButton);
- const row=artistsButton.parentElement;
- if(['flex','inline-flex'].includes(getComputedStyle(row).display)){row.style.justifyContent='flex-end';row.style.flexWrap='wrap';}
+ accountButton=document.createElement('button');accountButton.type='button';accountButton.id='painting-account-nav';accountButton.className=artistsButton.className;accountButton.classList.remove('active','selected');accountButton.style.cssText=artistsButton.style.cssText;accountButton.style.minWidth='120px';accountButton.style.whiteSpace='nowrap';accountButton.textContent='Логин';artistsButton.after(accountButton);
+ const row=artistsButton.parentElement;if(['flex','inline-flex'].includes(getComputedStyle(row).display)){row.style.justifyContent='flex-end';row.style.flexWrap='wrap';}
  document.getElementById('painting-cabinet')?.remove();
 }
-const authHost=await waitFor(()=>document.getElementById('painting-account'));
-const authUI=authHost.shadowRoot;
-const hide=document.createElement('style');hide.textContent='#open{display:none!important}dialog{color-scheme:dark;background:#1d1d1b!important;color:#eeeae2!important;border:1px solid #373732!important;border-radius:18px!important;font:16px/1.6 system-ui!important}button,input{background:#151515!important;color:#eeeae2!important;border:1px solid #373732!important;border-radius:10px!important}button:hover{border-color:#d8a7a0!important}p,small{color:#b7b3aa!important}button:focus-visible,input:focus-visible{outline:2px solid #d8bd83;outline-offset:3px}';authUI.append(hide);
-const choices=document.createElement('div');choices.className='row';
-const enter=document.createElement('button'),register=document.createElement('button');enter.type=register.type='button';enter.textContent='Войти';register.textContent='Зарегистрироваться';choices.append(enter,register);
-authUI.querySelector('#guest').prepend(choices);
+const authHost=await waitFor(()=>document.getElementById('painting-account')),authUI=authHost.shadowRoot;
+const authStyle=document.createElement('style');authStyle.textContent='#open{display:none!important}dialog{color-scheme:dark;background:#10130e!important;color:#f2efde!important;border:1px solid #667451!important;border-radius:12px!important;font:16px/1.65 system-ui!important}p,small{color:#abb29e!important}'+controls;authUI.append(authStyle);
+const choices=document.createElement('div');choices.className='row';const enter=document.createElement('button'),register=document.createElement('button');enter.type=register.type='button';enter.textContent='Войти';register.textContent='Зарегистрироваться';choices.append(enter,register);authUI.querySelector('#guest').prepend(choices);
 function choose(create){const active=authUI.getElementById('submit').textContent==='Зарегистрироваться';if(active!==create)authUI.getElementById('mode').click();authUI.getElementById('email').focus();}
 enter.onclick=()=>choose(false);register.onclick=()=>choose(true);
-let currentUser=null;
-accountButton.textContent='Логин';
-accountButton.onclick=()=>{if(currentUser&&!page){location.href=new URL('./cabinet.html',location.href).href;}else{authUI.getElementById('open').click();}};
+let currentUser=null;accountButton.textContent='Логин';accountButton.onclick=()=>{if(currentUser&&!page)location.href=new URL('./cabinet.html',location.href).href;else authUI.getElementById('open').click();};
 try{
  const [App,A]=await Promise.all([import('https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js'),import('https://www.gstatic.com/firebasejs/12.0.0/firebase-auth.js')]);
  const app=await waitFor(()=>App.getApps().find(a=>a.name==='painting-player'));
  A.onAuthStateChanged(A.getAuth(app),u=>{const wasGuest=!currentUser;currentUser=u;accountButton.textContent=u?(page?'Аккаунт / выход':'Мой кабинет'):'Логин';if(u&&wasGuest&&authUI.querySelector('dialog').open)authUI.querySelector('dialog').close();});
 }catch{accountButton.title='Сервис входа временно недоступен';}
-if(page)import('./player-notes.js').catch(()=>{const p=document.createElement('p');p.textContent='Не удалось загрузить оформление и заметки. Обновите страницу.';document.getElementById('cabinet-content').append(p);});
+if(page){
+ try{await import('./player-notes.js');}catch{const p=document.createElement('p');p.textContent='Заметки временно недоступны. Обновите страницу.';document.getElementById('cabinet-content').append(p);}
+ const s=cabinet.shadowRoot,main=document.querySelector('main'),header=document.querySelector('header'),title=document.querySelector('h1');
+ document.querySelectorAll('link[rel="stylesheet"]').forEach(l=>{if(new URL(l.href).pathname.endsWith('/games/games.css'))l.remove();});
+ const bar=document.createElement('div');bar.id='games-home-bar';bar.innerHTML='<a href="./">← В игру</a><span>Живопись: мой кабинет</span>';document.body.prepend(bar);
+ const brand=document.createElement('span');brand.className='brand';brand.textContent='ЖИВОПИСЬ / МОЙ КАБИНЕТ';
+ const nav=document.createElement('nav');nav.setAttribute('aria-label','Навигация кабинета');
+ const routes=[['artists','Мои художники','savedArtists'],['works','Избранные картины','favoriteWorks'],['notes','Заметки',null],['catalog','Каталог','catalog']];
+ const intro=document.createElement('section');intro.className='cabinet-intro';intro.append(title);
+ const oldTabs=[...s.querySelectorAll('[data-tab]')];
+ const buttons=new Map();
+ for(const [id,label] of routes){const b=document.createElement('button');b.type='button';b.textContent=label;b.onclick=()=>{if(location.hash==='#'+id)render();else location.hash=id;};buttons.set(id,b);nav.append(b);}
+ nav.append(accountButton);header.replaceChildren(brand,nav);main.prepend(header,intro);
+ const refresh=s.getElementById('refresh');s.getElementById('tools').prepend(refresh);
+ function render(){const route=routes.find(r=>r[0]===location.hash.slice(1))||routes[0];cabinet.dataset.view=route[0];title.textContent=route[0]==='catalog'?'Добавить из каталога':route[1];for(const [id,b] of buttons){b.classList.toggle('active',id===route[0]);if(id===route[0])b.setAttribute('aria-current','page');else b.removeAttribute('aria-current');}if(route[2])oldTabs.find(b=>b.dataset.tab===route[2])?.click();}
+ window.addEventListener('hashchange',render);
+ s.addEventListener('click',e=>{if(e.target.closest?.('[data-note-action]')){location.hash='notes';cabinet.dataset.view='notes';render();}},true);
+ const shadowStyle=document.createElement('style');shadowStyle.textContent=':host{font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif!important;color:#f2efde!important;color-scheme:dark}*{box-sizing:border-box}dialog[open]{color:#f2efde!important}#tools>.row{display:none!important}#status{color:#abb29e!important;margin:0 0 22px}#msg,#note-msg{color:#abb29e!important;font-size:13px}#refresh{margin-bottom:18px}#list,.notes-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}article{min-width:0;background:#20271b!important;border:1px solid #48543c!important;border-radius:10px!important;padding:20px!important;overflow-wrap:anywhere}article button{margin:8px 7px 0 0}a{color:#d2df98!important}p,small{color:#abb29e!important}h3{font-size:21px;font-weight:500;line-height:1.3}.note-text{color:#f2efde!important}article small{display:block;margin:14px 0 8px}#notes{display:none!important;margin-top:0}#notes>h3{display:none}:host([data-view="notes"]) #notes:not([hidden]){display:block!important}:host([data-view="notes"]) #tools{display:none!important}:host([data-view="notes"]) #msg{display:none!important}input,select,textarea{width:100%}'+controls+'@media(max-width:800px){#list,.notes-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:500px){#list,.notes-grid{grid-template-columns:1fr}article{padding:16px!important}}';s.append(shadowStyle);
+ const css=document.createElement('style');css.textContent='html{color-scheme:dark!important}body{margin:0;background:#131611!important;color:#f2efde!important;font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif!important}*{box-sizing:border-box}main{max-width:1180px!important;margin:auto!important;padding:0 24px 40px!important}main>header{display:flex!important;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;max-width:none!important;margin:0!important;border-bottom:1px solid #3e4736!important;padding:22px 0!important}main>header .brand{font-size:13px;letter-spacing:.15em}main>header nav{display:flex;gap:7px;flex-wrap:wrap;justify-content:flex-end}main>header button{min-width:0!important;background:transparent!important;color:#f2efde!important;border:1px solid #58664b!important;border-radius:9px!important}h1{font-size:clamp(44px,7vw,82px)!important;font-weight:500!important;letter-spacing:-.055em!important;line-height:1.05!important;margin:20px 0!important}.cabinet-intro{padding:35px 0 24px}footer{border-top:1px solid #3e4736!important;margin-top:42px!important;padding-top:20px!important;font-size:11px!important;color:#abb29e!important}#games-home-bar{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:48px;padding:10px 22px;background:#10130e;border-bottom:1px solid #3e4736;font-size:14px}#games-home-bar a{color:#e2d5ba;text-decoration:none;white-space:nowrap}#games-home-bar span{color:#abb29e;font-size:12px}'+controls+'@media(max-width:800px){main{padding:0 16px 30px!important}}@media(max-width:600px){#games-home-bar{padding:9px 14px}#games-home-bar span{display:none}}@media(max-width:500px){main>header{gap:12px;padding:18px 0!important}nav button{font-size:13px;padding:8px 10px}.brand{font-size:11px!important}}';document.head.append(css);render();
+}
