@@ -57,13 +57,6 @@ add('serov','Валентин Серов','Valentin Serov','1865–1911','Рос
 ['Свежесть цвета и света','Девочка за столом с персиками','Абрамцево как место','Портрет без позы','Интернет-мем'],
 'Вера Мамонтова умерла в 1907 году в 32 года (по Википедии). Репродукцию не подключаю: файл ещё не выбран.',
 [['Википедия: Девочка с персиками','https://en.wikipedia.org/wiki/Girl_with_Peaches']]);
-add('petrovvodkin','Кузьма Петров-Водкин','Kuzma Petrov-Vodkin','1878–1939','Россия · символизм, русский модерн',
-['«Купание красного коня» (1912) — масло по холсту, 160 × 186 см, Третьяковская галерея (Ж-375).','В 1953 году картина была продана К. К. Басевич, владелице собрания русской живописи, а в 1961 году передана ею в дар галерее.'],
-['Масло по холсту, 160 × 186 см. Размеры подтверждают Третьяковская галерея и Виртуальный Русский музей.'],
-'Подробный разбор пока не заполнен: в найденных источниках — только паспорт картины и её история владения.',
-['Красный конь в названии','Крупный формат (160 × 186 см)','Третьяковская галерея, Ж-375','Дар К. К. Басевич (1961)','Данные паспорта'],
-'Страница краткая: найдены только данные паспорта картины. Репродукцию не подключаю: файл ещё не выбран.',
-[['Третьяковская галерея: Купание красного коня','https://my.tretyakov.ru/app/masterpiece/8399'],['Виртуальный Русский музей: Купание красного коня','https://rusmuseumvrm.ru/data/collections/museums/gtg/petrov-vodkin_k.s._kupanie_krasnogo_konya._1912._gtg/index.php?lang=en']]);
 add('kustodiev','Борис Кустодиев','Boris Kustodiev','1878–1927','Россия · модерн, бытовой жанр',
 ['«Купчиха за чаем» (1918) — масло по холсту, 120 × 120 см, Русский музей (Ж-1868). Поступила в 1925 году из Государственного музейного фонда.'],
 ['Масло по холсту, 120 × 120 см.'],
@@ -101,7 +94,7 @@ add('klee','Пауль Клее','Paul Klee','1879–1940','Швейцария/�
 [['MoMA: Twittering Machine','https://www.moma.org/collection/works/37347'],['Википедия: Twittering Machine','https://en.wikipedia.org/wiki/Twittering_Machine']]);
 if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');
 window.registerPaintingArtists(B);
-const al={rublev:['Рублёв','Рублев','Rublev'],repin:['Репин','Repin'],vrubel:['Врубель','Vrubel'],aivazovsky:['Айвазовский','Aivazovsky'],shishkin:['Шишкин','Shishkin'],surikov:['Суриков','Surikov'],levitan:['Левитан','Levitan'],serov:['Серов','Serov'],petrovvodkin:['Петров-Водкин','Petrov-Vodkin'],kustodiev:['Кустодиев','Kustodiev'],filonov:['Филонов','Filonov'],blake:['Блейк','Blake'],matisse:['Матисс','Matisse'],klee:['Клее','Klee']};
+const al={rublev:['Рублёв','Рублев','Rublev'],repin:['Репин','Repin'],vrubel:['Врубель','Vrubel'],aivazovsky:['Айвазовский','Aivazovsky'],shishkin:['Шишкин','Shishkin'],surikov:['Суриков','Surikov'],levitan:['Левитан','Levitan'],serov:['Серов','Serov'],kustodiev:['Кустодиев','Kustodiev'],filonov:['Филонов','Filonov'],blake:['Блейк','Blake'],matisse:['Матисс','Matisse'],klee:['Клее','Klee']};
 for(const k in al)B[k].aliases.push(...al[k]);
 const byName=new Map(Object.values(B).map(a=>[a.name,a])),host=document.getElementById('view');
 function fixHeading(){const page=document.getElementById('artist-area'),a=byName.get(page?.querySelector('h1')?.textContent);if(!a)return;for(const h of page.querySelectorAll('h2')){if(h.textContent==='Пять работ: рассмотри и сравни')h.textContent='Репродукция пока не подключена';}}
