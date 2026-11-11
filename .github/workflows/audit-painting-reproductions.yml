@@ -1,0 +1,101 @@
+name: Audit painting reproductions
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/audit-painting-reproductions.yml']
+permissions:
+  contents: write
+concurrency:
+  group: painting-image-audit
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Read current game and all artist batches
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          import assert from 'node:assert/strict';
+          import {execFileSync} from 'node:child_process';
+          const base='games/painting/';
+          const html=fs.readFileSync(base+'index.html','utf8');
+          function jsonAt(prefix){
+            const at=html.indexOf(prefix);
+            assert(at>=0&&html.indexOf(prefix,at+prefix.length)<0,'Expected one '+prefix);
+            const start=at+prefix.length;let depth=0,quoted=false,escaped=false;
+            for(let i=start;i<html.length;i++){const c=html[i];if(quoted){if(escaped)escaped=false;else if(c==='\\')escaped=true;else if(c==='"')quoted=false;}else if(c==='"')quoted=true;else if(c==='{'||c==='[')depth++;else if((c==='}'||c===']')&&--depth===0)return JSON.parse(html.slice(start,i+1));}
+            throw Error('Unclosed '+prefix);
+          }
+          const CARDS=jsonAt('const CARDS='),DATA=jsonAt('const DATA=');
+          const registry={...jsonAt('const ARTISTS=')};
+          assert(Array.isArray(CARDS),'CARDS must be an array');
+          const owner=new Map(Object.keys(registry).map(id=>[id,'index.html']));
+          const files=fs.readdirSync(base).filter(f=>/^artists-batch-\d+\.js$/.test(f)).sort((a,b)=>+a.match(/\d+/)[0]-+b.match(/\d+/)[0]);
+          const registrations=[];
+          for(const file of files){
+            let count=0;
+            const sandbox={CARDS,console,document:{getElementById:()=>null},MutationObserver:class{observe(){}}};
+            sandbox.window=sandbox;
+            sandbox.registerPaintingArtists=batch=>{for(const [id,a]of Object.entries(batch)){registry[id]=a;owner.set(id,file);count++;}};
+            vm.runInNewContext(fs.readFileSync(base+file,'utf8'),sandbox,{filename:file,timeout:5000});
+            assert(count>0,'No registered artists in '+file);registrations.push({file,registered:count});
+          }
+          const norm=s=>String(s||'').normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replaceAll('ё','е').replace(/[^\p{L}\p{N}]/gu,'');
+          function urlKey(s){try{const u=new URL(s);return u.hostname.toLowerCase().replace(/^www\./,'')+decodeURIComponent(u.pathname).replace(/\/$/,'');}catch{return '';}}
+          const existing=new Map(CARDS.filter(c=>c.key).map(c=>[c.key,c]));
+          const sourceKeys=new Set(CARDS.map(c=>urlKey(c.source)).filter(Boolean));
+          const imageKeys=new Set(CARDS.map(c=>urlKey(c.image)).filter(Boolean));
+          const all=[],noImages=[],seen=new Map();
+          for(const [artistId,a]of Object.entries(registry)){
+            const file=owner.get(artistId),batch=Number(file?.match(/artists-batch-(\d+)/)?.[1])||null;
+            const sections=Object.entries(DATA).filter(([,s])=>Object.values(s.meta?.links||{}).includes(artistId)||(s.meta?.names||[]).some(n=>[a.name,a.latin,...(a.aliases||[])].some(x=>x&&norm(x)===norm(n)))).map(([id,s])=>({id,title:s.title,group:s.group}));
+            for(const bucket of ['works','pendingWorks']){
+              assert(a[bucket]===undefined||Array.isArray(a[bucket]),'Invalid '+bucket+' for '+artistId);
+              for(const w of a[bucket]||[]){
+                const image=typeof w.image==='string'?w.image.trim():'';
+                if(!image){noImages.push({artistId,file,bucket,key:w.key||'',title:w.title||w.originalTitle||''});continue;}
+                const key=w.key||'',inBase=key?existing.get(key):null;
+                const possibleUrlMatch=(!inBase)&&((urlKey(w.source)&&sourceKeys.has(urlKey(w.source)))||(urlKey(image)&&imageKeys.has(urlKey(image))));
+                const status=inBase?(inBase.quiz===true?'already_active':'existing_not_active'):!key?'needs_key':possibleUrlMatch?'possible_existing_by_url':'not_found_in_current_base';
+                const identity=key||urlKey(w.source)||urlKey(image);
+                const duplicateOf=seen.get(identity)||null;
+                const row={artistId,artist:a.name,file,batch,bucket,key,title:w.title||w.originalTitle||'',date:w.date||'',image,source:w.source||'',imageSource:w.imageSource||'',license:w.license||'',isPublicDomain:w.isPublicDomain??null,creditLine:w.creditLine||'',partial:w.partial===true,attribution:w.attribution||'',family:w.family||'',sections,status,duplicateOf,previouslyReviewedBatch:batch!==null&&batch>=11&&batch<=16};
+                if(!seen.has(identity))seen.set(identity,{artistId,key,file,bucket});
+                all.push(row);
+              }
+            }
+          }
+          const others=all.filter(r=>!r.previouslyReviewedBatch);
+          const candidates=all.filter(r=>r.status!=='already_active'&&!r.duplicateOf);
+          function tally(rows,field){return rows.reduce((out,r)=>(out[r[field]]=(out[r[field]]||0)+1,out),{});}
+          const perBatch=registrations.map(r=>({...r,withImages:all.filter(w=>w.file===r.file).length,withoutImages:noImages.filter(w=>w.file===r.file).length,statuses:tally(all.filter(w=>w.file===r.file),'status')}));
+          const snapshot=execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim();
+          const summary={snapshot,criterion:'Nonempty work.image; no license, attribution or style exclusion',scope:'All batch files and initial ARTISTS; works and pendingWorks inspected',batchFiles:files.length,artists:Object.keys(registry).length,baseRecords:CARDS.length,baseQuizTrue:CARDS.filter(c=>c.quiz===true).length,withImageRecords:all.length,withoutImageRecords:noImages.length,withImageArtists:new Set(all.map(r=>r.artistId)).size,statuses:tally(all,'status'),remainingBatches:{withImageRecords:others.length,withImageArtists:new Set(others.map(r=>r.artistId)).size,statuses:tally(others,'status')},candidateRecords:candidates.length,candidateArtists:new Set(candidates.map(r=>r.artistId)).size,candidateRemainingRecords:candidates.filter(r=>!r.previouslyReviewedBatch).length,duplicateCatalogueRecords:all.filter(r=>r.duplicateOf).length,candidatePages:Math.ceil(candidates.length/25),perBatch,imageHttpRequestsPerformed:false,imageVisualReviewPerformed:false,licensesReverified:false,gameFilesModified:false};
+          const output='reports/painting-image-audit';fs.mkdirSync(output,{recursive:true});
+          for(const f of fs.readdirSync(output))if(/^candidates-\d+\.json$/.test(f))fs.unlinkSync(output+'/'+f);
+          fs.writeFileSync(output+'/summary.json',JSON.stringify(summary,null,2)+'\n');
+          for(let i=0;i<candidates.length;i+=25)fs.writeFileSync(output+'/candidates-'+String(i/25+1).padStart(3,'0')+'.json',JSON.stringify({snapshot,rows:candidates.slice(i,i+25)},null,2)+'\n');
+          const columns=['artistId','artist','file','batch','bucket','key','title','date','status','image','source','imageSource','license','isPublicDomain','creditLine','partial','attribution','family','previouslyReviewedBatch','duplicateOf','sections'];
+          function csv(v){let s=v==null?'':typeof v==='object'?JSON.stringify(v):String(v);if(/^[=+@-]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"';}
+          fs.writeFileSync(output+'/all-with-images.csv','\ufeff'+[columns.map(csv).join(','),...all.map(r=>columns.map(c=>csv(r[c])).join(','))].join('\r\n')+'\r\n');
+          fs.writeFileSync(output+'/without-images.json',JSON.stringify({snapshot,rows:noImages},null,2)+'\n');
+          console.log(JSON.stringify(summary,null,2));
+          NODE
+      - name: Commit reports only
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- reports/painting-image-audit
+          if ! git diff --cached --quiet; then
+            git commit -m 'Report artist reproductions against current game [skip ci]'
+            git push origin HEAD:main
+          fi
