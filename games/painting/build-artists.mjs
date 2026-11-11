@@ -1,5 +1,6 @@
 import './install-catalogue-works.mjs';
 import './install-round-confirm.mjs';
+import './install-view-state.mjs';
 import fs from 'node:fs';
 import vm from 'node:vm';
 
