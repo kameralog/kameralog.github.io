@@ -198,7 +198,7 @@ function chronologicalArtists(){
   return result;
 }
 /*chronology-artists:end*/
-function showList(){begin();document.title='Художники — Живопись';viewMode='list';renderList()}
+function showList(){paintingViewArtistId=null;begin();document.title='Художники — Живопись';viewMode='list';renderList()}
 let listTimer=0;function scheduleList(){if(listTimer)return;listTimer=setTimeout(()=>{listTimer=0;if(viewMode!=='list'||!showing)return;const y=window.scrollY;renderList();window.scrollTo(0,y)},200)}
 /*artist-search:start*/
 function artistSearchNormalize(value){return String(value??'').normalize('NFKD').replace(/\p{M}/gu,'').toLocaleLowerCase('ru').replace(/[^\p{L}\p{N}]+/gu,' ').trim()}
@@ -297,9 +297,13 @@ function appendRegistryArtists(){
 const mountArtistSearchBeforeRegistry=mountArtistSearch;
 mountArtistSearch=function(...args){appendRegistryArtists();return mountArtistSearchBeforeRegistry(...args)};
 /*registry-visibility:end*/
+/*view-state-bridge:start*/
+let paintingViewArtistId=null;
+window.paintingViewArtists={ready:()=>ready,artist:()=>paintingViewArtistId,leave:()=>{saved=null;showing=false;paintingViewArtistId=null;},show:id=>{if(id&&ARTISTS[id])showArtist(id);else if(!id)showList();else return false;return true;}};
+/*view-state-bridge:end*/
 function imageURLs(w,big=false){const start=big?w.zoom||w.image:w.image;const a=[start];if(/\/iiif\/2\//.test(start))for(const n of(big?[1686,1200,843,600]:[843,600,400]))a.push(start.replace(/\/full\/[^/]+\//,`/full/${n},/`));if(w.image)a.push(w.image);return [...new Set(a)].filter(u=>/^https:\/\//.test(u))}
 function loadImage(img,w,status,button,big=false){const urls=imageURLs(w,big);let i=0;img.onload=()=>{if(status)status.textContent='';if(button)button.disabled=false};img.onerror=()=>{if(++i<urls.length){img.src=urls[i]}else{if(status)status.textContent='Репродукция недоступна. Можно открыть музейный источник.';if(button)button.disabled=true}};img.src=urls[0]}
-function showArtist(id){const a=ARTISTS[id];if(!a){showList();return}begin();viewMode='artist';document.title=a.name+' — Живопись';el('view').innerHTML=`<section id="artist-area" class="artist-page"><div class="ar-top"><button data-artist-back>← ${inGame?'Вернуться в игру':'Все три художника'}</button></div><p class="ar-meta">${html(a.tag)}</p><h1>${html(a.name)}</h1><p class="ar-meta">${html(a.latin)} · ${html(a.life)}</p><div class="ar-copy"><h2>Краткая биография</h2>${a.bio.map(p=>`<p>${html(p)}</p>`).join('')}<h2>Как он работает</h2>${a.technique.map(p=>`<p>${html(p)}</p>`).join('')}<h2>Что изменил и почему важен</h2><p>${html(a.innovation)}</p><h2>Пять признаков для внимательного взгляда</h2><ol class="ar-list">${a.features.map(p=>`<li>${html(p)}</li>`).join('')}</ol><h2>Не перепутай</h2><p class="ar-note">${html(a.caution)}</p></div><h2>Пять работ: рассмотри и сравни</h2><div class="ar-grid">${a.works.map(w=>`<article class="ar-card"><img class="ar-img" data-ar-img="${html(w.key)}" loading="lazy" alt="${html(w.title)}"><p class="ar-img-status" data-ar-status="${html(w.key)}" aria-live="polite">Загрузка репродукции…</p><button data-ar-zoom="${html(w.key)}" disabled>Увеличить</button><h3>${html(w.title)}</h3><p class="ar-meta">${html(w.date)}</p><p>${html(w.look)}</p><p class="ar-muted">${html(w.museum)} · ${html(w.medium||'')}</p><a href="${html(w.source)}" target="_blank" rel="noopener">Музейный источник ↗</a></article>`).join('')}</div><h2>Другие художники</h2>${nameIndex(id)}<div class="ar-copy"><h2>Источники</h2><p>Биография и объяснения — русские редакционные пересказы музейных материалов. Сведения о конкретных произведениях и репродукции связаны с указанными музейными записями.</p><ul>${a.sources.map(([t,u])=>`<li><a href="${html(u)}" target="_blank" rel="noopener">${html(t)} ↗</a></li>`).join('')}</ul></div><button data-artist-list>Все художники</button></section>`;for(const w of a.works){loadImage(document.querySelector(`[data-ar-img="${w.key}"]`),w,document.querySelector(`[data-ar-status="${w.key}"]`),document.querySelector(`[data-ar-zoom="${w.key}"]`))}}
+function showArtist(id){paintingViewArtistId=id;const a=ARTISTS[id];if(!a){showList();return}begin();viewMode='artist';document.title=a.name+' — Живопись';el('view').innerHTML=`<section id="artist-area" class="artist-page"><div class="ar-top"><button data-artist-back>← ${inGame?'Вернуться в игру':'Все три художника'}</button></div><p class="ar-meta">${html(a.tag)}</p><h1>${html(a.name)}</h1><p class="ar-meta">${html(a.latin)} · ${html(a.life)}</p><div class="ar-copy"><h2>Краткая биография</h2>${a.bio.map(p=>`<p>${html(p)}</p>`).join('')}<h2>Как он работает</h2>${a.technique.map(p=>`<p>${html(p)}</p>`).join('')}<h2>Что изменил и почему важен</h2><p>${html(a.innovation)}</p><h2>Пять признаков для внимательного взгляда</h2><ol class="ar-list">${a.features.map(p=>`<li>${html(p)}</li>`).join('')}</ol><h2>Не перепутай</h2><p class="ar-note">${html(a.caution)}</p></div><h2>Пять работ: рассмотри и сравни</h2><div class="ar-grid">${a.works.map(w=>`<article class="ar-card"><img class="ar-img" data-ar-img="${html(w.key)}" loading="lazy" alt="${html(w.title)}"><p class="ar-img-status" data-ar-status="${html(w.key)}" aria-live="polite">Загрузка репродукции…</p><button data-ar-zoom="${html(w.key)}" disabled>Увеличить</button><h3>${html(w.title)}</h3><p class="ar-meta">${html(w.date)}</p><p>${html(w.look)}</p><p class="ar-muted">${html(w.museum)} · ${html(w.medium||'')}</p><a href="${html(w.source)}" target="_blank" rel="noopener">Музейный источник ↗</a></article>`).join('')}</div><h2>Другие художники</h2>${nameIndex(id)}<div class="ar-copy"><h2>Источники</h2><p>Биография и объяснения — русские редакционные пересказы музейных материалов. Сведения о конкретных произведениях и репродукции связаны с указанными музейными записями.</p><ul>${a.sources.map(([t,u])=>`<li><a href="${html(u)}" target="_blank" rel="noopener">${html(t)} ↗</a></li>`).join('')}</ul></div><button data-artist-list>Все художники</button></section>`;for(const w of a.works){loadImage(document.querySelector(`[data-ar-img="${w.key}"]`),w,document.querySelector(`[data-ar-status="${w.key}"]`),document.querySelector(`[data-ar-zoom="${w.key}"]`))}}
 function back(){if(!inGame){showing=false;showList();return}if(!saved){showing=false;home();return}const old=saved;saved=null;showing=false;document.title=old.title;if(old.screen==='play'&&typeof state!=='undefined'&&state.run){showPlay()}else{changeScreen(old.screen);el('view').replaceChildren(...old.nodes);for(const [id,cl]of old.nav)if(el(id))el(id).className=cl||'';window.scrollTo(0,old.scroll);if(lastFocus?.isConnected)lastFocus.focus({preventScroll:true})}}
 function zoomWork(key){const w=works.get(key);if(!w)return;let d=el('artist-dialog');if(!d){d=document.createElement('dialog');d.id='artist-dialog';d.innerHTML='<div class="ar-modalbar"><span id="artist-caption"></span><button id="artist-close" aria-label="Закрыть увеличенное изображение">Закрыть ×</button></div><img id="artist-large" alt=""><p id="artist-image-state" role="status"></p><a id="artist-museum" target="_blank" rel="noopener">Открыть музейный источник ↗</a>';document.body.append(d);el('artist-close').onclick=()=>d.close();d.addEventListener('click',e=>{if(e.target===d)d.close()})}el('artist-caption').textContent=w.artist+' · '+w.title+' · '+w.date;el('artist-large').alt=w.title;el('artist-museum').href=w.source;el('artist-image-state').textContent='Загрузка…';loadImage(el('artist-large'),w,el('artist-image-state'),null,true);if(typeof d.showModal==='function'){if(!d.open)d.showModal()}else window.open(w.zoom||w.image,'_blank','noopener')}
 const esc=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');let aliasVer=0,aliasBuilt=-1,aliasPat=null,aliasList=[];
@@ -315,4 +319,110 @@ function finishLoading(){ready=true;aliasVer++;route();if(inGame&&!showing)conne
 function loadWave(n){if(n>40){finishLoading();return}let pending=0,miss=false;for(let i=n;i<n+8&&i<=40;i++){pending++;const sc=document.createElement('script');sc.async=true;sc.src=new URL('artists-batch-'+i+'.js',location.href).href;sc.onload=()=>{sc.remove();if(--pending===0)miss?finishLoading():loadWave(n+8)};sc.onerror=()=>{miss=true;sc.remove();if(--pending===0)finishLoading()};document.head.append(sc)}}
 /*artists.js-first*/(function(){const sc=document.createElement('script');sc.async=true;sc.src=new URL('artists.js',location.href).href;sc.onload=()=>{sc.remove();finishLoading()};sc.onerror=()=>{sc.remove();loadWave(2)};document.head.append(sc)})();
 })();</script><script>(()=>{const b=document.createElement('button');b.type='button';b.className='totop';b.setAttribute('aria-label','Наверх');b.innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 15l6-6 6 6"/></svg>';document.body.append(b);const upd=()=>{const on=window.scrollY>300&&document.documentElement.scrollHeight>window.innerHeight*1.3;b.classList.toggle('show',on);b.tabIndex=on?0:-1;b.setAttribute('aria-hidden',on?'false':'true')};addEventListener('scroll',upd,{passive:true});addEventListener('resize',upd);b.onclick=()=>window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});if('ResizeObserver'in window)new ResizeObserver(upd).observe(document.body);upd()})();</script>
-</body></html>
+<script>
+/*view-state:start*/
+(()=>{'use strict';
+const PREFIX='painting-view-v1:',fields=['artist-search','gp-search','catalogSearch','catalogFilter'];
+const routes=new Set(['home','play','result','collection','guide','artists','artist','gallery']);
+const root=()=>document.getElementById('view');
+const text=el=>String(el?.textContent||'').replace(/\s+/g,' ').trim().slice(0,160);
+let busy=false,stopped=false,timer=0,correction=null,restoreTimer=0,originalScrollMode=null;
+function read(){try{
+ const s=JSON.parse(sessionStorage.getItem(PREFIX+location.href)||'null');
+ if(!s||s.version!==1||s.href!==location.href||!routes.has(s.route?.name))return null;
+ if(s.route.name==='artist'&&(typeof s.route.artist!=='string'||s.route.artist.length>200))return null;
+ if(!s.scroll||![s.scroll.x,s.scroll.y].every(n=>Number.isFinite(n)&&n>=0))return null;
+ if(!s.controls||typeof s.controls!=='object'||Array.isArray(s.controls))return null;
+ if(!fields.every(id=>s.controls[id]===undefined||typeof s.controls[id]==='string'&&s.controls[id].length<=500))return null;
+ if(!Array.isArray(s.details)||s.details.length>2000||!s.details.every(d=>typeof d.key==='string'&&d.key.length<=1200&&typeof d.open==='boolean'))return null;
+ if(s.anchor&&!(typeof s.anchor.key==='string'&&s.anchor.key.length<=1400&&Number.isFinite(s.anchor.offset)&&Math.abs(s.anchor.offset)<10000000))return null;
+ return s;
+}catch{return null;}}
+function details(){
+ const list=[...(root()?.querySelectorAll('details')||[])],seen=new Map();
+ return list.map(el=>{const parts=[];for(let p=el;p&&p!==root();p=p.parentElement)if(p.tagName==='DETAILS')parts.unshift(text(p.querySelector(':scope > summary')));const base=parts.join(' / '),i=seen.get(base)||0;seen.set(base,i+1);return {el,key:base+' #'+i};});
+}
+function nodes(){
+ const detailKeys=new Map(details().map(d=>[d.el,d.key]));
+ return [...(root()?.querySelectorAll('[data-ar-img],[data-art-key],a[data-artist],details,h2,h3')||[])].filter(el=>el.getClientRects().length).map(el=>({el,key:el.dataset.arImg?'work:'+el.dataset.arImg:el.dataset.artKey?'card:'+el.dataset.artKey:el.dataset.artist?'artist:'+el.dataset.artist:el.tagName==='DETAILS'?'detail:'+detailKeys.get(el):el.tagName+':'+text(el)}));
+}
+function route(){
+ const area=document.getElementById('artist-area');
+ if(area)return area.classList.contains('artist-page')?{name:'artist',artist:window.paintingViewArtists?.artist()||new URL(location.href).searchParams.get('artist')||''}:{name:'artists'};
+ return {name:typeof screen==='string'&&routes.has(screen)?screen:'home'};
+}
+function snapshot(){
+ const controls={};for(const id of fields){const el=document.getElementById(id);if(el)controls[id]=String(el.value).slice(0,500);}
+ const visible=nodes().map(n=>({...n,r:n.el.getBoundingClientRect()})).filter(n=>n.r.bottom>0&&n.r.top<innerHeight).sort((a,b)=>Math.abs(a.r.top)-Math.abs(b.r.top));
+ const a=visible[0];
+ return {version:1,href:location.href,route:route(),controls,details:details().slice(0,2000).map(d=>({key:d.key,open:d.el.open})),scroll:{x:Math.max(0,scrollX),y:Math.max(0,scrollY)},anchor:a?{key:a.key,offset:a.r.top}:null,page:typeof catalogPage==='number'?catalogPage:0};
+}
+function save(){if(busy||!root())return;try{sessionStorage.setItem(PREFIX+location.href,JSON.stringify(snapshot()));}catch{}}
+function schedule(){if(busy)return;clearTimeout(timer);timer=setTimeout(save,180);}
+function finish(){
+ if(stopped)return;stopped=true;clearTimeout(restoreTimer);correction?.disconnect();document.removeEventListener('load',correct,true);busy=false;
+ if(originalScrollMode!==null)history.scrollRestoration=originalScrollMode;
+ save();
+}
+let saved=null;
+function correct(){
+ if(stopped||!saved)return;
+ const found=saved.anchor&&nodes().find(n=>n.key===saved.anchor.key);
+ const y=found?scrollY+found.el.getBoundingClientRect().top-saved.anchor.offset:saved.scroll.y;
+ window.scrollTo({left:saved.scroll.x,top:Math.max(0,y),behavior:'instant'});
+}
+function restoreControls(){
+ for(const id of fields){const el=document.getElementById(id);if(el&&Object.hasOwn(saved.controls,id)){el.value=saved.controls[id];el.dispatchEvent(new Event(id==='catalogFilter'?'change':'input',{bubbles:true}));}}
+ if(saved.route.name==='collection'&&typeof renderCatalog==='function'&&Number.isInteger(saved.page)&&saved.page>=0){catalogPage=saved.page;renderCatalog();}
+ const stored=new Map(saved.details.map(d=>[d.key,d.open]));for(const d of details())if(stored.has(d.key))d.el.open=stored.get(d.key);
+}
+function fallback(){home();saved={...saved,controls:{},details:[],scroll:{x:0,y:0},anchor:null};}
+function openRoute(){
+ if(!['artist','artists'].includes(saved.route.name))window.paintingViewArtists?.leave();
+ switch(saved.route.name){
+ case 'home':home();break;
+ case 'play':if(state.run)showPlay();else fallback();break;
+ case 'result':if(state.last?.length)result(state.last,false);else fallback();break;
+ case 'collection':catalog();break;
+ case 'guide':guide();break;
+ case 'artists':window.paintingViewArtists.show(null);break;
+ case 'artist':if(!window.paintingViewArtists.show(saved.route.artist))fallback();break;
+ case 'gallery':break;
+ }
+}
+function boot(){
+ if(!root())return;
+ const reload=performance.getEntriesByType('navigation')[0]?.type==='reload';saved=reload?read():null;
+ busy=!!saved;
+ for(const event of ['input','change','click','toggle'])document.addEventListener(event,schedule,true);
+ window.addEventListener('scroll',schedule,{passive:true});
+ window.addEventListener('pagehide',()=>{if(!busy)save();});
+ document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'&&!busy)save();});
+ new MutationObserver(schedule).observe(root(),{childList:true,subtree:true});
+ if(!saved){save();return;}
+ const interrupt=event=>{if(event.isTrusted!==false)finish();};
+ for(const name of ['wheel','touchstart','pointerdown','keydown'])window.addEventListener(name,interrupt,{capture:true,passive:true});
+ const waitStarted=Date.now();
+ function attempt(){
+  if(stopped)return;
+  const needsArtists=['artist','artists'].includes(saved.route.name)||new URL(location.href).searchParams.has('artist');
+  if(needsArtists&&!window.paintingViewArtists?.ready()){
+   if(Date.now()-waitStarted<60000){setTimeout(attempt,100);return;}
+   stopped=true;busy=false;return;
+  }
+  try{
+   if('scrollRestoration' in history){originalScrollMode=history.scrollRestoration;history.scrollRestoration='manual';}
+   openRoute();restoreControls();correct();
+   correction=new ResizeObserver(correct);correction.observe(root());
+   document.addEventListener('load',correct,true);
+   document.fonts?.ready.then(()=>{if(!stopped)correct();});
+   requestAnimationFrame(()=>{if(!stopped)correct();});
+   restoreTimer=setTimeout(finish,10000);
+  }catch(error){console.warn('Painting view restoration:',error.name);finish();}
+ }
+ attempt();
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot,{once:true});else boot();
+})();
+/*view-state:end*/
+</script></body></html>
