@@ -61,12 +61,12 @@ async function load(append=false){
  finally{if(stamp===generation){loading=false;$('stats-more').disabled=false}}
 }
 function navigation(){
- document.querySelectorAll('[data-statistics-link]').forEach(link=>{link.hidden=!user});
+ const showStatistics=!!user&&document.body.dataset.playerCabinet==='page';
+ document.querySelectorAll('[data-statistics-link]').forEach(link=>{link.hidden=!showStatistics});
  const existing=$('painting-statistics-link');
  const account=$('painting-account-nav')||$('stats-account')||document.querySelector('body[data-player-cabinet="page"] main>header nav #account-button');
  if(account?.parentElement&&account.nextElementSibling)account.parentElement.append(account);
- if(!user){existing?.remove();return}
- if(isPage){const link=document.querySelector('[data-statistics-link]');if(link&&account&&link.nextElementSibling!==account)account.before(link);return}
+ if(!showStatistics){existing?.remove();return}
  if(!account?.parentElement)return;
  let button=existing;
  if(!button){button=document.createElement('button');button.id='painting-statistics-link';button.type='button';button.textContent='Статистика';button.onclick=()=>location.href=new URL('./statistics.html',location.href).href;}
