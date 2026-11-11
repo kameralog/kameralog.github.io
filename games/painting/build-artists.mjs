@@ -1,3 +1,4 @@
+import './install-catalogue-works.mjs';
 import fs from 'node:fs';
 import vm from 'node:vm';
 
