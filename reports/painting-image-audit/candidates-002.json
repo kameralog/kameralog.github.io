@@ -1,0 +1,730 @@
+{
+  "snapshot": "56f79e56736fec0c034ae3ec8644fd3c4a8d50d2",
+  "rows": [
+    {
+      "artistId": "shen_zhou",
+      "artist": "Шэнь Чжоу",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "aic:13455",
+      "title": "Облака над рекой перед дождём",
+      "date": "1504",
+      "image": "https://www.artic.edu/iiif/2/591b86ab-c0a9-77f7-c4bf-a330498b9c02/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/13455",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "shen_zhou",
+      "artist": "Шэнь Чжоу",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "aic:75320",
+      "title": "Возвращение к озеру Ши",
+      "date": "1466",
+      "image": "https://www.artic.edu/iiif/2/4954c682-2179-be5d-88a3-bd53d5903d7c/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/75320",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "wen_zhengming",
+      "artist": "Вэнь Чжэнмин",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:141186",
+      "title": "Старая сосна",
+      "date": "late 1530s",
+      "image": "https://openaccess-cdn.clevelandart.org/1964.43/1964.43_web.jpg",
+      "source": "https://clevelandart.org/art/1964.43",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "wen_zhengming",
+      "artist": "Вэнь Чжэнмин",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:159727",
+      "title": "Старые деревья у зимнего ручья",
+      "date": "1551",
+      "image": "https://openaccess-cdn.clevelandart.org/1997.102/1997.102_web.jpg",
+      "source": "https://clevelandart.org/art/1997.102",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "wen_zhengming",
+      "artist": "Вэнь Чжэнмин",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "aic:62536",
+      "title": "Осенние горы",
+      "date": "early 16th century",
+      "image": "https://www.artic.edu/iiif/2/b73febc4-d31c-41e3-bd59-db48c387f59e/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/62536",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "wen_zhengming",
+      "artist": "Вэнь Чжэнмин",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "aic:27958",
+      "title": "Заснеженный пейзаж",
+      "date": "1470–1559 (дата музея неточна)",
+      "image": "https://www.artic.edu/iiif/2/b2b0afc6-7233-de78-13b6-cfac830c973d/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/27958",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "ma_yuan",
+      "artist": "Ма Юань",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:143166",
+      "title": "Бамбук и утки у бурного ручья",
+      "date": "1127–1279",
+      "image": "https://openaccess-cdn.clevelandart.org/1967.145/1967.145_web.jpg",
+      "source": "https://clevelandart.org/art/1967.145",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "southern_song",
+          "title": "Южная Сун",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "ma_yuan",
+      "artist": "Ма Юань",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:160127",
+      "title": "Наблюдая за оленями у ручья под соснами",
+      "date": "1127–1279",
+      "image": "https://openaccess-cdn.clevelandart.org/1997.88/1997.88_web.jpg",
+      "source": "https://clevelandart.org/art/1997.88",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "southern_song",
+          "title": "Южная Сун",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "ma_yuan",
+      "artist": "Ма Юань",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:160128",
+      "title": "Пьющий при лунном свете",
+      "date": "late 1100s–early 1200s",
+      "image": "https://openaccess-cdn.clevelandart.org/1997.89/1997.89_web.jpg",
+      "source": "https://clevelandart.org/art/1997.89",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "southern_song",
+          "title": "Южная Сун",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "huang_gongwang",
+      "artist": "Хуан Гунван",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:156183",
+      "title": "Летние горы (по Дун Юаню)",
+      "date": "1290–1354",
+      "image": "https://openaccess-cdn.clevelandart.org/1992.1/1992.1_web.jpg",
+      "source": "https://clevelandart.org/art/1992.1",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "yuan",
+          "title": "Юань",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "wang_hui",
+      "artist": "Ван Хуэй",
+      "file": "artists-batch-4.js",
+      "batch": 4,
+      "bucket": "works",
+      "key": "cma:159731",
+      "title": "Зал высоких сосен",
+      "date": "1703",
+      "image": "https://openaccess-cdn.clevelandart.org/1997.106/1997.106_web.jpg",
+      "source": "https://clevelandart.org/art/1997.106",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "qing",
+          "title": "Цин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "wang_hui",
+      "artist": "Ван Хуэй",
+      "file": "artists-batch-4.js",
+      "batch": 4,
+      "bucket": "works",
+      "key": "aic:84767",
+      "title": "Бамбуковый склон",
+      "date": "1710",
+      "image": "https://www.artic.edu/iiif/2/cd9e4fe1-7404-dbee-522f-8d8e0335a830/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/84767",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "qing",
+          "title": "Цин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "shitao",
+      "artist": "Шитао",
+      "file": "artists-batch-5.js",
+      "batch": 5,
+      "bucket": "works",
+      "key": "cma:130220",
+      "title": "Камни, орхидея и бамбук",
+      "date": "1662",
+      "image": "https://openaccess-cdn.clevelandart.org/1952.589/1952.589_web.jpg",
+      "source": "https://clevelandart.org/art/1952.589",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "qing",
+          "title": "Цин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "shitao",
+      "artist": "Шитао",
+      "file": "artists-batch-5.js",
+      "batch": 5,
+      "bucket": "works",
+      "key": "cma:131335",
+      "title": "Весенний туман над Цзяннанем",
+      "date": "1697",
+      "image": "https://openaccess-cdn.clevelandart.org/1954.126/1954.126_web.jpg",
+      "source": "https://clevelandart.org/art/1954.126",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "qing",
+          "title": "Цин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "shitao",
+      "artist": "Шитао",
+      "file": "artists-batch-5.js",
+      "batch": 5,
+      "bucket": "works",
+      "key": "cma:142572",
+      "title": "Воспоминания о реке Циньхуай (лист из альбома)",
+      "date": "1642–1707",
+      "image": "https://openaccess-cdn.clevelandart.org/1966.31.1/1966.31.1_web.jpg",
+      "source": "https://clevelandart.org/art/1966.31.1",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "qing",
+          "title": "Цин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "ni_zan",
+      "artist": "Ни Цзань",
+      "file": "artists-batch-5.js",
+      "batch": 5,
+      "bucket": "works",
+      "key": "cma:149412",
+      "title": "Бамбук, камень и высокое дерево",
+      "date": "c. 1300s",
+      "image": "https://openaccess-cdn.clevelandart.org/1978.65/1978.65_web.jpg",
+      "source": "https://clevelandart.org/art/1978.65",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "yuan",
+          "title": "Юань",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "sesshu_toyo",
+      "artist": "Сэссю Тоё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:86110",
+      "title": "Закатное сияние над рыбацкой деревней (из «Восьми видов Сяо-Сян»)",
+      "date": "1460s–1550s",
+      "image": "https://openaccess-cdn.clevelandart.org/2015.590/2015.590_web.jpg",
+      "source": "https://clevelandart.org/art/2015.590",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "muromachi",
+          "title": "Муромати",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "sesshu_toyo",
+      "artist": "Сэссю Тоё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:86111",
+      "title": "Возвращающиеся паруса вдали от берега (из «Восьми видов Сяо-Сян»)",
+      "date": "1460s to 1550s",
+      "image": "https://openaccess-cdn.clevelandart.org/2015.589/2015.589_web.jpg",
+      "source": "https://clevelandart.org/art/2015.589",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "muromachi",
+          "title": "Муромати",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "sesshu_toyo",
+      "artist": "Сэссю Тоё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:140157",
+      "title": "Цветы и птицы (осень)",
+      "date": "mid-1400s-early 1500s",
+      "image": "https://openaccess-cdn.clevelandart.org/1964.157.1/1964.157.1_web.jpg",
+      "source": "https://clevelandart.org/art/1964.157.1",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "muromachi",
+          "title": "Муромати",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "sesshu_toyo",
+      "artist": "Сэссю Тоё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:140158",
+      "title": "Цветы и птицы (лето)",
+      "date": "mid-1400s–early 1500s",
+      "image": "https://openaccess-cdn.clevelandart.org/1964.157.2/1964.157.2_web.jpg",
+      "source": "https://clevelandart.org/art/1964.157.2",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "muromachi",
+          "title": "Муромати",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "sesshu_toyo",
+      "artist": "Сэссю Тоё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:133000",
+      "title": "Хабоку, пейзаж разбрызганной тушью",
+      "date": "1400s–early 1500s",
+      "image": "https://openaccess-cdn.clevelandart.org/1955.43/1955.43_web.jpg",
+      "source": "https://clevelandart.org/art/1955.43",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "muromachi",
+          "title": "Муромати",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "kaiho_yusho",
+      "artist": "Кайхо Юсё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:153736",
+      "title": "Зимние и летние цветы (правая ширма)",
+      "date": "c. 1600",
+      "image": "https://openaccess-cdn.clevelandart.org/1987.40.1/1987.40.1_web.jpg",
+      "source": "https://clevelandart.org/art/1987.40.1",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "momoyama",
+          "title": "Момояма",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "kaiho_yusho",
+      "artist": "Кайхо Юсё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:153737",
+      "title": "Зимние и летние цветы (левая ширма)",
+      "date": "c. 1600",
+      "image": "https://openaccess-cdn.clevelandart.org/1987.40.2/1987.40.2_web.jpg",
+      "source": "https://clevelandart.org/art/1987.40.2",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "momoyama",
+          "title": "Момояма",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "maruyama_okyo",
+      "artist": "Маруяма Окё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:148864",
+      "title": "Литературное собрание в Павильоне орхидей",
+      "date": "late 1700s",
+      "image": "https://openaccess-cdn.clevelandart.org/1977.1/1977.1_web.jpg",
+      "source": "https://clevelandart.org/art/1977.1",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "edo",
+          "title": "Эдо",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "maruyama_okyo",
+      "artist": "Маруяма Окё",
+      "file": "artists-batch-6.js",
+      "batch": 6,
+      "bucket": "works",
+      "key": "cma:147411",
+      "title": "Летняя ночь",
+      "date": "1784",
+      "image": "https://openaccess-cdn.clevelandart.org/1973.156.1/1973.156.1_web.jpg",
+      "source": "https://clevelandart.org/art/1973.156.1",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "edo",
+          "title": "Эдо",
+          "group": "japan"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    }
+  ]
+}

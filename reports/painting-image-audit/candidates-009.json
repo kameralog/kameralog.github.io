@@ -1,0 +1,237 @@
+{
+  "snapshot": "56f79e56736fec0c034ae3ec8644fd3c4a8d50d2",
+  "rows": [
+    {
+      "artistId": "jan_pauwel_gillemans_the_elder",
+      "artist": "Ян Паувел Гиллеманс Старший",
+      "file": "artists-batch-68.js",
+      "batch": 68,
+      "bucket": "works",
+      "key": "msk:1901-A",
+      "title": "Натюрморт с овощами и фруктами",
+      "date": "XVII век; точная дата в паспорте не указана",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F321.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/en/collection/1901-a",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/321/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту MSK Gent; это обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), 1901-A",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "alexander_coosemans",
+      "artist": "Александр Коземанс",
+      "file": "artists-batch-68.js",
+      "batch": 68,
+      "bucket": "works",
+      "key": "msk:1929-R",
+      "title": "Vanitas с букетом",
+      "date": "XVII век; точная дата в паспорте не указана",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F1158.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/en/collection/1929-r",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/1158/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту MSK Gent; это обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), 1929-R",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "adriaen_van_utrecht",
+      "artist": "Адриан ван Утрехт",
+      "file": "artists-batch-69.js",
+      "batch": 69,
+      "bucket": "works",
+      "key": "msk:S-10",
+      "title": "Рыбная лавка",
+      "date": "около 1640",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F6362.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/en/collection/s-10",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/6362/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту MSK Gent; обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), S-10; photograph Hugo Maertens",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "pieter_boel",
+      "artist": "Питер Буль",
+      "file": "artists-batch-69.js",
+      "batch": 69,
+      "bucket": "works",
+      "key": "msk:1907-A",
+      "title": "Натюрморт с совой и охотничьими трофеями",
+      "date": "XVII век; точный год не указан",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F445.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/en/collection/1907-a",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/445/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту MSK Gent; обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), 1907-A; photograph Hugo Maertens",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "david_de_coninck",
+      "artist": "Давид де Конинк",
+      "file": "artists-batch-69.js",
+      "batch": 69,
+      "bucket": "works",
+      "key": "msk:S-63",
+      "title": "Животные в саду",
+      "date": "XVII век; точный год не указан",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F6845.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/en/collection/s-63",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/6845/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту MSK Gent; обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), S-63; photograph Dominique Provost",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "jan_van_den_hecke_the_elder",
+      "artist": "Ян ван ден Хекке Старший",
+      "file": "artists-batch-69.js",
+      "batch": 69,
+      "bucket": "works",
+      "key": "msk:1902-I",
+      "title": "Натюрморт с ракообразными, фруктами и лютней",
+      "date": "XVII век; точный год не указан",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F332.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/collectie/1902-i",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/332/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту MSK Gent; обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), 1902-I",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "frans_van_cuyck_de_myerhop",
+      "artist": "Франс ван Кёйк де Мейерхоп",
+      "file": "artists-batch-69.js",
+      "batch": 69,
+      "bucket": "works",
+      "key": "msk:1923-N",
+      "title": "Натюрморт с фруктами",
+      "date": "XVII век; точный год не указан",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F3807.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/en/collection/1923-n",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/3807/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту MSK Gent; обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), 1923-N; photograph Cedric Verhelst",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "daniel_seghers",
+      "artist": "Даниэл Сегерс",
+      "file": "artists-batch-70.js",
+      "batch": 70,
+      "bucket": "works",
+      "key": "msk:1886-A",
+      "title": "Цветочная гирлянда с пустым картушем",
+      "date": "XVII век; точный год не указан",
+      "image": "https://imagehub.mskgent.be/iiif/2/public%2F254.tif/full/800,/0/default.jpg",
+      "source": "https://www.mskgent.be/en/collection/1886-a",
+      "imageSource": "https://imagehub.mskgent.be/iiif/3/254/manifest.json",
+      "license": "Public Domain Mark 1.0 по официальному IIIF-манифесту; обозначение общественного достояния, не CC0",
+      "isPublicDomain": null,
+      "creditLine": "Museum of Fine Arts Ghent (MSK Gent), 1886-A; photograph Hugo Maertens",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "baroque",
+          "title": "Барокко",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    }
+  ]
+}

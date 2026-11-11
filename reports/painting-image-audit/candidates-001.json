@@ -1,0 +1,730 @@
+{
+  "snapshot": "56f79e56736fec0c034ae3ec8644fd3c4a8d50d2",
+  "rows": [
+    {
+      "artistId": "monet",
+      "artist": "Клод Моне",
+      "file": "index.html",
+      "batch": null,
+      "bucket": "works",
+      "key": "aic:16571",
+      "title": "Прибытие нормандского поезда. Вокзал Сен-Лазар",
+      "date": "1877",
+      "image": "https://www.artic.edu/iiif/2/0f1cc0e0-e42e-be16-3f71-2022da38cb93/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/16571",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "monet",
+      "artist": "Клод Моне",
+      "file": "index.html",
+      "batch": null,
+      "bucket": "works",
+      "key": "aic:64818",
+      "title": "Стога пшеницы. Конец лета",
+      "date": "1890–91",
+      "image": "https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/64818",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "monet",
+      "artist": "Клод Моне",
+      "file": "index.html",
+      "batch": null,
+      "bucket": "works",
+      "key": "aic:16568",
+      "title": "Кувшинки",
+      "date": "1906",
+      "image": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/16568",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "van-gogh",
+      "artist": "Винсент ван Гог",
+      "file": "index.html",
+      "batch": null,
+      "bucket": "works",
+      "key": "aic:27954",
+      "title": "Терраса и смотровая площадка мельницы Блют-Фен на Монмартре",
+      "date": "Early 1887",
+      "image": "https://www.artic.edu/iiif/2/a971fad5-a24d-9985-03fb-1f17db9a9d74/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/27954",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "post",
+          "title": "Постимпрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "existing_not_active",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "cezanne",
+      "artist": "Поль Сезанн",
+      "file": "index.html",
+      "batch": null,
+      "bucket": "works",
+      "key": "aic:16487",
+      "title": "Марсельский залив, вид из Эстака",
+      "date": "c. 1885",
+      "image": "https://www.artic.edu/iiif/2/d4ca6321-8656-3d3f-a362-2ee297b2b813/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/16487",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "post",
+          "title": "Постимпрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "cezanne",
+      "artist": "Поль Сезанн",
+      "file": "index.html",
+      "batch": null,
+      "bucket": "works",
+      "key": "aic:62371",
+      "title": "Мадам Сезанн в жёлтом кресле",
+      "date": "1888–90",
+      "image": "https://www.artic.edu/iiif/2/4822cd01-44ac-041a-36b8-c0542377b750/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/62371",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "post",
+          "title": "Постимпрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "gauguin",
+      "artist": "Поль Гоген",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:111062",
+      "title": "Большое дерево",
+      "date": "1891",
+      "image": "https://www.artic.edu/iiif/2/916405d1-1407-d90e-1be8-f8c77f26f546/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/111062",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "post",
+          "title": "Постимпрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "gauguin",
+      "artist": "Поль Гоген",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:60812",
+      "title": "Тегамана имеет много предков",
+      "date": "1893",
+      "image": "https://www.artic.edu/iiif/2/48268fc7-2eb4-ded6-1293-e91f27b66478/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/60812",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "post",
+          "title": "Постимпрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "gauguin",
+      "artist": "Поль Гоген",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:27943",
+      "title": "День бога (Махана но атуа)",
+      "date": "1894",
+      "image": "https://www.artic.edu/iiif/2/a4bef587-48a4-d186-813d-f297441b1ab3/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/27943",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "post",
+          "title": "Постимпрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "gauguin",
+      "artist": "Поль Гоген",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:16648",
+      "title": "Женщина перед натюрмортом Сезанна",
+      "date": "1890",
+      "image": "https://www.artic.edu/iiif/2/38f866cb-9000-de5a-e655-d3fb4d8dc056/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/16648",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "post",
+          "title": "Постимпрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "renoir",
+      "artist": "Пьер Огюст Ренуар",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:14655",
+      "title": "Две сестры (На террасе)",
+      "date": "1881",
+      "image": "https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/14655",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "renoir",
+      "artist": "Пьер Огюст Ренуар",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:81558",
+      "title": "Акробаты в цирке Фернандо",
+      "date": "1879",
+      "image": "https://www.artic.edu/iiif/2/321c45f5-22a3-84a2-44cc-cf66642d4cf2/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/81558",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "renoir",
+      "artist": "Пьер Огюст Ренуар",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:25825",
+      "title": "Женщина за фортепиано",
+      "date": "1875–76",
+      "image": "https://www.artic.edu/iiif/2/8f06717c-9ede-f22b-d13b-327a50c22f9c/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/25825",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "renoir",
+      "artist": "Пьер Огюст Ренуар",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "cma:128364",
+      "title": "Молодая женщина поправляет серьгу",
+      "date": "1905",
+      "image": "https://openaccess-cdn.clevelandart.org/1951.324/1951.324_web.jpg",
+      "source": "https://clevelandart.org/art/1951.324",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "existing_not_active",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "rembrandt",
+      "artist": "Рембрандт ван Рейн",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:95998",
+      "title": "Старик с золотой цепью",
+      "date": "1631",
+      "image": "https://www.artic.edu/iiif/2/3eaab3a3-2b47-9fdd-121c-050f6b8d9ccb/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/95998",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "dutch17",
+          "title": "Голландская живопись XVII века",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "rembrandt",
+      "artist": "Рембрандт ван Рейн",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:94840",
+      "title": "Молодая женщина у открытой полудвери",
+      "date": "1645",
+      "image": "https://www.artic.edu/iiif/2/91c51644-871f-cda9-82bb-94f4973ae339/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/94840",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "dutch17",
+          "title": "Голландская живопись XVII века",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "rembrandt",
+      "artist": "Рембрандт ван Рейн",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "cma:127573",
+      "title": "Бородатый мужчина в шляпе",
+      "date": "c. 1655–60",
+      "image": "https://openaccess-cdn.clevelandart.org/1950.252/1950.252_web.jpg",
+      "source": "https://clevelandart.org/art/1950.252",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "dutch17",
+          "title": "Голландская живопись XVII века",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "rembrandt",
+      "artist": "Рембрандт ван Рейн",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "cma:122348",
+      "title": "Молодой человек с цепью",
+      "date": "c. 1629 or 1632",
+      "image": "https://openaccess-cdn.clevelandart.org/1942.644/1942.644_web.jpg",
+      "source": "https://clevelandart.org/art/1942.644",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "dutch17",
+          "title": "Голландская живопись XVII века",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "morisot",
+      "artist": "Берта Моризо",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:11723",
+      "title": "Женщина за туалетом",
+      "date": "1875–80",
+      "image": "https://www.artic.edu/iiif/2/78c80988-6524-cec7-c661-a4c0a706d06f/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/11723",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "morisot",
+      "artist": "Берта Моризо",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:153798",
+      "title": "Женщина в саду",
+      "date": "1882–83",
+      "image": "https://www.artic.edu/iiif/2/5edb357d-2e8f-8673-d9e8-4b1150af3895/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/153798",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "morisot",
+      "artist": "Берта Моризо",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:20556",
+      "title": "Девочка в шляпе",
+      "date": "1892",
+      "image": "https://www.artic.edu/iiif/2/12731595-67a3-dc3c-efa8-29d75b9cd315/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/20556",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "morisot",
+      "artist": "Берта Моризо",
+      "file": "artists-batch-2.js",
+      "batch": 2,
+      "bucket": "works",
+      "key": "aic:53058",
+      "title": "Компьеньский лес",
+      "date": "1885",
+      "image": "https://www.artic.edu/iiif/2/bfc9b17a-cc18-7bd3-4d78-e925bb1a8b27/full/843,/0/default.jpg",
+      "source": "https://www.artic.edu/artworks/53058",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "impression",
+          "title": "Импрессионизм",
+          "group": "europe"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "shen_zhou",
+      "artist": "Шэнь Чжоу",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:159726",
+      "title": "Цветущая яблоня-крабапл",
+      "date": "1500",
+      "image": "https://openaccess-cdn.clevelandart.org/1997.101/1997.101_web.jpg",
+      "source": "https://clevelandart.org/art/1997.101",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "shen_zhou",
+      "artist": "Шэнь Чжоу",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:159724",
+      "title": "Жёлтые хризантемы и красный османтус в манере Ван Юаня",
+      "date": "1468",
+      "image": "https://openaccess-cdn.clevelandart.org/1997.100/1997.100_web.jpg",
+      "source": "https://clevelandart.org/art/1997.100",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    },
+    {
+      "artistId": "shen_zhou",
+      "artist": "Шэнь Чжоу",
+      "file": "artists-batch-3.js",
+      "batch": 3,
+      "bucket": "works",
+      "key": "cma:140441",
+      "title": "Вид Тигрового холма с канала у причала",
+      "date": "after 1490",
+      "image": "https://openaccess-cdn.clevelandart.org/1964.371.1/1964.371.1_web.jpg",
+      "source": "https://clevelandart.org/art/1964.371.1",
+      "imageSource": "",
+      "license": "",
+      "isPublicDomain": null,
+      "creditLine": "",
+      "partial": false,
+      "attribution": "",
+      "family": "",
+      "sections": [
+        {
+          "id": "ming",
+          "title": "Мин",
+          "group": "china"
+        }
+      ],
+      "status": "not_found_in_current_base",
+      "duplicateOf": null,
+      "previouslyReviewedBatch": false
+    }
+  ]
+}

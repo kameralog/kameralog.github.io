@@ -1,0 +1,792 @@
+{
+  "snapshot": "56f79e56736fec0c034ae3ec8644fd3c4a8d50d2",
+  "criterion": "Nonempty work.image; no license, attribution or style exclusion",
+  "scope": "All batch files and initial ARTISTS; works and pendingWorks inspected",
+  "batchFiles": 88,
+  "artists": 507,
+  "baseRecords": 600,
+  "baseQuizTrue": 340,
+  "withImageRecords": 320,
+  "withoutImageRecords": 187,
+  "withImageArtists": 230,
+  "statuses": {
+    "not_found_in_current_base": 177,
+    "already_active": 112,
+    "existing_not_active": 30,
+    "possible_existing_by_url": 1
+  },
+  "remainingBatches": {
+    "withImageRecords": 301,
+    "withImageArtists": 213,
+    "statuses": {
+      "not_found_in_current_base": 158,
+      "already_active": 112,
+      "existing_not_active": 30,
+      "possible_existing_by_url": 1
+    }
+  },
+  "candidateRecords": 208,
+  "candidateArtists": 160,
+  "candidateRemainingRecords": 189,
+  "duplicateCatalogueRecords": 0,
+  "candidatePages": 9,
+  "perBatch": [
+    {
+      "file": "artists-batch-2.js",
+      "registered": 4,
+      "withImages": 17,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 15,
+        "already_active": 1,
+        "existing_not_active": 1
+      }
+    },
+    {
+      "file": "artists-batch-3.js",
+      "registered": 4,
+      "withImages": 13,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 13
+      }
+    },
+    {
+      "file": "artists-batch-4.js",
+      "registered": 3,
+      "withImages": 8,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 6,
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-5.js",
+      "registered": 3,
+      "withImages": 5,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 1,
+        "not_found_in_current_base": 4
+      }
+    },
+    {
+      "file": "artists-batch-6.js",
+      "registered": 5,
+      "withImages": 14,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 14
+      }
+    },
+    {
+      "file": "artists-batch-7.js",
+      "registered": 10,
+      "withImages": 16,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 14,
+        "existing_not_active": 2
+      }
+    },
+    {
+      "file": "artists-batch-8.js",
+      "registered": 10,
+      "withImages": 10,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 9,
+        "existing_not_active": 1
+      }
+    },
+    {
+      "file": "artists-batch-9.js",
+      "registered": 11,
+      "withImages": 18,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 14,
+        "existing_not_active": 4
+      }
+    },
+    {
+      "file": "artists-batch-10.js",
+      "registered": 14,
+      "withImages": 14,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 13,
+        "existing_not_active": 1
+      }
+    },
+    {
+      "file": "artists-batch-11.js",
+      "registered": 1,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-12.js",
+      "registered": 1,
+      "withImages": 1,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-13.js",
+      "registered": 1,
+      "withImages": 1,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-14.js",
+      "registered": 3,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-15.js",
+      "registered": 7,
+      "withImages": 6,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 6
+      }
+    },
+    {
+      "file": "artists-batch-16.js",
+      "registered": 6,
+      "withImages": 5,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 5
+      }
+    },
+    {
+      "file": "artists-batch-17.js",
+      "registered": 11,
+      "withImages": 10,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 7,
+        "existing_not_active": 2,
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-18.js",
+      "registered": 11,
+      "withImages": 15,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 6,
+        "not_found_in_current_base": 5,
+        "existing_not_active": 4
+      }
+    },
+    {
+      "file": "artists-batch-19.js",
+      "registered": 17,
+      "withImages": 21,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 9,
+        "already_active": 6,
+        "existing_not_active": 6
+      }
+    },
+    {
+      "file": "artists-batch-20.js",
+      "registered": 17,
+      "withImages": 18,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 7,
+        "not_found_in_current_base": 7,
+        "existing_not_active": 4
+      }
+    },
+    {
+      "file": "artists-batch-21.js",
+      "registered": 11,
+      "withImages": 11,
+      "withoutImages": 0,
+      "statuses": {
+        "already_active": 5,
+        "not_found_in_current_base": 2,
+        "existing_not_active": 4
+      }
+    },
+    {
+      "file": "artists-batch-22.js",
+      "registered": 11,
+      "withImages": 10,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 5,
+        "already_active": 5
+      }
+    },
+    {
+      "file": "artists-batch-23.js",
+      "registered": 16,
+      "withImages": 15,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 9,
+        "already_active": 6
+      }
+    },
+    {
+      "file": "artists-batch-24.js",
+      "registered": 6,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-25.js",
+      "registered": 15,
+      "withImages": 6,
+      "withoutImages": 9,
+      "statuses": {
+        "already_active": 2,
+        "not_found_in_current_base": 4
+      }
+    },
+    {
+      "file": "artists-batch-26.js",
+      "registered": 3,
+      "withImages": 1,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-27.js",
+      "registered": 4,
+      "withImages": 1,
+      "withoutImages": 0,
+      "statuses": {
+        "possible_existing_by_url": 1
+      }
+    },
+    {
+      "file": "artists-batch-28.js",
+      "registered": 6,
+      "withImages": 4,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 4
+      }
+    },
+    {
+      "file": "artists-batch-29.js",
+      "registered": 6,
+      "withImages": 2,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-30.js",
+      "registered": 13,
+      "withImages": 0,
+      "withoutImages": 0,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-31.js",
+      "registered": 16,
+      "withImages": 0,
+      "withoutImages": 0,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-32.js",
+      "registered": 2,
+      "withImages": 0,
+      "withoutImages": 0,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-33.js",
+      "registered": 7,
+      "withImages": 0,
+      "withoutImages": 0,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-34.js",
+      "registered": 4,
+      "withImages": 0,
+      "withoutImages": 0,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-35.js",
+      "registered": 6,
+      "withImages": 0,
+      "withoutImages": 0,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-36.js",
+      "registered": 3,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-37.js",
+      "registered": 3,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-38.js",
+      "registered": 3,
+      "withImages": 2,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-39.js",
+      "registered": 3,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-40.js",
+      "registered": 3,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-41.js",
+      "registered": 3,
+      "withImages": 3,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 3
+      }
+    },
+    {
+      "file": "artists-batch-42.js",
+      "registered": 3,
+      "withImages": 0,
+      "withoutImages": 0,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-43.js",
+      "registered": 3,
+      "withImages": 1,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-44.js",
+      "registered": 3,
+      "withImages": 2,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-45.js",
+      "registered": 2,
+      "withImages": 2,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-46.js",
+      "registered": 2,
+      "withImages": 1,
+      "withoutImages": 1,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-47.js",
+      "registered": 2,
+      "withImages": 0,
+      "withoutImages": 2,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-48.js",
+      "registered": 2,
+      "withImages": 1,
+      "withoutImages": 1,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-49.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-50.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-51.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-52.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-53.js",
+      "registered": 5,
+      "withImages": 2,
+      "withoutImages": 3,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-54.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-55.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-56.js",
+      "registered": 5,
+      "withImages": 2,
+      "withoutImages": 3,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-57.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-58.js",
+      "registered": 5,
+      "withImages": 2,
+      "withoutImages": 3,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-59.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-60.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-61.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-62.js",
+      "registered": 5,
+      "withImages": 2,
+      "withoutImages": 3,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-63.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-64.js",
+      "registered": 5,
+      "withImages": 2,
+      "withoutImages": 3,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-65.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-66.js",
+      "registered": 5,
+      "withImages": 2,
+      "withoutImages": 3,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-67.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-68.js",
+      "registered": 5,
+      "withImages": 2,
+      "withoutImages": 3,
+      "statuses": {
+        "not_found_in_current_base": 2
+      }
+    },
+    {
+      "file": "artists-batch-69.js",
+      "registered": 5,
+      "withImages": 5,
+      "withoutImages": 0,
+      "statuses": {
+        "not_found_in_current_base": 5
+      }
+    },
+    {
+      "file": "artists-batch-70.js",
+      "registered": 5,
+      "withImages": 1,
+      "withoutImages": 4,
+      "statuses": {
+        "not_found_in_current_base": 1
+      }
+    },
+    {
+      "file": "artists-batch-71.js",
+      "registered": 4,
+      "withImages": 1,
+      "withoutImages": 3,
+      "statuses": {
+        "already_active": 1
+      }
+    },
+    {
+      "file": "artists-batch-72.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-73.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-74.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-75.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-76.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-77.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-78.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-79.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-80.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-81.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-82.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-83.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-84.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-85.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-86.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-87.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-88.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    },
+    {
+      "file": "artists-batch-89.js",
+      "registered": 5,
+      "withImages": 0,
+      "withoutImages": 5,
+      "statuses": {}
+    }
+  ],
+  "imageHttpRequestsPerformed": false,
+  "imageVisualReviewPerformed": false,
+  "licensesReverified": false,
+  "gameFilesModified": false
+}

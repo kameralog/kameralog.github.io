@@ -1,0 +1,1314 @@
+{
+  "snapshot": "56f79e56736fec0c034ae3ec8644fd3c4a8d50d2",
+  "rows": [
+    {
+      "artistId": "manaku",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Кришна играет в жмурки"
+    },
+    {
+      "artistId": "purkhu",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Посланница убеждает Радху отказаться от гордости"
+    },
+    {
+      "artistId": "kota_master_a",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Рам Сингх I охотится на носорога"
+    },
+    {
+      "artistId": "sahibdin",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Обманутая героиня"
+    },
+    {
+      "artistId": "sahibdin",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Кришна и Радха в беседке"
+    },
+    {
+      "artistId": "nasiruddin",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Шри-рага из Чавандской Рагамалы"
+    },
+    {
+      "artistId": "bagta",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Рават Гокул Дас у Сингх-Сагара"
+    },
+    {
+      "artistId": "bhawani_das",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Большая индийская летучая лисица — подписная версия"
+    },
+    {
+      "artistId": "ghulam_ali_khan",
+      "file": "artists-batch-25.js",
+      "bucket": "pendingWorks",
+      "key": "",
+      "title": "Восемь мужчин в индийских и бирманских костюмах"
+    },
+    {
+      "artistId": "bernardino_butinone",
+      "file": "artists-batch-46.js",
+      "bucket": "pendingWorks",
+      "key": "thyssen:1977.45",
+      "title": "Рождество"
+    },
+    {
+      "artistId": "giovanni_antonio_boltraffio",
+      "file": "artists-batch-47.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG728",
+      "title": "Мадонна с Младенцем"
+    },
+    {
+      "artistId": "marco_d_oggiono",
+      "file": "artists-batch-47.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1665",
+      "title": "Портрет двадцатилетнего мужчины («Портрет Аркинто»)"
+    },
+    {
+      "artistId": "francesco_melzi",
+      "file": "artists-batch-48.js",
+      "bucket": "pendingWorks",
+      "key": "hermitage:29598",
+      "title": "Флора"
+    },
+    {
+      "artistId": "giampietrino",
+      "file": "artists-batch-49.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3930",
+      "title": "Саломея"
+    },
+    {
+      "artistId": "andrea_solario",
+      "file": "artists-batch-49.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG734",
+      "title": "Джованни Кристофоро Лонгони"
+    },
+    {
+      "artistId": "cesare_da_sesto",
+      "file": "artists-batch-49.js",
+      "bucket": "pendingWorks",
+      "key": "khm:GG202",
+      "title": "Саломея с головой Иоанна Крестителя"
+    },
+    {
+      "artistId": "bernardo_zenale",
+      "file": "artists-batch-49.js",
+      "bucket": "pendingWorks",
+      "key": "treviglio:polittico-san-martino",
+      "title": "Полиптих Святого Мартина — совместно с Бернардино Бутиноне"
+    },
+    {
+      "artistId": "francesco_francia",
+      "file": "artists-batch-50.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG179",
+      "title": "Богоматерь с Младенцем, святой Анной, Иоанном Крестителем и четырьмя святыми"
+    },
+    {
+      "artistId": "cima_da_conegliano",
+      "file": "artists-batch-50.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG816",
+      "title": "Неверие святого Фомы"
+    },
+    {
+      "artistId": "bartolomeo_montagna",
+      "file": "artists-batch-50.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG802",
+      "title": "Мадонна с Младенцем"
+    },
+    {
+      "artistId": "marco_basaiti",
+      "file": "artists-batch-50.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2499",
+      "title": "Мадонна с Младенцем"
+    },
+    {
+      "artistId": "moretto_da_brescia",
+      "file": "artists-batch-51.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG299",
+      "title": "Портрет графа Фортунато Мартиненго"
+    },
+    {
+      "artistId": "girolamo_romanino",
+      "file": "artists-batch-51.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG297.1",
+      "title": "Рождество — центральная панель алтаря Сан-Алессандро"
+    },
+    {
+      "artistId": "giovanni_battista_moroni",
+      "file": "artists-batch-51.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG697",
+      "title": "Портной («Il Tagliapanni»)"
+    },
+    {
+      "artistId": "giovanni_antonio_pordenone",
+      "file": "artists-batch-51.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG4038",
+      "title": "Святой Бонавентура — фрагмент потолка"
+    },
+    {
+      "artistId": "dosso_dossi",
+      "file": "artists-batch-51.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3924",
+      "title": "Поклонение волхвов"
+    },
+    {
+      "artistId": "garofalo",
+      "file": "artists-batch-52.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1362",
+      "title": "Две пары с Купидоном — прежде «Аллегория любви»"
+    },
+    {
+      "artistId": "ludovico_mazzolino",
+      "file": "artists-batch-52.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG82",
+      "title": "Святое семейство со святыми Елизаветой, Франциском и Иоанном Крестителем"
+    },
+    {
+      "artistId": "fra_bartolomeo",
+      "file": "artists-batch-52.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3914",
+      "title": "Богоматерь, поклоняющаяся Младенцу, со святым Иосифом"
+    },
+    {
+      "artistId": "sodoma",
+      "file": "artists-batch-52.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3947",
+      "title": "Кающийся святой Иероним"
+    },
+    {
+      "artistId": "domenico_beccafumi",
+      "file": "artists-batch-52.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1430",
+      "title": "История Папирия"
+    },
+    {
+      "artistId": "rosso_fiorentino",
+      "file": "artists-batch-53.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6584",
+      "title": "Портрет молодого человека с письмом"
+    },
+    {
+      "artistId": "giuseppe_salviati",
+      "file": "artists-batch-53.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3942",
+      "title": "Правосудие"
+    },
+    {
+      "artistId": "michele_tosini",
+      "file": "artists-batch-53.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG652",
+      "title": "Милосердие — аллегория любви"
+    },
+    {
+      "artistId": "quinten_massys",
+      "file": "artists-batch-54.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG5769",
+      "title": "Старая женщина — известна как «Безобразная герцогиня»"
+    },
+    {
+      "artistId": "joos_van_cleve",
+      "file": "artists-batch-54.js",
+      "bucket": "pendingWorks",
+      "key": "thyssen:1930.128",
+      "title": "Автопортрет"
+    },
+    {
+      "artistId": "bernaert_van_orley",
+      "file": "artists-batch-54.js",
+      "bucket": "pendingWorks",
+      "key": "thyssen:1930.83",
+      "title": "Отдых на пути в Египет"
+    },
+    {
+      "artistId": "pieter_aertsen",
+      "file": "artists-batch-54.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-3",
+      "title": "Танец с яйцом"
+    },
+    {
+      "artistId": "joachim_beuckelaer",
+      "file": "artists-batch-55.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6586",
+      "title": "Четыре стихии: Вода"
+    },
+    {
+      "artistId": "jan_sanders_van_hemessen",
+      "file": "artists-batch-55.js",
+      "bucket": "pendingWorks",
+      "key": "prado:2ab4b602-9b75-48ce-b6bb-1d9a5631076e",
+      "title": "Хирург, или Извлечение камня глупости"
+    },
+    {
+      "artistId": "marinus_van_reymerswale",
+      "file": "artists-batch-55.js",
+      "bucket": "pendingWorks",
+      "key": "prado:P002567",
+      "title": "Сборщик налогов и его жена — прежде «Меняла и его жена»"
+    },
+    {
+      "artistId": "cornelis_engebrechtsz",
+      "file": "artists-batch-55.js",
+      "bucket": "pendingWorks",
+      "key": "ng:L1234",
+      "title": "Оплакивание с донаторами и святыми — совместно с мастерской"
+    },
+    {
+      "artistId": "lucas_van_leyden",
+      "file": "artists-batch-56.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3604",
+      "title": "Мужчина в возрасте 38 лет"
+    },
+    {
+      "artistId": "jacob_cornelisz_van_oostsanen",
+      "file": "artists-batch-56.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-668",
+      "title": "Саул у Аэндорской волшебницы"
+    },
+    {
+      "artistId": "herri_met_de_bles",
+      "file": "artists-batch-56.js",
+      "bucket": "pendingWorks",
+      "key": "thyssen:1929.2",
+      "title": "Пейзаж со святым Христофором"
+    },
+    {
+      "artistId": "hendrick_goltzius",
+      "file": "artists-batch-57.js",
+      "bucket": "pendingWorks",
+      "key": "lacma:M.84.191",
+      "title": "Спящая Даная, приготовляемая к приходу Юпитера"
+    },
+    {
+      "artistId": "karel_van_mander",
+      "file": "artists-batch-57.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-4690",
+      "title": "Великодушие Сципиона"
+    },
+    {
+      "artistId": "joachim_wtewael",
+      "file": "artists-batch-57.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6334",
+      "title": "Суд Париса"
+    },
+    {
+      "artistId": "cornelis_ketel",
+      "file": "artists-batch-57.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-244",
+      "title": "Портрет Хендрика де Кейзера"
+    },
+    {
+      "artistId": "paul_bril",
+      "file": "artists-batch-58.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG4029",
+      "title": "Диана и Каллисто"
+    },
+    {
+      "artistId": "joos_de_momper",
+      "file": "artists-batch-58.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-273",
+      "title": "Пейзаж"
+    },
+    {
+      "artistId": "tobias_verhaecht",
+      "file": "artists-batch-58.js",
+      "bucket": "pendingWorks",
+      "key": "cmn:aulteribe-landscape-monks",
+      "title": "Пейзаж с монахами"
+    },
+    {
+      "artistId": "bartholomeus_breenbergh",
+      "file": "artists-batch-59.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG208",
+      "title": "Нахождение младенца Моисея дочерью фараона"
+    },
+    {
+      "artistId": "cornelis_van_poelenburgh",
+      "file": "artists-batch-59.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG955",
+      "title": "Купающиеся женщины в пейзаже"
+    },
+    {
+      "artistId": "jan_both",
+      "file": "artists-batch-59.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG957",
+      "title": "Пастух и погонщики у водоёма"
+    },
+    {
+      "artistId": "herman_van_swanevelt",
+      "file": "artists-batch-59.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-4713",
+      "title": "Пейзаж с крещением евнуха"
+    },
+    {
+      "artistId": "pieter_lastman",
+      "file": "artists-batch-60.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6272",
+      "title": "Юнона обнаруживает Юпитера с Ио"
+    },
+    {
+      "artistId": "jan_pynas",
+      "file": "artists-batch-60.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-1626",
+      "title": "Аарон превращает воду реки в кровь"
+    },
+    {
+      "artistId": "jacob_pynas",
+      "file": "artists-batch-60.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6460",
+      "title": "Горный пейзаж с Нарциссом"
+    },
+    {
+      "artistId": "nicolaes_moeyaert",
+      "file": "artists-batch-60.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:2a8696eabd19ab054f70e7f23388d036",
+      "title": "Встреча Иакова и Рахили"
+    },
+    {
+      "artistId": "moyses_van_wtenbrouck",
+      "file": "artists-batch-60.js",
+      "bucket": "pendingWorks",
+      "key": "mauritshuis:1059",
+      "title": "Пейзаж с пастухами"
+    },
+    {
+      "artistId": "willem_duyster",
+      "file": "artists-batch-61.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1387",
+      "title": "Двое мужчин играют в триктрак, женщина ведёт счёт"
+    },
+    {
+      "artistId": "pieter_quast",
+      "file": "artists-batch-61.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6410",
+      "title": "Стоящий мужчина"
+    },
+    {
+      "artistId": "jacob_duck",
+      "file": "artists-batch-61.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-93",
+      "title": "Солдаты в конюшне"
+    },
+    {
+      "artistId": "anthonie_palamedesz",
+      "file": "artists-batch-61.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-1906",
+      "title": "Весёлая компания в комнате"
+    },
+    {
+      "artistId": "dirck_hals",
+      "file": "artists-batch-62.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1074",
+      "title": "Компания за столом"
+    },
+    {
+      "artistId": "esaias_boursse",
+      "file": "artists-batch-62.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-767",
+      "title": "Интерьер с женщиной за прялкой"
+    },
+    {
+      "artistId": "quiringh_van_brekelenkam",
+      "file": "artists-batch-62.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2550",
+      "title": "Женщина, заснувшая у огня"
+    },
+    {
+      "artistId": "ludolf_de_jongh",
+      "file": "artists-batch-63.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-1858",
+      "title": "Охота на лису"
+    },
+    {
+      "artistId": "jacob_ochtervelt",
+      "file": "artists-batch-63.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2553",
+      "title": "Девушка, подстригающая ногти, в сопровождении служанки"
+    },
+    {
+      "artistId": "eglon_hendrik_van_der_neer",
+      "file": "artists-batch-63.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2535",
+      "title": "Юдифь"
+    },
+    {
+      "artistId": "cornelis_de_man",
+      "file": "artists-batch-63.js",
+      "bucket": "pendingWorks",
+      "key": "budapest:320",
+      "title": "Шахматисты"
+    },
+    {
+      "artistId": "jan_verkolje",
+      "file": "artists-batch-63.js",
+      "bucket": "pendingWorks",
+      "key": "mauritshuis:865",
+      "title": "Вестник"
+    },
+    {
+      "artistId": "bartholomeus_van_der_helst",
+      "file": "artists-batch-64.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1248",
+      "title": "Девочка в бледно-голубом платье с веером из страусиных перьев"
+    },
+    {
+      "artistId": "nicolaes_eliasz_pickenoy",
+      "file": "artists-batch-64.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-699",
+      "title": "Портрет Марии Йоахимс Свартенхонт"
+    },
+    {
+      "artistId": "jan_van_ravesteyn",
+      "file": "artists-batch-64.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-1950",
+      "title": "Мужской портрет, предположительно Ян Дублет"
+    },
+    {
+      "artistId": "bartholomeus_van_bassen",
+      "file": "artists-batch-65.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3164",
+      "title": "Интерьер церкви Святой Кунеры в Ренене"
+    },
+    {
+      "artistId": "hendrick_van_steenwyck_the_younger",
+      "file": "artists-batch-65.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG4040",
+      "title": "Интерьер готической церкви, вид на восток"
+    },
+    {
+      "artistId": "dirck_van_delen",
+      "file": "artists-batch-65.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1010",
+      "title": "Архитектурная фантазия"
+    },
+    {
+      "artistId": "susanna_van_steenwijck",
+      "file": "artists-batch-65.js",
+      "bucket": "pendingWorks",
+      "key": "lakenhal:S410",
+      "title": "Вид Лакенхала в Лейдене"
+    },
+    {
+      "artistId": "jan_van_der_heyden",
+      "file": "artists-batch-66.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6526",
+      "title": "Вид Вестеркерк в Амстердаме"
+    },
+    {
+      "artistId": "gerrit_berckheyde",
+      "file": "artists-batch-66.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1420",
+      "title": "Рыночная площадь и Гроте-керк в Харлеме"
+    },
+    {
+      "artistId": "egbert_van_der_poel",
+      "file": "artists-batch-66.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1061",
+      "title": "Вид Делфта после взрыва 1654 года"
+    },
+    {
+      "artistId": "floris_van_dijck",
+      "file": "artists-batch-67.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-4821",
+      "title": "Натюрморт с сырами"
+    },
+    {
+      "artistId": "nicolaes_gillis",
+      "file": "artists-batch-67.js",
+      "bucket": "pendingWorks",
+      "key": "ngp:O1478",
+      "title": "Накрытый стол"
+    },
+    {
+      "artistId": "floris_van_schooten",
+      "file": "artists-batch-67.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-2058",
+      "title": "Фрукты и овощи с Христом в Эммаусе на заднем плане"
+    },
+    {
+      "artistId": "jan_jansz_den_uyl",
+      "file": "artists-batch-67.js",
+      "bucket": "pendingWorks",
+      "key": "mfa:54.1606",
+      "title": "Завтрак со стеклянной и металлической посудой"
+    },
+    {
+      "artistId": "roelof_koets",
+      "file": "artists-batch-68.js",
+      "bucket": "pendingWorks",
+      "key": "hamburg:HK508",
+      "title": "Натюрморт — совместно с Питером Класом"
+    },
+    {
+      "artistId": "pieter_van_roestraten",
+      "file": "artists-batch-68.js",
+      "bucket": "pendingWorks",
+      "key": "rct:402604",
+      "title": "Vanitas со скрытым автопортретом"
+    },
+    {
+      "artistId": "cornelis_de_heem",
+      "file": "artists-batch-68.js",
+      "bucket": "pendingWorks",
+      "key": "mauritshuis:50",
+      "title": "Фруктовый натюрморт"
+    },
+    {
+      "artistId": "jan_philip_van_thielen",
+      "file": "artists-batch-70.js",
+      "bucket": "pendingWorks",
+      "key": "nga:1992.51.4",
+      "title": "Розы и тюльпан в стеклянной вазе"
+    },
+    {
+      "artistId": "gaspar_peeter_verbruggen_the_elder",
+      "file": "artists-batch-70.js",
+      "bucket": "pendingWorks",
+      "key": "ipswich:R1919-55",
+      "title": "Цветочная композиция"
+    },
+    {
+      "artistId": "jean_baptiste_monnoyer",
+      "file": "artists-batch-70.js",
+      "bucket": "pendingWorks",
+      "key": "thyssen:CTB.1987.6",
+      "title": "Букет с ромашками, французскими розами и другими цветами"
+    },
+    {
+      "artistId": "jean_baptiste_belin_de_fontenay",
+      "file": "artists-batch-70.js",
+      "bucket": "pendingWorks",
+      "key": "met:189540",
+      "title": "Ваза с цветами"
+    },
+    {
+      "artistId": "willem_claesz_heda",
+      "file": "artists-batch-71.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-4830",
+      "title": "Натюрморт с позолоченной чашей"
+    },
+    {
+      "artistId": "aelbert_cuyp",
+      "file": "artists-batch-71.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6522",
+      "title": "Речной пейзаж с всадником и крестьянами"
+    },
+    {
+      "artistId": "herman_saftleven",
+      "file": "artists-batch-71.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG991",
+      "title": "Рейнский пейзаж с башнями замка"
+    },
+    {
+      "artistId": "jan_lingelbach",
+      "file": "artists-batch-72.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG837",
+      "title": "Крестьяне, нагружающие телегу сеном"
+    },
+    {
+      "artistId": "meindert_hobbema",
+      "file": "artists-batch-72.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG830",
+      "title": "Аллея в Мидделхарнисе"
+    },
+    {
+      "artistId": "philips_wouwerman",
+      "file": "artists-batch-72.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG881",
+      "title": "Белая лошадь и старик, связывающий хворост"
+    },
+    {
+      "artistId": "frans_van_mieris_the_elder",
+      "file": "artists-batch-72.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG840",
+      "title": "Женщина в красной кофте, кормящая попугая"
+    },
+    {
+      "artistId": "jan_van_goyen",
+      "file": "artists-batch-72.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG151",
+      "title": "Речной пейзаж"
+    },
+    {
+      "artistId": "jan_porcellis",
+      "file": "artists-batch-73.js",
+      "bucket": "pendingWorks",
+      "key": "boijmans:1675-OK",
+      "title": "Устье реки в штормовую погоду"
+    },
+    {
+      "artistId": "simon_de_vlieger",
+      "file": "artists-batch-73.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3025",
+      "title": "Голландский военный корабль и различные суда при ветре"
+    },
+    {
+      "artistId": "jan_van_de_cappelle",
+      "file": "artists-batch-73.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG965",
+      "title": "Голландская яхта, стреляющая салют, среди судов на якоре"
+    },
+    {
+      "artistId": "willem_van_de_velde_the_younger",
+      "file": "artists-batch-73.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG978",
+      "title": "Голландская яхта, стреляющая салют"
+    },
+    {
+      "artistId": "ludolf_bakhuizen",
+      "file": "artists-batch-73.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG204",
+      "title": "Голландские военные корабли у Энкхёйзена"
+    },
+    {
+      "artistId": "willem_van_de_velde_the_elder",
+      "file": "artists-batch-74.js",
+      "bucket": "pendingWorks",
+      "key": "rmg:BHC0305",
+      "title": "Первое сражение при Схоневелде, 28 мая 1673 года"
+    },
+    {
+      "artistId": "hendrick_dubbels",
+      "file": "artists-batch-74.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2587",
+      "title": "Голландская яхта и другие суда в штиль у берега"
+    },
+    {
+      "artistId": "abraham_storck",
+      "file": "artists-batch-74.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG146",
+      "title": "Речной вид"
+    },
+    {
+      "artistId": "bonaventura_peeters_the_elder",
+      "file": "artists-batch-74.js",
+      "bucket": "pendingWorks",
+      "key": "rmg:BHC0759",
+      "title": "Морской пейзаж с моряками, укрывающимися от ливня"
+    },
+    {
+      "artistId": "reinier_nooms",
+      "file": "artists-batch-74.js",
+      "bucket": "pendingWorks",
+      "key": "rmg:BHC0273",
+      "title": "Сражение Первой англо-голландской войны 1652–1654 годов"
+    },
+    {
+      "artistId": "paulus_potter",
+      "file": "artists-batch-75.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2583",
+      "title": "Коровы и овцы в грозовом пейзаже"
+    },
+    {
+      "artistId": "nicolaes_berchem",
+      "file": "artists-batch-75.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG820",
+      "title": "Крестьяне у разрушенного акведука"
+    },
+    {
+      "artistId": "adriaen_van_de_velde",
+      "file": "artists-batch-75.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG867",
+      "title": "Ферма с сухим деревом"
+    },
+    {
+      "artistId": "karel_dujardin",
+      "file": "artists-batch-75.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG826",
+      "title": "Домашние животные с мальчиком и спящей пастушкой"
+    },
+    {
+      "artistId": "jan_asselijn",
+      "file": "artists-batch-75.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-4",
+      "title": "Лебедь под угрозой"
+    },
+    {
+      "artistId": "hendrick_avercamp",
+      "file": "artists-batch-76.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1346",
+      "title": "Зимняя сцена с конькобежцами у замка"
+    },
+    {
+      "artistId": "esaias_van_de_velde",
+      "file": "artists-batch-76.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6269",
+      "title": "Зимний пейзаж"
+    },
+    {
+      "artistId": "aert_van_der_neer",
+      "file": "artists-batch-76.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG969",
+      "title": "Замёрзшая река у города вечером"
+    },
+    {
+      "artistId": "isack_van_ostade",
+      "file": "artists-batch-76.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG848",
+      "title": "Зимняя сцена"
+    },
+    {
+      "artistId": "arent_arentsz",
+      "file": "artists-batch-76.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3533",
+      "title": "Рыбаки у замка Мёйден"
+    },
+    {
+      "artistId": "cornelis_vroom",
+      "file": "artists-batch-77.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3475",
+      "title": "Пейзаж с рекой у леса"
+    },
+    {
+      "artistId": "allart_van_everdingen",
+      "file": "artists-batch-77.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1701",
+      "title": "Лесопилка у бурного потока"
+    },
+    {
+      "artistId": "jan_wijnants",
+      "file": "artists-batch-77.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG971",
+      "title": "Пейзаж с высокой дюной и крестьянами на дороге"
+    },
+    {
+      "artistId": "philips_koninck",
+      "file": "artists-batch-77.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG4251",
+      "title": "Обширный пейзаж"
+    },
+    {
+      "artistId": "frederick_de_moucheron",
+      "file": "artists-batch-77.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1352",
+      "title": "Пейзаж с античными руинами"
+    },
+    {
+      "artistId": "ferdinand_bol",
+      "file": "artists-batch-78.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG679",
+      "title": "Астроном"
+    },
+    {
+      "artistId": "govert_flinck",
+      "file": "artists-batch-78.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG4068",
+      "title": "Автопортрет в возрасте 24 лет"
+    },
+    {
+      "artistId": "nicolaes_maes",
+      "file": "artists-batch-78.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG207",
+      "title": "Ленивая служанка"
+    },
+    {
+      "artistId": "gerbrand_van_den_eeckhout",
+      "file": "artists-batch-78.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG1459",
+      "title": "Четыре руководителя амстердамской гильдии бочаров и разливщиков вина"
+    },
+    {
+      "artistId": "samuel_van_hoogstraten",
+      "file": "artists-batch-78.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3832",
+      "title": "Перспективный ящик с видами интерьера голландского дома"
+    },
+    {
+      "artistId": "carel_fabritius",
+      "file": "artists-batch-79.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3714",
+      "title": "Вид Делфта с лавкой продавца музыкальных инструментов"
+    },
+    {
+      "artistId": "jan_lievens",
+      "file": "artists-batch-79.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2864",
+      "title": "Автопортрет"
+    },
+    {
+      "artistId": "jan_victors",
+      "file": "artists-batch-79.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-451",
+      "title": "Иосиф толкует сны хлебодара и виночерпия"
+    },
+    {
+      "artistId": "salomon_koninck",
+      "file": "artists-batch-79.js",
+      "bucket": "pendingWorks",
+      "key": "rijks:SK-A-2220",
+      "title": "Идолопоклонство царя Соломона"
+    },
+    {
+      "artistId": "aert_de_gelder",
+      "file": "artists-batch-79.js",
+      "bucket": "pendingWorks",
+      "key": "dulwich:DPG126",
+      "title": "Сон Иакова"
+    },
+    {
+      "artistId": "gerrit_van_honthorst",
+      "file": "artists-batch-80.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG3679",
+      "title": "Христос перед первосвященником"
+    },
+    {
+      "artistId": "hendrick_ter_brugghen",
+      "file": "artists-batch-80.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6483",
+      "title": "Концерт"
+    },
+    {
+      "artistId": "dirck_van_baburen",
+      "file": "artists-batch-80.js",
+      "bucket": "pendingWorks",
+      "key": "mfa:50.2721",
+      "title": "Сводня"
+    },
+    {
+      "artistId": "matthias_stom",
+      "file": "artists-batch-80.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6645",
+      "title": "Саломея получает голову Иоанна Крестителя"
+    },
+    {
+      "artistId": "adam_de_coster",
+      "file": "artists-batch-80.js",
+      "bucket": "pendingWorks",
+      "key": "ngi:NGI.1005",
+      "title": "Мужчина, поющий при свечах"
+    },
+    {
+      "artistId": "georges_de_la_tour",
+      "file": "artists-batch-81.js",
+      "bucket": "pendingWorks",
+      "key": "nga:54386",
+      "title": "Кающаяся Мария Магдалина"
+    },
+    {
+      "artistId": "valentin_de_boulogne",
+      "file": "artists-batch-81.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG4919",
+      "title": "Четыре возраста человека"
+    },
+    {
+      "artistId": "nicolas_tournier",
+      "file": "artists-batch-81.js",
+      "bucket": "pendingWorks",
+      "key": "louvre:RF1938-102",
+      "title": "Концерт"
+    },
+    {
+      "artistId": "nicolas_regnier",
+      "file": "artists-batch-81.js",
+      "bucket": "pendingWorks",
+      "key": "louvre:INV366",
+      "title": "Гадалка"
+    },
+    {
+      "artistId": "orazio_gentileschi",
+      "file": "artists-batch-81.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6684",
+      "title": "Нахождение Моисея"
+    },
+    {
+      "artistId": "bartolomeo_manfredi",
+      "file": "artists-batch-82.js",
+      "bucket": "pendingWorks",
+      "key": "aic:59847",
+      "title": "Наказание Амура"
+    },
+    {
+      "artistId": "carlo_saraceni",
+      "file": "artists-batch-82.js",
+      "bucket": "pendingWorks",
+      "key": "lacma:AC1996.37.1",
+      "title": "Мученичество святой Цецилии"
+    },
+    {
+      "artistId": "orazio_borgianni",
+      "file": "artists-batch-82.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:borgianni-selfportrait-barberini-1614",
+      "title": "Автопортрет"
+    },
+    {
+      "artistId": "giovanni_baglione",
+      "file": "artists-batch-82.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:baglione-love-barberini-1602",
+      "title": "Священная и земная любовь"
+    },
+    {
+      "artistId": "giovanni_serodine",
+      "file": "artists-batch-82.js",
+      "bucket": "pendingWorks",
+      "key": "ngs:NG1513",
+      "title": "Динарий кесаря"
+    },
+    {
+      "artistId": "annibale_carracci",
+      "file": "artists-batch-83.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG2923",
+      "title": "Оплакивание Христа («Три Марии»)"
+    },
+    {
+      "artistId": "agostino_carracci",
+      "file": "artists-batch-83.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG147",
+      "title": "Кефал, уносимый Авророй на колеснице"
+    },
+    {
+      "artistId": "ludovico_carracci",
+      "file": "artists-batch-83.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG28",
+      "title": "Сусанна и старцы"
+    },
+    {
+      "artistId": "domenichino",
+      "file": "artists-batch-83.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6629",
+      "title": "Пейзаж с укреплённым городом"
+    },
+    {
+      "artistId": "guercino",
+      "file": "artists-batch-83.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6612",
+      "title": "Илия, питаемый воронами"
+    },
+    {
+      "artistId": "giovanni_lanfranco",
+      "file": "artists-batch-84.js",
+      "bucket": "pendingWorks",
+      "key": "nga:46172",
+      "title": "Святая Цецилия и ангел"
+    },
+    {
+      "artistId": "pietro_da_cortona",
+      "file": "artists-batch-84.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG5284",
+      "title": "Святая Цецилия"
+    },
+    {
+      "artistId": "andrea_sacchi",
+      "file": "artists-batch-84.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6382",
+      "title": "Святые Антоний Великий и Франциск Ассизский"
+    },
+    {
+      "artistId": "carlo_maratta",
+      "file": "artists-batch-84.js",
+      "bucket": "pendingWorks",
+      "key": "vatican:40460",
+      "title": "Портрет папы Климента IX"
+    },
+    {
+      "artistId": "giovanni_battista_gaulli",
+      "file": "artists-batch-84.js",
+      "bucket": "pendingWorks",
+      "key": "princeton:2005-34",
+      "title": "Триумф имени Иисуса"
+    },
+    {
+      "artistId": "jusepe_de_ribera",
+      "file": "artists-batch-85.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG244",
+      "title": "Иаков со стадом Лавана"
+    },
+    {
+      "artistId": "battistello_caracciolo",
+      "file": "artists-batch-85.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:caracciolo-liberazione-san-pietro-1615",
+      "title": "Освобождение святого Петра из темницы"
+    },
+    {
+      "artistId": "massimo_stanzione",
+      "file": "artists-batch-85.js",
+      "bucket": "pendingWorks",
+      "key": "prado:P00291",
+      "title": "Святой Иоанн Креститель прощается с родителями"
+    },
+    {
+      "artistId": "bernardo_cavallino",
+      "file": "artists-batch-85.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG4778",
+      "title": "Изгнание торговцев из храма"
+    },
+    {
+      "artistId": "mattia_preti",
+      "file": "artists-batch-85.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6372",
+      "title": "Брак в Кане"
+    },
+    {
+      "artistId": "luca_giordano",
+      "file": "artists-batch-86.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6637",
+      "title": "Пещера Вечности"
+    },
+    {
+      "artistId": "francesco_solimena",
+      "file": "artists-batch-86.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6397",
+      "title": "Дидона принимает Энея и Амура под видом Аскания"
+    },
+    {
+      "artistId": "giovanni_battista_recco",
+      "file": "artists-batch-86.js",
+      "bucket": "pendingWorks",
+      "key": "nationalmuseum:NM759",
+      "title": "Натюрморт с рыбой и устрицами"
+    },
+    {
+      "artistId": "giuseppe_recco",
+      "file": "artists-batch-86.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:giuseppe-recco-fish-turtle-prado",
+      "title": "Натюрморт с рыбой и черепахой"
+    },
+    {
+      "artistId": "paolo_porpora",
+      "file": "artists-batch-86.js",
+      "bucket": "pendingWorks",
+      "key": "nationalmuseum:NM5271",
+      "title": "Натюрморт с лягушками, дикими розами, раковинами и бабочками"
+    },
+    {
+      "artistId": "andrea_vaccaro",
+      "file": "artists-batch-87.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:vaccaro-ascension-gennaro-prado",
+      "title": "Вознесение святого Януария"
+    },
+    {
+      "artistId": "aniello_falcone",
+      "file": "artists-batch-87.js",
+      "bucket": "pendingWorks",
+      "key": "prado:P00092",
+      "title": "Римские атлеты"
+    },
+    {
+      "artistId": "domenico_gargiulo",
+      "file": "artists-batch-87.js",
+      "bucket": "pendingWorks",
+      "key": "prado:P00237",
+      "title": "Триумфальный въезд Веспасиана в Рим"
+    },
+    {
+      "artistId": "viviano_codazzi",
+      "file": "artists-batch-87.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:codazzi-roman-amphitheatre-prado",
+      "title": "Перспективный вид римского амфитеатра"
+    },
+    {
+      "artistId": "francesco_de_mura",
+      "file": "artists-batch-87.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:mfab-12098",
+      "title": "Трое мужчин, смотрящих вверх"
+    },
+    {
+      "artistId": "andrea_di_lione",
+      "file": "artists-batch-88.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:di-lione-elephants-prado",
+      "title": "Слоны в цирке"
+    },
+    {
+      "artistId": "giovanni_battista_ruoppolo",
+      "file": "artists-batch-88.js",
+      "bucket": "pendingWorks",
+      "key": "mfa:90.82",
+      "title": "Натюрморт с фруктами и мёртвыми птицами в пейзаже"
+    },
+    {
+      "artistId": "giuseppe_ruoppolo",
+      "file": "artists-batch-88.js",
+      "bucket": "pendingWorks",
+      "key": "met:2020.263.10",
+      "title": "Натюрморт с фруктами и орехами"
+    },
+    {
+      "artistId": "andrea_belvedere",
+      "file": "artists-batch-88.js",
+      "bucket": "pendingWorks",
+      "key": "editorial:belvedere-prado-c1fe28dc",
+      "title": "Ваза с цветами"
+    },
+    {
+      "artistId": "abraham_brueghel",
+      "file": "artists-batch-88.js",
+      "bucket": "pendingWorks",
+      "key": "boijmans:1096-OK",
+      "title": "Фрукты и цветы"
+    },
+    {
+      "artistId": "bernardo_strozzi",
+      "file": "artists-batch-89.js",
+      "bucket": "pendingWorks",
+      "key": "ng:NG6321",
+      "title": "Аллегория Славы"
+    },
+    {
+      "artistId": "giovanni_benedetto_castiglione",
+      "file": "artists-batch-89.js",
+      "bucket": "pendingWorks",
+      "key": "met:2014.270",
+      "title": "Святой Франциск в экстазе"
+    },
+    {
+      "artistId": "valerio_castello",
+      "file": "artists-batch-89.js",
+      "bucket": "pendingWorks",
+      "key": "genova:PB2877",
+      "title": "Мадонна с покрывалом"
+    },
+    {
+      "artistId": "gregorio_de_ferrari",
+      "file": "artists-batch-89.js",
+      "bucket": "pendingWorks",
+      "key": "genova:PB1619",
+      "title": "Не прикасайся ко Мне"
+    },
+    {
+      "artistId": "alessandro_magnasco",
+      "file": "artists-batch-89.js",
+      "bucket": "pendingWorks",
+      "key": "met:1984.191",
+      "title": "Ручная сорока"
+    }
+  ]
+}
