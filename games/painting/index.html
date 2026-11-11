@@ -19,7 +19,39 @@ function changeScreen(name){if(name!=='gallery'){const br=document.querySelector
 function home(){changeScreen('home');const seen=Object.values(state.stats).filter(s=>s.seen>0).length,known=Object.values(state.stats).filter(s=>s.streak>=2).length;const topic=state.topic;
 $('view').innerHTML=`<section class="home"><p class="eyebrow">СМОТРИ. УЗНАВАЙ. ЗАПОМИНАЙ.</p><h1>Узнай эпоху.</h1><p class="lead">Одна картина и пять вариантов. После ответа — что важно заметить и с чем не перепутать.</p><div class="topics" role="group" aria-label="Раздел игры">${[['europe','Направления',pool('europe').length],['italian_century','Италия по векам',pool('italian_century').length],['world','Искусство мира',pool('world').length],['all','Вперемешку',PLAYABLE.length]].map(([id,t,n])=>`<button class="topic ${topic===id?'selected':''}" data-topic="${id}" aria-pressed="${topic===id}"><span>${t}</span><small>${n} работ</small></button>`).join('')}</div><div class="startrow"><button id="startLearn" class="primary big">Начать · 10 картин</button><button id="startExam" class="big">Экзамен · 10 картин</button></div><p class="muted">В тренировке разбор сразу. В экзамене — после всего раунда. Варианты всегда из одного исторического контекста.</p>${state.run?`<button id="resume" class="resume">Продолжить раунд · ${state.run.answers.length} ответов из ${state.run.queue.length}</button>`:''}<div class="stats"><div><span>${seen}</span><small>уже встречалось</small></div><div><span>${known}</span><small>два верных подряд</small></div><div><span>${state.mistakes.length}</span><small>ждут повторения</small></div></div><div class="startrow"><button id="review" ${state.mistakes.length?'':'disabled'}>Повторить ошибки${state.mistakes.length?' · '+state.mistakes.length:''}</button>${state.last.length?'<button id="last">Последний разбор</button>':''}</div><p class="fine">В игре ${PLAYABLE.length} работ, в коллекции — ${CARDS.length}. Неоднозначные и ещё не подготовленные записи доступны для изучения, но не попадают в счёт.</p></section>`;
 $('view').querySelectorAll('[data-topic]').forEach(b=>b.onclick=()=>{state.topic=b.dataset.topic;persist();home()});$('startLearn').onclick=()=>start('learn');$('startExam').onclick=()=>start('exam');$('review').onclick=()=>start('review');if($('resume'))$('resume').onclick=showPlay;if($('last'))$('last').onclick=()=>result(state.last,false);persist()}
-function start(mode){if(state.run&&!window.confirm('Начать новый раунд вместо текущего? Ответы уже учтены в прогрессе.'))return;const p=mode==='review'?state.mistakes.map(k=>BY.get(k)).filter(Boolean):pool(state.topic);const deck=selectRound(p,10);if(!deck.length)return;const inDeck=new Set(deck.map(c=>c.key));state.run={...window.PaintingStats?.newRun(),mode,topic:state.topic,queue:deck.map(c=>c.key),reserve:shuffle(p.filter(c=>!inDeck.has(c.key))).map(c=>c.key),i:0,current:null,answers:[],skipped:[]};persist();showPlay()}
+/*round-confirm:start*/
+let paintingRoundDialog=null,paintingRoundPending=null;
+function paintingRequestNewRound(mode,run){
+ if(paintingRoundPending)return;
+ if(!paintingRoundDialog){
+  const host=document.createElement('section');host.id='painting-round-confirm';
+  const shadow=host.attachShadow({mode:'open'});
+  shadow.innerHTML=`<style>
+:host{font:16px/1.65 system-ui;color:#f2efde}*{box-sizing:border-box}dialog{position:fixed;width:min(432px,calc(100vw - 32px));max-height:80vh;overflow:auto;padding:20px;border:1px solid #667451;border-radius:12px;background:#10130e;color:#f2efde;color-scheme:dark;font:inherit}dialog::backdrop{background:#0007}h2{margin:0 40px 14px 0;font-size:24px;line-height:1.3}p{margin:0 0 18px;color:#abb29e}button{font:inherit;cursor:pointer;padding:11px 16px;border:1px solid #58664b;border-radius:9px;background:transparent;color:#f2efde}button:hover{border-color:#d2df98;background:#252d1f}button:focus-visible{outline:3px solid #d2df98;outline-offset:3px}#close{float:right;padding:3px 11px;font-size:22px;line-height:1.3}.row{display:flex;gap:8px;flex-wrap:wrap}#replace{background:#d2df98;color:#15200d;border-color:#d2df98}#replace:hover{background:#e0eab6}@media(max-width:420px){.row button{width:100%}}
+</style><dialog aria-labelledby="title" aria-describedby="description"><button id="close" type="button" aria-label="Закрыть">×</button><h2 id="title">Новый раунд</h2><p id="description">Начать новый раунд вместо текущего? Ответы уже учтены в прогрессе.</p><div class="row"><button id="keep" type="button" autofocus>Продолжить текущий</button><button id="replace" type="button">Начать новый</button></div></dialog>`;
+  const dialog=shadow.querySelector('dialog');
+  shadow.getElementById('close').onclick=()=>dialog.close('cancel');
+  shadow.getElementById('keep').onclick=()=>dialog.close('cancel');
+  shadow.getElementById('replace').onclick=()=>dialog.close('replace');
+  dialog.addEventListener('cancel',event=>{event.preventDefault();dialog.close('cancel');});
+  const outside=event=>{const r=dialog.getBoundingClientRect();return event.target===dialog&&(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom);};
+  let backdropDown=false;
+  dialog.addEventListener('pointerdown',event=>{backdropDown=outside(event);});
+  dialog.addEventListener('click',event=>{if(backdropDown&&outside(event))dialog.close('cancel');backdropDown=false;});
+  dialog.addEventListener('close',()=>{
+   const pending=paintingRoundPending;paintingRoundPending=null;
+   if(!pending)return;
+   if(dialog.returnValue==='replace'&&state.run===pending.run)start(pending.mode,pending.run);
+   else if(pending.opener?.isConnected)pending.opener.focus();
+  });
+  document.body.append(host);paintingRoundDialog={dialog,keep:shadow.getElementById('keep')};
+ }
+ paintingRoundPending={mode,run,opener:document.activeElement};
+ const {dialog,keep}=paintingRoundDialog;dialog.returnValue='';
+ try{dialog.showModal();keep.focus();}catch(error){paintingRoundPending=null;throw error;}
+}
+/*round-confirm:end*/
+function start(mode,confirmedRun){if(state.run&&state.run!==confirmedRun){paintingRequestNewRound(mode,state.run);return;}const p=mode==='review'?state.mistakes.map(k=>BY.get(k)).filter(Boolean):pool(state.topic);const deck=selectRound(p,10);if(!deck.length)return;const inDeck=new Set(deck.map(c=>c.key));state.run={...window.PaintingStats?.newRun(),mode,topic:state.topic,queue:deck.map(c=>c.key),reserve:shuffle(p.filter(c=>!inDeck.has(c.key))).map(c=>c.key),i:0,current:null,answers:[],skipped:[]};persist();showPlay()}
 function current(){const r=state.run;if(!r)return null;const c=BY.get(r.queue[r.i]);if(!r.current||r.current.key!==c.key)r.current={key:c.key,opts:options(c),hidden:[],answered:false,selected:null,hint:false};return {r,c,q:r.current}}
 function cardNote(c){return c.studyNote?`<div class="card-note"><p class="eyebrow">Не перепутай</p><p>${esc(c.studyNote)}</p></div>`:''}
 function optionText(c,k){return GROUPS[c.group].choices[k]||k}
