@@ -63,13 +63,16 @@ async function load(append=false){
 function navigation(){
  document.querySelectorAll('[data-statistics-link]').forEach(link=>{link.hidden=!user});
  const existing=$('painting-statistics-link');
+ const account=$('painting-account-nav')||$('stats-account')||document.querySelector('body[data-player-cabinet="page"] main>header nav #account-button');
+ if(account?.parentElement&&account.nextElementSibling)account.parentElement.append(account);
  if(!user){existing?.remove();return}
- if(isPage||existing)return;
- const anchor=$('painting-account-nav')||document.querySelector('body[data-player-cabinet="page"] main>header nav');
- if(!anchor)return;const button=document.createElement('button');button.id='painting-statistics-link';button.type='button';button.textContent='Статистика';button.onclick=()=>location.href=new URL('./statistics.html',location.href).href;
- if(anchor.id)anchor.after(button);else anchor.append(button);
+ if(isPage){const link=document.querySelector('[data-statistics-link]');if(link&&account&&link.nextElementSibling!==account)account.before(link);return}
+ if(!account?.parentElement)return;
+ let button=existing;
+ if(!button){button=document.createElement('button');button.id='painting-statistics-link';button.type='button';button.textContent='Статистика';button.onclick=()=>location.href=new URL('./statistics.html',location.href).href;}
+ if(button.parentElement!==account.parentElement||button.nextElementSibling!==account)account.before(button);
 }
-if(!isPage){const observer=new MutationObserver(navigation);observer.observe(document.body,{childList:true,subtree:true});navigation();}
+const navObserver=new MutationObserver(navigation);navObserver.observe(document.body,{childList:true,subtree:true});navigation();
 if(isPage){$('stats-more').onclick=()=>load(true);$('stats-refresh').onclick=()=>{flush();load(false)};$('stats-account').onclick=()=>document.getElementById('painting-account')?.shadowRoot?.getElementById('open')?.click();}
 window.addEventListener('online',()=>{flush();if(isPage)load(false)});
 window.addEventListener('storage',e=>{if(e.key?.startsWith(prefix))flush()});
