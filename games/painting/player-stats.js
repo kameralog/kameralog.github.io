@@ -61,7 +61,10 @@ async function load(append=false){
  finally{if(stamp===generation){loading=false;$('stats-more').disabled=false}}
 }
 function navigation(){
- if(isPage||$('painting-statistics-link'))return;
+ document.querySelectorAll('[data-statistics-link]').forEach(link=>{link.hidden=!user});
+ const existing=$('painting-statistics-link');
+ if(!user){existing?.remove();return}
+ if(isPage||existing)return;
  const anchor=$('painting-account-nav')||document.querySelector('body[data-player-cabinet="page"] main>header nav');
  if(!anchor)return;const button=document.createElement('button');button.id='painting-statistics-link';button.type='button';button.textContent='Статистика';button.onclick=()=>location.href=new URL('./statistics.html',location.href).href;
  if(anchor.id)anchor.after(button);else anchor.append(button);
@@ -75,7 +78,7 @@ try{
  let app;for(let i=0;i<150;i++){app=App.getApps().find(a=>a.name==='painting-player');if(app)break;await new Promise(r=>setTimeout(r,200))}if(!app)throw Error('auth-not-ready');
  auth=A.getAuth(app);F=Fire;db=F.getFirestore(app);
  const note=document.getElementById('painting-account')?.shadowRoot?.querySelector('dialog>small:last-child');if(note)note.textContent='Можно закрыть окно и продолжить игру. Избранное доступно в кабинете, отправку новых завершённых раундов можно проверить в разделе «Статистика».';
- A.onAuthStateChanged(auth,u=>{generation++;user=u;document.dispatchEvent(new CustomEvent('painting:stats-owner',{detail:{uid:u?.uid||null}}));rows=[];cursor=null;more=false;loading=false;
+ A.onAuthStateChanged(auth,u=>{generation++;user=u;navigation();document.dispatchEvent(new CustomEvent('painting:stats-owner',{detail:{uid:u?.uid||null}}));rows=[];cursor=null;more=false;loading=false;
   if(isPage){$('stats-list').replaceChildren();$('stats-summary').textContent='';$('stats-more').hidden=true;$('stats-refresh').disabled=!u;}
   if(!u){status('Войдите до начала раунда, чтобы новые результаты сохранялись в облаке.');return}
   status('Аккаунт подключён. Ожидают отправки: '+pending(u.uid).length+'.');flush();if(isPage)load(false);
