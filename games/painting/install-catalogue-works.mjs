@@ -3,11 +3,26 @@ import vm from 'node:vm';
 import assert from 'node:assert/strict';
 const stamp='catalogue-images-177-v1',snapshot='56f79e56736fec0c034ae3ec8644fd3c4a8d50d2';
 let html=fs.readFileSync('index.html','utf8');
-function area(prefix){
- const at=html.indexOf(prefix);assert(at>=0&&html.indexOf(prefix,at+prefix.length)<0,'Expected one '+prefix);
- const start=at+prefix.length;let depth=0,quoted=false,escaped=false;
+function readAt(start){
+ let depth=0,quoted=false,escaped=false;
  for(let i=start;i<html.length;i++){const c=html[i];if(quoted){if(escaped)escaped=false;else if(c==='\\')escaped=true;else if(c==='"')quoted=false;}else if(c==='"')quoted=true;else if(c==='{'||c==='[')depth++;else if((c==='}'||c===']')&&--depth===0)return {start,end:i+1,value:JSON.parse(html.slice(start,i+1))};}
- throw Error('Unclosed '+prefix);
+ throw Error('Unclosed JSON at '+start);
+}
+function area(prefix){
+ if(prefix==='GROUPS='){
+  const cards=area('const CARDS=');
+  const joined=/^\s*,\s*GROUPS\s*=\s*(?=\{)/.exec(html.slice(cards.end));
+  const starts=joined?[cards.end+joined[0].length]:[...html.matchAll(/(?<![\w$])GROUPS\s*=\s*(?=\{)/g)].map(m=>m.index+m[0].length);
+  const candidates=[];
+  for(const start of starts){let candidate;try{candidate=readAt(start);}catch{continue;}const g=candidate.value;
+   if(g&&g.europe?.choices&&g.italian_century?.choices&&Object.values(g).every(v=>v&&typeof v.choices==='object'&&!Array.isArray(v.choices)))candidates.push(candidate);
+  }
+  assert.equal(candidates.length,1,'Expected one game GROUPS object with choices; found '+candidates.length);
+  return candidates[0];
+ }
+ const at=html.indexOf(prefix);assert(at>=0&&html.indexOf(prefix,at+prefix.length)<0,'Expected one '+prefix);
+ let start=at+prefix.length;while(/\s/.test(html[start]||'')&&start<html.length)start++;
+ return readAt(start);
 }
 const cardsArea=area('const CARDS='),CARDS=cardsArea.value,DATA=area('const DATA=').value,GROUPS=area('GROUPS=').value;
 const existingExpansion=CARDS.filter(c=>c.expansion===stamp);
