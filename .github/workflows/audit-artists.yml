@@ -1,0 +1,47 @@
+name: Audit painting artists
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'games/painting/**'
+      - '.github/scripts/audit-artists.mjs'
+      - '.github/workflows/audit-artists.yml'
+permissions:
+  contents: write
+concurrency:
+  group: painting-artists-audit
+  cancel-in-progress: false
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Audit latest sources and publish compact report
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            status=0
+            node .github/scripts/audit-artists.mjs --out reports/painting-artists.json || status=$?
+            test -s reports/painting-artists.json
+            node -e "const r=require('./reports/painting-artists.json'); console.log(JSON.stringify({status:r.status,counts:r.counts,errors:r.errors,conflicts:r.conflicts},null,2))" >> "$GITHUB_STEP_SUMMARY"
+            git add reports/painting-artists.json
+            if git diff --cached --quiet; then exit "$status"; fi
+            git commit -m "Update painting artist audit report"
+            if git push origin HEAD:main; then exit "$status"; fi
+            sleep "$((attempt * 3))"
+          done
+          echo '::error::Could not publish a current audit report'
+          exit 1
