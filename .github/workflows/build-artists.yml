@@ -9,13 +9,15 @@ on:
 permissions:
   contents: write
   pages: write
-concurrency:
-  group: painting-build
-  cancel-in-progress: false
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 40
+    concurrency:
+      group: painting-build
+      cancel-in-progress: false
+    outputs:
+      commit: ${{ steps.catalogue.outputs.commit }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -25,6 +27,7 @@ jobs:
         with:
           node-version: 20
       - name: Build latest main and commit with bounded retries
+        id: catalogue
         shell: bash
         run: |
           set -euo pipefail
@@ -68,47 +71,43 @@ jobs:
             sleep "$((attempt * 3))"
           done
           test "$published" = true
-          echo "EXPECTED_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
-      - name: Recover known blocked deployment and request Pages build
-        env:
-          GH_TOKEN: ${{ github.token }}
+          echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          echo "Catalogue built at $(git rev-parse HEAD); Pages publication is not yet verified." >> "$GITHUB_STEP_SUMMARY"
+  verify_pages:
+    name: Verify Pages publication
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      pages: write
+    concurrency:
+      group: painting-pages-verification
+      cancel-in-progress: true
+    env:
+      GH_TOKEN: ${{ github.token }}
+      EXPECTED_COMMIT: ${{ needs.build.outputs.commit }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.build.outputs.commit }}
+          fetch-depth: 0
+      - name: Check Pages source and request a build
         shell: bash
         run: |
           set -euo pipefail
           endpoint="repos/$GITHUB_REPOSITORY/pages"
-          gh api "$endpoint" > "$RUNNER_TEMP/pages.json"
+          timeout 30s gh api "$endpoint" > "$RUNNER_TEMP/pages.json"
           mode=$(jq -r '.build_type // "legacy"' "$RUNNER_TEMP/pages.json")
           if [ "$mode" != legacy ]; then
-            echo "::error::Pages uses workflow publishing. No settings changed; a custom deployment workflow is required."
+            echo "::error::Pages is not using legacy branch publishing. No settings changed."
             exit 1
           fi
           test "$(jq -r '.source.branch' "$RUNNER_TEMP/pages.json")" = main
           test "$(jq -r '.source.path' "$RUNNER_TEMP/pages.json")" = /
-          known="$endpoint/deployments/3b73a78ac2efb8d60e4a83243447bb1cc79a39fc"
-          if gh api "$known" > "$RUNNER_TEMP/known-deployment.json" 2> "$RUNNER_TEMP/pages-error"; then
-            status=$(jq -r '.status // empty' "$RUNNER_TEMP/known-deployment.json")
-            case "$status" in
-              succeed|success|failed|errored|canceled|cancelled) ;;
-              queued|deployment_queued|deployment_in_progress|syncing_files|finished_file_sync|updating_pages)
-                if ! gh api --method POST "$known/cancel" > "$RUNNER_TEMP/cancel-result" 2> "$RUNNER_TEMP/cancel-error"; then
-                  if grep -Eq 'HTTP (404|409)' "$RUNNER_TEMP/cancel-error"; then
-                    echo "::warning::Known deployment changed state during cancellation; requesting a new build."
-                  else
-                    cat "$RUNNER_TEMP/cancel-error" >&2
-                    exit 1
-                  fi
-                fi
-                ;;
-              "") echo "::warning::Known deployment returned no status; no cancellation attempted. Requesting a new build." ;;
-              *) echo "::warning::Unrecognized deployment status '$status'; no cancellation attempted. Requesting a new build." ;;
-            esac
-          elif ! grep -q 'HTTP 404' "$RUNNER_TEMP/pages-error"; then
-            cat "$RUNNER_TEMP/pages-error" >&2
-            exit 1
-          fi
           requested=false
           for attempt in 1 2 3 4 5; do
-            if gh api --method POST "$endpoint/builds" > "$RUNNER_TEMP/build-request.json" 2> "$RUNNER_TEMP/build-request-error"; then
+            if timeout 30s gh api --method POST "$endpoint/builds" > "$RUNNER_TEMP/build-request.json" 2> "$RUNNER_TEMP/build-request-error"; then
               requested=true
               break
             fi
@@ -119,34 +118,71 @@ jobs:
             sleep "$((attempt * 5))"
           done
           if [ "$requested" != true ]; then
-            echo "::error::Pages did not accept the new build request after five attempts."
+            echo "::error::Pages did not accept a build request. No publication success claimed."
             exit 1
           fi
-      - name: Verify published catalogue and visibility patch
-        env:
-          GH_TOKEN: ${{ github.token }}
+          echo "Pages build requested; publication is not yet verified."
+      - name: Verify deployed content, not exact commit equality
         shell: bash
         run: |
           set -euo pipefail
           base=$(jq -r '.html_url' "$RUNNER_TEMP/pages.json")
           case "$base" in https://*) ;; *) echo "Invalid Pages URL" >&2; exit 1;; esac
-          for attempt in $(seq 1 90); do
-            gh api "repos/$GITHUB_REPOSITORY/pages/builds/latest" > "$RUNNER_TEMP/pages-build.json"
-            status=$(jq -r '.status' "$RUNNER_TEMP/pages-build.json")
-            commit=$(jq -r '.commit' "$RUNNER_TEMP/pages-build.json")
-            if [ "$status" = errored ] && [ "$commit" = "$EXPECTED_COMMIT" ]; then
+          test "$(git rev-parse HEAD)" = "$EXPECTED_COMMIT"
+          grep -q 'registry-visibility:start' games/painting/index.html
+          deadline=$((SECONDS + 480))
+          reason="No Pages response yet"
+          for attempt in $(seq 1 30); do
+            if [ "$SECONDS" -ge "$deadline" ]; then break; fi
+            if ! timeout 20s gh api "repos/$GITHUB_REPOSITORY/pages/builds/latest" > "$RUNNER_TEMP/pages-build.json"; then
+              reason="Pages API request failed"
+              echo "attempt=$attempt reason=$reason"
+              sleep 10
+              continue
+            fi
+            status=$(jq -r '.status // "unknown"' "$RUNNER_TEMP/pages-build.json")
+            commit=$(jq -r '.commit // "unknown"' "$RUNNER_TEMP/pages-build.json")
+            echo "attempt=$attempt status=$status deployed_commit=$commit expected_snapshot=$EXPECTED_COMMIT"
+            reason="Pages status is $status"
+            if [ "$status" = errored ]; then
               jq '.error' "$RUNNER_TEMP/pages-build.json" >&2
+              echo "::error::Latest Pages build errored. No publication success claimed."
               exit 1
             fi
-            if [ "$status" = built ] && [ "$commit" = "$EXPECTED_COMMIT" ] &&
-              curl --fail --silent --show-error --location --max-time 20 "${base%/}/games/painting/artists.js?v=$EXPECTED_COMMIT" -o "$RUNNER_TEMP/live-artists.js" &&
-              cmp -s games/painting/artists.js "$RUNNER_TEMP/live-artists.js" &&
-              curl --fail --silent --show-error --location --max-time 20 "${base%/}/games/painting/?v=$EXPECTED_COMMIT" -o "$RUNNER_TEMP/live-index.html" &&
-              grep -q 'registry-visibility:start' "$RUNNER_TEMP/live-index.html"; then
-              echo "Published catalogue matches $EXPECTED_COMMIT; registry visibility patch is present."
-              exit 0
+            if [ "$status" = built ]; then
+              if [[ ! "$commit" =~ ^[0-9a-f]{40}$ ]]; then
+                echo "::error::Invalid commit returned by Pages."
+                exit 1
+              fi
+              if ! git cat-file -e "$commit^{commit}" 2>/dev/null; then
+                if ! timeout 25s git fetch --no-tags origin "$commit"; then
+                  reason="Could not fetch the deployed commit"
+                  echo "reason=$reason"
+                  sleep 10
+                  continue
+                fi
+              fi
+              if ! git diff --quiet "$EXPECTED_COMMIT" "$commit" -- games/painting/artists.js games/painting/index.html; then
+                reason="Deployed commit has different catalogue or index content"
+              elif ! curl --fail --silent --show-error --location --connect-timeout 5 --max-time 15 "${base%/}/games/painting/artists.js?v=$commit" -o "$RUNNER_TEMP/live-artists.js"; then
+                reason="Live artists.js download failed"
+              elif ! cmp -s games/painting/artists.js "$RUNNER_TEMP/live-artists.js"; then
+                reason="Live artists.js differs from the expected snapshot"
+              elif ! curl --fail --silent --show-error --location --connect-timeout 5 --max-time 15 "${base%/}/games/painting/?v=$commit" -o "$RUNNER_TEMP/live-index.html"; then
+                reason="Live index download failed"
+              elif ! cmp -s games/painting/index.html "$RUNNER_TEMP/live-index.html"; then
+                reason="Live index differs from the expected snapshot"
+              elif ! grep -q 'registry-visibility:start' "$RUNNER_TEMP/live-index.html"; then
+                reason="Live registry visibility marker is missing"
+              else
+                echo "Verified catalogue and index content for snapshot $EXPECTED_COMMIT; Pages build $commit."
+                echo "Verified catalogue and index content for snapshot $EXPECTED_COMMIT; Pages build $commit. This is not a browser or image-delivery test." >> "$GITHUB_STEP_SUMMARY"
+                exit 0
+              fi
             fi
-            sleep 15
+            echo "reason=$reason"
+            sleep 10
           done
-          echo "::error::Pages publication not verified within polling window. No success claimed."
+          echo "::error::Pages publication not verified: $reason. No success claimed."
+          echo "Pages publication NOT verified for snapshot $EXPECTED_COMMIT: $reason" >> "$GITHUB_STEP_SUMMARY"
           exit 1
