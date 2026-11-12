@@ -47,8 +47,11 @@ jobs:
               node --input-type=module --check < player-layout.js
               node install-player-auth.mjs --test
               node install-player-auth.mjs
+              node --input-type=module --check < player-saves.js
+              node --input-type=module --check < player-save-controls.js
+              node install-save-controls.mjs
             )
-            git add games/painting/artists.js games/painting/index.html games/painting/cabinet.html
+            git add games/painting/artists.js games/painting/index.html games/painting/cabinet.html games/painting/player-cabinet.js
             if git diff --cached --quiet; then
               published=true
               break
