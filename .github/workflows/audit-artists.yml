@@ -6,6 +6,7 @@ on:
     paths:
       - 'games/painting/**'
       - '.github/scripts/audit-artists.mjs'
+      - '.github/scripts/export-artists-audit.mjs'
       - '.github/workflows/audit-artists.yml'
 permissions:
   contents: write
@@ -36,8 +37,9 @@ jobs:
             status=0
             node .github/scripts/audit-artists.mjs --out reports/painting-artists.json || status=$?
             test -s reports/painting-artists.json
-            node -e "const r=require('./reports/painting-artists.json'); console.log(JSON.stringify({status:r.status,counts:r.counts,errors:r.errors,conflicts:r.conflicts},null,2))" >> "$GITHUB_STEP_SUMMARY"
-            git add reports/painting-artists.json
+            node .github/scripts/export-artists-audit.mjs
+            node -e "const r=require('./reports/painting-artists/index.json'); console.log(JSON.stringify(r,null,2))" >> "$GITHUB_STEP_SUMMARY"
+            git add reports/painting-artists.json reports/painting-artists
             if git diff --cached --quiet; then exit "$status"; fi
             git commit -m "Update painting artist audit report"
             if git push origin HEAD:main; then exit "$status"; fi
