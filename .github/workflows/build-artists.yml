@@ -38,6 +38,8 @@ jobs:
               cd games/painting
               node install-reviewed-reproductions.mjs --test
               node install-reviewed-reproductions.mjs
+              node install-package-reproductions.mjs --test
+              node install-package-reproductions.mjs
               node update-guide.mjs
               node order-sections.mjs
               node search-artists.mjs
@@ -53,7 +55,7 @@ jobs:
               node --input-type=module --check < player-save-controls.js
               node install-save-controls.mjs
             )
-            git add games/painting/artists.js games/painting/index.html games/painting/cabinet.html games/painting/player-cabinet.js games/painting/artists-batch-77.js games/painting/artists-batch-82.js games/painting/artists-batch-83.js games/painting/artists-batch-87.js games/painting/artists-batch-89.js games/painting/artists-batch-107.js
+            git add games/painting/artists.js games/painting/index.html games/painting/cabinet.html games/painting/player-cabinet.js games/painting/artists-batch-77.js games/painting/artists-batch-82.js games/painting/artists-batch-83.js games/painting/artists-batch-87.js games/painting/artists-batch-89.js games/painting/artists-batch-107.js games/painting/artists-batch-92.js games/painting/artists-batch-51.js games/painting/artists-batch-106.js games/painting/artists-batch-76.js games/painting/artists-batch-54.js games/painting/artists-batch-78.js games/painting/artists-batch-81.js games/painting/artists-batch-58.js games/painting/artists-batch-84.js games/painting/artists-batch-102.js games/painting/artists-batch-95.js games/painting/artists-batch-80.js games/painting/artists-batch-79.js
             if git diff --cached --quiet; then
               published=true
               break
