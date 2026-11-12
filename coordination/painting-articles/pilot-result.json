@@ -1,5 +1,5 @@
 {
-  "runId": "43303078284",
+  "runId": "43311429461",
   "articles": [
     "caravaggio",
     "vasily_kandinsky"
@@ -15,20 +15,20 @@
       "checks": [
         {
           "file": "index.html",
-          "url": "https://kameralog.github.io/games/painting/index.html?publication-check=43303078284-1",
+          "url": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-1",
           "ok": true,
           "httpStatus": 200,
-          "finalURL": "https://kameralog.github.io/games/painting/index.html?publication-check=43303078284-1",
+          "finalURL": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-1",
           "contentType": "text/html; charset=utf-8",
           "bytes": 2482826,
           "sha256": "18778c20941a75f722f3b1162788ccb4cde074fa4c89aa58a96c252e9ae858cc"
         },
         {
           "file": "artist-articles.json",
-          "url": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43303078284-1",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-1",
           "ok": true,
           "httpStatus": 200,
-          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43303078284-1",
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-1",
           "contentType": "application/json; charset=utf-8",
           "bytes": 16073,
           "sha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7",
@@ -36,27 +36,211 @@
         },
         {
           "file": "artist-articles.js",
-          "url": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43303078284-1",
-          "ok": true,
+          "url": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-1",
+          "ok": false,
           "httpStatus": 200,
-          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43303078284-1",
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-1",
           "contentType": "application/javascript; charset=utf-8",
           "bytes": 2832,
           "sha256": "9837a8dacebeb031b5cfd4132c9c5bff363c0e952820d664ec0854e9d63bc76d",
-          "expectedSha256": "9837a8dacebeb031b5cfd4132c9c5bff363c0e952820d664ec0854e9d63bc76d"
+          "expectedSha256": "aecb3622ae89427d010dec136e2a163888bd75402e8e3eee42dee9c46f9261ff",
+          "error": "Published bytes differ from expected source snapshot"
         }
       ],
       "pagesBuild": {
         "status": "building",
-        "commit": "9b5daed24697ca82541858b6fe0416f3d77d9d8c",
+        "commit": "4f6a94ec1580d615dada6c2f124a83514dbd8d0e",
         "error": {
           "message": null
         },
-        "updated_at": "2026-11-12T20:43:24Z"
+        "updated_at": "2026-11-12T21:33:49Z"
+      }
+    },
+    {
+      "attempt": 2,
+      "checks": [
+        {
+          "file": "index.html",
+          "url": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-2",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-2",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2482826,
+          "sha256": "18778c20941a75f722f3b1162788ccb4cde074fa4c89aa58a96c252e9ae858cc"
+        },
+        {
+          "file": "artist-articles.json",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-2",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-2",
+          "contentType": "application/json; charset=utf-8",
+          "bytes": 16073,
+          "sha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7",
+          "expectedSha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7"
+        },
+        {
+          "file": "artist-articles.js",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-2",
+          "ok": false,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-2",
+          "contentType": "application/javascript; charset=utf-8",
+          "bytes": 2832,
+          "sha256": "9837a8dacebeb031b5cfd4132c9c5bff363c0e952820d664ec0854e9d63bc76d",
+          "expectedSha256": "aecb3622ae89427d010dec136e2a163888bd75402e8e3eee42dee9c46f9261ff",
+          "error": "Published bytes differ from expected source snapshot"
+        }
+      ],
+      "pagesBuild": {
+        "status": "building",
+        "commit": "4f6a94ec1580d615dada6c2f124a83514dbd8d0e",
+        "error": {
+          "message": null
+        },
+        "updated_at": "2026-11-12T21:33:49Z"
+      }
+    },
+    {
+      "attempt": 3,
+      "checks": [
+        {
+          "file": "index.html",
+          "url": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-3",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-3",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2482826,
+          "sha256": "18778c20941a75f722f3b1162788ccb4cde074fa4c89aa58a96c252e9ae858cc"
+        },
+        {
+          "file": "artist-articles.json",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-3",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-3",
+          "contentType": "application/json; charset=utf-8",
+          "bytes": 16073,
+          "sha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7",
+          "expectedSha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7"
+        },
+        {
+          "file": "artist-articles.js",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-3",
+          "ok": false,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-3",
+          "contentType": "application/javascript; charset=utf-8",
+          "bytes": 2832,
+          "sha256": "9837a8dacebeb031b5cfd4132c9c5bff363c0e952820d664ec0854e9d63bc76d",
+          "expectedSha256": "aecb3622ae89427d010dec136e2a163888bd75402e8e3eee42dee9c46f9261ff",
+          "error": "Published bytes differ from expected source snapshot"
+        }
+      ],
+      "pagesBuild": {
+        "status": "building",
+        "commit": "4f6a94ec1580d615dada6c2f124a83514dbd8d0e",
+        "error": {
+          "message": null
+        },
+        "updated_at": "2026-11-12T21:33:49Z"
+      }
+    },
+    {
+      "attempt": 4,
+      "checks": [
+        {
+          "file": "index.html",
+          "url": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-4",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-4",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2482826,
+          "sha256": "18778c20941a75f722f3b1162788ccb4cde074fa4c89aa58a96c252e9ae858cc"
+        },
+        {
+          "file": "artist-articles.json",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-4",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-4",
+          "contentType": "application/json; charset=utf-8",
+          "bytes": 16073,
+          "sha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7",
+          "expectedSha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7"
+        },
+        {
+          "file": "artist-articles.js",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-4",
+          "ok": false,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-4",
+          "contentType": "application/javascript; charset=utf-8",
+          "bytes": 2832,
+          "sha256": "9837a8dacebeb031b5cfd4132c9c5bff363c0e952820d664ec0854e9d63bc76d",
+          "expectedSha256": "aecb3622ae89427d010dec136e2a163888bd75402e8e3eee42dee9c46f9261ff",
+          "error": "Published bytes differ from expected source snapshot"
+        }
+      ],
+      "pagesBuild": {
+        "status": "building",
+        "commit": "4f6a94ec1580d615dada6c2f124a83514dbd8d0e",
+        "error": {
+          "message": null
+        },
+        "updated_at": "2026-11-12T21:33:49Z"
+      }
+    },
+    {
+      "attempt": 5,
+      "checks": [
+        {
+          "file": "index.html",
+          "url": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-5",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/index.html?publication-check=43311429461-5",
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2482826,
+          "sha256": "18778c20941a75f722f3b1162788ccb4cde074fa4c89aa58a96c252e9ae858cc"
+        },
+        {
+          "file": "artist-articles.json",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-5",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.json?publication-check=43311429461-5",
+          "contentType": "application/json; charset=utf-8",
+          "bytes": 16073,
+          "sha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7",
+          "expectedSha256": "ad7412abef6abdd0e1043c616339c585190b58bfdf212ec9ce161ded09b82ac7"
+        },
+        {
+          "file": "artist-articles.js",
+          "url": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-5",
+          "ok": true,
+          "httpStatus": 200,
+          "finalURL": "https://kameralog.github.io/games/painting/artist-articles.js?publication-check=43311429461-5",
+          "contentType": "application/javascript; charset=utf-8",
+          "bytes": 25432,
+          "sha256": "aecb3622ae89427d010dec136e2a163888bd75402e8e3eee42dee9c46f9261ff",
+          "expectedSha256": "aecb3622ae89427d010dec136e2a163888bd75402e8e3eee42dee9c46f9261ff"
+        }
+      ],
+      "pagesBuild": {
+        "status": "built",
+        "commit": "4f6a94ec1580d615dada6c2f124a83514dbd8d0e",
+        "error": {
+          "message": null
+        },
+        "updated_at": "2026-11-12T21:34:27Z"
       }
     }
   ],
-  "sourceCommit": "9b5daed24697ca82541858b6fe0416f3d77d9d8c",
+  "sourceCommit": "4f6a94ec1580d615dada6c2f124a83514dbd8d0e",
   "pagesConfiguration": {
     "html_url": "https://kameralog.github.io/",
     "build_type": "legacy",
