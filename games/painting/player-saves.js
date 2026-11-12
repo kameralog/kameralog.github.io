@@ -15,7 +15,7 @@ export class SavedItems {
  }
  async add(kind,id,data){
   const tag=this.token(kind,id);if(!this.user){const e=Error('Sign in required');e.code='saves/login-required';throw e;}
-  if(this.ids[kind].has(id))return true;if(this.pending.has(tag))return this.pending.get(tag);
+  if(this.pending.has(tag))return this.pending.get(tag);if(this.ids[kind].has(id))return true;
   const version=this.version,uid=this.user.uid;
   const task=(async()=>{
    await Promise.resolve();
@@ -28,10 +28,19 @@ export class SavedItems {
   })();this.pending.set(tag,task);this.emit();return task;
  }
  async remove(kind,id){
-  this.token(kind,id);if(!this.user)return false;const version=this.version,uid=this.user.uid;
-  await this.F.deleteDoc(this.F.doc(this.db,'players',uid,kind,id));
-  if(version!==this.version||this.user?.uid!==uid)return false;this.ids[kind].delete(id);this.emit();return true;
+  const tag=this.token(kind,id);if(!this.user)return false;if(this.pending.has(tag))return this.pending.get(tag);
+  const version=this.version,uid=this.user.uid;
+  const task=(async()=>{
+   await Promise.resolve();
+   try{
+    await this.F.deleteDoc(this.F.doc(this.db,'players',uid,kind,id));
+    if(version!==this.version||this.user?.uid!==uid)return false;
+    this.ids[kind].delete(id);this.pending.delete(tag);this.emit({removed:tag});return true;
+   }catch(error){if(version!==this.version)return false;throw error;}
+   finally{if(version===this.version){this.pending.delete(tag);this.emit();}}
+  })();this.pending.set(tag,task);this.emit();return task;
  }
+ async toggle(kind,id,data){const tag=this.token(kind,id);if(this.pending.has(tag))return this.pending.get(tag);return this.ids[kind].has(id)?this.remove(kind,id):this.add(kind,id,data);}
 }
 export const saves=new SavedItems();
 let connection=null;
