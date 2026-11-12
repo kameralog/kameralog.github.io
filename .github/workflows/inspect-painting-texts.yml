@@ -1,0 +1,73 @@
+name: Inspect painting text integration
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/inspect-painting-texts.yml']
+permissions:
+  contents: write
+concurrency:
+  group: painting-text-inspection
+  cancel-in-progress: false
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Extract readable source fragments
+        shell: python
+        run: |
+          import pathlib, re, json, hashlib, subprocess
+          root = pathlib.Path('games/painting')
+          out = pathlib.Path('coordination/painting-text-inspection')
+          out.mkdir(parents=True, exist_ok=True)
+          html = (root / 'index.html').read_text()
+          manifest = {'sourceCommit': subprocess.check_output(['git','rev-parse','HEAD'], text=True).strip(), 'indexSha256': hashlib.sha256(html.encode()).hexdigest(), 'constants': {}, 'batches': []}
+          decoder = json.JSONDecoder()
+          replacements = []
+          for name in ['CARDS', 'ARTISTS', 'DATA']:
+              match = re.search(r'\bconst\s+' + name + r'\s*=\s*', html)
+              if not match:
+                  manifest['constants'][name] = 'not found'
+                  continue
+              try:
+                  value, length = decoder.raw_decode(html[match.end():])
+              except ValueError as error:
+                  manifest['constants'][name] = str(error)
+                  continue
+              manifest['constants'][name] = len(value)
+              replacements.append((match.end(), match.end()+length, '/* extracted '+name+' */ {}'))
+              if name == 'ARTISTS' and isinstance(value, dict):
+                  for key, artist in value.items():
+                      if re.search('caravaggio|kandinsky|каравад|кандин', key+' '+json.dumps(artist, ensure_ascii=False), re.I):
+                          safe = re.sub(r'[^a-zA-Z0-9_-]', '_', key)
+                          (out / ('artist-'+safe+'.json')).write_text(json.dumps({'id':key,'artist':artist}, ensure_ascii=False, indent=2))
+          for start, end, replacement in sorted(replacements, reverse=True):
+              html = html[:start] + replacement + html[end:]
+          for i, start in enumerate(range(0, len(html), 4000)):
+              (out / ('index-fragment-%04d.txt' % i)).write_text(html[start:start+4000])
+          for path in sorted(root.glob('artists-batch-*.js')):
+              text = path.read_text()
+              if re.search('caravaggio|kandinsky|каравад|кандин', text, re.I):
+                  manifest['batches'].append(str(path))
+                  for i, start in enumerate(range(0, len(text), 4000)):
+                      (out / (path.stem+'-%04d.txt' % i)).write_text(text[start:start+4000])
+          manifest['fragmentCount'] = len(list(out.glob('index-fragment-*.txt')))
+          (out / 'summary.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2))
+      - name: Save inspection output only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- coordination/painting-text-inspection
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Save painting text integration inspection'
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || exit 1
+            git push origin HEAD:main && exit 0
+            sleep 3
+          done
+          exit 1
