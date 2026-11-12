@@ -32,10 +32,34 @@ jobs:
           node-version: 20
       - name: Install image decoder
         run: npm install --no-save --package-lock=false sharp@0.33.5
-      - name: Verify, bind and rebuild
+      - name: Repair VM context, verify, bind and rebuild
         shell: bash
         run: |
           set -euo pipefail
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          import assert from 'node:assert/strict';
+          import {Buffer} from 'node:buffer';
+          import {createHash} from 'node:crypto';
+          const file='tools/apply-museum-wikidata-v3.mjs';
+          let source=fs.readFileSync(file,'utf8');
+          const before='const box={fs,assert,createHash,console};';
+          const after='const box={fs,assert,createHash,console,Buffer};';
+          assert.equal(vm.runInNewContext("Buffer.byteLength('Я')",{Buffer}),2);
+          if(source.includes(after)){
+            assert(!source.includes(before),'Conflicting context definitions');
+            console.log('Buffer context already repaired');
+          }else{
+            const blob=createHash('sha1').update('blob '+Buffer.byteLength(source)+String.fromCharCode(0)).update(source).digest('hex');
+            assert.equal(blob,'7d5e7a85fdba8667eadc5b2ad0dc6636fb89f171','Processor changed; stop rather than overwrite');
+            assert.equal(source.split(before).length,2,'Expected one VM context');
+            source=source.replace(before,()=>after);
+            fs.writeFileSync(file,source);
+            console.log('Passed Buffer explicitly to the preparation VM');
+          }
+          NODE
+          node --check tools/apply-museum-wikidata-v3.mjs
           node tools/apply-museum-wikidata-v3.mjs --test
           node tools/apply-museum-wikidata-v3.mjs audit
           (
@@ -48,9 +72,9 @@ jobs:
           )
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- games/painting/artists-batch-*.js games/painting/artists.js games/painting/index.html reports/painting-museum-wikidata-v3
+          git add -- tools/apply-museum-wikidata-v3.mjs games/painting/artists-batch-*.js games/painting/artists.js games/painting/index.html reports/painting-museum-wikidata-v3
           if ! git diff --cached --quiet; then
-            git commit -m "Bind museum department and inventory-alias matches with verified object cards"
+            git commit -m "Fix Buffer preparation context and bind verified museum records"
             git push origin HEAD:main
           fi
           echo "EXPECTED_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
