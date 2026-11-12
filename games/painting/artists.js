@@ -4126,3 +4126,76 @@ window.registerPaintingArtists(B);
 })();
 
 ;
+/* artists-batch-110.js */
+/* Batch 110 research draft: 10 artists, 3 attached reproductions, 7 pending.
+ * Combined registry execution and browser image delivery not verified.
+ */
+(()=>{'use strict';
+const B={};
+function add(id,name,latin,aliases,life,title,originalTitle,date,medium,museum,inventoryNumber,source,bio,features,caution){
+const w={key:inventoryNumber||'editorial:110:'+id,title,originalTitle,date,medium,museum,source,look:'Вопросы для рассматривания: '+features.join(' '),reason:'Права и/или соответствие конкретного файла репродукции ещё не проверены полностью.'};
+if(inventoryNumber)w.inventoryNumber=inventoryNumber;
+B[id]={name,latin,aliases:[name,latin,...aliases],life,tag:'Художницы XVI–XVIII веков · рабочая карточка',bio,technique:[medium,'Описание основано на источниках; самостоятельный осмотр репродукции не заявлен.'],innovation:'Учебный ракурс — сравнение материала, композиции и профессионального самопредставления; без неподтверждённых заявлений о первенстве.',features,caution,sources:[[museum+': '+title,source]],works:[],pendingWorks:[w],editorialStatus:'RESEARCH_DRAFT_GLOBAL_CHECK_PENDING'};
+}
+add('catharina_van_hemessen','Катарина ван Хемессен','Catharina van Hemessen',['Catarina van Hemessen','Catharina de Hemessen'],'XVI век','Автопортрет у мольберта','Self-Portrait at the Easel','1548','Масло на доске; размеры на дополнительной сверке','Художественный музей Базеля','1361','https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-you-need-to-know-about-catharina-van-hemessen',
+['Художница изображена у мольберта с палитрой, кистями и муштабелем.','Надпись сообщает, что она написала себя в 1548 году в возрасте двадцати лет.'],
+['Мольберт: найди картину внутри картины.','Палитра: проследи положение руки.','Кисти: сравни инструменты.','Надпись: отличи дату и возраст.','Версия: не смешивай музейные экземпляры.'],
+'Различать базельскую версию и автопортреты из Эрмитажа и собрания Майкелиса. В источниках расходятся размеры: 31,1 × 24,4 и 32 × 25 см; точные размеры пока не фиксируем. Абсолютное первенство в истории автопортрета не утверждается.');
+add('barbara_longhi','Барбара Лонги','Barbara Longhi',[],'XVI–XVII века','Мадонна с Младенцем, венчающим монахиню','La Vierge et l’Enfant Jésus couronnant une religieuse','конец XVI — начало XVII века; каталог: 1575–1625','Масло на холсте; 39 × 32,5 см','Лувр, Париж','MI 614','https://collections.louvre.fr/en/ark:/53355/cl010064975',
+['Лувр атрибутирует картину Барбаре Лонги и описывает Младенца, венчающего монахиню.','Картина приобретена из собрания Кампана в 1861 году; в старом документе покупки указан Лука Лонги.'],
+['Фигуры: проверь расположение.','Жест: проследи действие венчания.','Монахиня: не придумывай личность.','Масштаб: соотнеси формат и сцену.','Дата: отдели широкий диапазон от точного года.'],
+'Не смешивать Барбару с Лукой или Алессандро Лонги. Не заменять музейную широкую датировку точным годом. Личность монахини не установлена; по актуальной карточке работа не экспонируется.');
+add('louise_moillon','Луиза Муайон','Louise Moillon',['Louyse Moillon','Луиза Мойон'],'XVII век','Чаша с лимонами и апельсинами на ящике со стружкой и гранатами','Bowl of Lemons and Oranges on a Box of Wood Shavings and Pomegranates','около 1630-х; музей считает датировку вероятной','Масло на доске; 15 3/4 × 24 1/2 дюйма','Национальный музей женщин в искусстве, Вашингтон',null,'https://nmwa.org/art/collection/bowl-lemons-and-oranges-box-wood-shavings-and-pomegranates/',
+['Музей связывает иллюзию общей со зрителем поверхности с гранатом, немного выступающим за край.','Фактуры плодов, листьев, ящика и капель воды участвуют в эффекте trompe-l’œil.'],
+['Гранат: найди выступ за край.','Фрукты: сравни поверхности.','Листья: проверь фактуры.','Ящик: проследи границы.','Пространство: проверь иллюзию близости.'],
+'Не подменять натюрмортом 1634 года из Norton Simon F.1972.38.P или похожей чашей из Толедо 2021.5. Материал — доска, не холст. JPEG 670 × 447 не позволяет глубокого увеличения. Современный музейный кредит фотографа Lee Stalsworth сохраняется без заявления, что автор конкретного старого файла установлен.');
+add('maria_van_oosterwijck','Мария ван Остервейк','Maria van Oosterwijck',['Maria van Oosterwyck','Мария ван Оостервейк'],'XVII век','Натюрморт vanitas','Vanitas Still Life','1668','Холст; 73 × 88,5 см','Музей истории искусств, Вена','GG 5714','https://www.khm.at/en/artworks/vanitas-still-life-1370',
+['Музей связывает череп, песочные часы и надпись на книге с бренностью жизни и надеждой на вечную жизнь.','В отражении бутылки музей распознаёт мастерскую с автопортретом художницы.'],
+['Череп: найди предмет.','Часы: проверь место.','Книга: отличи надпись от её толкования.','Бутылка: проверь отражение.','Подпись: найди край стола.'],
+'Не смешивать с поздним vanitas с подсолнухом Rijksmuseum SK-A-5104. У файла Vanitas-Still Life, Oosterwijck.jpg прочитана PD-Art, но история содержит замену с комментарием reverse: ориентация и обработка требуют проверки. Право на другой музейный файл этим не подтверждено.');
+add('giulia_lama','Джулия Лама','Giulia Lama',['Giulia Elisabetta Lama'],'XVII–XVIII века','Автопортрет','Self-portrait in the Uffizi','1725','Масло на холсте; 73 × 60,5 см по описанию Commons','Уффици, Флоренция',null,'https://www.museodelprado.es/en/the-collection/artist/giulia-lama/9a5ee500-d5b2-4e83-9fcc-5841bfc747f8',
+['Прадо сообщает об автопортрете, отправленном художницей в Уффици в 1725 году.','Этот автопортрет использован для идентификации модели на её портрете работы Джованни Баттисты Пьяццетты.'],
+['Фигура: проверь положение.','Руки: найди инструменты.','Взгляд: проверь направление.','Свет: сравни освещение.','Авторство: отличи автопортрет от чужого портрета.'],
+'Выбран автопортрет Ламы, не портрет кисти Пьяццетты. 2047 (инвентарь 1890) пока подтверждён лишь описанием Commons, поэтому не оформлен как проверенный музейный номер. Файл 600 × 704; границы и цветопередача отдельно не проверены.');
+add('mary_beale','Мэри Бил','Mary Beale',['Mary Cradock','Mary Craddock','Мэри Бейл'],'XVII век','Чарльз Бил Старший','Charles Beale the Elder','около 1660','Масло на холсте, восьмиугольный формат; 241 × 210 мм','Национальная портретная галерея, Лондон','NPG 1279','https://www.npg.org.uk/collections/search/portrait/mw00421/Charles-Beale-the-Elder',
+['Музей определяет модель как Чарльза Била Старшего, мужа и управляющего мастерской художницы.','Выбран небольшой восьмиугольный портрет около 1660 года.'],
+['Формат: проверь восемь сторон.','Лицо: сравни освещение.','Фигура: проследи положение.','Масштаб: учти небольшой размер.','Модель: отличи отца от сына.'],
+'Не смешивать с сыном Чарльзом Билом Младшим, портретом Tate T15197 или предполагаемым портретом Бартоломью из Далвича. © NPG не является свободной лицензией; лицензионная страница выбранного файла пока не прочитана полностью.');
+add('joan_carlile','Джоан Карлайл','Joan Carlile',['Joan Carlell'],'XVII век','Портрет неизвестной дамы','Portrait of an Unknown Lady','1650–1655','Масло на холсте; 110,7 × 90 см','Тейт, Лондон','T14495','https://www.tate.org.uk/art/artworks/carlile-portrait-of-an-unknown-lady-t14495',
+['Фигура в белом атласном платье помещена в пейзажное окружение.','Техническое исследование Tate показывает, что края исходного холста, вероятно, обрезались при прошлой обработке.'],
+['Платье: сравни блики.','Шаль: найди деталь.','Фон: проследи пейзаж.','Край: отличи нынешнюю границу от реконструкции.','Модель: не придумывай имя.'],
+'Не устанавливать личность модели. Не подменять одноимённым портретом из Bute Collection или медным овальным портретом частного собрания. Требуется подтверждение, что кандидат Commons изображает именно T14495.');
+add('anne_killigrew','Энн Киллигрю','Anne Killigrew',[],'XVII век','Венера, одеваемая тремя грациями','Venus Attired by the Three Graces','XVII век; точный год не установлен','Масло на холсте; 112 × 95 см','Художественная галерея Фалмута','FAMAG: 2012.22','https://artuk.org/discover/artworks/venus-attired-by-the-three-graces-230018',
+['В собрании Фалмута находится мифологическая картина Киллигрю с Венерой и тремя грациями.','При реставрации обнаружили позднюю запись: фигуру Венеры ранее прикрыли золотым платьем.'],
+['Фигуры: различи Венеру и граций.','Жесты: проследи действие.','Одежда: отличи нынешнее состояние от старой записи.','Дата: не принимай агрегатор за первичный источник.','Версия: проверь конкретную репродукцию.'],
+'Не датировать 1600 годом из агрегатора: это несовместимо с жизнью художницы. Число сохранившихся произведений по старой заметке не принимается за актуальный полный каталог. Права снимка Фалмута / Art UK не считаются автоматически свободными.');
+add('elisabeth_sophie_cheron','Элизабет-Софи Шерон','Élisabeth-Sophie Chéron',['Elisabeth Sophie Cheron','Élisabeth Sophie Chéron'],'XVII–XVIII века','Автопортрет','Autoportrait','1672','Масло на холсте, овальный формат; 88 × 73 см','Лувр; по актуальной карточке — Лувр-Ланс','INV 3239','https://collections.louvre.fr/ark:/53355/cl010062175',
+['Художница смотрит на зрителя и держит подготовительный рисунок к неидентифицированному женскому портрету.','Работа поступила как академический приёмный портрет и была показана в Салоне 1673 года.'],
+['Рисунок: найди лист в руках.','Взгляд: проверь обращение.','Овал: проследи формат.','Размеры: отличи полотно от рамы.','Даты: различи создание и Салон.'],
+'Не переносить размеры с рамой 111 × 95,5 см на само полотно. Не путать 1672 год создания с 1673 годом Салона. Свободная лицензия конкретной фотографии Shonagon пока не прочитана; файл с рамой не подменяет выбранный файл без рамы.');
+add('maria_sibylla_merian','Мария Сибилла Мериан','Maria Sibylla Merian',['Anna Maria Sibylla Merian'],'XVII–XVIII века','Этюд каперсов, дрока и жука','Study of Capers, Gorse, and a Beetle','1693','Акварель, белая гуашь на пергаменте; 35,5 × 26,2 см','Метрополитен-музей, Нью-Йорк','2012.83','https://www.metmuseum.org/art/collection/search/399922',
+['Мериан написала лист в Амстердаме в 1693 году; композиция перерабатывает мотивы её печатного цветочного сборника.','Музей различает киноварь и органический красный лак по результатам FORS и XRF; это данные исследования, не вывод по экранной репродукции.'],
+['Растения: сравни две ветви.','Жук: найди красную фигуру.','Листья: проверь детали.','Цвет: отдели видимое от анализа пигментов.','Повторение: не смешивай акварель и печатную таблицу.'],
+'Не смешивать акварель с печатной таблицей 1680 года или листом дочери Йоханны Хелены Херольт 1698 года Z 6508. Вид красного жука по музейному описанию не определяется. Общая политика CC0 музея не заменяет проверки выбранного файла DP822404.');
+B.catharina_van_hemessen.sources.push(['Дополнительный источник','https://www.mauritshuis.nl/en/our-collection/new-and-on-tour/new-arrivals/catharina-van-hemessen']);
+B.joan_carlile.sources.push(['Дополнительный источник','https://www.tate.org.uk/about-us/projects/tudor-stuart-technical-research/entries/portrait-of-an-unknown-lady-16505-by-joan-carlile']);
+B.anne_killigrew.sources.push(['Дополнительный источник','https://www.artfund.org/our-purpose/art-funded-by-you/venus-attired-by-the-graces']);
+B.giulia_lama.sources.push(['Дополнительный источник','https://commons.wikimedia.org/wiki/File:Giulia_Lama.jpg']);
+function attach(id,file,width,height,license,licenseUrl,credit){const a=B[id],w=a.pendingWorks.pop();delete w.reason;const n=encodeURIComponent(file.replace(/ /g,'_')),u='https://commons.wikimedia.org/wiki/Special:FilePath/'+n;Object.assign(w,{image:u,zoom:u,imageSource:'https://commons.wikimedia.org/wiki/File:'+n,license,licenseUrl,credit,imageWidth:width,imageHeight:height,imageDeliveryStatus:'File-page metadata checked; redirects, bytes and browser display not tested'});w.look+=' Кредит репродукции: '+credit+'.';a.works=[w];a.sources.push(['Конкретный файл и права',w.imageSource]);a.editorialStatus='RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING';}
+attach('catharina_van_hemessen','Self-Portrait with easel–Catharina van Hemessen.jpg',1366,1786,'CC BY-SA 4.0','https://creativecommons.org/licenses/by-sa/4.0/','Катарина ван Хемессен, «Автопортрет у мольберта», 1548; Kunstmuseum Basel, 1361; фотограф Paradise Chronicle, Wikimedia Commons; CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/; файл без изменений');
+attach('louise_moillon','Moillon louise-bowl lemons oranges.jpg',670,447,'PD-Art / public domain; jurisdiction caveat','https://commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs','Луиза Муайон; National Museum of Women in the Arts, Gift of Wallace and Wilhelmina Holladay; музейный источник через Wikimedia Commons; PD-Art / public domain с юрисдикционной оговоркой; музейная карточка указывает Photo by Lee Stalsworth');
+attach('giulia_lama','Giulia Lama.jpg',600,704,'Public Domain Mark 1.0','https://creativecommons.org/publicdomain/mark/1.0/','Джулия Лама, «Автопортрет», 1725; Уффици; источник liveinternet.ru/users/2010239/post262361170 через Wikimedia Commons; Public Domain Mark 1.0');
+function candidate(id,file,reason){Object.assign(B[id].pendingWorks[0],{candidateFilePage:'https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replace(/ /g,'_')),reason});}
+candidate('barbara_longhi','Virgin and Child with Saint, Barbara Longhi.jpg','Старое название файла не заменяет музейного названия; права ещё не прочитаны.');
+candidate('maria_van_oosterwijck','Vanitas-Still Life, Oosterwijck.jpg','PD-Art прочитана, но история содержит reverse и замены источника; ориентация и обработка не проверены.');
+candidate('mary_beale','Charles Beale the Elder by Mary Beale.jpg','Страница лицензии недоступна; музейная карточка не заменяет лицензию снимка.');
+candidate('joan_carlile','Portrait of an unknown lady, by Joan Carlile.jpg','Соответствие T14495 и права снимка не подтверждены.');
+candidate('anne_killigrew','Anne Killigrew - Venus Attired by the Three Graces.jpg','Права конкретного файла Art UK / Фалмут не прочитаны.');
+candidate('elisabeth_sophie_cheron','Autoportrait - Élisabeth-Sophie Chéron - Musée du Louvre Peintures INV 3239 ; MR 1576.jpg','6036 × 7439, 17,47 MB; метаданные прочитаны, лицензия не получена.');
+candidate('maria_sibylla_merian','Study of Capers, Gorse, and a Beetle MET DP822404.jpg','1310 × 1803 по категории; полная страница прав недоступна.');
+B.louise_moillon.sources.push(['Прочитанное описание файла и PD-Art','https://en.wikipedia.org/wiki/File:Moillon_louise-bowl_lemons_oranges.jpg']);
+if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');
+window.registerPaintingArtists(B);
+})();
+
+;
