@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
 import {execFileSync} from 'node:child_process';
 const original=fs.readFileSync('tools/apply-museum-wikidata-v2.mjs','utf8'),blob=createHash('sha1').update('blob '+Buffer.byteLength(original)+String.fromCharCode(0)).update(original).digest('hex');assert.equal(blob,'8025b9446ec011bc70f07ff8cdc69c0ac0491139','Base museum processor changed');
-const anchor="const generated='tools/.museum-wikidata-v2.generated.mjs';";assert.equal(original.split(anchor).length,2);const box={fs,assert,createHash,console};vm.runInNewContext(original.slice(0,original.indexOf(anchor)).replace(/^import .*;\n/gm,'')+'\nglobalThis.compiledSource=source;',box);let source=box.compiledSource;assert.equal(typeof source,'string');
+const anchor="const generated='tools/.museum-wikidata-v2.generated.mjs';";assert.equal(original.split(anchor).length,2);const box={fs,assert,createHash,console,Buffer};vm.runInNewContext(original.slice(0,original.indexOf(anchor)).replace(/^import .*;\n/gm,'')+'\nglobalThis.compiledSource=source;',box);let source=box.compiledSource;assert.equal(typeof source,'string');
 function once(old,next){assert.equal(source.split(old).length,2,'Changed anchor: '+old.slice(0,100));source=source.replace(old,()=>next);}
 function line(re,next){assert.equal((source.match(re)||[]).length,1,'Expected one processor anchor');source=source.replace(re,()=>next);}
 const additions=String.raw`const verifiedObjects={
