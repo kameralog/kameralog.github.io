@@ -1,3 +1,4 @@
+import {saves} from './player-saves.js';
 const host=document.createElement('section');
 host.id='painting-cabinet';
 const s=host.attachShadow({mode:'open'});
@@ -14,49 +15,32 @@ function status(){ $('tools').hidden=!user||!db;$('status').textContent=user?'Л
 function key(kind,id){return encodeURIComponent(id);}
 function reference(uid,kind,id){return F.doc(db,'players',uid,kind,key(kind,id));}
 function error(e){return e.code==='permission-denied'?'База не разрешает доступ. Проверьте правила Firestore для players/{uid}.':'Не удалось связаться с базой. Проверьте соединение и повторите.';}
-const savedKinds=['savedArtists','favoriteWorks'];
-const savedIds={savedArtists:new Set(),favoriteWorks:new Set()},checked={savedArtists:false,favoriteWorks:false},pending=new Set();
-let accountVersion=0,stopSaved=[];
+/*shared-saves-cabinet:start*/
 function token(kind,id){return kind+':'+id;}
 function paintSave(b,animate=false){
- const kind=b.dataset.saveKind,id=b.dataset.saveId,waiting=pending.has(token(kind,id));
- const done=savedIds[kind].has(id),checking=!!user&&!checked[kind];
- const next=waiting?'pending':done?'saved':checking?'checking':'idle';
- const previous=b.dataset.saveState;
- b.dataset.saveState=next;b.disabled=next!=='idle';
- b.textContent=waiting?'Сохраняем…':done?(kind==='savedArtists'?'Сохранен':'В избранном'):checking?'Проверяем…':kind==='savedArtists'?'Сохранить художника':'В избранные картины';
- if(animate&&done&&!waiting&&previous!=='saved'&&!window.matchMedia?.('(prefers-reduced-motion: reduce)').matches&&b.animate)b.animate([{opacity:.35},{opacity:.78}],{duration:240,easing:'ease-out'});
+ const kind=b.dataset.saveKind,id=b.dataset.saveId,state=saves.state(kind,id),previous=b.dataset.saveState;
+ b.dataset.saveState=state==='saved'?'saved':state;b.disabled=['connecting','checking','pending','saved'].includes(state);
+ const label=state==='pending'?'Сохраняем…':state==='saved'?(kind==='savedArtists'?'Сохранен':'В избранном'):['connecting','checking'].includes(state)?'Проверяем…':kind==='savedArtists'?'Сохранить художника':'В избранные картины';
+ if(b.textContent!==label)b.textContent=label;
+ if(animate&&state==='saved'&&previous!=='saved'&&!window.matchMedia?.('(prefers-reduced-motion: reduce)').matches)b.animate?.([{opacity:.35},{opacity:.78}],{duration:240,easing:'ease-out'});
 }
-function paintSaves(animateToken){for(const b of s.querySelectorAll('button[data-save-kind]'))paintSave(b,token(b.dataset.saveKind,b.dataset.saveId)===animateToken);}
+function paintSaves(tag){for(const b of s.querySelectorAll('button[data-save-kind]'))paintSave(b,token(b.dataset.saveKind,b.dataset.saveId)===tag);}
 function saveButton(kind,artist,work){const b=button('',()=>save(kind,artist,work));b.className='save-state';b.dataset.saveKind=kind;b.dataset.saveId=key(kind,work?work.key:artist.id);paintSave(b);return b;}
-function watchSaved(){
- accountVersion++;for(const stop of stopSaved)stop();stopSaved=[];pending.clear();
- for(const kind of savedKinds){savedIds[kind].clear();checked[kind]=false;}
- paintSaves();if(!user||!db||!F)return;
- const version=accountVersion,uid=user.uid;
- for(const kind of savedKinds)stopSaved.push(F.onSnapshot(F.collection(db,'players',uid,kind),{includeMetadataChanges:true},snapshot=>{
-  if(version!==accountVersion||user?.uid!==uid||snapshot.metadata.fromCache||snapshot.metadata.hasPendingWrites)return;
-  savedIds[kind]=new Set(snapshot.docs.map(d=>d.id));checked[kind]=true;paintSaves();
- },e=>{if(version!==accountVersion||user?.uid!==uid)return;checked[kind]=true;paintSaves();say(error(e));}));
-}
+function watchSaved(){saves.bind(user,F,db);}
+saves.subscribe(event=>{paintSaves(event.saved);if(event.error)say(error(event.error));});
+/*shared-saves-cabinet:end*/
 async function save(kind,artist,work){
- if(!user||!db||!F){say('Сначала войдите через «Вход / профиль».');return;}
- const uid=user.uid,stamp=epoch,version=accountVersion,id=work?work.key:artist.id,encoded=key(kind,id),tag=token(kind,encoded);
- if(savedIds[kind].has(encoded)){paintSaves();return;}
- if(busy||pending.has(tag)){say('Дождитесь завершения предыдущей операции.');return;}
- busy=true;pending.add(tag);paintSaves();say('Сохраняем…');
- try{
-  await F.setDoc(reference(uid,kind,id),work?{artistId:artist.id,workKey:work.key}:{artistId:artist.id});
-  if(version===accountVersion&&user?.uid===uid){savedIds[kind].add(encoded);pending.delete(tag);paintSaves(tag);if(stamp===epoch)say('Сохранено в вашем кабинете.');}
- }catch(e){if(version===accountVersion&&user?.uid===uid&&stamp===epoch)say(error(e));}
- finally{busy=false;if(version===accountVersion){pending.delete(tag);paintSaves();}}
+ if(!user||!db||!F){say('Сначала войдите через «Вход / профиль».');return;}if(busy)return;
+ const uid=user.uid,stamp=epoch;busy=true;
+ try{const ok=await saves.add(kind,key(kind,work?work.key:artist.id),work?{artistId:artist.id,workKey:work.key}:{artistId:artist.id});if(ok&&user?.uid===uid&&stamp===epoch)say('Сохранено в вашем кабинете.');}
+ catch(e){if(user?.uid===uid&&stamp===epoch)say(error(e));}finally{busy=false;}
 }
 async function remove(kind,id){
- if(!user||busy)return;const uid=user.uid,stamp=epoch,version=accountVersion;busy=true;say('Удаляем…');
- try{await F.deleteDoc(F.doc(db,'players',uid,kind,id));if(version===accountVersion&&user?.uid===uid){savedIds[kind].delete(id);paintSaves();if(stamp===epoch){rows=rows.filter(r=>r.id!==id);drawSaved();say('Удалено.');}}}
- catch(e){if(version===accountVersion&&stamp===epoch)say(error(e));}finally{busy=false;}
+ if(!user||busy)return;const uid=user.uid,stamp=epoch;busy=true;say('Удаляем…');
+ try{if(await saves.remove(kind,id)&&user?.uid===uid&&stamp===epoch){rows=rows.filter(r=>r.id!==id);drawSaved();say('Удалено.');}}
+ catch(e){if(user?.uid===uid&&stamp===epoch)say(error(e));}finally{busy=false;}
 }
-function article(artist,work){const el=document.createElement('article');el.append(link(artist.id,work?work.title||work.key:artist.name));if(work){const p=document.createElement('p');p.textContent=artist.name;el.append(p);}return el;}
+function article(artist,work){const el=document.createElement('article');if(artist.saveable===false){const title=document.createElement('span');title.textContent=work?.title||work?.key||artist.name;el.append(title);}else el.append(link(artist.id,work?work.title||work.key:artist.name));if(work){const p=document.createElement('p');p.textContent=work.author||artist.name;el.append(p);}return el;}
 function drawSaved(){
  $('list').replaceChildren();
  if(!rows.length){$('list').textContent='Здесь пока ничего нет. Откройте «Добавить из каталога».';return;}
@@ -81,8 +65,8 @@ function drawCatalog(){
  $('list').replaceChildren();let count=0,shown=0;
  for(const a of catalog){
   const matches=text=>terms.every(t=>text.toLocaleLowerCase('ru').includes(t));
-  if(matches([a.name,a.latin,a.tag,...(a.aliases||[])].join(' '))){count++;if(shown++<30){const el=article(a);el.append(saveButton('savedArtists',a));$('list').append(el);}}
-  for(const w of a.works)if(matches([a.name,w.title,w.originalTitle].join(' '))){count++;if(shown++<30){const el=article(a,w);el.append(saveButton('favoriteWorks',a,w));$('list').append(el);}}
+  if(a.saveable!==false&&matches([a.name,a.latin,a.tag,...(a.aliases||[])].join(' '))){count++;if(shown++<30){const el=article(a);el.append(saveButton('savedArtists',a));$('list').append(el);}}
+  for(const w of a.works)if(matches([a.name,w.author,w.title,w.originalTitle].join(' '))){count++;if(shown++<30){const el=article(a,w);el.append(saveButton('favoriteWorks',a,w));$('list').append(el);}}
  }
  say(count?'Найдено: '+count+'. Показаны первые '+Math.min(count,30)+'. Уточните поиск, чтобы сузить список.':'Ничего не найдено.');
 }
