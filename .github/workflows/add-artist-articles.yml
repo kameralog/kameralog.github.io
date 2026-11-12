@@ -1,0 +1,88 @@
+name: Install pilot artist articles
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/add-artist-articles.yml'
+      - 'games/painting/artist-articles.json'
+      - 'games/painting/artist-articles.js'
+      - 'games/painting/install-artist-articles.mjs'
+permissions:
+  contents: write
+  pages: write
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    concurrency:
+      group: painting-build
+      cancel-in-progress: false
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install on latest main with bounded retries
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          done_install=false
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            node games/painting/install-artist-articles.mjs --test
+            node games/painting/install-artist-articles.mjs
+            node games/painting/install-artist-articles.mjs --test
+            git add games/painting/index.html
+            if git diff --cached --quiet; then done_install=true; break; fi
+            git commit -m 'Connect pilot mini-wiki articles without replacing existing cards'
+            if git push origin HEAD:main; then done_install=true; break; fi
+            sleep "$((attempt * 3))"
+          done
+          test "$done_install" = true
+      - name: Request Pages build and verify article assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api "repos/$GITHUB_REPOSITORY/pages" > "$RUNNER_TEMP/article-pages.json"
+          test "$(jq -r '.source.branch' "$RUNNER_TEMP/article-pages.json")" = main
+          test "$(jq -r '.source.path' "$RUNNER_TEMP/article-pages.json")" = /
+          test "$(jq -r '.build_type // "legacy"' "$RUNNER_TEMP/article-pages.json")" = legacy
+          requested=false
+          for attempt in 1 2 3 4 5; do
+            if gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" > /dev/null; then requested=true; break; fi
+            sleep "$((attempt * 5))"
+          done
+          test "$requested" = true
+          base=$(jq -r '.html_url' "$RUNNER_TEMP/article-pages.json")
+          case "$base" in https://*) ;; *) exit 1;; esac
+          verified=false
+          for attempt in $(seq 1 30); do
+            if curl -fsSL --connect-timeout 5 --max-time 15 "${base%/}/games/painting/?article-check=$GITHUB_RUN_ID" -o "$RUNNER_TEMP/article-index.html" && grep -q 'data-painting-mini-wiki="v1"' "$RUNNER_TEMP/article-index.html"; then
+              if curl -fsSL --connect-timeout 5 --max-time 15 "${base%/}/games/painting/artist-articles.json?v=$GITHUB_RUN_ID" -o "$RUNNER_TEMP/article-data.json" && cmp -s games/painting/artist-articles.json "$RUNNER_TEMP/article-data.json" && curl -fsSL --connect-timeout 5 --max-time 15 "${base%/}/games/painting/artist-articles.js?v=$GITHUB_RUN_ID" -o "$RUNNER_TEMP/article-client.js" && cmp -s games/painting/artist-articles.js "$RUNNER_TEMP/article-client.js"; then verified=true; break; fi
+            fi
+            sleep 10
+          done
+          mkdir -p coordination/painting-articles
+          printf '{"runId":"%s","articles":["caravaggio","vasily_kandinsky"],"installed":true,"schemaAndSyntaxChecked":true,"publishedAssetsVerified":%s,"browserTested":false,"newImagesAdded":false}\n' "$GITHUB_RUN_ID" "$verified" > coordination/painting-articles/pilot-result.json
+          git add coordination/painting-articles/pilot-result.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record pilot article installation verification'
+            saved=false
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push origin HEAD:main; then saved=true; break; fi
+              sleep 3
+            done
+            test "$saved" = true
+          fi
+          echo "Pilot article assets verified: $verified. Browser rendering and image delivery were not tested." >> "$GITHUB_STEP_SUMMARY"
+          test "$verified" = true
