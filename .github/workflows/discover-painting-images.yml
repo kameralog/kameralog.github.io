@@ -1,0 +1,84 @@
+name: Discover missing painting images
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Inventory only or search for candidates
+        type: choice
+        options: [search, inventory]
+        default: search
+      scope:
+        description: Which missing items to search
+        type: choice
+        options: [all, works, artists]
+        default: all
+      limit:
+        description: Targets per run (1 to 25)
+        type: number
+        default: 10
+      verify_images:
+        description: Probe a small image prefix (no full downloads)
+        type: boolean
+        default: true
+      refresh:
+        description: Ignore completed results for this run
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: painting-image-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Restore previous search checkpoint
+        continue-on-error: true
+        uses: actions/cache/restore@v4
+        with:
+          path: reports/painting-image-discovery/cache.json
+          key: painting-image-discovery-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            painting-image-discovery-v1-
+      - name: Check script and offline tests
+        run: |
+          node --check games/painting/discover-painting-images.mjs
+          node games/painting/test-discover-painting-images.mjs
+      - name: Inventory and bounded image search
+        env:
+          LIMIT: ${{ inputs.limit }}
+          SCOPE: ${{ inputs.scope }}
+          MODE: ${{ inputs.mode }}
+          VERIFY_IMAGES: ${{ inputs.verify_images }}
+          REFRESH: ${{ inputs.refresh }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          args=(--limit "$LIMIT" --scope "$SCOPE")
+          if [ "$MODE" = inventory ]; then args+=(--inventory); fi
+          if [ "$VERIFY_IMAGES" != true ]; then args+=(--no-probe); fi
+          if [ "$REFRESH" = true ]; then args+=(--refresh); fi
+          node games/painting/discover-painting-images.mjs "${args[@]}"
+      - name: Save checkpoint for the next manual run
+        if: ${{ always() && hashFiles('reports/painting-image-discovery/cache.json') != '' }}
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: reports/painting-image-discovery/cache.json
+          key: painting-image-discovery-v1-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Downloadable report and candidates
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: painting-image-discovery-${{ github.run_number }}
+          path: reports/painting-image-discovery/
+          if-no-files-found: warn
+          retention-days: 30
