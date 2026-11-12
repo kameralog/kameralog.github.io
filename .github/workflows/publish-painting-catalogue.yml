@@ -1,0 +1,133 @@
+name: Publish and verify museum package of 21 images
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/publish-painting-catalogue.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-publication-only
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Verify the saved package in the compiled catalogue
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$GITHUB_REPOSITORY" = kameralog/kameralog.github.io
+          git merge-base --is-ancestor 91b823a9fc1d9459674f16c099395e753900711f HEAD
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          import assert from 'node:assert/strict';
+          import {Buffer} from 'node:buffer';
+          import {createHash} from 'node:crypto';
+          import {execFileSync} from 'node:child_process';
+          const packageCommit='91b823a9fc1d9459674f16c099395e753900711f',receiptPath='reports/painting-museum-wikidata-v3/summary.json';
+          const raw=execFileSync('git',['show',packageCommit+':'+receiptPath]);
+          const blob=createHash('sha1').update('blob '+raw.length+String.fromCharCode(0)).update(raw).digest('hex');
+          assert.equal(blob,'919466823702d6f4bfce6c3e54a65c92f1e90da5');
+          const receipt=JSON.parse(raw.toString('utf8'));
+          assert.equal(receipt.bound,21);assert.equal(receipt.keys.length,21);assert.equal(new Set(receipt.keys).size,21);
+          const html=fs.readFileSync('games/painting/index.html','utf8'),prefix='const CARDS=',at=html.indexOf(prefix);assert(at>=0,'CARDS missing');
+          const start=at+prefix.length;let CARDS,d=0,q=false,e=false;
+          for(let i=start;i<html.length;i++){const c=html[i];if(q){if(e)e=false;else if(c==='\\')e=true;else if(c==='"')q=false;}else if(c==='"')q=true;else if(c==='[')d++;else if(c===']'&&--d===0){CARDS=JSON.parse(html.slice(start,i+1));break;}}
+          assert(Array.isArray(CARDS),'Cannot read quiz data for catalogue evaluation');
+          const registry={},box={CARDS,Buffer,URL,console,document:{getElementById:()=>null},MutationObserver:class{observe(){}}};box.window=box;box.registerPaintingArtists=batch=>Object.assign(registry,batch);
+          vm.runInNewContext(fs.readFileSync('games/painting/artists.js','utf8'),box,{filename:'artists.js',timeout:30000});
+          const works=Object.values(registry).flatMap(a=>a.works||[]);
+          for(const key of receipt.keys)assert.equal(works.filter(w=>w.key===key&&w.image).length,1,'Missing or duplicate package work: '+key);
+          const hash=file=>createHash('sha256').update(fs.readFileSync(file)).digest('hex');
+          const evidence={schemaVersion:1,kind:'painting-publication-receipt',package:'museum-v3-21',packageSourceCommit:packageCommit,packageReceiptPath:receiptPath,packageReceiptBlob:blob,verifiedAgainstSourceCommit:execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim(),bound:21,keys:receipt.keys,siteUrl:'https://kameralog.github.io/games/painting/',artifacts:{'games/painting/artists.js':hash('games/painting/artists.js'),'games/painting/index.html':hash('games/painting/index.html')},applicationFilesModified:false,quizCardsModified:false,browserVisualCheck:false};
+          fs.writeFileSync(process.env.RUNNER_TEMP+'/painting-package.json',JSON.stringify(evidence,null,2));
+          console.log('All 21 package bindings are present exactly once in the compiled current catalogue.');
+          NODE
+          echo "EXPECTED_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+      - name: Verify live files or request Pages publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          endpoint="repos/$GITHUB_REPOSITORY/pages"
+          gh api "$endpoint" > "$RUNNER_TEMP/pages.json"
+          test "$(jq -r '.build_type' "$RUNNER_TEMP/pages.json")" = legacy
+          test "$(jq -r '.source.branch' "$RUNNER_TEMP/pages.json")" = main
+          test "$(jq -r '.source.path' "$RUNNER_TEMP/pages.json")" = /
+          base=$(jq -r '.html_url' "$RUNNER_TEMP/pages.json")
+          test "${base%/}" = https://kameralog.github.io
+          verify_live() {
+            curl --fail --silent --show-error --location --max-time 15 "${base%/}/games/painting/artists.js?v=$EXPECTED_COMMIT" -o "$RUNNER_TEMP/live-artists.js" &&
+            cmp -s games/painting/artists.js "$RUNNER_TEMP/live-artists.js" &&
+            curl --fail --silent --show-error --location --max-time 15 "${base%/}/games/painting/?v=$EXPECTED_COMMIT" -o "$RUNNER_TEMP/live-index.html" &&
+            cmp -s games/painting/index.html "$RUNNER_TEMP/live-index.html"
+          }
+          if verify_live; then
+            echo "$EXPECTED_COMMIT" > "$RUNNER_TEMP/painting-live-verified"
+            echo "PUBLICATION_REQUESTED=false" >> "$GITHUB_ENV"
+            echo "The package is already published; both live files match."
+            exit 0
+          fi
+          requested=false
+          for attempt in 1 2 3 4 5; do
+            if gh api --method POST "$endpoint/builds"; then requested=true; break; fi
+            sleep "$((attempt * 5))"
+          done
+          echo "PUBLICATION_REQUESTED=$requested" >> "$GITHUB_ENV"
+          if [ "$requested" != true ]; then echo "::warning::No new build accepted; checking any existing publication."; fi
+          for attempt in $(seq 1 30); do
+            if verify_live; then
+              echo "$EXPECTED_COMMIT" > "$RUNNER_TEMP/painting-live-verified"
+              echo "Publication verified: live catalogue and index match the checked source snapshot."
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "Publication has not been verified; no success receipt will be written." >&2
+          exit 1
+      - name: Save a verified publication receipt without changing application files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(cat "$RUNNER_TEMP/painting-live-verified")" = "$EXPECTED_COMMIT"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const path=process.env.RUNNER_TEMP+'/painting-package.json',receipt=JSON.parse(fs.readFileSync(path,'utf8'));
+          receipt.status='verified';receipt.verifiedAt=new Date().toISOString();receipt.publishRequestIssued=process.env.PUBLICATION_REQUESTED==='true';receipt.liveArtistsByteMatch=true;receipt.liveIndexByteMatch=true;
+          fs.writeFileSync(path,JSON.stringify(receipt,null,2)+'\n');
+          NODE
+          endpoint="repos/$GITHUB_REPOSITORY/contents/reports/painting-publication/museum-v3-21.json"
+          for attempt in 1 2 3; do
+            sha=""
+            if gh api "$endpoint?ref=main" > "$RUNNER_TEMP/current-receipt.json" 2> "$RUNNER_TEMP/receipt-read-error"; then
+              jq -r '.content' "$RUNNER_TEMP/current-receipt.json" | base64 --decode > "$RUNNER_TEMP/previous-receipt.json"
+              jq -e '.kind == "painting-publication-receipt" and .packageSourceCommit == "91b823a9fc1d9459674f16c099395e753900711f"' "$RUNNER_TEMP/previous-receipt.json" > /dev/null
+              sha=$(jq -r '.sha' "$RUNNER_TEMP/current-receipt.json")
+            elif ! grep -q 'HTTP 404' "$RUNNER_TEMP/receipt-read-error"; then
+              cat "$RUNNER_TEMP/receipt-read-error" >&2
+              exit 1
+            fi
+            jq -n --rawfile body "$RUNNER_TEMP/painting-package.json" --arg sha "$sha" '{message:"Record verified publication of 21 museum reproductions",branch:"main",content:($body|@base64)} + (if $sha == "" then {} else {sha:$sha} end)' > "$RUNNER_TEMP/receipt-write.json"
+            if gh api --method PUT "$endpoint" --input "$RUNNER_TEMP/receipt-write.json" > "$RUNNER_TEMP/saved-receipt.json" 2> "$RUNNER_TEMP/receipt-write-error"; then
+              echo "Verified publication receipt saved; application files unchanged."
+              exit 0
+            fi
+            cat "$RUNNER_TEMP/receipt-write-error" >&2
+            sleep "$((attempt * 3))"
+          done
+          exit 1
