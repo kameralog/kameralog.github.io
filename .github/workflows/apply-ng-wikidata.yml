@@ -1,0 +1,86 @@
+name: Verify and bind remaining National Gallery images
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'tools/apply-ng-wikidata-bindings.mjs'
+      - '.github/workflows/apply-ng-wikidata.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with:
+          repository: kameralog/painting-audit-data
+          ref: fb485e38be5e745879b4ad6fb16ecc941edea64e
+          path: audit
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install image decoder
+        run: npm install --no-save --package-lock=false sharp@0.33.5
+      - name: Verify, bind and rebuild
+        shell: bash
+        run: |
+          set -euo pipefail
+          node tools/apply-ng-wikidata-bindings.mjs --test
+          node tools/apply-ng-wikidata-bindings.mjs audit
+          (
+            cd games/painting
+            node install-reviewed-reproductions.mjs --test
+            node install-reviewed-reproductions.mjs
+            node install-package-reproductions.mjs --test
+            node install-package-reproductions.mjs
+            node build-artists.mjs
+          )
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- games/painting/artists-batch-*.js games/painting/artists.js games/painting/index.html reports/painting-ng-wikidata
+          if ! git diff --cached --quiet; then
+            git commit -m "Bind verified National Gallery inventory matches; preserve existing works and quiz"
+            git push origin HEAD:main
+          fi
+          echo "EXPECTED_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+          echo "BINDINGS_ADDED=$(jq -r '.bound' reports/painting-ng-wikidata/summary.json)" >> "$GITHUB_ENV"
+      - name: Publish and verify catalogue
+        if: env.BINDINGS_ADDED != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          endpoint="repos/$GITHUB_REPOSITORY/pages"
+          gh api "$endpoint" > "$RUNNER_TEMP/pages.json"
+          test "$(jq -r '.build_type' "$RUNNER_TEMP/pages.json")" = legacy
+          test "$(jq -r '.source.branch' "$RUNNER_TEMP/pages.json")" = main
+          test "$(jq -r '.source.path' "$RUNNER_TEMP/pages.json")" = /
+          requested=false
+          for attempt in 1 2 3 4 5; do
+            if gh api --method POST "$endpoint/builds"; then requested=true; break; fi
+            sleep "$((attempt * 5))"
+          done
+          test "$requested" = true
+          base=$(jq -r '.html_url' "$RUNNER_TEMP/pages.json")
+          case "$base" in https://*) ;; *) exit 1;; esac
+          for attempt in $(seq 1 60); do
+            if curl --fail --silent --show-error --location --max-time 30 "${base%/}/games/painting/artists.js?v=$EXPECTED_COMMIT" -o "$RUNNER_TEMP/live-artists.js" && cmp -s games/painting/artists.js "$RUNNER_TEMP/live-artists.js"; then
+              echo "Published catalogue verified; added $BINDINGS_ADDED reproductions."
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "Changes committed, but publication not verified." >&2
+          exit 1
