@@ -1,0 +1,196 @@
+{
+  "auditCommit": "fb485e38be5e745879b4ad6fb16ecc941edea64e",
+  "bound": 34,
+  "quizCardsChanged": false,
+  "visualReviewClaimed": false,
+  "files": [
+    {
+      "file": "artists-batch-88.js",
+      "before": "b626ac962e0d4622a4a38ea67a30c823ac6dee0d325470096ee6088f1ad4173b",
+      "after": "bcd74de7c844f0c3338253dfac86a28b446c08bbe747f1339fad9ff57018ae68"
+    },
+    {
+      "file": "artists-batch-106.js",
+      "before": "4fb3d8b58073d66358664b16ba588421d707d62596640aa6692de60f74267fbf",
+      "after": "e34a560047e0fc88b72a3542fdb9e66b6b02e2ae5c452e66a04ecb086f4b8bd1"
+    },
+    {
+      "file": "artists-batch-49.js",
+      "before": "b846a273d9bc7f152b83b6b3bb10f287dc2ab23eb29b85eeedc141f3b19d0c76",
+      "after": "001c7d8068cb2e7e46236b7cee64c498ffa3f205b403ea35740e33c570b1f9f0"
+    },
+    {
+      "file": "artists-batch-71.js",
+      "before": "34644396c5e3febc9f7a8e240476d55de01da71d69649b1f71b3c2e44b7a0871",
+      "after": "1f6aa6cd93f623950bb4cdd9b75992ba0e86561336f0fb89b7bc50bc0379fcc2"
+    },
+    {
+      "file": "artists-batch-100.js",
+      "before": "5f695f06098fec5c1aca5c13695ad47999819eab164cbfd46ae257e1787ebdcf",
+      "after": "743c03b15d178033390e246cfe97a8664fc9b2e77376553f1d0133f70c86b9ea"
+    },
+    {
+      "file": "artists-batch-89.js",
+      "before": "147c86e55985026dcf45a591953b2d2594832cea348f55b9f72928edbae01569",
+      "after": "a10f58ed67b20e4517456a87a408211be4c32387826054b287b6de117c480b35"
+    },
+    {
+      "file": "artists-batch-87.js",
+      "before": "5d0ed95eb036fb469f6b37b23dc6d74049abfb7a3f9f6011772825a179ca2ecf",
+      "after": "4f8d53ce27450d05243e17da3eee9eab0f00dbf3528ba659fa3c0de6b868865e"
+    },
+    {
+      "file": "artists-batch-83.js",
+      "before": "44b73e8a9bb3e49e882630f1d7423df26fe8beb83b9542271aa39cbaa8e0dd6f",
+      "after": "a3020ace21ddca8b602401687d7206ed1f3e8a18703f0a76a3d451b8e0614f68"
+    },
+    {
+      "file": "artists-batch-80.js",
+      "before": "09a59e19ebc36163e17d8bdd38fe2723b98ba8d2398683b517adcb9bef06f1c2",
+      "after": "fc640bc66b1881c4fea58c4275bddadc1e0c0a14745bc66abaf7cc6beed66ccc"
+    },
+    {
+      "file": "artists-batch-25.js",
+      "before": "4f357593e59d1e6249efb143136f7adc668d822433cea4005653812af0e2706b",
+      "after": "b83d78ae053e094a2f3b15304340aaaf0ca76ec9f1eabd8c7515f5d573e1fe3b"
+    },
+    {
+      "file": "artists-batch-51.js",
+      "before": "7ac3daf74be4801a7189b05e51e32c14288b091fe7a9098558d392db7b8ac0e3",
+      "after": "ec6414c3afbd77a7539d6805cfe5ac13ab58948b1fbbca474b0f097416ded597"
+    },
+    {
+      "file": "artists-batch-82.js",
+      "before": "b477c616e8f479fcee1a2cad1f798284645000ced30d2b8431a7ad864bdcfad1",
+      "after": "23558325cde8259950449d2cf800caad974b553109088cf9cff5e1f8664c81e8"
+    },
+    {
+      "file": "artists-batch-95.js",
+      "before": "51131ee9d9c821478c80628cae942d64bd4d4c49f7bf6ed689ab1855efff7fcc",
+      "after": "16a51119d616da7e7acec3c218f0ed98b4fc079525c52d1c748d5aef0ee1dafb"
+    },
+    {
+      "file": "artists-batch-98.js",
+      "before": "b8ab9c9fe26e1ab0cf366a47e96193b6cbd397fb7d9d1879900a12e93e30b37a",
+      "after": "bf2eb3d3068386a24dfe17d014e0bfe4ba7ba19d6bb33773abd2c1e169a12121"
+    },
+    {
+      "file": "artists-batch-84.js",
+      "before": "00ec2274ff59ced241afab79adce5b120ee2e74f60b9dbf320df4df039e4f58e",
+      "after": "f21a7c83974f2210ca8e3ea1c0faed64eb1586387c7d6e0615ac718ac83a2464"
+    },
+    {
+      "file": "artists-batch-59.js",
+      "before": "ef057a50e75a0e83a3861d7ef62e353724ce344f3d84be433b568707dc7819b0",
+      "after": "89a6cc44ed704e315f719150c4fee1fc5dc1b684c48493c8916606ff2a31d7b2"
+    },
+    {
+      "file": "artists-batch-56.js",
+      "before": "c04ff8208f3d9d0535e1eb2ddcffe0737cf5ae0c824ef34fc22759003568f401",
+      "after": "509f6f96527f9fb68f34d1e1890f9af425960354d7c4164d8cf9b7988b8b826a"
+    },
+    {
+      "file": "artists-batch-105.js",
+      "before": "7ed75c8c6c4ddb3598f26f2c75dca848b14addf66f74c2b302ce022db7537ebd",
+      "after": "78dd324774e823758cebec9c4d00c4c340191878e082f3a1361d7fd782fa6e09"
+    },
+    {
+      "file": "artists-batch-61.js",
+      "before": "99af8b2f7551b04e326c0d409bc9d26cce8904bcbfae8111f2548965a1b7ef9b",
+      "after": "3e937e0a885905434ba3f1a316161f6128584f59e766eabd94bb8e08ca266a43"
+    },
+    {
+      "file": "artists-batch-60.js",
+      "before": "367e3da8da7c3caf070229a822199923dd2bae1705b41ee14e1140c6a0ed0c7d",
+      "after": "2737ba1cae00892a7d723b9c5c9e21569dee169f338831c55bf5c1348c5c6df6"
+    },
+    {
+      "file": "artists-batch-63.js",
+      "before": "fd81c77ac63febba5e9bcbf0d3e6ba959adf7ce728c2aad9dbd8e12ac6d005cd",
+      "after": "f4b7dc2727a8c3626c12f5ff21e886e20d6397f25c546cd4af5c3239dfa94a83"
+    },
+    {
+      "file": "artists-batch-73.js",
+      "before": "94d0a309cf5c9d1546514da07286ef8737d105c6a7c97f225ef570ba155a9293",
+      "after": "bf92d40333538ecda0d23f0494f9ff230a0a38a5ff520fb62c199d20b3648c09"
+    },
+    {
+      "file": "artists-batch-17.js",
+      "before": "697fc187076514bfc34b1be6c6e06aae08ef5059ca96ae086d41c728b5ceca64",
+      "after": "55c057ba2a527946f955e785b406a0d25cb5b3703e9e42111040803ad8cfb723"
+    },
+    {
+      "file": "artists-batch-29.js",
+      "before": "b8497278a76ca5bece0a865dd5f23589a06bc11147aa32e6176ce639b5ad2d19",
+      "after": "be0f8f5eaaec96a4cfe98b7879dcb6b35b80e5229b339a6a61e9d12f63ca1eb3"
+    },
+    {
+      "file": "artists-batch-28.js",
+      "before": "6164780b0f6d8ebe778adfa73412750540f09b11bb00c36012e7ee92a78cab0f",
+      "after": "8b5c59843097a426e129409e45cd0fd5f670f07b942a4bff0a62d4e295017c10"
+    }
+  ],
+  "keys": [
+    "boijmans:1096-OK",
+    "53.225.5",
+    "ng:NG734",
+    "ng:NG6522",
+    "2007.360",
+    "ng:NG6321",
+    "editorial:codazzi-roman-amphitheatre-prado",
+    "ng:NG6612",
+    "ng:NG3679",
+    "audit:ghulam_ali_khan:9322d994baab",
+    "ng:NG697",
+    "met:2014.270",
+    "ngs:NG1513",
+    "1993.401",
+    "met:2020.263.10",
+    "prado:P00237",
+    "sothebys:2017:N09601:36",
+    "2003.26",
+    "vatican:40460",
+    "ng:NG955",
+    "ng:NG3604",
+    "NG5867",
+    "ng:NG6410",
+    "ng:NG6272",
+    "NG6316",
+    "audit:sahibdin:0ad486e9d9cc",
+    "ng:NG2553",
+    "ng:NG6460",
+    "boijmans:1675-OK",
+    "audit:artemisia_gentileschi:919756a79828",
+    "audit:constable:67939f9637da",
+    "audit:canaletto:3d462c9e8992",
+    "audit:manet:5e9f06ad5b8d",
+    "audit:jacob_van_ruisdael:744d492c73fc"
+  ],
+  "excluded": [
+    {
+      "key": "ng:NG1420",
+      "license": "CC BY-SA 4.0",
+      "reason": "attribution_license_check"
+    },
+    {
+      "key": "ng:NG1430",
+      "license": "CC BY-SA 4.0",
+      "reason": "attribution_license_check"
+    },
+    {
+      "key": "met:189540",
+      "license": "CC0",
+      "reason": "black_and_white_source"
+    },
+    {
+      "key": "ng:NG5769",
+      "license": "CC BY-SA 4.0",
+      "reason": "attribution_license_check"
+    },
+    {
+      "key": "ng:NG679",
+      "license": "CC BY-SA 4.0",
+      "reason": "attribution_license_check"
+    }
+  ]
+}
