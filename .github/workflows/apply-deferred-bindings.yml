@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'tools/apply-deferred-bindings.mjs'
+      - 'tools/repair-deferred-delivery.mjs'
       - '.github/workflows/apply-deferred-bindings.yml'
 permissions:
   contents: write
@@ -36,6 +37,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          node tools/repair-deferred-delivery.mjs
+          node --check tools/apply-deferred-bindings.mjs
           node tools/apply-deferred-bindings.mjs --test
           node tools/apply-deferred-bindings.mjs audit
           (
@@ -48,9 +51,9 @@ jobs:
           )
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- games/painting/artists-batch-*.js games/painting/artists.js games/painting/index.html reports/painting-deferred-five.json
+          git add -- tools/apply-deferred-bindings.mjs games/painting/artists-batch-*.js games/painting/artists.js games/painting/index.html reports/painting-deferred-five.json
           if ! git diff --cached --quiet; then
-            git commit -m "Bind deferred five images with licenses, full Massys and monochrome notice"
+            git commit -m "Bind deferred five images with robust delivery and explicit credits"
             git push origin HEAD:main
           fi
           echo "EXPECTED_COMMIT=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
