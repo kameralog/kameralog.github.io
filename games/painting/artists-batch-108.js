@@ -1,0 +1,48 @@
+/* Batch 108: research draft approved for storage, not fully verified for publication.
+ * All ten works remain pending; no image/zoom is connected.
+ * Registry review used all 17 parts for sourceCommit eae413bbb9aab0d066351238fd217b75e6e1b1a1.
+ * Combined execution with the existing registry has not been run locally.
+ */
+(()=>{'use strict';
+const B={};
+function add(id,name,latin,aliases,date,title,originalTitle,museum,inventoryNumber,medium,source,bio,caution){
+const w={key:inventoryNumber||'editorial:108:'+id,title,originalTitle,date,medium,museum,source,look:'Вопросы для рассматривания: как организованы фигуры и предметы, направления взглядов и свет? Ответы пока не утверждаются.',reason:'Конкретный свободный файл, его права, качество и доступность ещё не проверены полностью.'};
+if(inventoryNumber)w.inventoryNumber=inventoryNumber;
+B[id]={name,latin,aliases:[name,latin,...aliases],life:['anna_dorothea_therbusch','anna_rosina_de_gasc'].includes(id)?'XVIII век':'XVIII–XIX века',tag:'Предварительная карточка · проверка репродукции',bio,technique:[medium,'Технические наблюдения сверх подтверждённой музейной записи пока не добавлены.'],innovation:'Учебный ракурс уточняется; новаторство не устанавливается по одному произведению.',features:['Вопрос: как выстроена композиция?','Вопрос: какие действия изображены?','Вопрос: как направлены взгляды?','Вопрос: как работают свет и цвет?','Вопрос: что видно, а что требует исторического источника?'],caution,sources:[[museum+': '+title,source]],works:[],pendingWorks:[w],editorialStatus:'RESEARCH_DRAFT_NOT_READY_FOR_PUBLICATION'};
+}
+add('marie_victoire_lemoine','Мари-Виктуар Лемуан','Marie Victoire Lemoine',[],'1789','Интерьер мастерской художницы',"The Interior of a Woman Painter's Studio",'Метрополитен-музей, Нью-Йорк','57.103','Масло на холсте; 116,5 × 88,9 см','https://www.metmuseum.org/art/collection/search/436875',
+['Картина написана в 1789 году и показана в Салоне 1796 года.','Музей допускает, что изображены сама Лемуан и её сестра Виллер, но не представляет эту идентификацию как бесспорную.'],
+'Не превращать вероятную идентификацию фигур в установленную; не путать сестёр Лемуан и Виллер.');
+add('marie_denise_villers','Мари-Дениз Виллер','Marie Denise Villers',['Marie-Denise Villers'],'1801','Мари-Жозефина Шарлотта дю Валь д’Онь',"Marie Joséphine Charlotte du Val d'Ognes (1786–1868)",'Метрополитен-музей, Нью-Йорк','17.120.204','Масло на холсте; 161,3 × 128,6 см','https://www.metmuseum.org/art/collection/search/437903',
+['Музей датирует портрет 1801 годом; в том же году Виллер показала его в Салоне.','Ранее картину приписывали Жаку-Луи Давиду; авторство Виллер идентифицировала Маргарет Оппенхаймер в 1996 году.'],
+'Не называть работу установленным автопортретом. Идентификация модели предположительна; не переносить авторство на Констанс Шарпантье.');
+add('marie_guillemine_benoist','Мари-Гийемин Бенуа','Marie Guillemine Benoist',['Marie-Guillemine Benoist','Marie-Guillelmine Benoist'],'1802','Мадам Филипп Панон Дебассен де Ришмон с сыном Эженом','Madame Philippe Panon Desbassayns de Richemont (Jeanne Eglé Mourgue, 1778–1855) and Her Son, Eugène (1800–1859)','Метрополитен-музей, Нью-Йорк',null,'Техника и размеры требуют дополнительной сверки','https://www.metmuseum.org/art/collection/search/435650',
+['Музей атрибутирует этот семейный портрет Мари-Гийемин Бенуа.','Картину прежде приписывали Давиду; нынешняя атрибуция отличает автора от её учителя.'],
+'Выбрана мать с сыном Эженом, не другая композиция с дочерью Камиллой. 435650 — идентификатор веб-карточки, не инвентарный номер.');
+add('rose_adelaide_ducreux','Роз-Аделаида Дюкре','Rose Adélaïde Ducreux',['Rose Adelaide Ducreux'],'1791','Автопортрет с арфой','Self-Portrait with a Harp','Метрополитен-музей, Нью-Йорк','67.55.1','Масло на холсте; 193 × 128,9 см','https://www.metmuseum.org/art/collection/search/436222',
+['Музей связывает работу с автопортретом, показанным художницей в Салоне 1791 года.','Современники отмечали изящество позы и роскошные ткани.'],
+'Не путать с Жозефом Дюкре. Связь с конкретной салонной работой формулировать как музейную идентификацию.');
+add('constance_mayer','Констанс Майер','Constance Mayer',['Constance Mayer-Lamartinière'],'1819','Мечта о счастье','Le rêve du bonheur','Лувр; по актуальной карточке — Лувр-Ланс, Галерея времени','INV 6586','Масло на холсте; 132 × 184 см','https://collections.louvre.fr/ark:/53355/cl010065858',
+['Лувр атрибутирует картину Констанс Майер-Ламартиньер и датирует 1819 годом.','Произведение показано в Салоне 1819 года; создание связано с рисунками и эскизами Пьера-Поля Прюдона.'],
+'Не подменять картину Майер эскизом Прюдона RFML.PE.2019.22.1. Различать принадлежность Лувру и нынешнее экспонирование в Лувре-Лансе.');
+add('constance_charpentier','Констанс Шарпантье','Constance Charpentier',['Constance Marie Charpentier','Constance-Marie Charpentier','Constance Marie Blondelu'],'1801','Меланхолия','La Mélancolie','Музей Пикардии, Амьен','M.P.2004.17.133','Масло на холсте; 130 × 165 см','https://www.amiens.fr/Vivre-a-Amiens/Culture-Patrimoine/Etablissements-culturels/Musee-de-Picardie/Collections/XIX/Notices/Notice-Constance-Charpentier',
+['Музей подтверждает автора, название, дату 1801 и инвентарный номер.','Картина пользовалась успехом в Салоне 1801 года и была приобретена государством.'],
+'Не смешивать с «Меланхолией» Франсуа-Андре Венсана. Права фотографии RMN или музейного фотографа не считаются автоматически свободными.');
+add('anna_dorothea_therbusch','Анна Доротея Тербуш','Anna Dorothea Therbusch',['Anna Dorothea Lisiewski','Anna Dorota Lisiewska'],'около 1782 по музейной выставочной странице; датировка на дополнительной сверке','Автопортрет со зрительным стеклом','Selbstbildnis','Берлинская картинная галерея',null,'Техника и размеры требуют дополнительной сверки','https://www.smb.museum/ausstellungen/detail/anna-dorothea-therbusch/',
+['Берлинская картинная галерея описывает крупноформатный автопортрет художницы с книгой и зрительным стеклом.','Музейная выставочная страница датирует его приблизительно 1782 годом.'],
+'В других найденных описаниях встречается 1776–1777; датировка и совпадение версии не закрыты. Не путать художницу с Анной Розиной де Гаск. Не использовать музейный фрагмент или рентгенограмму как полный живописный автопортрет.');
+add('anna_rosina_de_gasc','Анна Розина де Гаск','Anna Rosina de Gasc',['Anna Rosina Lisiewska','Anna Rosina Lisiewski','Anna Rosina Matthieu'],'1767','Автопортрет','Selbstbildnis','Музей герцога Антона Ульриха, Брауншвейг',null,'Техника и размеры требуют дополнительной сверки','https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum/sammlung/abteilungen/gemaeldesammlung-alte-meister',
+['Официальная страница собрания подтверждает автопортрет 1767 года.','Музей включает произведение в свои учебные материалы по портрету.'],
+'Не путать с Анной Доротеей Тербуш и другими Лисиевскими. GG 725 пока найден лишь в агрегированной записи; в инвентарный номер черновика его не переносим. Годы жизни требуют отдельной сверки.');
+add('caroline_bardua','Каролина Бардуа','Caroline Bardua',[],'1810','Портрет художника Каспара Давида Фридриха','Bildnis des Malers Caspar David Friedrich','Старая национальная галерея, Берлин','A I 1127','Масло на холсте; 76,5 × 60 см','https://search.smb.museum/object/obj-962733',
+['Музей атрибутирует портрет Каролине Бардуа и датирует 1810 годом.','В собрание он поступил как автопортрет Фридриха, но позднее был отнесён к работам Бардуа.'],
+'Не смешивать берлинский портрет 1810 года с её портретом Фридриха 1839 года в Дессау; имя модели не становится алиасом автора.');
+add('marie_ellenrieder','Мария Элленридер','Marie Ellenrieder',['Anna Marie Ellenrieder','Мари Элленридер'],'1819','Автопортрет с палитрой','Selbstbildnis mit Palette','Музей Росгартен, Констанц','M 133','Масло на холсте; 63,9 × 47,6 см','https://www.rosgartenmuseum.de/wp-content/uploads/2025/01/Ellenrieder-Werkverzeichnis_3.Auflage_144dpi_75_144dpi_75_90dpi_75_web_80dpi_60.pdf',
+['Музейный каталог-резоне описывает автопортрет с палитрой, подписанный как собственный портрет художницы 1819 года.','Для выбранной картины каталог приводит музейный номер M 133 и размеры 63,9 × 47,6 см.'],
+'Не подменять автопортретом 1818 года из Карлсруэ, № 783, 53 × 43,2 см, или рисованным полуоборотом M 134. Права иллюстрации каталога не переносятся на отдельный Commons-файл.');
+B.marie_guillemine_benoist.sources.push(['Метрополитен: научная публикация с датой 1802','https://www.metmuseum.org/met-publications/three-new-paintings-by-marie-guillelmine-benoist-the-metropolitan-museum-journal-v-31-1996']);
+Object.assign(B.rose_adelaide_ducreux.pendingWorks[0],{candidateImage:'https://images.metmuseum.org/CRDImages/ep/original/DP164843.jpg',candidatePreview:'https://images.metmuseum.org/CRDImages/ep/web-large/DP164843.jpg',candidateImageSource:'https://collectionapi.metmuseum.org/public/collection/v1/objects/436222',candidateLicense:'CC0 — The Met Open Access; API isPublicDomain=true',candidateCredit:'Rose Adélaïde Ducreux, Self-Portrait with a Harp, 1791. The Metropolitan Museum of Art, New York. Bequest of Susan Dwight Bliss, 1966, 67.55.1. CC0.',reason:'Файл и статус public domain установлены по API, условия CC0 — по политике музея. Размер изображения в пикселях, загрузка файла и пригодность для показа ещё не проверены.'});
+B.rose_adelaide_ducreux.sources.push(['Метрополитен: API объекта 436222','https://collectionapi.metmuseum.org/public/collection/v1/objects/436222'],['Метрополитен: политика Open Access / CC0','https://www.metmuseum.org/hubs/open-access']);
+if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');
+window.registerPaintingArtists(B);
+})();
