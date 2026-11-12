@@ -1,0 +1,122 @@
+{
+  "bound": 5,
+  "colorReproductions": 4,
+  "documentaryMonochrome": 1,
+  "colorReplacementForBelinStillOpen": true,
+  "quizCardsChanged": false,
+  "visualReviewClaimed": false,
+  "keys": [
+    "ng:NG1420",
+    "ng:NG1430",
+    "met:189540",
+    "ng:NG5769",
+    "ng:NG679"
+  ],
+  "checks": [
+    {
+      "key": "ng:NG1420",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gerrit_Berckheyde_-_The_Market_Place_and_the_Grote_Kerk_at_Haarlem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Gerrit_Berckheyde_-_The_Market_Place_and_the_Grote_Kerk_at_Haarlem.jpg",
+      "license": "CC BY-SA 4.0",
+      "credit": "Gerrit Adriaenszoon Berckheyde; http://www.nationalgallery.org.uk/paintings/gerrit-berckheyde-the-market-place-and-the-grote-kerk-at-haarlem; CC BY-SA 4.0",
+      "documentary": false,
+      "check": {
+        "width": 800,
+        "height": 620,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gerrit_Berckheyde_-_The_Market_Place_and_the_Grote_Kerk_at_Haarlem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "sha256": "19f07360510337458017c7d1e79a51038c45336549fae2bfe7ae014ce358d65d",
+        "bytes": 413769,
+        "zoom": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Gerrit_Berckheyde_-_The_Market_Place_and_the_Grote_Kerk_at_Haarlem.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 800,
+          "height": 620,
+          "sha256": "19f07360510337458017c7d1e79a51038c45336549fae2bfe7ae014ce358d65d"
+        }
+      }
+    },
+    {
+      "key": "ng:NG1430",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Domenico_Beccafumi_-_The_story_of_Papirius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Domenico_Beccafumi_-_The_story_of_Papirius.jpg",
+      "license": "CC BY-SA 4.0",
+      "credit": "Domenico Beccafumi; http://www.nationalgallery.org.uk/paintings/domenico-beccafumi-the-story-of-papirius; CC BY-SA 4.0",
+      "documentary": false,
+      "check": {
+        "width": 800,
+        "height": 423,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Domenico_Beccafumi_-_The_story_of_Papirius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "sha256": "bec6c1476c5cf45cd93178c2704773024000e7ce1ab4ac13f966fe9c49eda55a",
+        "bytes": 347185,
+        "zoom": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Domenico_Beccafumi_-_The_story_of_Papirius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 800,
+          "height": 423,
+          "sha256": "bec6c1476c5cf45cd93178c2704773024000e7ce1ab4ac13f966fe9c49eda55a"
+        }
+      }
+    },
+    {
+      "key": "met:189540",
+      "image": "https://images.metmuseum.org/CRDImages/es/web-large/ep07.225.274.bw.R.jpg",
+      "imageSource": "https://www.metmuseum.org/art/collection/search/189540",
+      "license": "CC0",
+      "credit": "Jean-Baptiste Belin de Fontenay the Elder; Gift of J. Pierpont Morgan, 1906; The Metropolitan Museum of Art, 07.225.274; CC0",
+      "documentary": true,
+      "check": {
+        "width": 600,
+        "height": 515,
+        "url": "https://images.metmuseum.org/CRDImages/es/web-large/ep07.225.274.bw.R.jpg",
+        "sha256": "4b5e23b2d7269f1c1eb26c02cb3c1432246dd461a8c2f59654a8d7fd8b253e83",
+        "bytes": 150746,
+        "zoom": {
+          "url": "https://images.metmuseum.org/CRDImages/es/original/ep07.225.274.bw.R.jpg",
+          "width": 3149,
+          "height": 2705,
+          "sha256": "66f0afe24efddcfb795870bde4c4741a18f4d277c5f395758e052f77eacfba85"
+        }
+      }
+    },
+    {
+      "key": "ng:NG5769",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Quinten_Massys_-_An_Old_Woman_%28%27The_Ugly_Duchess%27%29_-_Google_Art_Project.jpg/960px-Quinten_Massys_-_An_Old_Woman_%28%27The_Ugly_Duchess%27%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Quinten_Massys_-_An_Old_Woman_(%27The_Ugly_Duchess%27)_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "credit": "Quinten Metsys; Google Arts & Culture — pgHyo_q4XgQKNw; Public domain",
+      "documentary": false,
+      "check": {
+        "width": 960,
+        "height": 1263,
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Quinten_Massys_-_An_Old_Woman_%28%27The_Ugly_Duchess%27%29_-_Google_Art_Project.jpg/960px-Quinten_Massys_-_An_Old_Woman_%28%27The_Ugly_Duchess%27%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "sha256": "922f0cacaa6552eaeaf759223e2904494ac7d5d709fc3ba6b7be27480a39f24f",
+        "bytes": 397373,
+        "zoom": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Quinten_Massys_-_An_Old_Woman_%28%27The_Ugly_Duchess%27%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 2280,
+          "height": 3000,
+          "sha256": "68eadc230097f6a5b685df5920f899c93614e793075cf6c1d9de09c9f0bf860c"
+        }
+      }
+    },
+    {
+      "key": "ng:NG679",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ferdinand_Bol_-_An_Astronomer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Ferdinand_Bol_-_An_Astronomer.jpg",
+      "license": "CC BY-SA 4.0",
+      "credit": "Ferdinand Bol; http://www.nationalgallery.org.uk/paintings/ferdinand-bol-an-astronomer; CC BY-SA 4.0",
+      "documentary": false,
+      "check": {
+        "width": 800,
+        "height": 750,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ferdinand_Bol_-_An_Astronomer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "sha256": "6edb368e450dafb7f2fcbaf72c21728dcb5d0d19344ead6bc89a178b3d7ac3a2",
+        "bytes": 334640,
+        "zoom": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Ferdinand_Bol_-_An_Astronomer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 800,
+          "height": 750,
+          "sha256": "6edb368e450dafb7f2fcbaf72c21728dcb5d0d19344ead6bc89a178b3d7ac3a2"
+        }
+      }
+    }
+  ]
+}
