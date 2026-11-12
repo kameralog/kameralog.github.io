@@ -14,7 +14,7 @@ permissions:
 jobs:
   install:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     concurrency:
       group: painting-build
       cancel-in-progress: false
@@ -48,41 +48,122 @@ jobs:
             sleep "$((attempt * 3))"
           done
           test "$done_install" = true
-      - name: Request Pages build and verify article assets
+      - name: Diagnose and verify Pages publication
+        id: publication
+        shell: python
+        run: |
+          import os, json, pathlib, subprocess, time, hashlib, urllib.request, urllib.error
+          out = pathlib.Path('coordination/painting-articles/pilot-result.json')
+          out.parent.mkdir(parents=True, exist_ok=True)
+          report = dict(runId=os.environ['GITHUB_RUN_ID'], articles=['caravaggio','vasily_kandinsky'], installed=True, schemaAndSyntaxChecked=True, publishedAssetsVerified=False, browserTested=False, newImagesAdded=False, attempts=[])
+          report['sourceCommit'] = subprocess.check_output(['git','rev-parse','HEAD'], text=True).strip()
+          def save():
+              out.write_text(json.dumps(report, ensure_ascii=False, indent=2)+'\n')
+          def api(path, method='GET'):
+              result = subprocess.run(['gh','api','--method',method,'repos/'+os.environ['GITHUB_REPOSITORY']+'/pages'+path], capture_output=True, text=True, timeout=25)
+              if result.returncode:
+                  raise RuntimeError(result.stderr.strip()[:1000])
+              return json.loads(result.stdout or '{}')
+          try:
+              pages = api('')
+              report['pagesConfiguration'] = {k:pages.get(k) for k in ['html_url','build_type','source']}
+              if pages.get('source',{}).get('branch') != 'main' or pages.get('source',{}).get('path') != '/' or pages.get('build_type','legacy') != 'legacy':
+                  raise RuntimeError('Unexpected Pages publishing configuration; no settings changed')
+              base = pages['html_url'].rstrip('/')+'/'
+              if not base.startswith('https://'):
+                  raise RuntimeError('Invalid Pages URL')
+              report['buildRequests'] = []
+              for request_attempt in range(5):
+                  try:
+                      report['buildRequest'] = api('/builds','POST')
+                      break
+                  except Exception as error:
+                      report['buildRequests'].append(str(error))
+                      time.sleep(5)
+              else:
+                  report['buildRequestWarning'] = 'Build request failed; checking live content anyway'
+              expected = {name:pathlib.Path('games/painting/'+name).read_bytes() for name in ['artist-articles.json','artist-articles.js']}
+              deadline = time.monotonic()+600
+              for attempt in range(1,61):
+                  if time.monotonic() >= deadline:
+                      break
+                  record = {'attempt':attempt,'checks':[]}
+                  for name in ['index.html','artist-articles.json','artist-articles.js']:
+                      if time.monotonic() >= deadline:
+                          record['checks'].append({'file':name,'ok':False,'error':'Verification deadline reached'})
+                          continue
+                      url = base+'games/painting/'+name+'?publication-check='+os.environ['GITHUB_RUN_ID']+'-'+str(attempt)
+                      check = {'file':name,'url':url,'ok':False}
+                      try:
+                          request = urllib.request.Request(url, headers={'Cache-Control':'no-cache','User-Agent':'painting-article-publication-check'})
+                          with urllib.request.urlopen(request, timeout=max(1,min(15,deadline-time.monotonic()))) as response:
+                              body = response.read()
+                              check.update(httpStatus=response.status, finalURL=response.url, contentType=response.headers.get('Content-Type'), bytes=len(body), sha256=hashlib.sha256(body).hexdigest())
+                          if name == 'index.html':
+                              check['ok'] = b'data-painting-mini-wiki="v1"' in body
+                              if not check['ok']:
+                                  check['error'] = 'Article loader marker missing from published HTML'
+                          else:
+                              check['expectedSha256'] = hashlib.sha256(expected[name]).hexdigest()
+                              check['ok'] = body == expected[name]
+                              if not check['ok']:
+                                  check['error'] = 'Published bytes differ from expected source snapshot'
+                      except urllib.error.HTTPError as error:
+                          check.update(httpStatus=error.code, error=str(error), finalURL=error.url)
+                      except Exception as error:
+                          check['error'] = type(error).__name__+': '+str(error)
+                      record['checks'].append(check)
+                      print(json.dumps(check, ensure_ascii=False), flush=True)
+                  try:
+                      latest = api('/builds/latest')
+                      record['pagesBuild'] = {k:latest.get(k) for k in ['status','commit','error','updated_at']}
+                  except Exception as error:
+                      record['pagesBuildError'] = str(error)
+                  report['attempts'].append(record)
+                  report['publishedAssetsVerified'] = len(record['checks']) == 3 and all(c['ok'] for c in record['checks'])
+                  save()
+                  if report['publishedAssetsVerified']:
+                      break
+                  time.sleep(max(0,min(10,deadline-time.monotonic())))
+              if not report['publishedAssetsVerified']:
+                  report['error'] = 'Publication verification deadline exceeded; see per-file checks and Pages build status'
+          except Exception as error:
+              report['error'] = type(error).__name__+': '+str(error)
+          finally:
+              save()
+              with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as summary:
+                  summary.write('Published article assets verified: '+str(report['publishedAssetsVerified'])+'\n\n')
+                  summary.write(report.get('error','All three live files passed. Browser rendering and images were not tested.')+'\n')
+                  if report['attempts']:
+                      summary.write('\n```json\n'+json.dumps(report['attempts'][-1],ensure_ascii=False,indent=2)+'\n```\n')
+      - name: Upload publication diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: painting-article-publication-${{ github.run_id }}
+          path: coordination/painting-articles/pilot-result.json
+          if-no-files-found: warn
+      - name: Save diagnostic report without changing site files
+        if: always()
         shell: bash
         run: |
           set -euo pipefail
-          gh api "repos/$GITHUB_REPOSITORY/pages" > "$RUNNER_TEMP/article-pages.json"
-          test "$(jq -r '.source.branch' "$RUNNER_TEMP/article-pages.json")" = main
-          test "$(jq -r '.source.path' "$RUNNER_TEMP/article-pages.json")" = /
-          test "$(jq -r '.build_type // "legacy"' "$RUNNER_TEMP/article-pages.json")" = legacy
-          requested=false
-          for attempt in 1 2 3 4 5; do
-            if gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" > /dev/null; then requested=true; break; fi
-            sleep "$((attempt * 5))"
-          done
-          test "$requested" = true
-          base=$(jq -r '.html_url' "$RUNNER_TEMP/article-pages.json")
-          case "$base" in https://*) ;; *) exit 1;; esac
-          verified=false
-          for attempt in $(seq 1 30); do
-            if curl -fsSL --connect-timeout 5 --max-time 15 "${base%/}/games/painting/?article-check=$GITHUB_RUN_ID" -o "$RUNNER_TEMP/article-index.html" && grep -q 'data-painting-mini-wiki="v1"' "$RUNNER_TEMP/article-index.html"; then
-              if curl -fsSL --connect-timeout 5 --max-time 15 "${base%/}/games/painting/artist-articles.json?v=$GITHUB_RUN_ID" -o "$RUNNER_TEMP/article-data.json" && cmp -s games/painting/artist-articles.json "$RUNNER_TEMP/article-data.json" && curl -fsSL --connect-timeout 5 --max-time 15 "${base%/}/games/painting/artist-articles.js?v=$GITHUB_RUN_ID" -o "$RUNNER_TEMP/article-client.js" && cmp -s games/painting/artist-articles.js "$RUNNER_TEMP/article-client.js"; then verified=true; break; fi
-            fi
-            sleep 10
-          done
-          mkdir -p coordination/painting-articles
-          printf '{"runId":"%s","articles":["caravaggio","vasily_kandinsky"],"installed":true,"schemaAndSyntaxChecked":true,"publishedAssetsVerified":%s,"browserTested":false,"newImagesAdded":false}\n' "$GITHUB_RUN_ID" "$verified" > coordination/painting-articles/pilot-result.json
+          test -f coordination/painting-articles/pilot-result.json || exit 0
           git add coordination/painting-articles/pilot-result.json
-          if ! git diff --cached --quiet; then
-            git commit -m 'Record pilot article installation verification'
-            saved=false
-            for attempt in 1 2 3; do
-              git pull --rebase origin main
-              if git push origin HEAD:main; then saved=true; break; fi
-              sleep 3
-            done
-            test "$saved" = true
-          fi
-          echo "Pilot article assets verified: $verified. Browser rendering and image delivery were not tested." >> "$GITHUB_STEP_SUMMARY"
-          test "$verified" = true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Record detailed pilot article publication verification'
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || exit 1
+            git push origin HEAD:main && exit 0
+            sleep 3
+          done
+          exit 1
+      - name: Require verified publication
+        if: always()
+        shell: python
+        run: |
+          import json, pathlib, os
+          path = pathlib.Path('coordination/painting-articles/pilot-result.json')
+          report = json.loads(path.read_text()) if path.exists() else {}
+          if report.get('runId') != os.environ['GITHUB_RUN_ID'] or not report.get('publishedAssetsVerified'):
+              raise SystemExit(report.get('error','No successful publication report for this run'))
