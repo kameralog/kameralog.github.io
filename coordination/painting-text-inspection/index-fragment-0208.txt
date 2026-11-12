@@ -1,0 +1,24 @@
+["Пит Мондриан","Тео ван Дусбург","Барт ван дер Лек"],"links":{}},{"id":"mexican_muralism","title":"Мексиканский мурализм","group":"europe","names":["Диего Ривера","Хосе Клементе Ороско","Давид Альфаро Сикейрос"],"links":{"Диего Ривера":"rivera","Хосе Клементе Ороско":"orozco","Давид Альфаро Сикейрос":"siqueiros"}},{"id":"surrealism","title":"Сюрреализм","group":"europe","names":["Сальвадор Дали","Рене Магритт","Макс Эрнст","Жоан Миро"],"links":{"Сальвадор Дали":"dali","Рене Магритт":"magritte","Макс Эрнст":"ernst","Жоан Миро":"miro"}},{"id":"abstract_expressionism","title":"Абстрактный экспрессионизм","group":"europe","names":["Джексон Поллок","Виллем де Кунинг","Марк Ротко"],"links":{}},{"id":"british_figurative_postwar","title":"Послевоенная британская фигуративная живопись","group":"europe","names":["Фрэнсис Бэкон","Люсьен Фрейд"],"links":{"Фрэнсис Бэкон":"bacon","Люсьен Фрейд":"freud"}},{"id":"european_figurative_postwar","title":"Послевоенная европейская фигуративная живопись","group":"europe","names":["Альберто Джакометти"],"links":{"Альберто Джакометти":"giacometti"}},{"id":"neo_dada","title":"Нео-дада","group":"europe","names":["Роберт Раушенберг","Джаспер Джонс"],"links":{"Роберт Раушенберг":"rauschenberg","Джаспер Джонс":"johns"}},{"id":"pop_art","title":"Поп-арт","group":"europe","names":["Энди Уорхол","Рой Лихтенштейн","Ричард Гамильтон"],"links":{}},{"id":"contemporary_photo_abstraction","title":"Современная живопись: фотография и абстракция","group":"europe","names":["Герхард Рихтер"],"links":{"Герхард Рихтер":"richter"}},{"id":"street_art","title":"Стрит-арт","group":"europe","names":["Бэнкси","Кит Харинг","Шепард Фейри"],"links":{}},{"id":"kitsch","title":"Китч-живопись","group":"europe","names":["Одд Нердрум","Ян-Уве Тув","Хелене Кноп"],"links":{}},{"id":"superflat","title":"Superflat","group":"europe","names":["Такаси Мураками"],"links":{"Такаси Мураками":"murakami"}}];
+function chronologicalArtists(){
+  const normalize=s=>String(s).normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+  const artists=Object.entries(ARTISTS),used=new Set();
+  const groups=[];
+  for(const section of CHRONO_SECTIONS){
+    const names=new Set(section.names.map(normalize));
+    const ids=new Set(Object.values(section.links));
+    const selected=artists.filter(([id,a])=>ids.has(id)||[a.name,a.latin,...(a.aliases||[])].some(n=>n&&names.has(normalize(n))));
+    for(const [id]of selected)used.add(id);
+    if(selected.length){if(groups.at(-1)?.[0]!==section.group)groups.push([section.group,[]]);groups.at(-1)[1].push({section,selected});}
+  }
+  const labels={europe:'Эпохи, стили и направления',italian_century:'Италия: столетия, а не единый стиль',china:'Китай',japan:'Япония',japan_school:'Японские традиции',korea:'Корея',india:'Индия',mesoamerica:'Мезоамерика',egypt:'Египет'};
+  let result='<p class="ar-muted">Направления расположены по времени возникновения; их периоды могут перекрываться. Один художник может встречаться в нескольких разделах.</p>';
+  for(const [group,items]of groups)result+='<section><h2>'+html(labels[group]||group)+'</h2>'+items.map(({section,selected})=>'<section><h3>'+html(section.title)+'</h3><div class="ar-grid">'+selected.map(([id,a])=>artcard(id,a)).join('')+'</div></section>').join('')+'</section>';
+  const other=artists.filter(([id])=>!used.has(id));
+  if(other.length)result+='<section><h2>Другие художники</h2><p class="ar-muted">Карточки без привязки к разделам справочника. Сохранён прежний порядок.</p><div class="ar-grid">'+other.map(([id,a])=>artcard(id,a)).join('')+'</div></section>';
+  return result;
+}
+/*chronology-artists:end*/
+function showList(){paintingViewArtistId=null;begin();document.title='Художники — Живопись';viewMode='list';renderList()}
+let listTimer=0;function scheduleList(){if(listTimer)return;listTimer=setTimeout(()=>{listTimer=0;if(viewMode!=='list'||!showing)return;const y=window.scrollY;renderList();window.scrollTo(0,y)},200)}
+/*artist-search:start*/
+fun

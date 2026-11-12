@@ -1,0 +1,9 @@
+der_leck:[['Крёллер-Мюллер: Буря, 1916','https://krollermuller.nl/en/bart-van-der-leck-the-tempest-1']],vasily_kandinsky:[['Чикаго: Картина с зелёным центром, данные без толкования','https://www.artic.edu/artworks/8987/painting-with-green-center']]};
+const catalogue=new Map(CARDS.map(c=>[c.key,c])),batch={};
+for(const [id,name,latin,life,tag,bio,technique,innovation,features,caution,keys,looks] of rows){const works=keys.map((key,i)=>{if(extra.has(key))return {...extra.get(key),look:looks[i]};const c=catalogue.get(key);if(!c)throw Error('Missing painting '+key);return {key:c.key,title:key==='aic:8987'?'Картина с зелёным центром':c.title,originalTitle:c.originalTitle,date:c.date,museum:c.museum,medium:c.medium,source:c.source,image:c.image,zoom:c.zoom||c.image,look:looks[i]};});const sources=[...works.map(w=>[w.museum+': '+w.originalTitle,w.source]),...works.filter(w=>w.imageSource).map(w=>['Репродукция и сведения о правах',w.imageSource]),...(refs[id]||[])];batch[id]={name,latin,life,tag,aliases:[name,latin],bio:[bio],technique:[technique],innovation,features:features.split('|'),caution,sources,works,editorialStatus:works.length?'illustrated':'text_only_permission_pending'};}
+batch.vasily_kandinsky.aliases.push('Wassily Kandinsky');
+window.registerPaintingArtists(batch);
+const byName=new Map(Object.values(batch).map(a=>[a.name,a])),host=document.getElementById('view');
+function fixHeading(){const page=document.getElementById('artist-area'),a=byName.get(page?.querySelector('h1')?.textContent);if(!a)return;for(const h of page.querySelectorAll('h2'))if(h.textContent==='Пять работ: рассмотри и сравни')h.textContent=a.works.length===3?'Три работы: рассмотри и сравни':a.works.length===2?'Две работы: рассмотри и сравни':a.works.length?'Одна работа: рассмотри внимательно':'Репродукция пока не подключена';}
+if(host){new MutationObserver(fixHeading).observe(host,{childList:true,subtree:true});fixHeading();}
+})();

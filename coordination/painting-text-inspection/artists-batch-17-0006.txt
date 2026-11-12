@@ -1,0 +1,10 @@
+itorialStatus:works.length?'illustrated':'text_only_image_rights_pending'};}
+window.registerPaintingArtists(batch);
+const byName=new Map(Object.values(batch).map(a=>[a.name,a])),host=document.getElementById('view');
+function fixHeading(){const page=document.getElementById('artist-area'),a=byName.get(page?.querySelector('h1')?.textContent);if(!a)return;for(const h of page.querySelectorAll('h2'))if(h.textContent==='Пять работ: рассмотри и сравни')h.textContent=a.works.length===2?'Две работы: рассмотри и сравни':a.works.length?'Одна работа: рассмотри внимательно':'Репродукция пока не подключена';}
+if(host){new MutationObserver(fixHeading).observe(host,{childList:true,subtree:true});fixHeading();}
+})();
+
+}finally{window.registerPaintingArtists=previous;}})();
+
+}finally{window.registerPaintingArtists=previous;}})();

@@ -1,0 +1,5 @@
+Status:'960px thumbnail decoded in local Chromium; live site not yet verified',look:w.look+' Репродукция: '+creditLine+'.'});a.pendingWorks=a.pendingWorks.filter(w=>w.key!==key);a.sources.push(['Репродукция и сведения о правах',"https://commons.wikimedia.org/wiki/File:ManfrediMarsCupid.jpg"]);a.editorialStatus=a.pendingWorks.length?'partially_illustrated':'illustrated';if("bartolomeo_manfredi"==='angelica_kauffmann')a.caution=a.caution.replace('Изображение пока не подключено; автопортретом его не заменяем.','Подключена репродукция лондонской модели NG6710.');if("bartolomeo_manfredi"==='bartolomeo_manfredi')a.caution=a.caution.replace('На странице AIC есть CC0, но конкретный файл изображения в батче пока не проверен.','На странице AIC есть CC0; подключённый файл Commons указан отдельно в источниках.');}
+window.registerPaintingArtists(B);
+})();
+
+}finally{window.registerPaintingArtists=previous;}})();

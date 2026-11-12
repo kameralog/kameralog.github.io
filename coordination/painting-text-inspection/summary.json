@@ -1,0 +1,26 @@
+{
+  "sourceCommit": "415b604e57065ce41e0c2e3c4e4be5336fb0d62f",
+  "indexSha256": "b86e4e493b944918bc77a5f9d33a2b1ac6bc36e1616d09a807ec5ef99fa30843",
+  "constants": {
+    "CARDS": 777,
+    "ARTISTS": 3,
+    "DATA": 75
+  },
+  "batches": [
+    "games/painting/artists-batch-17.js",
+    "games/painting/artists-batch-21.js",
+    "games/painting/artists-batch-31.js",
+    "games/painting/artists-batch-56.js",
+    "games/painting/artists-batch-57.js",
+    "games/painting/artists-batch-60.js",
+    "games/painting/artists-batch-77.js",
+    "games/painting/artists-batch-80.js",
+    "games/painting/artists-batch-81.js",
+    "games/painting/artists-batch-82.js",
+    "games/painting/artists-batch-84.js",
+    "games/painting/artists-batch-85.js",
+    "games/painting/artists-batch-88.js",
+    "games/painting/artists-batch-91.js"
+  ],
+  "fragmentCount": 215
+}

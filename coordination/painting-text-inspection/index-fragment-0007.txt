@@ -1,0 +1,35 @@
+aset.topic;persist();home()});$('startLearn').onclick=()=>start('learn');$('startExam').onclick=()=>start('exam');$('review').onclick=()=>start('review');if($('resume'))$('resume').onclick=showPlay;if($('last'))$('last').onclick=()=>result(state.last,false);persist()}
+/*round-confirm:start*/
+let paintingRoundDialog=null,paintingRoundPending=null;
+function paintingRequestNewRound(mode,run){
+ if(paintingRoundPending)return;
+ if(!paintingRoundDialog){
+  const host=document.createElement('section');host.id='painting-round-confirm';
+  const shadow=host.attachShadow({mode:'open'});
+  shadow.innerHTML=`<style>
+:host{font:16px/1.65 system-ui;color:#f2efde}*{box-sizing:border-box}dialog{position:fixed;width:min(432px,calc(100vw - 32px));max-height:80vh;overflow:auto;padding:20px;border:1px solid #667451;border-radius:12px;background:#10130e;color:#f2efde;color-scheme:dark;font:inherit}dialog::backdrop{background:#0007}h2{margin:0 40px 14px 0;font-size:24px;line-height:1.3}p{margin:0 0 18px;color:#abb29e}button{font:inherit;cursor:pointer;padding:11px 16px;border:1px solid #58664b;border-radius:9px;background:transparent;color:#f2efde}button:hover{border-color:#d2df98;background:#252d1f}button:focus-visible{outline:3px solid #d2df98;outline-offset:3px}#close{float:right;padding:3px 11px;font-size:22px;line-height:1.3}.row{display:flex;gap:8px;flex-wrap:wrap}#replace{background:#d2df98;color:#15200d;border-color:#d2df98}#replace:hover{background:#e0eab6}@media(max-width:420px){.row button{width:100%}}
+</style><dialog aria-labelledby="title" aria-describedby="description"><button id="close" type="button" aria-label="Закрыть">×</button><h2 id="title">Новый раунд</h2><p id="description">Начать новый раунд вместо текущего? Ответы уже учтены в прогрессе.</p><div class="row"><button id="keep" type="button" autofocus>Продолжить текущий</button><button id="replace" type="button">Начать новый</button></div></dialog>`;
+  const dialog=shadow.querySelector('dialog');
+  shadow.getElementById('close').onclick=()=>dialog.close('cancel');
+  shadow.getElementById('keep').onclick=()=>dialog.close('cancel');
+  shadow.getElementById('replace').onclick=()=>dialog.close('replace');
+  dialog.addEventListener('cancel',event=>{event.preventDefault();dialog.close('cancel');});
+  const outside=event=>{const r=dialog.getBoundingClientRect();return event.target===dialog&&(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom);};
+  let backdropDown=false;
+  dialog.addEventListener('pointerdown',event=>{backdropDown=outside(event);});
+  dialog.addEventListener('click',event=>{if(backdropDown&&outside(event))dialog.close('cancel');backdropDown=false;});
+  dialog.addEventListener('close',()=>{
+   const pending=paintingRoundPending;paintingRoundPending=null;
+   if(!pending)return;
+   if(dialog.returnValue==='replace'&&state.run===pending.run)start(pending.mode,pending.run);
+   else if(pending.opener?.isConnected)pending.opener.focus();
+  });
+  document.body.append(host);paintingRoundDialog={dialog,keep:shadow.getElementById('keep')};
+ }
+ paintingRoundPending={mode,run,opener:document.activeElement};
+ const {dialog,keep}=paintingRoundDialog;dialog.returnValue='';
+ try{dialog.showModal();keep.focus();}catch(error){paintingRoundPending=null;throw error;}
+}
+/*round-confirm:end*/
+function start(mode,confirmedRun){if(state.run&&state.run!==confirmedRun){paintingRequestNewRound(mode,state.run);return;}const p=mode==='review'?state.mistakes.map(k=>BY.get(k)).filter(Boolean):pool(state.topic);const deck=selectRound(p,10);if(!deck.length)return;const inDeck=new Set(deck.map(c=>c.key));state.run={...window.PaintingStats?.newRun(),mode,topic:state.topic,queue:deck.map(c=>c.key),reserve:shuffle(p.filter(c=>!inDeck.has(c.key))).map(c=>c.key),i:0,current:null,answers:[],skipped:[]};persist();showPlay()}
+function current(){const r=state.run;if(!r)return null;const c=BY.get(r.queue[r.i]);if(!r.current||r.current.key!==c.key)r.current={key:c.key,opts:opt

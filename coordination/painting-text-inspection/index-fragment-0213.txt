@@ -1,0 +1,49 @@
+=false,stopped=false,timer=0,correction=null,restoreTimer=0,originalScrollMode=null;
+function read(){try{
+ const s=JSON.parse(sessionStorage.getItem(PREFIX+location.href)||'null');
+ if(!s||s.version!==1||s.href!==location.href||!routes.has(s.route?.name))return null;
+ if(s.route.name==='artist'&&(typeof s.route.artist!=='string'||s.route.artist.length>200))return null;
+ if(!s.scroll||![s.scroll.x,s.scroll.y].every(n=>Number.isFinite(n)&&n>=0))return null;
+ if(!s.controls||typeof s.controls!=='object'||Array.isArray(s.controls))return null;
+ if(!fields.every(id=>s.controls[id]===undefined||typeof s.controls[id]==='string'&&s.controls[id].length<=500))return null;
+ if(!Array.isArray(s.details)||s.details.length>2000||!s.details.every(d=>typeof d.key==='string'&&d.key.length<=1200&&typeof d.open==='boolean'))return null;
+ if(s.anchor&&!(typeof s.anchor.key==='string'&&s.anchor.key.length<=1400&&Number.isFinite(s.anchor.offset)&&Math.abs(s.anchor.offset)<10000000))return null;
+ return s;
+}catch{return null;}}
+function details(){
+ const list=[...(root()?.querySelectorAll('details')||[])],seen=new Map();
+ return list.map(el=>{const parts=[];for(let p=el;p&&p!==root();p=p.parentElement)if(p.tagName==='DETAILS')parts.unshift(text(p.querySelector(':scope > summary')));const base=parts.join(' / '),i=seen.get(base)||0;seen.set(base,i+1);return {el,key:base+' #'+i};});
+}
+function nodes(){
+ const detailKeys=new Map(details().map(d=>[d.el,d.key]));
+ return [...(root()?.querySelectorAll('[data-ar-img],[data-art-key],a[data-artist],details,h2,h3')||[])].filter(el=>el.getClientRects().length).map(el=>({el,key:el.dataset.arImg?'work:'+el.dataset.arImg:el.dataset.artKey?'card:'+el.dataset.artKey:el.dataset.artist?'artist:'+el.dataset.artist:el.tagName==='DETAILS'?'detail:'+detailKeys.get(el):el.tagName+':'+text(el)}));
+}
+function route(){
+ const area=document.getElementById('artist-area');
+ if(area)return area.classList.contains('artist-page')?{name:'artist',artist:window.paintingViewArtists?.artist()||new URL(location.href).searchParams.get('artist')||''}:{name:'artists'};
+ return {name:typeof screen==='string'&&routes.has(screen)?screen:'home'};
+}
+function snapshot(){
+ const controls={};for(const id of fields){const el=document.getElementById(id);if(el)controls[id]=String(el.value).slice(0,500);}
+ const visible=nodes().map(n=>({...n,r:n.el.getBoundingClientRect()})).filter(n=>n.r.bottom>0&&n.r.top<innerHeight).sort((a,b)=>Math.abs(a.r.top)-Math.abs(b.r.top));
+ const a=visible[0];
+ return {version:1,href:location.href,route:route(),controls,details:details().slice(0,2000).map(d=>({key:d.key,open:d.el.open})),scroll:{x:Math.max(0,scrollX),y:Math.max(0,scrollY)},anchor:a?{key:a.key,offset:a.r.top}:null,page:typeof catalogPage==='number'?catalogPage:0};
+}
+function save(){if(busy||!root())return;try{sessionStorage.setItem(PREFIX+location.href,JSON.stringify(snapshot()));}catch{}}
+function schedule(){if(busy)return;clearTimeout(timer);timer=setTimeout(save,180);}
+function finish(){
+ if(stopped)return;stopped=true;clearTimeout(restoreTimer);correction?.disconnect();document.removeEventListener('load',correct,true);busy=false;
+ if(originalScrollMode!==null)history.scrollRestoration=originalScrollMode;
+ save();
+}
+let saved=null;
+function correct(){
+ if(stopped||!saved)return;
+ const found=saved.anchor&&nodes().find(n=>n.key===saved.anchor.key);
+ const y=found?scrollY+found.el.getBoundingClientRect().top-saved.anchor.offset:saved.scroll.y;
+ window.scrollTo({left:saved.scroll.x,top:Math.max(0,y),behavior:'instant'});
+}
+function restoreControls(){
+ for(const id of fields){const el=document.getElementById(id);if(el&&Object.hasOwn(saved.controls,id)){el.value=saved.controls[id];el.dispatchEvent(new Event(id==='catalogFilter'?'change':'input',{bubbles:true}));}}
+ if(saved.route.name==='collection'&&typeof renderCatalog==='function'&&Number.isInteger(saved.page)&&saved.page>=0){catalogPage=saved.page;renderCatalog();}
+ const stored=new Map(saved.details.map(d

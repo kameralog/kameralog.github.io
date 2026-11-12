@@ -1,0 +1,52 @@
+=>[d.key,d.open]));for(const d of details())if(stored.has(d.key))d.el.open=stored.get(d.key);
+}
+function fallback(){home();saved={...saved,controls:{},details:[],scroll:{x:0,y:0},anchor:null};}
+function openRoute(){
+ if(!['artist','artists'].includes(saved.route.name))window.paintingViewArtists?.leave();
+ switch(saved.route.name){
+ case 'home':home();break;
+ case 'play':if(state.run)showPlay();else fallback();break;
+ case 'result':if(state.last?.length)result(state.last,false);else fallback();break;
+ case 'collection':catalog();break;
+ case 'guide':guide();break;
+ case 'artists':window.paintingViewArtists.show(null);break;
+ case 'artist':if(!window.paintingViewArtists.show(saved.route.artist))fallback();break;
+ case 'gallery':break;
+ }
+}
+function boot(){
+ if(!root())return;
+ const reload=performance.getEntriesByType('navigation')[0]?.type==='reload';saved=reload?read():null;
+ busy=!!saved;
+ for(const event of ['input','change','click','toggle'])document.addEventListener(event,schedule,true);
+ window.addEventListener('scroll',schedule,{passive:true});
+ window.addEventListener('pagehide',()=>{if(!busy)save();});
+ document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='hidden'&&!busy)save();});
+ new MutationObserver(schedule).observe(root(),{childList:true,subtree:true});
+ if(!saved){save();return;}
+ const interrupt=event=>{if(event.isTrusted!==false)finish();};
+ for(const name of ['wheel','touchstart','pointerdown','keydown'])window.addEventListener(name,interrupt,{capture:true,passive:true});
+ const waitStarted=Date.now();
+ function attempt(){
+  if(stopped)return;
+  const needsArtists=['artist','artists'].includes(saved.route.name)||new URL(location.href).searchParams.has('artist');
+  if(needsArtists&&!window.paintingViewArtists?.ready()){
+   if(Date.now()-waitStarted<60000){setTimeout(attempt,100);return;}
+   stopped=true;busy=false;return;
+  }
+  try{
+   if('scrollRestoration' in history){originalScrollMode=history.scrollRestoration;history.scrollRestoration='manual';}
+   openRoute();restoreControls();correct();
+   correction=new ResizeObserver(correct);correction.observe(root());
+   document.addEventListener('load',correct,true);
+   document.fonts?.ready.then(()=>{if(!stopped)correct();});
+   requestAnimationFrame(()=>{if(!stopped)correct();});
+   restoreTimer=setTimeout(finish,10000);
+  }catch(error){console.warn('Painting view restoration:',error.name);finish();}
+ }
+ attempt();
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',boot,{once:true});else boot();
+})();
+/*view-state:end*/
+</script></body></html>

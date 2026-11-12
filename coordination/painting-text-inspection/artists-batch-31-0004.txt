@@ -1,0 +1,13 @@
+осуд соединяет их сердца, а у европейской Фриды зажим перерезает его, и кровь капает на белое платье.','В 1947 году картину приобрёл Национальный институт изящных искусств, а в 1966-м передал музею.'],
+'Трактовки различаются: двойное происхождение (немецкий отец, мексиканская мать); любимая и отвергнутая Диего Фрида; по воспоминаниям самой Кало — образ воображаемой подруги детства. Картину показали на Международной выставке сюрреализма в Мехико в январе 1940 года.',
+['Две Фриды рядом','Европейское и мексиканское платье','Общий кровеносный сосуд','Портрет Диего в руке','Открытые сердца'],
+rights+' Кало умерла в 1954 году; срок защиты зависит от страны.',
+[['Википедия: Две Фриды','https://en.wikipedia.org/wiki/The_Two_Fridas']]);
+if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');
+window.registerPaintingArtists(B);
+const al={kokoschka:['Кокошка','Kokoschka'],dali:['Дали','Dali','Dalí'],magritte:['Магритт','Magritte'],ernst:['Эрнст','Ernst'],miro:['Миро','Miro'],hopper:['Хоппер','Hopper'],okeeffe:['О’Кифф','Окифф',"O'Keeffe",'OKeeffe'],wyeth:['Уайет','Wyeth'],pollock:['Поллок','Pollock'],rothko:['Ротко','Rothko'],warhol:['Уорхол','Уорхолл','Warhol'],lichtenstein:['Лихтенштейн','Lichtenstein'],bacon:['Бэкон','Бекон','Bacon'],hockney:['Хокни','Hockney'],nerdrum:['Нердрум','Nerdrum'],kahlo:['Кало','Kahlo']};
+for(const k in al)B[k].aliases.push(...al[k]);
+const byName=new Map(Object.values(B).map(a=>[a.name,a])),host=document.getElementById('view');
+function fixHeading(){const page=document.getElementById('artist-area'),a=byName.get(page?.querySelector('h1')?.textContent);if(!a)return;for(const h of page.querySelectorAll('h2')){if(h.textContent==='Пять работ: рассмотри и сравни')h.textContent='Репродукция пока не подключена';}}
+if(host){new MutationObserver(fixHeading).observe(host,{childList:true,subtree:true});fixHeading();}
+})();

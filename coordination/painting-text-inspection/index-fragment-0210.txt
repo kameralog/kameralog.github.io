@@ -1,0 +1,47 @@
+
+    list.hidden=active;
+    results.hidden=!active||matches.length===0;
+    results.replaceChildren(...matches.map(item=>highlightArtistCard(item.card.cloneNode(true),terms)));
+    tools.querySelector('#artist-search-count').textContent=active?'Найдено художников: '+matches.length+' из '+index.size:'Всего художников: '+index.size;
+    tools.querySelector('#artist-search-empty').hidden=!active||matches.length>0;
+  }
+  input.addEventListener('input',filter);
+  input.addEventListener('search',filter);
+  filter();
+}
+const showListBeforeSearch=showList;
+showList=function(...args){showListBeforeSearch(...args);mountArtistSearch()};
+/*artist-search:end*/
+/*registry-visibility:start*/
+function appendRegistryArtists(){
+  const root=document.getElementById('artist-area');
+  if(!root||root.classList.contains('artist-page')||root.querySelector('#registry-extra-artists'))return;
+  const intro=[...root.querySelectorAll('p.ar-muted')].find(p=>p.textContent.trim()==='Это ориентиры для сопоставления, а не исчерпывающие определения каждого автора.');
+  if(!intro)return;
+  const seen=new Set([...root.querySelectorAll('a[data-artist]')].map(a=>a.dataset.artist));
+  const entries=Object.entries(ARTISTS).filter(([id,a])=>a&&a.name&&!seen.has(id)).sort((a,b)=>a[1].name.localeCompare(b[1].name,'ru'));
+  if(!entries.length)return;
+  const section=document.createElement('section');section.id='registry-extra-artists';
+  const heading=document.createElement('h2');heading.textContent='Другие художники каталога';section.append(heading);
+  const grid=document.createElement('div');grid.className='ar-grid';section.append(grid);
+  for(const [id,a]of entries){
+    const card=document.createElement('article');card.className='ar-card';
+    const title=document.createElement('h3'),link=document.createElement('a');
+    const url=new URL(location.href);url.search='';url.hash='';url.searchParams.set('artist',id);
+    link.href=url.href;link.dataset.artist=id;link.textContent=a.name;title.append(link);card.append(title);
+    const meta=document.createElement('p');meta.className='ar-muted';meta.textContent=[a.latin,a.life,a.tag].filter(Boolean).join(' · ');card.append(meta);
+    if(a.bio?.[0]){const p=document.createElement('p');p.textContent=a.bio[0];card.append(p);}
+    grid.append(card);
+  }
+  root.append(section);
+}
+const mountArtistSearchBeforeRegistry=mountArtistSearch;
+mountArtistSearch=function(...args){appendRegistryArtists();return mountArtistSearchBeforeRegistry(...args)};
+/*registry-visibility:end*/
+/*view-state-bridge:start*/
+let paintingViewArtistId=null;
+window.paintingViewArtists={ready:()=>ready,artist:()=>paintingViewArtistId,leave:()=>{saved=null;showing=false;paintingViewArtistId=null;},show:id=>{if(id&&ARTISTS[id])showArtist(id);else if(!id)showList();else return false;return true;}};
+/*view-state-bridge:end*/
+function imageURLs(w,big=false){const start=big?w.zoom||w.image:w.image;const a=[start];if(/\/iiif\/2\//.test(start))for(const n of(big?[1686,1200,843,600]:[843,600,400]))a.push(start.replace(/\/full\/[^/]+\//,`/full/${n},/`));if(w.image)a.push(w.image);return [...new Set(a)].filter(u=>/^https:\/\//.test(u))}
+function loadImage(img,w,status,button,big=false){const urls=imageURLs(w,big);let i=0;img.onload=()=>{if(status)status.textContent='';if(button)button.disabled=false};img.onerror=()=>{if(++i<urls.length){img.src=urls[i]}else{if(status)status.textContent='Репродукция недоступна. Можно открыть музейный источник.';if(button)button.disabled=true}};img.src=urls[0]}
+function showArtist(id){paintingViewArtistId=id;const a=ARTISTS[id];if(!a){showList();return}begin();viewMode='artist';document.title=a.name+' — Живопись';el('view').innerHTML=`<section id="artist-area" class="artist-page" data-save-artist="${html(id)}"><div class="ar-top"><button data-artist-back>← ${inGame?'Вернуться в игру':'Все три художника'}</button></div><p class="ar-meta">${html(a.tag)}</p><h1>${html(a.name)}</h1><p class="ar-meta">${html(a.latin)} · ${html(a.life)}</p><di
