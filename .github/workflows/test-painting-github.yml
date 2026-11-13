@@ -1,0 +1,25 @@
+name: Test editorial GitHub submission
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/test-painting-github.yml'
+      - 'editorial/painting/github-send.js'
+      - 'editorial/painting/github-send-help.html'
+      - 'editorial/painting/research-loader.js'
+      - 'tools/test-painting-github.cjs'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node --check editorial/painting/github-send.js
+      - run: node --check editorial/painting/research-loader.js
+      - run: node tools/test-painting-github.cjs

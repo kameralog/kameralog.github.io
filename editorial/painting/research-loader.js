@@ -15,5 +15,6 @@ async function loadResearch(){
  }catch(error){say('Каталог доступен, но загрузка досье не завершена: '+error.message)}finally{loading=false}
 }
 const originalSync=sync;sync=async function(...args){await originalSync(...args);await loadResearch()};$('#sync').onclick=sync;
+const sender=document.createElement('script');sender.src='github-send.js';sender.onerror=()=>say('Не загрузился модуль отправки GitHub. Правки сохранены; обновите страницу после публикации.');document.head.append(sender);
 let tries=0;function wait(){if(catalogue.length){loadResearch();return}if(++tries<200)setTimeout(wait,100)}wait();
 })();
