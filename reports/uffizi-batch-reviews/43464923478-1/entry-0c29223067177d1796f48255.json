@@ -1,0 +1,38 @@
+{
+  "batch": 1,
+  "artistId": "sebastiano_del_piombo",
+  "artist": "Себастьяно дель Пьомбо",
+  "work": "Q3863235",
+  "title": "Death of Adonis",
+  "titles": {
+    "ru": "",
+    "en": "Death of Adonis",
+    "it": "Morte di Adone"
+  },
+  "status": "incomplete",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [
+    "Response too large"
+  ],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": false
+  },
+  "objectLinks": [],
+  "image": null,
+  "inventory": [
+    "00288071"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

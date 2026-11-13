@@ -1,0 +1,53 @@
+{
+  "batch": 1,
+  "artistId": "alessandro_allori",
+  "artist": "Алессандро Аллори",
+  "work": "Q111304344",
+  "title": "Portrait of Ortensia de Bardi di Montauto, formerly identified as Giulia de' Medici",
+  "titles": {
+    "ru": "",
+    "en": "Portrait of Ortensia de Bardi di Montauto, formerly identified as Giulia de' Medici",
+    "it": "ritratto di Ortensia de Bardi di Montauto, precedentemente identificata come Giulia de' Medici"
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Portrait of Ortensia de' Bardi di Montauto by Alessandro Allori - Gallerie degli Uffizi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg",
+    "width": 1080,
+    "height": 1350,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Alessandro Allori",
+      "credit": "Facebook",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [
+    "793"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

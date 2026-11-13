@@ -1,0 +1,52 @@
+{
+  "batch": 1,
+  "artistId": "salvator_rosa",
+  "artist": "Сальватор Роза",
+  "work": "Q115727218",
+  "title": "Marina del Porto",
+  "titles": {
+    "ru": "",
+    "en": "",
+    "it": "Marina del Porto"
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Inventory missing or changed",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": false,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Salvator rosa, marina del porto, 1641, palatina.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Salvator_rosa%2C_marina_del_porto%2C_1641%2C_palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Salvator_rosa,_marina_del_porto,_1641,_palatina.jpg",
+    "width": 2239,
+    "height": 1287,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "see filename or category",
+      "credit": "scan",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

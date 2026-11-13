@@ -1,0 +1,53 @@
+{
+  "batch": 1,
+  "artistId": "eglon_hendrik_van_der_neer",
+  "artist": "Эглон Хендрик ван дер Нер",
+  "work": "Q52155602",
+  "title": "Автопортрет",
+  "titles": {
+    "ru": "Автопортрет",
+    "en": "Self-portrait",
+    "it": "Autoritratto"
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains",
+    "Image short side below 600 pixels"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Neer, Eglon van der - Self-portrait - 1696.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Neer%2C_Eglon_van_der_-_Self-portrait_-_1696.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Neer,_Eglon_van_der_-_Self-portrait_-_1696.jpg",
+    "width": 295,
+    "height": 384,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Eglon van der Neer",
+      "credit": "http://storage.canalblog.com/11/02/119589/34355007.jpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [
+    "1872"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,53 @@
+{
+  "batch": 1,
+  "artistId": "alessandro_allori",
+  "artist": "Алессандро Аллори",
+  "work": "Q124736928",
+  "title": "Portrait of Bianca Cappello",
+  "titles": {
+    "ru": "",
+    "en": "Portrait of Bianca Cappello",
+    "it": "Ritratto di Bianca Cappello"
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Alessandro Allori - Portrait of Bianca Cappello.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg",
+    "width": 812,
+    "height": 1145,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Alessandro Allori",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/allori/alessand/portra1\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [
+    "1514"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

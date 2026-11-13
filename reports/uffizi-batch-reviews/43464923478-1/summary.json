@@ -1,0 +1,31 @@
+{
+  "batch": 1,
+  "from": 1,
+  "to": 50,
+  "expected": 50,
+  "processed": 50,
+  "counts": {
+    "automatic_checks_passed_pending_visual": 0,
+    "needs_review": 49,
+    "incomplete": 1
+  },
+  "complete": true,
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "catalogueSnapshot": "4771e28ae9909fa93f8fe3527799c7ca2aa0cf22",
+  "parts": [
+    {
+      "file": "results-001.json",
+      "count": 17
+    },
+    {
+      "file": "results-002.json",
+      "count": 17
+    },
+    {
+      "file": "results-003.json",
+      "count": 16
+    }
+  ],
+  "note": "Automatic metadata and full file decoding checks only. No visual identity, crop detection or exhaustive duplicate proof. No installation."
+}

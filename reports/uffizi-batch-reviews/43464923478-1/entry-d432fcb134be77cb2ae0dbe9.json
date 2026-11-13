@@ -1,0 +1,52 @@
+{
+  "batch": 1,
+  "artistId": "alessandro_allori",
+  "artist": "Алессандро Аллори",
+  "work": "Q124518582",
+  "title": "Allegory of Human Life",
+  "titles": {
+    "ru": "",
+    "en": "Allegory of Human Life",
+    "it": ""
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Inventory missing or changed",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": false,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Alessandro allori, allegoria della vita umana.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alessandro_allori%2C_allegoria_della_vita_umana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_allegoria_della_vita_umana.jpg",
+    "width": 650,
+    "height": 922,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Alessandro Allori",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/a/allori/alessand/allegory\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

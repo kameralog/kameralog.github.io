@@ -1,0 +1,52 @@
+{
+  "batch": 1,
+  "artistId": "pietro_perugino",
+  "artist": "Пьетро Перуджино",
+  "work": "Q3213753",
+  "title": "Madonna with child, Saint John the Baptist, and an angel",
+  "titles": {
+    "ru": "",
+    "en": "Madonna with child, Saint John the Baptist, and an angel",
+    "it": "Madonna del Sacco"
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Inventory missing or changed",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": false,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Pietro Perugino cat55.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pietro_Perugino_cat55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat55.jpg",
+    "width": 2340,
+    "height": 2405,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Pietro Perugino",
+      "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

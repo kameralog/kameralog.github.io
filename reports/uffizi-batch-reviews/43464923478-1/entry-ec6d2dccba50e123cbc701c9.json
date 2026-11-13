@@ -1,0 +1,53 @@
+{
+  "batch": 1,
+  "artistId": "pietro_perugino",
+  "artist": "Пьетро Перуджино",
+  "work": "Q3213789",
+  "title": "Madonna and Child Enthroned with Saints John the Baptist and Sebastian",
+  "titles": {
+    "ru": "",
+    "en": "Madonna and Child Enthroned with Saints John the Baptist and Sebastian",
+    "it": "Madonna col Bambino in trono tra i santi Giovanni Battista e Sebastiano"
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Pietro Perugino cat30.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pietro_Perugino_cat30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat30.jpg",
+    "width": 2346,
+    "height": 2550,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Pietro Perugino",
+      "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [
+    "00195550"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

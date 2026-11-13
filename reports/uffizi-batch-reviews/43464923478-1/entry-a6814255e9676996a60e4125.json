@@ -1,0 +1,52 @@
+{
+  "batch": 1,
+  "artistId": "salvator_rosa",
+  "artist": "Сальватор Роза",
+  "work": "Q133459806",
+  "title": "Allegory of lie",
+  "titles": {
+    "ru": "",
+    "en": "Allegory of lie",
+    "it": "Allegoria della Menzogna"
+  },
+  "status": "needs_review",
+  "issues": [
+    "Exact painting type not established; drawing, copy, panel or subtype requires review",
+    "Inventory missing or changed",
+    "Russian title requires editorial preparation",
+    "No exact Uffizi object link in checked metadata; independent museum identity review remains"
+  ],
+  "errors": [],
+  "checks": {
+    "painting": false,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": false,
+    "officialObjectLinkRecorded": false,
+    "openRights": true,
+    "imageDecoded": true
+  },
+  "objectLinks": [],
+  "image": {
+    "file": "Salvator rosa, menzogna, 1645-48 ca., palatina.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Salvator_rosa%2C_menzogna%2C_1645-48_ca.%2C_palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Salvator_rosa,_menzogna,_1645-48_ca.,_palatina.jpg",
+    "width": 2017,
+    "height": 2805,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Salvator Rosa",
+      "credit": "Self-scanned",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "inventory": [],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}
