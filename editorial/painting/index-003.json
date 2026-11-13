@@ -1,5 +1,25 @@
 [
   {
+    "id": "jean_auguste_dominique_ingres",
+    "name": "Жан Огюст Доминик Энгр",
+    "path": "records/jean_auguste_dominique_ingres.json"
+  },
+  {
+    "id": "jean_honore_fragonard",
+    "name": "Жан Оноре Фрагонар",
+    "path": "records/jean_honore_fragonard.json"
+  },
+  {
+    "id": "jean_francois_millet",
+    "name": "Жан Франсуа Милле",
+    "path": "records/jean_francois_millet.json"
+  },
+  {
+    "id": "jean_hey",
+    "name": "Жан Эй",
+    "path": "records/jean_hey.json"
+  },
+  {
     "id": "jean_baptiste_belin_de_fontenay",
     "name": "Жан-Батист Белен де Фонтене Старший",
     "path": "records/jean_baptiste_belin_de_fontenay.json"
@@ -173,6 +193,11 @@
     "id": "job_berckheyde",
     "name": "Йоб Беркхейде",
     "path": "records/job_berckheyde.json"
+  },
+  {
+    "id": "josef_manes",
+    "name": "Йозеф Манес",
+    "path": "records/josef_manes.json"
   },
   {
     "id": "joos_van_cleve",
@@ -473,30 +498,5 @@
     "id": "cornelis_de_man",
     "name": "Корнелис де Ман",
     "path": "records/cornelis_de_man.json"
-  },
-  {
-    "id": "cornelis_de_heem",
-    "name": "Корнелис де Хем",
-    "path": "records/cornelis_de_heem.json"
-  },
-  {
-    "id": "cornelis_ketel",
-    "name": "Корнелис Кетел",
-    "path": "records/cornelis_ketel.json"
-  },
-  {
-    "id": "cornelis_engebrechtsz",
-    "name": "Корнелис Энгелбрехтс",
-    "path": "records/cornelis_engebrechtsz.json"
-  },
-  {
-    "id": "corrado_giaquinto",
-    "name": "Коррадо Джаквинто",
-    "path": "records/corrado_giaquinto.json"
-  },
-  {
-    "id": "christen_kobke",
-    "name": "Кристен Кёбке",
-    "path": "records/christen_kobke.json"
   }
 ]

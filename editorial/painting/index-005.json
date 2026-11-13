@@ -1,5 +1,35 @@
 [
   {
+    "id": "massimo_stanzione",
+    "name": "Массимо Станционе",
+    "path": "records/massimo_stanzione.json"
+  },
+  {
+    "id": "kota_master_a",
+    "name": "Мастер Кота A",
+    "path": "records/kota_master_a.json"
+  },
+  {
+    "id": "master_of_the_holy_blood",
+    "name": "Мастер Святой Крови",
+    "path": "records/master_of_the_holy_blood.json"
+  },
+  {
+    "id": "matteo_di_giovanni",
+    "name": "Маттео ди Джованни",
+    "path": "records/matteo_di_giovanni.json"
+  },
+  {
+    "id": "matteo_rosselli",
+    "name": "Маттео Росселли",
+    "path": "records/matteo_rosselli.json"
+  },
+  {
+    "id": "mattia_preti",
+    "name": "Маттиа Прети",
+    "path": "records/mattia_preti.json"
+  },
+  {
     "id": "matthias_stom",
     "name": "Маттиас Стом",
     "path": "records/matthias_stom.json"
@@ -38,6 +68,11 @@
     "id": "michele_tosini",
     "name": "Микеле Тозини",
     "path": "records/michele_tosini.json"
+  },
+  {
+    "id": "mikolas_ales",
+    "name": "Миколаш Алеш",
+    "path": "records/mikolas_ales.json"
   },
   {
     "id": "mina_arndt",
@@ -463,40 +498,5 @@
     "id": "pompeo_batoni",
     "name": "Помпео Батони",
     "path": "records/pompeo_batoni.json"
-  },
-  {
-    "id": "funerary_portrait_of_aline",
-    "name": "Портрет Алины (Aline) из Хавары",
-    "path": "records/funerary_portrait_of_aline.json"
-  },
-  {
-    "id": "hermione_grammatike",
-    "name": "Портрет Гермионы Грамматики",
-    "path": "records/hermione_grammatike.json"
-  },
-  {
-    "id": "portrait_of_eutyches",
-    "name": "Портрет мальчика Евтиха",
-    "path": "records/portrait_of_eutyches.json"
-  },
-  {
-    "id": "prince_eugen",
-    "name": "Принц Евгений",
-    "path": "records/prince_eugen.json"
-  },
-  {
-    "id": "purkhu",
-    "name": "Пуркху",
-    "path": "records/purkhu.json"
-  },
-  {
-    "id": "pierre_henri_de_valenciennes",
-    "name": "Пьер Анри де Валансьен",
-    "path": "records/pierre_henri_de_valenciennes.json"
-  },
-  {
-    "id": "renoir",
-    "name": "Пьер Огюст Ренуар",
-    "path": "records/renoir.json"
   }
 ]

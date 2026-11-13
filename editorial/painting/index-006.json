@@ -1,5 +1,40 @@
 [
   {
+    "id": "funerary_portrait_of_aline",
+    "name": "Портрет Алины (Aline) из Хавары",
+    "path": "records/funerary_portrait_of_aline.json"
+  },
+  {
+    "id": "hermione_grammatike",
+    "name": "Портрет Гермионы Грамматики",
+    "path": "records/hermione_grammatike.json"
+  },
+  {
+    "id": "portrait_of_eutyches",
+    "name": "Портрет мальчика Евтиха",
+    "path": "records/portrait_of_eutyches.json"
+  },
+  {
+    "id": "prince_eugen",
+    "name": "Принц Евгений",
+    "path": "records/prince_eugen.json"
+  },
+  {
+    "id": "purkhu",
+    "name": "Пуркху",
+    "path": "records/purkhu.json"
+  },
+  {
+    "id": "pierre_henri_de_valenciennes",
+    "name": "Пьер Анри де Валансьен",
+    "path": "records/pierre_henri_de_valenciennes.json"
+  },
+  {
+    "id": "renoir",
+    "name": "Пьер Огюст Ренуар",
+    "path": "records/renoir.json"
+  },
+  {
     "id": "piero_della_francesca",
     "name": "Пьеро делла Франческа",
     "path": "records/piero_della_francesca.json"
@@ -463,40 +498,5 @@
     "id": "ferdinand_von_wright",
     "name": "Фердинанд фон Вригт",
     "path": "records/ferdinand_von_wright.json"
-  },
-  {
-    "id": "fidelia_bridges",
-    "name": "Фиделия Бриджес",
-    "path": "records/fidelia_bridges.json"
-  },
-  {
-    "id": "philippe_de_champaigne",
-    "name": "Филипп де Шампень",
-    "path": "records/philippe_de_champaigne.json"
-  },
-  {
-    "id": "filippino_lippi",
-    "name": "Филиппино Липпи",
-    "path": "records/filippino_lippi.json"
-  },
-  {
-    "id": "philips_wouwerman",
-    "name": "Филипс Вауверман",
-    "path": "records/philips_wouwerman.json"
-  },
-  {
-    "id": "philips_koninck",
-    "name": "Филипс Конинк",
-    "path": "records/philips_koninck.json"
-  },
-  {
-    "id": "florence_carlyle",
-    "name": "Флоренс Карлайл",
-    "path": "records/florence_carlyle.json"
-  },
-  {
-    "id": "florence_helena_mcgillivray",
-    "name": "Флоренс Хелена Макгилливрей",
-    "path": "records/florence_helena_mcgillivray.json"
   }
 ]

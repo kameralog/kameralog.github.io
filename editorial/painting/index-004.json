@@ -1,5 +1,30 @@
 [
   {
+    "id": "cornelis_de_heem",
+    "name": "Корнелис де Хем",
+    "path": "records/cornelis_de_heem.json"
+  },
+  {
+    "id": "cornelis_ketel",
+    "name": "Корнелис Кетел",
+    "path": "records/cornelis_ketel.json"
+  },
+  {
+    "id": "cornelis_engebrechtsz",
+    "name": "Корнелис Энгелбрехтс",
+    "path": "records/cornelis_engebrechtsz.json"
+  },
+  {
+    "id": "corrado_giaquinto",
+    "name": "Коррадо Джаквинто",
+    "path": "records/corrado_giaquinto.json"
+  },
+  {
+    "id": "christen_kobke",
+    "name": "Кристен Кёбке",
+    "path": "records/christen_kobke.json"
+  },
+  {
     "id": "christian_krohg",
     "name": "Кристиан Крог",
     "path": "records/christian_krohg.json"
@@ -265,6 +290,11 @@
     "path": "records/masaccio.json"
   },
   {
+    "id": "max_svabinsky",
+    "name": "Макс Швабинский",
+    "path": "records/max_svabinsky.json"
+  },
+  {
     "id": "ernst",
     "name": "Макс Эрнст",
     "path": "records/ernst.json"
@@ -468,35 +498,5 @@
     "id": "maruyama_okyo",
     "name": "Маруяма Окё",
     "path": "records/maruyama_okyo.json"
-  },
-  {
-    "id": "massimo_stanzione",
-    "name": "Массимо Станционе",
-    "path": "records/massimo_stanzione.json"
-  },
-  {
-    "id": "kota_master_a",
-    "name": "Мастер Кота A",
-    "path": "records/kota_master_a.json"
-  },
-  {
-    "id": "master_of_the_holy_blood",
-    "name": "Мастер Святой Крови",
-    "path": "records/master_of_the_holy_blood.json"
-  },
-  {
-    "id": "matteo_di_giovanni",
-    "name": "Маттео ди Джованни",
-    "path": "records/matteo_di_giovanni.json"
-  },
-  {
-    "id": "matteo_rosselli",
-    "name": "Маттео Росселли",
-    "path": "records/matteo_rosselli.json"
-  },
-  {
-    "id": "mattia_preti",
-    "name": "Маттиа Прети",
-    "path": "records/mattia_preti.json"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "gregorio_de_ferrari",
+    "name": "Грегорио де Феррари",
+    "path": "records/gregorio_de_ferrari.json"
+  },
+  {
+    "id": "grace_joel",
+    "name": "Грейс Джоэл",
+    "path": "records/grace_joel.json"
+  },
+  {
+    "id": "ghulam_ali_khan",
+    "name": "Гулам Али Хан",
+    "path": "records/ghulam_ali_khan.json"
+  },
+  {
+    "id": "gunnar_berndtson",
+    "name": "Гуннар Берндтсон",
+    "path": "records/gunnar_berndtson.json"
+  },
+  {
     "id": "gustav_wentzel",
     "name": "Густав Вентцель",
     "path": "records/gustav_wentzel.json"
@@ -478,25 +498,5 @@
     "id": "jean_jouvenet",
     "name": "Жан Жувене",
     "path": "records/jean_jouvenet.json"
-  },
-  {
-    "id": "jean_auguste_dominique_ingres",
-    "name": "Жан Огюст Доминик Энгр",
-    "path": "records/jean_auguste_dominique_ingres.json"
-  },
-  {
-    "id": "jean_honore_fragonard",
-    "name": "Жан Оноре Фрагонар",
-    "path": "records/jean_honore_fragonard.json"
-  },
-  {
-    "id": "jean_francois_millet",
-    "name": "Жан Франсуа Милле",
-    "path": "records/jean_francois_millet.json"
-  },
-  {
-    "id": "jean_hey",
-    "name": "Жан Эй",
-    "path": "records/jean_hey.json"
   }
 ]

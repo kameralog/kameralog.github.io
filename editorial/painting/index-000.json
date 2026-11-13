@@ -160,6 +160,11 @@
     "path": "records/albrecht_durer.json"
   },
   {
+    "id": "alphonse_mucha",
+    "name": "Альфонс Муха",
+    "path": "records/alphonse_mucha.json"
+  },
+  {
     "id": "alfred_sisley",
     "name": "Альфред Сислей",
     "path": "records/alfred_sisley.json"
@@ -410,6 +415,16 @@
     "path": "records/anthonie_palamedesz.json"
   },
   {
+    "id": "antonin_slavicek",
+    "name": "Антонин Славичек",
+    "path": "records/antonin_slavicek.json"
+  },
+  {
+    "id": "antonin_chittussi",
+    "name": "Антонин Хиттусси",
+    "path": "records/antonin_chittussi.json"
+  },
+  {
     "id": "antonio_joli",
     "name": "Антонио Джоли",
     "path": "records/antonio_joli.json"
@@ -483,20 +498,5 @@
     "id": "atetelco_white_patio",
     "name": "Атетелько: Белый дворик",
     "path": "records/atetelco_white_patio.json"
-  },
-  {
-    "id": "aelbert_cuyp",
-    "name": "Аэлберт Кёйп",
-    "path": "records/aelbert_cuyp.json"
-  },
-  {
-    "id": "grandma_moses",
-    "name": "Бабушка Мозес",
-    "path": "records/grandma_moses.json"
-  },
-  {
-    "id": "bagta",
-    "name": "Багта",
-    "path": "records/bagta.json"
   }
 ]

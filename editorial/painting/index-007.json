@@ -1,5 +1,40 @@
 [
   {
+    "id": "fidelia_bridges",
+    "name": "Фиделия Бриджес",
+    "path": "records/fidelia_bridges.json"
+  },
+  {
+    "id": "philippe_de_champaigne",
+    "name": "Филипп де Шампень",
+    "path": "records/philippe_de_champaigne.json"
+  },
+  {
+    "id": "filippino_lippi",
+    "name": "Филиппино Липпи",
+    "path": "records/filippino_lippi.json"
+  },
+  {
+    "id": "philips_wouwerman",
+    "name": "Филипс Вауверман",
+    "path": "records/philips_wouwerman.json"
+  },
+  {
+    "id": "philips_koninck",
+    "name": "Филипс Конинк",
+    "path": "records/philips_koninck.json"
+  },
+  {
+    "id": "florence_carlyle",
+    "name": "Флоренс Карлайл",
+    "path": "records/florence_carlyle.json"
+  },
+  {
+    "id": "florence_helena_mcgillivray",
+    "name": "Флоренс Хелена Макгилливрей",
+    "path": "records/florence_helena_mcgillivray.json"
+  },
+  {
     "id": "floris_van_dijck",
     "name": "Флорис ван Дейк",
     "path": "records/floris_van_dijck.json"
@@ -53,6 +88,11 @@
     "id": "francois_hubert_drouais",
     "name": "Франсуа-Юбер Друэ",
     "path": "records/francois_hubert_drouais.json"
+  },
+  {
+    "id": "frantisek_kupka",
+    "name": "Франтишек Купка",
+    "path": "records/frantisek_kupka.json"
   },
   {
     "id": "franz_marc",
@@ -458,45 +498,5 @@
     "id": "munch",
     "name": "Эдвард Мунк",
     "path": "records/munch.json"
-  },
-  {
-    "id": "hopper",
-    "name": "Эдвард Хоппер",
-    "path": "records/hopper.json"
-  },
-  {
-    "id": "degas",
-    "name": "Эдгар Дега",
-    "path": "records/degas.json"
-  },
-  {
-    "id": "edith_collier",
-    "name": "Эдит Коллиер",
-    "path": "records/edith_collier.json"
-  },
-  {
-    "id": "edith_hayllar",
-    "name": "Эдит Хейллар",
-    "path": "records/edith_hayllar.json"
-  },
-  {
-    "id": "manet",
-    "name": "Эдуар Мане",
-    "path": "records/manet.json"
-  },
-  {
-    "id": "eugene_delacroix",
-    "name": "Эжен Делакруа",
-    "path": "records/eugene_delacroix.json"
-  },
-  {
-    "id": "eugene_jansson",
-    "name": "Эжен Янссон",
-    "path": "records/eugene_jansson.json"
-  },
-  {
-    "id": "eilif_peterssen",
-    "name": "Эйлиф Петерссен",
-    "path": "records/eilif_peterssen.json"
   }
 ]

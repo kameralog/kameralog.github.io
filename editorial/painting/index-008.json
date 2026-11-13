@@ -1,5 +1,45 @@
 [
   {
+    "id": "hopper",
+    "name": "Эдвард Хоппер",
+    "path": "records/hopper.json"
+  },
+  {
+    "id": "degas",
+    "name": "Эдгар Дега",
+    "path": "records/degas.json"
+  },
+  {
+    "id": "edith_collier",
+    "name": "Эдит Коллиер",
+    "path": "records/edith_collier.json"
+  },
+  {
+    "id": "edith_hayllar",
+    "name": "Эдит Хейллар",
+    "path": "records/edith_hayllar.json"
+  },
+  {
+    "id": "manet",
+    "name": "Эдуар Мане",
+    "path": "records/manet.json"
+  },
+  {
+    "id": "eugene_delacroix",
+    "name": "Эжен Делакруа",
+    "path": "records/eugene_delacroix.json"
+  },
+  {
+    "id": "eugene_jansson",
+    "name": "Эжен Янссон",
+    "path": "records/eugene_jansson.json"
+  },
+  {
+    "id": "eilif_peterssen",
+    "name": "Эйлиф Петерссен",
+    "path": "records/eilif_peterssen.json"
+  },
+  {
     "id": "eleanor_fortescue_brickdale",
     "name": "Элеонора Фортескью-Брикдейл",
     "path": "records/eleanor_fortescue_brickdale.json"
@@ -98,6 +138,11 @@
     "id": "emil_nolde",
     "name": "Эмиль Нольде",
     "path": "records/emil_nolde.json"
+  },
+  {
+    "id": "emil_filla",
+    "name": "Эмиль Филла",
+    "path": "records/emil_filla.json"
   },
   {
     "id": "emma_lambotte",
@@ -393,6 +438,11 @@
     "id": "jan_porcellis",
     "name": "Ян Порселлис",
     "path": "records/jan_porcellis.json"
+  },
+  {
+    "id": "jan_preisler",
+    "name": "Ян Прейслер",
+    "path": "records/jan_preisler.json"
   },
   {
     "id": "jan_sanders_van_hemessen",
