@@ -1,0 +1,22 @@
+name: Test public packet status
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'editorial/painting/github-packet-status.js'
+      - 'tools/test-packet-status.cjs'
+      - '.github/workflows/test-packet-status.yml'
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node --check editorial/painting/github-packet-status.js
+      - run: node tools/test-packet-status.cjs
