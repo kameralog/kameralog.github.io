@@ -20,55 +20,56 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Apply guarded repair
+      - name: Apply guarded candidate retention repair
         run: |
           python3 <<'PY'
           import hashlib, pathlib
           p=pathlib.Path('games/painting/discover-painting-images.mjs')
           s=p.read_text()
-          if "POLICY='image-discovery-v2'" in s:
-              raise SystemExit('Already repaired; nothing to overwrite')
+          if "POLICY='image-discovery-v3'" in s:
+              raise SystemExit('Already repaired; no changes')
           blob=hashlib.sha1(b'blob '+str(len(s.encode())).encode()+b'\0'+s.encode()).hexdigest()
-          assert blob=='929aef887292ca47f6bc8920ccafefa2bc440839','Search changed; stop rather than overwrite'
+          assert blob=='af8ac6ddb2cf1c3e554ab3addd27821730891eea','Search changed; refusing to overwrite'
           def once(a,b):
               global s
-              assert s.count(a)==1, 'Changed repair anchor: '+a[:80]
+              assert s.count(a)==1,'Changed anchor: '+a[:80]
               s=s.replace(a,b)
-          once("POLICY='image-discovery-v1'","POLICY='image-discovery-v2'")
-          once("const image=i.thumburl||i.url;allowedURL(image);","allowedURL(i.url);let image=i.thumburl||i.url;try{allowedURL(image);}catch{image=i.url;}")
-          once("await attempt('aic-search',","if(t.kind!=='work'||!t.source||d?.provider==='aic')await attempt('aic-search',")
-          once("await attempt('cma-search',","if(t.kind!=='work'||!t.source||d?.provider==='cma')await attempt('cma-search',")
-          once("return (j.query?.pages||[]).map(p=>commonsCandidate(p,t));","const out=[];for(const p of j.query?.pages||[]){try{const c=commonsCandidate(p,t);if(c)out.push(c);}catch(e){errors.push({source:'commons-file',file:p.title||'',error:e.message});}}return out;")
-          once("await attempt('commons-search',async()=>{","if(t.kind==='work'&&t.source)await attempt('commons-source-link',async()=>{const j=await net.json(endpoint('https://commons.wikimedia.org/w/api.php',{action:'query',format:'json',formatversion:2,generator:'search',gsrnamespace:6,gsrsearch:'\"'+t.source.replaceAll('\"','')+'\"',gsrlimit:5,prop:'imageinfo',iiprop:'url|size|sha1|extmetadata',iiurlwidth:1000}));const out=[];for(const p of j.query?.pages||[]){try{const c=commonsCandidate(p,t);if(c&&c.sourceLinkMatch)out.push(c);}catch(e){errors.push({source:'commons-file',file:p.title||'',error:e.message});}}return out;});\n  await attempt('commons-search',async()=>{")
-          once("for(const c of candidates){const id=imageIdentity(c.zoom||c.image);","for(const c of candidates){if(t.kind==='work'&&t.source){if(c.provider==='commons'&&!c.sourceLinkMatch)continue;if(['aic','cma'].includes(c.provider)&&!c.exact&&canonical(c.source)!==canonical(t.source))continue;}const id=imageIdentity(c.zoom||c.image);")
-          once("AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.","AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.")
+          once("POLICY='image-discovery-v2'","POLICY='image-discovery-v3'")
+          once("if(c.provider==='commons'&&!c.sourceLinkMatch)continue;","if(c.provider==='commons'){c.identityTier=c.sourceLinkMatch?'museum_link_candidate':'unverified_search_candidate';if(!c.sourceLinkMatch)c.identityBasis='unverified_search_result';}")
+          once("c.caution=c.partial?'File name indicates a fragment/crop; preserve this note.':'';","c.caution=[c.partial?'File name indicates a fragment/crop; preserve this note.':'',c.identityTier==='unverified_search_candidate'?'No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.':''].filter(Boolean).join(' ');")
+          once("gsrsearch:q,gsrlimit:3,","gsrsearch:q,gsrlimit:10,")
+          once("if(!unique.has(id)||c.exact&&!unique.get(id).exact)unique.set(id,c);","if(!unique.has(id)||c.exact&&!unique.get(id).exact||c.sourceLinkMatch&&!unique.get(id).sourceLinkMatch)unique.set(id,c);")
+          once("Work candidates with a source require the same object URL; missing links require separate review.","Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked.")
           p.write_text(s)
           PY
-      - name: Syntax and existing regression tests
+      - name: Existing tests
         run: |
           node --check games/painting/discover-painting-images.mjs
           node games/painting/test-discover-painting-images.mjs
-      - name: Test museum isolation and Commons fallback
+      - name: Test separate review tiers and safety
         run: |
           node --input-type=module <<'NODE'
           import assert from 'node:assert/strict';
           import {discover,allowedURL} from './games/painting/discover-painting-images.mjs';
-          const t={id:'regression',kind:'work',key:'uffizi:test',source:'https://www.uffizi.it/en/artworks/test',title:'Test',originalTitle:'Test',artist:'Artist',aliases:['Artist']};
-          const page=(title,original,thumb,source)=>({title,imageinfo:[{url:original,thumburl:thumb,descriptionurl:'https://commons.wikimedia.org/wiki/File:Test.jpg',extmetadata:{Source:{value:source},LicenseShortName:{value:'Public domain'}}}]});
-          const calls=[];
-          const net={json:async url=>{calls.push(url);assert(url.startsWith('https://commons.wikimedia.org/'));return {query:{pages:[page('File:Good.jpg','https://upload.wikimedia.org/good.jpg','https://untrusted.invalid/thumb.jpg',t.source),page('File:Other.jpg','https://upload.wikimedia.org/other.jpg',null,'https://other.invalid/art/1'),page('File:Blocked.jpg','https://127.0.0.1/private',null,t.source)]}};},probe:async url=>{assert.equal(url,'https://upload.wikimedia.org/good.jpg');return {ok:true};}};
+          const t={id:'tiers',kind:'work',key:'uffizi:test',source:'https://www.uffizi.it/en/artworks/test',title:'Test',originalTitle:'Test',artist:'Artist',aliases:['Artist']};
+          const page=(name,url,source,thumb)=>({title:'File:'+name,imageinfo:[{url,thumburl:thumb,extmetadata:{Source:{value:source},LicenseShortName:{value:'Public domain'}}}]});
+          const net={json:async url=>{assert(url.startsWith('https://commons.wikimedia.org/'));return {query:{pages:[page('Linked.jpg','https://upload.wikimedia.org/linked.jpg',t.source,'https://untrusted.invalid/thumb.jpg'),page('Review.jpg','https://upload.wikimedia.org/review.jpg',''),page('Unsafe.jpg','https://127.0.0.1/private',t.source)]}};},probe:async url=>{allowedURL(url);return {ok:true};}};
           const r=await discover(t,net);
-          assert.equal(r.candidates.length,1);
-          assert.equal(r.candidates[0].image,'https://upload.wikimedia.org/good.jpg');
-          assert.equal(r.candidates[0].exact,false);
-          assert.equal(r.candidates[0].status,'needs_identity_review');
+          assert.equal(r.candidates.length,2);
+          const linked=r.candidates.find(c=>c.sourceLinkMatch),review=r.candidates.find(c=>!c.sourceLinkMatch);
+          assert.equal(linked.identityTier,'museum_link_candidate');
+          assert.equal(review.identityTier,'unverified_search_candidate');
+          assert.equal(review.identityBasis,'unverified_search_result');
+          assert(review.caution.includes('NOT confirmed'));
+          for(const c of r.candidates){assert.equal(c.exact,false);assert.equal(c.status,'needs_identity_review');}
+          assert.equal(linked.image,'https://upload.wikimedia.org/linked.jpg');
           assert(r.errors.some(e=>e.source==='commons-file'));
-          assert.equal(r.status,'incomplete');
-          assert(calls.some(url=>new URL(url).searchParams.get('gsrsearch').includes(t.source)));
+          assert.equal(r.visualReviewPerformed,false);
+          assert.equal(r.gameFilesModified,false);
           assert.throws(()=>allowedURL('https://127.0.0.1/private'));
-          console.log('Museum isolation, source link, per-file failure, original fallback and URL safety passed');
+          console.log('Separate candidate tiers, retained unverified results, museum routing and URL safety passed');
           NODE
-      - name: Commit only repaired search
+      - name: Commit only tested search change
         run: |
           set -euo pipefail
           git config user.name 'github-actions[bot]'
@@ -76,6 +77,6 @@ jobs:
           git add -- games/painting/discover-painting-images.mjs
           git diff --cached --check
           if ! git diff --cached --quiet; then
-            git commit -m 'Fix museum routing and isolate Commons image URL failures'
+            git commit -m 'Retain Commons candidates without museum links for separate review'
             git push origin HEAD:main
           fi
