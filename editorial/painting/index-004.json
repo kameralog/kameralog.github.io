@@ -1,5 +1,30 @@
 [
   {
+    "id": "lorenzo_costa",
+    "name": "Лоренцо Коста",
+    "path": "records/lorenzo_costa.json"
+  },
+  {
+    "id": "lorenzo_lippi",
+    "name": "Лоренцо Липпи",
+    "path": "records/lorenzo_lippi.json"
+  },
+  {
+    "id": "lorenzo_lotto",
+    "name": "Лоренцо Лотто",
+    "path": "records/lorenzo_lotto.json"
+  },
+  {
+    "id": "lorenzo_monaco",
+    "name": "Лоренцо Монако",
+    "path": "records/lorenzo_monaco.json"
+  },
+  {
+    "id": "ludovico_cardi",
+    "name": "Лудовико Карди",
+    "path": "records/ludovico_cardi.json"
+  },
+  {
     "id": "louise_abbema",
     "name": "Луиза Аббема",
     "path": "records/louise_abbema.json"
@@ -473,30 +498,5 @@
     "id": "mary_hiester_reid",
     "name": "Мэри Хистер Рид",
     "path": "records/mary_hiester_reid.json"
-  },
-  {
-    "id": "nainsukh",
-    "name": "Найнсукх",
-    "path": "records/nainsukh.json"
-  },
-  {
-    "id": "nasiruddin",
-    "name": "Насируддин",
-    "path": "records/nasiruddin.json"
-  },
-  {
-    "id": "goncharova",
-    "name": "Наталья Гончарова",
-    "path": "records/goncharova.json"
-  },
-  {
-    "id": "ni_zan",
-    "name": "Ни Цзань",
-    "path": "records/ni_zan.json"
-  },
-  {
-    "id": "niju",
-    "name": "Ниджу",
-    "path": "records/niju.json"
   }
 ]

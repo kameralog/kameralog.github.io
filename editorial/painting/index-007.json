@@ -1,5 +1,45 @@
 [
   {
+    "id": "hans_andersen_brendekilde",
+    "name": "Ханс Андерсен Брендекилле",
+    "path": "records/hans_andersen_brendekilde.json"
+  },
+  {
+    "id": "hans_gude",
+    "name": "Ханс Гуде",
+    "path": "records/hans_gude.json"
+  },
+  {
+    "id": "han_gan",
+    "name": "Хань Гань",
+    "path": "records/han_gan.json"
+  },
+  {
+    "id": "harald_slott_moller",
+    "name": "Харальд Слотт-Мёллер",
+    "path": "records/harald_slott_moller.json"
+  },
+  {
+    "id": "harald_sohlberg",
+    "name": "Харальд Сульберг",
+    "path": "records/harald_sohlberg.json"
+  },
+  {
+    "id": "harriet_backer",
+    "name": "Харриет Баккер",
+    "path": "records/harriet_backer.json"
+  },
+  {
+    "id": "hashimoto_gaho",
+    "name": "Хасимото Гахо",
+    "path": "records/hashimoto_gaho.json"
+  },
+  {
+    "id": "hasegawa_tohaku",
+    "name": "Хасэгава Тохаку",
+    "path": "records/hasegawa_tohaku.json"
+  },
+  {
     "id": "helen_mcnicoll",
     "name": "Хелен Макниколл",
     "path": "records/helen_mcnicoll.json"
@@ -250,6 +290,11 @@
     "path": "records/eugene_delacroix.json"
   },
   {
+    "id": "eugene_jansson",
+    "name": "Эжен Янссон",
+    "path": "records/eugene_jansson.json"
+  },
+  {
     "id": "eilif_peterssen",
     "name": "Эйлиф Петерссен",
     "path": "records/eilif_peterssen.json"
@@ -400,6 +445,11 @@
     "path": "records/ernst_ludwig_kirchner.json"
   },
   {
+    "id": "ernst_josephson",
+    "name": "Эрнст Юсефсон",
+    "path": "records/ernst_josephson.json"
+  },
+  {
     "id": "esaias_boursse",
     "name": "Эсайас Бурсе",
     "path": "records/esaias_boursse.json"
@@ -448,55 +498,5 @@
     "id": "jacob_van_ruisdael",
     "name": "Якоб ван Рёйсдал",
     "path": "records/jacob_van_ruisdael.json"
-  },
-  {
-    "id": "jacob_duck",
-    "name": "Якоб Дюк",
-    "path": "records/jacob_duck.json"
-  },
-  {
-    "id": "jacob_cornelisz_van_oostsanen",
-    "name": "Якоб Корнелис ван Остсанен",
-    "path": "records/jacob_cornelisz_van_oostsanen.json"
-  },
-  {
-    "id": "jacob_ochtervelt",
-    "name": "Якоб Охтервелт",
-    "path": "records/jacob_ochtervelt.json"
-  },
-  {
-    "id": "jacob_pynas",
-    "name": "Якоб Пейнас",
-    "path": "records/jacob_pynas.json"
-  },
-  {
-    "id": "jacoba_van_heemskerck",
-    "name": "Якоба ван Хемскерк",
-    "path": "records/jacoba_van_heemskerck.json"
-  },
-  {
-    "id": "jacopo_bassano",
-    "name": "Якопо Бассано",
-    "path": "records/jacopo_bassano.json"
-  },
-  {
-    "id": "jacopo_vignali",
-    "name": "Якопо Виньяли",
-    "path": "records/jacopo_vignali.json"
-  },
-  {
-    "id": "jacopo_del_sellaio",
-    "name": "Якопо дель Селлайо",
-    "path": "records/jacopo_del_sellaio.json"
-  },
-  {
-    "id": "jacopo_chimenti",
-    "name": "Якопо Кименти",
-    "path": "records/jacopo_chimenti.json"
-  },
-  {
-    "id": "jacopo_ligozzi",
-    "name": "Якопо Лигоцци",
-    "path": "records/jacopo_ligozzi.json"
   }
 ]

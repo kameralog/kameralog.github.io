@@ -1,5 +1,10 @@
 [
   {
+    "id": "basawan",
+    "name": "Басаван",
+    "path": "records/basawan.json"
+  },
+  {
     "id": "battista_di_biagio_sanguigni",
     "name": "Баттиста ди Бьяджо Сангвиньи",
     "path": "records/battista_di_biagio_sanguigni.json"
@@ -123,6 +128,11 @@
     "id": "kustodiev",
     "name": "Борис Кустодиев",
     "path": "records/kustodiev.json"
+  },
+  {
+    "id": "bruno_liljefors",
+    "name": "Бруно Лильефорс",
+    "path": "records/bruno_liljefors.json"
   },
   {
     "id": "bhawani_das",
@@ -410,6 +420,11 @@
     "path": "records/klimt.json"
   },
   {
+    "id": "gustaf_fjaestad",
+    "name": "Густав Фьестад",
+    "path": "records/gustaf_fjaestad.json"
+  },
+  {
     "id": "gustave_courbet",
     "name": "Гюстав Курбе",
     "path": "records/gustave_courbet.json"
@@ -483,20 +498,5 @@
     "id": "jane_sutherland",
     "name": "Джейн Сазерленд",
     "path": "records/jane_sutherland.json"
-  },
-  {
-    "id": "pollock",
-    "name": "Джексон Поллок",
-    "path": "records/pollock.json"
-  },
-  {
-    "id": "jenny_montigny",
-    "name": "Дженни Монтиньи",
-    "path": "records/jenny_montigny.json"
-  },
-  {
-    "id": "jennie_augusta_brownscombe",
-    "name": "Дженни Огаста Браунскомб",
-    "path": "records/jennie_augusta_brownscombe.json"
   }
 ]

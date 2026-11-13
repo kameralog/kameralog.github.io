@@ -1,0 +1,46 @@
+{
+  "id": "karl_nordstrom",
+  "name": "Карл Нордстрём",
+  "latin": "Karl Nordström",
+  "life": "1855–1923",
+  "tag": "Шведское искусство · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-131.js",
+  "existing": {
+    "bio": [
+      "Шведский пейзажист, участвовавший в обновлении художественной жизни и критике консервативной академической системы. Учился в Академии вместе с Рихардом Бергом и Нильсом Крейгером.",
+      "После знакомства с французской живописью искал более обобщённый и выразительный язык пейзажа. В 1893 году поселился в Варберге, где работал с Бергом и Крейгером.",
+      "Грозовые тучи соединяют национально-романтическое настроение с упрощением форм и выразительной композицией. Britannica связывает построение картины с интересом к японской гравюре; это искусствоведческое объяснение, не авторский документ."
+    ],
+    "technique": [
+      "Живопись; техника и размеры требуют предметной сверки",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный ракурс: Как небо меняет масштаб земли?",
+    "caution": "Не подменять другой одноимённой работой NM 4145, item 21199. Предметную страницу получить не удалось; NM 1893 найден во вторичном описании файла, биографический контекст — в Britannica.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и предметные сведения",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18898/"
+    },
+    {
+      "title": "Контекст и дата",
+      "url": "https://www.britannica.com/list/14-significant-paintings-at-nationalmuseum-in-stockholm"
+    },
+    {
+      "title": "Номер во вторичном описании файла",
+      "url": "https://pl.wikipedia.org/wiki/Plik:Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Годы жизни",
+      "url": "https://collection.nationalmuseum.se/en/collection/?f=sfield:depicted_place=%23Tj%C3%B6rn%23%20%23Sverige%23%20%23V%C3%A4stra%20G%C3%B6taland%20County%23"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

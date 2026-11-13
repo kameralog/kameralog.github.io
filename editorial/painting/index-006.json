@@ -1,5 +1,45 @@
 [
   {
+    "id": "sarah_goodridge",
+    "name": "Сара Гудридж",
+    "path": "records/sarah_goodridge.json"
+  },
+  {
+    "id": "sarah_miriam_peale",
+    "name": "Сара Мириам Пил",
+    "path": "records/sarah_miriam_peale.json"
+  },
+  {
+    "id": "sassoferrato",
+    "name": "Сассоферрато",
+    "path": "records/sassoferrato.json"
+  },
+  {
+    "id": "sahibdin",
+    "name": "Сахибдин",
+    "path": "records/sahibdin.json"
+  },
+  {
+    "id": "sebastien_bourdon",
+    "name": "Себастьен Бурдон",
+    "path": "records/sebastien_bourdon.json"
+  },
+  {
+    "id": "sebastiano_del_piombo",
+    "name": "Себастьяно дель Пьомбо",
+    "path": "records/sebastiano_del_piombo.json"
+  },
+  {
+    "id": "sebastiano_conca",
+    "name": "Себастьяно Конка",
+    "path": "records/sebastiano_conca.json"
+  },
+  {
+    "id": "sebastiano_ricci",
+    "name": "Себастьяно Риччи",
+    "path": "records/sebastiano_ricci.json"
+  },
+  {
     "id": "seraphine_louis",
     "name": "Серафина Луи",
     "path": "records/seraphine_louis.json"
@@ -458,45 +498,5 @@
     "id": "hanna_pauli",
     "name": "Ханна Паули",
     "path": "records/hanna_pauli.json"
-  },
-  {
-    "id": "hans_andersen_brendekilde",
-    "name": "Ханс Андерсен Брендекилле",
-    "path": "records/hans_andersen_brendekilde.json"
-  },
-  {
-    "id": "hans_gude",
-    "name": "Ханс Гуде",
-    "path": "records/hans_gude.json"
-  },
-  {
-    "id": "han_gan",
-    "name": "Хань Гань",
-    "path": "records/han_gan.json"
-  },
-  {
-    "id": "harald_slott_moller",
-    "name": "Харальд Слотт-Мёллер",
-    "path": "records/harald_slott_moller.json"
-  },
-  {
-    "id": "harald_sohlberg",
-    "name": "Харальд Сульберг",
-    "path": "records/harald_sohlberg.json"
-  },
-  {
-    "id": "harriet_backer",
-    "name": "Харриет Баккер",
-    "path": "records/harriet_backer.json"
-  },
-  {
-    "id": "hashimoto_gaho",
-    "name": "Хасимото Гахо",
-    "path": "records/hashimoto_gaho.json"
-  },
-  {
-    "id": "hasegawa_tohaku",
-    "name": "Хасэгава Тохаку",
-    "path": "records/hasegawa_tohaku.json"
   }
 ]

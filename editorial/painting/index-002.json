@@ -1,5 +1,20 @@
 [
   {
+    "id": "pollock",
+    "name": "Джексон Поллок",
+    "path": "records/pollock.json"
+  },
+  {
+    "id": "jenny_montigny",
+    "name": "Дженни Монтиньи",
+    "path": "records/jenny_montigny.json"
+  },
+  {
+    "id": "jennie_augusta_brownscombe",
+    "name": "Дженни Огаста Браунскомб",
+    "path": "records/jennie_augusta_brownscombe.json"
+  },
+  {
     "id": "gentile_bellini",
     "name": "Джентиле Беллини",
     "path": "records/gentile_bellini.json"
@@ -483,20 +498,5 @@
     "id": "yi_jehyeon",
     "name": "И Джехён",
     "path": "records/yi_jehyeon.json"
-  },
-  {
-    "id": "yi_nyeong",
-    "name": "И Нён",
-    "path": "records/yi_nyeong.json"
-  },
-  {
-    "id": "aivazovsky",
-    "name": "Иван Айвазовский",
-    "path": "records/aivazovsky.json"
-  },
-  {
-    "id": "shishkin",
-    "name": "Иван Шишкин",
-    "path": "records/shishkin.json"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "yi_nyeong",
+    "name": "И Нён",
+    "path": "records/yi_nyeong.json"
+  },
+  {
+    "id": "aivazovsky",
+    "name": "Иван Айвазовский",
+    "path": "records/aivazovsky.json"
+  },
+  {
+    "id": "shishkin",
+    "name": "Иван Шишкин",
+    "path": "records/shishkin.json"
+  },
+  {
     "id": "bosch",
     "name": "Иероним Босх",
     "path": "records/bosch.json"
@@ -165,9 +180,19 @@
     "path": "records/karl_isakson.json"
   },
   {
+    "id": "carl_larsson",
+    "name": "Карл Ларссон",
+    "path": "records/carl_larsson.json"
+  },
+  {
     "id": "karl_madsen",
     "name": "Карл Мадсен",
     "path": "records/karl_madsen.json"
+  },
+  {
+    "id": "karl_nordstrom",
+    "name": "Карл Нордстрём",
+    "path": "records/karl_nordstrom.json"
   },
   {
     "id": "carl_holsoe",
@@ -473,30 +498,5 @@
     "id": "lorenzo_di_credi",
     "name": "Лоренцо ди Креди",
     "path": "records/lorenzo_di_credi.json"
-  },
-  {
-    "id": "lorenzo_costa",
-    "name": "Лоренцо Коста",
-    "path": "records/lorenzo_costa.json"
-  },
-  {
-    "id": "lorenzo_lippi",
-    "name": "Лоренцо Липпи",
-    "path": "records/lorenzo_lippi.json"
-  },
-  {
-    "id": "lorenzo_lotto",
-    "name": "Лоренцо Лотто",
-    "path": "records/lorenzo_lotto.json"
-  },
-  {
-    "id": "lorenzo_monaco",
-    "name": "Лоренцо Монако",
-    "path": "records/lorenzo_monaco.json"
-  },
-  {
-    "id": "ludovico_cardi",
-    "name": "Лудовико Карди",
-    "path": "records/ludovico_cardi.json"
   }
 ]

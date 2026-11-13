@@ -190,6 +190,11 @@
     "path": "records/angelos_akotantos.json"
   },
   {
+    "id": "anders_zorn",
+    "name": "Андерс Цорн",
+    "path": "records/anders_zorn.json"
+  },
+  {
     "id": "andrea_belvedere",
     "name": "Андреа Бельведере",
     "path": "records/andrea_belvedere.json"
@@ -493,10 +498,5 @@
     "id": "bartholomeus_spranger",
     "name": "Бартоломеус Спрангер",
     "path": "records/bartholomeus_spranger.json"
-  },
-  {
-    "id": "basawan",
-    "name": "Басаван",
-    "path": "records/basawan.json"
   }
 ]
