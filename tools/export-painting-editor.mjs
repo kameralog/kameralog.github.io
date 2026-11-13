@@ -32,7 +32,16 @@ assert(artists.length&&new Set(artists.map(a=>a.id)).size===artists.length);
 fs.mkdirSync(out+'/records',{recursive:true});
 for(const a of artists){assert(a.id!=='.'&&a.id!=='..','Unsafe id');fs.writeFileSync(out+'/records/'+encodeURIComponent(a.id)+'.json',JSON.stringify(a,null,2)+'\n');}
 fs.writeFileSync(out+'/catalogue.json',JSON.stringify({schemaVersion:1,kind:'source-catalogue',sourceCommit,artists})+'\n');
-fs.writeFileSync(out+'/summary.json',JSON.stringify({schemaVersion:1,sourceCommit,artists:artists.length,batches:files.length,baselineArtists:baselineIds.length,works:artists.reduce((n,a)=>n+a.works.length,0),researchDossiersGenerated:0},null,2)+'\n');
+let researchDossiersAvailable=0;
+if(fs.existsSync(out+'/research/manifest.json')){
+ const manifest=JSON.parse(fs.readFileSync(out+'/research/manifest.json','utf8'));assert.equal(manifest.schemaVersion,1);const seen=new Set;
+ for(const path of manifest.packages){assert(/^[a-zA-Z0-9_-]+\.json$/.test(path));const pack=JSON.parse(fs.readFileSync(out+'/research/'+path,'utf8'));assert.equal(pack.schemaVersion,1);for(const d of pack.artists){assert(Object.hasOwn(registry,d.id)&&!seen.has(d.id));seen.add(d.id);assert(d.synopsis&&d.directions.length&&d.sources.length);for(const f of d.facts||[])for(const n of f.refs||[])assert(Number.isInteger(n)&&n>=1&&n<=d.sources.length);}}
+ researchDossiersAvailable=seen.size;
+ const loader=fs.readFileSync(out+'/research-loader.js','utf8');new vm.Script(loader);
+ const page=out+'/index.html',before=fs.readFileSync(page,'utf8'),tag='<script defer src="research-loader.js"></script>';
+ if(!before.includes(tag)){assert.equal((before.match(/<\/html>/gi)||[]).length,1);const after=before.replace(/<\/html>/i,tag+'\n</html>');assert.equal(after.replace(tag+'\n',''),before);fs.writeFileSync(page,after);}
+}
+fs.writeFileSync(out+'/summary.json',JSON.stringify({schemaVersion:1,sourceCommit,artists:artists.length,batches:files.length,baselineArtists:baselineIds.length,works:artists.reduce((n,a)=>n+a.works.length,0),researchDossiersGenerated:0,researchDossiersAvailable},null,2)+'\n');
 const indexes=[];for(let i=0;i<artists.length;i+=100){const path='index-'+String(i/100).padStart(3,'0')+'.json';indexes.push(path);fs.writeFileSync(out+'/'+path,JSON.stringify(artists.slice(i,i+100).map(a=>({id:a.id,name:a.name,path:'records/'+encodeURIComponent(a.id)+'.json'})),null,2)+'\n');}
 fs.writeFileSync(out+'/manifest.json',JSON.stringify({schemaVersion:1,sourceCommit,count:artists.length,indexes},null,2)+'\n');
-console.log(JSON.stringify({artists:artists.length,batches:files.length,sourceCommit}));
+console.log(JSON.stringify({artists:artists.length,batches:files.length,sourceCommit,researchDossiersAvailable}));
