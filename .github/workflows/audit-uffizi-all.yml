@@ -20,50 +20,50 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Repair invalid query escapes with version guard
+      - name: Replace graph-wide query with explicit collection lookup
         run: |
           python3 <<'PY'
           import hashlib,pathlib
           p=pathlib.Path('tools/audit-uffizi-all.mjs')
           s=p.read_text()
-          old=r'\\.'
-          if old in s:
+          if 'VALUES ?collection { wd:Q51252 wd:Q16335227 wd:Q866498 }' not in s:
               blob=hashlib.sha1(b'blob '+str(len(s.encode())).encode()+b'\0'+s.encode()).hexdigest()
-              assert blob=='3d5e71ebd458a717c17bccb00f5150495b6f5281','Audit changed; refusing to overwrite'
-              assert s.count(old)==2,'Unexpected escaped-dot count'
-              s=s.replace(old,'[.]')
-              anchor="assert(r.ok,'HTTP '+r.status);"
-              assert s.count(anchor)==1
-              s=s.replace(anchor,"if(!r.ok)throw Error('HTTP '+r.status+': '+(await r.text()).slice(0,1500));")
+              assert blob=='0185ee4421750784fcf813fe2aaab994dd0f2159','Audit changed; refusing to overwrite'
+              lines=s.splitlines()
+              targets=[i for i,l in enumerate(lines) if 'const query=`' in l]
+              assert len(targets)==1
+              lines[targets[0]]='  const query=`SELECT DISTINCT ?work ?creator ?collection WHERE { VALUES ?collection { wd:Q51252 wd:Q16335227 wd:Q866498 } ?work p:P195 ?cs. ?cs ps:P195 ?collection. FILTER NOT EXISTS {?cs pq:P582 ?end} FILTER NOT EXISTS {?cs wikibase:rank wikibase:DeprecatedRank} ?work p:P170 ?as. ?as ps:P170 ?creator. FILTER NOT EXISTS {?as wikibase:rank wikibase:DeprecatedRank} } ORDER BY ?work ?creator ?collection LIMIT 200 OFFSET ${offset}`;'
+              s='\n'.join(lines)+'\n'
+              assert s.count('rows.length<400')==1
+              s=s.replace('rows.length<400','rows.length<200')
+              assert s.count('page<50')==1
+              s=s.replace('page<50','page<100')
+              old='Wikidata current collection claims linked through collection/parent official websites to uffizi.it; not a complete museum catalogue or visual review'
+              assert s.count(old)==1
+              s=s.replace(old,'All current site artists checked against Wikidata collections Q51252, Q16335227 (Uffizi) and Q866498 (Galleria Palatina); not a complete museum catalogue or visual review')
               p.write_text(s)
-          else:
-              assert '(www[.])?uffizi[.]it' in s,'Unexpected audit query'
           PY
-      - name: Install query syntax validator outside repository
+      - name: Install query validator outside repository
         run: npm install --prefix "$RUNNER_TEMP/sparql-check" --no-save --package-lock=false sparqljs@3
-      - name: Validate actual generated query and domain filter
+      - name: Validate query and test a real one-record response
         run: |
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
           import vm from 'node:vm';
           import assert from 'node:assert/strict';
           import {createRequire} from 'node:module';
-          const require=createRequire(import.meta.url);
-          const {Parser}=require(process.env.RUNNER_TEMP+'/sparql-check/node_modules/sparqljs');
-          const source=fs.readFileSync('tools/audit-uffizi-all.mjs','utf8');
-          const lines=source.split('\n').filter(l=>l.includes('const query=`'));
-          assert.equal(lines.length,1);
-          const box={offset:0};
-          vm.runInNewContext(lines[0].replace('const query=','globalThis.query='),box,{timeout:1000});
-          const prefixes={p:'http://www.wikidata.org/prop/',ps:'http://www.wikidata.org/prop/statement/',pq:'http://www.wikidata.org/prop/qualifier/',wdt:'http://www.wikidata.org/prop/direct/',wikibase:'http://wikiba.se/ontology#'};
+          const {Parser}=createRequire(import.meta.url)(process.env.RUNNER_TEMP+'/sparql-check/node_modules/sparqljs');
+          const lines=fs.readFileSync('tools/audit-uffizi-all.mjs','utf8').split('\n').filter(l=>l.includes('const query=`'));assert.equal(lines.length,1);
+          const box={offset:0};vm.runInNewContext(lines[0].replace('const query=','globalThis.query='),box,{timeout:1000});
+          const prefixes={wd:'http://www.wikidata.org/entity/',p:'http://www.wikidata.org/prop/',ps:'http://www.wikidata.org/prop/statement/',pq:'http://www.wikidata.org/prop/qualifier/',wikibase:'http://wikiba.se/ontology#'};
           assert.equal(new Parser({prefixes}).parse(box.query).queryType,'SELECT');
-          const pattern=box.query.match(/REGEX\(STR\(\?site\),"([^"]+)"/)[1];
-          const re=new RegExp(pattern,'i');
-          assert(re.test('https://www.uffizi.it/'));
-          assert(re.test('https://uffizi.it/en'));
-          assert(!re.test('https://www.uffizi.it.evil.invalid/'));
-          assert(!re.test('https://not-uffizi.it/'));
-          console.log('Generated SPARQL query parses; official domain filter passed');
+          assert(box.query.includes('VALUES ?collection { wd:Q51252 wd:Q16335227 wd:Q866498 }'));
+          assert(!box.query.includes('P361'));assert(!box.query.includes('REGEX'));
+          const query=box.query.replace('LIMIT 200','LIMIT 1');
+          const r=await fetch('https://query.wikidata.org/sparql?'+new URLSearchParams({query,format:'json'}),{redirect:'error',signal:AbortSignal.timeout(60000),headers:{Accept:'application/sparql-results+json','User-Agent':'PaintingUffiziAudit/1.0 (https://github.com/kameralog/kameralog.github.io)'}});
+          if(!r.ok)throw Error('Smoke test HTTP '+r.status+': '+(await r.text()).slice(0,1500));
+          const j=await r.json();assert(j.results?.bindings?.length===1,'No museum work returned; stop before full audit');
+          console.log('SPARQL parses and remote one-record test passed');
           NODE
       - name: Offline checks
         run: |
@@ -79,7 +79,7 @@ jobs:
           git add -- tools/audit-uffizi-all.mjs
           git diff --cached --check
           if ! git diff --cached --quiet; then
-            git commit -m 'Fix SPARQL string escapes and preserve server error details'
+            git commit -m 'Limit Uffizi audit to explicit collection IDs and bounded pages'
             git push origin HEAD:main
           fi
       - name: Check every current site artist
