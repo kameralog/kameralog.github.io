@@ -1,8 +1,8 @@
 {
-  "RUN_ID": "43426697987",
+  "RUN_ID": "43437102667",
   "RUN_ATTEMPT": "1",
-  "RUN_URL": "https://github.com/kameralog/kameralog.github.io/actions/runs/43426697987",
-  "SOURCE_SHA": "339626083c4b02a76a883aa2c5c19e240f1056cc",
+  "RUN_URL": "https://github.com/kameralog/kameralog.github.io/actions/runs/43437102667",
+  "SOURCE_SHA": "bc9dab909df2dc607191fc8ad88ae21ef49fb9f0",
   "CONCLUSION": "success",
-  "DESTINATION": "reports/museums/43426697987-recovered"
+  "DESTINATION": "reports/museums/43437102667-1"
 }

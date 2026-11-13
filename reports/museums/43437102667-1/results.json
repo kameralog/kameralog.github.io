@@ -1,0 +1,235 @@
+{
+  "policy": "image-discovery-v2",
+  "entries": {
+    "79c09097f020b66672b8ff7fabcc8339bf45817495ff0e2060485ae4971f400b": {
+      "policy": "image-discovery-v2",
+      "taskId": "79c09097f020b66672b8ff7fabcc8339bf45817495ff0e2060485ae4971f400b",
+      "probeRequested": true,
+      "attemptedAt": 1794577813712,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "b9e5fdc00499ebc5bdb7ce937f3e322d6349d0203d2742d809604b498372ecc0": {
+      "policy": "image-discovery-v2",
+      "taskId": "b9e5fdc00499ebc5bdb7ce937f3e322d6349d0203d2742d809604b498372ecc0",
+      "probeRequested": true,
+      "attemptedAt": 1794577815287,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "55cbccdf8e368a72130bcfdb1a3849b6b247e7932ed687fd7d4e6dca1176629b": {
+      "policy": "image-discovery-v2",
+      "taskId": "55cbccdf8e368a72130bcfdb1a3849b6b247e7932ed687fd7d4e6dca1176629b",
+      "probeRequested": true,
+      "attemptedAt": 1794577817865,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "87a3d0d8f023a7eba12d1217bd1f57f82ea9e495b423e1a7078c9f4c86452df4": {
+      "policy": "image-discovery-v2",
+      "taskId": "87a3d0d8f023a7eba12d1217bd1f57f82ea9e495b423e1a7078c9f4c86452df4",
+      "probeRequested": true,
+      "attemptedAt": 1794577820137,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "3e2870b870e4a7a0396e814db168684a8b295746571d9e4c0609bc81dcdae61c": {
+      "policy": "image-discovery-v2",
+      "taskId": "3e2870b870e4a7a0396e814db168684a8b295746571d9e4c0609bc81dcdae61c",
+      "probeRequested": true,
+      "attemptedAt": 1794577822661,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "dc26bbaa576f779d7b39ed454dfa38b603b686819bcdc94b9bd5933530516f75": {
+      "policy": "image-discovery-v2",
+      "taskId": "dc26bbaa576f779d7b39ed454dfa38b603b686819bcdc94b9bd5933530516f75",
+      "probeRequested": true,
+      "attemptedAt": 1794577824969,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "95f1766778b95e2c4022389c5481b9ed809f0575dbd9f4096f3f91682e415937": {
+      "policy": "image-discovery-v2",
+      "taskId": "95f1766778b95e2c4022389c5481b9ed809f0575dbd9f4096f3f91682e415937",
+      "probeRequested": true,
+      "attemptedAt": 1794577827366,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "f06700002ce396267fb99e4b2b9c02132d93e67e70da6c0f895de76e19005d23": {
+      "policy": "image-discovery-v2",
+      "taskId": "f06700002ce396267fb99e4b2b9c02132d93e67e70da6c0f895de76e19005d23",
+      "probeRequested": true,
+      "attemptedAt": 1794577830188,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "97fc31c9b694c36272c36a48549fb3a9a144d678ab37c8c3fd7677b98bebb4cb": {
+      "policy": "image-discovery-v2",
+      "taskId": "97fc31c9b694c36272c36a48549fb3a9a144d678ab37c8c3fd7677b98bebb4cb",
+      "probeRequested": true,
+      "attemptedAt": 1794577832219,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "12e9312fa072c4b47aa2b1464787d317363fa1d8164ce3fe04e31dee02b03d93": {
+      "policy": "image-discovery-v2",
+      "taskId": "12e9312fa072c4b47aa2b1464787d317363fa1d8164ce3fe04e31dee02b03d93",
+      "probeRequested": true,
+      "attemptedAt": 1794577834607,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    }
+  }
+}

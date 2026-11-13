@@ -1,0 +1,662 @@
+{
+  "policy": "image-discovery-v2",
+  "snapshot": "bc9dab909df2dc607191fc8ad88ae21ef49fb9f0",
+  "counts": {
+    "artists": 836,
+    "batchFiles": 130,
+    "baseRecords": 777,
+    "missingWorks": 273,
+    "artistsWithoutImages": 356
+  },
+  "rows": [
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 3562",
+        "key": "1890 № 3562",
+        "title": "Гилас и нимфы",
+        "originalTitle": "Hylas and the Nymphs",
+        "source": "https://www.uffizi.it/en/artworks/hylas-and-the-nymphs",
+        "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+        "artistId": "francesco_furini",
+        "artist": "Франческо Фурини",
+        "aliases": [
+          "Francesco Furini",
+          "Франческо Фурини"
+        ],
+        "date": "около 1632",
+        "refs": [
+          "artists-batch-96.js:pendingWorks:1890 № 3562"
+        ],
+        "id": "79c09097f020b66672b8ff7fabcc8339bf45817495ff0e2060485ae4971f400b"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "79c09097f020b66672b8ff7fabcc8339bf45817495ff0e2060485ae4971f400b",
+        "probeRequested": true,
+        "attemptedAt": 1794577813712,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-vignali-flautist",
+        "key": "editorial:uffizi-vignali-flautist",
+        "title": "Флейтист",
+        "originalTitle": "The Flautist",
+        "source": "https://www.uffizi.it/en/events/jacopo-vignali-and-uffizi-galleries-in-san-casciano-val-di-pesa",
+        "museum": "Галереи Уффици, Флоренция",
+        "artistId": "jacopo_vignali",
+        "artist": "Якопо Виньяли",
+        "aliases": [
+          "Jacopo Vignali",
+          "Якопо Виньяли"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-97.js:pendingWorks:editorial:uffizi-vignali-flautist"
+        ],
+        "id": "b9e5fdc00499ebc5bdb7ce937f3e322d6349d0203d2742d809604b498372ecc0"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "b9e5fdc00499ebc5bdb7ce937f3e322d6349d0203d2742d809604b498372ecc0",
+        "probeRequested": true,
+        "attemptedAt": 1794577815287,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:pitti-volterrano-arlotto",
+        "key": "editorial:pitti-volterrano-arlotto",
+        "title": "Шутка священника Арлотто",
+        "originalTitle": "One of Father Arlotto’s Tricks",
+        "source": "https://www.uffizi.it/en/artworks/volterrano-one-of-father-arlotto-s-tricks",
+        "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+        "artistId": "baldassarre_franceschini",
+        "artist": "Бальдассарре Франческини",
+        "aliases": [
+          "Baldassarre Franceschini",
+          "Бальдассарре Франческини",
+          "Вольтеррано",
+          "Il Volterrano",
+          "Volterrano"
+        ],
+        "date": "около 1640",
+        "refs": [
+          "artists-batch-97.js:pendingWorks:editorial:pitti-volterrano-arlotto"
+        ],
+        "id": "55cbccdf8e368a72130bcfdb1a3849b6b247e7932ed687fd7d4e6dca1176629b"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "55cbccdf8e368a72130bcfdb1a3849b6b247e7932ed687fd7d4e6dca1176629b",
+        "probeRequested": true,
+        "attemptedAt": 1794577817865,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-dandini-shepherd-bagpipes",
+        "key": "editorial:uffizi-dandini-shepherd-bagpipes",
+        "title": "Пастух с волынкой",
+        "originalTitle": "Shepherd with Bagpipes",
+        "source": "https://www.uffizi.it/en/events/jacopo-vignali-and-uffizi-galleries-in-san-casciano-val-di-pesa",
+        "museum": "Галереи Уффици, Флоренция",
+        "artistId": "cesare_dandini",
+        "artist": "Чезаре Дандини",
+        "aliases": [
+          "Cesare Dandini",
+          "Чезаре Дандини"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-97.js:pendingWorks:editorial:uffizi-dandini-shepherd-bagpipes"
+        ],
+        "id": "87a3d0d8f023a7eba12d1217bd1f57f82ea9e495b423e1a7078c9f4c86452df4"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "87a3d0d8f023a7eba12d1217bd1f57f82ea9e495b423e1a7078c9f4c86452df4",
+        "probeRequested": true,
+        "attemptedAt": 1794577820137,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 8741",
+        "key": "1890 № 8741",
+        "title": "Поклонение волхвов",
+        "originalTitle": "Adoration of the Magi",
+        "source": "https://www.uffizi.it/en/artworks/adoration-magi-cristofano-allori",
+        "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+        "artistId": "cristofano_allori",
+        "artist": "Кристофано Аллори",
+        "aliases": [
+          "Cristofano Allori",
+          "Кристофано Аллори"
+        ],
+        "date": "1610–1611",
+        "refs": [
+          "artists-batch-98.js:pendingWorks:1890 № 8741"
+        ],
+        "id": "3e2870b870e4a7a0396e814db168684a8b295746571d9e4c0609bc81dcdae61c"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "3e2870b870e4a7a0396e814db168684a8b295746571d9e4c0609bc81dcdae61c",
+        "probeRequested": true,
+        "attemptedAt": 1794577822661,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 8441",
+        "key": "1890 № 8441",
+        "title": "Кладовая с бочкой, дичью, мясом и посудой",
+        "originalTitle": "Pantry with cask, game, meat and pottery",
+        "source": "https://www.uffizi.it/en/artworks/empoli-still-life",
+        "museum": "Уффици, Флоренция",
+        "artistId": "jacopo_chimenti",
+        "artist": "Якопо Кименти",
+        "aliases": [
+          "Jacopo Chimenti",
+          "Якопо Кименти",
+          "Эмполи",
+          "Empoli",
+          "Jacopo da Empoli"
+        ],
+        "date": "1624; подпись и дата",
+        "refs": [
+          "artists-batch-98.js:pendingWorks:1890 № 8441"
+        ],
+        "id": "dc26bbaa576f779d7b39ed454dfa38b603b686819bcdc94b9bd5933530516f75"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "dc26bbaa576f779d7b39ed454dfa38b603b686819bcdc94b9bd5933530516f75",
+        "probeRequested": true,
+        "attemptedAt": 1794577824969,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 3496",
+        "key": "1890 № 3496",
+        "title": "Святой Франциск получает стигматы",
+        "originalTitle": "St Francis receives the stigmata",
+        "source": "https://www.uffizi.it/en/artworks/cigoli-francis-stigmata",
+        "museum": "Уффици, Флоренция",
+        "artistId": "ludovico_cardi",
+        "artist": "Лудовико Карди",
+        "aliases": [
+          "Ludovico Cardi",
+          "Лудовико Карди",
+          "Чиголи",
+          "Cigoli",
+          "Il Cigoli"
+        ],
+        "date": "1596; подписано и датировано",
+        "refs": [
+          "artists-batch-98.js:pendingWorks:1890 № 3496"
+        ],
+        "id": "95f1766778b95e2c4022389c5481b9ed809f0575dbd9f4096f3f91682e415937"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "95f1766778b95e2c4022389c5481b9ed809f0575dbd9f4096f3f91682e415937",
+        "probeRequested": true,
+        "attemptedAt": 1794577827366,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 2037",
+        "key": "1890 № 2037",
+        "title": "Аллегория живописи",
+        "originalTitle": "Allegory of Painting",
+        "source": "https://www.uffizi.it/en/artworks/martinelli-allegory-of-painting",
+        "museum": "Уффици, Флоренция; запасники по музейной карточке",
+        "artistId": "giovanni_martinelli",
+        "artist": "Джованни Мартинелли",
+        "aliases": [
+          "Giovanni Martinelli",
+          "Джованни Мартинелли"
+        ],
+        "date": "около 1630–1635",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:1890 № 2037"
+        ],
+        "id": "f06700002ce396267fb99e4b2b9c02132d93e67e70da6c0f895de76e19005d23"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "f06700002ce396267fb99e4b2b9c02132d93e67e70da6c0f895de76e19005d23",
+        "probeRequested": true,
+        "attemptedAt": 1794577830188,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:15",
+        "key": "catalogue:rigore-grazia:15",
+        "title": "Лот и его дочери",
+        "originalTitle": "Lot e le figlie",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "simone_pignoni",
+        "artist": "Симоне Пиньони",
+        "aliases": [
+          "Simone Pignoni",
+          "Симоне Пиньони"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:15"
+        ],
+        "id": "97fc31c9b694c36272c36a48549fb3a9a144d678ab37c8c3fd7677b98bebb4cb"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "97fc31c9b694c36272c36a48549fb3a9a144d678ab37c8c3fd7677b98bebb4cb",
+        "probeRequested": true,
+        "attemptedAt": 1794577832219,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:16",
+        "key": "catalogue:rigore-grazia:16",
+        "title": "Исцеление Товита",
+        "originalTitle": "Guarigione di Tobi",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "mario_balassi",
+        "artist": "Марио Баласси",
+        "aliases": [
+          "Mario Balassi",
+          "Марио Баласси"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:16"
+        ],
+        "id": "12e9312fa072c4b47aa2b1464787d317363fa1d8164ce3fe04e31dee02b03d93"
+      },
+      "result": {
+        "policy": "image-discovery-v2",
+        "taskId": "12e9312fa072c4b47aa2b1464787d317363fa1d8164ce3fe04e31dee02b03d93",
+        "probeRequested": true,
+        "attemptedAt": 1794577834607,
+        "status": "no_candidates_in_checked_results",
+        "budget": false,
+        "sources": [
+          {
+            "name": "commons-source-link",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [],
+        "candidates": [],
+        "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Work candidates with a source require the same object URL; missing links require separate review. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:18",
+        "key": "catalogue:rigore-grazia:18",
+        "title": "Иеровоам и пророк Ахия",
+        "originalTitle": "Geroboamo e il profeta Achia",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "vincenzo_dandini",
+        "artist": "Винченцо Дандини",
+        "aliases": [
+          "Vincenzo Dandini",
+          "Винченцо Дандини"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:18"
+        ],
+        "id": "e85e8983b771fa8ef9d4f0ed9d72f40b656d0a85df3b82fbff38a85f64d381f6"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:19",
+        "key": "catalogue:rigore-grazia:19",
+        "title": "Сусанна и старцы",
+        "originalTitle": "Susanna e i vecchioni",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "agostino_melissi",
+        "artist": "Агостино Мелисси",
+        "aliases": [
+          "Agostino Melissi",
+          "Агостино Мелисси"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:19"
+        ],
+        "id": "c9071a84ab9d4cda8edc738e39c4bf0fe791d090317deb60b0b19d662d9bbafa"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 8023",
+        "key": "1890 № 8023",
+        "title": "Аллегория Фортуны",
+        "originalTitle": "Allegory of Fortune",
+        "source": "https://www.uffizi.it/en/artworks/ligozzi-fortune",
+        "museum": "Уффици, Флоренция",
+        "artistId": "jacopo_ligozzi",
+        "artist": "Якопо Лигоцци",
+        "aliases": [
+          "Jacopo Ligozzi",
+          "Якопо Лигоцци"
+        ],
+        "date": "1580–1599",
+        "refs": [
+          "artists-batch-100.js:pendingWorks:1890 № 8023"
+        ],
+        "id": "f4dcb80f1c085e60c3f21c81b75787062977b3a92e4ca43df578b130ae383df8"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-gabbiani-magdalene-1701",
+        "key": "editorial:uffizi-gabbiani-magdalene-1701",
+        "title": "Слава святой Марии Магдалины, возносимой ангелами на небо",
+        "originalTitle": "Glory of Saint Mary Magdalene carried to heaven by angels",
+        "source": "https://www.uffizi.it/en/events/florence-and-europe",
+        "museum": "Галереи Уффици; по выставочной записи",
+        "artistId": "anton_domenico_gabbiani",
+        "artist": "Антон Доменико Габбиани",
+        "aliases": [
+          "Anton Domenico Gabbiani",
+          "Антон Доменико Габбиани"
+        ],
+        "date": "1701",
+        "refs": [
+          "artists-batch-100.js:pendingWorks:editorial:uffizi-gabbiani-magdalene-1701"
+        ],
+        "id": "904c75a625a9dde66986e82c370e6f307c11b3cf592f032e91209c8b45d6e32c"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-allori-hercules-muses",
+        "key": "editorial:uffizi-allori-hercules-muses",
+        "title": "Геркулес, увенчанный музами",
+        "originalTitle": "Hercules crowned by the Muses",
+        "source": "https://www.uffizi.it/en/artworks/allori-hercules-muses",
+        "museum": "Уффици, Флоренция",
+        "artistId": "alessandro_allori",
+        "artist": "Алессандро Аллори",
+        "aliases": [
+          "Alessandro Allori",
+          "Алессандро Аллори"
+        ],
+        "date": "1568",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:editorial:uffizi-allori-hercules-muses"
+        ],
+        "id": "24431d32b6fa7710cca1d5fdf11e257caaf2a04c316154940aa20e04c3883750"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 10840",
+        "key": "1890 № 10840",
+        "title": "Мадонна с Младенцем, маленьким Иоанном Крестителем и святой Варварой",
+        "originalTitle": "Madonna and Child, Young Saint John the Baptist and Saint Barbara",
+        "source": "https://www.uffizi.it/en/artworks/madonna-child-st-john-st-barbara-daniele-da-volterra",
+        "museum": "Уффици, Флоренция",
+        "artistId": "daniele_da_volterra",
+        "artist": "Даниеле да Вольтерра",
+        "aliases": [
+          "Daniele da Volterra",
+          "Даниеле да Вольтерра",
+          "Даниеле Риччарелли",
+          "Daniele Ricciarelli"
+        ],
+        "date": "около 1545–1547",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:1890 № 10840"
+        ],
+        "id": "712299b9508f1f315377eb20f515ce5477ea5143fb1c5c5c420773b524004278"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 9974",
+        "key": "1890 № 9974",
+        "title": "Анжелика скрывается от Руджеро",
+        "originalTitle": "Angelica hides from Ruggiero",
+        "source": "https://www.uffizi.it/en/artworks/ruggero-angelica-bilivert",
+        "museum": "Уффици, Флоренция",
+        "artistId": "giovanni_bilivert",
+        "artist": "Джованни Биливерт",
+        "aliases": [
+          "Giovanni Bilivert",
+          "Джованни Биливерт"
+        ],
+        "date": "около 1624",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:1890 № 9974"
+        ],
+        "id": "d336273f0ffdfd0e34cb42d83571f4f4bdabc747d0d917244c970931021701eb"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 10723",
+        "key": "1890 № 10723",
+        "title": "Армида",
+        "originalTitle": "Armida",
+        "source": "https://www.uffizi.it/en/artworks/armida-cecco-bravo",
+        "museum": "Уффици, Флоренция",
+        "artistId": "cecco_bravo",
+        "artist": "Чекко Браво",
+        "aliases": [
+          "Cecco Bravo",
+          "Чекко Браво",
+          "Франческо Монтелатичи",
+          "Francesco Montelatici"
+        ],
+        "date": "около 1650",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:1890 № 10723"
+        ],
+        "id": "e430efb176628875cf7913305a181e16f431c4729f539833a45409ee0b32efb4"
+      },
+      "result": null
+    }
+  ],
+  "gameFilesModified": false,
+  "visualReviewPerformed": false
+}
