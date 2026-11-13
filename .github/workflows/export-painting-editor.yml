@@ -1,0 +1,81 @@
+name: Export full painting catalogue for editor
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/export-painting-editor.yml'
+      - 'tools/export-painting-editor.mjs'
+      - 'editorial/painting/index.html'
+      - 'games/painting/artists-batch-*.js'
+      - 'games/painting/index.html'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-editor-export
+  cancel-in-progress: false
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Export from current source without changing game files
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          saved=false
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            node --check tools/export-painting-editor.mjs
+            node tools/export-painting-editor.mjs
+            node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          const h=fs.readFileSync('editorial/painting/index.html','utf8');
+          for(const m of h.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi))if(m[1].trim())new vm.Script(m[1]);
+          NODE
+            git diff --exit-code -- games/painting
+            git add editorial/painting
+            if git diff --cached --quiet; then saved=true; break; fi
+            git commit -m 'Export current artist catalogue for editorial review'
+            if git push origin HEAD:main; then saved=true; break; fi
+            sleep "$((attempt * 3))"
+          done
+          test "$saved" = true
+      - name: Request Pages and verify panel and catalogue
+        run: |
+          set -euo pipefail
+          gh api "repos/$GITHUB_REPOSITORY/pages" > "$RUNNER_TEMP/editor-pages.json"
+          test "$(jq -r '.source.branch' "$RUNNER_TEMP/editor-pages.json")" = main
+          test "$(jq -r '.source.path' "$RUNNER_TEMP/editor-pages.json")" = /
+          base=$(jq -r '.html_url' "$RUNNER_TEMP/editor-pages.json")
+          test "${base%/}" = https://kameralog.github.io
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" || echo 'Build request failed; checking existing deployment'
+          verified=false
+          for attempt in $(seq 1 40); do
+            if curl -fsSL --max-time 20 "${base%/}/editorial/painting/catalogue.json?v=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/editor-catalogue.json" && cmp -s editorial/painting/catalogue.json "$RUNNER_TEMP/editor-catalogue.json" && curl -fsSL --max-time 20 "${base%/}/editorial/painting/?v=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/editor-index.html" && cmp -s editorial/painting/index.html "$RUNNER_TEMP/editor-index.html"; then verified=true; break; fi
+            sleep 10
+          done
+          cat editorial/painting/summary.json >> "$GITHUB_STEP_SUMMARY"
+          echo "Panel and catalogue published: $verified. Browser interactions not tested." >> "$GITHUB_STEP_SUMMARY"
+          test "$verified" = true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: painting-editor-catalogue-${{ github.run_id }}
+          path: |
+            editorial/painting/summary.json
+            editorial/painting/manifest.json
+          if-no-files-found: warn
