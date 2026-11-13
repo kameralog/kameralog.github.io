@@ -1,5 +1,45 @@
 [
   {
+    "id": "eleanor_fortescue_brickdale",
+    "name": "Элеонора Фортескью-Брикдейл",
+    "path": "records/eleanor_fortescue_brickdale.json"
+  },
+  {
+    "id": "elisa_de_gamond",
+    "name": "Элиза де Гамонд",
+    "path": "records/elisa_de_gamond.json"
+  },
+  {
+    "id": "elizabeth_butler",
+    "name": "Элизабет Батлер",
+    "path": "records/elizabeth_butler.json"
+  },
+  {
+    "id": "elizabeth_jane_gardner",
+    "name": "Элизабет Джейн Гарднер",
+    "path": "records/elizabeth_jane_gardner.json"
+  },
+  {
+    "id": "elisabeth_jerichau_baumann",
+    "name": "Элизабет Йерихау-Бауман",
+    "path": "records/elisabeth_jerichau_baumann.json"
+  },
+  {
+    "id": "elisabeth_louise_vigee_le_brun",
+    "name": "Элизабет Луиза Виже-Лебрен",
+    "path": "records/elisabeth_louise_vigee_le_brun.json"
+  },
+  {
+    "id": "elizabeth_nourse",
+    "name": "Элизабет Нурс",
+    "path": "records/elizabeth_nourse.json"
+  },
+  {
+    "id": "elizabeth_forbes",
+    "name": "Элизабет Форбс",
+    "path": "records/elizabeth_forbes.json"
+  },
+  {
     "id": "elisabeth_sophie_cheron",
     "name": "Элизабет-Софи Шерон",
     "path": "records/elisabeth_sophie_cheron.json"
@@ -173,6 +213,11 @@
     "id": "juho_rissanen",
     "name": "Юхо Риссанен",
     "path": "records/juho_rissanen.json"
+  },
+  {
+    "id": "jazeps_grosvalds",
+    "name": "Язепс Гросвалдс",
+    "path": "records/jazeps_grosvalds.json"
   },
   {
     "id": "jacob_van_ruisdael",
@@ -373,6 +418,11 @@
     "id": "janis_valters",
     "name": "Янис Валтерс",
     "path": "records/janis_valters.json"
+  },
+  {
+    "id": "janis_tillbergs",
+    "name": "Янис Робертс Тилбергс",
+    "path": "records/janis_tillbergs.json"
   },
   {
     "id": "janis_rozentals",

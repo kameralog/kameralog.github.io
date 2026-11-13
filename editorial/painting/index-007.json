@@ -1,5 +1,45 @@
 [
   {
+    "id": "floris_van_dijck",
+    "name": "Флорис ван Дейк",
+    "path": "records/floris_van_dijck.json"
+  },
+  {
+    "id": "floris_van_schooten",
+    "name": "Флорис ван Схотен",
+    "path": "records/floris_van_schooten.json"
+  },
+  {
+    "id": "fra_angelico",
+    "name": "Фра Анджелико",
+    "path": "records/fra_angelico.json"
+  },
+  {
+    "id": "fra_bartolomeo",
+    "name": "Фра Бартоломео",
+    "path": "records/fra_bartolomeo.json"
+  },
+  {
+    "id": "fra_filippo_lippi",
+    "name": "Фра Филиппо Липпи",
+    "path": "records/fra_filippo_lippi.json"
+  },
+  {
+    "id": "frans_van_cuyck_de_myerhop",
+    "name": "Франс ван Кёйк де Мейерхоп",
+    "path": "records/frans_van_cuyck_de_myerhop.json"
+  },
+  {
+    "id": "frans_van_mieris_the_elder",
+    "name": "Франс ван Мирис Старший",
+    "path": "records/frans_van_mieris_the_elder.json"
+  },
+  {
+    "id": "hals",
+    "name": "Франс Халс",
+    "path": "records/hals.json"
+  },
+  {
     "id": "francisco_goya",
     "name": "Франсиско Гойя",
     "path": "records/francisco_goya.json"
@@ -458,45 +498,5 @@
     "id": "eilif_peterssen",
     "name": "Эйлиф Петерссен",
     "path": "records/eilif_peterssen.json"
-  },
-  {
-    "id": "eleanor_fortescue_brickdale",
-    "name": "Элеонора Фортескью-Брикдейл",
-    "path": "records/eleanor_fortescue_brickdale.json"
-  },
-  {
-    "id": "elisa_de_gamond",
-    "name": "Элиза де Гамонд",
-    "path": "records/elisa_de_gamond.json"
-  },
-  {
-    "id": "elizabeth_butler",
-    "name": "Элизабет Батлер",
-    "path": "records/elizabeth_butler.json"
-  },
-  {
-    "id": "elizabeth_jane_gardner",
-    "name": "Элизабет Джейн Гарднер",
-    "path": "records/elizabeth_jane_gardner.json"
-  },
-  {
-    "id": "elisabeth_jerichau_baumann",
-    "name": "Элизабет Йерихау-Бауман",
-    "path": "records/elisabeth_jerichau_baumann.json"
-  },
-  {
-    "id": "elisabeth_louise_vigee_le_brun",
-    "name": "Элизабет Луиза Виже-Лебрен",
-    "path": "records/elisabeth_louise_vigee_le_brun.json"
-  },
-  {
-    "id": "elizabeth_nourse",
-    "name": "Элизабет Нурс",
-    "path": "records/elizabeth_nourse.json"
-  },
-  {
-    "id": "elizabeth_forbes",
-    "name": "Элизабет Форбс",
-    "path": "records/elizabeth_forbes.json"
   }
 ]

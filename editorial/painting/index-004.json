@@ -1,5 +1,25 @@
 [
   {
+    "id": "christian_krohg",
+    "name": "Кристиан Крог",
+    "path": "records/christian_krohg.json"
+  },
+  {
+    "id": "christian_skredsvig",
+    "name": "Кристиан Скредсвиг",
+    "path": "records/christian_skredsvig.json"
+  },
+  {
+    "id": "kristian_zahrtmann",
+    "name": "Кристиан Цартман",
+    "path": "records/kristian_zahrtmann.json"
+  },
+  {
+    "id": "christine_lovmand",
+    "name": "Кристине Лёвманн",
+    "path": "records/christine_lovmand.json"
+  },
+  {
     "id": "christine_swane",
     "name": "Кристине Сване",
     "path": "records/christine_swane.json"
@@ -478,25 +498,5 @@
     "id": "mattia_preti",
     "name": "Маттиа Прети",
     "path": "records/mattia_preti.json"
-  },
-  {
-    "id": "matthias_stom",
-    "name": "Маттиас Стом",
-    "path": "records/matthias_stom.json"
-  },
-  {
-    "id": "matsumura_goshun",
-    "name": "Мацумура Госюн",
-    "path": "records/matsumura_goshun.json"
-  },
-  {
-    "id": "mabel_hill",
-    "name": "Мейбл Хилл",
-    "path": "records/mabel_hill.json"
-  },
-  {
-    "id": "meindert_hobbema",
-    "name": "Мейндерт Хоббема",
-    "path": "records/meindert_hobbema.json"
   }
 ]

@@ -1,8 +1,43 @@
 [
   {
+    "id": "piero_della_francesca",
+    "name": "Пьеро делла Франческа",
+    "path": "records/piero_della_francesca.json"
+  },
+  {
+    "id": "piero_del_pollaiuolo",
+    "name": "Пьеро дель Поллайоло",
+    "path": "records/piero_del_pollaiuolo.json"
+  },
+  {
+    "id": "piero_di_cosimo",
+    "name": "Пьеро ди Козимо",
+    "path": "records/piero_di_cosimo.json"
+  },
+  {
+    "id": "pietro_da_cortona",
+    "name": "Пьетро да Кортона",
+    "path": "records/pietro_da_cortona.json"
+  },
+  {
+    "id": "pietro_longhi",
+    "name": "Пьетро Лонги",
+    "path": "records/pietro_longhi.json"
+  },
+  {
+    "id": "pietro_perugino",
+    "name": "Пьетро Перуджино",
+    "path": "records/pietro_perugino.json"
+  },
+  {
     "id": "pietro_rotari",
     "name": "Пьетро Ротари",
     "path": "records/pietro_rotari.json"
+  },
+  {
+    "id": "petras_kalpokas",
+    "name": "Пятрас Калпокас",
+    "path": "records/petras_kalpokas.json"
   },
   {
     "id": "raphael",
@@ -78,6 +113,11 @@
     "id": "lichtenstein",
     "name": "Рой Лихтенштейн",
     "path": "records/lichtenstein.json"
+  },
+  {
+    "id": "romans_suta",
+    "name": "Роман Сута",
+    "path": "records/romans_suta.json"
   },
   {
     "id": "rhona_haszard",
@@ -458,45 +498,5 @@
     "id": "florence_helena_mcgillivray",
     "name": "Флоренс Хелена Макгилливрей",
     "path": "records/florence_helena_mcgillivray.json"
-  },
-  {
-    "id": "floris_van_dijck",
-    "name": "Флорис ван Дейк",
-    "path": "records/floris_van_dijck.json"
-  },
-  {
-    "id": "floris_van_schooten",
-    "name": "Флорис ван Схотен",
-    "path": "records/floris_van_schooten.json"
-  },
-  {
-    "id": "fra_angelico",
-    "name": "Фра Анджелико",
-    "path": "records/fra_angelico.json"
-  },
-  {
-    "id": "fra_bartolomeo",
-    "name": "Фра Бартоломео",
-    "path": "records/fra_bartolomeo.json"
-  },
-  {
-    "id": "fra_filippo_lippi",
-    "name": "Фра Филиппо Липпи",
-    "path": "records/fra_filippo_lippi.json"
-  },
-  {
-    "id": "frans_van_cuyck_de_myerhop",
-    "name": "Франс ван Кёйк де Мейерхоп",
-    "path": "records/frans_van_cuyck_de_myerhop.json"
-  },
-  {
-    "id": "frans_van_mieris_the_elder",
-    "name": "Франс ван Мирис Старший",
-    "path": "records/frans_van_mieris_the_elder.json"
-  },
-  {
-    "id": "hals",
-    "name": "Франс Халс",
-    "path": "records/hals.json"
   }
 ]

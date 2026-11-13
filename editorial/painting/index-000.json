@@ -385,6 +385,11 @@
     "path": "records/ans_van_den_berg.json"
   },
   {
+    "id": "antanas_zmuidzinavicius",
+    "name": "Антанас Жмуйдзинавичюс",
+    "path": "records/antanas_zmuidzinavicius.json"
+  },
+  {
     "id": "anton_domenico_gabbiani",
     "name": "Антон Доменико Габбиани",
     "path": "records/anton_domenico_gabbiani.json"
@@ -493,10 +498,5 @@
     "id": "bagta",
     "name": "Багта",
     "path": "records/bagta.json"
-  },
-  {
-    "id": "bada_shanren",
-    "name": "Бада Шаньжэнь",
-    "path": "records/bada_shanren.json"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "id": "bada_shanren",
+    "name": "Бада Шаньжэнь",
+    "path": "records/bada_shanren.json"
+  },
+  {
     "id": "baldassarre_franceschini",
     "name": "Бальдассарре Франческини",
     "path": "records/baldassarre_franceschini.json"
@@ -390,6 +395,11 @@
     "path": "records/guido_reni.json"
   },
   {
+    "id": "gederts_eliass",
+    "name": "Гедертс Элиас",
+    "path": "records/gederts_eliass.json"
+  },
+  {
     "id": "henriette_geertruida_knip",
     "name": "Генриетта Гертрёйда Книп",
     "path": "records/henriette_geertruida_knip.json"
@@ -488,15 +498,5 @@
     "id": "gunnar_berndtson",
     "name": "Гуннар Берндтсон",
     "path": "records/gunnar_berndtson.json"
-  },
-  {
-    "id": "gustav_wentzel",
-    "name": "Густав Вентцель",
-    "path": "records/gustav_wentzel.json"
-  },
-  {
-    "id": "klimt",
-    "name": "Густав Климт",
-    "path": "records/klimt.json"
   }
 ]

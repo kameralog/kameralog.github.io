@@ -1,5 +1,30 @@
 [
   {
+    "id": "matthias_stom",
+    "name": "Маттиас Стом",
+    "path": "records/matthias_stom.json"
+  },
+  {
+    "id": "matsumura_goshun",
+    "name": "Мацумура Госюн",
+    "path": "records/matsumura_goshun.json"
+  },
+  {
+    "id": "mabel_hill",
+    "name": "Мейбл Хилл",
+    "path": "records/mabel_hill.json"
+  },
+  {
+    "id": "meindert_hobbema",
+    "name": "Мейндерт Хоббема",
+    "path": "records/meindert_hobbema.json"
+  },
+  {
+    "id": "mikalojus_konstantinas_ciurlionis",
+    "name": "Микалоюс Константинас Чюрлёнис",
+    "path": "records/mikalojus_konstantinas_ciurlionis.json"
+  },
+  {
     "id": "michelangelo",
     "name": "Микеланджело Буонарроти",
     "path": "records/michelangelo.json"
@@ -128,6 +153,11 @@
     "id": "niju",
     "name": "Ниджу",
     "path": "records/niju.json"
+  },
+  {
+    "id": "niklavs_strunke",
+    "name": "Никлавс Струнке",
+    "path": "records/niklavs_strunke.json"
   },
   {
     "id": "nicolas_de_largilliere",
@@ -468,35 +498,5 @@
     "id": "renoir",
     "name": "Пьер Огюст Ренуар",
     "path": "records/renoir.json"
-  },
-  {
-    "id": "piero_della_francesca",
-    "name": "Пьеро делла Франческа",
-    "path": "records/piero_della_francesca.json"
-  },
-  {
-    "id": "piero_del_pollaiuolo",
-    "name": "Пьеро дель Поллайоло",
-    "path": "records/piero_del_pollaiuolo.json"
-  },
-  {
-    "id": "piero_di_cosimo",
-    "name": "Пьеро ди Козимо",
-    "path": "records/piero_di_cosimo.json"
-  },
-  {
-    "id": "pietro_da_cortona",
-    "name": "Пьетро да Кортона",
-    "path": "records/pietro_da_cortona.json"
-  },
-  {
-    "id": "pietro_longhi",
-    "name": "Пьетро Лонги",
-    "path": "records/pietro_longhi.json"
-  },
-  {
-    "id": "pietro_perugino",
-    "name": "Пьетро Перуджино",
-    "path": "records/pietro_perugino.json"
   }
 ]

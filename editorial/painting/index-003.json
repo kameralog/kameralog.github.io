@@ -1,5 +1,20 @@
 [
   {
+    "id": "jean_baptiste_belin_de_fontenay",
+    "name": "Жан-Батист Белен де Фонтене Старший",
+    "path": "records/jean_baptiste_belin_de_fontenay.json"
+  },
+  {
+    "id": "jean_baptiste_greuze",
+    "name": "Жан-Батист Грёз",
+    "path": "records/jean_baptiste_greuze.json"
+  },
+  {
+    "id": "jean_baptiste_monnoyer",
+    "name": "Жан-Батист Моннуайе",
+    "path": "records/jean_baptiste_monnoyer.json"
+  },
+  {
     "id": "jean_baptiste_pater",
     "name": "Жан-Батист Патер",
     "path": "records/jean_baptiste_pater.json"
@@ -290,6 +305,11 @@
     "path": "records/carl_spitzweg.json"
   },
   {
+    "id": "karlis_padegs",
+    "name": "Карлис Падегс",
+    "path": "records/karlis_padegs.json"
+  },
+  {
     "id": "carlo_dolci",
     "name": "Карло Дольчи",
     "path": "records/carlo_dolci.json"
@@ -478,25 +498,5 @@
     "id": "christen_kobke",
     "name": "Кристен Кёбке",
     "path": "records/christen_kobke.json"
-  },
-  {
-    "id": "christian_krohg",
-    "name": "Кристиан Крог",
-    "path": "records/christian_krohg.json"
-  },
-  {
-    "id": "christian_skredsvig",
-    "name": "Кристиан Скредсвиг",
-    "path": "records/christian_skredsvig.json"
-  },
-  {
-    "id": "kristian_zahrtmann",
-    "name": "Кристиан Цартман",
-    "path": "records/kristian_zahrtmann.json"
-  },
-  {
-    "id": "christine_lovmand",
-    "name": "Кристине Лёвманн",
-    "path": "records/christine_lovmand.json"
   }
 ]

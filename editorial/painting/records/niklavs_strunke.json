@@ -1,0 +1,46 @@
+{
+  "id": "niklavs_strunke",
+  "name": "Никлавс Струнке",
+  "latin": "Niklāvs Strunke",
+  "life": "1894–1966",
+  "tag": "Литва и Латвия · XX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-136.js",
+  "existing": {
+    "bio": [
+      "Латвийский модернист, в 1923–1927 годах живший в Италии. В отличие от многих коллег, ориентировавшихся на Париж, искал новые возможности в итальянской культуре и авангардном театре.",
+      "Этюд к Человеку, входящему в комнату был сделан в Риме в 1924 году. Завершённая композиция 1927 года соединяет фигуру в движении, полупустой интерьер, стол и электрическую лампу.",
+      "Музей связывает произведение с футуристическим стремлением показать движение и с беспокойной атмосферой метафизической живописи. Человек изображён ни полностью внутри, ни полностью снаружи — зрительная неопределённость становится смысловым центром."
+    ],
+    "technique": [
+      "Масло на холсте; 92 × 86 см",
+      "Описание опирается на источники; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный ракурс: Как показан переход через порог?",
+    "caution": "Не подменять римским этюдом 1924 года или интерьером Курильщики 1923 года. Предметная лицензия и права конкретной фотографии не установлены.",
+    "editorialStatus": "RESEARCH_DRAFT_BIO_OBJECT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://artsandculture.google.com/story/dive-into-the-avant-garde-with-the-quot-man-entering-a-room-quot-national-museum-latvia/FAVRW7OnKExBUg?hl=en"
+    },
+    {
+      "title": "Предметные данные",
+      "url": "https://www.europeana.eu/en/item/2063605/LAT_280_007"
+    },
+    {
+      "title": "Музейная выставка об итальянском периоде",
+      "url": "https://lnmm.gov.lv/en/latvian-national-museum-of-art/exhibitions/ciao-niklavs-strunke-in-italy-the-1920s-73"
+    },
+    {
+      "title": "Годы жизни в научном контексте",
+      "url": "https://menufakultetas.vdu.lt/wp-content/uploads/2016/03/At_blokuota-atmintis.pdf"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

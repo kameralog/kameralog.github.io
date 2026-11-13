@@ -1,5 +1,15 @@
 [
   {
+    "id": "gustav_wentzel",
+    "name": "Густав Вентцель",
+    "path": "records/gustav_wentzel.json"
+  },
+  {
+    "id": "klimt",
+    "name": "Густав Климт",
+    "path": "records/klimt.json"
+  },
+  {
     "id": "gustaf_fjaestad",
     "name": "Густав Фьестад",
     "path": "records/gustaf_fjaestad.json"
@@ -440,6 +450,11 @@
     "path": "records/eva_gonzales.json"
   },
   {
+    "id": "jekabs_kazaks",
+    "name": "Екабс Казакс",
+    "path": "records/jekabs_kazaks.json"
+  },
+  {
     "id": "yokoyama_taikan",
     "name": "Ёкояма Тайкан",
     "path": "records/yokoyama_taikan.json"
@@ -483,20 +498,5 @@
     "id": "jean_hey",
     "name": "Жан Эй",
     "path": "records/jean_hey.json"
-  },
-  {
-    "id": "jean_baptiste_belin_de_fontenay",
-    "name": "Жан-Батист Белен де Фонтене Старший",
-    "path": "records/jean_baptiste_belin_de_fontenay.json"
-  },
-  {
-    "id": "jean_baptiste_greuze",
-    "name": "Жан-Батист Грёз",
-    "path": "records/jean_baptiste_greuze.json"
-  },
-  {
-    "id": "jean_baptiste_monnoyer",
-    "name": "Жан-Батист Моннуайе",
-    "path": "records/jean_baptiste_monnoyer.json"
   }
 ]
