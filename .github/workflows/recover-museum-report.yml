@@ -1,0 +1,81 @@
+name: Recover completed museum report
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/recover-museum-report.yml']
+  workflow_dispatch:
+permissions:
+  actions: read
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SOURCE_RUN: '43426697987'
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Read existing run and download its report
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api "repos/$GITHUB_REPOSITORY/actions/runs/$SOURCE_RUN" > "$RUNNER_TEMP/source-run.json"
+          jq -e --arg repo "$GITHUB_REPOSITORY" '.name == "Discover images by museum" and .status == "completed" and .head_repository.full_name == $repo' "$RUNNER_TEMP/source-run.json"
+          number=$(jq -r '.run_number' "$RUNNER_TEMP/source-run.json")
+          gh run download "$SOURCE_RUN" --repo "$GITHUB_REPOSITORY" --name "museum-image-discovery-$number" --dir "$RUNNER_TEMP/recovered-download"
+      - name: Validate report files
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import json, os, pathlib
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])
+          source=root/'recovered-download'
+          target=root/'recovered-safe'
+          target.mkdir()
+          count=0
+          for name in ['summary.json','queue.json','museums.json','results.json','report.json']:
+              p=source/name
+              if not p.exists():
+                  continue
+              if p.is_symlink() or not p.is_file() or p.stat().st_size>25000000:
+                  raise ValueError('Invalid report '+name)
+              data=json.loads(p.read_text(encoding='utf-8'))
+              (target/name).write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
+              count+=1
+          if count==0:
+              raise ValueError('No report data found')
+          PY
+      - name: Save on reports branch only
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code --heads origin refs/heads/museum-reports; then
+            git fetch origin refs/heads/museum-reports:refs/remotes/origin/museum-reports
+            git checkout -B museum-reports origin/museum-reports
+          else
+            git checkout --orphan museum-reports
+            git rm -rf --ignore-unmatch .
+          fi
+          destination="reports/museums/$SOURCE_RUN-recovered"
+          mkdir -p "$destination"
+          cp "$RUNNER_TEMP/recovered-safe/"*.json "$destination/"
+          DESTINATION="$destination" python3 <<'PY'
+          import json, os, pathlib
+          run=json.loads((pathlib.Path(os.environ['RUNNER_TEMP'])/'source-run.json').read_text())
+          metadata={'RUN_ID':str(run['id']),'RUN_ATTEMPT':str(run['run_attempt']),'RUN_URL':run['html_url'],'SOURCE_SHA':run['head_sha'],'CONCLUSION':run['conclusion'],'DESTINATION':os.environ['DESTINATION']}
+          pathlib.Path('reports/museums/latest.json').write_text(json.dumps(metadata,indent=2),encoding='utf-8')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- "$destination" reports/museums/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Recover museum report $SOURCE_RUN"
+            git push origin HEAD:refs/heads/museum-reports
+          fi
