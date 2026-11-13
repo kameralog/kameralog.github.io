@@ -1,0 +1,59 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "santi_di_tito",
+  "artist": "Санти ди Тито",
+  "work": "Q120379091",
+  "title": "Q120379091",
+  "titles": {
+    "ru": "",
+    "en": "",
+    "it": ""
+  },
+  "status": "needs_identity_review",
+  "identityIssues": [
+    "Inventory missing or changed"
+  ],
+  "editorialNotes": [
+    "Human-readable title missing",
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": false,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Ritratto di Giuliano de' Medici.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ritratto_di_Giuliano_de%27_Medici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Ritratto_di_Giuliano_de%27_Medici.jpg",
+    "width": 2418,
+    "height": 2936,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Santi di Tito",
+      "credit": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157114",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

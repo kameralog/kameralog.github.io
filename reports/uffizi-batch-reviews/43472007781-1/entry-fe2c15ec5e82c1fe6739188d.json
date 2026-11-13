@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "pietro_perugino",
+  "artist": "Пьетро Перуджино",
+  "work": "Q3292105",
+  "title": "Mary Magdalene",
+  "titles": {
+    "ru": "",
+    "en": "Mary Magdalene",
+    "it": "Maria Maddalena"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Pietro Perugino - Maria Magdalena.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pietro_Perugino_-_Maria_Magdalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_-_Maria_Magdalena.jpg",
+    "width": 2536,
+    "height": 3471,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Pietro Perugino",
+      "credit": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "42"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

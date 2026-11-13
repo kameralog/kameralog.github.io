@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "alessandro_allori",
+  "artist": "Алессандро Аллори",
+  "work": "Q124518529",
+  "title": "St Peter Walking on the Water",
+  "titles": {
+    "ru": "",
+    "en": "St Peter Walking on the Water",
+    "it": "San Pietro cammina sull'acqua"
+  },
+  "status": "needs_identity_review",
+  "identityIssues": [
+    "Inventory missing or changed"
+  ],
+  "editorialNotes": [
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": false,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Alessandro Allori - St Peter Walking on the Water - WGA00184.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alessandro_Allori_-_St_Peter_Walking_on_the_Water_-_WGA00184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_St_Peter_Walking_on_the_Water_-_WGA00184.jpg",
+    "width": 808,
+    "height": 941,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Alessandro Allori",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/allori/alessand/st_peter\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

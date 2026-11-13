@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "claude_lorrain",
+  "artist": "Клод Лоррен",
+  "work": "Q51078137",
+  "title": "Port Scene with the Villa Medici",
+  "titles": {
+    "ru": "",
+    "en": "Port Scene with the Villa Medici",
+    "it": "Porto con Villa Medici"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Lorrain.seaport.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lorrain.seaport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lorrain.seaport.jpg",
+    "width": 1089,
+    "height": 818,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Claude Lorrain",
+      "credit": "1. ibiblio.org 2. Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/claude/1/02medici\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "1096"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

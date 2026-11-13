@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "tintoretto",
+  "artist": "Тинторетто",
+  "work": "Q124246612",
+  "title": "Portrait of a man in a fur coat",
+  "titles": {
+    "ru": "",
+    "en": "Portrait of a man in a fur coat",
+    "it": "Ritratto di gentiluomo con pelliccia"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Portrait of an anonymous man.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Portrait_of_an_anonymous_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_anonymous_man.jpg",
+    "width": 735,
+    "height": 902,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Jacopo Tintoretto",
+      "credit": "pl.pinterest.com",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "33"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

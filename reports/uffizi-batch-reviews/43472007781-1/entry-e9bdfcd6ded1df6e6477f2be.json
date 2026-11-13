@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "piero_della_francesca",
+  "artist": "Пьеро делла Франческа",
+  "work": "Q28798129",
+  "title": "Portrait of Battista Sforza",
+  "titles": {
+    "ru": "",
+    "en": "Portrait of Battista Sforza",
+    "it": "Ritratto di Battista Sforza"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Battista sforza.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Battista_sforza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Battista_sforza.jpg",
+    "width": 2407,
+    "height": 3390,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Piero della Francesca",
+      "credit": "(per Virtual Uffizi http://www.virtualuffizi.com/uffizi1/artista.asp?Autore=Piero+della+Francesca",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "3342"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "eglon_hendrik_van_der_neer",
+  "artist": "Эглон Хендрик ван дер Нер",
+  "work": "Q52155602",
+  "title": "Автопортрет",
+  "titles": {
+    "ru": "Автопортрет",
+    "en": "Self-portrait",
+    "it": "Autoritratto"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [],
+  "qualityNotes": [
+    "Short side below 600 pixels; quality warning, not identity rejection"
+  ],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Neer, Eglon van der - Self-portrait - 1696.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Neer%2C_Eglon_van_der_-_Self-portrait_-_1696.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Neer,_Eglon_van_der_-_Self-portrait_-_1696.jpg",
+    "width": 295,
+    "height": 384,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Eglon van der Neer",
+      "credit": "http://storage.canalblog.com/11/02/119589/34355007.jpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "1872"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,56 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "lorenzo_monaco",
+  "artist": "Лоренцо Монако",
+  "work": "Q3605536",
+  "title": "Поклонение волхвов",
+  "titles": {
+    "ru": "Поклонение волхвов",
+    "en": "Adoration of the Magi",
+    "it": "Adorazione dei Magi"
+  },
+  "status": "needs_identity_review",
+  "identityIssues": [
+    "Inventory missing or changed"
+  ],
+  "editorialNotes": [],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": false,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Lorenzo Monaco Adoratione dei Magi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lorenzo_Monaco_Adoratione_dei_Magi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Monaco_Adoratione_dei_Magi.jpg",
+    "width": 3410,
+    "height": 3033,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Lorenzo Monaco",
+      "credit": "Own work by Campocorvino",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

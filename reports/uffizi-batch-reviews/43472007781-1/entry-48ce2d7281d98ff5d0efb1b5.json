@@ -1,0 +1,56 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "sebastiano_del_piombo",
+  "artist": "Себастьяно дель Пьомбо",
+  "work": "Q47530532",
+  "title": "Мучения Святой Агаты",
+  "titles": {
+    "ru": "Мучения Святой Агаты",
+    "en": "Martyrdom of Saint Agatha",
+    "it": "Martirio di Sant'Agata"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Martirio de Santa Águeda, por Sebastiano del Piombo.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Martirio_de_Santa_%C3%81gueda%2C_por_Sebastiano_del_Piombo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Martirio_de_Santa_%C3%81gueda,_por_Sebastiano_del_Piombo.jpg",
+    "width": 1867,
+    "height": 1416,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Sebastiano del Piombo",
+      "credit": "Uffizi",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "179"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

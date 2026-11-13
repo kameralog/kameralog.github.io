@@ -1,0 +1,61 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "claude_lorrain",
+  "artist": "Клод Лоррен",
+  "work": "Q114241452",
+  "title": "Q114241452",
+  "titles": {
+    "ru": "",
+    "en": "",
+    "it": ""
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [
+    "Human-readable title missing",
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [
+    "Short side below 600 pixels; quality warning, not identity rejection"
+  ],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Lorrain uffizi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lorrain_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lorrain_uffizi.jpg",
+    "width": 500,
+    "height": 367,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Claude Lorrain",
+      "credit": "https://www.topofart.com/images/artists/Claude_Lorrain/paintings/lorrain024.jpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "1168"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

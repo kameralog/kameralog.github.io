@@ -1,0 +1,56 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "therese_schwartze",
+  "artist": "Тереза Шварце",
+  "work": "Q19361563",
+  "title": "Автопортрет",
+  "titles": {
+    "ru": "Автопортрет",
+    "en": "Self-portrait",
+    "it": "Autoritratto"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Therese Schwartze Self portrait.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Therese_Schwartze_Self_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Therese_Schwartze_Self_portrait.jpg",
+    "width": 1227,
+    "height": 1816,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Thérèse Schwartze",
+      "credit": "https://www.facebook.com/female.artists.in.history/photos/a.1377694619182090/3104960909788777/",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "3122"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

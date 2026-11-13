@@ -1,0 +1,36 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "expected": 50,
+  "processed": 50,
+  "counts": {
+    "metadata_consistent_pending_museum_and_visual": 41,
+    "needs_identity_review": 9,
+    "incomplete": 0
+  },
+  "reusedDecodedImages": 49,
+  "downloadedImages": 1,
+  "editorialNotesCount": 43,
+  "qualityNotesCount": 6,
+  "missingMuseumLinks": 50,
+  "complete": true,
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "catalogueSnapshot": "43c6cdd34436e31a3a3426150985827794a63f01",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "parts": [
+    {
+      "file": "results-001.json",
+      "count": 24
+    },
+    {
+      "file": "results-002.json",
+      "count": 23
+    },
+    {
+      "file": "results-003.json",
+      "count": 3
+    }
+  ],
+  "note": "Corrected metadata assessment. Editorial and quality notes are separate. Museum links, even when recorded, have not been independently checked; no visual approval or installation. Reused rights and decoding evidence retains the previous run scope, not a new download claim."
+}

@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "tintoretto",
+  "artist": "Тинторетто",
+  "work": "Q114647547",
+  "title": "Leda and the Swan",
+  "titles": {
+    "ru": "",
+    "en": "Leda and the Swan",
+    "it": "Leda e il cigno"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Tintoretto - Leda e il cigno, 1187590.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tintoretto_-_Leda_e_il_cigno%2C_1187590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Leda_e_il_cigno,_1187590.jpg",
+    "width": 1200,
+    "height": 1224,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Jacopo Tintoretto",
+      "credit": "catalogo.uffizi.it",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "9946"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

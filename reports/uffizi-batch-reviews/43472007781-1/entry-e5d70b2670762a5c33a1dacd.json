@@ -1,0 +1,56 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "lorenzo_monaco",
+  "artist": "Лоренцо Монако",
+  "work": "Q3797775",
+  "title": "Коронование Богоматери",
+  "titles": {
+    "ru": "Коронование Богоматери",
+    "en": "Coronation of the Virgin",
+    "it": "Incoronazione della Vergine"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Lorenzo Monaco - Incoronazione della Vergine - Google Art Project.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lorenzo_Monaco_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Monaco_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg",
+    "width": 2893,
+    "height": 3000,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Lorenzo Monaco",
+      "credit": "Google Arts & Culture — 4wGwIhQqTqCArw",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "00281142"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

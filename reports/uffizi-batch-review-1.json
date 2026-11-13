@@ -1,11 +1,12 @@
 {
-  "destination": "reports/uffizi-batch-reviews/43464923478-1",
+  "destination": "reports/uffizi-batch-reviews/43472007781-1",
   "batch": 1,
   "processed": 50,
   "complete": true,
   "counts": {
-    "automatic_checks_passed_pending_visual": 0,
-    "needs_review": 49,
-    "incomplete": 1
-  }
+    "metadata_consistent_pending_museum_and_visual": 41,
+    "needs_identity_review": 9,
+    "incomplete": 0
+  },
+  "assessmentVersion": 2
 }

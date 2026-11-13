@@ -1,0 +1,56 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "michelangelo",
+  "artist": "Микеланджело Буонарроти",
+  "work": "Q1473546",
+  "title": "Мадонна Дони",
+  "titles": {
+    "ru": "Мадонна Дони",
+    "en": "Doni Tondo",
+    "it": "Tondo Doni"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Tondo Doni 2015.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tondo_Doni_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Tondo_Doni_2015.png",
+    "width": 2318,
+    "height": 2387,
+    "format": "png",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Michelangelo",
+      "credit": "Own work Livioandronico2013 Taken on 6 December 2015",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "00287181"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

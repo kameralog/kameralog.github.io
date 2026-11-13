@@ -1,0 +1,58 @@
+{
+  "assessmentVersion": 2,
+  "batch": 1,
+  "artistId": "willem_van_de_velde_the_elder",
+  "artist": "Виллем ван де Велде Старший",
+  "work": "Q50801937",
+  "title": "Dutch Battleships",
+  "titles": {
+    "ru": "",
+    "en": "Dutch Battleships",
+    "it": "La flotta olandese in navigazione"
+  },
+  "status": "metadata_consistent_pending_museum_and_visual",
+  "identityIssues": [],
+  "editorialNotes": [
+    "Russian title needs editorial preparation"
+  ],
+  "qualityNotes": [],
+  "technicalErrors": [],
+  "checks": {
+    "painting": true,
+    "currentCollection": true,
+    "singleUnqualifiedCreator": true,
+    "creatorNameMatches": true,
+    "fileIsRecordedImage": true,
+    "inventoryConsistent": true,
+    "officialObjectLinkRecorded": false,
+    "imageDecoded": true,
+    "openRights": true
+  },
+  "objectLinks": [],
+  "museumVerification": "not_performed",
+  "image": {
+    "file": "Dutch battleships.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dutch_battleships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Dutch_battleships.jpg",
+    "width": 8000,
+    "height": 4400,
+    "format": "jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Willem van de Velde the Elder",
+      "credit": "http://www.artres.com/c/htm/Home.aspx",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    }
+  },
+  "imageEvidence": "reused_from_saved_decode_and_rights_check",
+  "previousEvidence": "audit-source/reports/uffizi-batch-reviews/43464923478-1",
+  "inventory": [
+    "Oggetti d'Arte Pitti: 328"
+  ],
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}
