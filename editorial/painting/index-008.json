@@ -1,5 +1,55 @@
 [
   {
+    "id": "pontormo",
+    "name": "Якопо Понтормо",
+    "path": "records/pontormo.json"
+  },
+  {
+    "id": "jan_asselijn",
+    "name": "Ян Асселейн",
+    "path": "records/jan_asselijn.json"
+  },
+  {
+    "id": "jan_both",
+    "name": "Ян Бот",
+    "path": "records/jan_both.json"
+  },
+  {
+    "id": "jan_van_goyen",
+    "name": "Ян ван Гойен",
+    "path": "records/jan_van_goyen.json"
+  },
+  {
+    "id": "jan_van_de_cappelle",
+    "name": "Ян ван де Каппелле",
+    "path": "records/jan_van_de_cappelle.json"
+  },
+  {
+    "id": "jan_van_den_hecke_the_elder",
+    "name": "Ян ван ден Хекке Старший",
+    "path": "records/jan_van_den_hecke_the_elder.json"
+  },
+  {
+    "id": "jan_van_der_heyden",
+    "name": "Ян ван дер Хейден",
+    "path": "records/jan_van_der_heyden.json"
+  },
+  {
+    "id": "jan_van_ravesteyn",
+    "name": "Ян ван Равестейн",
+    "path": "records/jan_van_ravesteyn.json"
+  },
+  {
+    "id": "jan_van_scorel",
+    "name": "Ян ван Скорел",
+    "path": "records/jan_van_scorel.json"
+  },
+  {
+    "id": "jan_van_eyck",
+    "name": "Ян ван Эйк",
+    "path": "records/jan_van_eyck.json"
+  },
+  {
     "id": "jan_wijnants",
     "name": "Ян Вейнантс",
     "path": "records/jan_wijnants.json"

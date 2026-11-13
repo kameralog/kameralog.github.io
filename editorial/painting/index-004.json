@@ -1,5 +1,30 @@
 [
   {
+    "id": "louise_abbema",
+    "name": "Луиза Аббема",
+    "path": "records/louise_abbema.json"
+  },
+  {
+    "id": "louise_de_hem",
+    "name": "Луиза де Хем",
+    "path": "records/louise_de_hem.json"
+  },
+  {
+    "id": "louise_jopling",
+    "name": "Луиза Джоплинг",
+    "path": "records/louise_jopling.json"
+  },
+  {
+    "id": "louise_catherine_breslau",
+    "name": "Луиза Катрин Бреслау",
+    "path": "records/louise_catherine_breslau.json"
+  },
+  {
+    "id": "louise_moillon",
+    "name": "Луиза Муайон",
+    "path": "records/louise_moillon.json"
+  },
+  {
     "id": "louise_rayner",
     "name": "Луиза Рейнер",
     "path": "records/louise_rayner.json"
@@ -38,6 +63,11 @@
     "id": "lucas_cranach_the_elder",
     "name": "Лукас Кранах Старший",
     "path": "records/lucas_cranach_the_elder.json"
+  },
+  {
+    "id": "ludvig_karsten",
+    "name": "Людвиг Карстен",
+    "path": "records/ludvig_karsten.json"
   },
   {
     "id": "ludovico_carracci",
@@ -468,35 +498,5 @@
     "id": "niju",
     "name": "Ниджу",
     "path": "records/niju.json"
-  },
-  {
-    "id": "nicolas_de_largilliere",
-    "name": "Никола де Ларжильер",
-    "path": "records/nicolas_de_largilliere.json"
-  },
-  {
-    "id": "nicolas_lancret",
-    "name": "Никола Ланкре",
-    "path": "records/nicolas_lancret.json"
-  },
-  {
-    "id": "nicolas_poussin",
-    "name": "Никола Пуссен",
-    "path": "records/nicolas_poussin.json"
-  },
-  {
-    "id": "nicolas_regnier",
-    "name": "Никола Ренье",
-    "path": "records/nicolas_regnier.json"
-  },
-  {
-    "id": "nicolas_tournier",
-    "name": "Никола Турнье",
-    "path": "records/nicolas_tournier.json"
-  },
-  {
-    "id": "nikolai_astrup",
-    "name": "Николай Аструп",
-    "path": "records/nikolai_astrup.json"
   }
 ]

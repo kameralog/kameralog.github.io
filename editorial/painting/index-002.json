@@ -1,5 +1,20 @@
 [
   {
+    "id": "gentile_bellini",
+    "name": "Джентиле Беллини",
+    "path": "records/gentile_bellini.json"
+  },
+  {
+    "id": "gentile_da_fabriano",
+    "name": "Джентиле да Фабриано",
+    "path": "records/gentile_da_fabriano.json"
+  },
+  {
+    "id": "jessica_hayllar",
+    "name": "Джессика Хейллар",
+    "path": "records/jessica_hayllar.json"
+  },
+  {
     "id": "girolamo_romanino",
     "name": "Джироламо Романино",
     "path": "records/girolamo_romanino.json"
@@ -483,20 +498,5 @@
     "id": "shishkin",
     "name": "Иван Шишкин",
     "path": "records/shishkin.json"
-  },
-  {
-    "id": "bosch",
-    "name": "Иероним Босх",
-    "path": "records/bosch.json"
-  },
-  {
-    "id": "ike_taiga",
-    "name": "Икэ Тайга",
-    "path": "records/ike_taiga.json"
-  },
-  {
-    "id": "repin",
-    "name": "Илья Репин",
-    "path": "records/repin.json"
   }
 ]

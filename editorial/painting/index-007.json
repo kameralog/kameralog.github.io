@@ -1,5 +1,50 @@
 [
   {
+    "id": "helen_mcnicoll",
+    "name": "Хелен Макниколл",
+    "path": "records/helen_mcnicoll.json"
+  },
+  {
+    "id": "helena_westermarck",
+    "name": "Хелена Вестермарк",
+    "path": "records/helena_westermarck.json"
+  },
+  {
+    "id": "helene_schjerfbeck",
+    "name": "Хелена Шерфбек",
+    "path": "records/helene_schjerfbeck.json"
+  },
+  {
+    "id": "hendrick_avercamp",
+    "name": "Хендрик Аверкамп",
+    "path": "records/hendrick_avercamp.json"
+  },
+  {
+    "id": "hendrick_van_steenwyck_the_younger",
+    "name": "Хендрик ван Стенвейк Младший",
+    "path": "records/hendrick_van_steenwyck_the_younger.json"
+  },
+  {
+    "id": "hendrick_van_steenwyck_the_elder",
+    "name": "Хендрик ван Стенвейк Старший",
+    "path": "records/hendrick_van_steenwyck_the_elder.json"
+  },
+  {
+    "id": "hendrick_goltzius",
+    "name": "Хендрик Гольциус",
+    "path": "records/hendrick_goltzius.json"
+  },
+  {
+    "id": "hendrick_dubbels",
+    "name": "Хендрик Дюббелс",
+    "path": "records/hendrick_dubbels.json"
+  },
+  {
+    "id": "hendrick_martensz_sorgh",
+    "name": "Хендрик Мартенс Сорг",
+    "path": "records/hendrick_martensz_sorgh.json"
+  },
+  {
     "id": "hendrick_ter_brugghen",
     "name": "Хендрик тер Брюгген",
     "path": "records/hendrick_ter_brugghen.json"
@@ -203,6 +248,11 @@
     "id": "eugene_delacroix",
     "name": "Эжен Делакруа",
     "path": "records/eugene_delacroix.json"
+  },
+  {
+    "id": "eilif_peterssen",
+    "name": "Эйлиф Петерссен",
+    "path": "records/eilif_peterssen.json"
   },
   {
     "id": "eleanor_fortescue_brickdale",
@@ -448,55 +498,5 @@
     "id": "jacopo_ligozzi",
     "name": "Якопо Лигоцци",
     "path": "records/jacopo_ligozzi.json"
-  },
-  {
-    "id": "pontormo",
-    "name": "Якопо Понтормо",
-    "path": "records/pontormo.json"
-  },
-  {
-    "id": "jan_asselijn",
-    "name": "Ян Асселейн",
-    "path": "records/jan_asselijn.json"
-  },
-  {
-    "id": "jan_both",
-    "name": "Ян Бот",
-    "path": "records/jan_both.json"
-  },
-  {
-    "id": "jan_van_goyen",
-    "name": "Ян ван Гойен",
-    "path": "records/jan_van_goyen.json"
-  },
-  {
-    "id": "jan_van_de_cappelle",
-    "name": "Ян ван де Каппелле",
-    "path": "records/jan_van_de_cappelle.json"
-  },
-  {
-    "id": "jan_van_den_hecke_the_elder",
-    "name": "Ян ван ден Хекке Старший",
-    "path": "records/jan_van_den_hecke_the_elder.json"
-  },
-  {
-    "id": "jan_van_der_heyden",
-    "name": "Ян ван дер Хейден",
-    "path": "records/jan_van_der_heyden.json"
-  },
-  {
-    "id": "jan_van_ravesteyn",
-    "name": "Ян ван Равестейн",
-    "path": "records/jan_van_ravesteyn.json"
-  },
-  {
-    "id": "jan_van_scorel",
-    "name": "Ян ван Скорел",
-    "path": "records/jan_van_scorel.json"
-  },
-  {
-    "id": "jan_van_eyck",
-    "name": "Ян ван Эйк",
-    "path": "records/jan_van_eyck.json"
   }
 ]

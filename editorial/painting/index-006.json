@@ -1,5 +1,40 @@
 [
   {
+    "id": "seraphine_louis",
+    "name": "Серафина Луи",
+    "path": "records/seraphine_louis.json"
+  },
+  {
+    "id": "cecilia_beaux",
+    "name": "Сесилия Бо",
+    "path": "records/cecilia_beaux.json"
+  },
+  {
+    "id": "cecile_douard",
+    "name": "Сесиль Дуар",
+    "path": "records/cecile_douard.json"
+  },
+  {
+    "id": "simon_vouet",
+    "name": "Симон Вуэ",
+    "path": "records/simon_vouet.json"
+  },
+  {
+    "id": "simon_de_vlieger",
+    "name": "Симон де Влигер",
+    "path": "records/simon_de_vlieger.json"
+  },
+  {
+    "id": "simone_martini",
+    "name": "Симоне Мартини",
+    "path": "records/simone_martini.json"
+  },
+  {
+    "id": "simone_pignoni",
+    "name": "Симоне Пиньони",
+    "path": "records/simone_pignoni.json"
+  },
+  {
     "id": "sinibaldo_scorza",
     "name": "Синибальдо Скорца",
     "path": "records/sinibaldo_scorza.json"
@@ -78,6 +113,11 @@
     "id": "theo_van_doesburg",
     "name": "Тео ван Дусбург",
     "path": "records/theo_van_doesburg.json"
+  },
+  {
+    "id": "theodor_kittelsen",
+    "name": "Теодор Киттельсен",
+    "path": "records/theodor_kittelsen.json"
   },
   {
     "id": "tepantitla_tlalocan",
@@ -410,6 +450,11 @@
     "path": "records/fujiwara_takanobu.json"
   },
   {
+    "id": "halfdan_egedius",
+    "name": "Хальфдан Эгедиус",
+    "path": "records/halfdan_egedius.json"
+  },
+  {
     "id": "hanna_pauli",
     "name": "Ханна Паули",
     "path": "records/hanna_pauli.json"
@@ -453,50 +498,5 @@
     "id": "hasegawa_tohaku",
     "name": "Хасэгава Тохаку",
     "path": "records/hasegawa_tohaku.json"
-  },
-  {
-    "id": "helen_mcnicoll",
-    "name": "Хелен Макниколл",
-    "path": "records/helen_mcnicoll.json"
-  },
-  {
-    "id": "helena_westermarck",
-    "name": "Хелена Вестермарк",
-    "path": "records/helena_westermarck.json"
-  },
-  {
-    "id": "helene_schjerfbeck",
-    "name": "Хелена Шерфбек",
-    "path": "records/helene_schjerfbeck.json"
-  },
-  {
-    "id": "hendrick_avercamp",
-    "name": "Хендрик Аверкамп",
-    "path": "records/hendrick_avercamp.json"
-  },
-  {
-    "id": "hendrick_van_steenwyck_the_younger",
-    "name": "Хендрик ван Стенвейк Младший",
-    "path": "records/hendrick_van_steenwyck_the_younger.json"
-  },
-  {
-    "id": "hendrick_van_steenwyck_the_elder",
-    "name": "Хендрик ван Стенвейк Старший",
-    "path": "records/hendrick_van_steenwyck_the_elder.json"
-  },
-  {
-    "id": "hendrick_goltzius",
-    "name": "Хендрик Гольциус",
-    "path": "records/hendrick_goltzius.json"
-  },
-  {
-    "id": "hendrick_dubbels",
-    "name": "Хендрик Дюббелс",
-    "path": "records/hendrick_dubbels.json"
-  },
-  {
-    "id": "hendrick_martensz_sorgh",
-    "name": "Хендрик Мартенс Сорг",
-    "path": "records/hendrick_martensz_sorgh.json"
   }
 ]

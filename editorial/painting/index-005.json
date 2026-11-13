@@ -1,5 +1,35 @@
 [
   {
+    "id": "nicolas_de_largilliere",
+    "name": "Никола де Ларжильер",
+    "path": "records/nicolas_de_largilliere.json"
+  },
+  {
+    "id": "nicolas_lancret",
+    "name": "Никола Ланкре",
+    "path": "records/nicolas_lancret.json"
+  },
+  {
+    "id": "nicolas_poussin",
+    "name": "Никола Пуссен",
+    "path": "records/nicolas_poussin.json"
+  },
+  {
+    "id": "nicolas_regnier",
+    "name": "Никола Ренье",
+    "path": "records/nicolas_regnier.json"
+  },
+  {
+    "id": "nicolas_tournier",
+    "name": "Никола Турнье",
+    "path": "records/nicolas_tournier.json"
+  },
+  {
+    "id": "nikolai_astrup",
+    "name": "Николай Аструп",
+    "path": "records/nikolai_astrup.json"
+  },
+  {
     "id": "nicolaes_berchem",
     "name": "Николас Берхем",
     "path": "records/nicolaes_berchem.json"
@@ -68,6 +98,11 @@
     "id": "orazio_gentileschi",
     "name": "Орацио Джентилески",
     "path": "records/orazio_gentileschi.json"
+  },
+  {
+    "id": "oscar_wergeland",
+    "name": "Оскар Вергеланн",
+    "path": "records/oscar_wergeland.json"
   },
   {
     "id": "kokoschka",
@@ -463,40 +498,5 @@
     "id": "sebastiano_ricci",
     "name": "Себастьяно Риччи",
     "path": "records/sebastiano_ricci.json"
-  },
-  {
-    "id": "seraphine_louis",
-    "name": "Серафина Луи",
-    "path": "records/seraphine_louis.json"
-  },
-  {
-    "id": "cecilia_beaux",
-    "name": "Сесилия Бо",
-    "path": "records/cecilia_beaux.json"
-  },
-  {
-    "id": "cecile_douard",
-    "name": "Сесиль Дуар",
-    "path": "records/cecile_douard.json"
-  },
-  {
-    "id": "simon_vouet",
-    "name": "Симон Вуэ",
-    "path": "records/simon_vouet.json"
-  },
-  {
-    "id": "simon_de_vlieger",
-    "name": "Симон де Влигер",
-    "path": "records/simon_de_vlieger.json"
-  },
-  {
-    "id": "simone_martini",
-    "name": "Симоне Мартини",
-    "path": "records/simone_martini.json"
-  },
-  {
-    "id": "simone_pignoni",
-    "name": "Симоне Пиньони",
-    "path": "records/simone_pignoni.json"
   }
 ]

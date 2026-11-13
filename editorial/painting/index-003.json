@@ -1,5 +1,20 @@
 [
   {
+    "id": "bosch",
+    "name": "Иероним Босх",
+    "path": "records/bosch.json"
+  },
+  {
+    "id": "ike_taiga",
+    "name": "Икэ Тайга",
+    "path": "records/ike_taiga.json"
+  },
+  {
+    "id": "repin",
+    "name": "Илья Репин",
+    "path": "records/repin.json"
+  },
+  {
     "id": "johann_koerbecke",
     "name": "Иоганн Кёрбеке",
     "path": "records/johann_koerbecke.json"
@@ -73,6 +88,11 @@
     "id": "johan_thomas_lundbye",
     "name": "Йохан Томас Лундбю",
     "path": "records/johan_thomas_lundbye.json"
+  },
+  {
+    "id": "johan_fredrik_eckersberg",
+    "name": "Йохан Фредрик Эккерсберг",
+    "path": "records/johan_fredrik_eckersberg.json"
   },
   {
     "id": "johannes_verspronck",
@@ -350,6 +370,11 @@
     "path": "records/christian_krohg.json"
   },
   {
+    "id": "christian_skredsvig",
+    "name": "Кристиан Скредсвиг",
+    "path": "records/christian_skredsvig.json"
+  },
+  {
     "id": "kristian_zahrtmann",
     "name": "Кристиан Цартман",
     "path": "records/kristian_zahrtmann.json"
@@ -473,30 +498,5 @@
     "id": "ludovico_cardi",
     "name": "Лудовико Карди",
     "path": "records/ludovico_cardi.json"
-  },
-  {
-    "id": "louise_abbema",
-    "name": "Луиза Аббема",
-    "path": "records/louise_abbema.json"
-  },
-  {
-    "id": "louise_de_hem",
-    "name": "Луиза де Хем",
-    "path": "records/louise_de_hem.json"
-  },
-  {
-    "id": "louise_jopling",
-    "name": "Луиза Джоплинг",
-    "path": "records/louise_jopling.json"
-  },
-  {
-    "id": "louise_catherine_breslau",
-    "name": "Луиза Катрин Бреслау",
-    "path": "records/louise_catherine_breslau.json"
-  },
-  {
-    "id": "louise_moillon",
-    "name": "Луиза Муайон",
-    "path": "records/louise_moillon.json"
   }
 ]

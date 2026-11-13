@@ -1,5 +1,10 @@
 [
   {
+    "id": "battista_di_biagio_sanguigni",
+    "name": "Баттиста ди Бьяджо Сангвиньи",
+    "path": "records/battista_di_biagio_sanguigni.json"
+  },
+  {
     "id": "battistello_caracciolo",
     "name": "Баттистелло Караччоло",
     "path": "records/battistello_caracciolo.json"
@@ -350,6 +355,11 @@
     "path": "records/geertgen_tot_sint_jans.json"
   },
   {
+    "id": "gerhard_munthe",
+    "name": "Герхард Мунте",
+    "path": "records/gerhard_munthe.json"
+  },
+  {
     "id": "richter",
     "name": "Герхард Рихтер",
     "path": "records/richter.json"
@@ -388,6 +398,11 @@
     "id": "ghulam_ali_khan",
     "name": "Гулам Али Хан",
     "path": "records/ghulam_ali_khan.json"
+  },
+  {
+    "id": "gustav_wentzel",
+    "name": "Густав Вентцель",
+    "path": "records/gustav_wentzel.json"
   },
   {
     "id": "klimt",
@@ -483,20 +498,5 @@
     "id": "jennie_augusta_brownscombe",
     "name": "Дженни Огаста Браунскомб",
     "path": "records/jennie_augusta_brownscombe.json"
-  },
-  {
-    "id": "gentile_bellini",
-    "name": "Джентиле Беллини",
-    "path": "records/gentile_bellini.json"
-  },
-  {
-    "id": "gentile_da_fabriano",
-    "name": "Джентиле да Фабриано",
-    "path": "records/gentile_da_fabriano.json"
-  },
-  {
-    "id": "jessica_hayllar",
-    "name": "Джессика Хейллар",
-    "path": "records/jessica_hayllar.json"
   }
 ]

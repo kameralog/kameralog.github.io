@@ -145,6 +145,11 @@
     "path": "records/amalia_lindegren.json"
   },
   {
+    "id": "amaldus_nielsen",
+    "name": "Амальдус Нильсен",
+    "path": "records/amaldus_nielsen.json"
+  },
+  {
     "id": "amanda_sidwall",
     "name": "Аманда Сидваль",
     "path": "records/amanda_sidwall.json"
@@ -493,10 +498,5 @@
     "id": "basawan",
     "name": "Басаван",
     "path": "records/basawan.json"
-  },
-  {
-    "id": "battista_di_biagio_sanguigni",
-    "name": "Баттиста ди Бьяджо Сангвиньи",
-    "path": "records/battista_di_biagio_sanguigni.json"
   }
 ]
