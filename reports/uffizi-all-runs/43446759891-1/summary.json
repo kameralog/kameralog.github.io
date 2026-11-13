@@ -1,0 +1,14 @@
+{
+  "snapshot": "d60ed7ddba463d2086d9be178a79ad591d8a1bd6",
+  "artistsTotal": 856,
+  "artistsProcessed": 0,
+  "indexComplete": false,
+  "scope": "Wikidata current collection claims linked through collection/parent official websites to uffizi.it; not a complete museum catalogue or visual review",
+  "statuses": {},
+  "errors": [
+    "HTTP 504: upstream request timeout"
+  ],
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "complete": false
+}
