@@ -1,5 +1,45 @@
 [
   {
+    "id": "cima_da_conegliano",
+    "name": "Чима да Конельяно",
+    "path": "records/cima_da_conegliano.json"
+  },
+  {
+    "id": "cimabue",
+    "name": "Чимабуэ",
+    "path": "records/cimabue.json"
+  },
+  {
+    "id": "jeong_seon",
+    "name": "Чон Сон",
+    "path": "records/jeong_seon.json"
+  },
+  {
+    "id": "chen_hongshou",
+    "name": "Чэнь Хуншоу",
+    "path": "records/chen_hongshou.json"
+  },
+  {
+    "id": "charles_de_la_fosse",
+    "name": "Шарль де Лафосс",
+    "path": "records/charles_de_la_fosse.json"
+  },
+  {
+    "id": "charles_le_brun",
+    "name": "Шарль Лебрен",
+    "path": "records/charles_le_brun.json"
+  },
+  {
+    "id": "charles_meynier",
+    "name": "Шарль Мейнье",
+    "path": "records/charles_meynier.json"
+  },
+  {
+    "id": "shaikh_zainuddin",
+    "name": "Шейх Зайн-уд-Дин",
+    "path": "records/shaikh_zainuddin.json"
+  },
+  {
     "id": "sheikh_taju",
     "name": "Шейх Таджу",
     "path": "records/sheikh_taju.json"
@@ -458,45 +498,5 @@
     "id": "jan_lievens",
     "name": "Ян Ливенс",
     "path": "records/jan_lievens.json"
-  },
-  {
-    "id": "jan_lingelbach",
-    "name": "Ян Лингельбах",
-    "path": "records/jan_lingelbach.json"
-  },
-  {
-    "id": "jan_miense_molenaer",
-    "name": "Ян Минсе Моленар",
-    "path": "records/jan_miense_molenaer.json"
-  },
-  {
-    "id": "jan_mostaert",
-    "name": "Ян Мостарт",
-    "path": "records/jan_mostaert.json"
-  },
-  {
-    "id": "jan_pauwel_gillemans_the_elder",
-    "name": "Ян Паувел Гиллеманс Старший",
-    "path": "records/jan_pauwel_gillemans_the_elder.json"
-  },
-  {
-    "id": "jan_pynas",
-    "name": "Ян Пейнас",
-    "path": "records/jan_pynas.json"
-  },
-  {
-    "id": "jan_porcellis",
-    "name": "Ян Порселлис",
-    "path": "records/jan_porcellis.json"
-  },
-  {
-    "id": "jan_preisler",
-    "name": "Ян Прейслер",
-    "path": "records/jan_preisler.json"
-  },
-  {
-    "id": "jan_sanders_van_hemessen",
-    "name": "Ян Сандерс ван Хемессен",
-    "path": "records/jan_sanders_van_hemessen.json"
   }
 ]

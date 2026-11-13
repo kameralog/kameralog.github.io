@@ -1,5 +1,45 @@
 [
   {
+    "id": "jan_lingelbach",
+    "name": "Ян Лингельбах",
+    "path": "records/jan_lingelbach.json"
+  },
+  {
+    "id": "jan_miense_molenaer",
+    "name": "Ян Минсе Моленар",
+    "path": "records/jan_miense_molenaer.json"
+  },
+  {
+    "id": "jan_mostaert",
+    "name": "Ян Мостарт",
+    "path": "records/jan_mostaert.json"
+  },
+  {
+    "id": "jan_pauwel_gillemans_the_elder",
+    "name": "Ян Паувел Гиллеманс Старший",
+    "path": "records/jan_pauwel_gillemans_the_elder.json"
+  },
+  {
+    "id": "jan_pynas",
+    "name": "Ян Пейнас",
+    "path": "records/jan_pynas.json"
+  },
+  {
+    "id": "jan_porcellis",
+    "name": "Ян Порселлис",
+    "path": "records/jan_porcellis.json"
+  },
+  {
+    "id": "jan_preisler",
+    "name": "Ян Прейслер",
+    "path": "records/jan_preisler.json"
+  },
+  {
+    "id": "jan_sanders_van_hemessen",
+    "name": "Ян Сандерс ван Хемессен",
+    "path": "records/jan_sanders_van_hemessen.json"
+  },
+  {
     "id": "jan_philip_van_thielen",
     "name": "Ян Филип ван Тилен",
     "path": "records/jan_philip_van_thielen.json"
@@ -28,5 +68,15 @@
     "id": "janis_rozentals",
     "name": "Янис Розенталс",
     "path": "records/janis_rozentals.json"
+  },
+  {
+    "id": "janos_vaszary",
+    "name": "Янош Васари",
+    "path": "records/janos_vaszary.json"
+  },
+  {
+    "id": "janos_thorma",
+    "name": "Янош Торма",
+    "path": "records/janos_thorma.json"
   }
 ]

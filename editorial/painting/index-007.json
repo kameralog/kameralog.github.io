@@ -1,5 +1,45 @@
 [
   {
+    "id": "wu_daozi",
+    "name": "У Даоцзы",
+    "path": "records/wu_daozi.json"
+  },
+  {
+    "id": "ugolino_di_nerio",
+    "name": "Уголино ди Нерио",
+    "path": "records/ugolino_di_nerio.json"
+  },
+  {
+    "id": "blake",
+    "name": "Уильям Блейк",
+    "path": "records/blake.json"
+  },
+  {
+    "id": "william_turner",
+    "name": "Уильям Тёрнер",
+    "path": "records/william_turner.json"
+  },
+  {
+    "id": "william_holman_hunt",
+    "name": "Уильям Холман Хант",
+    "path": "records/william_holman_hunt.json"
+  },
+  {
+    "id": "fanny_brate",
+    "name": "Фанни Брате",
+    "path": "records/fanny_brate.json"
+  },
+  {
+    "id": "fanny_geefs",
+    "name": "Фанни Гефс",
+    "path": "records/fanny_geefs.json"
+  },
+  {
+    "id": "fanny_churberg",
+    "name": "Фанни Чурберг",
+    "path": "records/fanny_churberg.json"
+  },
+  {
     "id": "fan_kuan",
     "name": "Фань Куань",
     "path": "records/fan_kuan.json"
@@ -458,45 +498,5 @@
     "id": "zhou_fang",
     "name": "Чжоу Фан",
     "path": "records/zhou_fang.json"
-  },
-  {
-    "id": "cima_da_conegliano",
-    "name": "Чима да Конельяно",
-    "path": "records/cima_da_conegliano.json"
-  },
-  {
-    "id": "cimabue",
-    "name": "Чимабуэ",
-    "path": "records/cimabue.json"
-  },
-  {
-    "id": "jeong_seon",
-    "name": "Чон Сон",
-    "path": "records/jeong_seon.json"
-  },
-  {
-    "id": "chen_hongshou",
-    "name": "Чэнь Хуншоу",
-    "path": "records/chen_hongshou.json"
-  },
-  {
-    "id": "charles_de_la_fosse",
-    "name": "Шарль де Лафосс",
-    "path": "records/charles_de_la_fosse.json"
-  },
-  {
-    "id": "charles_le_brun",
-    "name": "Шарль Лебрен",
-    "path": "records/charles_le_brun.json"
-  },
-  {
-    "id": "charles_meynier",
-    "name": "Шарль Мейнье",
-    "path": "records/charles_meynier.json"
-  },
-  {
-    "id": "shaikh_zainuddin",
-    "name": "Шейх Зайн-уд-Дин",
-    "path": "records/shaikh_zainuddin.json"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "id": "yosa_buson",
+    "name": "Ёса Бусон",
+    "path": "records/yosa_buson.json"
+  },
+  {
     "id": "jacques_louis_david",
     "name": "Жак Луи Давид",
     "path": "records/jacques_louis_david.json"
@@ -175,6 +180,11 @@
     "path": "records/isack_van_ostade.json"
   },
   {
+    "id": "istvan_csok",
+    "name": "Иштван Чок",
+    "path": "records/istvan_csok.json"
+  },
+  {
     "id": "jeanna_bauck",
     "name": "Йенна Баук",
     "path": "records/jeanna_bauck.json"
@@ -213,6 +223,11 @@
     "id": "joza_uprka",
     "name": "Йожа Упрка",
     "path": "records/joza_uprka.json"
+  },
+  {
+    "id": "jozsef_rippl_ronai",
+    "name": "Йожеф Риппль-Ронаи",
+    "path": "records/jozsef_rippl_ronai.json"
   },
   {
     "id": "josef_manes",
@@ -380,6 +395,11 @@
     "path": "records/carlo_cignani.json"
   },
   {
+    "id": "karoly_ferenczy",
+    "name": "Карой Ференци",
+    "path": "records/karoly_ferenczy.json"
+  },
+  {
     "id": "caroline_bardua",
     "name": "Каролина Бардуа",
     "path": "records/caroline_bardua.json"
@@ -478,25 +498,5 @@
     "id": "konrad_magi",
     "name": "Конрад Мяги",
     "path": "records/konrad_magi.json"
-  },
-  {
-    "id": "constance_mayer",
-    "name": "Констанс Майер",
-    "path": "records/constance_mayer.json"
-  },
-  {
-    "id": "constance_charpentier",
-    "name": "Констанс Шарпантье",
-    "path": "records/constance_charpentier.json"
-  },
-  {
-    "id": "constantin_hansen",
-    "name": "Константин Хансен",
-    "path": "records/constantin_hansen.json"
-  },
-  {
-    "id": "coppo_di_marcovaldo",
-    "name": "Коппо ди Марковальдо",
-    "path": "records/coppo_di_marcovaldo.json"
   }
 ]

@@ -80,6 +80,11 @@
     "path": "records/battistello_caracciolo.json"
   },
   {
+    "id": "bela_ivanyi_grunwald",
+    "name": "Бела Иваньи-Грюнвальд",
+    "path": "records/bela_ivanyi_grunwald.json"
+  },
+  {
     "id": "benedetto_luti",
     "name": "Бенедетто Лути",
     "path": "records/benedetto_luti.json"
@@ -493,10 +498,5 @@
     "id": "richter",
     "name": "Герхард Рихтер",
     "path": "records/richter.json"
-  },
-  {
-    "id": "hyacinthe_rigaud",
-    "name": "Гиацинт Риго",
-    "path": "records/hyacinthe_rigaud.json"
   }
 ]

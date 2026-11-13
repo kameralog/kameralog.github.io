@@ -1,5 +1,10 @@
 [
   {
+    "id": "hyacinthe_rigaud",
+    "name": "Гиацинт Риго",
+    "path": "records/hyacinthe_rigaud.json"
+  },
+  {
     "id": "gillis_van_coninxloo",
     "name": "Гиллис ван Конинкслоо",
     "path": "records/gillis_van_coninxloo.json"
@@ -493,10 +498,5 @@
     "id": "yokoyama_taikan",
     "name": "Ёкояма Тайкан",
     "path": "records/yokoyama_taikan.json"
-  },
-  {
-    "id": "yosa_buson",
-    "name": "Ёса Бусон",
-    "path": "records/yosa_buson.json"
   }
 ]

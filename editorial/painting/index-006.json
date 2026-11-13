@@ -1,5 +1,40 @@
 [
   {
+    "id": "pieter_boel",
+    "name": "Питер Буль",
+    "path": "records/pieter_boel.json"
+  },
+  {
+    "id": "pieter_van_roestraten",
+    "name": "Питер ван Рустратен",
+    "path": "records/pieter_van_roestraten.json"
+  },
+  {
+    "id": "pieter_quast",
+    "name": "Питер Кваст",
+    "path": "records/pieter_quast.json"
+  },
+  {
+    "id": "pieter_claesz",
+    "name": "Питер Клас",
+    "path": "records/pieter_claesz.json"
+  },
+  {
+    "id": "pieter_codde",
+    "name": "Питер Кодде",
+    "path": "records/pieter_codde.json"
+  },
+  {
+    "id": "pieter_lastman",
+    "name": "Питер Ластман",
+    "path": "records/pieter_lastman.json"
+  },
+  {
+    "id": "peter_paul_rubens",
+    "name": "Питер Пауль Рубенс",
+    "path": "records/peter_paul_rubens.json"
+  },
+  {
     "id": "cleveland_funerary_portrait_1971_137",
     "name": "Погребальный портрет из Кливленда (1971.137)",
     "path": "records/cleveland_funerary_portrait_1971_137.json"
@@ -420,6 +455,11 @@
     "path": "records/tetitla_murals.json"
   },
   {
+    "id": "tivadar_csontvary_kosztka",
+    "name": "Тивадар Чонтвари-Костка",
+    "path": "records/tivadar_csontvary_kosztka.json"
+  },
+  {
     "id": "tintoretto",
     "name": "Тинторетто",
     "path": "records/tintoretto.json"
@@ -458,45 +498,5 @@
     "id": "tyko_sallinen",
     "name": "Тюко Саллинен",
     "path": "records/tyko_sallinen.json"
-  },
-  {
-    "id": "wu_daozi",
-    "name": "У Даоцзы",
-    "path": "records/wu_daozi.json"
-  },
-  {
-    "id": "ugolino_di_nerio",
-    "name": "Уголино ди Нерио",
-    "path": "records/ugolino_di_nerio.json"
-  },
-  {
-    "id": "blake",
-    "name": "Уильям Блейк",
-    "path": "records/blake.json"
-  },
-  {
-    "id": "william_turner",
-    "name": "Уильям Тёрнер",
-    "path": "records/william_turner.json"
-  },
-  {
-    "id": "william_holman_hunt",
-    "name": "Уильям Холман Хант",
-    "path": "records/william_holman_hunt.json"
-  },
-  {
-    "id": "fanny_brate",
-    "name": "Фанни Брате",
-    "path": "records/fanny_brate.json"
-  },
-  {
-    "id": "fanny_geefs",
-    "name": "Фанни Гефс",
-    "path": "records/fanny_geefs.json"
-  },
-  {
-    "id": "fanny_churberg",
-    "name": "Фанни Чурберг",
-    "path": "records/fanny_churberg.json"
   }
 ]

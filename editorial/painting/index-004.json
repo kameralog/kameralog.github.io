@@ -1,5 +1,25 @@
 [
   {
+    "id": "constance_mayer",
+    "name": "Констанс Майер",
+    "path": "records/constance_mayer.json"
+  },
+  {
+    "id": "constance_charpentier",
+    "name": "Констанс Шарпантье",
+    "path": "records/constance_charpentier.json"
+  },
+  {
+    "id": "constantin_hansen",
+    "name": "Константин Хансен",
+    "path": "records/constantin_hansen.json"
+  },
+  {
+    "id": "coppo_di_marcovaldo",
+    "name": "Коппо ди Марковальдо",
+    "path": "records/coppo_di_marcovaldo.json"
+  },
+  {
     "id": "cornelis_van_poelenburgh",
     "name": "Корнелис ван Пуленбург",
     "path": "records/cornelis_van_poelenburgh.json"
@@ -103,6 +123,11 @@
     "id": "lavinia_fontana",
     "name": "Лавиния Фонтана",
     "path": "records/lavinia_fontana.json"
+  },
+  {
+    "id": "laszlo_paal",
+    "name": "Ласло Паал",
+    "path": "records/laszlo_paal.json"
   },
   {
     "id": "laurits_andersen_ring",
@@ -473,30 +498,5 @@
     "id": "marie_ellenrieder",
     "name": "Мария Элленридер",
     "path": "records/marie_ellenrieder.json"
-  },
-  {
-    "id": "rothko",
-    "name": "Марк Ротко",
-    "path": "records/rothko.json"
-  },
-  {
-    "id": "chagall",
-    "name": "Марк Шагал",
-    "path": "records/chagall.json"
-  },
-  {
-    "id": "marco_basaiti",
-    "name": "Марко Базаити",
-    "path": "records/marco_basaiti.json"
-  },
-  {
-    "id": "marco_d_oggiono",
-    "name": "Марко д’Оджоно",
-    "path": "records/marco_d_oggiono.json"
-  },
-  {
-    "id": "marco_palmezzano",
-    "name": "Марко Пальмеццано",
-    "path": "records/marco_palmezzano.json"
   }
 ]

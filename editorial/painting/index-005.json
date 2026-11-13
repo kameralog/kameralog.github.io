@@ -1,5 +1,30 @@
 [
   {
+    "id": "rothko",
+    "name": "Марк Ротко",
+    "path": "records/rothko.json"
+  },
+  {
+    "id": "chagall",
+    "name": "Марк Шагал",
+    "path": "records/chagall.json"
+  },
+  {
+    "id": "marco_basaiti",
+    "name": "Марко Базаити",
+    "path": "records/marco_basaiti.json"
+  },
+  {
+    "id": "marco_d_oggiono",
+    "name": "Марко д’Оджоно",
+    "path": "records/marco_d_oggiono.json"
+  },
+  {
+    "id": "marco_palmezzano",
+    "name": "Марко Пальмеццано",
+    "path": "records/marco_palmezzano.json"
+  },
+  {
     "id": "marco_ricci",
     "name": "Марко Риччи",
     "path": "records/marco_ricci.json"
@@ -113,6 +138,11 @@
     "id": "larionov",
     "name": "Михаил Ларионов",
     "path": "records/larionov.json"
+  },
+  {
+    "id": "mihaly_munkacsy",
+    "name": "Михай Мункачи",
+    "path": "records/mihaly_munkacsy.json"
   },
   {
     "id": "michaelina_wautier",
@@ -365,6 +395,11 @@
     "path": "records/filonov.json"
   },
   {
+    "id": "pal_szinyei_merse",
+    "name": "Пал Синьеи-Мерше",
+    "path": "records/pal_szinyei_merse.json"
+  },
+  {
     "id": "paolo_veronese",
     "name": "Паоло Веронезе",
     "path": "records/paolo_veronese.json"
@@ -463,40 +498,5 @@
     "id": "bruegel",
     "name": "Питер Брейгель Старший",
     "path": "records/bruegel.json"
-  },
-  {
-    "id": "pieter_boel",
-    "name": "Питер Буль",
-    "path": "records/pieter_boel.json"
-  },
-  {
-    "id": "pieter_van_roestraten",
-    "name": "Питер ван Рустратен",
-    "path": "records/pieter_van_roestraten.json"
-  },
-  {
-    "id": "pieter_quast",
-    "name": "Питер Кваст",
-    "path": "records/pieter_quast.json"
-  },
-  {
-    "id": "pieter_claesz",
-    "name": "Питер Клас",
-    "path": "records/pieter_claesz.json"
-  },
-  {
-    "id": "pieter_codde",
-    "name": "Питер Кодде",
-    "path": "records/pieter_codde.json"
-  },
-  {
-    "id": "pieter_lastman",
-    "name": "Питер Ластман",
-    "path": "records/pieter_lastman.json"
-  },
-  {
-    "id": "peter_paul_rubens",
-    "name": "Питер Пауль Рубенс",
-    "path": "records/peter_paul_rubens.json"
   }
 ]
