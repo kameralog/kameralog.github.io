@@ -50,6 +50,11 @@
     "path": "records/adele_kindt.json"
   },
   {
+    "id": "adolph_tidemand",
+    "name": "Адольф Тидеманд",
+    "path": "records/adolph_tidemand.json"
+  },
+  {
     "id": "adriaen_van_de_velde",
     "name": "Адриан ван де Велде",
     "path": "records/adriaen_van_de_velde.json"
@@ -493,10 +498,5 @@
     "id": "battista_di_biagio_sanguigni",
     "name": "Баттиста ди Бьяджо Сангвиньи",
     "path": "records/battista_di_biagio_sanguigni.json"
-  },
-  {
-    "id": "battistello_caracciolo",
-    "name": "Баттистелло Караччоло",
-    "path": "records/battistello_caracciolo.json"
   }
 ]

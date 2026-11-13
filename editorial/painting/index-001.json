@@ -1,5 +1,10 @@
 [
   {
+    "id": "battistello_caracciolo",
+    "name": "Баттистелло Караччоло",
+    "path": "records/battistello_caracciolo.json"
+  },
+  {
     "id": "benedetto_luti",
     "name": "Бенедетто Лути",
     "path": "records/benedetto_luti.json"
@@ -493,10 +498,5 @@
     "id": "jessica_hayllar",
     "name": "Джессика Хейллар",
     "path": "records/jessica_hayllar.json"
-  },
-  {
-    "id": "girolamo_romanino",
-    "name": "Джироламо Романино",
-    "path": "records/girolamo_romanino.json"
   }
 ]

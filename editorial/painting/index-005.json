@@ -1,5 +1,25 @@
 [
   {
+    "id": "nicolaes_berchem",
+    "name": "Николас Берхем",
+    "path": "records/nicolaes_berchem.json"
+  },
+  {
+    "id": "nicolaes_gillis",
+    "name": "Николас Гиллис",
+    "path": "records/nicolaes_gillis.json"
+  },
+  {
+    "id": "nicolaes_maes",
+    "name": "Николас Мас",
+    "path": "records/nicolaes_maes.json"
+  },
+  {
+    "id": "nicolaes_moeyaert",
+    "name": "Николас Мойарт",
+    "path": "records/nicolaes_moeyaert.json"
+  },
+  {
     "id": "nicolaes_eliasz_pickenoy",
     "name": "Николас Элиас Пикеной",
     "path": "records/nicolaes_eliasz_pickenoy.json"
@@ -98,6 +118,11 @@
     "id": "paulus_potter",
     "name": "Паулюс Поттер",
     "path": "records/paulus_potter.json"
+  },
+  {
+    "id": "peder_balke",
+    "name": "Педер Балке",
+    "path": "records/peder_balke.json"
   },
   {
     "id": "peder_severin_kroyer",
@@ -473,30 +498,5 @@
     "id": "simone_pignoni",
     "name": "Симоне Пиньони",
     "path": "records/simone_pignoni.json"
-  },
-  {
-    "id": "sinibaldo_scorza",
-    "name": "Синибальдо Скорца",
-    "path": "records/sinibaldo_scorza.json"
-  },
-  {
-    "id": "sientje_mesdag_van_houten",
-    "name": "Синтье Месдаг-ван Хаутен",
-    "path": "records/sientje_mesdag_van_houten.json"
-  },
-  {
-    "id": "sodoma",
-    "name": "Содома",
-    "path": "records/sodoma.json"
-  },
-  {
-    "id": "sophie_anderson",
-    "name": "Софи Андерсон",
-    "path": "records/sophie_anderson.json"
-  },
-  {
-    "id": "sofonisba_anguissola",
-    "name": "Софонисба Ангвиссола",
-    "path": "records/sofonisba_anguissola.json"
   }
 ]

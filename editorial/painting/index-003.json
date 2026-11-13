@@ -1,5 +1,10 @@
 [
   {
+    "id": "johann_koerbecke",
+    "name": "Иоганн Кёрбеке",
+    "path": "records/johann_koerbecke.json"
+  },
+  {
     "id": "levitan",
     "name": "Исаак Левитан",
     "path": "records/levitan.json"
@@ -53,6 +58,11 @@
     "id": "joos_de_momper",
     "name": "Йос де Момпер",
     "path": "records/joos_de_momper.json"
+  },
+  {
+    "id": "johan_christian_dahl",
+    "name": "Йохан Кристиан Даль",
+    "path": "records/johan_christian_dahl.json"
   },
   {
     "id": "johan_laurentz_jensen",
@@ -335,6 +345,11 @@
     "path": "records/christen_kobke.json"
   },
   {
+    "id": "christian_krohg",
+    "name": "Кристиан Крог",
+    "path": "records/christian_krohg.json"
+  },
+  {
     "id": "kristian_zahrtmann",
     "name": "Кристиан Цартман",
     "path": "records/kristian_zahrtmann.json"
@@ -483,20 +498,5 @@
     "id": "louise_moillon",
     "name": "Луиза Муайон",
     "path": "records/louise_moillon.json"
-  },
-  {
-    "id": "louise_rayner",
-    "name": "Луиза Рейнер",
-    "path": "records/louise_rayner.json"
-  },
-  {
-    "id": "louise_heger",
-    "name": "Луиза Эгер",
-    "path": "records/louise_heger.json"
-  },
-  {
-    "id": "louisa_anne_meredith",
-    "name": "Луиза Энн Мередит",
-    "path": "records/louisa_anne_meredith.json"
   }
 ]

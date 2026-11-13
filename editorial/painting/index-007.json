@@ -1,5 +1,50 @@
 [
   {
+    "id": "hendrick_ter_brugghen",
+    "name": "Хендрик тер Брюгген",
+    "path": "records/hendrick_ter_brugghen.json"
+  },
+  {
+    "id": "herman_van_swanevelt",
+    "name": "Херман ван Сваневелт",
+    "path": "records/herman_van_swanevelt.json"
+  },
+  {
+    "id": "herman_saftleven",
+    "name": "Херман Сафтлевен",
+    "path": "records/herman_saftleven.json"
+  },
+  {
+    "id": "herri_met_de_bles",
+    "name": "Херри мет де Блес",
+    "path": "records/herri_met_de_bles.json"
+  },
+  {
+    "id": "hilma_af_klint",
+    "name": "Хильма аф Клинт",
+    "path": "records/hilma_af_klint.json"
+  },
+  {
+    "id": "holger_drachmann",
+    "name": "Хольгер Дракман",
+    "path": "records/holger_drachmann.json"
+  },
+  {
+    "id": "orozco",
+    "name": "Хосе Клементе Ороско",
+    "path": "records/orozco.json"
+  },
+  {
+    "id": "juan_gris",
+    "name": "Хуан Грис",
+    "path": "records/juan_gris.json"
+  },
+  {
+    "id": "huang_gongwang",
+    "name": "Хуан Гунван",
+    "path": "records/huang_gongwang.json"
+  },
+  {
     "id": "juan_de_flandes",
     "name": "Хуан де Фландес",
     "path": "records/juan_de_flandes.json"
@@ -290,6 +335,11 @@
     "path": "records/eni.json"
   },
   {
+    "id": "erik_werenskiold",
+    "name": "Эрик Вереншёлль",
+    "path": "records/erik_werenskiold.json"
+  },
+  {
     "id": "ercole_de_roberti",
     "name": "Эрколе де Роберти",
     "path": "records/ercole_de_roberti.json"
@@ -448,55 +498,5 @@
     "id": "jan_van_eyck",
     "name": "Ян ван Эйк",
     "path": "records/jan_van_eyck.json"
-  },
-  {
-    "id": "jan_wijnants",
-    "name": "Ян Вейнантс",
-    "path": "records/jan_wijnants.json"
-  },
-  {
-    "id": "jan_verkolje",
-    "name": "Ян Верколье",
-    "path": "records/jan_verkolje.json"
-  },
-  {
-    "id": "johannes_vermeer",
-    "name": "Ян Вермеер",
-    "path": "records/johannes_vermeer.json"
-  },
-  {
-    "id": "jan_victors",
-    "name": "Ян Викторс",
-    "path": "records/jan_victors.json"
-  },
-  {
-    "id": "jan_gossart",
-    "name": "Ян Госсарт",
-    "path": "records/jan_gossart.json"
-  },
-  {
-    "id": "jan_lievens",
-    "name": "Ян Ливенс",
-    "path": "records/jan_lievens.json"
-  },
-  {
-    "id": "jan_lingelbach",
-    "name": "Ян Лингельбах",
-    "path": "records/jan_lingelbach.json"
-  },
-  {
-    "id": "jan_miense_molenaer",
-    "name": "Ян Минсе Моленар",
-    "path": "records/jan_miense_molenaer.json"
-  },
-  {
-    "id": "jan_mostaert",
-    "name": "Ян Мостарт",
-    "path": "records/jan_mostaert.json"
-  },
-  {
-    "id": "jan_pauwel_gillemans_the_elder",
-    "name": "Ян Паувел Гиллеманс Старший",
-    "path": "records/jan_pauwel_gillemans_the_elder.json"
   }
 ]

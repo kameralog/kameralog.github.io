@@ -1,5 +1,10 @@
 [
   {
+    "id": "girolamo_romanino",
+    "name": "Джироламо Романино",
+    "path": "records/girolamo_romanino.json"
+  },
+  {
     "id": "gioacchino_assereto",
     "name": "Джоаккино Ассерето",
     "path": "records/gioacchino_assereto.json"
@@ -493,10 +498,5 @@
     "id": "repin",
     "name": "Илья Репин",
     "path": "records/repin.json"
-  },
-  {
-    "id": "johann_koerbecke",
-    "name": "Иоганн Кёрбеке",
-    "path": "records/johann_koerbecke.json"
   }
 ]

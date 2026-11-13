@@ -1,5 +1,55 @@
 [
   {
+    "id": "jan_wijnants",
+    "name": "Ян Вейнантс",
+    "path": "records/jan_wijnants.json"
+  },
+  {
+    "id": "jan_verkolje",
+    "name": "Ян Верколье",
+    "path": "records/jan_verkolje.json"
+  },
+  {
+    "id": "johannes_vermeer",
+    "name": "Ян Вермеер",
+    "path": "records/johannes_vermeer.json"
+  },
+  {
+    "id": "jan_victors",
+    "name": "Ян Викторс",
+    "path": "records/jan_victors.json"
+  },
+  {
+    "id": "jan_gossart",
+    "name": "Ян Госсарт",
+    "path": "records/jan_gossart.json"
+  },
+  {
+    "id": "jan_lievens",
+    "name": "Ян Ливенс",
+    "path": "records/jan_lievens.json"
+  },
+  {
+    "id": "jan_lingelbach",
+    "name": "Ян Лингельбах",
+    "path": "records/jan_lingelbach.json"
+  },
+  {
+    "id": "jan_miense_molenaer",
+    "name": "Ян Минсе Моленар",
+    "path": "records/jan_miense_molenaer.json"
+  },
+  {
+    "id": "jan_mostaert",
+    "name": "Ян Мостарт",
+    "path": "records/jan_mostaert.json"
+  },
+  {
+    "id": "jan_pauwel_gillemans_the_elder",
+    "name": "Ян Паувел Гиллеманс Старший",
+    "path": "records/jan_pauwel_gillemans_the_elder.json"
+  },
+  {
     "id": "jan_pynas",
     "name": "Ян Пейнас",
     "path": "records/jan_pynas.json"

@@ -1,0 +1,45 @@
+{
+  "id": "johan_christian_dahl",
+  "name": "Йохан Кристиан Даль",
+  "latin": "Johan Christian Dahl",
+  "life": "1788–1857",
+  "tag": "Норвежская живопись · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-129.js",
+  "existing": {
+    "bio": [
+      "Норвежский пейзажист, работавший с натурными наблюдениями и романтическим образом природы.",
+      "После поездки по Норвегии в 1826 году продолжал использовать сделанные там рисунки. Вид из Сталхейма завершил шестнадцать лет спустя, усилив крутизну склонов и замкнутость долины."
+    ],
+    "technique": [
+      "Масло на холсте; 189,7 × 245,8 см",
+      "Описание основано на музейном тексте; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный ракурс: Как радуга объединяет долину?",
+    "caution": "Не подменять картину рисунком 1826 года NG.K&H.B.02188 или версиями из KODE. Символика радуги — интерпретация, не установленный авторский комментарий.",
+    "editorialStatus": "RESEARCH_DRAFT_BIO_ALIASES_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Музейная карточка",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.01060"
+    },
+    {
+      "title": "Конкретный файл и лицензия",
+      "url": "https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_from_Stalheim_-_NG.M.01060_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "johan_christian_dahl_selected",
+      "title": "Вид из Сталхейма",
+      "date": "1842",
+      "museum": "Nasjonalmuseet — Национальный музей Норвегии",
+      "source": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.01060"
+    }
+  ],
+  "pendingWorksCount": 0
+}

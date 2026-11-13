@@ -1,5 +1,30 @@
 [
   {
+    "id": "sinibaldo_scorza",
+    "name": "Синибальдо Скорца",
+    "path": "records/sinibaldo_scorza.json"
+  },
+  {
+    "id": "sientje_mesdag_van_houten",
+    "name": "Синтье Месдаг-ван Хаутен",
+    "path": "records/sientje_mesdag_van_houten.json"
+  },
+  {
+    "id": "sodoma",
+    "name": "Содома",
+    "path": "records/sodoma.json"
+  },
+  {
+    "id": "sophie_anderson",
+    "name": "Софи Андерсон",
+    "path": "records/sophie_anderson.json"
+  },
+  {
+    "id": "sofonisba_anguissola",
+    "name": "Софонисба Ангвиссола",
+    "path": "records/sofonisba_anguissola.json"
+  },
+  {
     "id": "stefan_lochner",
     "name": "Стефан Лохнер",
     "path": "records/stefan_lochner.json"
@@ -93,6 +118,11 @@
     "id": "thomas_cole",
     "name": "Томас Коул",
     "path": "records/thomas_cole.json"
+  },
+  {
+    "id": "thomas_fearnley",
+    "name": "Томас Фернли",
+    "path": "records/thomas_fearnley.json"
   },
   {
     "id": "tensho_shubun",
@@ -355,6 +385,11 @@
     "path": "records/fritz_syberg.json"
   },
   {
+    "id": "frits_thaulow",
+    "name": "Фриц Таулов",
+    "path": "records/frits_thaulow.json"
+  },
+  {
     "id": "bacon",
     "name": "Фрэнсис Бэкон",
     "path": "records/bacon.json"
@@ -385,6 +420,11 @@
     "path": "records/hans_andersen_brendekilde.json"
   },
   {
+    "id": "hans_gude",
+    "name": "Ханс Гуде",
+    "path": "records/hans_gude.json"
+  },
+  {
     "id": "han_gan",
     "name": "Хань Гань",
     "path": "records/han_gan.json"
@@ -393,6 +433,11 @@
     "id": "harald_slott_moller",
     "name": "Харальд Слотт-Мёллер",
     "path": "records/harald_slott_moller.json"
+  },
+  {
+    "id": "harald_sohlberg",
+    "name": "Харальд Сульберг",
+    "path": "records/harald_sohlberg.json"
   },
   {
     "id": "harriet_backer",
@@ -453,50 +498,5 @@
     "id": "hendrick_martensz_sorgh",
     "name": "Хендрик Мартенс Сорг",
     "path": "records/hendrick_martensz_sorgh.json"
-  },
-  {
-    "id": "hendrick_ter_brugghen",
-    "name": "Хендрик тер Брюгген",
-    "path": "records/hendrick_ter_brugghen.json"
-  },
-  {
-    "id": "herman_van_swanevelt",
-    "name": "Херман ван Сваневелт",
-    "path": "records/herman_van_swanevelt.json"
-  },
-  {
-    "id": "herman_saftleven",
-    "name": "Херман Сафтлевен",
-    "path": "records/herman_saftleven.json"
-  },
-  {
-    "id": "herri_met_de_bles",
-    "name": "Херри мет де Блес",
-    "path": "records/herri_met_de_bles.json"
-  },
-  {
-    "id": "hilma_af_klint",
-    "name": "Хильма аф Клинт",
-    "path": "records/hilma_af_klint.json"
-  },
-  {
-    "id": "holger_drachmann",
-    "name": "Хольгер Дракман",
-    "path": "records/holger_drachmann.json"
-  },
-  {
-    "id": "orozco",
-    "name": "Хосе Клементе Ороско",
-    "path": "records/orozco.json"
-  },
-  {
-    "id": "juan_gris",
-    "name": "Хуан Грис",
-    "path": "records/juan_gris.json"
-  },
-  {
-    "id": "huang_gongwang",
-    "name": "Хуан Гунван",
-    "path": "records/huang_gongwang.json"
   }
 ]

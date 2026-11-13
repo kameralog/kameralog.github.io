@@ -1,5 +1,20 @@
 [
   {
+    "id": "louise_rayner",
+    "name": "Луиза Рейнер",
+    "path": "records/louise_rayner.json"
+  },
+  {
+    "id": "louise_heger",
+    "name": "Луиза Эгер",
+    "path": "records/louise_heger.json"
+  },
+  {
+    "id": "louisa_anne_meredith",
+    "name": "Луиза Энн Мередит",
+    "path": "records/louisa_anne_meredith.json"
+  },
+  {
     "id": "luca_giordano",
     "name": "Лука Джордано",
     "path": "records/luca_giordano.json"
@@ -480,23 +495,8 @@
     "path": "records/nicolas_tournier.json"
   },
   {
-    "id": "nicolaes_berchem",
-    "name": "Николас Берхем",
-    "path": "records/nicolaes_berchem.json"
-  },
-  {
-    "id": "nicolaes_gillis",
-    "name": "Николас Гиллис",
-    "path": "records/nicolaes_gillis.json"
-  },
-  {
-    "id": "nicolaes_maes",
-    "name": "Николас Мас",
-    "path": "records/nicolaes_maes.json"
-  },
-  {
-    "id": "nicolaes_moeyaert",
-    "name": "Николас Мойарт",
-    "path": "records/nicolaes_moeyaert.json"
+    "id": "nikolai_astrup",
+    "name": "Николай Аструп",
+    "path": "records/nikolai_astrup.json"
   }
 ]
