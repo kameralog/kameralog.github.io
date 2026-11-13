@@ -1,0 +1,89 @@
+name: Discover images by museum
+on:
+  workflow_dispatch:
+    inputs:
+      museum:
+        description: Museum
+        type: choice
+        options: [all, uffizi, prado, thyssen, louvre, khm, tate, other]
+        default: all
+      other:
+        description: For other - museum name or website domain
+        type: string
+        default: ''
+      inventory_only:
+        description: List missing works without internet search
+        type: boolean
+        default: true
+      offset:
+        description: Skip this many works to continue a previous search
+        type: number
+        default: 0
+      limit:
+        description: Works per run (1 to 25)
+        type: number
+        default: 10
+permissions:
+  contents: read
+concurrency:
+  group: museum-image-discovery
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Test existing search
+        run: node games/painting/test-discover-painting-images.mjs
+      - name: Inventory or search selected museum
+        env:
+          MUSEUM: ${{ inputs.museum }}
+          OTHER: ${{ inputs.other }}
+          INVENTORY_ONLY: ${{ inputs.inventory_only }}
+          OFFSET: ${{ inputs.offset }}
+          LIMIT: ${{ inputs.limit }}
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {inventory,discover,Network,render,POLICY} from './games/painting/discover-painting-images.mjs';
+          const museum=process.env.MUSEUM,other=(process.env.OTHER||'').trim().toLowerCase();
+          const limit=Number(process.env.LIMIT),offset=Number(process.env.OFFSET),inventoryOnly=process.env.INVENTORY_ONLY==='true';
+          assert(Number.isInteger(limit)&&limit>=1&&limit<=25);
+          assert(Number.isInteger(offset)&&offset>=0);
+          const patterns={uffizi:/uffizi|уффици/iu,prado:/museodelprado|\bprado\b|прадо/iu,thyssen:/museothyssen|thyssen|тиссен/iu,louvre:/louvre|лувр/iu,khm:/khm\.at|kunsthistorisch|истории искусств.*вен|вен.*истории искусств/iu,tate:/tate\.org\.uk|\btate\b|тейт/iu};
+          assert(museum==='all'||museum==='other'||Object.hasOwn(patterns,museum));
+          if(museum==='other')assert(other.length>=3,'Specify a museum name or domain');
+          const inv=inventory('.'),allWorks=inv.queue.filter(t=>t.kind==='work');
+          const groups=new Map();
+          for(const t of allWorks){let host='';try{host=new URL(t.source).hostname;}catch{}const label=t.museum||host||'Unspecified';groups.set(label,(groups.get(label)||0)+1);}
+          inv.queue=allWorks.filter(t=>{const text=[t.museum||'',t.source||''].join(' ');return museum==='all'||(museum==='other'?text.toLowerCase().includes(other):patterns[museum].test(text));});
+          const out='reports/museum-image-discovery';fs.mkdirSync(out,{recursive:true});
+          fs.writeFileSync(out+'/museums.json',JSON.stringify([...groups].sort((a,b)=>b[1]-a[1]),null,2));
+          fs.writeFileSync(out+'/queue.json',JSON.stringify(inv.queue,null,2));
+          const cache={policy:POLICY,entries:{}},net=new Network();
+          const save=()=>fs.writeFileSync(out+'/results.json',JSON.stringify(cache,null,2));save();
+          if(!inventoryOnly)for(const t of inv.queue.slice(offset,offset+limit)){
+            const r=await discover(t,net,{probe:true,existingImages:inv.existingImages,existingKeys:inv.existingKeys,existingSources:inv.existingSources,known:inv.known});
+            cache.entries[t.id]=r;save();if(r.budget)break;
+          }
+          const report=render(inv,cache);
+          fs.writeFileSync(out+'/report.json',JSON.stringify(report.json,null,2));
+          fs.writeFileSync(out+'/report.html',report.html);
+          fs.writeFileSync(out+'/candidates.csv',report.csv);
+          const processed=Object.keys(cache.entries).length;
+          fs.writeFileSync(out+'/summary.json',JSON.stringify({museum,other,inventoryOnly,snapshot:inv.snapshot,selectedMissingWorks:inv.queue.length,offset,processed,nextOffset:offset+processed,httpRequests:net.requests,gameFilesModified:false,visualReviewPerformed:false,note:'Museum selection uses catalogue labels and source links. Existing AIC/CMA/Commons search is reused; this does not add direct museum website collectors. Candidates require identity and rights review. Zero matches does not prove museum completeness.'},null,2));
+          NODE
+      - name: Confirm game files were not changed
+        run: git diff --exit-code -- games/painting
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: museum-image-discovery-${{ github.run_number }}
+          path: reports/museum-image-discovery/
+          if-no-files-found: warn
+          retention-days: 30
