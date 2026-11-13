@@ -1,0 +1,86 @@
+name: Save museum discovery reports
+on:
+  workflow_run:
+    workflows: [Discover images by museum]
+    types: [completed]
+    branches: [main]
+permissions:
+  actions: read
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  save:
+    if: github.event.workflow_run.head_repository.full_name == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Download report data
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_ID: ${{ github.event.workflow_run.id }}
+          RUN_NUMBER: ${{ github.event.workflow_run.run_number }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh run download "$RUN_ID" --repo "$GITHUB_REPOSITORY" --name "museum-image-discovery-$RUN_NUMBER" --dir "$RUNNER_TEMP/museum-download"
+      - name: Validate JSON reports
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import json, os, pathlib
+          root=pathlib.Path(os.environ['RUNNER_TEMP'])
+          source=root/'museum-download'
+          target=root/'museum-safe'
+          target.mkdir()
+          count=0
+          for name in ['summary.json','queue.json','museums.json','results.json','report.json']:
+              p=source/name
+              if not p.exists():
+                  continue
+              if p.is_symlink() or not p.is_file() or p.stat().st_size>25000000:
+                  raise ValueError('Invalid report: '+name)
+              data=json.loads(p.read_text(encoding='utf-8'))
+              (target/name).write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8')
+              count+=1
+          if count==0:
+              raise ValueError('No JSON reports found')
+          PY
+      - name: Save only reports on isolated branch
+        env:
+          RUN_ID: ${{ github.event.workflow_run.id }}
+          RUN_ATTEMPT: ${{ github.event.workflow_run.run_attempt }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+          SOURCE_SHA: ${{ github.event.workflow_run.head_sha }}
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code --heads origin refs/heads/museum-reports; then
+            git fetch origin refs/heads/museum-reports:refs/remotes/origin/museum-reports
+            git checkout -B museum-reports origin/museum-reports
+          else
+            git checkout --orphan museum-reports
+            git rm -rf --ignore-unmatch .
+          fi
+          destination="reports/museums/$RUN_ID-$RUN_ATTEMPT"
+          mkdir -p "$destination"
+          cp "$RUNNER_TEMP/museum-safe/"*.json "$destination/"
+          DESTINATION="$destination" python3 <<'PY'
+          import json, os, pathlib
+          metadata={k:os.environ[k] for k in ['RUN_ID','RUN_ATTEMPT','RUN_URL','SOURCE_SHA','CONCLUSION','DESTINATION']}
+          pathlib.Path('reports/museums/latest.json').write_text(json.dumps(metadata,indent=2),encoding='utf-8')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- "$destination" reports/museums/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Save museum report $RUN_ID attempt $RUN_ATTEMPT"
+            git push origin HEAD:refs/heads/museum-reports
+          fi
