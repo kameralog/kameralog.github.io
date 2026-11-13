@@ -16,7 +16,7 @@ const html=fs.readFileSync('games/painting/index.html','utf8'),CARDS=jsonValue(h
 const registered=new Set();
 for(const f of fs.readdirSync('games/painting').filter(f=>/^artists-batch-\d+\.js$/.test(f)).sort((a,b)=>+a.match(/\d+/)[0]-+b.match(/\d+/)[0])){const box={CARDS,console,document:{getElementById:()=>null},MutationObserver:class{observe(){}}};box.window=box;box.registerPaintingArtists=batch=>{for(const[id,a]of Object.entries(batch)){assert(!registered.has(id),'Duplicate artist '+id);registered.add(id);registry[id]=a;}};vm.runInNewContext(fs.readFileSync('games/painting/'+f,'utf8'),box,{timeout:5000,filename:f});}
 const artists=Object.entries(registry).map(([id,a])=>({id,...a}));
-const summary={snapshot,artistsTotal:artists.length,artistsProcessed:0,indexComplete:false,scope:'Wikidata current collection claims linked through collection/parent official websites to uffizi.it; not a complete museum catalogue or visual review',statuses:{},errors:[],gameFilesModified:false,visualReviewPerformed:false};
+const summary={snapshot,artistsTotal:artists.length,artistsProcessed:0,indexComplete:false,scope:'All current site artists checked against Wikidata collections Q51252, Q16335227 (Uffizi) and Q866498 (Galleria Palatina); not a complete museum catalogue or visual review',statuses:{},errors:[],gameFilesModified:false,visualReviewPerformed:false};
 const save=()=>fs.writeFileSync(out+'/summary.json',JSON.stringify(summary,null,2));save();
 const sleep=ms=>new Promise(r=>setTimeout(r,ms));let last=0;
 async function external(url){const u=new URL(url);assert(['query.wikidata.org','www.wikidata.org'].includes(u.hostname)&&u.protocol==='https:');for(let n=0;n<3;n++){await sleep(Math.max(0,1500-(Date.now()-last)));last=Date.now();try{const r=await fetch(u,{redirect:'error',signal:AbortSignal.timeout(90000),headers:{Accept:'application/sparql-results+json, application/json','User-Agent':'PaintingUffiziAudit/1.0 (https://github.com/kameralog/kameralog.github.io)'}});if(!r.ok)throw Error('HTTP '+r.status+': '+(await r.text()).slice(0,1500));const text=await r.text();assert(Buffer.byteLength(text)<20000000,'Response too large');return JSON.parse(text);}catch(e){if(n===2)throw e;await sleep(3000*(n+1));}}}
@@ -24,11 +24,11 @@ const entities={};
 async function load(ids){const missing=[...new Set(ids)].filter(id=>/^Q\d+$/.test(id)&&!entities[id]);for(let i=0;i<missing.length;i+=40){const j=await external('https://www.wikidata.org/w/api.php?'+new URLSearchParams({action:'wbgetentities',format:'json',ids:missing.slice(i,i+40).join('|'),props:'labels|aliases|claims'}));assert(j.entities&&!j.error,'Invalid entity response');Object.assign(entities,j.entities);}}
 try{
  const works=new Map();let offset=0;
- for(let page=0;page<50;page++){
-  const query=`SELECT DISTINCT ?work ?creator ?collection WHERE { ?work p:P195 ?cs. ?cs ps:P195 ?collection. FILTER NOT EXISTS {?cs pq:P582 ?end} FILTER NOT EXISTS {?cs wikibase:rank wikibase:DeprecatedRank} ?collection (wdt:P361|wdt:P749)* ?museum. ?museum wdt:P856 ?site. FILTER(REGEX(STR(?site),"^https?://(www[.])?uffizi[.]it(/|$)","i")) ?work p:P170 ?as. ?as ps:P170 ?creator. FILTER NOT EXISTS {?as wikibase:rank wikibase:DeprecatedRank} } ORDER BY ?work ?creator ?collection LIMIT 400 OFFSET ${offset}`;
+ for(let page=0;page<100;page++){
+  const query=`SELECT DISTINCT ?work ?creator ?collection WHERE { VALUES ?collection { wd:Q51252 wd:Q16335227 wd:Q866498 } ?work p:P195 ?cs. ?cs ps:P195 ?collection. FILTER NOT EXISTS {?cs pq:P582 ?end} FILTER NOT EXISTS {?cs wikibase:rank wikibase:DeprecatedRank} ?work p:P170 ?as. ?as ps:P170 ?creator. FILTER NOT EXISTS {?as wikibase:rank wikibase:DeprecatedRank} } ORDER BY ?work ?creator ?collection LIMIT 200 OFFSET ${offset}`;
   const j=await external('https://query.wikidata.org/sparql?'+new URLSearchParams({query,format:'json'}));assert(Array.isArray(j.results?.bindings),'Invalid museum index');const rows=j.results.bindings;
   for(const r of rows){const id=r.work.value.split('/').at(-1);if(!works.has(id))works.set(id,{id,creators:new Set(),collections:new Set()});works.get(id).creators.add(r.creator.value.split('/').at(-1));works.get(id).collections.add(r.collection.value.split('/').at(-1));}
-  offset+=rows.length;if(rows.length<400){summary.indexComplete=true;break;}
+  offset+=rows.length;if(rows.length<200){summary.indexComplete=true;break;}
  }
  summary.indexWorks=works.size;assert(summary.indexComplete,'Museum index pagination limit reached');assert(works.size>0,'Museum index returned zero works; refuse a misleading empty audit');
  await load([...works.values()].flatMap(w=>[...w.creators]));
