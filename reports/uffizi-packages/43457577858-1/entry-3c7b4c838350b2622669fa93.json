@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "raphael",
+  "artist": "Рафаэль Санти",
+  "work": "Q2627028",
+  "title": "Portrait of Elisabetta Gonzaga",
+  "inventories": [
+    "1441"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Raphael (attr.), Portrait of Elisabetta Gonzaga, 1506, Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Raphael_%28attr.%29%2C_Portrait_of_Elisabetta_Gonzaga%2C_1506%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Raphael_%28attr.%29%2C_Portrait_of_Elisabetta_Gonzaga%2C_1506%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Raphael_(attr.),_Portrait_of_Elisabetta_Gonzaga,_1506,_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Armin Kleiner",
+      "credit": "Own work by MenkinAlRire . Taken on 14 September 2021, 19:17:11",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 15304,
+      "checkedAt": "2026-11-13T15:08:05.363Z"
+    },
+    "width": 3434,
+    "height": 4868
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

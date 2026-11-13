@@ -1,0 +1,20 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "jusepe_de_ribera",
+  "artist": "Хусепе де Рибера",
+  "work": "Q116912667",
+  "title": "Self-portrait of Giuseppe Maria Crespi (1665-1747) in the midst of his family, in the background a small painting with a caricature of the Bolognese priest, Silva",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

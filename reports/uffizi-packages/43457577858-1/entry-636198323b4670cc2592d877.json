@@ -1,0 +1,46 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "rembrandt",
+  "artist": "Рембрандт ван Рейн",
+  "work": "Q18226128",
+  "title": "Self-portrait",
+  "inventories": [
+    "69.232",
+    "1871"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Rembrandt, Self-portrait, 1668–1669, Galleria degli Uffizi, Florence.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Rembrandt%2C_Self-portrait%2C_1668%E2%80%931669%2C_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/96/Rembrandt%2C_Self-portrait%2C_1668%E2%80%931669%2C_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Rembrandt,_Self-portrait,_1668%E2%80%931669,_Galleria_degli_Uffizi,_Florence.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Rembrandt",
+      "credit": "www.mcah.columbia.edu : Home : Pic",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12564,
+      "checkedAt": "2026-11-13T15:02:34.463Z"
+    },
+    "width": 792,
+    "height": 1024
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

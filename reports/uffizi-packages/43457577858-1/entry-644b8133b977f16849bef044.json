@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "fra_filippo_lippi",
+  "artist": "Фра Филиппо Липпи",
+  "work": "Q3937767",
+  "title": "Portrait of an Old Man",
+  "inventories": [
+    "00285576"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Filippino Lippi Portrait of old man.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Filippino_Lippi_Portrait_of_old_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/52/Filippino_Lippi_Portrait_of_old_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi_Portrait_of_old_man.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Filippino Lippi",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/l/lippi/flippino/1/09oldman\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:03:01.096Z"
+    },
+    "width": 871,
+    "height": 1064
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

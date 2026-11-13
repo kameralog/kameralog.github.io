@@ -1,0 +1,10 @@
+{
+  "destination": "reports/uffizi-packages/43457577858-1",
+  "counts": {
+    "already_present": 3,
+    "existing_work_missing_image": 1,
+    "new_work_candidates": 495,
+    "needs_review": 282
+  },
+  "status": "proposed_not_approved"
+}

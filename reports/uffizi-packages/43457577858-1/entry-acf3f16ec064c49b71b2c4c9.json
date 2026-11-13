@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "albrecht_durer",
+  "artist": "Альбрехт Дюрер",
+  "work": "Q4009969",
+  "title": "Madonna and Child",
+  "inventories": [
+    "00286559"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Durer, vergine della pera.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Durer%2C_vergine_della_pera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Durer%2C_vergine_della_pera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Durer,_vergine_della_pera.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Albrecht Dürer",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"d/durer/1/10/1madpear\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:09:13.789Z"
+    },
+    "width": 801,
+    "height": 1098
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

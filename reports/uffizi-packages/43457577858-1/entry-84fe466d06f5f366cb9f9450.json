@@ -1,0 +1,22 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "francesco_salviati",
+  "artist": "Франческо Сальвиати",
+  "work": "Q17173923",
+  "title": "Artemisia mourning Mausolus",
+  "inventories": [
+    "00288616"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

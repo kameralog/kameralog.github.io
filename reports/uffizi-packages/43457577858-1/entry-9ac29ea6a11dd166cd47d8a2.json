@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "ludovico_mazzolino",
+  "artist": "Людовико Маццолино",
+  "work": "Q15974335",
+  "title": "Circumcision of Christ",
+  "inventories": [
+    "00287784"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Mazzolino, circoncisione, uffizi.jpeg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mazzolino%2C_circoncisione%2C_uffizi.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/60/Mazzolino%2C_circoncisione%2C_uffizi.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Mazzolino,_circoncisione,_uffizi.jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Ludovico Mazzolino",
+      "credit": "http://www.polomuseale.firenze.it",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:13:16.809Z"
+    },
+    "width": 653,
+    "height": 876
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

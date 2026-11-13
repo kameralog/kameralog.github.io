@@ -1,0 +1,22 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "raphael",
+  "artist": "Рафаэль Санти",
+  "work": "Q131561262",
+  "title": "Drawing by Raffaello (Uffizi, 541 E)",
+  "inventories": [
+    "541 E"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

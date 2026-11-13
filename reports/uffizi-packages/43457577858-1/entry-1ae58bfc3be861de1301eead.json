@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "peder_severin_kroyer",
+  "artist": "Педер Северин Крёйер",
+  "work": "Q22931136",
+  "title": "Self-portrait",
+  "inventories": [
+    "1945"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Pedar Severin Krøyer, by Pedar Severin Krøyer.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pedar_Severin_Kr%C3%B8yer%2C_by_Pedar_Severin_Kr%C3%B8yer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pedar_Severin_Kr%C3%B8yer%2C_by_Pedar_Severin_Kr%C3%B8yer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Pedar_Severin_Kr%C3%B8yer,_by_Pedar_Severin_Kr%C3%B8yer.JPG",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Peder Severin Krøyer / After Peder Severin Krøyer",
+      "credit": "Palais Dorotheum 11 October 2011, lot 107",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12586,
+      "checkedAt": "2026-11-13T15:18:01.993Z"
+    },
+    "width": 5761,
+    "height": 6987
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

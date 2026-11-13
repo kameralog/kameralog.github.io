@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "fra_filippo_lippi",
+  "artist": "Фра Филиппо Липпи",
+  "work": "Q1055111",
+  "title": "Madonna and Child",
+  "inventories": [
+    "1598"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Madonna and Child with two Angels (by Filippo Lippi) – Galleria degli Uffizi, Florence.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Madonna_and_Child_with_two_Angels_%28by_Filippo_Lippi%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/42/Madonna_and_Child_with_two_Angels_%28by_Filippo_Lippi%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Madonna_and_Child_with_two_Angels_(by_Filippo_Lippi)_%E2%80%93_Galleria_degli_Uffizi,_Florence.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Filippo Lippi",
+      "credit": "https://images.uffizi.it/production/attachments/1506342325696695-Lippi-Madonna-col-Bambino-e-due-angeli-principale.jpg?ixlib=rails-2.1.3&fit=max&fm=pjpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12575,
+      "checkedAt": "2026-11-13T15:02:42.780Z"
+    },
+    "width": 2045,
+    "height": 3000
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "giorgio_vasari",
+  "artist": "Джорджо Вазари",
+  "work": "Q131449675",
+  "title": "Allegory of Patience",
+  "inventories": [],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Allegoria della pazienza - Palazzo Pitti.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Allegoria_della_pazienza_-_Palazzo_Pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/26/Allegoria_della_pazienza_-_Palazzo_Pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Allegoria_della_pazienza_-_Palazzo_Pitti.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Uncertain, maybe Giorgio Vasari.",
+      "credit": "This is a faithful photographic reproduction of a two-dimensional, public domain work of art. The work of art itself is in the public domain for the following reason: Public domain Public domain false false This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 100 years or fewer . You must also include a United States public domain tag to indicate why this work is in the public domain in the United States. This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. https://creativecommons.org/publicdomain/mark/1.0/ PDM Creative Commons Public Domain Mark 1.0 false false The official position taken by the Wikimedia Foundation is that \" faithful reproductions of two-dimensional public domain works of art are public domain \". This photographic reproduction is therefore also considered to be in the public domain in the United States. In other jurisdictions, re-use of this content may be restricted; see Reuse of PD-Art photographs for details.",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12591,
+      "checkedAt": "2026-11-13T15:06:52.253Z"
+    },
+    "width": 439,
+    "height": 769
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

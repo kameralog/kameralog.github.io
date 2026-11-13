@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "francesco_furini",
+  "artist": "Франческо Фурини",
+  "work": "Q135163749",
+  "title": "Portrait of Vittoria della Rovere",
+  "inventories": [
+    "1890 n. 2689"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Francesco Furini - Portrait of Vittoria della Rovere (cropped).jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Francesco_Furini_-_Portrait_of_Vittoria_della_Rovere_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Francesco_Furini_-_Portrait_of_Vittoria_della_Rovere_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Portrait_of_Vittoria_della_Rovere_(cropped).jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Francesco Furini",
+      "credit": "This image has been extracted from another file",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 15304,
+      "checkedAt": "2026-11-13T15:16:04.761Z"
+    },
+    "width": 1439,
+    "height": 1795
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "mariotto_albertinelli",
+  "artist": "Мариотто Альбертинелли",
+  "work": "Q124436402",
+  "title": "Annunciation",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Albertinelli, annunciazione.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Albertinelli%2C_annunciazione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Albertinelli%2C_annunciazione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Albertinelli,_annunciazione.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Mariotto Albertinelli",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/albertin/visitat1\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:13:42.464Z"
+    },
+    "width": 694,
+    "height": 318
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

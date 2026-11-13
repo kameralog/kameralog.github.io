@@ -1,0 +1,22 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "lucas_cranach_the_elder",
+  "artist": "Лукас Кранах Старший",
+  "work": "Q3937603",
+  "title": "Portraits of Martin Luther and Philipp Melanchthon",
+  "inventories": [
+    "512 &  472"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

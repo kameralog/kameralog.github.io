@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "frans_van_mieris_the_elder",
+  "artist": "Франс ван Мирис Старший",
+  "work": "Q51214997",
+  "title": "The Empty Glass",
+  "inventories": [
+    "1277"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Frans van Mieris (I) - The Empty Glass Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Frans_van_Mieris_%28I%29_-_The_Empty_Glass_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Frans_van_Mieris_%28I%29_-_The_Empty_Glass_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Frans_van_Mieris_(I)_-_The_Empty_Glass_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Frans van Mieris the Elder",
+      "credit": "https://farm9.static.flickr.com/8581/16031029703_dcda56479d_b.jpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:14:37.071Z"
+    },
+    "width": 790,
+    "height": 1024
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

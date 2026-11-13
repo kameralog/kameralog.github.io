@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "annibale_carracci",
+  "artist": "Аннибале Карраччи",
+  "work": "Q126180968",
+  "title": "Man with a Monkey",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Annibale Carracci Uomo con scimmia Firenze.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Annibale_Carracci_Uomo_con_scimmia_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Annibale_Carracci_Uomo_con_scimmia_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_Uomo_con_scimmia_Firenze.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Annibale Carracci",
+      "credit": "https://www.virtualuffizi.com/a-man-with-a-monkey.html",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12581,
+      "checkedAt": "2026-11-13T15:15:02.569Z"
+    },
+    "width": 709,
+    "height": 835
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

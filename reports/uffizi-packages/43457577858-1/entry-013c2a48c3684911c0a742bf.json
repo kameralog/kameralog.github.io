@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "raphael",
+  "artist": "Рафаэль Санти",
+  "work": "Q3013751",
+  "title": "Portrait of Guidobaldo da Montefeltro",
+  "inventories": [
+    "00287135"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Raffaello Sanzio - Guidobaldo da Montefeltro - WGA18653.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Raffaello_Sanzio_-_Guidobaldo_da_Montefeltro_-_WGA18653.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/41/Raffaello_Sanzio_-_Guidobaldo_da_Montefeltro_-_WGA18653.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Guidobaldo_da_Montefeltro_-_WGA18653.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Raphael",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"r/raphael/2firenze/2/36montef\" http://nevsepic.com.ua/art-i-risovanaya-grafika/2409-raffaello-sanzio-rafael-santi-37-rabot.html image (reversed)",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12588,
+      "checkedAt": "2026-11-13T15:08:08.290Z"
+    },
+    "width": 4921,
+    "height": 6939
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

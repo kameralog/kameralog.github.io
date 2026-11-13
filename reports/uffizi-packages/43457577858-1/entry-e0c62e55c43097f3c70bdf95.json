@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "raphael",
+  "artist": "Рафаэль Санти",
+  "work": "Q2035209",
+  "title": "Madonna del Granduca",
+  "inventories": [
+    "178"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Raffaello (1483-1520) - La Madonna del Granduca - 178 - Galleria Palatina.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Raffaello_%281483-1520%29_-_La_Madonna_del_Granduca_-_178_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Raffaello_%281483-1520%29_-_La_Madonna_del_Granduca_-_178_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Raffaello_(1483-1520)_-_La_Madonna_del_Granduca_-_178_-_Galleria_Palatina.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Raphael",
+      "credit": "uffizi.it",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:07:53.265Z"
+    },
+    "width": 2219,
+    "height": 3268
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

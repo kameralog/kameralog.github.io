@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "agnolo_bronzino",
+  "artist": "Аньоло Бронзино",
+  "work": "Q1990128",
+  "title": "Portrait of Lucrezia Panciatichi",
+  "inventories": [
+    "736"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Agnolo di Cosimo Tori detto Bronzino (Firenze, 1503-1572) - Ritratto di Lucrezia Panciatichi - 736 - Uffizi Gallery.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Agnolo_di_Cosimo_Tori_detto_Bronzino_%28Firenze%2C_1503-1572%29_-_Ritratto_di_Lucrezia_Panciatichi_-_736_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Agnolo_di_Cosimo_Tori_detto_Bronzino_%28Firenze%2C_1503-1572%29_-_Ritratto_di_Lucrezia_Panciatichi_-_736_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Agnolo_di_Cosimo_Tori_detto_Bronzino_(Firenze,_1503-1572)_-_Ritratto_di_Lucrezia_Panciatichi_-_736_-_Uffizi_Gallery.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Bronzino",
+      "credit": "uffizi.it",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:04:53.604Z"
+    },
+    "width": 1839,
+    "height": 2300
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

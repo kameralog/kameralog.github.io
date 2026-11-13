@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "domenico_beccafumi",
+  "artist": "Доменико Беккафуми",
+  "work": "Q3944481",
+  "title": "Holy Family with St. John the Baptist",
+  "inventories": [
+    "00287253"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Domenico Beccafumi - The Holy Family with Young Saint John - WGA1549.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Domenico_Beccafumi_-_The_Holy_Family_with_Young_Saint_John_-_WGA1549.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Domenico_Beccafumi_-_The_Holy_Family_with_Young_Saint_John_-_WGA1549.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Domenico_Beccafumi_-_The_Holy_Family_with_Young_Saint_John_-_WGA1549.png",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Domenico Beccafumi",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/beccafum/7holyfam\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/png",
+      "bytesInspected": 12581,
+      "checkedAt": "2026-11-13T15:13:40.787Z"
+    },
+    "width": 685,
+    "height": 692
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

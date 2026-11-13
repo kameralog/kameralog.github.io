@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "agnolo_bronzino",
+  "artist": "Аньоло Бронзино",
+  "work": "Q48814933",
+  "title": "Portrait of a girl",
+  "inventories": [
+    "00021909"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Bronzino, Agnolo - Portrait of a Young Girl with a book.jpeg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bronzino%2C_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bronzino%2C_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Bronzino,_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Bronzino",
+      "credit": "https://catalogo.uffizi.it/it/29/ricerca/detailiccd/1185042/",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12567,
+      "checkedAt": "2026-11-13T15:05:02.529Z"
+    },
+    "width": 547,
+    "height": 691
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

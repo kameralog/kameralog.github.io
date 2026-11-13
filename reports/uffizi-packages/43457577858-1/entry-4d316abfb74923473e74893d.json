@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "joos_van_cleve",
+  "artist": "Йос ван Клеве",
+  "work": "Q3937743",
+  "title": "Portrait of a man and his wife",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Joos van cleve, doppio rirtratto.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Joos_van_cleve%2C_doppio_rirtratto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Joos_van_cleve%2C_doppio_rirtratto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Joos_van_cleve,_doppio_rirtratto.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Joos van Cleve",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/cleve/joos/double\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:14:07.989Z"
+    },
+    "width": 1381,
+    "height": 950
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

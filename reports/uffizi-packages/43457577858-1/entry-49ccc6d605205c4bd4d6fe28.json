@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "cima_da_conegliano",
+  "artist": "Чима да Конельяно",
+  "work": "Q3947301",
+  "title": "Saint Jerome",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Cima da Conegliano, San Girolamo Palazzo Pitti, Firenze.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cima_da_Conegliano%2C_San_Girolamo_Palazzo_Pitti%2C_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cima_da_Conegliano%2C_San_Girolamo_Palazzo_Pitti%2C_Firenze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano,_San_Girolamo_Palazzo_Pitti,_Firenze.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Giovanni Battista Cima da Conegliano",
+      "credit": "Palazzo Pitti, Firenze",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:12:57.288Z"
+    },
+    "width": 1578,
+    "height": 1875
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

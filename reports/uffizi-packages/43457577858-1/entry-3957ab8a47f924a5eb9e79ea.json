@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "titian",
+  "artist": "Тициан Вечеллио",
+  "work": "Q11136256",
+  "title": "Portrait of a Young Englishman",
+  "inventories": [
+    "92"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Portrait of a Young Englishman (by Titian).jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Young_Englishman_%28by_Titian%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Young_Englishman_%28by_Titian%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Young_Englishman_(by_Titian).jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Titian",
+      "credit": "[1]",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12579,
+      "checkedAt": "2026-11-13T15:08:21.780Z"
+    },
+    "width": 3161,
+    "height": 3688
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "peter_paul_rubens",
+  "artist": "Питер Пауль Рубенс",
+  "work": "Q16938315",
+  "title": "The Triumphal Entry of Henry IV into Paris",
+  "inventories": [
+    "00129512"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Peter Paul Rubens - Triumphal Entry ofHenry IV into Paris.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Peter_Paul_Rubens_-_Triumphal_Entry_ofHenry_IV_into_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Peter_Paul_Rubens_-_Triumphal_Entry_ofHenry_IV_into_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Triumphal_Entry_ofHenry_IV_into_Paris.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Peter Paul Rubens",
+      "credit": "https://artsandculture.google.com/asset/triumphal-entry-of-henri-iv-in-paris-rubens-pieter-paul",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12587,
+      "checkedAt": "2026-11-13T15:09:37.803Z"
+    },
+    "width": 4941,
+    "height": 2713
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

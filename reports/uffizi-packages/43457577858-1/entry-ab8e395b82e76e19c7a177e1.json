@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "andrea_del_verrocchio",
+  "artist": "Андреа дель Верроккьо",
+  "work": "Q1059211",
+  "title": "The Baptism of Christ",
+  "inventories": [
+    "8358"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Verrocchio and Leonardo, Baptism of Christ, c1470-75, Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Verrocchio_and_Leonardo%2C_Baptism_of_Christ%2C_c1470-75%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Verrocchio_and_Leonardo%2C_Baptism_of_Christ%2C_c1470-75%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Verrocchio_and_Leonardo,_Baptism_of_Christ,_c1470-75,_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Andrea del Verrocchio / Leonardo da Vinci",
+      "credit": "Own work . Taken on 14 September 2021, 15:29:06.",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12579,
+      "checkedAt": "2026-11-13T15:07:27.060Z"
+    },
+    "width": 3760,
+    "height": 4520
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

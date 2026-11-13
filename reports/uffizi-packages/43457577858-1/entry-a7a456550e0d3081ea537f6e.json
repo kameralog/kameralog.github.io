@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "marco_palmezzano",
+  "artist": "Марко Пальмеццано",
+  "work": "Q3698198",
+  "title": "Crucifixion",
+  "inventories": [
+    "00286534"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Marco palmezzano, crocifissione degli Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Marco_palmezzano%2C_crocifissione_degli_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Marco_palmezzano%2C_crocifissione_degli_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Marco_palmezzano,_crocifissione_degli_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Marco Palmezzano",
+      "credit": "http://www.virtualuffizi.com/uffizi1/Uffizi_Pictures.asp?Contatore=173",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12561,
+      "checkedAt": "2026-11-13T15:12:42.179Z"
+    },
+    "width": 370,
+    "height": 455
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

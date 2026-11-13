@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "giovanni_bellini",
+  "artist": "Джованни Беллини",
+  "work": "Q47871637",
+  "title": "Madonna Adoring the Sleeping Christ Child",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Giovanni Bellini - Madonna in Adoration of the Sleeping Child - WGA01671.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Giovanni_Bellini_-_Madonna_in_Adoration_of_the_Sleeping_Child_-_WGA01671.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Giovanni_Bellini_-_Madonna_in_Adoration_of_the_Sleeping_Child_-_WGA01671.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_-_Madonna_in_Adoration_of_the_Sleeping_Child_-_WGA01671.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Giovanni Bellini",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/bellini/giovanni/1470-79/083madon\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12576,
+      "checkedAt": "2026-11-13T15:12:21.174Z"
+    },
+    "width": 676,
+    "height": 961
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

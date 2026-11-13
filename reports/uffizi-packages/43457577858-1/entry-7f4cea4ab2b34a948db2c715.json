@@ -1,0 +1,23 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "sebastien_bourdon",
+  "artist": "Себастьен Бурдон",
+  "work": "Q114241488",
+  "title": "Q114241488",
+  "inventories": [
+    "1206"
+  ],
+  "collections": [
+    "Q16335227",
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,46 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "lavinia_fontana",
+  "artist": "Лавиния Фонтана",
+  "work": "Q19390001",
+  "title": "Self-portrait",
+  "inventories": [
+    "00292059",
+    "4013"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Lavinia-Fontana-Autoritratto-in-studio-1579-Firenze-Uffizi (cropped).png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lavinia-Fontana-Autoritratto-in-studio-1579-Firenze-Uffizi_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Lavinia-Fontana-Autoritratto-in-studio-1579-Firenze-Uffizi_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lavinia-Fontana-Autoritratto-in-studio-1579-Firenze-Uffizi_(cropped).png",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Lavinia Fontana",
+      "credit": "Firenze. Galleria degli Uffizi",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/png",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:17:42.251Z"
+    },
+    "width": 866,
+    "height": 876
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "pontormo",
+  "artist": "Якопо Понтормо",
+  "work": "Q3937624",
+  "title": "Portrait of Maria Salviati",
+  "inventories": [
+    "3565"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Jacopo Pontormo, Portrait of Maria Salviati, c. 1543-45, Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jacopo_Pontormo%2C_Portrait_of_Maria_Salviati%2C_c._1543-45%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Jacopo_Pontormo%2C_Portrait_of_Maria_Salviati%2C_c._1543-45%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo,_Portrait_of_Maria_Salviati,_c._1543-45,_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Attributed to Pontormo",
+      "credit": "Own work by Armin Kleiner . Taken on 14 September 2021, 20:16:57.",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:05:55.393Z"
+    },
+    "width": 3737,
+    "height": 4600
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

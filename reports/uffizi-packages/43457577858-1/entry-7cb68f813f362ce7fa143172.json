@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "frans_van_mieris_the_elder",
+  "artist": "Франс ван Мирис Старший",
+  "work": "Q51265867",
+  "title": "Portrait of a Man",
+  "inventories": [
+    "1183"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Frans van Mieris (I) - Portrait of a Man.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Frans_van_Mieris_%28I%29_-_Portrait_of_a_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Frans_van_Mieris_%28I%29_-_Portrait_of_a_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Frans_van_Mieris_(I)_-_Portrait_of_a_Man.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Frans van Mieris the Elder",
+      "credit": "http://www.polomuseale.firenze.it/inv1890/inventario.asp",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:14:40.097Z"
+    },
+    "width": 449,
+    "height": 620
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

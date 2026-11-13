@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "giovanni_di_paolo",
+  "artist": "Джованни ди Паоло",
+  "work": "Q3842527",
+  "title": "Madonna and Child with Saints",
+  "inventories": [
+    "00284987"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Giovanni di paolo, madonna col bambino e santi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Giovanni_di_paolo%2C_madonna_col_bambino_e_santi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Giovanni_di_paolo%2C_madonna_col_bambino_e_santi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Giovanni_di_paolo,_madonna_col_bambino_e_santi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Giovanni di Paolo",
+      "credit": "www.wga.hu",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 15304,
+      "checkedAt": "2026-11-13T15:02:41.412Z"
+    },
+    "width": 565,
+    "height": 495
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

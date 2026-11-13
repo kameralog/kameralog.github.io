@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "titian",
+  "artist": "Тициан Вечеллио",
+  "work": "Q727875",
+  "title": "Venus of Urbino",
+  "inventories": [
+    "1437"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Tiziano's Venere di Urbino (from The History BLog).jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Tiziano%27s_Venere_di_Urbino_(from_The_History_BLog).jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Titian",
+      "credit": "http://www.thehistoryblog.com/wp-content/uploads/2013/02/Venus-of-Urbino.jpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12579,
+      "checkedAt": "2026-11-13T15:09:01.760Z"
+    },
+    "width": 3633,
+    "height": 2574
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

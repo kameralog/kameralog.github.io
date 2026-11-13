@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "pontormo",
+  "artist": "Якопо Понтормо",
+  "work": "Q3873251",
+  "title": "The Birth of John the Baptist",
+  "inventories": [
+    "00099575"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Pontormo, natività del battista 01.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pontormo%2C_nativit%C3%A0_del_battista_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pontormo%2C_nativit%C3%A0_del_battista_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Pontormo,_nativit%C3%A0_del_battista_01.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Pontormo",
+      "credit": "http://www.atlantedellarteitaliana.it/artwork-670.html",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:05:50.884Z"
+    },
+    "width": 2119,
+    "height": 2044
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

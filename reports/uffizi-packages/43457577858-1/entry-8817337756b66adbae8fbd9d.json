@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "botticelli",
+  "artist": "Сандро Боттичелли",
+  "work": "Q1131263",
+  "title": "Coronation of the Virgin",
+  "inventories": [
+    "00188566"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Botticelli, incoronazione della vergine.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Botticelli%2C_incoronazione_della_vergine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/16/Botticelli%2C_incoronazione_della_vergine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Botticelli,_incoronazione_della_vergine.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Sandro Botticelli",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/botticel/8smarco/10smarco\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:03:25.085Z"
+    },
+    "width": 806,
+    "height": 1218
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

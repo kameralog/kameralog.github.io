@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "piero_del_pollaiuolo",
+  "artist": "Пьеро дель Поллайоло",
+  "work": "Q3740793",
+  "title": "Faith",
+  "inventories": [
+    "00158557 A 3"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Piero del Pollaiolo faith.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Piero_del_Pollaiolo_faith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/88/Piero_del_Pollaiolo_faith.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_faith.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Piero del Pollaiuolo",
+      "credit": "[1]",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12588,
+      "checkedAt": "2026-11-13T15:11:24.086Z"
+    },
+    "width": 781,
+    "height": 1500
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

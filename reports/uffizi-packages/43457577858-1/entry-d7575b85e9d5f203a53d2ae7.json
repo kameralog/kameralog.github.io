@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "bernardino_luini",
+  "artist": "Бернардино Луини",
+  "work": "Q3945710",
+  "title": "Salome with the head of John the Baptist",
+  "inventories": [
+    "00226993"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Bernardino Luini Herodias.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bernardino_Luini_Herodias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bernardino_Luini_Herodias.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Bernardino_Luini_Herodias.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Bernardino Luini",
+      "credit": "http://www.virtualuffizi.com/uffizi1/cercals2.asp?Sala=23%20-%20The%20Correggio%20Room",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12616,
+      "checkedAt": "2026-11-13T15:12:49.766Z"
+    },
+    "width": 510,
+    "height": 415
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

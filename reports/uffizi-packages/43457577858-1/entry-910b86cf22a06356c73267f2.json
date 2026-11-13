@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "giorgio_vasari",
+  "artist": "Джорджо Вазари",
+  "work": "Q125022698",
+  "title": "Allegory of the Immaculate Conception",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Allégorie de l'immaculée conception (Vasari).png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/All%C3%A9gorie_de_l%27immacul%C3%A9e_conception_%28Vasari%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/be/All%C3%A9gorie_de_l%27immacul%C3%A9e_conception_%28Vasari%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:All%C3%A9gorie_de_l%27immacul%C3%A9e_conception_(Vasari).png",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Giorgio Vasari",
+      "credit": "http://www.painting-palace.com/files/353/35250_Allegory_of_the_Immaculate_Conception_f.jpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/png",
+      "bytesInspected": 12581,
+      "checkedAt": "2026-11-13T15:06:50.663Z"
+    },
+    "width": 448,
+    "height": 675
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

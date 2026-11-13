@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "raphael",
+  "artist": "Рафаэль Санти",
+  "work": "Q3399492",
+  "title": "Portrait of Cardinal Bibbiena",
+  "inventories": [
+    "158"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Raffaello Sanzio (Urbino 1483 – Roma 1520) - Ritratto del Cardinale Bibbiena - 158 - Galleria Palatina.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Raffaello_Sanzio_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Ritratto_del_Cardinale_Bibbiena_-_158_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Raffaello_Sanzio_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Ritratto_del_Cardinale_Bibbiena_-_158_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_(Urbino_1483_%E2%80%93_Roma_1520)_-_Ritratto_del_Cardinale_Bibbiena_-_158_-_Galleria_Palatina.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Raphael",
+      "credit": "uffizi.it",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12579,
+      "checkedAt": "2026-11-13T15:08:09.775Z"
+    },
+    "width": 2339,
+    "height": 3000
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "alessandro_allori",
+  "artist": "Алессандро Аллори",
+  "work": "Q111304344",
+  "title": "Portrait of Ortensia de Bardi di Montauto, formerly identified as Giulia de' Medici",
+  "inventories": [
+    "793"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Portrait of Ortensia de' Bardi di Montauto by Alessandro Allori - Gallerie degli Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/66/Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Alessandro Allori",
+      "credit": "Facebook",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12579,
+      "checkedAt": "2026-11-13T15:16:42.203Z"
+    },
+    "width": 1080,
+    "height": 1350
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

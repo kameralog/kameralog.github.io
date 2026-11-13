@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "giovanni_antonio_boltraffio",
+  "artist": "Джованни Антонио Больтраффио",
+  "work": "Q3870403",
+  "title": "Narcissus at the Fountain",
+  "inventories": [
+    "00287146"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Boltraffio, narciso alla fonte.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Boltraffio%2C_narciso_alla_fonte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Boltraffio%2C_narciso_alla_fonte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Boltraffio,_narciso_alla_fonte.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Giovanni Antonio Boltraffio",
+      "credit": "http://www.ilreporter.com/notizie/e-luce-fu-a-goteborg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:12:46.813Z"
+    },
+    "width": 1600,
+    "height": 988
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

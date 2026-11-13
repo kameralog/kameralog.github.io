@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "domenico_ghirlandaio",
+  "artist": "Доменико Гирландайо",
+  "work": "Q3690992",
+  "title": "Coperta di ritratto con grottesche",
+  "inventories": [
+    "00293131"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Ridolfo del Ghirlandaio - The Portrait's Box - WGA08929.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ridolfo_del_Ghirlandaio_-_The_Portrait%27s_Box_-_WGA08929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ridolfo_del_Ghirlandaio_-_The_Portrait%27s_Box_-_WGA08929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Ridolfo_del_Ghirlandaio_-_The_Portrait%27s_Box_-_WGA08929.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Ridolfo del Ghirlandaio",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/ghirland/ridolfo/the_nun1\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:11:06.153Z"
+    },
+    "width": 800,
+    "height": 1096
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

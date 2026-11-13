@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "fra_filippo_lippi",
+  "artist": "Фра Филиппо Липпи",
+  "work": "Q3863243",
+  "title": "Death of Lucretia",
+  "inventories": [
+    "388"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Filippino, morte di lucrezia.JPG",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Filippino%2C_morte_di_lucrezia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Filippino%2C_morte_di_lucrezia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Filippino,_morte_di_lucrezia.JPG",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Filippino Lippi",
+      "credit": "Self-scanned",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:02:53.600Z"
+    },
+    "width": 2252,
+    "height": 715
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

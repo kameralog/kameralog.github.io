@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "andrea_del_sarto",
+  "artist": "Андреа дель Сарто",
+  "work": "Q3944461",
+  "title": "Bracci Holy Family",
+  "inventories": [
+    "62"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Andrea del Sarto - Holy Family - WGA0385.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Andrea_del_Sarto_-_Holy_Family_-_WGA0385.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Andrea_del_Sarto_-_Holy_Family_-_WGA0385.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Holy_Family_-_WGA0385.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Andrea del Sarto",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/andrea/sarto/2/holy_fam\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:06:39.981Z"
+    },
+    "width": 850,
+    "height": 1076
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

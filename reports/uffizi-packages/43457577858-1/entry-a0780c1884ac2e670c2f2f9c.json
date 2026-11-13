@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "paolo_veronese",
+  "artist": "Паоло Веронезе",
+  "work": "Q15974329",
+  "title": "Annunciation",
+  "inventories": [
+    "899"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Veronese - Annunciazione, 1185100, Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Veronese_-_Annunciazione%2C_1185100%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/13/Veronese_-_Annunciazione%2C_1185100%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Veronese_-_Annunciazione,_1185100,_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Paolo Veronese",
+      "credit": "catalogo.beniculturali.it",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12576,
+      "checkedAt": "2026-11-13T15:06:06.606Z"
+    },
+    "width": 1200,
+    "height": 593
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

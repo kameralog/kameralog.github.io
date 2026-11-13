@@ -1,0 +1,47 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "tintoretto",
+  "artist": "Тинторетто",
+  "work": "Q111644782",
+  "title": "Portrait of a Genoese Nobleman",
+  "inventories": [
+    "1722",
+    "1453",
+    "9951"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Jacopo Tintoretto 091.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jacopo_Tintoretto_091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/70/Jacopo_Tintoretto_091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_091.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Jacopo Tintoretto",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/t/tintoret/8/06noblem\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12581,
+      "checkedAt": "2026-11-13T15:05:16.446Z"
+    },
+    "width": 850,
+    "height": 1059
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,46 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "albrecht_durer",
+  "artist": "Альбрехт Дюрер",
+  "work": "Q1988057",
+  "title": "Portrait Diptych of Dürer's Parents",
+  "inventories": [
+    "00286561",
+    "Gm1160"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Portrait Diptych of Dürer's Parents.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Portrait_Diptych_of_D%C3%BCrer%27s_Parents.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/23/Portrait_Diptych_of_D%C3%BCrer%27s_Parents.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_Diptych_of_D%C3%BCrer%27s_Parents.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Albrecht Dürer",
+      "credit": "This file was derived from: Albrecht Dürer 072FXD.jpg Albrecht Dürer - Ritratto del padre - Google Art ProjectFXD.jpg",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 15304,
+      "checkedAt": "2026-11-13T15:09:06.340Z"
+    },
+    "width": 4929,
+    "height": 3113
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

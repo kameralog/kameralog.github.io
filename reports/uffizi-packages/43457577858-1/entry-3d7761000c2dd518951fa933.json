@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "raphael",
+  "artist": "Рафаэль Санти",
+  "work": "Q2515309",
+  "title": "Portrait of Agnolo Doni",
+  "inventories": [
+    "61"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Agnolo Doni's portrait paintings by Raffaello Sanzio.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Raphael",
+      "credit": "Own work ThePhotografer Taken on 1 August 2021",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12588,
+      "checkedAt": "2026-11-13T15:07:59.328Z"
+    },
+    "width": 5366,
+    "height": 7674
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

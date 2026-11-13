@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "lucas_cranach_the_elder",
+  "artist": "Лукас Кранах Старший",
+  "work": "Q116979308",
+  "title": "Portrait of Martin Luther",
+  "inventories": [
+    "512"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Cranach, Portraits of Martin Luther and Philipp Melanchthon (cropped1).jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cranach%2C_Portraits_of_Martin_Luther_and_Philipp_Melanchthon_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cranach%2C_Portraits_of_Martin_Luther_and_Philipp_Melanchthon_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Cranach,_Portraits_of_Martin_Luther_and_Philipp_Melanchthon_(cropped1).jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Lucas Cranach the Elder and workshop",
+      "credit": "1. Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/cranach/lucas_e/13/12luthe2\" 2. kunst-fuer-alle.de",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:04:16.095Z"
+    },
+    "width": 931,
+    "height": 1257
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

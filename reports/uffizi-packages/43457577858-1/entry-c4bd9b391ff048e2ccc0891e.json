@@ -1,0 +1,22 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "andrea_del_sarto",
+  "artist": "Андреа дель Сарто",
+  "work": "Q131561264",
+  "title": "Drawing by Andrea del Sarto (Uffizi, 632 E)",
+  "inventories": [
+    "632 E"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

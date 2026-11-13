@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "already_present",
+  "reason": "Same work already illustrated or same Commons file already used for this artist",
+  "artistId": "cimabue",
+  "artist": "Чимабуэ",
+  "work": "Q1569622",
+  "title": "Madonna and Child Enthroned with Angels and Prophets. ˋSanta Trinità Maestà´",
+  "inventories": [
+    "00134049"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Cimabue - Maestà di Santa Trinita - Google Art Project.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Cimabue",
+      "credit": "Google Arts & Culture — uQHfVH5CnUNhxA",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12579,
+      "checkedAt": "2026-11-13T15:07:04.167Z"
+    },
+    "width": 2008,
+    "height": 3596
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

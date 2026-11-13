@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "cristofano_allori",
+  "artist": "Кристофано Аллори",
+  "work": "Q32905341",
+  "title": "Hospitality of Saint Julian",
+  "inventories": [],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Criistofano Allori San Giuliano.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Criistofano_Allori_San_Giuliano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Criistofano_Allori_San_Giuliano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Criistofano_Allori_San_Giuliano.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Cristofano Allori",
+      "credit": "http://pintura.aut.org/BU04?Autnum=11.141",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:16:16.734Z"
+    },
+    "width": 605,
+    "height": 800
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

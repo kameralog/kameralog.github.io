@@ -1,0 +1,53 @@
+{
+  "status": "proposed_not_approved",
+  "category": "existing_work_missing_image",
+  "reason": "Unique same-artist museum inventory or Wikidata match without image",
+  "artistId": "giovanni_martinelli",
+  "artist": "Джованни Мартинелли",
+  "work": "Q131107700",
+  "title": "Allegoria della Pittura",
+  "inventories": [
+    "1890 n. 2037"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Allegoria della Pittura, Giovanni Martinelli, 1630-35 c., Uffizi.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Allegoria_della_Pittura%2C_Giovanni_Martinelli%2C_1630-35_c.%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Allegoria_della_Pittura%2C_Giovanni_Martinelli%2C_1630-35_c.%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Allegoria_della_Pittura,_Giovanni_Martinelli,_1630-35_c.,_Uffizi.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Giovanni Martinelli",
+      "credit": "http://www.liveinternet.ru/users/2010239/post264304527/",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:16:28.706Z"
+    },
+    "width": 550,
+    "height": 712
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [
+    {
+      "file": "games/painting/artists-batch-99.js",
+      "bucket": "pendingWorks",
+      "key": "1890 № 2037",
+      "source": "https://www.uffizi.it/en/artworks/martinelli-allegory-of-painting",
+      "expectedSha256": "23f1756ff0518851f4f5ccea25d4f63e299e0bc3ae0e32824ba7d672261ad385"
+    }
+  ],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

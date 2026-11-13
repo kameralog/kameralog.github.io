@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "tintoretto",
+  "artist": "Тинторетто",
+  "work": "Q113006400",
+  "title": "Self-portrait with a Book",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Jacopo Tintoretto - Self-Portrait with a Book - WGA22701.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jacopo_Tintoretto_-_Self-Portrait_with_a_Book_-_WGA22701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jacopo_Tintoretto_-_Self-Portrait_with_a_Book_-_WGA22701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_-_Self-Portrait_with_a_Book_-_WGA22701.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Jacopo Tintoretto",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tintoret/8/27selfp\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:05:18.081Z"
+    },
+    "width": 850,
+    "height": 1062
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

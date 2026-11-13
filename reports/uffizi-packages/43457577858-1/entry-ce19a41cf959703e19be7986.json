@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "giuseppe_maria_crespi",
+  "artist": "Джузеппе Мария Креспи",
+  "work": "Q50939921",
+  "title": "Woman Searching for Fleas",
+  "inventories": [
+    "1408"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Giuseppe Maria Crespi - The Flea - WGA5774.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Giuseppe_Maria_Crespi_-_The_Flea_-_WGA5774.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Giuseppe_Maria_Crespi_-_The_Flea_-_WGA5774.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_The_Flea_-_WGA5774.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Giuseppe Maria Crespi",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/crespi/giuseppe/the_flea\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:15:28.291Z"
+    },
+    "width": 672,
+    "height": 906
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "giovanni_bellini",
+  "artist": "Джованни Беллини",
+  "work": "Q1629015",
+  "title": "Holy Allegory",
+  "inventories": [
+    "903"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Giovanni Bellini — Holy Allegory.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Giovanni_Bellini_%E2%80%94_Holy_Allegory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/85/Giovanni_Bellini_%E2%80%94_Holy_Allegory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_%E2%80%94_Holy_Allegory.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Gleb Simonov",
+      "credit": "Own work",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12578,
+      "checkedAt": "2026-11-13T15:12:15.236Z"
+    },
+    "width": 7557,
+    "height": 4510
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "peter_paul_rubens",
+  "artist": "Питер Пауль Рубенс",
+  "work": "Q12955980",
+  "title": "The Three Graces",
+  "inventories": [
+    "1165"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Peter Paul Rubens - The Three Graces - WGA20440.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Peter_Paul_Rubens_-_The_Three_Graces_-_WGA20440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/22/Peter_Paul_Rubens_-_The_Three_Graces_-_WGA20440.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Three_Graces_-_WGA20440.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Peter Paul Rubens",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/r/rubens/7graphic/11sketc1\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:09:34.766Z"
+    },
+    "width": 750,
+    "height": 1111
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

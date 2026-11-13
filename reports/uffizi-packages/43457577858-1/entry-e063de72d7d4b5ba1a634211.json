@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "bartholomeus_van_der_helst",
+  "artist": "Бартоломеус ван дер Хелст",
+  "work": "Q30222055",
+  "title": "Self-portrait",
+  "inventories": [
+    "1638"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Bartholomeus van der Helst self portrait 1667 cropped.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bartholomeus_van_der_Helst_self_portrait_1667_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bartholomeus_van_der_Helst_self_portrait_1667_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Bartholomeus_van_der_Helst_self_portrait_1667_cropped.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Bartholomeus van der Helst",
+      "credit": "https://bartholomeusvanderhelst.wordpress.com/werk/zelfportretten",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:14:21.063Z"
+    },
+    "width": 641,
+    "height": 704
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

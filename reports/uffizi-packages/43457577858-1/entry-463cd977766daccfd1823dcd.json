@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "rosso_fiorentino",
+  "artist": "Россо Фьорентино",
+  "work": "Q3937723",
+  "title": "Portrait of a Young Man in Black",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Rosso, ritratto di giovane in nero.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rosso%2C_ritratto_di_giovane_in_nero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rosso%2C_ritratto_di_giovane_in_nero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Rosso,_ritratto_di_giovane_in_nero.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Rosso Fiorentino",
+      "credit": "http://www.scalarchives.it",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:13:54.428Z"
+    },
+    "width": 2118,
+    "height": 2741
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

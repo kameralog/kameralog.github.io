@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Title matches an existing work but object identity is unresolved",
+  "artistId": "lucas_cranach_the_elder",
+  "artist": "Лукас Кранах Старший",
+  "work": "Q113465666",
+  "title": "Eve",
+  "inventories": [
+    "1458"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Lucas Cranach d. Ä. 014.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lucas_Cranach_d._%C3%84._014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lucas_Cranach_d._%C3%84._014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d._%C3%84._014.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Lucas Cranach the Elder",
+      "credit": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:04:13.109Z"
+    },
+    "width": 776,
+    "height": 2299
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

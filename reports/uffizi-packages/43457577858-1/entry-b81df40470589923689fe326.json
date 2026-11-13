@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "titian",
+  "artist": "Тициан Вечеллио",
+  "work": "Q136445881",
+  "title": "Portrait of a Man",
+  "inventories": [
+    "5211"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Tiziano Vecellio (attribuito) – Ritratto d'uomo – Galleria Palatina.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tiziano_Vecellio_%28attribuito%29_%E2%80%93_Ritratto_d%27uomo_%E2%80%93_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tiziano_Vecellio_%28attribuito%29_%E2%80%93_Ritratto_d%27uomo_%E2%80%93_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_(attribuito)_%E2%80%93_Ritratto_d%27uomo_%E2%80%93_Galleria_Palatina.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Attributed to Titian",
+      "credit": "Gallerie degli Uffizi",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12576,
+      "checkedAt": "2026-11-13T15:08:37.700Z"
+    },
+    "width": 847,
+    "height": 1106
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

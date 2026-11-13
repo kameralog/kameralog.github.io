@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "fra_filippo_lippi",
+  "artist": "Фра Филиппо Липпи",
+  "work": "Q3605532",
+  "title": "Adoration of the Magi",
+  "inventories": [
+    "00285664"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Filippino Lippi - Adorazione dei Magi - Google Art Project.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Filippino_Lippi_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/76/Filippino_Lippi_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Filippino Lippi",
+      "credit": "Google Arts & Culture — -QFNUqt9evHu8A",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12588,
+      "checkedAt": "2026-11-13T15:02:45.849Z"
+    },
+    "width": 2894,
+    "height": 3000
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "annibale_carracci",
+  "artist": "Аннибале Карраччи",
+  "work": "Q18420689",
+  "title": "Venus with a Satyr and Cupids",
+  "inventories": [
+    "1452"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Annibale Carracci - Venus with a Satyr and Cupids - WGA4430.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/47/Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Annibale Carracci",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/carracci/annibale/1/venus_sc\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:15:05.555Z"
+    },
+    "width": 1019,
+    "height": 797
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

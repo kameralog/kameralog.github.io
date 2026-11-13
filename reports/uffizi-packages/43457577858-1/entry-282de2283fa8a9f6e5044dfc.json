@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "alesso_baldovinetti",
+  "artist": "Алессо Бальдовинетти",
+  "work": "Q3889235",
+  "title": "Madonna and Child with Saints Francis, Cosmas, Damian, John the Baptist, Lawrence, Julian, Anthony Abbot and Peter Martyr (The Cafaggiolo Altarpiece)",
+  "inventories": [
+    "00285390"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Baldovinetti, Alesso - Pala di Cafagiolo.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Baldovinetti%2C_Alesso_-_Pala_di_Cafagiolo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/09/Baldovinetti%2C_Alesso_-_Pala_di_Cafagiolo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Baldovinetti,_Alesso_-_Pala_di_Cafagiolo.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Alesso Baldovinetti",
+      "credit": "Own work",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 15304,
+      "checkedAt": "2026-11-13T15:12:36.317Z"
+    },
+    "width": 2715,
+    "height": 2840
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

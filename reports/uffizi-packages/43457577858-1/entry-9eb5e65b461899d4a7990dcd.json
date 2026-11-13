@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "angelica_kauffmann",
+  "artist": "Ангелика Кауфман",
+  "work": "Q23008412",
+  "title": "Self-Portrait in the Traditional Costume of the Bregenz Forest, Seated at her Easel",
+  "inventories": [
+    "4444"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Angelica Kauffman - Self-Portrait in the Traditional Costume of the Bregenz Forest, Seated at her Easel.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Angelica_Kauffman_-_Self-Portrait_in_the_Traditional_Costume_of_the_Bregenz_Forest%2C_Seated_at_her_Easel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Angelica_Kauffman_-_Self-Portrait_in_the_Traditional_Costume_of_the_Bregenz_Forest%2C_Seated_at_her_Easel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Angelica_Kauffman_-_Self-Portrait_in_the_Traditional_Costume_of_the_Bregenz_Forest,_Seated_at_her_Easel.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Angelica Kauffmann",
+      "credit": "Book scan",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:17:34.761Z"
+    },
+    "width": 1484,
+    "height": 2049
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

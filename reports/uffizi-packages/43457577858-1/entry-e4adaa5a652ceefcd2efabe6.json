@@ -1,0 +1,22 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "paolo_veronese",
+  "artist": "Паоло Веронезе",
+  "work": "Q131579631",
+  "title": "Madonna con Bambino con Santi e donatori",
+  "inventories": [
+    "1890, n. 1316"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

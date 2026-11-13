@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "ludovico_mazzolino",
+  "artist": "Людовико Маццолино",
+  "work": "Q3842530",
+  "title": "Madonna with Child and Saints",
+  "inventories": [
+    "1347"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Ludovico Mazzolino, Madonna col Bambino santi, 1522 circa -FG2.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ludovico_Mazzolino%2C_Madonna_col_Bambino_santi%2C_1522_circa_-FG2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ludovico_Mazzolino%2C_Madonna_col_Bambino_santi%2C_1522_circa_-FG2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Ludovico_Mazzolino,_Madonna_col_Bambino_santi,_1522_circa_-FG2.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "CC0",
+      "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Fabrizio Garrisi",
+      "credit": "Own work",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12588,
+      "checkedAt": "2026-11-13T15:13:18.319Z"
+    },
+    "width": 1679,
+    "height": 2250
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "diego_velazquez",
+  "artist": "Диего Веласкес",
+  "work": "Q24325684",
+  "title": "Portrait of Philip IV of Spain on Horseback",
+  "inventories": [
+    "243"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Philippe IV à cheval - Juan Bautista Martínez del Mazo - Q24325684.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Philippe_IV_%C3%A0_cheval_-_Juan_Bautista_Mart%C3%ADnez_del_Mazo_-_Q24325684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Philippe_IV_%C3%A0_cheval_-_Juan_Bautista_Mart%C3%ADnez_del_Mazo_-_Q24325684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Philippe_IV_%C3%A0_cheval_-_Juan_Bautista_Mart%C3%ADnez_del_Mazo_-_Q24325684.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Juan Bautista Martínez del Mazo",
+      "credit": "https://www.spectacles-selection.com/archives/expositions/fiche_expo_V/velazquez-V/velazquez.htm",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12591,
+      "checkedAt": "2026-11-13T15:09:57.288Z"
+    },
+    "width": 400,
+    "height": 534
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

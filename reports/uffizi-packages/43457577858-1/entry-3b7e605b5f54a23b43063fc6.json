@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "philips_koninck",
+  "artist": "Филипс Конинк",
+  "work": "Q116912721",
+  "title": "Self-portrait of Philips Koninck (1619-1688)",
+  "inventories": [
+    "186874"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Philips Koninck - Self Portrait - Uffizi Gallery.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Philips_Koninck_-_Self_Portrait_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Philips_Koninck_-_Self_Portrait_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Philips_Koninck_-_Self_Portrait_-_Uffizi_Gallery.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Philips Koninck",
+      "credit": "https://catalogo.uffizi.it/it/29/ricerca/detailiccd/1184295/",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12580,
+      "checkedAt": "2026-11-13T15:14:44.551Z"
+    },
+    "width": 943,
+    "height": 1254
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

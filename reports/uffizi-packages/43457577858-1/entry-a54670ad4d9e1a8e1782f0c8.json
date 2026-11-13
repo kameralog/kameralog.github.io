@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "pietro_perugino",
+  "artist": "Пьетро Перуджино",
+  "work": "Q30938939",
+  "title": "Mater Dolorosa",
+  "inventories": [
+    "00286972"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Hans Memling - Mater Dolorosa - WGA14917.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hans_Memling_-_Mater_Dolorosa_-_WGA14917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Hans_Memling_-_Mater_Dolorosa_-_WGA14917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Hans_Memling_-_Mater_Dolorosa_-_WGA14917.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Hans Memling",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"m/memling/3mature2/23nomate\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:04:25.093Z"
+    },
+    "width": 720,
+    "height": 1177
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,46 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Same work assigned to multiple site artist IDs",
+  "artistId": "berlinghiero",
+  "artist": "Берлингьеро Берлингьери",
+  "work": "Q3711898",
+  "title": "Diptych of crucifixion and Madonna and Child",
+  "inventories": [
+    "8575",
+    "8576"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Bonaventura Berlinghieri. Crusifixion. Madonna and Child with Saints. Diptych. c. 1255. 103x123cm. Uffizi, Florence..jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bonaventura_Berlinghieri._Crusifixion._Madonna_and_Child_with_Saints._Diptych._c._1255._103x123cm._Uffizi%2C_Florence..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/32/Bonaventura_Berlinghieri._Crusifixion._Madonna_and_Child_with_Saints._Diptych._c._1255._103x123cm._Uffizi%2C_Florence..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Bonaventura_Berlinghieri._Crusifixion._Madonna_and_Child_with_Saints._Diptych._c._1255._103x123cm._Uffizi,_Florence..jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Bonaventura Berlinghieri",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/berlingh/mad_cruc\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12589,
+      "checkedAt": "2026-11-13T15:04:02.605Z"
+    },
+    "width": 1772,
+    "height": 1482
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

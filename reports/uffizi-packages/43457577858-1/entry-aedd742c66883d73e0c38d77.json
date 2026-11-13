@@ -1,0 +1,43 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "albrecht_durer",
+  "artist": "Альбрехт Дюрер",
+  "work": "Q124454923",
+  "title": "Marriage Coat of Arms of the Families Duerer and Holper. Verso of the Albrecht Dürer the Elder portrait",
+  "inventories": [],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Albrecht Dürer - Marriage Coat of Arms of the Families Duerer and Holper.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Albrecht_D%C3%BCrer_-_Marriage_Coat_of_Arms_of_the_Families_Duerer_and_Holper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Albrecht_D%C3%BCrer_-_Marriage_Coat_of_Arms_of_the_Families_Duerer_and_Holper.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Marriage_Coat_of_Arms_of_the_Families_Duerer_and_Holper.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Albrecht Dürer",
+      "credit": "Uffizi Gallery",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12588,
+      "checkedAt": "2026-11-13T15:09:03.314Z"
+    },
+    "width": 3451,
+    "height": 4195
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "carlo_dolci",
+  "artist": "Карло Дольчи",
+  "work": "Q130999140",
+  "title": "Portrait of Vittoria della Rovere",
+  "inventories": [
+    "404"
+  ],
+  "collections": [
+    "Q866498"
+  ],
+  "chosenImage": {
+    "file": "Carlo Dolci - Portrait of Vittoria della Rovere in Widow's Weeds - WGA6382.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Carlo_Dolci_-_Portrait_of_Vittoria_della_Rovere_in_Widow%27s_Weeds_-_WGA6382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/08/Carlo_Dolci_-_Portrait_of_Vittoria_della_Rovere_in_Widow%27s_Weeds_-_WGA6382.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Carlo_Dolci_-_Portrait_of_Vittoria_della_Rovere_in_Widow%27s_Weeds_-_WGA6382.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Carlo Dolci",
+      "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/d/dolci/vittoria\"",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12591,
+      "checkedAt": "2026-11-13T15:15:54.232Z"
+    },
+    "width": 900,
+    "height": 1110
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

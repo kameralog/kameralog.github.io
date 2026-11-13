@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "new_work_candidates",
+  "reason": "No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review",
+  "artistId": "rosalba_carriera",
+  "artist": "Розальба Каррьера",
+  "work": "Q23010034",
+  "title": "Self-portrait",
+  "inventories": [
+    "1786"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Self-portrait holding a portrait of her sister, by Rosalba Carriera.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Self-portrait_holding_a_portrait_of_her_sister%2C_by_Rosalba_Carriera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/59/Self-portrait_holding_a_portrait_of_her_sister%2C_by_Rosalba_Carriera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_holding_a_portrait_of_her_sister,_by_Rosalba_Carriera.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Rosalba Carriera",
+      "credit": "WGA",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:17:54.259Z"
+    },
+    "width": 1036,
+    "height": 1300
+  },
+  "auditStatus": "metadata_passed_not_visual",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

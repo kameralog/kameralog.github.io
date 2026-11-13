@@ -1,0 +1,45 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "frans_van_mieris_the_elder",
+  "artist": "Франс ван Мирис Старший",
+  "work": "Q51209112",
+  "title": "The Peasant Meal",
+  "inventories": [
+    "1267"
+  ],
+  "collections": [
+    "Q51252"
+  ],
+  "chosenImage": {
+    "file": "Frans van Mieris (I) - The Peasant Meal.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Frans_van_Mieris_%28I%29_-_The_Peasant_Meal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/29/Frans_van_Mieris_%28I%29_-_The_Peasant_Meal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "source": "https://commons.wikimedia.org/wiki/File:Frans_van_Mieris_(I)_-_The_Peasant_Meal.jpg",
+    "rights": {
+      "status": "documented_open",
+      "name": "Public domain",
+      "url": "",
+      "author": "Frans van Mieris the Elder",
+      "credit": "http://www.museumsinflorence.com/uffizi/18/18/18.html",
+      "restrictions": "",
+      "obligations": [],
+      "note": "Machine-readable source claim; not a legal or visual review."
+    },
+    "probe": {
+      "ok": true,
+      "mime": "image/jpeg",
+      "bytesInspected": 12590,
+      "checkedAt": "2026-11-13T15:14:30.973Z"
+    },
+    "width": 572,
+    "height": 697
+  },
+  "auditStatus": "needs_review",
+  "creatorEvidence": "needs_attribution_review",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

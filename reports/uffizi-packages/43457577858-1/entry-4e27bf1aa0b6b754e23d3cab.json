@@ -1,0 +1,23 @@
+{
+  "status": "proposed_not_approved",
+  "category": "needs_review",
+  "reason": "Audit evidence, rights or delivery require review",
+  "artistId": "jean_simeon_chardin",
+  "artist": "Жан-Симеон Шарден",
+  "work": "Q114241466",
+  "title": "Q114241466",
+  "inventories": [
+    "9273"
+  ],
+  "collections": [
+    "Q16335227",
+    "Q51252"
+  ],
+  "chosenImage": null,
+  "auditStatus": "needs_review",
+  "creatorEvidence": "single_unqualified_creator",
+  "targets": [],
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "visualReviewPerformed": false,
+  "applyAllowed": false
+}

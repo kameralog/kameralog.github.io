@@ -1,0 +1,121 @@
+{
+  "status": "proposed_not_approved",
+  "sourceAudit": "43447920526-1",
+  "auditSnapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "catalogueSnapshot": "826a125ccebb4a4721120d9761942f2ec98721ed",
+  "artistsInCurrentCatalogue": 886,
+  "artistWorkRecordsCompared": 781,
+  "uniqueAuditedWorks": 756,
+  "counts": {
+    "already_present": 3,
+    "existing_work_missing_image": 1,
+    "new_work_candidates": 495,
+    "needs_review": 282
+  },
+  "parts": [
+    {
+      "category": "already_present",
+      "file": "already_present-001.json",
+      "count": 3
+    },
+    {
+      "category": "existing_work_missing_image",
+      "file": "existing_work_missing_image-001.json",
+      "count": 1
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-001.json",
+      "count": 45
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-002.json",
+      "count": 46
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-003.json",
+      "count": 46
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-004.json",
+      "count": 47
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-005.json",
+      "count": 47
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-006.json",
+      "count": 45
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-007.json",
+      "count": 45
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-008.json",
+      "count": 47
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-009.json",
+      "count": 43
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-010.json",
+      "count": 44
+    },
+    {
+      "category": "new_work_candidates",
+      "file": "new_work_candidates-011.json",
+      "count": 40
+    },
+    {
+      "category": "needs_review",
+      "file": "needs_review-001.json",
+      "count": 44
+    },
+    {
+      "category": "needs_review",
+      "file": "needs_review-002.json",
+      "count": 45
+    },
+    {
+      "category": "needs_review",
+      "file": "needs_review-003.json",
+      "count": 45
+    },
+    {
+      "category": "needs_review",
+      "file": "needs_review-004.json",
+      "count": 44
+    },
+    {
+      "category": "needs_review",
+      "file": "needs_review-005.json",
+      "count": 44
+    },
+    {
+      "category": "needs_review",
+      "file": "needs_review-006.json",
+      "count": 44
+    },
+    {
+      "category": "needs_review",
+      "file": "needs_review-007.json",
+      "count": 16
+    }
+  ],
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "applyAllowed": false,
+  "note": "No image search or installation performed. New work candidates are not confirmed additions; unmatched identifiers and non-visual checks do not prove newness."
+}
