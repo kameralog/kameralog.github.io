@@ -1,5 +1,30 @@
 [
   {
+    "id": "leonardo_da_vinci",
+    "name": "Леонардо да Винчи",
+    "path": "records/leonardo_da_vinci.json"
+  },
+  {
+    "id": "li_tang",
+    "name": "Ли Тан",
+    "path": "records/li_tang.json"
+  },
+  {
+    "id": "li_cheng",
+    "name": "Ли Чэн",
+    "path": "records/li_cheng.json"
+  },
+  {
+    "id": "lizzy_ansingh",
+    "name": "Лиззи Ансинг",
+    "path": "records/lizzy_ansingh.json"
+  },
+  {
+    "id": "lilla_cabot_perry",
+    "name": "Лилла Кэбот Перри",
+    "path": "records/lilla_cabot_perry.json"
+  },
+  {
     "id": "lilly_martin_spencer",
     "name": "Лилли Мартин Спенсер",
     "path": "records/lilly_martin_spencer.json"
@@ -473,30 +498,5 @@
     "id": "maud_sherwood",
     "name": "Мод Шервуд",
     "path": "records/maud_sherwood.json"
-  },
-  {
-    "id": "moyses_van_wtenbrouck",
-    "name": "Мозес ван Эйтенбрук",
-    "path": "records/moyses_van_wtenbrouck.json"
-  },
-  {
-    "id": "mokuan_reien",
-    "name": "Мокуан Рэйэн",
-    "path": "records/mokuan_reien.json"
-  },
-  {
-    "id": "moretto_da_brescia",
-    "name": "Моретто да Брешиа",
-    "path": "records/moretto_da_brescia.json"
-  },
-  {
-    "id": "muqi_fachang",
-    "name": "Муци Фачан",
-    "path": "records/muqi_fachang.json"
-  },
-  {
-    "id": "mary_beale",
-    "name": "Мэри Бил",
-    "path": "records/mary_beale.json"
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "id": "wyeth",
+    "name": "Эндрю Уайет",
+    "path": "records/wyeth.json"
+  },
+  {
+    "id": "anne_killigrew",
+    "name": "Энн Киллигрю",
+    "path": "records/anne_killigrew.json"
+  },
+  {
+    "id": "eni",
+    "name": "Энъи",
+    "path": "records/eni.json"
+  },
+  {
+    "id": "erik_werenskiold",
+    "name": "Эрик Вереншёлль",
+    "path": "records/erik_werenskiold.json"
+  },
+  {
+    "id": "ercole_de_roberti",
+    "name": "Эрколе де Роберти",
+    "path": "records/ercole_de_roberti.json"
+  },
+  {
+    "id": "ernst_ludwig_kirchner",
+    "name": "Эрнст Людвиг Кирхнер",
+    "path": "records/ernst_ludwig_kirchner.json"
+  },
+  {
+    "id": "ernst_josephson",
+    "name": "Эрнст Юсефсон",
+    "path": "records/ernst_josephson.json"
+  },
+  {
+    "id": "esaias_boursse",
+    "name": "Эсайас Бурсе",
+    "path": "records/esaias_boursse.json"
+  },
+  {
     "id": "esaias_van_de_velde",
     "name": "Эсайас ван де Велде",
     "path": "records/esaias_van_de_velde.json"
@@ -43,6 +83,11 @@
     "id": "julius_paulsen",
     "name": "Юлиус Паульсен",
     "path": "records/julius_paulsen.json"
+  },
+  {
+    "id": "juho_rissanen",
+    "name": "Юхо Риссанен",
+    "path": "records/juho_rissanen.json"
   },
   {
     "id": "jacob_van_ruisdael",
@@ -103,6 +148,11 @@
     "id": "pontormo",
     "name": "Якопо Понтормо",
     "path": "records/pontormo.json"
+  },
+  {
+    "id": "hjalmar_munsterhjelm",
+    "name": "Яльмар Мунстеръельм",
+    "path": "records/hjalmar_munsterhjelm.json"
   },
   {
     "id": "jan_asselijn",

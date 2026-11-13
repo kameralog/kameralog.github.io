@@ -1,5 +1,30 @@
 [
   {
+    "id": "daniel_seghers",
+    "name": "Даниэл Сегерс",
+    "path": "records/daniel_seghers.json"
+  },
+  {
+    "id": "dankvart_dreyer",
+    "name": "Данкварт Дрейер",
+    "path": "records/dankvart_dreyer.json"
+  },
+  {
+    "id": "dante_gabriel_rossetti",
+    "name": "Данте Габриэль Россетти",
+    "path": "records/dante_gabriel_rossetti.json"
+  },
+  {
+    "id": "giacomo_ceruti",
+    "name": "Джакомо Черути",
+    "path": "records/giacomo_ceruti.json"
+  },
+  {
+    "id": "giampietrino",
+    "name": "Джампьетрино",
+    "path": "records/giampietrino.json"
+  },
+  {
     "id": "johns",
     "name": "Джаспер Джонс",
     "path": "records/johns.json"
@@ -473,30 +498,5 @@
     "id": "jean_simeon_chardin",
     "name": "Жан-Симеон Шарден",
     "path": "records/jean_simeon_chardin.json"
-  },
-  {
-    "id": "jean_etienne_liotard",
-    "name": "Жан-Этьен Лиотар",
-    "path": "records/jean_etienne_liotard.json"
-  },
-  {
-    "id": "jeanne_jacquemin",
-    "name": "Жанна Жакмен",
-    "path": "records/jeanne_jacquemin.json"
-  },
-  {
-    "id": "jeanne_rongier",
-    "name": "Жанна Ронжье",
-    "path": "records/jeanne_rongier.json"
-  },
-  {
-    "id": "miro",
-    "name": "Жоан Миро",
-    "path": "records/miro.json"
-  },
-  {
-    "id": "georges_braque",
-    "name": "Жорж Брак",
-    "path": "records/georges_braque.json"
   }
 ]

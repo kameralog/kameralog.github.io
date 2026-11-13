@@ -55,6 +55,11 @@
     "path": "records/adolph_tidemand.json"
   },
   {
+    "id": "adolf_von_becker",
+    "name": "Адольф фон Беккер",
+    "path": "records/adolf_von_becker.json"
+  },
+  {
     "id": "adriaen_van_de_velde",
     "name": "Адриан ван де Велде",
     "path": "records/adriaen_van_de_velde.json"
@@ -75,9 +80,19 @@
     "path": "records/akseli_gallen_kallela.json"
   },
   {
+    "id": "alvar_cawen",
+    "name": "Алвар Кавен",
+    "path": "records/alvar_cawen.json"
+  },
+  {
     "id": "alexander_coosemans",
     "name": "Александр Коземанс",
     "path": "records/alexander_coosemans.json"
+  },
+  {
+    "id": "alexander_laureus",
+    "name": "Александр Лауреус",
+    "path": "records/alexander_laureus.json"
   },
   {
     "id": "rodchenko",
@@ -483,20 +498,5 @@
     "id": "bartolomeo_manfredi",
     "name": "Бартоломео Манфреди",
     "path": "records/bartolomeo_manfredi.json"
-  },
-  {
-    "id": "bartolomeo_montagna",
-    "name": "Бартоломео Монтанья",
-    "path": "records/bartolomeo_montagna.json"
-  },
-  {
-    "id": "bartholomeus_breenbergh",
-    "name": "Бартоломеус Бренберг",
-    "path": "records/bartholomeus_breenbergh.json"
-  },
-  {
-    "id": "bartholomeus_van_bassen",
-    "name": "Бартоломеус ван Бассен",
-    "path": "records/bartholomeus_van_bassen.json"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "bartolomeo_montagna",
+    "name": "Бартоломео Монтанья",
+    "path": "records/bartolomeo_montagna.json"
+  },
+  {
+    "id": "bartholomeus_breenbergh",
+    "name": "Бартоломеус Бренберг",
+    "path": "records/bartholomeus_breenbergh.json"
+  },
+  {
+    "id": "bartholomeus_van_bassen",
+    "name": "Бартоломеус ван Бассен",
+    "path": "records/bartholomeus_van_bassen.json"
+  },
+  {
     "id": "bartholomeus_van_der_helst",
     "name": "Бартоломеус ван дер Хелст",
     "path": "records/bartholomeus_van_der_helst.json"
@@ -78,6 +93,11 @@
     "id": "bernaert_van_orley",
     "name": "Бернарт ван Орлей",
     "path": "records/bernaert_van_orley.json"
+  },
+  {
+    "id": "berndt_lindholm",
+    "name": "Берндт Линдхольм",
+    "path": "records/berndt_lindholm.json"
   },
   {
     "id": "berthe_art",
@@ -295,6 +315,11 @@
     "path": "records/wen_zhengming.json"
   },
   {
+    "id": "vaino_blomstedt",
+    "name": "Вяйнё Блумстедт",
+    "path": "records/vaino_blomstedt.json"
+  },
+  {
     "id": "hans_baldung",
     "name": "Ганс Бальдунг",
     "path": "records/hans_baldung.json"
@@ -473,30 +498,5 @@
     "id": "daniel_vosmaer",
     "name": "Даниэл Восмар",
     "path": "records/daniel_vosmaer.json"
-  },
-  {
-    "id": "daniel_seghers",
-    "name": "Даниэл Сегерс",
-    "path": "records/daniel_seghers.json"
-  },
-  {
-    "id": "dankvart_dreyer",
-    "name": "Данкварт Дрейер",
-    "path": "records/dankvart_dreyer.json"
-  },
-  {
-    "id": "dante_gabriel_rossetti",
-    "name": "Данте Габриэль Россетти",
-    "path": "records/dante_gabriel_rossetti.json"
-  },
-  {
-    "id": "giacomo_ceruti",
-    "name": "Джакомо Черути",
-    "path": "records/giacomo_ceruti.json"
-  },
-  {
-    "id": "giampietrino",
-    "name": "Джампьетрино",
-    "path": "records/giampietrino.json"
   }
 ]

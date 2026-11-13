@@ -1,5 +1,30 @@
 [
   {
+    "id": "moyses_van_wtenbrouck",
+    "name": "Мозес ван Эйтенбрук",
+    "path": "records/moyses_van_wtenbrouck.json"
+  },
+  {
+    "id": "mokuan_reien",
+    "name": "Мокуан Рэйэн",
+    "path": "records/mokuan_reien.json"
+  },
+  {
+    "id": "moretto_da_brescia",
+    "name": "Моретто да Брешиа",
+    "path": "records/moretto_da_brescia.json"
+  },
+  {
+    "id": "muqi_fachang",
+    "name": "Муци Фачан",
+    "path": "records/muqi_fachang.json"
+  },
+  {
+    "id": "mary_beale",
+    "name": "Мэри Бил",
+    "path": "records/mary_beale.json"
+  },
+  {
     "id": "mary_blood_mellen",
     "name": "Мэри Блад Меллен",
     "path": "records/mary_blood_mellen.json"
@@ -455,6 +480,11 @@
     "path": "records/robert_campin.json"
   },
   {
+    "id": "robert_wilhelm_ekman",
+    "name": "Роберт Вильгельм Экман",
+    "path": "records/robert_wilhelm_ekman.json"
+  },
+  {
     "id": "rauschenberg",
     "name": "Роберт Раушенберг",
     "path": "records/rauschenberg.json"
@@ -468,35 +498,5 @@
     "id": "rosa_bonheur",
     "name": "Роза Бонёр",
     "path": "records/rosa_bonheur.json"
-  },
-  {
-    "id": "rosalba_carriera",
-    "name": "Розальба Каррьера",
-    "path": "records/rosalba_carriera.json"
-  },
-  {
-    "id": "lichtenstein",
-    "name": "Рой Лихтенштейн",
-    "path": "records/lichtenstein.json"
-  },
-  {
-    "id": "rhona_haszard",
-    "name": "Рона Хазард",
-    "path": "records/rhona_haszard.json"
-  },
-  {
-    "id": "rosso_fiorentino",
-    "name": "Россо Фьорентино",
-    "path": "records/rosso_fiorentino.json"
-  },
-  {
-    "id": "roelant_savery",
-    "name": "Рулант Саверей",
-    "path": "records/roelant_savery.json"
-  },
-  {
-    "id": "roelof_koets",
-    "name": "Рулоф Кутс",
-    "path": "records/roelof_koets.json"
   }
 ]

@@ -1,5 +1,30 @@
 [
   {
+    "id": "jean_etienne_liotard",
+    "name": "Жан-Этьен Лиотар",
+    "path": "records/jean_etienne_liotard.json"
+  },
+  {
+    "id": "jeanne_jacquemin",
+    "name": "Жанна Жакмен",
+    "path": "records/jeanne_jacquemin.json"
+  },
+  {
+    "id": "jeanne_rongier",
+    "name": "Жанна Ронжье",
+    "path": "records/jeanne_rongier.json"
+  },
+  {
+    "id": "miro",
+    "name": "Жоан Миро",
+    "path": "records/miro.json"
+  },
+  {
+    "id": "georges_braque",
+    "name": "Жорж Брак",
+    "path": "records/georges_braque.json"
+  },
+  {
     "id": "georges_de_la_tour",
     "name": "Жорж де Латур",
     "path": "records/georges_de_la_tour.json"
@@ -473,30 +498,5 @@
     "id": "laurits_tuxen",
     "name": "Лауриц Туксен",
     "path": "records/laurits_tuxen.json"
-  },
-  {
-    "id": "leonardo_da_vinci",
-    "name": "Леонардо да Винчи",
-    "path": "records/leonardo_da_vinci.json"
-  },
-  {
-    "id": "li_tang",
-    "name": "Ли Тан",
-    "path": "records/li_tang.json"
-  },
-  {
-    "id": "li_cheng",
-    "name": "Ли Чэн",
-    "path": "records/li_cheng.json"
-  },
-  {
-    "id": "lizzy_ansingh",
-    "name": "Лиззи Ансинг",
-    "path": "records/lizzy_ansingh.json"
-  },
-  {
-    "id": "lilla_cabot_perry",
-    "name": "Лилла Кэбот Перри",
-    "path": "records/lilla_cabot_perry.json"
   }
 ]

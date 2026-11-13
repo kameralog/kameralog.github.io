@@ -1,5 +1,35 @@
 [
   {
+    "id": "rosalba_carriera",
+    "name": "Розальба Каррьера",
+    "path": "records/rosalba_carriera.json"
+  },
+  {
+    "id": "lichtenstein",
+    "name": "Рой Лихтенштейн",
+    "path": "records/lichtenstein.json"
+  },
+  {
+    "id": "rhona_haszard",
+    "name": "Рона Хазард",
+    "path": "records/rhona_haszard.json"
+  },
+  {
+    "id": "rosso_fiorentino",
+    "name": "Россо Фьорентино",
+    "path": "records/rosso_fiorentino.json"
+  },
+  {
+    "id": "roelant_savery",
+    "name": "Рулант Саверей",
+    "path": "records/roelant_savery.json"
+  },
+  {
+    "id": "roelof_koets",
+    "name": "Рулоф Кутс",
+    "path": "records/roelof_koets.json"
+  },
+  {
     "id": "salomon_koninck",
     "name": "Саломон Конинк",
     "path": "records/salomon_koninck.json"
@@ -73,6 +103,11 @@
     "id": "sebastiano_ricci",
     "name": "Себастьяно Риччи",
     "path": "records/sebastiano_ricci.json"
+  },
+  {
+    "id": "severin_falkman",
+    "name": "Северин Фалькман",
+    "path": "records/severin_falkman.json"
   },
   {
     "id": "seraphine_louis",
@@ -243,6 +278,11 @@
     "id": "tensho_shubun",
     "name": "Тэнсё Сюбун",
     "path": "records/tensho_shubun.json"
+  },
+  {
+    "id": "tyko_sallinen",
+    "name": "Тюко Саллинен",
+    "path": "records/tyko_sallinen.json"
   },
   {
     "id": "wu_daozi",
@@ -458,45 +498,5 @@
     "id": "francesco_trevisani",
     "name": "Франческо Тревизани",
     "path": "records/francesco_trevisani.json"
-  },
-  {
-    "id": "francesco_francia",
-    "name": "Франческо Франча",
-    "path": "records/francesco_francia.json"
-  },
-  {
-    "id": "francesco_furini",
-    "name": "Франческо Фурини",
-    "path": "records/francesco_furini.json"
-  },
-  {
-    "id": "francesco_zuccarelli",
-    "name": "Франческо Цуккарелли",
-    "path": "records/francesco_zuccarelli.json"
-  },
-  {
-    "id": "frederick_de_moucheron",
-    "name": "Фредерик де Мушерон",
-    "path": "records/frederick_de_moucheron.json"
-  },
-  {
-    "id": "frederic_remington",
-    "name": "Фредерик Ремингтон",
-    "path": "records/frederic_remington.json"
-  },
-  {
-    "id": "frederic_edwin_church",
-    "name": "Фредерик Эдвин Чёрч",
-    "path": "records/frederic_edwin_church.json"
-  },
-  {
-    "id": "kahlo",
-    "name": "Фрида Кало",
-    "path": "records/kahlo.json"
-  },
-  {
-    "id": "friedrich_amerling",
-    "name": "Фридрих Амерлинг",
-    "path": "records/friedrich_amerling.json"
   }
 ]
