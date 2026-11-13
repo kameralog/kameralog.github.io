@@ -1,0 +1,2241 @@
+{
+  "policy": "image-discovery-v3",
+  "entries": {
+    "3cbd53e1843ca177a48adcafbd43c25a18c16d55e98526877309354860afc707": {
+      "policy": "image-discovery-v3",
+      "taskId": "3cbd53e1843ca177a48adcafbd43c25a18c16d55e98526877309354860afc707",
+      "probeRequested": true,
+      "attemptedAt": 1794579615226,
+      "status": "candidates",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [
+        {
+          "provider": "commons",
+          "objectId": "File:Waterhouse Hylas and the Nymphs Manchester Art Gallery 1896.15.jpg",
+          "title": "Hylas and the Nymphs label QS:Lde,\"Hylas und die Nymphen\" label QS:Lit,\"Ila e le ninfe\" label QS:Lfr,\"Hylas et les Nymphes\" label QS:Len,\"Hylas and the Nymphs\" label QS:Lcs,\"Hylás a Nymfy\"",
+          "artist": "John William Waterhouse",
+          "source": "https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 620,
+          "sha1": "146df7a6ee9b49aaff017fbe15d78951830ef94b",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "John William Waterhouse",
+            "credit": "Manchester Art Gallery",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "John William Waterhouse; Manchester Art Gallery",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_William_Waterhouse\" class=\"extiw\" title=\"w:en:John William Waterhouse\"><span title=\"English painter (1849–1917)\">John William Waterhouse</span></a></bdi>",
+            "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.manchestergalleries.org/the-collections/search-the-collection/display.php?EMUSESSID=ae1c4cfdcae009ac9ca5ebfa7087f8ac&amp;overview=0&amp;r=905075416\">Manchester Art Gallery</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Hylas and the Nymphs <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q9295442#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">label QS:Lde,\"Hylas und die Nymphen\"</div><div style=\"display: none;\">label QS:Lit,\"Ila e le ninfe\"</div><div style=\"display: none;\">label QS:Lfr,\"Hylas et les Nymphes\"</div><div style=\"display: none;\">label QS:Len,\"Hylas and the Nymphs\"</div><div style=\"display: none;\">label QS:Lcs,\"Hylás a Nymfy\"</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12560,
+            "checkedAt": "2026-11-13T14:20:04.378Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Furini Hylas y las ninfas.jpg",
+          "title": "Hylas and the nymphs. label QS:Len,\"Hylas and the nymphs.\" label QS:Les,\"Hylas y las ninfas\"",
+          "artist": "Francesco Furini",
+          "source": "https://commons.wikimedia.org/wiki/File:Furini_Hylas_y_las_ninfas.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Furini_Hylas_y_las_ninfas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/38/Furini_Hylas_y_las_ninfas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 767,
+          "sha1": "72418ed8285748198085674e7d8650757f07523f",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Francesco Furini",
+            "credit": "http://pintura.aut.org/",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Furini; http://pintura.aut.org/",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Francesco_Furini\" class=\"extiw\" title=\"w:en:Francesco Furini\"><span title=\"Italian painter, poet and priest (1603–1646)\">Francesco Furini</span></a></bdi>",
+            "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://pintura.aut.org/\">http://pintura.aut.org/</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Hylas and the nymphs.</i></div></div><div style=\"display: none;\">label QS:Len,\"Hylas and the nymphs.\"</div><div style=\"display: none;\">label QS:Les,\"Hylas y las ninfas\"</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:05.625Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Francesco Furini - Hylas and the Nymphs - WGA8322.jpg",
+          "title": "Hylas and the Nymphs",
+          "artist": "Francesco Furini",
+          "source": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Hylas_and_the_Nymphs_-_WGA8322.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Francesco_Furini_-_Hylas_and_the_Nymphs_-_WGA8322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/99/Francesco_Furini_-_Hylas_and_the_Nymphs_-_WGA8322.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 747,
+          "sha1": "133230022320d25dfde00bc99775ebb704894af7",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Francesco Furini",
+            "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"f/furini/hylasnym\"",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Furini; Web Gallery of Art : Image Info about artwork wga QS:P11807,\"f/furini/hylasnym\"",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Francesco_Furini\" class=\"extiw\" title=\"w:en:Francesco Furini\"><span title=\"Italian painter, poet and priest (1603–1646)\">Francesco Furini</span></a></bdi>",
+            "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/f/furini/hylasnym.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/f/furini/hylasnym.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/f/furini/hylasnym.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/f/furini/hylasnym.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"f/furini/hylasnym\"</div>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Hylas and the Nymphs"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12591,
+            "checkedAt": "2026-11-13T14:20:06.792Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Hylas and the Nymphs by Francesco Furini.jpg",
+          "title": "Hylas and the Nymphs label QS:Len,\"Hylas and the Nymphs\"",
+          "artist": "Francesco Furini",
+          "source": "https://commons.wikimedia.org/wiki/File:Hylas_and_the_Nymphs_by_Francesco_Furini.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hylas_and_the_Nymphs_by_Francesco_Furini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hylas_and_the_Nymphs_by_Francesco_Furini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 747,
+          "sha1": "7c53644ed08848e13f772a6fae0d8db073e271b7",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Francesco Furini",
+            "credit": "Francesco Furini, 1635",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Furini; Francesco Furini, 1635",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Francesco_Furini\" class=\"extiw\" title=\"w:en:Francesco Furini\"><span title=\"Italian painter, poet and priest (1603–1646)\">Francesco Furini</span></a></bdi>",
+            "Credit": "Francesco Furini, 1635",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Hylas and the Nymphs <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q77920091#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">label QS:Len,\"Hylas and the Nymphs\"</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12566,
+            "checkedAt": "2026-11-13T14:20:07.952Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Hylas and the Nymphs .PNG",
+          "title": "Hylas and the Nymphs",
+          "artist": "Francesco Furini",
+          "source": "https://commons.wikimedia.org/wiki/File:Hylas_and_the_Nymphs_.PNG",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hylas_and_the_Nymphs_.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Hylas_and_the_Nymphs_.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 740,
+          "sha1": "7d269b9bba3c947def57523d01032760e60d5626",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Francesco Furini",
+            "credit": "http://onlinecollection.nationalgallery.ie/objects/3113",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Furini; http://onlinecollection.nationalgallery.ie/objects/3113",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Francesco_Furini\" class=\"extiw\" title=\"w:en:Francesco Furini\"><span title=\"Italian painter, poet and priest (1603–1646)\">Francesco Furini</span></a></bdi>",
+            "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://onlinecollection.nationalgallery.ie/objects/3113\">http://onlinecollection.nationalgallery.ie/objects/3113</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\nHylas and the Nymphs</div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/png",
+            "bytesInspected": 12591,
+            "checkedAt": "2026-11-13T14:20:09.195Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Francesco furini, ila e le ninfe, 1630-33 ca.jpg",
+          "title": "Francesco furini, ila e le ninfe, 1630-33 ca",
+          "artist": "Francesco Bini",
+          "source": "https://commons.wikimedia.org/wiki/File:Francesco_furini,_ila_e_le_ninfe,_1630-33_ca.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 719,
+          "sha1": "fba3b583a809a984adf9bab362446cd83d4f67d0",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Francesco Bini",
+            "credit": "Own work",
+            "restrictions": "ita-mibac",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Bini; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Francesco Bini</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "ita-mibac",
+            "ObjectName": "Francesco furini, ila e le ninfe, 1630-33 ca"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:10.396Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Francesco furini, ila e le ninfe, 1630-33, 01.jpg",
+          "title": "Francesco furini, ila e le ninfe, 1630-33, 01",
+          "artist": "Francesco Bini",
+          "source": "https://commons.wikimedia.org/wiki/File:Francesco_furini,_ila_e_le_ninfe,_1630-33,_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/22/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 690,
+          "sha1": "21ee86d98e6e2ea4de67bd85926d3142bf0e4f6f",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Francesco Bini",
+            "credit": "Own work",
+            "restrictions": "ita-mibac",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Bini; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Francesco Bini</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "ita-mibac",
+            "ObjectName": "Francesco furini, ila e le ninfe, 1630-33, 01"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:11.596Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Francesco furini, ila e le ninfe, 1630-33, 02.jpg",
+          "title": "Francesco furini, ila e le ninfe, 1630-33, 02",
+          "artist": "Francesco Bini",
+          "source": "https://commons.wikimedia.org/wiki/File:Francesco_furini,_ila_e_le_ninfe,_1630-33,_02.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/db/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 698,
+          "sha1": "87dd6bdb58453e6bf864386c317928506a16361e",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Francesco Bini",
+            "credit": "Own work",
+            "restrictions": "ita-mibac",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Bini; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Francesco Bini</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "ita-mibac",
+            "ObjectName": "Francesco furini, ila e le ninfe, 1630-33, 02"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:12.789Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Francesco furini, ila e le ninfe, 1630-33, 03.jpg",
+          "title": "Francesco furini, ila e le ninfe, 1630-33, 03",
+          "artist": "Francesco Bini",
+          "source": "https://commons.wikimedia.org/wiki/File:Francesco_furini,_ila_e_le_ninfe,_1630-33,_03.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1441,
+          "sha1": "3f290c314148a7015e6ff729e2a9fc97b8c1691e",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Francesco Bini",
+            "credit": "Own work",
+            "restrictions": "ita-mibac",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Bini; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Francesco Bini</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "ita-mibac",
+            "ObjectName": "Francesco furini, ila e le ninfe, 1630-33, 03"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:14.008Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Francesco furini, ila e le ninfe, 1630-33, 04.jpg",
+          "title": "Francesco furini, ila e le ninfe, 1630-33, 04",
+          "artist": "Francesco Bini",
+          "source": "https://commons.wikimedia.org/wiki/File:Francesco_furini,_ila_e_le_ninfe,_1630-33,_04.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/27/Francesco_furini%2C_ila_e_le_ninfe%2C_1630-33%2C_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 773,
+          "sha1": "ad9eea6fd274d465afe1577be5525c43033c3573",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Francesco Bini",
+            "credit": "Own work",
+            "restrictions": "ita-mibac",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Francesco Bini; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Francesco Bini</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "ita-mibac",
+            "ObjectName": "Francesco furini, ila e le ninfe, 1630-33, 04"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:15.226Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        }
+      ],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "de234718aa857cf9a36b468875ac563640ec91bb5d0c58bdc80ad506023ca966": {
+      "policy": "image-discovery-v3",
+      "taskId": "de234718aa857cf9a36b468875ac563640ec91bb5d0c58bdc80ad506023ca966",
+      "probeRequested": true,
+      "attemptedAt": 1794579616683,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "63e3066b819ffae54918b67f58e8151f2c817ceca23627eaff9afc52ce37f01f": {
+      "policy": "image-discovery-v3",
+      "taskId": "63e3066b819ffae54918b67f58e8151f2c817ceca23627eaff9afc52ce37f01f",
+      "probeRequested": true,
+      "attemptedAt": 1794579619289,
+      "status": "candidates",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [
+        {
+          "provider": "commons",
+          "objectId": "File:Baldassarre Franceschini - One of Father Arlotto's Tricks - WGA08091.jpg",
+          "title": "One of Father Arlotto's Tricks",
+          "artist": "Baldassare Franceschini",
+          "source": "https://commons.wikimedia.org/wiki/File:Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 691,
+          "sha1": "6575ac8a4c7d1264acca361b1780d89b5bc6b8f2",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Baldassare Franceschini",
+            "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"f/frances2/arlotto\"",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Baldassare Franceschini; Web Gallery of Art : Image Info about artwork wga QS:P11807,\"f/frances2/arlotto\"",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Baldassare_Franceschini\" class=\"extiw\" title=\"w:en:Baldassare Franceschini\"><span title=\"Italian painter (1611-1690)\">Baldassare Franceschini</span></a></bdi>",
+            "Credit": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/f/frances2/arlotto.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/f/frances2/arlotto.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/f/frances2/arlotto.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/f/frances2/arlotto.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"f/frances2/arlotto\"</div>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "One of Father Arlotto's Tricks"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:19.289Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        }
+      ],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "da8bb91d9f55eff38eb57a5c30eda653eae243859eef41bad8e38a88d22a8924": {
+      "policy": "image-discovery-v3",
+      "taskId": "da8bb91d9f55eff38eb57a5c30eda653eae243859eef41bad8e38a88d22a8924",
+      "probeRequested": true,
+      "attemptedAt": 1794579621552,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "e0b9adb1f443f586cdb0a7a052a0d4e031ed7306a27b0c032b0c557deb9234e7": {
+      "policy": "image-discovery-v3",
+      "taskId": "e0b9adb1f443f586cdb0a7a052a0d4e031ed7306a27b0c032b0c557deb9234e7",
+      "probeRequested": true,
+      "attemptedAt": 1794579634943,
+      "status": "candidates",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [
+        {
+          "provider": "commons",
+          "objectId": "File:Adoration of the magi st.michael toronto.jpg",
+          "title": "Adoration of the magi st.michael toronto",
+          "artist": "Window: workshop of Franz Borgias Mayer (1848–1926); Photo: Wojciech Dittwald",
+          "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_magi_st.michael_toronto.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adoration_of_the_magi_st.michael_toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adoration_of_the_magi_st.michael_toronto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1000,
+          "sha1": "624409e3c863925d671a168c9112061b5c757078",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "CC BY-SA 3.0",
+            "url": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "author": "Window: workshop of Franz Borgias Mayer (1848–1926); Photo: Wojciech Dittwald",
+            "credit": "Self-photographed",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Window: workshop of Franz Borgias Mayer (1848–1926); Photo: Wojciech Dittwald; Self-photographed",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 3.0",
+            "LicenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+            "Artist": "Window: workshop of Franz Borgias Mayer (1848–1926); Photo: Wojciech Dittwald",
+            "Credit": "<span class=\"int-own-work\">Self-photographed</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Adoration of the magi st.michael toronto"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:24.145Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Adoration of the Magi Spedale degli Innocenti.jpg",
+          "title": "Adoration of the Magi",
+          "artist": "Domenico Ghirlandaio",
+          "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_Spedale_degli_Innocenti.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Adoration_of_the_Magi_Spedale_degli_Innocenti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/46/Adoration_of_the_Magi_Spedale_degli_Innocenti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1184,
+          "sha1": "7700e318e32af6f8a5dc778cf041f8763924a8eb",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Domenico Ghirlandaio",
+            "credit": "Marie-Lan Nguyen",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Domenico Ghirlandaio; Marie-Lan Nguyen",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Domenico_Ghirlandaio\" class=\"extiw\" title=\"w:en:Domenico Ghirlandaio\"><span title=\"Italian Renaissance painter from Florence (1448–1494)\">Domenico Ghirlandaio</span></a></bdi>",
+            "Credit": "<a href=\"//commons.wikimedia.org/wiki/User:Jastrow\" title=\"User:Jastrow\">Marie-Lan Nguyen</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><a href=\"https://en.wikipedia.org/wiki/Adoration_of_the_Magi\" class=\"extiw\" title=\"en:Adoration of the Magi\">Adoration of the Magi</a></div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12577,
+            "checkedAt": "2026-11-13T14:20:25.299Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Edward Burne-Jones - The Adoration of the Magi - Google Art Project.jpg",
+          "title": "L'Adoration des mages",
+          "artist": "Edward Burne-Jones",
+          "source": "https://commons.wikimedia.org/wiki/File:Edward_Burne-Jones_-_The_Adoration_of_the_Magi_-_Google_Art_Project.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edward_Burne-Jones_-_The_Adoration_of_the_Magi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edward_Burne-Jones_-_The_Adoration_of_the_Magi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 689,
+          "sha1": "89f5f4663dc62fd08b38532295c44a5a58321aea",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Edward Burne-Jones",
+            "credit": "uQHHRCrCrHZVdw at Google Cultural Institute maximum zoom level",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Edward Burne-Jones; uQHHRCrCrHZVdw at Google Cultural Institute maximum zoom level",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Edward_Burne-Jones\" class=\"extiw\" title=\"w:en:Edward Burne-Jones\"><span title=\"British Pre-Raphaelite painter (1833-1898)\">Edward Burne-Jones</span></a></bdi>",
+            "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/uQHHRCrCrHZVdw\">uQHHRCrCrHZVdw at Google Cultural Institute</a> maximum zoom level",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "L'Adoration des mages"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12578,
+            "checkedAt": "2026-11-13T14:20:26.498Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Fra Angelico, Fra Filippo Lippi, The Adoration of the Magi.jpg",
+          "title": "The Adoration of the Magi title QS:P1476,en:\"The Adoration of the Magi\" label QS:Len,\"The Adoration of the Magi\"",
+          "artist": "Fra Angelico and Fra Filippo Lippi (1395 - 1455) – painter (Italian) Born in Italy, Mugello, Vicchio. Died in Italy, Rome. Details on Google Art Project",
+          "source": "https://commons.wikimedia.org/wiki/File:Fra_Angelico,_Fra_Filippo_Lippi,_The_Adoration_of_the_Magi.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fra_Angelico%2C_Fra_Filippo_Lippi%2C_The_Adoration_of_the_Magi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Fra_Angelico%2C_Fra_Filippo_Lippi%2C_The_Adoration_of_the_Magi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1000,
+          "sha1": "955350e194ee28c88e7a4a1c7459f4c848eaeff5",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Fra Angelico and Fra Filippo Lippi (1395 - 1455) – painter (Italian) Born in Italy, Mugello, Vicchio. Died in Italy, Rome. Details on Google Art Project",
+            "credit": "_wFPekHefj84QQ at Google Cultural Institute maximum zoom level",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Fra Angelico and Fra Filippo Lippi (1395 - 1455) – painter (Italian) Born in Italy, Mugello, Vicchio. Died in Italy, Rome. Details on Google Art Project; _wFPekHefj84QQ at Google Cultural Institute maximum zoom level",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<div class=\"fn value\">\nFra Angelico and Fra Filippo Lippi (1395 - 1455) – painter (Italian)<br> Born in Italy, Mugello, Vicchio. Died in Italy, Rome.<br> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/artist/fra-angelico/4128011/\">Details on Google Art Project</a></div>",
+            "Credit": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/_wFPekHefj84QQ\">_wFPekHefj84QQ at Google Cultural Institute</a> maximum zoom level",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>The Adoration of the Magi</i></div></div><div style=\"display: none;\">title QS:P1476,en:\"The Adoration of the Magi\"</div><div style=\"display: none;\">label QS:Len,\"The Adoration of the Magi\"</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 15304,
+            "checkedAt": "2026-11-13T14:20:27.701Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Adoration of the Magi (Artus Wolffort) July 2015-1a.jpg",
+          "title": "Adoration of the Magi (Artus Wolffort) July 2015-1a",
+          "artist": "Alvesgaspar",
+          "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_(Artus_Wolffort)_July_2015-1a.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Adoration_of_the_Magi_%28Artus_Wolffort%29_July_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Adoration_of_the_Magi_%28Artus_Wolffort%29_July_2015-1a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1181,
+          "sha1": "6ce5fbca3389e1b4e817ecc1f6389e549cbace5b",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Alvesgaspar",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Alvesgaspar; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Alvesgaspar\" title=\"User:Alvesgaspar\">Alvesgaspar</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Adoration of the Magi (Artus Wolffort) July 2015-1a"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:28.961Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Frari (Venice) - Sacristy - Adoration of the Magi by Bonifacio de' Pitati.jpg",
+          "title": "Frari (Venice) - Sacristy - Adoration of the Magi by Bonifacio de' Pitati",
+          "artist": "Didier Descouens",
+          "source": "https://commons.wikimedia.org/wiki/File:Frari_(Venice)_-_Sacristy_-_Adoration_of_the_Magi_by_Bonifacio_de%27_Pitati.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Frari_%28Venice%29_-_Sacristy_-_Adoration_of_the_Magi_by_Bonifacio_de%27_Pitati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Frari_%28Venice%29_-_Sacristy_-_Adoration_of_the_Magi_by_Bonifacio_de%27_Pitati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 389,
+          "sha1": "6d9aba0b45b109e24b948c1a7b20534297897c62",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Didier Descouens",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Didier Descouens; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Frari (Venice) - Sacristy - Adoration of the Magi by Bonifacio de' Pitati"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:30.132Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:San Trovaso (Venice) - Adoration of the Magi (1587) by D. Tintoretto.jpg",
+          "title": "San Trovaso (Venice) - Adoration of the Magi (1587) by D. Tintoretto",
+          "artist": "Didier Descouens",
+          "source": "https://commons.wikimedia.org/wiki/File:San_Trovaso_(Venice)_-_Adoration_of_the_Magi_(1587)_by_D._Tintoretto.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/San_Trovaso_%28Venice%29_-_Adoration_of_the_Magi_%281587%29_by_D._Tintoretto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/69/San_Trovaso_%28Venice%29_-_Adoration_of_the_Magi_%281587%29_by_D._Tintoretto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 736,
+          "sha1": "9fc8de1a883831faa1308268e2d3fc5d6730deb4",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Didier Descouens",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Didier Descouens; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "San Trovaso (Venice) - Adoration of the Magi (1587) by D. Tintoretto"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:31.385Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Adoration of the Magi window, St Nicholas, Halewood cu.jpg",
+          "title": "Adoration of the Magi window, St Nicholas, Halewood cu",
+          "artist": "Rodhullandemu",
+          "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Magi_window,_St_Nicholas,_Halewood_cu.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Adoration_of_the_Magi_window%2C_St_Nicholas%2C_Halewood_cu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/88/Adoration_of_the_Magi_window%2C_St_Nicholas%2C_Halewood_cu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1216,
+          "sha1": "dca7ce9b692a9e740462879628dd6552b1195f59",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Rodhullandemu",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Rodhullandemu; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Rodhullandemu\" title=\"User:Rodhullandemu\">Rodhullandemu</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Adoration of the Magi window, St Nicholas, Halewood cu"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:32.569Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Duomo (Padua) - right arm of transept - Adoration of the Magi by Francesco Zanella.jpg",
+          "title": "Duomo (Padua) - right arm of transept - Adoration of the Magi by Francesco Zanella",
+          "artist": "Didier Descouens",
+          "source": "https://commons.wikimedia.org/wiki/File:Duomo_(Padua)_-_right_arm_of_transept_-_Adoration_of_the_Magi_by_Francesco_Zanella.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Duomo_%28Padua%29_-_right_arm_of_transept_-_Adoration_of_the_Magi_by_Francesco_Zanella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Duomo_%28Padua%29_-_right_arm_of_transept_-_Adoration_of_the_Magi_by_Francesco_Zanella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 370,
+          "sha1": "faf8c02ae9ece60fa74f021254d53e38f3692baf",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "author": "Didier Descouens",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Didier Descouens; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 4.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Duomo (Padua) - right arm of transept - Adoration of the Magi by Francesco Zanella"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:33.727Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:(Venice) Adoration of the Magi in the snow by Pieter Brueghel the Younger - Correr version.jpg",
+          "title": "(Venice) Adoration of the Magi in the snow by Pieter Brueghel the Younger - Correr version",
+          "artist": "Didier Descouens",
+          "source": "https://commons.wikimedia.org/wiki/File:(Venice)_Adoration_of_the_Magi_in_the_snow_by_Pieter_Brueghel_the_Younger_-_Correr_version.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%28Venice%29_Adoration_of_the_Magi_in_the_snow_by_Pieter_Brueghel_the_Younger_-_Correr_version.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5c/%28Venice%29_Adoration_of_the_Magi_in_the_snow_by_Pieter_Brueghel_the_Younger_-_Correr_version.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 665,
+          "sha1": "178bf93365a8f3d6ddc870c00cbc43cf7bb7c7a3",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Didier Descouens",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Didier Descouens; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Archaeodontosaurus\" title=\"User:Archaeodontosaurus\">Didier Descouens</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "(Venice) Adoration of the Magi in the snow by Pieter Brueghel the Younger - Correr version"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12588,
+            "checkedAt": "2026-11-13T14:20:34.943Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        }
+      ],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "f9997004f70a44398f817b891743c76612216f6c534f85f57cc8d437b9f72641": {
+      "policy": "image-discovery-v3",
+      "taskId": "f9997004f70a44398f817b891743c76612216f6c534f85f57cc8d437b9f72641",
+      "probeRequested": true,
+      "attemptedAt": 1794579636433,
+      "status": "no_candidates_in_checked_results",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "772ee8719ec7424b2d24ab6254e40d939673ece18f8e4a54e5293ba80e8a3655": {
+      "policy": "image-discovery-v3",
+      "taskId": "772ee8719ec7424b2d24ab6254e40d939673ece18f8e4a54e5293ba80e8a3655",
+      "probeRequested": true,
+      "attemptedAt": 1794579639009,
+      "status": "candidates",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [
+        {
+          "provider": "commons",
+          "objectId": "File:Catalogue of a collection of paintings, etc. presented by Mrs. Liberty E. Holden to the Cleveland Museum of Art (IA catalogueofcolle00clev 0).pdf",
+          "title": "Catalogue of a collection of paintings, etc. presented by Mrs. Liberty E. Holden to the Cleveland Museum of Art",
+          "artist": "Cleveland Museum of Art Rubinstein-Bloch, Stella",
+          "source": "https://commons.wikimedia.org/wiki/File:Catalogue_of_a_collection_of_paintings,_etc._presented_by_Mrs._Liberty_E._Holden_to_the_Cleveland_Museum_of_Art_(IA_catalogueofcolle00clev_0).pdf",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Catalogue_of_a_collection_of_paintings%2C_etc._presented_by_Mrs._Liberty_E._Holden_to_the_Cleveland_Museum_of_Art_%28IA_catalogueofcolle00clev_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/03/Catalogue_of_a_collection_of_paintings%2C_etc._presented_by_Mrs._Liberty_E._Holden_to_the_Cleveland_Museum_of_Art_%28IA_catalogueofcolle00clev_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1453,
+          "sha1": "d514dc3cfa7e402ede67aa8acdc7716acaf3b1e2",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Cleveland Museum of Art Rubinstein-Bloch, Stella",
+            "credit": "Internet Archive identifier: catalogueofcolle00clev_0 https://archive.org/download/catalogueofcolle00clev_0/catalogueofcolle00clev_0.pdf",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Cleveland Museum of Art Rubinstein-Bloch, Stella; Internet Archive identifier: catalogueofcolle00clev_0 https://archive.org/download/catalogueofcolle00clev_0/catalogueofcolle00clev_0.pdf",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<div class=\"fn value\">\n<dl><dd>Cleveland Museum of Art</dd>\n<dd>Rubinstein-Bloch, Stella</dd></dl></div>",
+            "Credit": "<dl><dd><a href=\"//archive.org/details/catalogueofcolle00clev_0\" class=\"extiw\" title=\"iarchive:catalogueofcolle00clev 0\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> catalogueofcolle00clev_0</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/catalogueofcolle00clev_0/catalogueofcolle00clev_0.pdf\">https://archive.org/download/catalogueofcolle00clev_0/catalogueofcolle00clev_0.pdf</a></dd></dl>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\nCatalogue of a collection of paintings, etc. presented by Mrs. Liberty E. Holden to the Cleveland Museum of Art</div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": false,
+            "mime": "application/pdf",
+            "bytesInspected": 12584,
+            "checkedAt": "2026-11-13T14:20:39.009Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        }
+      ],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "1189574652b6e9df6d17e18ac64c3eb897bd6bc2e8dd933515fd985d3592e257": {
+      "policy": "image-discovery-v3",
+      "taskId": "1189574652b6e9df6d17e18ac64c3eb897bd6bc2e8dd933515fd985d3592e257",
+      "probeRequested": true,
+      "attemptedAt": 1794579655493,
+      "status": "candidates",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [
+        {
+          "provider": "commons",
+          "objectId": "File:Veronese Allegory of Wisdom and Strength.jpg",
+          "title": "Allegory of Wisdom and Strength label QS:Les,\"Alegoria da sabedoria e da forca\" label QS:Lja,\"知恵と強さの寓意\" label QS:Lfr,\"Allégorie de la Sagesse et de la Force\" label QS:Lpl,\"Alegoria mądrości i siły\" label QS:Lnl,\"Allegorie van Wijsheid en Kracht\" label QS:Lru,\"Аллегория мудрости и силы\" label QS:Lde,\"Allegorie der Weisheit und Stärke\" label QS:Len,\"Allegory of Wisdom and Strength\" label QS:Lit,\"Allegoria di sapientia e fortitudo\" label QS:Lzh,\"智慧与力量的寓言\"",
+          "artist": "Paolo Veronese",
+          "source": "https://commons.wikimedia.org/wiki/File:Veronese_Allegory_of_Wisdom_and_Strength.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Veronese_Allegory_of_Wisdom_and_Strength.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/09/Veronese_Allegory_of_Wisdom_and_Strength.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1304,
+          "sha1": "b46553943e0ad64d1ca48c59782c6e43b7541499",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Paolo Veronese",
+            "credit": "2. Frick Collection : online database: entry 277 1. Web Gallery of Art : Image Info about artwork wga QS:P11807,\"v/veronese/10/1allego3\"",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Paolo Veronese; 2. Frick Collection : online database: entry 277 1. Web Gallery of Art : Image Info about artwork wga QS:P11807,\"v/veronese/10/1allego3\"",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paolo_Veronese\" class=\"extiw\" title=\"w:en:Paolo Veronese\"><span title=\"Italian painter of the Renaissance (1528–1588)\">Paolo Veronese</span></a></bdi>",
+            "Credit": "2. <a href=\"https://en.wikipedia.org/wiki/en:Frick_Collection\" class=\"extiw\" title=\"w:en:Frick Collection\">Frick Collection</a>:  online database:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"http://collections.frick.org/view/objects/asitem/items%240040:277\">277</a><br>1. <a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/v/veronese/10/1allego3.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/v/veronese/10/1allego3.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/v/veronese/10/1allego3.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/v/veronese/10/1allego3.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"v/veronese/10/1allego3\"</div>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Allegory of Wisdom and Strength</i></div></div><div style=\"display: none;\">label QS:Les,\"Alegoria da sabedoria e da forca\"</div><div style=\"display: none;\">label QS:Lja,\"知恵と強さの寓意\"</div><div style=\"display: none;\">label QS:Lfr,\"Allégorie de la Sagesse et de la Force\"</div><div style=\"display: none;\">label QS:Lpl,\"Alegoria mądrości i siły\"</div><div style=\"display: none;\">label QS:Lnl,\"Allegorie van Wijsheid en Kracht\"</div><div style=\"display: none;\">label QS:Lru,\"Аллегория мудрости и силы\"</div><div style=\"display: none;\">label QS:Lde,\"Allegorie der Weisheit und Stärke\"</div><div style=\"display: none;\">label QS:Len,\"Allegory of Wisdom and Strength\"</div><div style=\"display: none;\">label QS:Lit,\"Allegoria di sapientia e fortitudo\"</div><div style=\"display: none;\">label QS:Lzh,\"智慧与力量的寓言\"</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:20:41.375Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Martinelli Allegoria dell'Astronomia.jpg",
+          "title": "Allegory of Astronomy label QS:Lit,\"Allegoria dell'Astronomia\" label QS:Len,\"Allegory of Astronomy\"",
+          "artist": "Giovanni Martinelli",
+          "source": "https://commons.wikimedia.org/wiki/File:Martinelli_Allegoria_dell%27Astronomia.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Martinelli_Allegoria_dell%27Astronomia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Martinelli_Allegoria_dell%27Astronomia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1303,
+          "sha1": "e278568565e1f171a2cba3c279621da7ab056844",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Giovanni Martinelli",
+            "credit": "1. allposters.it 2. Bridgeman Art Library : Object 73202",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Giovanni Martinelli; 1. allposters.it 2. Bridgeman Art Library : Object 73202",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Martinelli_(painter)\" class=\"extiw\" title=\"w:en:Giovanni Martinelli (painter)\"><span title=\"Italian painter (1600-1659)\">Giovanni Martinelli</span></a></bdi>",
+            "Credit": "1. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.allposters.it/gallery.asp?aid=85097&amp;apnum=1592299&amp;LinkTypeID=1&amp;PosterTypeID=1&amp;DestType=7&amp;Referrer%20=http://www.artcyclopedia.com/artists/martinelli_giovanni.html\">allposters.it</a><br>2. <a href=\"https://en.wikipedia.org/wiki/en:Bridgeman_Images\" class=\"extiw\" title=\"w:en:Bridgeman Images\"><span title=\"library\">Bridgeman Art Library</span></a>:  Object <a rel=\"nofollow\" class=\"external text\" href=\"https://www.bridgemanimages.co.uk/en/asset/73202\">73202</a><br>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Allegory of Astronomy</i></div></div><div style=\"display: none;\">label QS:Lit,\"Allegoria dell'Astronomia\"</div><div style=\"display: none;\">label QS:Len,\"Allegory of Astronomy\"</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:42.585Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Giovanni Martinelli - Allegory of Astronomy.jpg",
+          "title": "Giovanni Martinelli - Allegory of Astronomy",
+          "artist": "Giovanni Martinelli",
+          "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Martinelli_-_Allegory_of_Astronomy.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Giovanni_Martinelli_-_Allegory_of_Astronomy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Giovanni_Martinelli_-_Allegory_of_Astronomy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1302,
+          "sha1": "9561c3438cb6309bbff1b18fedfe7293e53e69c1",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Giovanni Martinelli",
+            "credit": "ArtDaily.com",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Giovanni Martinelli; ArtDaily.com",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Martinelli_(painter)\" class=\"extiw\" title=\"w:en:Giovanni Martinelli (painter)\"><span title=\"Italian painter (1600-1659)\">Giovanni Martinelli</span></a></bdi>",
+            "Credit": "ArtDaily.com",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Giovanni Martinelli - Allegory of Astronomy"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12591,
+            "checkedAt": "2026-11-13T14:20:43.783Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Giovanni Martinelli - Allegory of Geometry (Moretti Fine Art).jpg",
+          "title": "Allegory of Geometry",
+          "artist": "Giovanni Martinelli",
+          "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Martinelli_-_Allegory_of_Geometry_(Moretti_Fine_Art).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Giovanni_Martinelli_-_Allegory_of_Geometry_%28Moretti_Fine_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Giovanni_Martinelli_-_Allegory_of_Geometry_%28Moretti_Fine_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1172,
+          "sha1": "1f55e9d6d935c9b8c02260a78098f3519077f8ae",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Giovanni Martinelli",
+            "credit": "Own work , Moretti Fine Art , 2011-02-24 09:47:24",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Giovanni Martinelli; Own work , Moretti Fine Art , 2011-02-24 09:47:24",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Martinelli_(painter)\" class=\"extiw\" title=\"w:en:Giovanni Martinelli (painter)\"><span title=\"Italian painter (1600-1659)\">Giovanni Martinelli</span></a></bdi>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"//commons.wikimedia.org/w/index.php?title=User:Malisti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Malisti (page does not exist)\">Moretti Fine Art</a>, 2011-02-24 09:47:24",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Allegory of Geometry</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:44.996Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Giovanni Martinelli - Allegory of Astronomy (Moretti Fine Art).jpg",
+          "title": "Giovanni Martinelli - Allegory of Astronomy (Moretti Fine Art)",
+          "artist": "Moretti Fine Art",
+          "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Martinelli_-_Allegory_of_Astronomy_(Moretti_Fine_Art).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Giovanni_Martinelli_-_Allegory_of_Astronomy_%28Moretti_Fine_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Giovanni_Martinelli_-_Allegory_of_Astronomy_%28Moretti_Fine_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1167,
+          "sha1": "586682b532ce394d6360d3cc9429969b2df32a86",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "author": "Moretti Fine Art",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes",
+              "share_alike"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Moretti Fine Art; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY-SA 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+            "Artist": "<div class=\"fn value\">\n<a href=\"//commons.wikimedia.org/w/index.php?title=User:Malisti&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Malisti (page does not exist)\">Moretti Fine Art</a></div>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Giovanni Martinelli - Allegory of Astronomy (Moretti Fine Art)"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:46.197Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Allegory of Wisdom MET DP803358.jpg",
+          "title": "Allegory of Wisdom",
+          "artist": "Anonymous Unknown author",
+          "source": "https://commons.wikimedia.org/wiki/File:Allegory_of_Wisdom_MET_DP803358.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Allegory_of_Wisdom_MET_DP803358.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Allegory_of_Wisdom_MET_DP803358.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1758,
+          "sha1": "b6745cb73d239a535b3cd31967871187a8461ad2",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "CC0",
+            "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "author": "Anonymous Unknown author",
+            "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Anonymous Unknown author; This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC0",
+            "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "Artist": "<div class=\"fn value\">\n<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span></div>",
+            "Credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\nAllegory of Wisdom</div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12587,
+            "checkedAt": "2026-11-13T14:20:51.826Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Allegory of Wisdom MET DP145142.jpg",
+          "title": "Allegory of Wisdom",
+          "artist": "Anonymous Unknown author",
+          "source": "https://commons.wikimedia.org/wiki/File:Allegory_of_Wisdom_MET_DP145142.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Allegory_of_Wisdom_MET_DP145142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/10/Allegory_of_Wisdom_MET_DP145142.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1728,
+          "sha1": "3915fb3f3f7a0d4921c26ec4baab8cd9edccb2c3",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "CC0",
+            "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "author": "Anonymous Unknown author",
+            "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Anonymous Unknown author; This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC0",
+            "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "Artist": "<div class=\"fn value\">\n<span lang=\"en\">Anonymous</span><span style=\"display:none\">Unknown author</span></div>",
+            "Credit": "This file was donated to Wikimedia Commons as part of a project by the <a href=\"//commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"nofollow\" class=\"external text\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\">Image and Data Resources Open Access Policy</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\nAllegory of Wisdom</div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:51.892Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:AN ALLEGORY OF PAINTING, WITH A YOUNG WOMAN, HALF LENGTH, .PNG",
+          "title": "An Allegory of Painting, with a young Woman, half Length label QS:Len,\"An Allegory of Painting, with a young Woman, half Length\"",
+          "artist": "Giovanni Martinelli",
+          "source": "https://commons.wikimedia.org/wiki/File:AN_ALLEGORY_OF_PAINTING,_WITH_A_YOUNG_WOMAN,_HALF_LENGTH,_.PNG",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/AN_ALLEGORY_OF_PAINTING%2C_WITH_A_YOUNG_WOMAN%2C_HALF_LENGTH%2C_.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/74/AN_ALLEGORY_OF_PAINTING%2C_WITH_A_YOUNG_WOMAN%2C_HALF_LENGTH%2C_.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1290,
+          "sha1": "d19ba339a524011153c1479762a48aed66329914",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Giovanni Martinelli",
+            "credit": "http://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.26.html",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Giovanni Martinelli; http://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.26.html",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Martinelli_(painter)\" class=\"extiw\" title=\"w:en:Giovanni Martinelli (painter)\"><span title=\"Italian painter (1600-1659)\">Giovanni Martinelli</span></a></bdi>",
+            "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.26.html\">http://www.sothebys.com/en/auctions/ecatalogue/2009/important-old-master-paintings-including-european-works-of-art-n08516/lot.26.html</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>An Allegory of Painting, with a young Woman, half Length</i></div></div><div style=\"display: none;\">label QS:Len,\"An Allegory of Painting, with a young Woman, half Length\"</div></div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/png",
+            "bytesInspected": 12592,
+            "checkedAt": "2026-11-13T14:20:53.073Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:AN ALLEGORY OF WISDOM ).jpg",
+          "title": "AN ALLEGORY OF WISDOM",
+          "artist": "Giovanni Martinelli",
+          "source": "https://commons.wikimedia.org/wiki/File:AN_ALLEGORY_OF_WISDOM_).jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/AN_ALLEGORY_OF_WISDOM_%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d8/AN_ALLEGORY_OF_WISDOM_%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1256,
+          "sha1": "ca3950eaacaf4668a014af1ee79da6fa61b462ee",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Giovanni Martinelli",
+            "credit": "https://www.sothebys.com/en/buy/auction/2020/master-paintings/giovanni-martinelli-and-workshop-an-allegory-of",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Giovanni Martinelli; https://www.sothebys.com/en/buy/auction/2020/master-paintings/giovanni-martinelli-and-workshop-an-allegory-of",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Martinelli_(painter)\" class=\"extiw\" title=\"w:en:Giovanni Martinelli (painter)\"><span title=\"Italian painter (1600-1659)\">Giovanni Martinelli</span></a></bdi>",
+            "Credit": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sothebys.com/en/buy/auction/2020/master-paintings/giovanni-martinelli-and-workshop-an-allegory-of\">https://www.sothebys.com/en/buy/auction/2020/master-paintings/giovanni-martinelli-and-workshop-an-allegory-of</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\nAN ALLEGORY OF WISDOM</div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12591,
+            "checkedAt": "2026-11-13T14:20:54.278Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Giovanni Martinelli Allegory of music.jpg",
+          "title": "Giovanni Martinelli Allegory of music",
+          "artist": "Giovanni Martinelli",
+          "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Martinelli_Allegory_of_music.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Giovanni_Martinelli_Allegory_of_music.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Giovanni_Martinelli_Allegory_of_music.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1204,
+          "sha1": "e9ac8fbf400d3cc1b9b2c7c7428c466c9659a31a",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Giovanni Martinelli",
+            "credit": "Dorotheum : Info about artwork",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Giovanni Martinelli; Dorotheum : Info about artwork",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Giovanni_Martinelli_(painter)\" class=\"extiw\" title=\"w:en:Giovanni Martinelli (painter)\"><span title=\"Italian painter (1600-1659)\">Giovanni Martinelli</span></a></bdi>",
+            "Credit": "<a href=\"//commons.wikimedia.org/wiki/Category:Dorotheum\" title=\"Category:Dorotheum\">Dorotheum</a>: <span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Information_icon.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.dorotheum.com/en/l/7405438/\">Info about artwork</a>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Giovanni Martinelli Allegory of music"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:55.493Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        }
+      ],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "38550918c797ca8b7bee64516678767f8c2cc0553a0d51528a401bb7fabd2133": {
+      "policy": "image-discovery-v3",
+      "taskId": "38550918c797ca8b7bee64516678767f8c2cc0553a0d51528a401bb7fabd2133",
+      "probeRequested": true,
+      "attemptedAt": 1794579661804,
+      "status": "candidates",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [
+        {
+          "provider": "commons",
+          "objectId": "File:L'Etruria pittrice, ovvero, Storia della pittura toscana, dedotta dai suoi monumenti che si esibiscono in stampa dal secolo X. fino al presente (IA gri 33125009314002).pdf",
+          "title": "L'Etruria pittrice, ovvero, Storia della pittura toscana, dedotta dai suoi monumenti che si esibiscono in stampa dal secolo X. fino al presente",
+          "artist": "Lastri, Marco, 1731-1811 Renard, Barthélémi Bardi, Giuseppe Pagni, Niccolò Lasinio, Carlo, 1759-1838 Carboni, Matteo Gregori, Ferdinando, 1743-1804 Vascellini, Gaetano, 1745-1805 Colombini, Cosomo",
+          "source": "https://commons.wikimedia.org/wiki/File:L%27Etruria_pittrice,_ovvero,_Storia_della_pittura_toscana,_dedotta_dai_suoi_monumenti_che_si_esibiscono_in_stampa_dal_secolo_X._fino_al_presente_(IA_gri_33125009314002).pdf",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/L%27Etruria_pittrice%2C_ovvero%2C_Storia_della_pittura_toscana%2C_dedotta_dai_suoi_monumenti_che_si_esibiscono_in_stampa_dal_secolo_X._fino_al_presente_%28IA_gri_33125009314002%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/fa/L%27Etruria_pittrice%2C_ovvero%2C_Storia_della_pittura_toscana%2C_dedotta_dai_suoi_monumenti_che_si_esibiscono_in_stampa_dal_secolo_X._fino_al_presente_%28IA_gri_33125009314002%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1468,
+          "sha1": "062dd7628bd96abf454a639b92df2672896c0913",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "documented_open",
+            "name": "Public domain",
+            "url": "",
+            "author": "Lastri, Marco, 1731-1811 Renard, Barthélémi Bardi, Giuseppe Pagni, Niccolò Lasinio, Carlo, 1759-1838 Carboni, Matteo Gregori, Ferdinando, 1743-1804 Vascellini, Gaetano, 1745-1805 Colombini, Cosomo",
+            "credit": "Internet Archive identifier: gri_33125009314002 https://archive.org/download/gri_33125009314002/gri_33125009314002.pdf",
+            "restrictions": "",
+            "obligations": [],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Lastri, Marco, 1731-1811 Renard, Barthélémi Bardi, Giuseppe Pagni, Niccolò Lasinio, Carlo, 1759-1838 Carboni, Matteo Gregori, Ferdinando, 1743-1804 Vascellini, Gaetano, 1745-1805 Colombini, Cosomo; Internet Archive identifier: gri_33125009314002 https://archive.org/download/gri_33125009314002/gri_33125009314002.pdf",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "Public domain",
+            "LicenseUrl": "",
+            "Artist": "<div class=\"fn value\">\n<dl><dd>Lastri, Marco, 1731-1811</dd>\n<dd>Renard, Barthélémi</dd>\n<dd>Bardi, Giuseppe</dd>\n<dd>Pagni, Niccolò</dd>\n<dd>Lasinio, Carlo, 1759-1838</dd>\n<dd>Carboni, Matteo</dd>\n<dd>Gregori, Ferdinando, 1743-1804</dd>\n<dd>Vascellini, Gaetano, 1745-1805</dd>\n<dd>Colombini, Cosomo</dd></dl></div>",
+            "Credit": "<dl><dd><a href=\"//archive.org/details/gri_33125009314002\" class=\"extiw\" title=\"iarchive:gri 33125009314002\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> gri_33125009314002</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/gri_33125009314002/gri_33125009314002.pdf\">https://archive.org/download/gri_33125009314002/gri_33125009314002.pdf</a></dd></dl>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "<div class=\"fn\">\nL'Etruria pittrice, ovvero, Storia della pittura toscana, dedotta dai suoi monumenti che si esibiscono in stampa dal secolo X. fino al presente</div>"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": false,
+            "mime": "application/pdf",
+            "bytesInspected": 12584,
+            "checkedAt": "2026-11-13T14:20:57.005Z",
+            "performed": true
+          },
+          "status": "needs_identity_review"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Simone pignoni, lot e le figlie, 1646-47 (seminario) 01.jpg",
+          "title": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 01",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Simone_pignoni,_lot_e_le_figlie,_1646-47_(seminario)_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1199,
+          "sha1": "ab7f589d9afd1ad1bd8d2a50f0ff861241d03d76",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 01"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:58.197Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Simone pignoni, lot e le figlie, 1646-47 (seminario) 02.jpg",
+          "title": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 02",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Simone_pignoni,_lot_e_le_figlie,_1646-47_(seminario)_02.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/49/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 743,
+          "sha1": "ab32f71385efbcb143918ef88e795a69c5b23e5d",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 02"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12590,
+            "checkedAt": "2026-11-13T14:20:59.391Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Simone pignoni, lot e le figlie, 1646-47 (seminario) 03.jpg",
+          "title": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 03",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Simone_pignoni,_lot_e_le_figlie,_1646-47_(seminario)_03.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 667,
+          "sha1": "248fc16087ea9465b631b8dbbbcede990112a56b",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 03"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12588,
+            "checkedAt": "2026-11-13T14:21:00.603Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Simone pignoni, lot e le figlie, 1646-47 (seminario) 04.jpg",
+          "title": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 04",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Simone_pignoni,_lot_e_le_figlie,_1646-47_(seminario)_04.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Simone_pignoni%2C_lot_e_le_figlie%2C_1646-47_%28seminario%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 667,
+          "sha1": "d26bebed5d996aea92ccba24743cf3126f5bc75a",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Simone pignoni, lot e le figlie, 1646-47 (seminario) 04"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:21:01.804Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        }
+      ],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    },
+    "64de7678919cb6dcd7fe856c95eb999bcb8d28800e086a62e23789ac24d77ef9": {
+      "policy": "image-discovery-v3",
+      "taskId": "64de7678919cb6dcd7fe856c95eb999bcb8d28800e086a62e23789ac24d77ef9",
+      "probeRequested": true,
+      "attemptedAt": 1794579666978,
+      "status": "candidates",
+      "budget": false,
+      "sources": [
+        {
+          "name": "commons-source-link",
+          "complete": true
+        },
+        {
+          "name": "commons-search",
+          "complete": true
+        }
+      ],
+      "errors": [],
+      "candidates": [
+        {
+          "provider": "commons",
+          "objectId": "File:Mario balassi, guarigione di tobi, 1645 (seminario) 01.jpg",
+          "title": "Mario balassi, guarigione di tobi, 1645 (seminario) 01",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Mario_balassi,_guarigione_di_tobi,_1645_(seminario)_01.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/73/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1201,
+          "sha1": "cbe822ed14887284828f09a0adb9ff6ae24ba304",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Mario balassi, guarigione di tobi, 1645 (seminario) 01"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:21:03.363Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Mario balassi, guarigione di tobi, 1645 (seminario) 03.jpg",
+          "title": "Mario balassi, guarigione di tobi, 1645 (seminario) 03",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Mario_balassi,_guarigione_di_tobi,_1645_(seminario)_03.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1641,
+          "sha1": "576e765373c06435e991ed93d222352ee6c22998",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Mario balassi, guarigione di tobi, 1645 (seminario) 03"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:21:04.591Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Mario balassi, guarigione di tobi, 1645 (seminario) 04.jpg",
+          "title": "Mario balassi, guarigione di tobi, 1645 (seminario) 04",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Mario_balassi,_guarigione_di_tobi,_1645_(seminario)_04.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/36/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 667,
+          "sha1": "553200ef6e7d64064cea4653b17e6ee1a393fabe",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Mario balassi, guarigione di tobi, 1645 (seminario) 04"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:21:05.763Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        },
+        {
+          "provider": "commons",
+          "objectId": "File:Mario balassi, guarigione di tobi, 1645 (seminario) 02.jpg",
+          "title": "Mario balassi, guarigione di tobi, 1645 (seminario) 02",
+          "artist": "Sailko",
+          "source": "https://commons.wikimedia.org/wiki/File:Mario_balassi,_guarigione_di_tobi,_1645_(seminario)_02.jpg",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/39/Mario_balassi%2C_guarigione_di_tobi%2C_1645_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "width": 1000,
+          "height": 1500,
+          "sha1": "245638119262ac10e82109559327a7b4a15b2fef",
+          "exact": false,
+          "sourceLinkMatch": false,
+          "identityBasis": "unverified_search_result",
+          "rights": {
+            "status": "unclear",
+            "name": "CC BY 3.0",
+            "url": "https://creativecommons.org/licenses/by/3.0",
+            "author": "Sailko",
+            "credit": "Own work",
+            "restrictions": "",
+            "obligations": [
+              "attribution",
+              "indicate_changes"
+            ],
+            "note": "Machine-readable source claim; not a legal or visual review."
+          },
+          "creditLine": "Sailko; Own work",
+          "partial": false,
+          "evidence": {
+            "LicenseShortName": "CC BY 3.0",
+            "LicenseUrl": "https://creativecommons.org/licenses/by/3.0",
+            "Artist": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+            "Credit": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "Source": "",
+            "Restrictions": "",
+            "ObjectName": "Mario balassi, guarigione di tobi, 1645 (seminario) 02"
+          },
+          "identityTier": "unverified_search_candidate",
+          "duplicateExisting": false,
+          "caution": "No matching museum link: artist, work and museum identity are NOT confirmed; keep only for separate review.",
+          "probe": {
+            "ok": true,
+            "mime": "image/jpeg",
+            "bytesInspected": 12589,
+            "checkedAt": "2026-11-13T14:21:06.978Z",
+            "performed": true
+          },
+          "status": "rights_unclear"
+        }
+      ],
+      "searchScope": "AIC/CMA only for matching museum or unscoped tasks; Commons exact source-link search plus title/artist search. Commons candidates with matching museum links and unverified search candidates are retained in distinct identity tiers; neither is visually confirmed. Up to 10 title/artist results are checked. No exhaustive-world-search claim.",
+      "visualReviewPerformed": false,
+      "gameFilesModified": false
+    }
+  }
+}
