@@ -1,0 +1,13 @@
+{
+  "artistId": "giorgio_vasari",
+  "artist": "Джорджо Вазари",
+  "work": "Q131449675",
+  "title": "Allegory of Patience",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "albrecht_durer",
+  "artist": "Альбрехт Дюрер",
+  "work": "Q18683052",
+  "title": "Portrait of the artist's father",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

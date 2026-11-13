@@ -1,0 +1,13 @@
+{
+  "artistId": "giorgio_vasari",
+  "artist": "Джорджо Вазари",
+  "work": "Q16670765",
+  "title": "Portrait of Alessandro de' Medici",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

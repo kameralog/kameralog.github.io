@@ -1,0 +1,13 @@
+{
+  "artistId": "tintoretto",
+  "artist": "Тинторетто",
+  "work": "Q114647547",
+  "title": "Leda and the Swan",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "parmigianino",
+  "artist": "Пармиджанино",
+  "work": "Q3842398",
+  "title": "Madonna with child",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

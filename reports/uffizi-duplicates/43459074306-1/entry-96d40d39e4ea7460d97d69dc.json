@@ -1,0 +1,13 @@
+{
+  "artistId": "artemisia_gentileschi",
+  "artist": "Артемизия Джентилески",
+  "work": "Q29016365",
+  "title": "Saint Catherine of Alexandria",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "titian",
+  "artist": "Тициан Вечеллио",
+  "work": "Q123753616",
+  "title": "Adoration of the Shepherds",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "botticelli",
+  "artist": "Сандро Боттичелли",
+  "work": "Q2714237",
+  "title": "Cestello Annunciation",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

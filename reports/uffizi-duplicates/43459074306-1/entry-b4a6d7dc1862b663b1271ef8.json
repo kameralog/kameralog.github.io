@@ -1,0 +1,13 @@
+{
+  "artistId": "bruegel",
+  "artist": "Питер Брейгель Старший",
+  "work": "Q121508938",
+  "title": "The wedding dance",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

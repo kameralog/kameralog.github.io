@@ -1,0 +1,24 @@
+{
+  "artistId": "lucas_cranach_the_elder",
+  "artist": "Лукас Кранах Старший",
+  "work": "Q3605055",
+  "title": "Adam and Eve",
+  "status": "probable_duplicate",
+  "evidence": [
+    {
+      "basis": "multilingual_title_only",
+      "artistOK": true,
+      "artistId": "lucas_cranach_the_elder",
+      "key": "aic:21668",
+      "title": "Ева",
+      "bucket": "works",
+      "hasImage": true,
+      "source": "https://www.artic.edu/artworks/21668"
+    }
+  ],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

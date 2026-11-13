@@ -1,0 +1,13 @@
+{
+  "artistId": "botticelli",
+  "artist": "Сандро Боттичелли",
+  "work": "Q1131263",
+  "title": "Coronation of the Virgin",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

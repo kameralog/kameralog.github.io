@@ -1,0 +1,13 @@
+{
+  "artistId": "titian",
+  "artist": "Тициан Вечеллио",
+  "work": "Q3784247",
+  "title": "La Bella",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

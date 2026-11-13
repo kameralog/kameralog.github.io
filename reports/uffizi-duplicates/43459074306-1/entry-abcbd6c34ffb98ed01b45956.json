@@ -1,0 +1,13 @@
+{
+  "artistId": "annibale_carracci",
+  "artist": "Аннибале Карраччи",
+  "work": "Q126180968",
+  "title": "Man with a Monkey",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "john_singer_sargent",
+  "artist": "Джон Сингер Сарджент",
+  "work": "Q52157937",
+  "title": "Self-portrait",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "paolo_veronese",
+  "artist": "Паоло Веронезе",
+  "work": "Q3937768",
+  "title": "Portrait of a gentleman in a fur",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

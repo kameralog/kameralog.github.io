@@ -1,0 +1,13 @@
+{
+  "artistId": "peter_paul_rubens",
+  "artist": "Питер Пауль Рубенс",
+  "work": "Q3937365",
+  "title": "The Peasants Returning From The Fields",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "aivazovsky",
+  "artist": "Иван Айвазовский",
+  "work": "Q52154374",
+  "title": "Self-portrait",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

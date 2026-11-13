@@ -1,0 +1,13 @@
+{
+  "artistId": "giorgio_vasari",
+  "artist": "Джорджо Вазари",
+  "work": "Q125022698",
+  "title": "Allegory of the Immaculate Conception",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

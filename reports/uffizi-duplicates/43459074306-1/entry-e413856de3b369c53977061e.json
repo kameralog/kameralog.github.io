@@ -1,0 +1,13 @@
+{
+  "artistId": "botticelli",
+  "artist": "Сандро Боттичелли",
+  "work": "Q7885787",
+  "title": "The Discovery of the Body of Holofernes",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

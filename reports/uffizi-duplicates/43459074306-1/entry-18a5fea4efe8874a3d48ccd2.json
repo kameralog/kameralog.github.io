@@ -1,0 +1,13 @@
+{
+  "artistId": "leonardo_da_vinci",
+  "artist": "Леонардо да Винчи",
+  "work": "Q131561186",
+  "title": "Drawing of Two Heads in Profile and Studies of Machines",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

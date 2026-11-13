@@ -1,0 +1,13 @@
+{
+  "artistId": "peter_paul_rubens",
+  "artist": "Питер Пауль Рубенс",
+  "work": "Q52333696",
+  "title": "Self-portrait with hat",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

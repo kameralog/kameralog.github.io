@@ -1,0 +1,13 @@
+{
+  "artistId": "botticelli",
+  "artist": "Сандро Боттичелли",
+  "work": "Q2551625",
+  "title": "Madonna of the Magnificat",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

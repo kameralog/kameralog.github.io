@@ -1,0 +1,13 @@
+{
+  "artistId": "botticelli",
+  "artist": "Сандро Боттичелли",
+  "work": "Q1109340",
+  "title": "Fortitude",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

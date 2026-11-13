@@ -1,0 +1,13 @@
+{
+  "artistId": "caravaggio",
+  "artist": "Караваджо",
+  "work": "Q2284829",
+  "title": "Sacrifice of Isaac",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "leonardo_da_vinci",
+  "artist": "Леонардо да Винчи",
+  "work": "Q131561184",
+  "title": "Female Head in Profile",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

@@ -1,0 +1,13 @@
+{
+  "artistId": "piero_della_francesca",
+  "artist": "Пьеро делла Франческа",
+  "work": "Q28798129",
+  "title": "Portrait of Battista Sforza",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

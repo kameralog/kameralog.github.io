@@ -1,0 +1,13 @@
+{
+  "artistId": "claude_lorrain",
+  "artist": "Клод Лоррен",
+  "work": "Q114241452",
+  "title": "Q114241452",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

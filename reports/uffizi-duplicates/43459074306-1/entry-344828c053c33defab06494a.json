@@ -1,0 +1,13 @@
+{
+  "artistId": "francisco_goya",
+  "artist": "Франсиско Гойя",
+  "work": "Q11824924",
+  "title": "Portrait of María Luisa de Borbón y Vallabriga",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

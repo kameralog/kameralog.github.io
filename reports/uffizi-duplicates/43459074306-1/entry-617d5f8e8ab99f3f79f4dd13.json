@@ -1,0 +1,13 @@
+{
+  "artistId": "raphael",
+  "artist": "Рафаэль Санти",
+  "work": "Q2713823",
+  "title": "Portrait of a Young Man with an Apple",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

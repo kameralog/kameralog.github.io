@@ -1,0 +1,34 @@
+{
+  "artistId": "mariotto_albertinelli",
+  "artist": "Мариотто Альбертинелли",
+  "work": "Q4014806",
+  "title": "The Visitation",
+  "status": "probable_duplicate",
+  "evidence": [
+    {
+      "basis": "multilingual_title_only",
+      "artistOK": true,
+      "artistId": "mariotto_albertinelli",
+      "key": "uffizi:1890-1587",
+      "title": "Посещение Марией Елизаветы",
+      "bucket": "works",
+      "hasImage": true,
+      "source": "https://www.uffizi.it/en/artworks/albertinelli-visitation"
+    },
+    {
+      "basis": "multilingual_title_only",
+      "artistOK": true,
+      "artistId": "mariotto_albertinelli",
+      "key": "uffizi:1890-1587",
+      "title": "Посещение Марией Елизаветы",
+      "bucket": "CARDS",
+      "hasImage": true,
+      "source": "https://www.uffizi.it/en/artworks/albertinelli-visitation"
+    }
+  ],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

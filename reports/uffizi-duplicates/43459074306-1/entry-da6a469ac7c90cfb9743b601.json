@@ -1,0 +1,13 @@
+{
+  "artistId": "claude_lorrain",
+  "artist": "Клод Лоррен",
+  "work": "Q51078137",
+  "title": "Port Scene with the Villa Medici",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

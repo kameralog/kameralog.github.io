@@ -1,0 +1,13 @@
+{
+  "artistId": "guercino",
+  "artist": "Гверчино",
+  "work": "Q137900405",
+  "title": "Saint Peter",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

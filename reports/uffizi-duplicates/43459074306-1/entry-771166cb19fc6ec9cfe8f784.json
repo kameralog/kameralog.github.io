@@ -1,0 +1,13 @@
+{
+  "artistId": "titian",
+  "artist": "Тициан Вечеллио",
+  "work": "Q3686076",
+  "title": "The Concert",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

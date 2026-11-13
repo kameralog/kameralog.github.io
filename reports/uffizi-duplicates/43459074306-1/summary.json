@@ -1,0 +1,90 @@
+{
+  "sourcePackage": "43457577858-1",
+  "catalogueSnapshot": "bd5f054d076ec8ef491be90f7b71778030d80762",
+  "expected": 495,
+  "processed": 495,
+  "counts": {
+    "confirmed_existing": 0,
+    "probable_duplicate": 2,
+    "no_duplicate_detected": 493,
+    "incomplete": 0
+  },
+  "errors": [],
+  "complete": true,
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "parts": [
+    {
+      "status": "probable_duplicate",
+      "file": "probable_duplicate-001.json",
+      "count": 2
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-001.json",
+      "count": 38
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-002.json",
+      "count": 37
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-003.json",
+      "count": 38
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-004.json",
+      "count": 40
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-005.json",
+      "count": 39
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-006.json",
+      "count": 38
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-007.json",
+      "count": 38
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-008.json",
+      "count": 39
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-009.json",
+      "count": 38
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-010.json",
+      "count": 38
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-011.json",
+      "count": 36
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-012.json",
+      "count": 38
+    },
+    {
+      "status": "no_duplicate_detected",
+      "file": "no_duplicate_detected-013.json",
+      "count": 36
+    }
+  ],
+  "note": "No duplicate detected is not proof of newness. Different photographs and crops are not compared visually. No installation performed."
+}

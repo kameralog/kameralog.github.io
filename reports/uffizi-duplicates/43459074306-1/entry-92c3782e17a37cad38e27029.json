@@ -1,0 +1,13 @@
+{
+  "artistId": "canaletto",
+  "artist": "Каналетто",
+  "work": "Q18683500",
+  "title": "View of the Grand Canal",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

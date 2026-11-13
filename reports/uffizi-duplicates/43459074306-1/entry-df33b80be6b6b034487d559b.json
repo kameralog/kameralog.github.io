@@ -1,0 +1,13 @@
+{
+  "artistId": "guido_reni",
+  "artist": "Гвидо Рени",
+  "work": "Q125760078",
+  "title": "David with the Head of Goliath",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

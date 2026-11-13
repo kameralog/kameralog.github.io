@@ -1,0 +1,11 @@
+{
+  "destination": "reports/uffizi-duplicates/43459074306-1",
+  "counts": {
+    "confirmed_existing": 0,
+    "probable_duplicate": 2,
+    "no_duplicate_detected": 493,
+    "incomplete": 0
+  },
+  "complete": true,
+  "processed": 495
+}

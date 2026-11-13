@@ -1,0 +1,13 @@
+{
+  "artistId": "caravaggio",
+  "artist": "Караваджо",
+  "work": "Q1113749",
+  "title": "Portrait of Fra Antonio Martelli",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

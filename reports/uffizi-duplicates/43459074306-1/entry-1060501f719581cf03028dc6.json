@@ -1,0 +1,13 @@
+{
+  "artistId": "artemisia_gentileschi",
+  "artist": "Артемизия Джентилески",
+  "work": "Q29017580",
+  "title": "David and Bathsheba",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

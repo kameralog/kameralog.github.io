@@ -1,0 +1,13 @@
+{
+  "artistId": "el_greco",
+  "artist": "Эль Греко",
+  "work": "Q48927682",
+  "title": "Saint John the Evangelist and Saint Francis",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

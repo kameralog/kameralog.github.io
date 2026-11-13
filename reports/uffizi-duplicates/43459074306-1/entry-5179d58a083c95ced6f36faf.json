@@ -1,0 +1,13 @@
+{
+  "artistId": "rembrandt",
+  "artist": "Рембрандт ван Рейн",
+  "work": "Q21469930",
+  "title": "A Rabbi",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

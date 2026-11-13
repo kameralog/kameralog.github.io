@@ -1,0 +1,13 @@
+{
+  "artistId": "el_greco",
+  "artist": "Эль Греко",
+  "work": "Q104772137",
+  "title": "Tears of Saint Peter",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}

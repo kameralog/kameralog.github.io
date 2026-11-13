@@ -1,0 +1,13 @@
+{
+  "artistId": "michelangelo",
+  "artist": "Микеланджело Буонарроти",
+  "work": "Q1473546",
+  "title": "Doni Tondo",
+  "status": "no_duplicate_detected",
+  "evidence": [],
+  "collisions": [],
+  "incompleteEvidence": false,
+  "visualReviewPerformed": false,
+  "perceptualImageComparisonPerformed": false,
+  "applyAllowed": false
+}
