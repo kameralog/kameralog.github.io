@@ -1,0 +1,40 @@
+{
+  "work": "Q3924777",
+  "title": "Prudence",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00158557 A 5"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Piero del Pollaiolo prudence.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Piero_del_Pollaiolo_prudence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Piero_del_Pollaiolo_prudence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_prudence.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Piero del Pollaiuolo",
+        "credit": "[1]",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:11:28.589Z"
+      },
+      "width": 792,
+      "height": 1500
+    }
+  ]
+}

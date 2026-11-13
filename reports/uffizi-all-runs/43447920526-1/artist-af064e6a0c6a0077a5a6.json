@@ -1,0 +1,40 @@
+{
+  "artistId": "andrea_mantegna",
+  "name": "Андреа Мантенья",
+  "latin": "Andrea Mantegna",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q111821771",
+      "title": "Circumcision of Jesus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a498caa67c14ee0ab52e6284.json"
+    },
+    {
+      "work": "Q18683109",
+      "title": "Triptych",
+      "status": "metadata_passed_not_visual",
+      "file": "work-124948aae756bbaf7d8d1c0a.json"
+    },
+    {
+      "work": "Q2405395",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3f2d9ec376d45a8423447abf.json"
+    },
+    {
+      "work": "Q3210265",
+      "title": "Madonna of the Caves",
+      "status": "needs_review",
+      "file": "work-0339590d23ae316dde28b5b4.json"
+    },
+    {
+      "work": "Q3937495",
+      "title": "Portrait of Carlo de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4b2e34ba8a40749757adcac2.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "simone_martini",
+  "name": "Симоне Мартини",
+  "latin": "Simone Martini",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q979440",
+      "title": "Annunciation with Saints Maxima and Ansanus",
+      "status": "needs_review",
+      "file": "work-bf666ca15adc3538e37e09ff.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

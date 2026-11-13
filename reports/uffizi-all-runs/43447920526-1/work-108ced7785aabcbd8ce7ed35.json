@@ -1,0 +1,38 @@
+{
+  "work": "Q117427876",
+  "title": "autoportrait of Giovanni Antonio Lappoli",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lappoli - autoritratto di Giovanni Antonio Lappoli, 00293453.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lappoli_-_autoritratto_di_Giovanni_Antonio_Lappoli%2C_00293453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Lappoli_-_autoritratto_di_Giovanni_Antonio_Lappoli%2C_00293453.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lappoli_-_autoritratto_di_Giovanni_Antonio_Lappoli,_00293453.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Antonio Lappoli",
+        "credit": "http://catalogo.uffizi.it/it/29/ricerca/detailiccd/1181425/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:05:36.009Z"
+      },
+      "width": 250,
+      "height": 354
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work": "Q3605559",
+  "title": "Adoration of the Child",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285586"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Filippino Lippi, Adoration of the Child, 1483, Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Filippino_Lippi%2C_Adoration_of_the_Child%2C_1483%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/20/Filippino_Lippi%2C_Adoration_of_the_Child%2C_1483%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi,_Adoration_of_the_Child,_1483,_Uffizi.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Filippino Lippi",
+        "credit": "Own work by Armin Kleiner . Taken on 14 September 2021, 13:37",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:02:47.352Z"
+      },
+      "width": 3910,
+      "height": 5205
+    }
+  ]
+}

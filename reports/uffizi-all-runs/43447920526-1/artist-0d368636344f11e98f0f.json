@@ -1,0 +1,22 @@
+{
+  "artistId": "lorenzo_monaco",
+  "name": "Лоренцо Монако",
+  "latin": "Lorenzo Monaco",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3605536",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3bc61205ca2a6e0d4ea4e66e.json"
+    },
+    {
+      "work": "Q3797775",
+      "title": "Coronation of the Virgin",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e5d70b2670762a5c33a1dacd.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

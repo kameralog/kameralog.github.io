@@ -1,0 +1,40 @@
+{
+  "work": "Q3937761",
+  "title": "Knight of Malta",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "942"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Titian- Portrait of a Knight of Malta.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Titian-_Portrait_of_a_Knight_of_Malta.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/83/Titian-_Portrait_of_a_Knight_of_Malta.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Titian-_Portrait_of_a_Knight_of_Malta.jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Gallerix.org",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:08:57.315Z"
+      },
+      "width": 3270,
+      "height": 4090
+    }
+  ]
+}

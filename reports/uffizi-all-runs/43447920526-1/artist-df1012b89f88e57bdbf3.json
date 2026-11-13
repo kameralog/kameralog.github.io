@@ -1,0 +1,22 @@
+{
+  "artistId": "cecco_bravo",
+  "name": "Чекко Браво",
+  "latin": "Cecco Bravo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q104935437",
+      "title": "Armida",
+      "status": "needs_review",
+      "file": "work-6ebe662424f0bd835aa675b0.json"
+    },
+    {
+      "work": "Q114362159",
+      "title": "Joseph and the wife of Potiphar",
+      "status": "metadata_passed_not_visual",
+      "file": "work-bb7d508f3cfbb51fccd4017f.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q123966044",
+  "title": "Venus with Cupid",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1431"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Titian - Venus and Cupid (Galleria degli Uffizi) - WGA22903.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Titian_-_Venus_and_Cupid_%28Galleria_degli_Uffizi%29_-_WGA22903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Titian_-_Venus_and_Cupid_%28Galleria_degli_Uffizi%29_-_WGA22903.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Titian_-_Venus_and_Cupid_(Galleria_degli_Uffizi)_-_WGA22903.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tiziano/09/09venus\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12564,
+        "checkedAt": "2026-11-13T15:08:33.200Z"
+      },
+      "width": 1305,
+      "height": 886
+    }
+  ]
+}

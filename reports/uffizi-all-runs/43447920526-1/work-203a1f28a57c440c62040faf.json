@@ -1,0 +1,41 @@
+{
+  "work": "Q125749753",
+  "title": "Venus and Cupid",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alessandro allori, venere e cupido, versione piccola da un cartone di michelangelo, 1570 ca. 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Alessandro_allori%2C_venere_e_cupido%2C_versione_piccola_da_un_cartone_di_michelangelo%2C_1570_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/be/Alessandro_allori%2C_venere_e_cupido%2C_versione_piccola_da_un_cartone_di_michelangelo%2C_1570_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_venere_e_cupido,_versione_piccola_da_un_cartone_di_michelangelo,_1570_ca._01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:57.205Z"
+      },
+      "width": 3600,
+      "height": 2994
+    }
+  ]
+}

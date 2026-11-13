@@ -1,0 +1,16 @@
+{
+  "artistId": "anders_zorn",
+  "name": "Андерс Цорн",
+  "latin": "Anders Zorn",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q123152940",
+      "title": "Self-portrait 1889 by Anders Zorn",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2e74c63ac8f7b3849fef99e9.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

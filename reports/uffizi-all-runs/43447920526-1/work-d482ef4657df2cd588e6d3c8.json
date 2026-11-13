@@ -1,0 +1,40 @@
+{
+  "work": "Q3605568",
+  "title": "Adoration of Camaldoli",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8353"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Adoration of the Christ child with the young St. John the baptist,St. Romuald,angels,the hands of God the Father and the Holy Ghost as a dove - Filippo Lippi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Adoration_of_the_Christ_child_with_the_young_St._John_the_baptist%2CSt._Romuald%2Cangels%2Cthe_hands_of_God_the_Father_and_the_Holy_Ghost_as_a_dove_-_Filippo_Lippi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Adoration_of_the_Christ_child_with_the_young_St._John_the_baptist%2CSt._Romuald%2Cangels%2Cthe_hands_of_God_the_Father_and_the_Holy_Ghost_as_a_dove_-_Filippo_Lippi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Adoration_of_the_Christ_child_with_the_young_St._John_the_baptist,St._Romuald,angels,the_hands_of_God_the_Father_and_the_Holy_Ghost_as_a_dove_-_Filippo_Lippi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippo Lippi",
+        "credit": "Own work by Commonists . Taken on 1 August 2021, 09:17:11",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:02:50.625Z"
+      },
+      "width": 5536,
+      "height": 6095
+    }
+  ]
+}

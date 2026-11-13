@@ -1,0 +1,70 @@
+{
+  "artistId": "frans_van_mieris_the_elder",
+  "name": "Франс ван Мирис Старший",
+  "latin": "Frans van Mieris the Elder",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q30117227",
+      "title": "An Elegant Company in an Interior",
+      "status": "metadata_passed_not_visual",
+      "file": "work-55781b70d612c1f344df85d3.json"
+    },
+    {
+      "work": "Q51155321",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-644cfce58aa2e2bf13104fa2.json"
+    },
+    {
+      "work": "Q51209112",
+      "title": "The Peasant Meal",
+      "status": "needs_review",
+      "file": "work-e6aab8c96a30df3b63096fd8.json"
+    },
+    {
+      "work": "Q51211435",
+      "title": "The Charlatan",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d62d37e6b9a664ad126a6e3e.json"
+    },
+    {
+      "work": "Q51212939",
+      "title": "A Sleeping Courtesan",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a1acf8a8394e5b0a5697c271.json"
+    },
+    {
+      "work": "Q51214161",
+      "title": "The Old Lover",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e8d463f60387601ff52ca2b7.json"
+    },
+    {
+      "work": "Q51214997",
+      "title": "The Empty Glass",
+      "status": "metadata_passed_not_visual",
+      "file": "work-831d23e4ea34c16547d8ab8a.json"
+    },
+    {
+      "work": "Q51215792",
+      "title": "Man playing the Theorbo",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9a978e688f81ae5bc9da974b.json"
+    },
+    {
+      "work": "Q51265867",
+      "title": "Portrait of a Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7cb68f813f362ce7fa143172.json"
+    },
+    {
+      "work": "Q51276142",
+      "title": "Self-portrait",
+      "status": "needs_review",
+      "file": "work-23f2a2205cceb39564e9950d.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

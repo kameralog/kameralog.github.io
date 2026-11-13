@@ -1,0 +1,38 @@
+{
+  "work": "Q126727913",
+  "title": "Portrait of Lucrezia di Cosimo",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Angelo Bronzino - Lucrezia di Cosimo - WGA3256.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Angelo_Bronzino_-_Lucrezia_di_Cosimo_-_WGA3256.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Angelo_Bronzino_-_Lucrezia_di_Cosimo_-_WGA3256.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Lucrezia_di_Cosimo_-_WGA3256.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/b/bronzino/1/lucrezia\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12564,
+        "checkedAt": "2026-11-13T15:04:46.030Z"
+      },
+      "width": 700,
+      "height": 930
+    }
+  ]
+}

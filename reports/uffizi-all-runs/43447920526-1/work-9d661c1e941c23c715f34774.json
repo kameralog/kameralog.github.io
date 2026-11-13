@@ -1,0 +1,40 @@
+{
+  "work": "Q53996705",
+  "title": "Venus Combing Cupid's Hair",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "2123"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Giovanni Da San Giovanni - Venus Combing Cupid's Hair - WGA09424.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Giovanni_Da_San_Giovanni_-_Venus_Combing_Cupid%27s_Hair_-_WGA09424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Giovanni_Da_San_Giovanni_-_Venus_Combing_Cupid%27s_Hair_-_WGA09424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Da_San_Giovanni_-_Venus_Combing_Cupid%27s_Hair_-_WGA09424.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni da San Giovanni",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/giovanni/sangiova/venus_cu\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:12.211Z"
+      },
+      "width": 900,
+      "height": 1195
+    }
+  ]
+}

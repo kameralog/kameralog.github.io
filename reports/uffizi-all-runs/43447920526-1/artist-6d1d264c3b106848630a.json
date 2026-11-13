@@ -1,0 +1,22 @@
+{
+  "artistId": "gerrit_berckheyde",
+  "name": "Геррит Беркхейде",
+  "latin": "Gerrit Berckheyde",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912658",
+      "title": "Self-portrait of Job Adriaensz. Berckheyde (1630-1693)",
+      "status": "needs_review",
+      "file": "work-1d04d0c153d29d7fc6ef8e90.json"
+    },
+    {
+      "work": "Q42296531",
+      "title": "The Great Market (Grote Markt) in Haarlem",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4f0a018199894e686c7464f2.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

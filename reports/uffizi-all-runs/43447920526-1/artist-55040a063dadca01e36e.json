@@ -1,0 +1,22 @@
+{
+  "artistId": "jean_simeon_chardin",
+  "name": "Жан-Симеон Шарден",
+  "latin": "Jean-Siméon Chardin",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241466",
+      "title": "Q114241466",
+      "status": "needs_review",
+      "file": "work-4e27bf1aa0b6b754e23d3cab.json"
+    },
+    {
+      "work": "Q6025666",
+      "title": "Girl with Racket and Shuttlecock",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2edcbafcfaa524956326da3d.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

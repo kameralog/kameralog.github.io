@@ -1,0 +1,40 @@
+{
+  "work": "Q19287936",
+  "title": "Basket of Flowers",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1285"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rachel Ruysch - Basket of Flowers - WGA20551.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Rachel_Ruysch_-_Basket_of_Flowers_-_WGA20551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Rachel_Ruysch_-_Basket_of_Flowers_-_WGA20551.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Basket_of_Flowers_-_WGA20551.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Rachel Ruysch",
+        "credit": "my photo",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:17:45.294Z"
+      },
+      "width": 1626,
+      "height": 1212
+    }
+  ]
+}

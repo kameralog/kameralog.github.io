@@ -1,0 +1,40 @@
+{
+  "work": "Q43283983",
+  "title": "Saint Benedict: Left wing",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286041 1"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Memling, Trittico di Benedetto Portinari, San Benedetto.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/16/Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Memling,_Trittico_di_Benedetto_Portinari,_San_Benedetto.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hans Memling",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"m/memling/3mature6/33nopor2\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:04:34.088Z"
+      },
+      "width": 725,
+      "height": 1013
+    }
+  ]
+}

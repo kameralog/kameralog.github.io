@@ -1,0 +1,40 @@
+{
+  "work": "Q29016365",
+  "title": "Saint Catherine of Alexandria",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8032"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Artemisia Gentileschi - St Catherine of Alexandria - WGA8560.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/76/Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_St_Catherine_of_Alexandria_-_WGA8560.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Artemisia Gentileschi",
+        "credit": "http://www.artribune.com/wp-content/uploads/2015/06/A.-Gentileschi-Santa-Caterina-dAlessandria.-Firenze-Galleria-degli-Uffizi.jpg or Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/gentiles/artemisi/catherin\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:10:00.326Z"
+      },
+      "width": 1641,
+      "height": 2126
+    }
+  ]
+}

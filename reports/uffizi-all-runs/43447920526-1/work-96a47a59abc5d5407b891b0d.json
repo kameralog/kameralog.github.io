@@ -1,0 +1,40 @@
+{
+  "work": "Q52154374",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "2099"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Aivazovsky - Self-portrait 1874.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Aivazovsky_-_Self-portrait_1874.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Aivazovsky_-_Self-portrait_1874.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Self-portrait_1874.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Ivan Aivazovsky",
+        "credit": "http://www.artcyclopedia.ru/avtoportret_1874-ajvazovskij_ivan_konstantinovich.htm",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:10:52.572Z"
+      },
+      "width": 1001,
+      "height": 1099
+    }
+  ]
+}

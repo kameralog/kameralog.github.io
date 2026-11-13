@@ -1,0 +1,40 @@
+{
+  "work": "Q3842736",
+  "title": "Madonna and Child with Saints",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287730"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Parmigianino Madonna con Bambino e Santi (Madonna di San Zaccaria), - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Parmigianino_Madonna_con_Bambino_e_Santi_%28Madonna_di_San_Zaccaria%29%2C_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Parmigianino_Madonna_con_Bambino_e_Santi_%28Madonna_di_San_Zaccaria%29%2C_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmigianino_Madonna_con_Bambino_e_Santi_(Madonna_di_San_Zaccaria),_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Parmigianino",
+        "credit": "Google Arts & Culture — vAHh7xOFXKJ_ow",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:09:18.296Z"
+      },
+      "width": 2184,
+      "height": 2595
+    }
+  ]
+}

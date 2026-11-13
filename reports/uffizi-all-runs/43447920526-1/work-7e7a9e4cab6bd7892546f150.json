@@ -1,0 +1,40 @@
+{
+  "work": "Q727875",
+  "title": "Venus of Urbino",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1437"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano's Venere di Urbino (from The History BLog).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano%27s_Venere_di_Urbino_(from_The_History_BLog).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "http://www.thehistoryblog.com/wp-content/uploads/2013/02/Venus-of-Urbino.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:09:01.760Z"
+      },
+      "width": 3633,
+      "height": 2574
+    }
+  ]
+}

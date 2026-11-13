@@ -1,0 +1,40 @@
+{
+  "work": "Q107436244",
+  "title": "Saint Margaret and the Dragon",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "928"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano Vecellio e bottega - Santa Margherita d'Antiochia e il drago - 928 - Uffizi Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tiziano_Vecellio_e_bottega_-_Santa_Margherita_d%27Antiochia_e_il_drago_-_928_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tiziano_Vecellio_e_bottega_-_Santa_Margherita_d%27Antiochia_e_il_drago_-_928_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_e_bottega_-_Santa_Margherita_d%27Antiochia_e_il_drago_-_928_-_Uffizi_Gallery.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian and workshop",
+        "credit": "Gallerie degli Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:08:20.278Z"
+      },
+      "width": 764,
+      "height": 907
+    }
+  ]
+}

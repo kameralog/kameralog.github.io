@@ -1,0 +1,64 @@
+{
+  "work": "Q3689716",
+  "title": "Conversion of the Magdalene",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "142"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Artemisia Gentileschi Mary Magdalene Pitti.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Artemisia Gentileschi",
+        "credit": "https://caravaggismo.files.wordpress.com/2010/08/agentileschi-maddalena.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:10:04.772Z"
+      },
+      "width": 1115,
+      "height": 1500
+    },
+    {
+      "file": "Artemisia Gentileschi Selbstbildnis als Maria Magdalena.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Artemisia_Gentileschi_Selbstbildnis_als_Maria_Magdalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/78/Artemisia_Gentileschi_Selbstbildnis_als_Maria_Magdalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_Selbstbildnis_als_Maria_Magdalena.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Artemisia Gentileschi",
+        "credit": "http://www.landesmuseum.at/de/presse/presse-details/oesterreichische-erzherzoginnen-am-hof-der-medici.html",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:10:06.318Z"
+      },
+      "width": 2212,
+      "height": 3000
+    }
+  ]
+}

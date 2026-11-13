@@ -1,0 +1,40 @@
+{
+  "work": "Q18686531",
+  "title": "Portrait of Maria Adelaide of France in Turkish-style clothes",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00099697"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Jean Etienne Lìotard - Ritratto di Maria Adelaide di Francia vestita alla turca - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jean_Etienne_L%C3%ACotard_-_Ritratto_di_Maria_Adelaide_di_Francia_vestita_alla_turca_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/22/Jean_Etienne_L%C3%ACotard_-_Ritratto_di_Maria_Adelaide_di_Francia_vestita_alla_turca_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean_Etienne_L%C3%ACotard_-_Ritratto_di_Maria_Adelaide_di_Francia_vestita_alla_turca_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jean-Étienne Liotard",
+        "credit": "Google Arts & Culture — 1QF0Filbx--RPQ",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:17:30.256Z"
+      },
+      "width": 3083,
+      "height": 2677
+    }
+  ]
+}

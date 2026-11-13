@@ -1,0 +1,41 @@
+{
+  "work": "Q2872721",
+  "title": "Self-portrait with three collars",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00099714",
+    "3090"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Jacques Louis David auto portrait Florence.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Jacques_Louis_David_auto_portrait_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/07/Jacques_Louis_David_auto_portrait_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacques_Louis_David_auto_portrait_Florence.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacques-Louis David",
+        "credit": "Reproduit dans David et le néoclassicisme , Simone Monneret, éditions Terrail, 1998 - isbn:9782879939186 - photo de cette reproduction.",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:10:27.349Z"
+      },
+      "width": 3418,
+      "height": 4670
+    }
+  ]
+}

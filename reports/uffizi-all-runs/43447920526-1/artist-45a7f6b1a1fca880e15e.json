@@ -1,0 +1,52 @@
+{
+  "artistId": "rosso_fiorentino",
+  "name": "Россо Фьорентино",
+  "latin": "Rosso Fiorentino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1863885",
+      "title": "Moses Defending the Daughters of Jethro",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b8a56bec45303c0fb4f6af31.json"
+    },
+    {
+      "work": "Q3889199",
+      "title": "Sacred conversation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8b3b52716febe4fe6a60abb3.json"
+    },
+    {
+      "work": "Q3889236",
+      "title": "Sacred conversation with musical angels",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3c5969ed1633d04875d6ca36.json"
+    },
+    {
+      "work": "Q3926028",
+      "title": "Angel Playing the Lute",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d9ca638e940bb014dc2d998a.json"
+    },
+    {
+      "work": "Q3937723",
+      "title": "Portrait of a Young Man in Black",
+      "status": "metadata_passed_not_visual",
+      "file": "work-463cd977766daccfd1823dcd.json"
+    },
+    {
+      "work": "Q3947283",
+      "title": "Saint John the Baptist as a Boy",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1891756fc57e292f18ea93d8.json"
+    },
+    {
+      "work": "Q4006183",
+      "title": "Portrait of a Man in Black",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ae3d2b13ad6f71be035f14eb.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

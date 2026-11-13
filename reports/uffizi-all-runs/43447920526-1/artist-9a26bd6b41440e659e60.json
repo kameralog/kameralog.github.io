@@ -1,0 +1,22 @@
+{
+  "artistId": "giotto",
+  "name": "Джотто ди Бондоне",
+  "latin": "Giotto di Bondone",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q2016193",
+      "title": "Madonna Enthroned",
+      "status": "metadata_passed_not_visual",
+      "file": "work-bcc963576374897855625838.json"
+    },
+    {
+      "work": "Q3907498",
+      "title": "Badia Polyptych",
+      "status": "needs_review",
+      "file": "work-928c0f3c0fe612d5efa89389.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

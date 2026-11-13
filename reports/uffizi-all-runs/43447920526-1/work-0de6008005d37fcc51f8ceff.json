@@ -1,0 +1,40 @@
+{
+  "work": "Q52156059",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1724"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Giovanni da San Giovanni003.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Giovanni_da_San_Giovanni003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/13/Giovanni_da_San_Giovanni003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_da_San_Giovanni003.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni da San Giovanni",
+        "credit": "http://www.bildindex.de",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:16:10.725Z"
+      },
+      "width": 346,
+      "height": 480
+    }
+  ]
+}

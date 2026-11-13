@@ -1,0 +1,40 @@
+{
+  "work": "Q23008414",
+  "title": "Self-portrait of Angelica Kauffman",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1928"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Angelica Kauffmann Self Portrait as the Muse of Painting.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Angelica_Kauffmann_Self_Portrait_as_the_Muse_of_Painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Angelica_Kauffmann_Self_Portrait_as_the_Muse_of_Painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelica_Kauffmann_Self_Portrait_as_the_Muse_of_Painting.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Angelica Kauffmann",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"k/kauffman/self_por\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:17:36.254Z"
+      },
+      "width": 4204,
+      "height": 5806
+    }
+  ]
+}

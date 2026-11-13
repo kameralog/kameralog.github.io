@@ -1,0 +1,16 @@
+{
+  "artistId": "andrea_belvedere",
+  "name": "Андреа Бельведере",
+  "latin": "Andrea Belvedere",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q54075117",
+      "title": "Flowers and Ducks",
+      "status": "metadata_passed_not_visual",
+      "file": "work-19b00147f3253953886c39a7.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

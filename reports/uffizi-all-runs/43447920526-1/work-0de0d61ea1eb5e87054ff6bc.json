@@ -1,0 +1,40 @@
+{
+  "work": "Q742801",
+  "title": "Portrait of a Young Man",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "372"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "YoungManBotticelli.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/YoungManBotticelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/51/YoungManBotticelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:YoungManBotticelli.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/botticel/7portrai/01youngm\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12565,
+        "checkedAt": "2026-11-13T15:03:55.029Z"
+      },
+      "width": 820,
+      "height": 1229
+    }
+  ]
+}

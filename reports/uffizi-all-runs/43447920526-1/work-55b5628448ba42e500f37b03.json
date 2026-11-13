@@ -1,0 +1,40 @@
+{
+  "work": "Q3945921",
+  "title": "Christ with the Four Evangelists",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "159"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fra bartolomeo 03 Christ with the Four Evangelists.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fra_bartolomeo_03_Christ_with_the_Four_Evangelists.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Fra_bartolomeo_03_Christ_with_the_Four_Evangelists.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_03_Christ_with_the_Four_Evangelists.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Fra Bartolomeo",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/bartolom/fra/christ4e\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:13:28.846Z"
+      },
+      "width": 1000,
+      "height": 1372
+    }
+  ]
+}

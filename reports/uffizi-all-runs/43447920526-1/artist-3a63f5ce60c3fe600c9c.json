@@ -1,0 +1,16 @@
+{
+  "artistId": "sassoferrato",
+  "name": "Сассоферрато",
+  "latin": "Sassoferrato",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q23305501",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7409677313deffb8a876fe37.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

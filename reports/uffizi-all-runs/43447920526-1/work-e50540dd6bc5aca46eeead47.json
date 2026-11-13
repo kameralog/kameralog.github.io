@@ -1,0 +1,38 @@
+{
+  "work": "Q115727218",
+  "title": "Marina del Porto",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Salvator rosa, marina del porto, 1641, palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Salvator_rosa%2C_marina_del_porto%2C_1641%2C_palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/83/Salvator_rosa%2C_marina_del_porto%2C_1641%2C_palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Salvator_rosa,_marina_del_porto,_1641,_palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "see filename or category",
+        "credit": "scan",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:10:18.279Z"
+      },
+      "width": 2239,
+      "height": 1287
+    }
+  ]
+}

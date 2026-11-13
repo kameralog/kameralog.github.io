@@ -1,0 +1,22 @@
+{
+  "artistId": "chagall",
+  "name": "Марк Шагал",
+  "latin": "Marc Chagall",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241474",
+      "title": "Q114241474",
+      "status": "needs_review",
+      "file": "work-4b4cc96fbe83fb24b82deb6c.json"
+    },
+    {
+      "work": "Q3630717",
+      "title": "Self-portrait",
+      "status": "needs_review",
+      "file": "work-435c1b37f5c624f1fc813428.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

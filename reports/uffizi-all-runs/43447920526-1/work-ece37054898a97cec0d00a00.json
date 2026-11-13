@@ -1,0 +1,40 @@
+{
+  "work": "Q52153808",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00188782"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "AD Gabbiani Autorretrato.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AD_Gabbiani_Autorretrato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d3/AD_Gabbiani_Autorretrato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:AD_Gabbiani_Autorretrato.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Anton Domenico Gabbiani",
+        "credit": "http://www.europeana.com/portal/record/08504/8C6DA270AD03E20F2E8EB49E6C7397CBA128B72E.html",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:16:37.691Z"
+      },
+      "width": 500,
+      "height": 600
+    }
+  ]
+}

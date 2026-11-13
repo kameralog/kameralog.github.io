@@ -1,0 +1,16 @@
+{
+  "artistId": "giovanni_ambrogio_de_predis",
+  "name": "Джованни Амброджо де Предис",
+  "latin": "Giovanni Ambrogio de Predis",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3937786",
+      "title": "Portrait of a man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-545c26ee03fd3dc38d7b96d6.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q50422860",
+  "title": "Portrait of Pope Sixtus IV",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "744"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tizian Portrait Papst Sixtus IV ca. 1545-46 Uffizien Florenz-01 (cropped).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tizian_Portrait_Papst_Sixtus_IV_ca._1545-46_Uffizien_Florenz-01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Tizian_Portrait_Papst_Sixtus_IV_ca._1545-46_Uffizien_Florenz-01_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tizian_Portrait_Papst_Sixtus_IV_ca._1545-46_Uffizien_Florenz-01_(cropped).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:08:58.781Z"
+      },
+      "width": 1700,
+      "height": 2037
+    }
+  ]
+}

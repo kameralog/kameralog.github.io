@@ -1,0 +1,41 @@
+{
+  "work": "Q2610729",
+  "title": "Portrait of Leo X",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "00287216",
+    "40"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Portrait of Pope Leo X and his cousins, cardinals Giulio de' Medici and Luigi de' Rossi (by Raphael).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Pope_Leo_X_and_his_cousins%2C_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_%28by_Raphael%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Pope_Leo_X_and_his_cousins%2C_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_%28by_Raphael%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Leo_X_and_his_cousins,_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_(by_Raphael).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Raphael",
+        "credit": "gallerix.org",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:08:03.778Z"
+      },
+      "width": 2538,
+      "height": 3360
+    }
+  ]
+}

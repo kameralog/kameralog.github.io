@@ -1,0 +1,44 @@
+{
+  "work": "Q131543624",
+  "title": "Arachne challenges Minerva in a weaving contest",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "35"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tintoretto - Minerva e Aracne, 1575-85 (1579).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tintoretto_-_Minerva_e_Aracne%2C_1575-85_%281579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tintoretto_-_Minerva_e_Aracne%2C_1575-85_%281579%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Minerva_e_Aracne,_1575-85_(1579).jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Jacopo Tintoretto",
+        "credit": "http://www.iconos.it/le-metamorfosi-di-ovidio/libro-vi/minerva-e-aracne/immagini/24-pallade-e-aracne/",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12562,
+        "checkedAt": "2026-11-13T15:05:23.887Z"
+      },
+      "width": 560,
+      "height": 310
+    }
+  ]
+}

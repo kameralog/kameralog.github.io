@@ -1,0 +1,41 @@
+{
+  "work": "Q104935741",
+  "title": "Man with a Monkey",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Annibale carracci, ritratto d'uomo con scimmia, 1588-90, 02.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Annibale_carracci%2C_ritratto_d%27uomo_con_scimmia%2C_1588-90%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Annibale_carracci%2C_ritratto_d%27uomo_con_scimmia%2C_1588-90%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_carracci,_ritratto_d%27uomo_con_scimmia,_1588-90,_02.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:15:01.114Z"
+      },
+      "width": 3258,
+      "height": 3240
+    }
+  ]
+}

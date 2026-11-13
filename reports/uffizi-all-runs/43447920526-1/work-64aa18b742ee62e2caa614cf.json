@@ -1,0 +1,40 @@
+{
+  "work": "Q1134281",
+  "title": "Ezekiel's Vision",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "174"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Raffaello - Visione di Ezechiele.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Raffaello_-_Visione_di_Ezechiele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Raffaello_-_Visione_di_Ezechiele.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_-_Visione_di_Ezechiele.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Raphael",
+        "credit": "https://images.uffizi.it/production/attachments/1576594534287473-6-raffaello_visione-di-ezechiele.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:07:46.652Z"
+      },
+      "width": 1821,
+      "height": 2479
+    }
+  ]
+}

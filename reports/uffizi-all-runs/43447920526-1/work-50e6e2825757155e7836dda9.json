@@ -1,0 +1,40 @@
+{
+  "work": "Q555821",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1706"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Raffaello Sanzio.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Raffaello_Sanzio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Raphael",
+        "credit": "http://nevsepic.com.ua/art-i-risovanaya-grafika/2409-raffaello-sanzio-rafael-santi-37-rabot.html image",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12559,
+        "checkedAt": "2026-11-13T15:08:15.719Z"
+      },
+      "width": 3898,
+      "height": 5315
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "work": "Q32381",
+  "title": "Virgin and Child with Saint Anne",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285076"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Masolino, Masaccio, Virgin and Child with Saint Anne, c1424-25, Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Masolino%2C_Masaccio%2C_Virgin_and_Child_with_Saint_Anne%2C_c1424-25%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Masolino%2C_Masaccio%2C_Virgin_and_Child_with_Saint_Anne%2C_c1424-25%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Masolino,_Masaccio,_Virgin_and_Child_with_Saint_Anne,_c1424-25,_Uffizi.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Masolino da Panicale / Masaccio",
+        "credit": "Own work by MenkinAlRire . Taken on 14 September 2021, 07:46",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:07:07.299Z"
+      },
+      "width": 3563,
+      "height": 5804
+    }
+  ]
+}

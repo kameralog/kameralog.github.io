@@ -1,0 +1,40 @@
+{
+  "work": "Q2397593",
+  "title": "Tavola Doria",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "10624 - 1890"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "La Battaglia di Anghiari di Leonardo.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Battaglia_di_Anghiari_di_Leonardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Battaglia_di_Anghiari_di_Leonardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Battaglia_di_Anghiari_di_Leonardo.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Leonardo da Vinci",
+        "credit": "1. toscanaviva.com 2. daringtodo.com 3. Tokyo Fuji Art Museum",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:07:42.192Z"
+      },
+      "width": 946,
+      "height": 701
+    }
+  ]
+}

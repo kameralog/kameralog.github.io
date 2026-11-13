@@ -1,0 +1,28 @@
+{
+  "artistId": "lorenzo_lotto",
+  "name": "Лоренцо Лотто",
+  "latin": "Lorenzo Lotto",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3937705",
+      "title": "Portrait of a Young Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fa5f8d1ff1e8bd23a2c8f842.json"
+    },
+    {
+      "work": "Q3944473",
+      "title": "Madonna and Child with Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-dee330c0c34c0ea5fd6a974b.json"
+    },
+    {
+      "work": "Q649875",
+      "title": "Susanna and the Elders",
+      "status": "metadata_passed_not_visual",
+      "file": "work-531fcdab61964c663dd4617e.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

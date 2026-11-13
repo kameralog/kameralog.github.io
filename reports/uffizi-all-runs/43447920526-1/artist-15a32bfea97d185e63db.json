@@ -1,0 +1,46 @@
+{
+  "artistId": "filippino_lippi",
+  "name": "Филиппино Липпи",
+  "latin": "Filippino Lippi",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q3605532",
+      "title": "Adoration of the Magi",
+      "status": "needs_review",
+      "file": "work-2f5a8539885b97d865b3438d.json"
+    },
+    {
+      "work": "Q3605559",
+      "title": "Adoration of the Child",
+      "status": "needs_review",
+      "file": "work-6fbba52cafbf7560b70e429f.json"
+    },
+    {
+      "work": "Q3863243",
+      "title": "Death of Lucretia",
+      "status": "needs_review",
+      "file": "work-f1f2fe84ad78465250f21310.json"
+    },
+    {
+      "work": "Q3937714",
+      "title": "Portrait of a Young men with a red  beret",
+      "status": "needs_review",
+      "file": "work-649cc60f73b99a66dbfc217a.json"
+    },
+    {
+      "work": "Q3937767",
+      "title": "Portrait of an Old Man",
+      "status": "needs_review",
+      "file": "work-6c965a61c324f1850d50589b.json"
+    },
+    {
+      "work": "Q3947288",
+      "title": "Saint Jerome",
+      "status": "needs_review",
+      "file": "work-045552003ffe38f3edf52668.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

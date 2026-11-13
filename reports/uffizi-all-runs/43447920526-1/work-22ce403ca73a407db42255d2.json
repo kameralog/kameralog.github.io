@@ -1,0 +1,40 @@
+{
+  "work": "Q3842642",
+  "title": "Madonna Casini",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00194030"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Masaccio, Madonna-del-Solletico.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Masaccio%2C_Madonna-del-Solletico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Masaccio%2C_Madonna-del-Solletico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Masaccio,_Madonna-del-Solletico.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Masaccio",
+        "credit": "https://www.allposters.co.uk/-sp/Madonna-del-Solletico-Posters_i2456891_.htm",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:07:05.666Z"
+      },
+      "width": 338,
+      "height": 450
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "john_singer_sargent",
+  "name": "Джон Сингер Сарджент",
+  "latin": "John Singer Sargent",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52157937",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-11c2aee99897387de4af0c5a.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

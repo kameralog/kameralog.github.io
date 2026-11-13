@@ -1,0 +1,40 @@
+{
+  "work": "Q3463871",
+  "title": "Saint John the Baptist as a Boy",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1446"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "John the Baptist in the wilderness (by Raffaello Sanzio) – Tribuna degli Uffizi, Florence.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_the_Baptist_in_the_wilderness_%28by_Raffaello_Sanzio%29_%E2%80%93_Tribuna_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4e/John_the_Baptist_in_the_wilderness_%28by_Raffaello_Sanzio%29_%E2%80%93_Tribuna_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:John_the_Baptist_in_the_wilderness_(by_Raffaello_Sanzio)_%E2%80%93_Tribuna_degli_Uffizi,_Florence.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Raphael and workshop",
+        "credit": "uffizi.it : Home page – Source – Image",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:08:11.342Z"
+      },
+      "width": 2098,
+      "height": 2335
+    }
+  ]
+}

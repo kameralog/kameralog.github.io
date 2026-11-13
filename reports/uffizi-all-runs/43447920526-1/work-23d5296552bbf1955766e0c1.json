@@ -1,0 +1,40 @@
+{
+  "work": "Q3714445",
+  "title": "Vallombrosa Altarpiece",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00099778"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea del sarto, dossale dei quattro santi o pala di vallombrosa.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Andrea_del_sarto%2C_dossale_dei_quattro_santi_o_pala_di_vallombrosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Andrea_del_sarto%2C_dossale_dei_quattro_santi_o_pala_di_vallombrosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_sarto,_dossale_dei_quattro_santi_o_pala_di_vallombrosa.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Sarto",
+        "credit": "Self-scanned",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:06:30.673Z"
+      },
+      "width": 612,
+      "height": 531
+    }
+  ]
+}

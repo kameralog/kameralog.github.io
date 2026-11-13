@@ -1,0 +1,16 @@
+{
+  "artistId": "eugene_delacroix",
+  "name": "Эжен Делакруа",
+  "latin": "Eugène Delacroix",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52155724",
+      "title": "Self portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-83ac9fd5abf26655775b9063.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,64 @@
+{
+  "artistId": "piero_del_pollaiuolo",
+  "name": "Пьеро дель Поллайоло",
+  "latin": "Piero del Pollaiuolo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q102281990",
+      "title": "the seven virtues",
+      "status": "needs_review",
+      "file": "work-34efc2afd233d5f9e0c98e79.json"
+    },
+    {
+      "work": "Q3658722",
+      "title": "Charity",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4be8036405b8aed106253128.json"
+    },
+    {
+      "work": "Q3740793",
+      "title": "Faith",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cd2b4008c4db551ce070fe36.json"
+    },
+    {
+      "work": "Q3771744",
+      "title": "Justice",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f74b148a4ed6b276637a37d2.json"
+    },
+    {
+      "work": "Q3889223",
+      "title": "Cardinal of Portugal's Altarpiece",
+      "status": "needs_review",
+      "file": "work-30f390c4e29cb97760b89fe1.json"
+    },
+    {
+      "work": "Q3924777",
+      "title": "Prudence",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3a03ee21b8f33097ffb9e9b6.json"
+    },
+    {
+      "work": "Q3937539",
+      "title": "Portrait of Galeazzo Maria Sforza",
+      "status": "metadata_passed_not_visual",
+      "file": "work-be97958b5b5a2d4510580120.json"
+    },
+    {
+      "work": "Q3966500",
+      "title": "Hope",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cacaed2ec88174440844afcb.json"
+    },
+    {
+      "work": "Q3983114",
+      "title": "Temperance",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6dbb8e08be09ff70dd609718.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

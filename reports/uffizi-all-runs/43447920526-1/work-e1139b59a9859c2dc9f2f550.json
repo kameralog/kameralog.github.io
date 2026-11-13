@@ -1,0 +1,40 @@
+{
+  "work": "Q3625842",
+  "title": "Portrait of Cosimo I de' Medici",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "inv. depositi No. 28"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Portrait of Cosimo I de' Medici in armour, by Agnolo Bronzino (Uffizi Gallery, Florence).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Portrait_of_Cosimo_I_de%27_Medici_in_armour%2C_by_Agnolo_Bronzino_%28Uffizi_Gallery%2C_Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/30/Portrait_of_Cosimo_I_de%27_Medici_in_armour%2C_by_Agnolo_Bronzino_%28Uffizi_Gallery%2C_Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Cosimo_I_de%27_Medici_in_armour,_by_Agnolo_Bronzino_(Uffizi_Gallery,_Florence).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "This file was derived from: Bronzino, Portrait of Cosimo I de' Medici in armour, 1545 (Uffizi).jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:04:55.154Z"
+      },
+      "width": 5625,
+      "height": 6866
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q92422327",
+  "title": "Vision of St Augustine",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00281153 3"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Predella pala barbadori, uffizi, 03.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Predella_pala_barbadori%2C_uffizi%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Predella_pala_barbadori%2C_uffizi%2C_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori,_uffizi,_03.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippo Lippi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/l/lippi/filippo/1430/8barbad3\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:03:11.614Z"
+      },
+      "width": 1345,
+      "height": 600
+    }
+  ]
+}

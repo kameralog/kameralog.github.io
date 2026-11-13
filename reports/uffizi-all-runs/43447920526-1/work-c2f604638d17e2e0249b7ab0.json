@@ -1,0 +1,40 @@
+{
+  "work": "Q23010022",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8551"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Cecilia Beaux - Self-portrait in Uffizi Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Cecilia Beaux",
+        "credit": "liveinternet.ru",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12591,
+        "checkedAt": "2026-11-13T15:17:58.776Z"
+      },
+      "width": 508,
+      "height": 800
+    }
+  ]
+}

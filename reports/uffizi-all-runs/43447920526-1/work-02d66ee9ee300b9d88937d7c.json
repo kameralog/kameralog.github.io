@@ -1,0 +1,40 @@
+{
+  "work": "Q2607072",
+  "title": "Portrait of Perugino",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1482"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rafael - Retrato de Pietro Perugino.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rafael_-_Retrato_de_Pietro_Perugino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Rafael_-_Retrato_de_Pietro_Perugino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rafael_-_Retrato_de_Pietro_Perugino.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Attributed to Raphael",
+        "credit": "2. Own work Scan from exhibition catalogue Gesichter der Renaissance, p. 153 1. Galleria degli Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:08:02.423Z"
+      },
+      "width": 7437,
+      "height": 10629
+    }
+  ]
+}

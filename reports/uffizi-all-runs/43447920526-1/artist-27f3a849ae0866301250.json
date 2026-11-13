@@ -1,0 +1,16 @@
+{
+  "artistId": "vincenzo_foppa",
+  "name": "Винченцо Фоппа",
+  "latin": "Vincenzo Foppa",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3842533",
+      "title": "Madonna and Child with an Angel",
+      "status": "metadata_passed_not_visual",
+      "file": "work-13c63b52035577c9afc7f4e1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

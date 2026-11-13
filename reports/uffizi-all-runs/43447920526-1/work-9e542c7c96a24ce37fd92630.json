@@ -1,0 +1,40 @@
+{
+  "work": "Q52338215",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1927"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Mengs, Selbstbildnis.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mengs%2C_Selbstbildnis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/77/Mengs%2C_Selbstbildnis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Mengs,_Selbstbildnis.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Anton Raphael Mengs",
+        "credit": "Source: Steffi Roettgen, Anton Raphael Mengs 1728-1779 , vol. 2: Leben und Wirken (Munich: Hirmer, 2003), plate 46. Scan: James Steakley",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:10:28.777Z"
+      },
+      "width": 2148,
+      "height": 2904
+    }
+  ]
+}

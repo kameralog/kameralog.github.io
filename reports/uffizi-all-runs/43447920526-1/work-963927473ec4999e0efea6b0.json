@@ -1,0 +1,64 @@
+{
+  "work": "Q3873251",
+  "title": "The Birth of John the Baptist",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00099575"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pontormo, natività del battista 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pontormo%2C_nativit%C3%A0_del_battista_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pontormo%2C_nativit%C3%A0_del_battista_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pontormo,_nativit%C3%A0_del_battista_01.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pontormo",
+        "credit": "http://www.atlantedellarteitaliana.it/artwork-670.html",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:05:50.884Z"
+      },
+      "width": 2119,
+      "height": 2044
+    },
+    {
+      "file": "Jacopo Pontormo 031.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jacopo_Pontormo_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jacopo_Pontormo_031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_031.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pontormo",
+        "credit": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:05:52.426Z"
+      },
+      "width": 2024,
+      "height": 2024
+    }
+  ]
+}

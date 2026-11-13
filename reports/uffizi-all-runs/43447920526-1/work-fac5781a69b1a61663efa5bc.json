@@ -1,0 +1,40 @@
+{
+  "work": "Q2269291",
+  "title": "Madonna of the Pomegranate",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1607"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sandro Botticelli - Madonna della melagrana 1487.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sandro_Botticelli_-_Madonna_della_melagrana_1487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sandro_Botticelli_-_Madonna_della_melagrana_1487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Madonna_della_melagrana_1487.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli",
+        "credit": "www.uffizi.it/opere/madonna della melagrana botticelli",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:03:34.099Z"
+      },
+      "width": 1560,
+      "height": 1560
+    }
+  ]
+}

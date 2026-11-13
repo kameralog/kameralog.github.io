@@ -1,0 +1,41 @@
+{
+  "work": "Q124518836",
+  "title": "magdalena gilding the symbols of the passion of Christ",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alessandro allori, maddalena dorante i simboli della passione di cristo, 1581, 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alessandro_allori%2C_maddalena_dorante_i_simboli_della_passione_di_cristo%2C_1581%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Alessandro_allori%2C_maddalena_dorante_i_simboli_della_passione_di_cristo%2C_1581%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_maddalena_dorante_i_simboli_della_passione_di_cristo,_1581,_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:52.767Z"
+      },
+      "width": 3024,
+      "height": 3408
+    }
+  ]
+}

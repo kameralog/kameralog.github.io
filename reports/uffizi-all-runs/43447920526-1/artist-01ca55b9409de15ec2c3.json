@@ -1,0 +1,28 @@
+{
+  "artistId": "piero_della_francesca",
+  "name": "Пьеро делла Франческа",
+  "latin": "Piero della Francesca",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q113549604",
+      "title": "Portrait of Federico da Montefeltro",
+      "status": "needs_review",
+      "file": "work-f73849f35454685b74c3db42.json"
+    },
+    {
+      "work": "Q1227359",
+      "title": "Diptych of Federico da Montefeltro and Battista Sforza",
+      "status": "needs_review",
+      "file": "work-9abc1f1b7cd5e61e75353659.json"
+    },
+    {
+      "work": "Q28798129",
+      "title": "Portrait of Battista Sforza",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e9bdfcd6ded1df6e6477f2be.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q1761496",
+  "title": "Sant'Ambrogio Altarpiece",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00188565"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sandro Botticelli Madonna and Child with Six Saints 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sandro_Botticelli_Madonna_and_Child_with_Six_Saints_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/01/Sandro_Botticelli_Madonna_and_Child_with_Six_Saints_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_Madonna_and_Child_with_Six_Saints_01.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli",
+        "credit": "Self-photographed by User:Spike",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:03:31.145Z"
+      },
+      "width": 3555,
+      "height": 3135
+    }
+  ]
+}

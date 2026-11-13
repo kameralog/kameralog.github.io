@@ -1,0 +1,52 @@
+{
+  "artistId": "fra_bartolomeo",
+  "name": "Фра Бартоломео",
+  "latin": "Fra Bartolommeo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3620829",
+      "title": "The Vision of Saint Bernard",
+      "status": "metadata_passed_not_visual",
+      "file": "work-81e0fbf22f21392e1cbcc70b.json"
+    },
+    {
+      "work": "Q3685123",
+      "title": "Lamentation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-478b7e3db54887d5af6240dd.json"
+    },
+    {
+      "work": "Q3889205",
+      "title": "The Mystic Marriage of Saint Catherine of Siena",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a5321b3f11dcd139b83ab7db.json"
+    },
+    {
+      "work": "Q3909363",
+      "title": "Porcia",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e6bc6f9ba07848c2ba2569e1.json"
+    },
+    {
+      "work": "Q3945921",
+      "title": "Christ with the Four Evangelists",
+      "status": "metadata_passed_not_visual",
+      "file": "work-55b5628448ba42e500f37b03.json"
+    },
+    {
+      "work": "Q3947582",
+      "title": "Saint Mark",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d7ba0f4167ad977e23ce915e.json"
+    },
+    {
+      "work": "Q3979942",
+      "title": "The Annunciation and Circumcision and Nativity of Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-793ab0d89a12794cd1d0cfa5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

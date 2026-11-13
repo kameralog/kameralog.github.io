@@ -1,0 +1,40 @@
+{
+  "work": "Q15974361",
+  "title": "The Holy Family with St Catherine and the Infant St John",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00099576"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Paolo Veronese - Holy Family with St Barbara and the Infant St John - WGA24826.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Paolo_Veronese_-_Holy_Family_with_St_Barbara_and_the_Infant_St_John_-_WGA24826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/32/Paolo_Veronese_-_Holy_Family_with_St_Barbara_and_the_Infant_St_John_-_WGA24826.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Holy_Family_with_St_Barbara_and_the_Infant_St_John_-_WGA24826.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Paolo Veronese",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"v/veronese/04_1570s/6holyfam\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:06:11.178Z"
+      },
+      "width": 1247,
+      "height": 1000
+    }
+  ]
+}

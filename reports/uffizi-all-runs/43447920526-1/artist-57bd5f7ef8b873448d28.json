@@ -1,0 +1,16 @@
+{
+  "artistId": "cosimo_tura",
+  "name": "Козимо Тура",
+  "latin": "Cosimo Tura",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3947013",
+      "title": "Saint Dominic",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d483395918e9f14caa7b666c.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

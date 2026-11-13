@@ -1,0 +1,44 @@
+{
+  "work": "Q131501683",
+  "title": "Judith and Holofernes",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "9966"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rubens, giuditta e oloferne, 1626-34, 02.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rubens%2C_giuditta_e_oloferne%2C_1626-34%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rubens%2C_giuditta_e_oloferne%2C_1626-34%2C_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubens,_giuditta_e_oloferne,_1626-34,_02.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Francesco Bini",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:09:36.276Z"
+      },
+      "width": 2395,
+      "height": 3087
+    }
+  ]
+}

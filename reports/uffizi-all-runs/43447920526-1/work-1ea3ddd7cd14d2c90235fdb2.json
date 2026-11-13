@@ -1,0 +1,40 @@
+{
+  "work": "Q3842604",
+  "title": "Madonna of the Baldacchino",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "165"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Raffaello (Urbino 1483 – Roma 1520) - Madonna con Bambino in trono e i santi Pietro, Bernardo, Agostino e Ranieri, detta Madonna del Baldacchino - 165 - Galleria Palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Raffaello_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Madonna_con_Bambino_in_trono_e_i_santi_Pietro%2C_Bernardo%2C_Agostino_e_Ranieri%2C_detta_Madonna_del_Baldacchino_-_165_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Raffaello_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Madonna_con_Bambino_in_trono_e_i_santi_Pietro%2C_Bernardo%2C_Agostino_e_Ranieri%2C_detta_Madonna_del_Baldacchino_-_165_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_(Urbino_1483_%E2%80%93_Roma_1520)_-_Madonna_con_Bambino_in_trono_e_i_santi_Pietro,_Bernardo,_Agostino_e_Ranieri,_detta_Madonna_del_Baldacchino_-_165_-_Galleria_Palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Raphael",
+        "credit": "uffizi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:08:12.802Z"
+      },
+      "width": 2001,
+      "height": 2481
+    }
+  ]
+}

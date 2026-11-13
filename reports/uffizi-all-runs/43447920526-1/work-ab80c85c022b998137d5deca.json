@@ -1,0 +1,40 @@
+{
+  "work": "Q3784247",
+  "title": "La Bella",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "18"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano Vecellio (Pieve di Cadore 1488-90 - Venezia 1576) - Ritratto di gentildonna (La Bella) - 18 - Galleria Palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tiziano_Vecellio_%28Pieve_di_Cadore_1488-90_-_Venezia_1576%29_-_Ritratto_di_gentildonna_%28La_Bella%29_-_18_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Tiziano_Vecellio_%28Pieve_di_Cadore_1488-90_-_Venezia_1576%29_-_Ritratto_di_gentildonna_%28La_Bella%29_-_18_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_(Pieve_di_Cadore_1488-90_-_Venezia_1576)_-_Ritratto_di_gentildonna_(La_Bella)_-_18_-_Galleria_Palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "uffizi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12578,
+        "checkedAt": "2026-11-13T15:08:45.254Z"
+      },
+      "width": 5412,
+      "height": 7087
+    }
+  ]
+}

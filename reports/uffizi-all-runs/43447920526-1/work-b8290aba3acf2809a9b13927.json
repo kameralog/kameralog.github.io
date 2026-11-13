@@ -1,0 +1,40 @@
+{
+  "work": "Q3713963",
+  "title": "Portrait of a Woman, called \"The Nun\"",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287184"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Ridolfo del Ghirlandaio - Portrait of a Woman, called \"The Nun\" - WGA08928.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ridolfo_del_Ghirlandaio_-_Portrait_of_a_Woman%2C_called_%22The_Nun%22_-_WGA08928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ridolfo_del_Ghirlandaio_-_Portrait_of_a_Woman%2C_called_%22The_Nun%22_-_WGA08928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Ridolfo_del_Ghirlandaio_-_Portrait_of_a_Woman,_called_%22The_Nun%22_-_WGA08928.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Attributed to Ridolfo del Ghirlandaio / Attributed to Giuliano Bugiardini",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/ghirland/ridolfo/the_nun\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12565,
+        "checkedAt": "2026-11-13T15:11:07.516Z"
+      },
+      "width": 1000,
+      "height": 1356
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work": "Q4231874",
+  "title": "Music in a Landscape",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Guercino Concerto campestre.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Guercino_Concerto_campestre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Guercino_Concerto_campestre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Guercino_Concerto_campestre.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Guercino",
+        "credit": "http://pintura.aut.org/SearchProducto?Produnum=18706",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:15:19.235Z"
+      },
+      "width": 800,
+      "height": 596
+    }
+  ]
+}

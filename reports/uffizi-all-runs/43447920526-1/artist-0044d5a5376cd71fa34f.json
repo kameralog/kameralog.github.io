@@ -1,0 +1,16 @@
+{
+  "artistId": "paul_bril",
+  "name": "Пауль Бриль",
+  "latin": "Paul Bril",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q116912627",
+      "title": "Q116912627",
+      "status": "needs_review",
+      "file": "work-21149c797b8e1ed154cdd35f.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

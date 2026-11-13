@@ -1,0 +1,38 @@
+{
+  "work": "Q18688172",
+  "title": "The Annunciation",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Matthias Stomer - Annunciazione - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Matthias_Stomer_-_Annunciazione_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/84/Matthias_Stomer_-_Annunciazione_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Matthias_Stomer_-_Annunciazione_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Matthias Stom",
+        "credit": "Google Arts & Culture — KQEcz3DLiSzkUg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:14:50.620Z"
+      },
+      "width": 3787,
+      "height": 2491
+    }
+  ]
+}

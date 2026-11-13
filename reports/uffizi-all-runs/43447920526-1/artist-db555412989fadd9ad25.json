@@ -1,0 +1,52 @@
+{
+  "artistId": "bartolomeo_manfredi",
+  "name": "Бартоломео Манфреди",
+  "latin": "Bartolomeo Manfredi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q112045364",
+      "title": "Concerto",
+      "status": "needs_review",
+      "file": "work-15bfe53f9ba955f72e8d9e5c.json"
+    },
+    {
+      "work": "Q116912677",
+      "title": "Caritas Romana",
+      "status": "needs_review",
+      "file": "work-3a7a7c1501c0ecf572f15bf7.json"
+    },
+    {
+      "work": "Q131466408",
+      "title": "i giocatori di carte",
+      "status": "needs_review",
+      "file": "work-a09eb10b3905983dca5efd21.json"
+    },
+    {
+      "work": "Q131470297",
+      "title": "concert",
+      "status": "needs_review",
+      "file": "work-e8c9759200659b0d318d204e.json"
+    },
+    {
+      "work": "Q131703787",
+      "title": "carità romana",
+      "status": "needs_review",
+      "file": "work-95f481e3d808f1e180125ab1.json"
+    },
+    {
+      "work": "Q18683395",
+      "title": "Tribute to Caesar",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5a7610a48662139f572ce42a.json"
+    },
+    {
+      "work": "Q28054804",
+      "title": "Soldiers playing Cards",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a58002f1cca374bb0d7a5fa4.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q52337780",
+  "title": "Self-Portrait in Profile",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00294454"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Annibale Carracci - Self-portrait.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Annibale_Carracci_-_Self-portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Annibale_Carracci_-_Self-portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Self-portrait.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Annibale Carracci",
+        "credit": "[1]",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:15:08.553Z"
+      },
+      "width": 650,
+      "height": 821
+    }
+  ]
+}

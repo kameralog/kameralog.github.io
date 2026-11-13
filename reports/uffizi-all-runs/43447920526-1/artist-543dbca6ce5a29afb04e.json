@@ -1,0 +1,46 @@
+{
+  "artistId": "cristofano_allori",
+  "name": "Кристофано Аллори",
+  "latin": "Cristofano Allori",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q118955910",
+      "title": "Portrait of Francesco and Caterina Medici as children",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2254be8fc9343d48020c295f.json"
+    },
+    {
+      "work": "Q125022101",
+      "title": "John the Baptist in the desert",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4d5a52f3127350a0367708fe.json"
+    },
+    {
+      "work": "Q29001891",
+      "title": "Judith with the Head of Holofernes",
+      "status": "needs_review",
+      "file": "work-253297664265b6439a9e285a.json"
+    },
+    {
+      "work": "Q32905341",
+      "title": "Hospitality of Saint Julian",
+      "status": "metadata_passed_not_visual",
+      "file": "work-774643f758a0026539d82934.json"
+    },
+    {
+      "work": "Q52155406",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f775f5e87efdd6ee7a238987.json"
+    },
+    {
+      "work": "Q99571360",
+      "title": "Judith with the Head of Holofernes",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4fbaf7f972d89c0a136b13de.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

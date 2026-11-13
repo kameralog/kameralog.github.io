@@ -1,0 +1,16 @@
+{
+  "artistId": "antoine_coypel",
+  "name": "Антуан Куапель",
+  "latin": "Antoine Coypel",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241445",
+      "title": "Q114241445",
+      "status": "needs_review",
+      "file": "work-16d5c54e9face91b12a62549.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

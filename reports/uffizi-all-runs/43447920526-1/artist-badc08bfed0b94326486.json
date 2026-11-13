@@ -1,0 +1,16 @@
+{
+  "artistId": "jean_jouvenet",
+  "name": "Жан Жувене",
+  "latin": "Jean Jouvenet",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241464",
+      "title": "The Education of the Virgin Mary",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fb518c5e89d00bc36fe7c2a3.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

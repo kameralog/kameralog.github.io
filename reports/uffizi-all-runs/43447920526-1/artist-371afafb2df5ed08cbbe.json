@@ -1,0 +1,22 @@
+{
+  "artistId": "alesso_baldovinetti",
+  "name": "Алессо Бальдовинетти",
+  "latin": "Alesso Baldovinetti",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3618168",
+      "title": "Annunciation",
+      "status": "needs_review",
+      "file": "work-8b43d2d17178b53ccf70014d.json"
+    },
+    {
+      "work": "Q3889235",
+      "title": "Madonna and Child with Saints Francis, Cosmas, Damian, John the Baptist, Lawrence, Julian, Anthony Abbot and Peter Martyr (The Cafaggiolo Altarpiece)",
+      "status": "metadata_passed_not_visual",
+      "file": "work-282de2283fa8a9f6e5044dfc.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

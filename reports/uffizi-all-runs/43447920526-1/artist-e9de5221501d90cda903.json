@@ -1,0 +1,22 @@
+{
+  "artistId": "hans_holbein_the_younger",
+  "name": "Ганс Гольбейн Младший",
+  "latin": "Hans Holbein the Younger",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3630726",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4b7fc4bc0a551eaa59a8e37a.json"
+    },
+    {
+      "work": "Q3937666",
+      "title": "Portrait of Sir Richard Southwell",
+      "status": "metadata_passed_not_visual",
+      "file": "work-88f876998a363b9818bbf35b.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

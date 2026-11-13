@@ -1,0 +1,28 @@
+{
+  "artistId": "domenico_beccafumi",
+  "name": "Доменико Беккафуми",
+  "latin": "Domenico Beccafumi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q15974364",
+      "title": "Holy Family with St. John the Baptist and Angels",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e75d43bacbc31a892d8d19e8.json"
+    },
+    {
+      "work": "Q3630716",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a7ccd601d5b9f77d7f78a1dc.json"
+    },
+    {
+      "work": "Q3944481",
+      "title": "Holy Family with St. John the Baptist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a6cc9c4720063b85b38184ee.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

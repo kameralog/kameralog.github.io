@@ -1,0 +1,40 @@
+{
+  "work": "Q1863885",
+  "title": "Moses Defending the Daughters of Jethro",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00099571"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rosso Fiorentino - Moses defending the Daughters of Jethro - Web Gallery of Art.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rosso_Fiorentino_-_Moses_defending_the_Daughters_of_Jethro_-_Web_Gallery_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rosso_Fiorentino_-_Moses_defending_the_Daughters_of_Jethro_-_Web_Gallery_of_Art.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso_Fiorentino_-_Moses_defending_the_Daughters_of_Jethro_-_Web_Gallery_of_Art.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Rosso Fiorentino",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"r/rosso/2/1moses\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:13:48.438Z"
+      },
+      "width": 831,
+      "height": 1140
+    }
+  ]
+}

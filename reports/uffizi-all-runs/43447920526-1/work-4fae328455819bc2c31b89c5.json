@@ -1,0 +1,41 @@
+{
+  "work": "Q3605052",
+  "title": "Adam and Eve",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286565",
+    "00286567"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Hans baldus grien, copia da durer, adamo ed eva.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hans_baldus_grien%2C_copia_da_durer%2C_adamo_ed_eva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hans_baldus_grien%2C_copia_da_durer%2C_adamo_ed_eva.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_baldus_grien,_copia_da_durer,_adamo_ed_eva.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hans Baldung Grien / After Albrecht Dürer",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/baldung/1/03adam_e\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12561,
+        "checkedAt": "2026-11-13T15:05:11.527Z"
+      },
+      "width": 801,
+      "height": 1020
+    }
+  ]
+}

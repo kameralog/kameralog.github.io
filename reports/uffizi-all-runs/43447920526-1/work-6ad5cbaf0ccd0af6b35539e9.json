@@ -1,0 +1,65 @@
+{
+  "work": "Q131627588",
+  "title": "Vase of flowers and a basin",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Carlo Dolci - Vase of Flowers - WGA6374.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Carlo_Dolci_-_Vase_of_Flowers_-_WGA6374.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/08/Carlo_Dolci_-_Vase_of_Flowers_-_WGA6374.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlo_Dolci_-_Vase_of_Flowers_-_WGA6374.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Carlo Dolci",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"d/dolci/flowers\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12591,
+        "checkedAt": "2026-11-13T15:15:55.701Z"
+      },
+      "width": 700,
+      "height": 888
+    },
+    {
+      "file": "Carlo dolci, vaso di fiori in un vaso con stemma medici e bacile di ceramica, 1662, dipinto per la morte del card. giovan carlo 04 tulipano.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Carlo_dolci%2C_vaso_di_fiori_in_un_vaso_con_stemma_medici_e_bacile_di_ceramica%2C_1662%2C_dipinto_per_la_morte_del_card._giovan_carlo_04_tulipano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Carlo_dolci%2C_vaso_di_fiori_in_un_vaso_con_stemma_medici_e_bacile_di_ceramica%2C_1662%2C_dipinto_per_la_morte_del_card._giovan_carlo_04_tulipano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlo_dolci,_vaso_di_fiori_in_un_vaso_con_stemma_medici_e_bacile_di_ceramica,_1662,_dipinto_per_la_morte_del_card._giovan_carlo_04_tulipano.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:15:57.287Z"
+      },
+      "width": 4848,
+      "height": 2922
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "gerard_david",
+  "name": "Герард Давид",
+  "latin": "Gerard David",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3605529",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-aea8f8c2b70e737dc40d14cd.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

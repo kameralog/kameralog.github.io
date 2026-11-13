@@ -1,0 +1,40 @@
+{
+  "work": "Q116912673",
+  "title": "Supper with a Lute Player",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "730"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Gerard van Honthorst - Supper Party - WGA11652.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Gerard_van_Honthorst_-_Supper_Party_-_WGA11652.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/47/Gerard_van_Honthorst_-_Supper_Party_-_WGA11652.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Gerard_van_Honthorst_-_Supper_Party_-_WGA11652.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Gerard van Honthorst",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"h/honthors/1/05supper\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:14:46.057Z"
+      },
+      "width": 1098,
+      "height": 730
+    }
+  ]
+}

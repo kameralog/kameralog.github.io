@@ -1,0 +1,40 @@
+{
+  "artistId": "guercino",
+  "name": "Гверчино",
+  "latin": "Guercino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q134409392",
+      "title": "Saint Sebastian",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7bc60fe59bde91be770e5262.json"
+    },
+    {
+      "work": "Q134621376",
+      "title": "Apollo and Marsyas",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1ce1c122e20396a913f9245b.json"
+    },
+    {
+      "work": "Q137886266",
+      "title": "Portrait du théologien Giulio Gagliardi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a598616c3bdf1e983ce02c77.json"
+    },
+    {
+      "work": "Q137900405",
+      "title": "Saint Peter",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3dc5a08918d30b236a67b7a8.json"
+    },
+    {
+      "work": "Q4231874",
+      "title": "Music in a Landscape",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ce9472873038df5df7995aea.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

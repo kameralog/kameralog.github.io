@@ -1,0 +1,40 @@
+{
+  "work": "Q50801937",
+  "title": "Dutch Battleships",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "Oggetti d'Arte Pitti: 328"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Dutch battleships.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dutch_battleships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dutch_battleships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Dutch_battleships.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Willem van de Velde the Elder",
+        "credit": "http://www.artres.com/c/htm/Home.aspx",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:14:43.058Z"
+      },
+      "width": 8000,
+      "height": 4400
+    }
+  ]
+}

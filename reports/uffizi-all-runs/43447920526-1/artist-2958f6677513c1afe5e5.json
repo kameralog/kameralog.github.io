@@ -1,0 +1,22 @@
+{
+  "artistId": "lavinia_fontana",
+  "name": "Лавиния Фонтана",
+  "latin": "Lavinia Fontana",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q111307784",
+      "title": "Christ appears to Mary Magdalen",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5db752002cdc757b950ba1b8.json"
+    },
+    {
+      "work": "Q19390001",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-505f15aa5a6b126e04f27ee4.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

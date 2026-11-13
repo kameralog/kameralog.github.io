@@ -1,0 +1,40 @@
+{
+  "work": "Q3947288",
+  "title": "Saint Jerome",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8652"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Filippino, san girolamo.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Filippino%2C_san_girolamo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Filippino%2C_san_girolamo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippino,_san_girolamo.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippino Lippi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"l/lippi/flippino/2/4sjerome\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:03:02.638Z"
+      },
+      "width": 601,
+      "height": 1309
+    }
+  ]
+}

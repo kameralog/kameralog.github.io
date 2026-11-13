@@ -1,0 +1,166 @@
+{
+  "artistId": "botticelli",
+  "name": "Сандро Боттичелли",
+  "latin": "Sandro Botticelli",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q102281990",
+      "title": "the seven virtues",
+      "status": "needs_review",
+      "file": "work-ae1f1f773dfb5ecde4e8872d.json"
+    },
+    {
+      "work": "Q1109340",
+      "title": "Fortitude",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0b0ecbd61db37608e7b27735.json"
+    },
+    {
+      "work": "Q1114823",
+      "title": "Saint Augustine in His Cell",
+      "status": "metadata_passed_not_visual",
+      "file": "work-08399821b1063466e7cb48c6.json"
+    },
+    {
+      "work": "Q1131263",
+      "title": "Coronation of the Virgin",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8817337756b66adbae8fbd9d.json"
+    },
+    {
+      "work": "Q115652286",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4ff568d156d2e3b0e2bb952b.json"
+    },
+    {
+      "work": "Q1217187",
+      "title": "Calumny of Apelles",
+      "status": "metadata_passed_not_visual",
+      "file": "work-99568371a9c61db577ad2496.json"
+    },
+    {
+      "work": "Q151047",
+      "title": "The Birth of Venus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-23ba196c930666e5cdfe2f7e.json"
+    },
+    {
+      "work": "Q1761496",
+      "title": "Sant'Ambrogio Altarpiece",
+      "status": "metadata_passed_not_visual",
+      "file": "work-15c6ce64d5967f4d07a3be90.json"
+    },
+    {
+      "work": "Q2267509",
+      "title": "The Return of Judith to Bethulia",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7fe123c23680ecd4d7c4ede7.json"
+    },
+    {
+      "work": "Q2269291",
+      "title": "Madonna of the Pomegranate",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fac5781a69b1a61663efa5bc.json"
+    },
+    {
+      "work": "Q2405771",
+      "title": "Portrait of a Young Woman",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b634e32d36de6edaacf85c65.json"
+    },
+    {
+      "work": "Q2426058",
+      "title": "Pallas and the Centaur",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b499fdb3029571de880c3dba.json"
+    },
+    {
+      "work": "Q2551625",
+      "title": "Madonna of the Magnificat",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c82baff90c016b9eca3cb1af.json"
+    },
+    {
+      "work": "Q2714237",
+      "title": "Cestello Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2204e1eef43c60f13cf75aef.json"
+    },
+    {
+      "work": "Q2717478",
+      "title": "Madonna della Loggia",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b2f6f39d384cf22b2fced76c.json"
+    },
+    {
+      "work": "Q30310406",
+      "title": "Lunette with Three Hovering Angels",
+      "status": "metadata_passed_not_visual",
+      "file": "work-06f72b0959201d94a4dbf935.json"
+    },
+    {
+      "work": "Q3202079",
+      "title": "The Annunciation",
+      "status": "needs_review",
+      "file": "work-bb9db4e89ee61c67ffa87b31.json"
+    },
+    {
+      "work": "Q3213773",
+      "title": "Madonna in Glory with Seraphim",
+      "status": "needs_review",
+      "file": "work-060a0ae03a12779be608b160.json"
+    },
+    {
+      "work": "Q3213801",
+      "title": "Madonna of the Rose Garden",
+      "status": "needs_review",
+      "file": "work-17b059558d79e8de38fea1a3.json"
+    },
+    {
+      "work": "Q3842521",
+      "title": "Madonna and Child and the Young St John the Baptist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fc8e6b6a7ab65534955ea8c9.json"
+    },
+    {
+      "work": "Q3889254",
+      "title": "San Barnaba Altarpiece",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1457193cebd55d6b12f1aca3.json"
+    },
+    {
+      "work": "Q488825",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a051b1cac3fc77fea6bc1b1f.json"
+    },
+    {
+      "work": "Q549847",
+      "title": "Primavera",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c985569c79408ab738b69f5c.json"
+    },
+    {
+      "work": "Q742801",
+      "title": "Portrait of a Young Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0de0d61ea1eb5e87054ff6bc.json"
+    },
+    {
+      "work": "Q7885787",
+      "title": "The Discovery of the Body of Holofernes",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e413856de3b369c53977061e.json"
+    },
+    {
+      "work": "Q959174",
+      "title": "Portrait of a Man with a Medal of Cosimo the Elder",
+      "status": "needs_review",
+      "file": "work-00346da1f070e41143ad2633.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

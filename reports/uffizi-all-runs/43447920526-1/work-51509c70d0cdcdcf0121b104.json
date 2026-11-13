@@ -1,0 +1,38 @@
+{
+  "work": "Q16910479",
+  "title": "Marie Adelaide of France as Diana",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Jean-Marc Nattier.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jean-Marc_Nattier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jean-Marc_Nattier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Marc_Nattier.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jean-Marc Nattier",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"n/nattier/marc/marie_a2\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:17:27.279Z"
+      },
+      "width": 1100,
+      "height": 802
+    }
+  ]
+}

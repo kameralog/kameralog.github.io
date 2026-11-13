@@ -1,0 +1,64 @@
+{
+  "artistId": "lucas_cranach_the_elder",
+  "name": "Лукас Кранах Старший",
+  "latin": "Lucas Cranach the Elder",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q113465655",
+      "title": "Adam",
+      "status": "needs_review",
+      "file": "work-6808a968f6794b094d883038.json"
+    },
+    {
+      "work": "Q113465666",
+      "title": "Eve",
+      "status": "metadata_passed_not_visual",
+      "file": "work-123a484c96b26517c821c871.json"
+    },
+    {
+      "work": "Q116979305",
+      "title": "Portrait of Philipp Melanchton",
+      "status": "needs_review",
+      "file": "work-eedc304803512e9f66fa1e9b.json"
+    },
+    {
+      "work": "Q116979308",
+      "title": "Portrait of Martin Luther",
+      "status": "needs_review",
+      "file": "work-14819b7e69a74521ef5ff97c.json"
+    },
+    {
+      "work": "Q3605055",
+      "title": "Adam and Eve",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8a7cb29f203a91007dbbe962.json"
+    },
+    {
+      "work": "Q3842524",
+      "title": "Madonna with Child with Young John the Baptist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c9e086ed4e9fd2be8b3b8ecd.json"
+    },
+    {
+      "work": "Q3937380",
+      "title": "Portraits of Johann I and Frederick III the Wise, Electors of Saxony",
+      "status": "needs_review",
+      "file": "work-43336096830d3abdf1bfa49c.json"
+    },
+    {
+      "work": "Q3937603",
+      "title": "Portraits of Martin Luther and Philipp Melanchthon",
+      "status": "needs_review",
+      "file": "work-66893237cc4e6c97fb4ee353.json"
+    },
+    {
+      "work": "Q3937781",
+      "title": "Female Portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6676ecaf0ddfcdbd4efe82b1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

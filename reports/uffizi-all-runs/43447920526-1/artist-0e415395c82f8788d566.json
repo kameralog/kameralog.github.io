@@ -1,0 +1,94 @@
+{
+  "artistId": "pietro_perugino",
+  "name": "Пьетро Перуджино",
+  "latin": "Pietro Perugino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131627583",
+      "title": "Vallombrosa Altarpiece predella",
+      "status": "needs_review",
+      "file": "work-360cf96e6ad45a140a1652a5.json"
+    },
+    {
+      "work": "Q138427969",
+      "title": "Saint Joseph",
+      "status": "needs_review",
+      "file": "work-223411205c835cc1065084a5.json"
+    },
+    {
+      "work": "Q30938939",
+      "title": "Mater Dolorosa",
+      "status": "needs_review",
+      "file": "work-a54670ad4d9e1a8e1782f0c8.json"
+    },
+    {
+      "work": "Q3201606",
+      "title": "Agony in the Garden",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5a399cd99d60a40ecddc6a1d.json"
+    },
+    {
+      "work": "Q3207678",
+      "title": "Lamentation over the Dead Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4abd0be6bf705d33c6578bb7.json"
+    },
+    {
+      "work": "Q3207989",
+      "title": "Crucifixion of Christ with saints",
+      "status": "needs_review",
+      "file": "work-89b27d311db9299d6587509e.json"
+    },
+    {
+      "work": "Q3213753",
+      "title": "Madonna with child, Saint John the Baptist, and an angel",
+      "status": "metadata_passed_not_visual",
+      "file": "work-506309627b1bb5f21a890556.json"
+    },
+    {
+      "work": "Q3213789",
+      "title": "Madonna and Child Enthroned with Saints John the Baptist and Sebastian",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ec6d2dccba50e123cbc701c9.json"
+    },
+    {
+      "work": "Q3292105",
+      "title": "Mary Magdalene",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fe2c15ec5e82c1fe6739188d.json"
+    },
+    {
+      "work": "Q3399418",
+      "title": "Biagio Milanesi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-95c4cd3195517a07abfb6c0b.json"
+    },
+    {
+      "work": "Q3399473",
+      "title": "Portrait of a Young Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ce7ea554d2888ad7c85d74bb.json"
+    },
+    {
+      "work": "Q368788",
+      "title": "Pietà",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0d1b9160a2c675509a12bf65.json"
+    },
+    {
+      "work": "Q945250",
+      "title": "Portrait of Francesco delle Opere",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b2530e6f0104e7d86985d66c.json"
+    },
+    {
+      "work": "Q957460",
+      "title": "Don Baldassare di Antonio di Angelo",
+      "status": "metadata_passed_not_visual",
+      "file": "work-308441a29dfc55c4742ee098.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

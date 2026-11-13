@@ -1,0 +1,62 @@
+{
+  "work": "Q3979950",
+  "title": "Tabernacle of the Linaioli",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fra Angelico — Tabernacle of the Linaioli.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Fra_Angelico_%E2%80%94_Tabernacle_of_the_Linaioli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Fra_Angelico_%E2%80%94_Tabernacle_of_the_Linaioli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_%E2%80%94_Tabernacle_of_the_Linaioli.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Gleb Simonov",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:03:16.104Z"
+      },
+      "width": 5973,
+      "height": 8305
+    },
+    {
+      "file": "Angelico, linaioli tabernacle 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Angelico%2C_linaioli_tabernacle_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Angelico%2C_linaioli_tabernacle_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelico,_linaioli_tabernacle_01.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo Ghiberti / Fra Angelico",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/angelico/02/1closed\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:03:17.625Z"
+      },
+      "width": 700,
+      "height": 1274
+    }
+  ]
+}

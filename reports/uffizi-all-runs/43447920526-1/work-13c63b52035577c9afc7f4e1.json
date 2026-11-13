@@ -1,0 +1,40 @@
+{
+  "work": "Q3842533",
+  "title": "Madonna and Child with an Angel",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287137"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Vincenzo foppa, madonna col bambino e un angelo, 1460 circa (da uffizi) 02.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vincenzo_foppa%2C_madonna_col_bambino_e_un_angelo%2C_1460_circa_%28da_uffizi%29_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Vincenzo_foppa%2C_madonna_col_bambino_e_un_angelo%2C_1460_circa_%28da_uffizi%29_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Vincenzo_foppa,_madonna_col_bambino_e_un_angelo,_1460_circa_(da_uffizi)_02.JPG",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:12:43.826Z"
+      },
+      "width": 1968,
+      "height": 2387
+    }
+  ]
+}

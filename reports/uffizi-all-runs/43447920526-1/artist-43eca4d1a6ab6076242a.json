@@ -1,0 +1,178 @@
+{
+  "artistId": "titian",
+  "name": "Тициан Вечеллио",
+  "latin": "Titian (Tiziano Vecellio)",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q107436244",
+      "title": "Saint Margaret and the Dragon",
+      "status": "needs_review",
+      "file": "work-2fb940d4527080d30f8f6e87.json"
+    },
+    {
+      "work": "Q11136256",
+      "title": "Portrait of a Young Englishman",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3957ab8a47f924a5eb9e79ea.json"
+    },
+    {
+      "work": "Q115787659",
+      "title": "Portrait of Pope Julius II",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d9e3b975511451ce319b0342.json"
+    },
+    {
+      "work": "Q122733370",
+      "title": "Portrait of Philip II of Spain",
+      "status": "needs_review",
+      "file": "work-294f85798d3ef577601a0c71.json"
+    },
+    {
+      "work": "Q123751969",
+      "title": "Christ the Redeemer",
+      "status": "metadata_passed_not_visual",
+      "file": "work-471d41e1919583c37d9a7056.json"
+    },
+    {
+      "work": "Q123753616",
+      "title": "Adoration of the Shepherds",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3200329a7f41088d8bd30fac.json"
+    },
+    {
+      "work": "Q123754396",
+      "title": "Our Lady of Mercy",
+      "status": "needs_review",
+      "file": "work-58bd4526c98e965e28e8550e.json"
+    },
+    {
+      "work": "Q123912954",
+      "title": "Portrait of Bishop Ludovico Beccadelli",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f3d0c460156707e7af288d94.json"
+    },
+    {
+      "work": "Q123966044",
+      "title": "Venus with Cupid",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f5827cf64902f33b4053fdb5.json"
+    },
+    {
+      "work": "Q124152267",
+      "title": "Ecce Homo",
+      "status": "needs_review",
+      "file": "work-f6eadf1c90bd58bb81a05ed2.json"
+    },
+    {
+      "work": "Q124286611",
+      "title": "Portrait of a Member of the House of Minerbetti",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d91eaf275b23f0dfd1cc8416.json"
+    },
+    {
+      "work": "Q136445881",
+      "title": "Portrait of a Man",
+      "status": "needs_review",
+      "file": "work-b81df40470589923689fe326.json"
+    },
+    {
+      "work": "Q15974339",
+      "title": "Penitent Magdalene",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a4e0f1dc14af9cd18ae1797e.json"
+    },
+    {
+      "work": "Q2046100",
+      "title": "Flora",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f93fcfdac3872bf3ecb7c6bd.json"
+    },
+    {
+      "work": "Q28147005",
+      "title": "The Resurrected Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f3b6aa4cd821805686480c69.json"
+    },
+    {
+      "work": "Q3686076",
+      "title": "The Concert",
+      "status": "metadata_passed_not_visual",
+      "file": "work-771166cb19fc6ec9cfe8f784.json"
+    },
+    {
+      "work": "Q3784247",
+      "title": "La Bella",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ab80c85c022b998137d5deca.json"
+    },
+    {
+      "work": "Q3842700",
+      "title": "Madonna of the Roses",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7bfb1afcfb854f4bcde19efc.json"
+    },
+    {
+      "work": "Q3937418",
+      "title": "Portrait of a Sick Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-07cb9911abfaf532da9a143f.json"
+    },
+    {
+      "work": "Q3937511",
+      "title": "Portrait of Eleonora Gonzaga della Rovere",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cc9d60a96fed16030444fcfd.json"
+    },
+    {
+      "work": "Q3937531",
+      "title": "Portrait of Francesco Maria della Rovere",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9bfe3ddb09957e2cab3dd34b.json"
+    },
+    {
+      "work": "Q3937553",
+      "title": "Portrait of Giulia Varano",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6c485121c92bfbdf4ee24479.json"
+    },
+    {
+      "work": "Q3937569",
+      "title": "Portrait of Ippolito de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a426fb96422e5b7940ce8b46.json"
+    },
+    {
+      "work": "Q3937673",
+      "title": "Portrait of Vincenzo Mosti",
+      "status": "metadata_passed_not_visual",
+      "file": "work-40b24430aa2b35e6046f63e6.json"
+    },
+    {
+      "work": "Q3937761",
+      "title": "Knight of Malta",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1460badbce4e297edec184e0.json"
+    },
+    {
+      "work": "Q50422860",
+      "title": "Portrait of Pope Sixtus IV",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ed6b540455bd4ab986211e17.json"
+    },
+    {
+      "work": "Q7232305",
+      "title": "Portrait of Pietro Aretino",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2b8d69238b3fce326b3a72be.json"
+    },
+    {
+      "work": "Q727875",
+      "title": "Venus of Urbino",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7e7a9e4cab6bd7892546f150.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

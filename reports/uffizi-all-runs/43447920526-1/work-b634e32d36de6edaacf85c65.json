@@ -1,0 +1,40 @@
+{
+  "work": "Q2405771",
+  "title": "Portrait of a Young Woman",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "353"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sandro Botticelli - Portrait de femme.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sandro_Botticelli_-_Portrait_de_femme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sandro_Botticelli_-_Portrait_de_femme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Portrait_de_femme.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli",
+        "credit": "Botticelli : de Laurent le Magnifique à Savonarole : catalogue de l'exposition à Paris, Musée du Luxembourg, du 1er octobre 2003 au 22 février 2004 et à Florence, Palazzo Strozzi, du 10 mars au 11 juillet 2004. Milan : Skira editore, Paris : Musée du Luxembourg, 2003. ISBN 9788884915641",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:03:35.604Z"
+      },
+      "width": 1783,
+      "height": 2758
+    }
+  ]
+}

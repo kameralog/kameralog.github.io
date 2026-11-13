@@ -1,0 +1,22 @@
+{
+  "artistId": "maria_van_oosterwijck",
+  "name": "Мария ван Остервейк",
+  "latin": "Maria van Oosterwijck",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912646",
+      "title": "Flowers, fruit and insects",
+      "status": "needs_review",
+      "file": "work-8fc027b1549fe9c8466ae754.json"
+    },
+    {
+      "work": "Q133253797",
+      "title": "Vase with Flowers",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e0c623317ac00c74fcdcac92.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

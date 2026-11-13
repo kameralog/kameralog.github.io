@@ -1,0 +1,28 @@
+{
+  "artistId": "jacopo_ligozzi",
+  "name": "Якопо Лигоцци",
+  "latin": "Jacopo Ligozzi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q103884105",
+      "title": "Portrait of Leopoldo de’ Medici in swaddling",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9fa6a500b055c3bb006cd653.json"
+    },
+    {
+      "work": "Q105063029",
+      "title": "Allegory of Fortune",
+      "status": "needs_review",
+      "file": "work-3c5ab871e370b8c9c8a1eab7.json"
+    },
+    {
+      "work": "Q131449678",
+      "title": "Allegory of Virtue",
+      "status": "needs_review",
+      "file": "work-a5efb7b1bf3538f85ef2a402.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

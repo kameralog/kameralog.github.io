@@ -1,0 +1,42 @@
+{
+  "work": "Q52329156",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sirani chalk drawing.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sirani_chalk_drawing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sirani_chalk_drawing.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sirani_chalk_drawing.JPG",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Elisabetta Sirani",
+        "credit": "Own work , Warburg",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:17:49.750Z"
+      },
+      "width": 933,
+      "height": 1370
+    }
+  ]
+}

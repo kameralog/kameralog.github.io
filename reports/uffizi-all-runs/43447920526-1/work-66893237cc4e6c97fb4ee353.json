@@ -1,0 +1,44 @@
+{
+  "work": "Q3937603",
+  "title": "Portraits of Martin Luther and Philipp Melanchthon",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "512 &  472"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lucas Cranach the Elder, Portraits of Martin Luther and Phillip Melanchthon, 1543, Uffizi'cropped.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lucas_Cranach_the_Elder%2C_Portraits_of_Martin_Luther_and_Phillip_Melanchthon%2C_1543%2C_Uffizi%27cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/79/Lucas_Cranach_the_Elder%2C_Portraits_of_Martin_Luther_and_Phillip_Melanchthon%2C_1543%2C_Uffizi%27cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_the_Elder,_Portraits_of_Martin_Luther_and_Phillip_Melanchthon,_1543,_Uffizi%27cropped.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Lucas Cranach the Elder and workshop",
+        "credit": "Own work by Armin Kleiner . Taken on 14 September 2021, 18:39",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:04:22.118Z"
+      },
+      "width": 2181,
+      "height": 1390
+    }
+  ]
+}

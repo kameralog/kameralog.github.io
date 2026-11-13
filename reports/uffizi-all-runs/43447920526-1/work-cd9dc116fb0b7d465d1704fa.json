@@ -1,0 +1,38 @@
+{
+  "work": "Q138161289",
+  "title": "Portrait of Cardinal Agucchi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Domenichino - Portrait of Cardinal Agucchi - WGA06384.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Domenichino_-_Portrait_of_Cardinal_Agucchi_-_WGA06384.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Domenichino_-_Portrait_of_Cardinal_Agucchi_-_WGA06384.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Domenichino_-_Portrait_of_Cardinal_Agucchi_-_WGA06384.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Domenichino",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"d/domenich/agucchi\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12582,
+        "checkedAt": "2026-11-13T15:15:10.047Z"
+      },
+      "width": 465,
+      "height": 650
+    }
+  ]
+}

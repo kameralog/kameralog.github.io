@@ -1,0 +1,28 @@
+{
+  "artistId": "sebastiano_del_piombo",
+  "name": "Себастьяно дель Пьомбо",
+  "latin": "Sebastiano del Piombo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3863235",
+      "title": "Death of Adonis",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0c29223067177d1796f48255.json"
+    },
+    {
+      "work": "Q3937680",
+      "title": "Portrait of a Woman",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a66aea8318b23ea6319221db.json"
+    },
+    {
+      "work": "Q47530532",
+      "title": "Martyrdom of Saint Agatha",
+      "status": "metadata_passed_not_visual",
+      "file": "work-48ce2d7281d98ff5d0efb1b5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

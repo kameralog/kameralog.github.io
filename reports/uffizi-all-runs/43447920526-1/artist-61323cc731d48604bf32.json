@@ -1,0 +1,40 @@
+{
+  "artistId": "mariotto_albertinelli",
+  "name": "Мариотто Альбертинелли",
+  "latin": "Mariotto Albertinelli",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912650",
+      "title": "Visitation",
+      "status": "needs_review",
+      "file": "work-228f9117642e113d5c9dda54.json"
+    },
+    {
+      "work": "Q124436402",
+      "title": "Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0f96a3ee6eb5723350f94012.json"
+    },
+    {
+      "work": "Q124436675",
+      "title": "Birth of Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ba98ece19d9f745ca5a26d3a.json"
+    },
+    {
+      "work": "Q124449297",
+      "title": "Circumcision",
+      "status": "metadata_passed_not_visual",
+      "file": "work-bdee9b42dca3eafcb53535fd.json"
+    },
+    {
+      "work": "Q4014806",
+      "title": "The Visitation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-acdb48ac1cd2f45e5152fd8a.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

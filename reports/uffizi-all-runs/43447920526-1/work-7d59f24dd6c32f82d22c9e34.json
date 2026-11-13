@@ -1,0 +1,40 @@
+{
+  "work": "Q50474718",
+  "title": "Allegory of fortune",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00021916"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Allegory of Fortune, by Agnolo Bronzino (Oberösterreichische Landesmuseum) (cropped).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Allegory_of_Fortune%2C_by_Agnolo_Bronzino_%28Ober%C3%B6sterreichische_Landesmuseum%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Allegory_of_Fortune%2C_by_Agnolo_Bronzino_%28Ober%C3%B6sterreichische_Landesmuseum%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Allegory_of_Fortune,_by_Agnolo_Bronzino_(Ober%C3%B6sterreichische_Landesmuseum)_(cropped).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "http://www.landesmuseum.at/files/project/userdata/ausstellungen/Schlossmuseum%20Linz/2016/Die%20Uffizien/Bronzino.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:05:08.638Z"
+      },
+      "width": 2140,
+      "height": 2785
+    }
+  ]
+}

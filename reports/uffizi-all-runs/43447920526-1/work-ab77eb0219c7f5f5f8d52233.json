@@ -1,0 +1,40 @@
+{
+  "work": "Q1235695",
+  "title": "Madonna of the Harpies",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1577"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea del Sarto - Virgin and Child between St Francis of Assisi and St John the Evangelist ('Madonna of the Harpies'), 1517, 1890 no.1577.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Andrea_del_Sarto_-_Virgin_and_Child_between_St_Francis_of_Assisi_and_St_John_the_Evangelist_%28%27Madonna_of_the_Harpies%27%29%2C_1517%2C_1890_no.1577.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/49/Andrea_del_Sarto_-_Virgin_and_Child_between_St_Francis_of_Assisi_and_St_John_the_Evangelist_%28%27Madonna_of_the_Harpies%27%29%2C_1517%2C_1890_no.1577.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Virgin_and_Child_between_St_Francis_of_Assisi_and_St_John_the_Evangelist_(%27Madonna_of_the_Harpies%27),_1517,_1890_no.1577.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Sarto",
+        "credit": "https://www.uffizi.it/en/artworks/search?query%5Bmatching_text%5D=sarto",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:06:15.789Z"
+      },
+      "width": 2228,
+      "height": 2500
+    }
+  ]
+}

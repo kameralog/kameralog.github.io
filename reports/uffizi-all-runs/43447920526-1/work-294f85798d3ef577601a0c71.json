@@ -1,0 +1,40 @@
+{
+  "work": "Q122733370",
+  "title": "Portrait of Philip II of Spain",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "200"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Titian - Portrait of Philip II - WGA22971.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Titian_-_Portrait_of_Philip_II_-_WGA22971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Titian_-_Portrait_of_Philip_II_-_WGA22971.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Titian_-_Portrait_of_Philip_II_-_WGA22971.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian and workshop",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tiziano/10/22/10philip\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:08:24.848Z"
+      },
+      "width": 775,
+      "height": 1400
+    }
+  ]
+}

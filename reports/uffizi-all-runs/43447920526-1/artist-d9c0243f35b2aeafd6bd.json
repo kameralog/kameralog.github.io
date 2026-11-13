@@ -1,0 +1,52 @@
+{
+  "artistId": "domenico_ghirlandaio",
+  "name": "Доменико Гирландайо",
+  "latin": "Domenico Ghirlandaio",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131542581",
+      "title": "Cover of the Nun Portrait",
+      "status": "needs_review",
+      "file": "work-55b10d1f407ae51881f81d27.json"
+    },
+    {
+      "work": "Q3605541",
+      "title": "The Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2263d23bd4ab055169cd0d51.json"
+    },
+    {
+      "work": "Q3690992",
+      "title": "Coperta di ritratto con grottesche",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8ddaaf31c3b3d3d30a24c5c0.json"
+    },
+    {
+      "work": "Q3713963",
+      "title": "Portrait of a Woman, called \"The Nun\"",
+      "status": "needs_review",
+      "file": "work-b8290aba3acf2809a9b13927.json"
+    },
+    {
+      "work": "Q3944518",
+      "title": "Madonna and Child Enthroned with Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-60c576093a76a3854fa0761b.json"
+    },
+    {
+      "work": "Q3944520",
+      "title": "Madonna and Child Enthroned between Angels and Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3d42de5c9ecf40f7f19b433c.json"
+    },
+    {
+      "work": "Q763795",
+      "title": "Allegory",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9d92ec28055349bed748d5ee.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

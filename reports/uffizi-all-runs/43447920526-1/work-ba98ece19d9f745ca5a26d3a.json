@@ -1,0 +1,38 @@
+{
+  "work": "Q124436675",
+  "title": "Birth of Christ",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Albertinelli, adorazione del bambino.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Albertinelli%2C_adorazione_del_bambino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Albertinelli%2C_adorazione_del_bambino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Albertinelli,_adorazione_del_bambino.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Mariotto Albertinelli",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/albertin/visitat2\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12567,
+        "checkedAt": "2026-11-13T15:13:43.862Z"
+      },
+      "width": 764,
+      "height": 316
+    }
+  ]
+}

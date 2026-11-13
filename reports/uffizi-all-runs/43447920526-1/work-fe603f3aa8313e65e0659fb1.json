@@ -1,0 +1,38 @@
+{
+  "work": "Q3907526",
+  "title": "Madonna and Saints",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bernardo zenale, madonna e santi, kansas.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bernardo_zenale%2C_madonna_e_santi%2C_kansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bernardo_zenale%2C_madonna_e_santi%2C_kansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bernardo_zenale,_madonna_e_santi,_kansas.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bernardo Zenale",
+        "credit": "http://collection.spencerart.ku.edu/eMuseumPlus?service=ExternalInterface&module=collection&objectId=10153&viewType=detailView",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:12:52.811Z"
+      },
+      "width": 2485,
+      "height": 5124
+    }
+  ]
+}

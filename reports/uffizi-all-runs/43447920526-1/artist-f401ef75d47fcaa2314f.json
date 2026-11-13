@@ -1,0 +1,22 @@
+{
+  "artistId": "ludovico_cardi",
+  "name": "Лудовико Карди",
+  "latin": "Ludovico Cardi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q111822118",
+      "title": "Sacrifice of Isaac",
+      "status": "metadata_passed_not_visual",
+      "file": "work-15f8b3486ba5ed3ff4108866.json"
+    },
+    {
+      "work": "Q54086391",
+      "title": "Ecce Homo",
+      "status": "needs_review",
+      "file": "work-18e3af720a9291cd1069e7fb.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

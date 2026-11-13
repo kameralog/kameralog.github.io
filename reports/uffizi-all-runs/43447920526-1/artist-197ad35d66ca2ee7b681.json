@@ -1,0 +1,106 @@
+{
+  "artistId": "alessandro_allori",
+  "name": "Алессандро Аллори",
+  "latin": "Alessandro Allori",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q108292260",
+      "title": "Portrait of Isabella de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9b04458cfb81800ec39a722d.json"
+    },
+    {
+      "work": "Q108478249",
+      "title": "Portrait of Isabella de' Medici Orsini (?)",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2d34b4e5bb0d39c1bd09bad4.json"
+    },
+    {
+      "work": "Q111304344",
+      "title": "Portrait of Ortensia de Bardi di Montauto, formerly identified as Giulia de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f09ce2e1d69b9962b2ad89b0.json"
+    },
+    {
+      "work": "Q117405631",
+      "title": "Portrait of a gentlewoman",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c646ef29223eac7357104c22.json"
+    },
+    {
+      "work": "Q119164762",
+      "title": "Portrait of Lorenzo di Giovanni de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-48a1f2262b4725b20af64320.json"
+    },
+    {
+      "work": "Q124518529",
+      "title": "St Peter Walking on the Water",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7b761e74564c00fc6c4d5dfb.json"
+    },
+    {
+      "work": "Q124518541",
+      "title": "The Preaching of St John the Baptist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-21d41e56b27201b0842c8337.json"
+    },
+    {
+      "work": "Q124518582",
+      "title": "Allegory of Human Life",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d432fcb134be77cb2ae0dbe9.json"
+    },
+    {
+      "work": "Q124518726",
+      "title": "Hercules crowned by a Muse",
+      "status": "needs_review",
+      "file": "work-e899c38a60b6f6b6082f3347.json"
+    },
+    {
+      "work": "Q124518836",
+      "title": "magdalena gilding the symbols of the passion of Christ",
+      "status": "needs_review",
+      "file": "work-fd6082a3f21c4c52f2799d69.json"
+    },
+    {
+      "work": "Q124530944",
+      "title": "chiamata di san pietro che cammina sulle acque",
+      "status": "needs_review",
+      "file": "work-ef62435f8fbbdd8beca2501c.json"
+    },
+    {
+      "work": "Q124736928",
+      "title": "Portrait of Bianca Cappello",
+      "status": "metadata_passed_not_visual",
+      "file": "work-24b30d60363f82cd174c25c3.json"
+    },
+    {
+      "work": "Q125749753",
+      "title": "Venus and Cupid",
+      "status": "needs_review",
+      "file": "work-203a1f28a57c440c62040faf.json"
+    },
+    {
+      "work": "Q131449705",
+      "title": "Portrait of Bianca Cappello (front) and Allegory of Dream (versus)",
+      "status": "needs_review",
+      "file": "work-13e341aba250e8948e0329e5.json"
+    },
+    {
+      "work": "Q50884435",
+      "title": "The Sacrifice of Isaac",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e38492631478ed4a46e5e7c4.json"
+    },
+    {
+      "work": "Q52154404",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4231c5e400d82dfb323ef838.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

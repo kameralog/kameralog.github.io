@@ -1,0 +1,28 @@
+{
+  "artistId": "lorenzo_di_credi",
+  "name": "Лоренцо ди Креди",
+  "latin": "Lorenzo di Credi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3605549",
+      "title": "Adoration of the Shepherds",
+      "status": "metadata_passed_not_visual",
+      "file": "work-412e70d2338711c1016f0ff1.json"
+    },
+    {
+      "work": "Q3618179",
+      "title": "The Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-748433bab546fd73c2af59c4.json"
+    },
+    {
+      "work": "Q4009552",
+      "title": "Venus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-07f0e49ba079ca8bf4d02460.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,38 @@
+{
+  "work": "Q52329846",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "William Holman Hunt - Selfportrait.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_Holman_Hunt_-_Selfportrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/70/William_Holman_Hunt_-_Selfportrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_Selfportrait.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "William Holman Hunt",
+        "credit": "HumanitiesWeb",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:10:37.794Z"
+      },
+      "width": 845,
+      "height": 1200
+    }
+  ]
+}

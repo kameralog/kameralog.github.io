@@ -1,0 +1,40 @@
+{
+  "work": "Q11753618",
+  "title": "Leda and the Swan",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "3084"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Leda mit schwan.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Leda_mit_schwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/96/Leda_mit_schwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Leda_mit_schwan.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "myartprints.com",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:05:20.943Z"
+      },
+      "width": 550,
+      "height": 409
+    }
+  ]
+}

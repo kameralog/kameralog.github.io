@@ -1,0 +1,16 @@
+{
+  "artistId": "friedrich_amerling",
+  "name": "Фридрих Амерлинг",
+  "latin": "Friedrich von Amerling",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q137341778",
+      "title": "The-Drowsy-One",
+      "status": "metadata_passed_not_visual",
+      "file": "work-837b02d887311683b56be502.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

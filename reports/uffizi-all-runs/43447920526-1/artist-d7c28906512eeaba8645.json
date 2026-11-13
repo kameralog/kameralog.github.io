@@ -1,0 +1,16 @@
+{
+  "artistId": "carl_larsson",
+  "name": "Карл Ларссон",
+  "latin": "Carl Larsson",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52157977",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-59e3722c8bb7045e7475472b.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

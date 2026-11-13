@@ -1,0 +1,40 @@
+{
+  "work": "Q966681",
+  "title": "Madonna della Seggiola",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "151"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Raphael Madonna della seggiola.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Raphael_Madonna_della_seggiola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/09/Raphael_Madonna_della_seggiola.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Raphael_Madonna_della_seggiola.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Raphael",
+        "credit": "[1]",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:08:18.783Z"
+      },
+      "width": 1600,
+      "height": 1635
+    }
+  ]
+}

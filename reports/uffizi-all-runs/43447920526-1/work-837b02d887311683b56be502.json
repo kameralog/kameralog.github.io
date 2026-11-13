@@ -1,0 +1,38 @@
+{
+  "work": "Q137341778",
+  "title": "The-Drowsy-One",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "The-Drowsy-One-Friedrich-von-Amerling.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/The-Drowsy-One-Friedrich-von-Amerling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/93/The-Drowsy-One-Friedrich-von-Amerling.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:The-Drowsy-One-Friedrich-von-Amerling.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Friedrich von Amerling",
+        "credit": "Friedrich von Amerling Usurped",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:10:36.294Z"
+      },
+      "width": 733,
+      "height": 600
+    }
+  ]
+}

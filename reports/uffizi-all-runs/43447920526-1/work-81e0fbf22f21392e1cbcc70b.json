@@ -1,0 +1,40 @@
+{
+  "work": "Q3620829",
+  "title": "The Vision of Saint Bernard",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287188"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fra bartolomeo 02 Vision of St Bernard with Sts Benedict and John the Evangelist.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Benedict_and_John_the_Evangelist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Benedict_and_John_the_Evangelist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Benedict_and_John_the_Evangelist.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Fra Bartolomeo",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/bartolom/fra/bernard\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:13:22.785Z"
+      },
+      "width": 1065,
+      "height": 1027
+    }
+  ]
+}

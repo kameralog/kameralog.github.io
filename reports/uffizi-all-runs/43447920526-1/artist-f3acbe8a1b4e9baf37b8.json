@@ -1,0 +1,34 @@
+{
+  "artistId": "rachel_ruysch",
+  "name": "Рахел Рюйш",
+  "latin": "Rachel Ruysch",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q19271833",
+      "title": "Still-Life with Fruit and Insects",
+      "status": "metadata_passed_not_visual",
+      "file": "work-979075dd73aebd5de30c7aa6.json"
+    },
+    {
+      "work": "Q19287936",
+      "title": "Basket of Flowers",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fc6ebbe97fd13e78f5c6532c.json"
+    },
+    {
+      "work": "Q19294688",
+      "title": "Flowers, fruit,  reptiles, and insects on the edge of a wood",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d5e51b52f759173b81d716e0.json"
+    },
+    {
+      "work": "Q19295363",
+      "title": "Flowers in a glass vase, with pomegranates, on a marble balustrade",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c62c9b8b65b00f61067a7844.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,42 @@
+{
+  "work": "Q124308772",
+  "title": "Madonna annuniciata, angeli, Santi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Galería Uffizi, Florencia, Italia, 2022-09-18, DD 29.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Galer%C3%ADa_Uffizi%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Galer%C3%ADa_Uffizi%2C_Florencia%2C_Italia%2C_2022-09-18%2C_DD_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_Uffizi,_Florencia,_Italia,_2022-09-18,_DD_29.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Diego Delso",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:07:19.257Z"
+      },
+      "width": 5891,
+      "height": 4959
+    }
+  ]
+}

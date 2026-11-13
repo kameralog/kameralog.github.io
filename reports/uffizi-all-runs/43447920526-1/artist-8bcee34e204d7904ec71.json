@@ -1,0 +1,16 @@
+{
+  "artistId": "peder_severin_kroyer",
+  "name": "Педер Северин Крёйер",
+  "latin": "Peder Severin Krøyer",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q22931136",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1ae58bfc3be861de1301eead.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

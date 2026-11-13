@@ -1,0 +1,28 @@
+{
+  "artistId": "el_greco",
+  "name": "Эль Греко",
+  "latin": "El Greco",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q104772137",
+      "title": "Tears of Saint Peter",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a9ac128e27256db44c2d2513.json"
+    },
+    {
+      "work": "Q133281030",
+      "title": "Saints John the Evangelist and Francis of Assisi",
+      "status": "needs_review",
+      "file": "work-b6d8fdfa6e4436b7ef4ada69.json"
+    },
+    {
+      "work": "Q48927682",
+      "title": "Saint John the Evangelist and Saint Francis",
+      "status": "metadata_passed_not_visual",
+      "file": "work-459ae313657f1e30207777f3.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

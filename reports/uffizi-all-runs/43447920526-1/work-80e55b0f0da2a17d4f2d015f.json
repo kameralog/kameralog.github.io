@@ -1,0 +1,40 @@
+{
+  "work": "Q3933573",
+  "title": "Resurrection",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "Oggetti d'Arte Pitti: 479"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rubens, resurrezione, pitti.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rubens%2C_resurrezione%2C_pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Rubens%2C_resurrezione%2C_pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubens,_resurrezione,_pitti.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Peter Paul Rubens",
+        "credit": "http://www.art-prints-on-demand.com",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:09:45.269Z"
+      },
+      "width": 326,
+      "height": 400
+    }
+  ]
+}

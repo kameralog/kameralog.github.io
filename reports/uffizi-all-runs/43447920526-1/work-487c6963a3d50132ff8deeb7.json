@@ -1,0 +1,44 @@
+{
+  "work": "Q2415504",
+  "title": "David with the head of Goliath",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "Inv. Bargello nn. 450, 451"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "David, Andrea del Verrocchio, ca. 1466-69, Bargello Florenz-01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/David%2C_Andrea_del_Verrocchio%2C_ca._1466-69%2C_Bargello_Florenz-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ae/David%2C_Andrea_del_Verrocchio%2C_ca._1466-69%2C_Bargello_Florenz-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:David,_Andrea_del_Verrocchio,_ca._1466-69,_Bargello_Florenz-01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Rufus46",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:11:19.571Z"
+      },
+      "width": 3472,
+      "height": 5313
+    }
+  ]
+}

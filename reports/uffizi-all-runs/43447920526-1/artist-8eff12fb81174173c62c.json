@@ -1,0 +1,70 @@
+{
+  "artistId": "hans_memling",
+  "name": "Ганс Мемлинг",
+  "latin": "Hans Memling",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912625",
+      "title": "Portrait of een man met gevouwen handen (mogelijk Benedetto Portinari)",
+      "status": "needs_review",
+      "file": "work-3dfe7d9bff56822a3231e9e9.json"
+    },
+    {
+      "work": "Q30938939",
+      "title": "Mater Dolorosa",
+      "status": "needs_review",
+      "file": "work-c3e18e73e057ea14fd7f95bf.json"
+    },
+    {
+      "work": "Q3842767",
+      "title": "Madonna enthroned with child and two musical angels",
+      "status": "metadata_passed_not_visual",
+      "file": "work-dafb81ae542ec97e93f7498a.json"
+    },
+    {
+      "work": "Q3937530",
+      "title": "Portrait of Folco Portinari",
+      "status": "metadata_passed_not_visual",
+      "file": "work-68acdffe7129f449ef6f7796.json"
+    },
+    {
+      "work": "Q3937745",
+      "title": "Portrait of an unknown Man in landscape",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7ac3b5e19d8ca1574849ddb9.json"
+    },
+    {
+      "work": "Q3999120",
+      "title": "Benedetto Portinari triptych: Right wing, Portrait of a Praying Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1ba51babdaef11b3a6060e5b.json"
+    },
+    {
+      "work": "Q4006168",
+      "title": "Portrait of an unknown man with a letter",
+      "status": "metadata_passed_not_visual",
+      "file": "work-13e6404af056c1547a5e4432.json"
+    },
+    {
+      "work": "Q43101497",
+      "title": "Pagagnotti Triptych",
+      "status": "needs_review",
+      "file": "work-ce69960d7bcd641f763ee2f8.json"
+    },
+    {
+      "work": "Q43283983",
+      "title": "Saint Benedict: Left wing",
+      "status": "metadata_passed_not_visual",
+      "file": "work-15cf083f6c6eb0ba0e912471.json"
+    },
+    {
+      "work": "Q43284760",
+      "title": "Benedetto Portinari's Triptych",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3963d6a8a405867d42dd2f6c.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

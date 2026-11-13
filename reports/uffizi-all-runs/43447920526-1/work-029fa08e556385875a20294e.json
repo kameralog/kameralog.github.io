@@ -1,0 +1,43 @@
+{
+  "work": "Q116912674",
+  "title": "Dinner with nuptials",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "735"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Gherardo delle notti, cena con sponsali, 1613-14 ca., in cornice del 1690 circa 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gherardo_delle_notti%2C_cena_con_sponsali%2C_1613-14_ca.%2C_in_cornice_del_1690_circa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gherardo_delle_notti%2C_cena_con_sponsali%2C_1613-14_ca.%2C_in_cornice_del_1690_circa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Gherardo_delle_notti,_cena_con_sponsali,_1613-14_ca.,_in_cornice_del_1690_circa_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:14:47.557Z"
+      },
+      "width": 4518,
+      "height": 3342
+    }
+  ]
+}

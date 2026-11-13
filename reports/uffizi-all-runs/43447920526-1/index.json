@@ -1,0 +1,6064 @@
+[
+  {
+    "artistId": "monet",
+    "name": "Клод Моне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f1e978b9b267e4445a3f.json",
+    "works": 0
+  },
+  {
+    "artistId": "van-gogh",
+    "name": "Винсент ван Гог",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9aa05db35ed54df52a54.json",
+    "works": 0
+  },
+  {
+    "artistId": "cezanne",
+    "name": "Поль Сезанн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-890150b75cc91c013e29.json",
+    "works": 0
+  },
+  {
+    "artistId": "gauguin",
+    "name": "Поль Гоген",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d4e150f3fb275eae81f2.json",
+    "works": 0
+  },
+  {
+    "artistId": "renoir",
+    "name": "Пьер Огюст Ренуар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5c40b48e84d6bceba5cb.json",
+    "works": 0
+  },
+  {
+    "artistId": "rembrandt",
+    "name": "Рембрандт ван Рейн",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2e704a46d15633417bad.json",
+    "works": 4
+  },
+  {
+    "artistId": "morisot",
+    "name": "Берта Моризо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c140e19913c61e648506.json",
+    "works": 0
+  },
+  {
+    "artistId": "shen_zhou",
+    "name": "Шэнь Чжоу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e8840fd333db5516b7f6.json",
+    "works": 0
+  },
+  {
+    "artistId": "wen_zhengming",
+    "name": "Вэнь Чжэнмин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d0f9bf6deb6700ef21dc.json",
+    "works": 0
+  },
+  {
+    "artistId": "ma_yuan",
+    "name": "Ма Юань",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6502e08b41e99b7255fb.json",
+    "works": 0
+  },
+  {
+    "artistId": "huang_gongwang",
+    "name": "Хуан Гунван",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ddb7c932360599a9e2d1.json",
+    "works": 0
+  },
+  {
+    "artistId": "zhao_mengfu",
+    "name": "Чжао Мэнфу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2f7bc2aac180e6ed0b58.json",
+    "works": 0
+  },
+  {
+    "artistId": "qiu_ying",
+    "name": "Цю Ин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6dbf4afa39e81398babd.json",
+    "works": 0
+  },
+  {
+    "artistId": "wang_hui",
+    "name": "Ван Хуэй",
+    "status": "no_match_in_checked_index",
+    "file": "artist-574077204adf9f1dae18.json",
+    "works": 0
+  },
+  {
+    "artistId": "bada_shanren",
+    "name": "Бада Шаньжэнь",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5951c4b090244619dcb5.json",
+    "works": 0
+  },
+  {
+    "artistId": "shitao",
+    "name": "Шитао",
+    "status": "no_match_in_checked_index",
+    "file": "artist-083088c735707a5db393.json",
+    "works": 0
+  },
+  {
+    "artistId": "ni_zan",
+    "name": "Ни Цзань",
+    "status": "no_match_in_checked_index",
+    "file": "artist-eaa6bb89b94485937bfd.json",
+    "works": 0
+  },
+  {
+    "artistId": "sesshu_toyo",
+    "name": "Сэссю Тоё",
+    "status": "no_match_in_checked_index",
+    "file": "artist-22572b1d8912a610a0ab.json",
+    "works": 0
+  },
+  {
+    "artistId": "kaiho_yusho",
+    "name": "Кайхо Юсё",
+    "status": "no_match_in_checked_index",
+    "file": "artist-68673e0450898da197d5.json",
+    "works": 0
+  },
+  {
+    "artistId": "maruyama_okyo",
+    "name": "Маруяма Окё",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9841d5868683e77083ce.json",
+    "works": 0
+  },
+  {
+    "artistId": "tanomura_chikuden",
+    "name": "Таномура Тикудэн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f7296c7148dbf0d01b11.json",
+    "works": 0
+  },
+  {
+    "artistId": "tensho_shubun",
+    "name": "Тэнсё Сюбун",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bad9fb797e128655e20e.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_di_paolo",
+    "name": "Джованни ди Паоло",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-7b5129a9cbaf3a878147.json",
+    "works": 1
+  },
+  {
+    "artistId": "fra_filippo_lippi",
+    "name": "Фра Филиппо Липпи",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-29b1e51cd2f1ab3d0442.json",
+    "works": 21
+  },
+  {
+    "artistId": "fra_angelico",
+    "name": "Фра Анджелико",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-42c1d8d60590b96d7b16.json",
+    "works": 4
+  },
+  {
+    "artistId": "botticelli",
+    "name": "Сандро Боттичелли",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2c4617a612e69c041652.json",
+    "works": 26
+  },
+  {
+    "artistId": "berlinghiero",
+    "name": "Берлингьеро Берлингьери",
+    "status": "needs_review",
+    "file": "artist-d93e4e6a8e99206feace.json",
+    "works": 3
+  },
+  {
+    "artistId": "carlo_crivelli",
+    "name": "Карло Кривелли",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b8f947d1c1b5717ca52d.json",
+    "works": 0
+  },
+  {
+    "artistId": "lorenzo_monaco",
+    "name": "Лоренцо Монако",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-0d368636344f11e98f0f.json",
+    "works": 2
+  },
+  {
+    "artistId": "stefan_lochner",
+    "name": "Стефан Лохнер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-54dbb5bd3a497c984589.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_de_beaumetz",
+    "name": "Жан де Бомец",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0b75ec7833b7f9aa1d9a.json",
+    "works": 0
+  },
+  {
+    "artistId": "angelos_akotantos",
+    "name": "Ангелос Акотантос",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f25ad31b4dd20f7d2555.json",
+    "works": 0
+  },
+  {
+    "artistId": "sano_di_pietro",
+    "name": "Сано ди Пьетро",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f08d636a7e9ad1ca3a6d.json",
+    "works": 0
+  },
+  {
+    "artistId": "battista_di_biagio_sanguigni",
+    "name": "Баттиста ди Бьяджо Сангвиньи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-24fa456d5992a67f8668.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_francesco_toscani",
+    "name": "Джованни Франческо Тоскани",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f2ee8cb624e170a0261f.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacopo_del_sellaio",
+    "name": "Якопо дель Селлайо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-e0c6822d059f6112d93f.json",
+    "works": 2
+  },
+  {
+    "artistId": "carolino_da_viterbo",
+    "name": "Каролино да Витербо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-540a01fed6fc0b7e9c01.json",
+    "works": 0
+  },
+  {
+    "artistId": "ugolino_di_nerio",
+    "name": "Уголино ди Нерио",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5e22c5d1f05c3370d924.json",
+    "works": 0
+  },
+  {
+    "artistId": "caterino_veneziano",
+    "name": "Катерино Венециано",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6d675c20b21c21e24535.json",
+    "works": 0
+  },
+  {
+    "artistId": "andrea_da_firenze",
+    "name": "Андреа да Фиренце",
+    "status": "no_match_in_checked_index",
+    "file": "artist-66f02fc1de90a5e2abe2.json",
+    "works": 0
+  },
+  {
+    "artistId": "matteo_di_giovanni",
+    "name": "Маттео ди Джованни",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8fe51f75c6f2ac1ca91b.json",
+    "works": 0
+  },
+  {
+    "artistId": "johann_koerbecke",
+    "name": "Иоганн Кёрбеке",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dbadb9b589ed4c772948.json",
+    "works": 0
+  },
+  {
+    "artistId": "el_greco",
+    "name": "Эль Греко",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a85950bc3d0667a5bf76.json",
+    "works": 3
+  },
+  {
+    "artistId": "lucas_cranach_the_elder",
+    "name": "Лукас Кранах Старший",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-6aa93f458e329b3308bc.json",
+    "works": 9
+  },
+  {
+    "artistId": "jacopo_bassano",
+    "name": "Якопо Бассано",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bae2317cb42775a6fc26.json",
+    "works": 0
+  },
+  {
+    "artistId": "master_of_the_holy_blood",
+    "name": "Мастер Святой Крови",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b7c1fa6bd7b23a051e33.json",
+    "works": 0
+  },
+  {
+    "artistId": "hans_memling",
+    "name": "Ганс Мемлинг",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-8eff12fb81174173c62c.json",
+    "works": 10
+  },
+  {
+    "artistId": "gerard_david",
+    "name": "Герард Давид",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-012c0ebadc72486c7674.json",
+    "works": 1
+  },
+  {
+    "artistId": "agnolo_bronzino",
+    "name": "Аньоло Бронзино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f06c9b2fc5a61bba2849.json",
+    "works": 22
+  },
+  {
+    "artistId": "hans_baldung",
+    "name": "Ганс Бальдунг",
+    "status": "needs_review",
+    "file": "artist-170ccb4298f256970b1e.json",
+    "works": 1
+  },
+  {
+    "artistId": "hans_holbein_the_younger",
+    "name": "Ганс Гольбейн Младший",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-e9de5221501d90cda903.json",
+    "works": 2
+  },
+  {
+    "artistId": "robert_campin",
+    "name": "Робер Кампен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-47d2657f19b1b39aab91.json",
+    "works": 0
+  },
+  {
+    "artistId": "petrus_christus",
+    "name": "Петрус Кристус",
+    "status": "needs_review",
+    "file": "artist-64b3b4fbc34e5b86593d.json",
+    "works": 2
+  },
+  {
+    "artistId": "tintoretto",
+    "name": "Тинторетто",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-176d4db11c6231f6907d.json",
+    "works": 12
+  },
+  {
+    "artistId": "pontormo",
+    "name": "Якопо Понтормо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-277e58ace2ad4a68f1f8.json",
+    "works": 65
+  },
+  {
+    "artistId": "paolo_veronese",
+    "name": "Паоло Веронезе",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-e9b920e41c6cf313a076.json",
+    "works": 10
+  },
+  {
+    "artistId": "andrea_del_sarto",
+    "name": "Андреа дель Сарто",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-25092757e9b9c9a637ad.json",
+    "works": 24
+  },
+  {
+    "artistId": "jan_gossart",
+    "name": "Ян Госсарт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-80c11d763ba74eb03083.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_van_scorel",
+    "name": "Ян ван Скорел",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d854face6fc4efd7ab58.json",
+    "works": 0
+  },
+  {
+    "artistId": "maerten_van_heemskerck",
+    "name": "Мартен ван Хемскерк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-14801a748a62ea4873f4.json",
+    "works": 0
+  },
+  {
+    "artistId": "abraham_bloemaert",
+    "name": "Абрахам Блумарт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2182dd63b25d6ab776d5.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_girolamo_savoldo",
+    "name": "Джованни Джироламо Савольдо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-120b817533df165ed087.json",
+    "works": 2
+  },
+  {
+    "artistId": "giorgio_vasari",
+    "name": "Джорджо Вазари",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-9a709f76520b426c27d2.json",
+    "works": 8
+  },
+  {
+    "artistId": "colijn_de_coter",
+    "name": "Колейн де Котер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-860d9a48b92b5e90f2ce.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_hey",
+    "name": "Жан Эй",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e8a69c3dc7e7ecbfa4bc.json",
+    "works": 0
+  },
+  {
+    "artistId": "juan_de_flandes",
+    "name": "Хуан де Фландес",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2b0b0e07fde9d248d99b.json",
+    "works": 0
+  },
+  {
+    "artistId": "albert_bouts",
+    "name": "Альберт Баутс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5622ff05042b19a7d837.json",
+    "works": 0
+  },
+  {
+    "artistId": "simone_martini",
+    "name": "Симоне Мартини",
+    "status": "needs_review",
+    "file": "artist-5aa396e0b298900287c2.json",
+    "works": 1
+  },
+  {
+    "artistId": "giotto",
+    "name": "Джотто ди Бондоне",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-9a26bd6b41440e659e60.json",
+    "works": 2
+  },
+  {
+    "artistId": "cimabue",
+    "name": "Чимабуэ",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-548ae45ace5d7d8954e8.json",
+    "works": 1
+  },
+  {
+    "artistId": "masaccio",
+    "name": "Мазаччо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-ead13bc4d8f4af2c2024.json",
+    "works": 2
+  },
+  {
+    "artistId": "piero_della_francesca",
+    "name": "Пьеро делла Франческа",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-01ca55b9409de15ec2c3.json",
+    "works": 3
+  },
+  {
+    "artistId": "gentile_da_fabriano",
+    "name": "Джентиле да Фабриано",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d5b7b70bcd995555a038.json",
+    "works": 9
+  },
+  {
+    "artistId": "pisanello",
+    "name": "Пизанелло",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d56dd3fd5117afb33d58.json",
+    "works": 0
+  },
+  {
+    "artistId": "ambrogio_lorenzetti",
+    "name": "Амброджо Лоренцетти",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d22233b7e9d5251e65b9.json",
+    "works": 3
+  },
+  {
+    "artistId": "coppo_di_marcovaldo",
+    "name": "Коппо ди Марковальдо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c8a3e04e5240e324ea4c.json",
+    "works": 0
+  },
+  {
+    "artistId": "bonaventura_berlinghieri",
+    "name": "Бонавентура Берлингьери",
+    "status": "needs_review",
+    "file": "artist-bc6f17123517ef7a4ef3.json",
+    "works": 3
+  },
+  {
+    "artistId": "giunta_pisano",
+    "name": "Джунта Пизано",
+    "status": "no_match_in_checked_index",
+    "file": "artist-732c1bb22c670f159fd2.json",
+    "works": 0
+  },
+  {
+    "artistId": "manuel_panselinos",
+    "name": "Мануил Панселин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c4a5417da31067dc1353.json",
+    "works": 0
+  },
+  {
+    "artistId": "theophanes_the_greek",
+    "name": "Феофан Грек",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d879ad0168e81796b11b.json",
+    "works": 0
+  },
+  {
+    "artistId": "leonardo_da_vinci",
+    "name": "Леонардо да Винчи",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a261becbdd2a05e0001f.json",
+    "works": 13
+  },
+  {
+    "artistId": "raphael",
+    "name": "Рафаэль Санти",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a34530c30dec412cd09a.json",
+    "works": 35
+  },
+  {
+    "artistId": "titian",
+    "name": "Тициан Вечеллио",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-43eca4d1a6ab6076242a.json",
+    "works": 28
+  },
+  {
+    "artistId": "jan_van_eyck",
+    "name": "Ян ван Эйк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-061290d1861680d09b81.json",
+    "works": 0
+  },
+  {
+    "artistId": "albrecht_durer",
+    "name": "Альбрехт Дюрер",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-3484aae1b5897368a260.json",
+    "works": 8
+  },
+  {
+    "artistId": "parmigianino",
+    "name": "Пармиджанино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-5f618ecefd54ed7b1576.json",
+    "works": 4
+  },
+  {
+    "artistId": "caravaggio",
+    "name": "Караваджо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-39e561055df141c2be51.json",
+    "works": 6
+  },
+  {
+    "artistId": "peter_paul_rubens",
+    "name": "Питер Пауль Рубенс",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-c74411ad19427e79393e.json",
+    "works": 16
+  },
+  {
+    "artistId": "diego_velazquez",
+    "name": "Диего Веласкес",
+    "status": "needs_review",
+    "file": "artist-0ee764fbda4d69d0ecbe.json",
+    "works": 2
+  },
+  {
+    "artistId": "artemisia_gentileschi",
+    "name": "Артемизия Джентилески",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-6b22bcd6b2d417a5452d.json",
+    "works": 7
+  },
+  {
+    "artistId": "guido_reni",
+    "name": "Гвидо Рени",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2dacf6ddfe0967bfb64f.json",
+    "works": 4
+  },
+  {
+    "artistId": "salvator_rosa",
+    "name": "Сальватор Роза",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-181e875d3d73f9e80ef2.json",
+    "works": 2
+  },
+  {
+    "artistId": "nicolas_poussin",
+    "name": "Никола Пуссен",
+    "status": "needs_review",
+    "file": "artist-392e9e3d8e8c1b21af70.json",
+    "works": 1
+  },
+  {
+    "artistId": "claude_lorrain",
+    "name": "Клод Лоррен",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-0bf0823291c7cb03957d.json",
+    "works": 2
+  },
+  {
+    "artistId": "sebastien_bourdon",
+    "name": "Себастьен Бурдон",
+    "status": "needs_review",
+    "file": "artist-b2a410af0a1e4d062133.json",
+    "works": 1
+  },
+  {
+    "artistId": "johannes_vermeer",
+    "name": "Ян Вермеер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-76250e681df25b90dc4c.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacob_van_ruisdael",
+    "name": "Якоб ван Рёйсдал",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-98a52be398702ea78867.json",
+    "works": 2
+  },
+  {
+    "artistId": "antoine_watteau",
+    "name": "Антуан Ватто",
+    "status": "no_match_in_checked_index",
+    "file": "artist-57a81ebb17151f52b881.json",
+    "works": 0
+  },
+  {
+    "artistId": "francois_boucher",
+    "name": "Франсуа Буше",
+    "status": "needs_review",
+    "file": "artist-9bcb5022459d18530ed4.json",
+    "works": 1
+  },
+  {
+    "artistId": "jean_honore_fragonard",
+    "name": "Жан Оноре Фрагонар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-422851590a30fa0032a4.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacques_louis_david",
+    "name": "Жак Луи Давид",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2cd8ab9c9ee315565b03.json",
+    "works": 1
+  },
+  {
+    "artistId": "anton_raphael_mengs",
+    "name": "Антон Рафаэль Менгс",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-199dee15aaf2ceb8de21.json",
+    "works": 1
+  },
+  {
+    "artistId": "jean_auguste_dominique_ingres",
+    "name": "Жан Огюст Доминик Энгр",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d9bba499d3a933743c97.json",
+    "works": 1
+  },
+  {
+    "artistId": "francisco_goya",
+    "name": "Франсиско Гойя",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a82a2af8a192bdf68715.json",
+    "works": 2
+  },
+  {
+    "artistId": "giovanni_battista_tiepolo",
+    "name": "Джованни Баттиста Тьеполо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e521b28d2555eb4e2eeb.json",
+    "works": 0
+  },
+  {
+    "artistId": "hubert_robert",
+    "name": "Юбер Робер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-582d790fe8b704c2648b.json",
+    "works": 0
+  },
+  {
+    "artistId": "charles_meynier",
+    "name": "Шарль Мейнье",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e25779fd41f316710ed7.json",
+    "works": 0
+  },
+  {
+    "artistId": "pierre_henri_de_valenciennes",
+    "name": "Пьер Анри де Валансьен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b3ef15e7397331671867.json",
+    "works": 0
+  },
+  {
+    "artistId": "caspar_david_friedrich",
+    "name": "Каспар Давид Фридрих",
+    "status": "no_match_in_checked_index",
+    "file": "artist-43edc7900a6bb2f6e6a4.json",
+    "works": 0
+  },
+  {
+    "artistId": "william_turner",
+    "name": "Уильям Тёрнер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7b1a1805213db0b20aad.json",
+    "works": 0
+  },
+  {
+    "artistId": "eugene_delacroix",
+    "name": "Эжен Делакруа",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2a76b858cd7144aa6685.json",
+    "works": 1
+  },
+  {
+    "artistId": "gustave_courbet",
+    "name": "Гюстав Курбе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-37515d6448621344c245.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_francois_millet",
+    "name": "Жан Франсуа Милле",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e2825419040bca6e3219.json",
+    "works": 0
+  },
+  {
+    "artistId": "honore_daumier",
+    "name": "Оноре Домье",
+    "status": "no_match_in_checked_index",
+    "file": "artist-62e97392910887f76014.json",
+    "works": 0
+  },
+  {
+    "artistId": "ferdinand_georg_waldmuller",
+    "name": "Фердинанд Георг Вальдмюллер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e28bd074e6d9f5777654.json",
+    "works": 0
+  },
+  {
+    "artistId": "friedrich_amerling",
+    "name": "Фридрих Амерлинг",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-1d202034b482dc722e06.json",
+    "works": 1
+  },
+  {
+    "artistId": "carl_spitzweg",
+    "name": "Карл Шпицвег",
+    "status": "no_match_in_checked_index",
+    "file": "artist-32447d0b2d76d44bda7f.json",
+    "works": 0
+  },
+  {
+    "artistId": "thomas_cole",
+    "name": "Томас Коул",
+    "status": "no_match_in_checked_index",
+    "file": "artist-36726ea2be76c65c0a6b.json",
+    "works": 0
+  },
+  {
+    "artistId": "asher_brown_durand",
+    "name": "Эшер Браун Дюранд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fc1c162316f67714a38e.json",
+    "works": 0
+  },
+  {
+    "artistId": "frederic_edwin_church",
+    "name": "Фредерик Эдвин Чёрч",
+    "status": "no_match_in_checked_index",
+    "file": "artist-caf149a74dcbeb824d0a.json",
+    "works": 0
+  },
+  {
+    "artistId": "william_holman_hunt",
+    "name": "Уильям Холман Хант",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-ac5cbbb0ac250541fddd.json",
+    "works": 1
+  },
+  {
+    "artistId": "john_everett_millais",
+    "name": "Джон Эверетт Милле",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d110346954e0cf1351fc.json",
+    "works": 1
+  },
+  {
+    "artistId": "dante_gabriel_rossetti",
+    "name": "Данте Габриэль Россетти",
+    "status": "no_match_in_checked_index",
+    "file": "artist-64c4ade73aa0a2ec167c.json",
+    "works": 0
+  },
+  {
+    "artistId": "james_mcneill_whistler",
+    "name": "Джеймс Макнил Уистлер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fbe1c2ab9f7b9c27d42d.json",
+    "works": 0
+  },
+  {
+    "artistId": "frederic_remington",
+    "name": "Фредерик Ремингтон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ef92abbef2c1e2a1ea13.json",
+    "works": 0
+  },
+  {
+    "artistId": "camille_pissarro",
+    "name": "Камиль Писсарро",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8c952840f8a397aea8be.json",
+    "works": 0
+  },
+  {
+    "artistId": "alfred_sisley",
+    "name": "Альфред Сислей",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c3ae639707d54e6567d4.json",
+    "works": 0
+  },
+  {
+    "artistId": "henri_de_toulouse_lautrec",
+    "name": "Анри де Тулуз-Лотрек",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8f2390c80d81462712bd.json",
+    "works": 0
+  },
+  {
+    "artistId": "john_singer_sargent",
+    "name": "Джон Сингер Сарджент",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-fe71282b8ffd09b15a05.json",
+    "works": 1
+  },
+  {
+    "artistId": "mary_cassatt",
+    "name": "Мэри Кассат",
+    "status": "no_match_in_checked_index",
+    "file": "artist-05ee90ca290d00ab80df.json",
+    "works": 0
+  },
+  {
+    "artistId": "odilon_redon",
+    "name": "Одилон Редон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-185a9762a0f794b65226.json",
+    "works": 0
+  },
+  {
+    "artistId": "arnold_bocklin",
+    "name": "Арнольд Бёклин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ba2dd6e786af9ebab137.json",
+    "works": 0
+  },
+  {
+    "artistId": "gustave_moreau",
+    "name": "Гюстав Моро",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1bfa535f63d14c6c39b4.json",
+    "works": 0
+  },
+  {
+    "artistId": "georges_seurat",
+    "name": "Жорж Сёра",
+    "status": "no_match_in_checked_index",
+    "file": "artist-47bbfe9d02f1af2acc40.json",
+    "works": 0
+  },
+  {
+    "artistId": "paul_signac",
+    "name": "Поль Синьяк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-98177ecbda0afa934024.json",
+    "works": 0
+  },
+  {
+    "artistId": "henri_edmond_cross",
+    "name": "Анри Эдмон Кросс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-67504715faf14ff49be0.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_segantini",
+    "name": "Джованни Сегантини",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a7ca5e7dade462bfd37c.json",
+    "works": 0
+  },
+  {
+    "artistId": "gaetano_previati",
+    "name": "Гаэтано Превиати",
+    "status": "no_match_in_checked_index",
+    "file": "artist-08cf0386ed6e0bdc158c.json",
+    "works": 0
+  },
+  {
+    "artistId": "giuseppe_pellizza_da_volpedo",
+    "name": "Джузеппе Пеллицца да Вольпедо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8dcae146e78b75aabfd7.json",
+    "works": 0
+  },
+  {
+    "artistId": "henri_rousseau",
+    "name": "Анри Руссо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-204c32f9ab61b56020de.json",
+    "works": 0
+  },
+  {
+    "artistId": "seraphine_louis",
+    "name": "Серафина Луи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7092249b09fb0ad8d7d8.json",
+    "works": 0
+  },
+  {
+    "artistId": "grandma_moses",
+    "name": "Бабушка Мозес",
+    "status": "no_match_in_checked_index",
+    "file": "artist-95011a2f38380efbcb58.json",
+    "works": 0
+  },
+  {
+    "artistId": "ernst_ludwig_kirchner",
+    "name": "Эрнст Людвиг Кирхнер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7fa2e73790d2b5d613ad.json",
+    "works": 0
+  },
+  {
+    "artistId": "franz_marc",
+    "name": "Франц Марк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-681c4255e43b5dae8c2f.json",
+    "works": 0
+  },
+  {
+    "artistId": "emil_nolde",
+    "name": "Эмиль Нольде",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e4ac353b92f89f0b4389.json",
+    "works": 0
+  },
+  {
+    "artistId": "pablo_picasso",
+    "name": "Пабло Пикассо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3376f558ea23052bf5e7.json",
+    "works": 0
+  },
+  {
+    "artistId": "georges_braque",
+    "name": "Жорж Брак",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3afa62de68f5b6c576f1.json",
+    "works": 0
+  },
+  {
+    "artistId": "juan_gris",
+    "name": "Хуан Грис",
+    "status": "no_match_in_checked_index",
+    "file": "artist-74a16aed5682e5138fe7.json",
+    "works": 0
+  },
+  {
+    "artistId": "piet_mondrian",
+    "name": "Пит Мондриан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-205f41bea11a6f944b1f.json",
+    "works": 0
+  },
+  {
+    "artistId": "theo_van_doesburg",
+    "name": "Тео ван Дусбург",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ee8439cdefb77be7ea19.json",
+    "works": 0
+  },
+  {
+    "artistId": "bart_van_der_leck",
+    "name": "Барт ван дер Лек",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0c9633a35a47804aa29e.json",
+    "works": 0
+  },
+  {
+    "artistId": "vasily_kandinsky",
+    "name": "Василий Кандинский",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b1fd5ce02691aae772e3.json",
+    "works": 0
+  },
+  {
+    "artistId": "amedeo_modigliani",
+    "name": "Амедео Модильяни",
+    "status": "no_match_in_checked_index",
+    "file": "artist-23fa2260ab64a1aa9e69.json",
+    "works": 0
+  },
+  {
+    "artistId": "wu_daozi",
+    "name": "У Даоцзы",
+    "status": "no_match_in_checked_index",
+    "file": "artist-97476605ab17f3486340.json",
+    "works": 0
+  },
+  {
+    "artistId": "zhou_fang",
+    "name": "Чжоу Фан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8743d9547aecf9bb37ef.json",
+    "works": 0
+  },
+  {
+    "artistId": "han_gan",
+    "name": "Хань Гань",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0571b16ff8db819c5df3.json",
+    "works": 0
+  },
+  {
+    "artistId": "fan_kuan",
+    "name": "Фань Куань",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cf97571ecd5f0884ce2d.json",
+    "works": 0
+  },
+  {
+    "artistId": "guo_xi",
+    "name": "Го Си",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7eaaa118f706aa993b26.json",
+    "works": 0
+  },
+  {
+    "artistId": "li_cheng",
+    "name": "Ли Чэн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a668fac3218c9bf3f653.json",
+    "works": 0
+  },
+  {
+    "artistId": "xia_gui",
+    "name": "Ся Гуй",
+    "status": "no_match_in_checked_index",
+    "file": "artist-abf5445e453c53c1b289.json",
+    "works": 0
+  },
+  {
+    "artistId": "li_tang",
+    "name": "Ли Тан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bb73daa7a7122f9a57ee.json",
+    "works": 0
+  },
+  {
+    "artistId": "xiao_yuncong",
+    "name": "Сяо Юньцун",
+    "status": "no_match_in_checked_index",
+    "file": "artist-69fb79b5a23041aeb1c2.json",
+    "works": 0
+  },
+  {
+    "artistId": "chen_hongshou",
+    "name": "Чэнь Хуншоу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3cc1ee84a44b4365a6ad.json",
+    "works": 0
+  },
+  {
+    "artistId": "muqi_fachang",
+    "name": "Муци Фачан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d3bc4d56551a952615ea.json",
+    "works": 0
+  },
+  {
+    "artistId": "fujiwara_takanobu",
+    "name": "Фудзивара Таканобу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4df0bdcc3d57d684442b.json",
+    "works": 0
+  },
+  {
+    "artistId": "fujiwara_nobuzane",
+    "name": "Фудзивара Нобудзанэ",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0e38ccf1a4396e94d3fa.json",
+    "works": 0
+  },
+  {
+    "artistId": "eni",
+    "name": "Энъи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4d4f0f7a97c8f4035952.json",
+    "works": 0
+  },
+  {
+    "artistId": "mokuan_reien",
+    "name": "Мокуан Рэйэн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-929bda9da64b844fc200.json",
+    "works": 0
+  },
+  {
+    "artistId": "kao_ninga",
+    "name": "Као",
+    "status": "no_match_in_checked_index",
+    "file": "artist-719ee7ff38c93d244cdf.json",
+    "works": 0
+  },
+  {
+    "artistId": "ryozen",
+    "name": "Рёдзэн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ff9553e1afcd8c87010e.json",
+    "works": 0
+  },
+  {
+    "artistId": "kano_motonobu",
+    "name": "Кано Мотонобу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-eb736a37b5624b56794e.json",
+    "works": 0
+  },
+  {
+    "artistId": "kano_eitoku",
+    "name": "Кано Эйтоку",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3e1ac30365253aafd5c8.json",
+    "works": 0
+  },
+  {
+    "artistId": "hasegawa_tohaku",
+    "name": "Хасэгава Тохаку",
+    "status": "no_match_in_checked_index",
+    "file": "artist-97c8605229cd5ffc2a06.json",
+    "works": 0
+  },
+  {
+    "artistId": "ogata_korin",
+    "name": "Огата Корин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a6b5fae4e29b474d1c39.json",
+    "works": 0
+  },
+  {
+    "artistId": "ike_taiga",
+    "name": "Икэ Тайга",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1ca1b14996626a931738.json",
+    "works": 0
+  },
+  {
+    "artistId": "yosa_buson",
+    "name": "Ёса Бусон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4bd0fa3e7a21ac8a855a.json",
+    "works": 0
+  },
+  {
+    "artistId": "matsumura_goshun",
+    "name": "Мацумура Госюн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2d7f1da47e18ad1e9660.json",
+    "works": 0
+  },
+  {
+    "artistId": "kuroda_seiki",
+    "name": "Курода Сэйки",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e6c5fc273e666e08e304.json",
+    "works": 0
+  },
+  {
+    "artistId": "hashimoto_gaho",
+    "name": "Хасимото Гахо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c24ffcf227afb0da6097.json",
+    "works": 0
+  },
+  {
+    "artistId": "yokoyama_taikan",
+    "name": "Ёкояма Тайкан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b22c9d60946a7fc35473.json",
+    "works": 0
+  },
+  {
+    "artistId": "yi_nyeong",
+    "name": "И Нён",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4dd44501b219bcdcb5a2.json",
+    "works": 0
+  },
+  {
+    "artistId": "yi_jehyeon",
+    "name": "И Джехён",
+    "status": "no_match_in_checked_index",
+    "file": "artist-692d5289dbf9c9f443a6.json",
+    "works": 0
+  },
+  {
+    "artistId": "king_gongmin",
+    "name": "Ван Конмин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-df08e65ba480e33a2f44.json",
+    "works": 0
+  },
+  {
+    "artistId": "an_gyeon",
+    "name": "Ан Гён",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5df4595834decf5422a1.json",
+    "works": 0
+  },
+  {
+    "artistId": "jeong_seon",
+    "name": "Чон Сон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1c01158b7849e458daf6.json",
+    "works": 0
+  },
+  {
+    "artistId": "kim_hongdo",
+    "name": "Ким Хондо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2d27a0e44290c5896f2e.json",
+    "works": 0
+  },
+  {
+    "artistId": "basawan",
+    "name": "Басаван",
+    "status": "no_match_in_checked_index",
+    "file": "artist-90aee708e45f4cf3c7fb.json",
+    "works": 0
+  },
+  {
+    "artistId": "abul_hasan",
+    "name": "Абу-ль-Хасан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-88cf897654fe655a1862.json",
+    "works": 0
+  },
+  {
+    "artistId": "bichitr",
+    "name": "Бичитр",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8d1ebe4faad89012ff55.json",
+    "works": 0
+  },
+  {
+    "artistId": "manaku",
+    "name": "Манаку",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1f9d5df9da5724310edd.json",
+    "works": 0
+  },
+  {
+    "artistId": "nainsukh",
+    "name": "Найнсукх",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e9f353c78ee629645919.json",
+    "works": 0
+  },
+  {
+    "artistId": "purkhu",
+    "name": "Пуркху",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e6fa295b897a89c7d635.json",
+    "works": 0
+  },
+  {
+    "artistId": "sheikh_taju",
+    "name": "Шейх Таджу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4d04bb823c5ab1186fae.json",
+    "works": 0
+  },
+  {
+    "artistId": "niju",
+    "name": "Ниджу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d31a3b1ef20be306c6f3.json",
+    "works": 0
+  },
+  {
+    "artistId": "kota_master_a",
+    "name": "Мастер Кота A",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e7913a4e984456ab5d24.json",
+    "works": 0
+  },
+  {
+    "artistId": "sahibdin",
+    "name": "Сахибдин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c54cee8359c27ba54623.json",
+    "works": 0
+  },
+  {
+    "artistId": "nasiruddin",
+    "name": "Насируддин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-da4688917c0e1c4349c1.json",
+    "works": 0
+  },
+  {
+    "artistId": "bagta",
+    "name": "Багта",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7650dd0c3a6511911df1.json",
+    "works": 0
+  },
+  {
+    "artistId": "shaikh_zainuddin",
+    "name": "Шейх Зайн-уд-Дин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-afa3a29761d30f09a62e.json",
+    "works": 0
+  },
+  {
+    "artistId": "bhawani_das",
+    "name": "Бхавани Дас",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c919ef535892922aae68.json",
+    "works": 0
+  },
+  {
+    "artistId": "ghulam_ali_khan",
+    "name": "Гулам Али Хан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3b50e4637969f4319abe.json",
+    "works": 0
+  },
+  {
+    "artistId": "portrait_of_eutyches",
+    "name": "Портрет мальчика Евтиха",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e07b9425b33c4eec6567.json",
+    "works": 0
+  },
+  {
+    "artistId": "funerary_portrait_of_aline",
+    "name": "Портрет Алины (Aline) из Хавары",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7ffe6d1ad526e7763b70.json",
+    "works": 0
+  },
+  {
+    "artistId": "tepantitla_tlalocan",
+    "name": "Тепантитла: роспись «Тлалокан»",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ea10476396678c086dec.json",
+    "works": 0
+  },
+  {
+    "artistId": "hermione_grammatike",
+    "name": "Портрет Гермионы Грамматики",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5eb5505d96899d18b258.json",
+    "works": 0
+  },
+  {
+    "artistId": "cleveland_funerary_portrait_1971_137",
+    "name": "Погребальный портрет из Кливленда (1971.137)",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3c00ff5af33829cf1015.json",
+    "works": 0
+  },
+  {
+    "artistId": "tetitla_murals",
+    "name": "Тетитла: росписи жилого комплекса",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ff7bdccdd675dab7bc00.json",
+    "works": 0
+  },
+  {
+    "artistId": "atetelco_white_patio",
+    "name": "Атетелько: Белый дворик",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a82abd6fdb7ea422ca88.json",
+    "works": 0
+  },
+  {
+    "artistId": "michelangelo",
+    "name": "Микеланджело Буонарроти",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-0a0a80b74c33b9707b29.json",
+    "works": 1
+  },
+  {
+    "artistId": "klimt",
+    "name": "Густав Климт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-83e6b9b5979dce10cde8.json",
+    "works": 0
+  },
+  {
+    "artistId": "degas",
+    "name": "Эдгар Дега",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b526cc96dfa1ff41fdda.json",
+    "works": 0
+  },
+  {
+    "artistId": "manet",
+    "name": "Эдуар Мане",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f44e86508d041ea4d0b2.json",
+    "works": 0
+  },
+  {
+    "artistId": "munch",
+    "name": "Эдвард Мунк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a0dbbeef4fc2e5edf20a.json",
+    "works": 0
+  },
+  {
+    "artistId": "schiele",
+    "name": "Эгон Шиле",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cab32d0c1a33d950004c.json",
+    "works": 0
+  },
+  {
+    "artistId": "bruegel",
+    "name": "Питер Брейгель Старший",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-ae3dbadddf144bd6c59b.json",
+    "works": 3
+  },
+  {
+    "artistId": "hals",
+    "name": "Франс Халс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-92f340fd44a471da6ed3.json",
+    "works": 0
+  },
+  {
+    "artistId": "canaletto",
+    "name": "Каналетто",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-62d8a2fa69916d104bfd.json",
+    "works": 5
+  },
+  {
+    "artistId": "constable",
+    "name": "Джон Констебл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7242487ff827b47b3b49.json",
+    "works": 0
+  },
+  {
+    "artistId": "bosch",
+    "name": "Иероним Босх",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0600c79833cc723f51a2.json",
+    "works": 0
+  },
+  {
+    "artistId": "malevich",
+    "name": "Казимир Малевич",
+    "status": "no_match_in_checked_index",
+    "file": "artist-814517ddc72b4be837e9.json",
+    "works": 0
+  },
+  {
+    "artistId": "rublev",
+    "name": "Андрей Рублёв",
+    "status": "no_match_in_checked_index",
+    "file": "artist-55bd82dbde9a30d5cd26.json",
+    "works": 0
+  },
+  {
+    "artistId": "repin",
+    "name": "Илья Репин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-81f997adc8dfe70fb568.json",
+    "works": 0
+  },
+  {
+    "artistId": "vrubel",
+    "name": "Михаил Врубель",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6385e8ddf66ebbce9d65.json",
+    "works": 0
+  },
+  {
+    "artistId": "aivazovsky",
+    "name": "Иван Айвазовский",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-1ecfb27c79fc59713b04.json",
+    "works": 1
+  },
+  {
+    "artistId": "shishkin",
+    "name": "Иван Шишкин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-336125a5afe7fe1d0fe7.json",
+    "works": 0
+  },
+  {
+    "artistId": "surikov",
+    "name": "Василий Суриков",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0f8090ecc5b1e31437a5.json",
+    "works": 0
+  },
+  {
+    "artistId": "levitan",
+    "name": "Исаак Левитан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d75a79b5fdea6cc75f6c.json",
+    "works": 0
+  },
+  {
+    "artistId": "serov",
+    "name": "Валентин Серов",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9cd312d403b1d26cdc9a.json",
+    "works": 0
+  },
+  {
+    "artistId": "kustodiev",
+    "name": "Борис Кустодиев",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-867eb7f45796570c5593.json",
+    "works": 1
+  },
+  {
+    "artistId": "filonov",
+    "name": "Павел Филонов",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3a0b17e1022ce7002b63.json",
+    "works": 0
+  },
+  {
+    "artistId": "blake",
+    "name": "Уильям Блейк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9fbb8412cdc93b8c5919.json",
+    "works": 0
+  },
+  {
+    "artistId": "matisse",
+    "name": "Анри Матисс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8414ffd2ccbec8a1e2ef.json",
+    "works": 0
+  },
+  {
+    "artistId": "klee",
+    "name": "Пауль Клее",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d588e832322b257a2154.json",
+    "works": 0
+  },
+  {
+    "artistId": "kokoschka",
+    "name": "Оскар Кокошка",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3198477e4a39e0579dd0.json",
+    "works": 0
+  },
+  {
+    "artistId": "dali",
+    "name": "Сальвадор Дали",
+    "status": "no_match_in_checked_index",
+    "file": "artist-27b50557de800b45f61e.json",
+    "works": 0
+  },
+  {
+    "artistId": "magritte",
+    "name": "Рене Магритт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-303767cc5073846245b1.json",
+    "works": 0
+  },
+  {
+    "artistId": "ernst",
+    "name": "Макс Эрнст",
+    "status": "no_match_in_checked_index",
+    "file": "artist-161f96d6e80ece2ecd2c.json",
+    "works": 0
+  },
+  {
+    "artistId": "miro",
+    "name": "Жоан Миро",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e402bd4f0a138c710e3a.json",
+    "works": 0
+  },
+  {
+    "artistId": "hopper",
+    "name": "Эдвард Хоппер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-392a5bcbd71a7db2cfb9.json",
+    "works": 0
+  },
+  {
+    "artistId": "okeeffe",
+    "name": "Джорджия О’Кифф",
+    "status": "no_match_in_checked_index",
+    "file": "artist-26faf209d276eddcd3b1.json",
+    "works": 0
+  },
+  {
+    "artistId": "wyeth",
+    "name": "Эндрю Уайет",
+    "status": "no_match_in_checked_index",
+    "file": "artist-81c2bc0ccff90aed9de9.json",
+    "works": 0
+  },
+  {
+    "artistId": "pollock",
+    "name": "Джексон Поллок",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f52160b30de2b143cd66.json",
+    "works": 0
+  },
+  {
+    "artistId": "rothko",
+    "name": "Марк Ротко",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ab294200b29c0225c524.json",
+    "works": 0
+  },
+  {
+    "artistId": "warhol",
+    "name": "Энди Уорхол",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ea1efc79650b5b7e7246.json",
+    "works": 0
+  },
+  {
+    "artistId": "lichtenstein",
+    "name": "Рой Лихтенштейн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-32758c3dfbd667ae04b5.json",
+    "works": 0
+  },
+  {
+    "artistId": "bacon",
+    "name": "Фрэнсис Бэкон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9cca0703342e24806a9f.json",
+    "works": 0
+  },
+  {
+    "artistId": "hockney",
+    "name": "Дэвид Хокни",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7527e93090386c07bff3.json",
+    "works": 0
+  },
+  {
+    "artistId": "nerdrum",
+    "name": "Одд Нердрум",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9dcb5dbe04e4cd6eac23.json",
+    "works": 0
+  },
+  {
+    "artistId": "kahlo",
+    "name": "Фрида Кало",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d71e3a3bc9be8ffdeb8a.json",
+    "works": 0
+  },
+  {
+    "artistId": "basquiat",
+    "name": "Жан-Мишель Баския",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0dc42fab93bdebdbe723.json",
+    "works": 0
+  },
+  {
+    "artistId": "banksy",
+    "name": "Бэнкси",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9feedb8dc780912a3186.json",
+    "works": 0
+  },
+  {
+    "artistId": "chagall",
+    "name": "Марк Шагал",
+    "status": "needs_review",
+    "file": "artist-84cfad24f03a815b6250.json",
+    "works": 2
+  },
+  {
+    "artistId": "dekooning",
+    "name": "Виллем де Кунинг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8804fcc07cb7752698fb.json",
+    "works": 0
+  },
+  {
+    "artistId": "freud",
+    "name": "Люсьен Фрейд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-39b1801809e5a1465127.json",
+    "works": 0
+  },
+  {
+    "artistId": "murakami",
+    "name": "Такаси Мураками",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b36947281aa130431d66.json",
+    "works": 0
+  },
+  {
+    "artistId": "rivera",
+    "name": "Диего Ривера",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8ba35ebe3d5c74320285.json",
+    "works": 0
+  },
+  {
+    "artistId": "siqueiros",
+    "name": "Давид Альфаро Сикейрос",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9a59993647295d3a9d92.json",
+    "works": 0
+  },
+  {
+    "artistId": "giacometti",
+    "name": "Альберто Джакометти",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a1e9183320947676d673.json",
+    "works": 0
+  },
+  {
+    "artistId": "petrovvodkin",
+    "name": "Кузьма Петров-Водкин",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2739de69eb05660ff544.json",
+    "works": 0
+  },
+  {
+    "artistId": "lissitzky",
+    "name": "Эль Лисицкий",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d91334ad2f3559a4acd2.json",
+    "works": 0
+  },
+  {
+    "artistId": "rodchenko",
+    "name": "Александр Родченко",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2286c4baadd53bae9817.json",
+    "works": 0
+  },
+  {
+    "artistId": "konchalovsky",
+    "name": "Пётр Кончаловский",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a7393a13337162f8a68d.json",
+    "works": 0
+  },
+  {
+    "artistId": "orozco",
+    "name": "Хосе Клементе Ороско",
+    "status": "no_match_in_checked_index",
+    "file": "artist-85049ca1b748ba67d1b3.json",
+    "works": 0
+  },
+  {
+    "artistId": "rauschenberg",
+    "name": "Роберт Раушенберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5ea7f9b82ab7723e9f28.json",
+    "works": 0
+  },
+  {
+    "artistId": "johns",
+    "name": "Джаспер Джонс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6f02c4fe19533da1db0b.json",
+    "works": 0
+  },
+  {
+    "artistId": "richter",
+    "name": "Герхард Рихтер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-95f8a74bf066fa733603.json",
+    "works": 0
+  },
+  {
+    "artistId": "larionov",
+    "name": "Михаил Ларионов",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7757cba8bb2c7c0850ea.json",
+    "works": 0
+  },
+  {
+    "artistId": "goncharova",
+    "name": "Наталья Гончарова",
+    "status": "no_match_in_checked_index",
+    "file": "artist-50fe957cb0262491497a.json",
+    "works": 0
+  },
+  {
+    "artistId": "paolo_uccello",
+    "name": "Паоло Уччелло",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-4efe12e5c1284f620b77.json",
+    "works": 1
+  },
+  {
+    "artistId": "andrea_mantegna",
+    "name": "Андреа Мантенья",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-af064e6a0c6a0077a5a6.json",
+    "works": 5
+  },
+  {
+    "artistId": "domenico_ghirlandaio",
+    "name": "Доменико Гирландайо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d9c0243f35b2aeafd6bd.json",
+    "works": 7
+  },
+  {
+    "artistId": "antonello_da_messina",
+    "name": "Антонелло да Мессина",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d559a39f25a5a2af1ee8.json",
+    "works": 4
+  },
+  {
+    "artistId": "andrea_del_verrocchio",
+    "name": "Андреа дель Верроккьо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-4b471a0e85168ae9c6e2.json",
+    "works": 3
+  },
+  {
+    "artistId": "piero_del_pollaiuolo",
+    "name": "Пьеро дель Поллайоло",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-ff3e9e800262495c96ee.json",
+    "works": 9
+  },
+  {
+    "artistId": "filippino_lippi",
+    "name": "Филиппино Липпи",
+    "status": "needs_review",
+    "file": "artist-15a32bfea97d185e63db.json",
+    "works": 6
+  },
+  {
+    "artistId": "pietro_perugino",
+    "name": "Пьетро Перуджино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-0e415395c82f8788d566.json",
+    "works": 14
+  },
+  {
+    "artistId": "luca_signorelli",
+    "name": "Лука Синьорелли",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-329f96ceeb34b1bf24b6.json",
+    "works": 8
+  },
+  {
+    "artistId": "andrea_del_castagno",
+    "name": "Андреа дель Кастаньо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-ee7cddb1db97b7527afa.json",
+    "works": 5
+  },
+  {
+    "artistId": "domenico_veneziano",
+    "name": "Доменико Венециано",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a8f3b4fdd04874eba53e.json",
+    "works": 4
+  },
+  {
+    "artistId": "benozzo_gozzoli",
+    "name": "Беноццо Гоццоли",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0f4400d3b5958e926911.json",
+    "works": 0
+  },
+  {
+    "artistId": "cosimo_tura",
+    "name": "Козимо Тура",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-57bd5f7ef8b873448d28.json",
+    "works": 1
+  },
+  {
+    "artistId": "francesco_del_cossa",
+    "name": "Франческо дель Косса",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fc38fb6410b29fba09ce.json",
+    "works": 0
+  },
+  {
+    "artistId": "ercole_de_roberti",
+    "name": "Эрколе де Роберти",
+    "status": "no_match_in_checked_index",
+    "file": "artist-882bfadb7e999ec67245.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_bellini",
+    "name": "Джованни Беллини",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-fd4f1898b3aba2edd317.json",
+    "works": 5
+  },
+  {
+    "artistId": "gentile_bellini",
+    "name": "Джентиле Беллини",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0904187e2634791e776d.json",
+    "works": 0
+  },
+  {
+    "artistId": "vittore_carpaccio",
+    "name": "Витторе Карпаччо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-e5ad74a9e82eeaa53202.json",
+    "works": 3
+  },
+  {
+    "artistId": "piero_di_cosimo",
+    "name": "Пьеро ди Козимо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f0d6b672a9170474db28.json",
+    "works": 2
+  },
+  {
+    "artistId": "lorenzo_di_credi",
+    "name": "Лоренцо ди Креди",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-25bb349b5af4d9e1802d.json",
+    "works": 3
+  },
+  {
+    "artistId": "pinturicchio",
+    "name": "Пинтуриккьо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f45bb79c8723ed19011f.json",
+    "works": 0
+  },
+  {
+    "artistId": "francesco_pesellino",
+    "name": "Франческо Пезеллино",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ff8ec663f0431b9af5e6.json",
+    "works": 0
+  },
+  {
+    "artistId": "alesso_baldovinetti",
+    "name": "Алессо Бальдовинетти",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-371afafb2df5ed08cbbe.json",
+    "works": 2
+  },
+  {
+    "artistId": "lorenzo_costa",
+    "name": "Лоренцо Коста",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-ef333f70226f793fce3e.json",
+    "works": 2
+  },
+  {
+    "artistId": "francesco_bonsignori",
+    "name": "Франческо Бонсиньори",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b98f73c80416a99bb10c.json",
+    "works": 0
+  },
+  {
+    "artistId": "boccaccio_boccaccino",
+    "name": "Боккаччо Боккаччино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-90b4f0440a40d517b201.json",
+    "works": 1
+  },
+  {
+    "artistId": "marco_palmezzano",
+    "name": "Марко Пальмеццано",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-185672f13cd6cfc0f561.json",
+    "works": 1
+  },
+  {
+    "artistId": "vincenzo_foppa",
+    "name": "Винченцо Фоппа",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-27f3a849ae0866301250.json",
+    "works": 1
+  },
+  {
+    "artistId": "ambrogio_bergognone",
+    "name": "Амброджо Бергоньоне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e19384584b5fb14dee17.json",
+    "works": 0
+  },
+  {
+    "artistId": "bernardino_butinone",
+    "name": "Бернардино Бутиноне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3084c895a6404f38dee7.json",
+    "works": 0
+  },
+  {
+    "artistId": "bernardino_bergognone",
+    "name": "Бернардино Бергоньоне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-489dd20e0b3929bff584.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_antonio_boltraffio",
+    "name": "Джованни Антонио Больтраффио",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-0f6929f5a641508fc1e8.json",
+    "works": 2
+  },
+  {
+    "artistId": "marco_d_oggiono",
+    "name": "Марко д’Оджоно",
+    "status": "no_match_in_checked_index",
+    "file": "artist-97ef615558f71a0e8e19.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_ambrogio_de_predis",
+    "name": "Джованни Амброджо де Предис",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-e6789e43d78c8af8a9de.json",
+    "works": 1
+  },
+  {
+    "artistId": "francesco_melzi",
+    "name": "Франческо Мельци",
+    "status": "needs_review",
+    "file": "artist-527572bd0d2ccf9bd7c6.json",
+    "works": 1
+  },
+  {
+    "artistId": "bernardino_luini",
+    "name": "Бернардино Луини",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-1c237803bf7f90347481.json",
+    "works": 1
+  },
+  {
+    "artistId": "giampietrino",
+    "name": "Джампьетрино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-689cf804087540cc4ec3.json",
+    "works": 1
+  },
+  {
+    "artistId": "andrea_solario",
+    "name": "Андреа Соларио",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8d973b5d0338cd99a7be.json",
+    "works": 0
+  },
+  {
+    "artistId": "cesare_da_sesto",
+    "name": "Чезаре да Сесто",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f402b83de469e150df0d.json",
+    "works": 0
+  },
+  {
+    "artistId": "bernardo_zenale",
+    "name": "Бернардо Дзенале",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-4d807e541d6291250203.json",
+    "works": 1
+  },
+  {
+    "artistId": "francesco_francia",
+    "name": "Франческо Франча",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-7e0a3f6d9a53ec96d093.json",
+    "works": 2
+  },
+  {
+    "artistId": "cima_da_conegliano",
+    "name": "Чима да Конельяно",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-7a13ae99b7010e7bce65.json",
+    "works": 2
+  },
+  {
+    "artistId": "bartolomeo_montagna",
+    "name": "Бартоломео Монтанья",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f89ff8e1800a9f2772ef.json",
+    "works": 0
+  },
+  {
+    "artistId": "marco_basaiti",
+    "name": "Марко Базаити",
+    "status": "no_match_in_checked_index",
+    "file": "artist-caf808c90050fe7ce223.json",
+    "works": 0
+  },
+  {
+    "artistId": "lorenzo_lotto",
+    "name": "Лоренцо Лотто",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-977aef476a831be3d6b5.json",
+    "works": 3
+  },
+  {
+    "artistId": "moretto_da_brescia",
+    "name": "Моретто да Брешиа",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b856c2a2c4c36443a0cc.json",
+    "works": 0
+  },
+  {
+    "artistId": "girolamo_romanino",
+    "name": "Джироламо Романино",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f0690de9911cc024df50.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_battista_moroni",
+    "name": "Джованни Баттиста Морони",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d56a2213c956d23d73d5.json",
+    "works": 2
+  },
+  {
+    "artistId": "giovanni_antonio_pordenone",
+    "name": "Джованни Антонио Порденоне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-32191c7741a1bd839c68.json",
+    "works": 0
+  },
+  {
+    "artistId": "dosso_dossi",
+    "name": "Доссо Досси",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-8aa65436a28d895868dd.json",
+    "works": 5
+  },
+  {
+    "artistId": "garofalo",
+    "name": "Гарофало",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-7ea28ffea41864354c15.json",
+    "works": 1
+  },
+  {
+    "artistId": "ludovico_mazzolino",
+    "name": "Людовико Маццолино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f5f11733f2e1c7743772.json",
+    "works": 5
+  },
+  {
+    "artistId": "fra_bartolomeo",
+    "name": "Фра Бартоломео",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-b17ddc2ad22fd7653431.json",
+    "works": 7
+  },
+  {
+    "artistId": "sodoma",
+    "name": "Содома",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2fc514c4712f226807fd.json",
+    "works": 3
+  },
+  {
+    "artistId": "domenico_beccafumi",
+    "name": "Доменико Беккафуми",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-e14e0413c35b5f0e5622.json",
+    "works": 3
+  },
+  {
+    "artistId": "mariotto_albertinelli",
+    "name": "Мариотто Альбертинелли",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-61323cc731d48604bf32.json",
+    "works": 5
+  },
+  {
+    "artistId": "rosso_fiorentino",
+    "name": "Россо Фьорентино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-45a7f6b1a1fca880e15e.json",
+    "works": 7
+  },
+  {
+    "artistId": "sebastiano_del_piombo",
+    "name": "Себастьяно дель Пьомбо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-04837c66d43071c7aab4.json",
+    "works": 3
+  },
+  {
+    "artistId": "giuseppe_salviati",
+    "name": "Джузеппе Сальвиати",
+    "status": "no_match_in_checked_index",
+    "file": "artist-17e43036f374443efe1c.json",
+    "works": 0
+  },
+  {
+    "artistId": "michele_tosini",
+    "name": "Микеле Тозини",
+    "status": "no_match_in_checked_index",
+    "file": "artist-224f9c2b46bb4a8846eb.json",
+    "works": 0
+  },
+  {
+    "artistId": "joachim_patinir",
+    "name": "Йоахим Патинир",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4d731c20de789f6714c5.json",
+    "works": 0
+  },
+  {
+    "artistId": "quinten_massys",
+    "name": "Квентин Массейс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2bce13dca864d6f95291.json",
+    "works": 0
+  },
+  {
+    "artistId": "joos_van_cleve",
+    "name": "Йос ван Клеве",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-e984e21cf566139b7ec4.json",
+    "works": 4
+  },
+  {
+    "artistId": "bernaert_van_orley",
+    "name": "Бернарт ван Орлей",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-328d438b283f5640763f.json",
+    "works": 2
+  },
+  {
+    "artistId": "pieter_aertsen",
+    "name": "Питер Артсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bd85bbeca49be7dd9561.json",
+    "works": 0
+  },
+  {
+    "artistId": "joachim_beuckelaer",
+    "name": "Йоахим Бейкелар",
+    "status": "needs_review",
+    "file": "artist-422a823aaab2331fda1f.json",
+    "works": 1
+  },
+  {
+    "artistId": "jan_sanders_van_hemessen",
+    "name": "Ян Сандерс ван Хемессен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c7c77216ea6d02a30697.json",
+    "works": 0
+  },
+  {
+    "artistId": "marinus_van_reymerswale",
+    "name": "Маринус ван Реймерсвале",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b4c1f56bdb5f3d02dae6.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_mostaert",
+    "name": "Ян Мостарт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b03575a7716ed2c51632.json",
+    "works": 0
+  },
+  {
+    "artistId": "cornelis_engebrechtsz",
+    "name": "Корнелис Энгелбрехтс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-aa39dce3fd73178d1abf.json",
+    "works": 0
+  },
+  {
+    "artistId": "geertgen_tot_sint_jans",
+    "name": "Гертген тот Синт Янс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bd3523ab8a806608c67b.json",
+    "works": 0
+  },
+  {
+    "artistId": "lucas_van_leyden",
+    "name": "Лукас ван Лейден",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-4a2e434f2cf3881fbe99.json",
+    "works": 1
+  },
+  {
+    "artistId": "jacob_cornelisz_van_oostsanen",
+    "name": "Якоб Корнелис ван Остсанен",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f53f7be108d355e35bca.json",
+    "works": 1
+  },
+  {
+    "artistId": "herri_met_de_bles",
+    "name": "Херри мет де Блес",
+    "status": "needs_review",
+    "file": "artist-730ae7a1cbf2f38d933f.json",
+    "works": 2
+  },
+  {
+    "artistId": "cornelis_van_haarlem",
+    "name": "Корнелис ван Харлем",
+    "status": "no_match_in_checked_index",
+    "file": "artist-006c407c3ba2943fe693.json",
+    "works": 0
+  },
+  {
+    "artistId": "hendrick_goltzius",
+    "name": "Хендрик Гольциус",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5a8cdf5fecde55881fdc.json",
+    "works": 0
+  },
+  {
+    "artistId": "karel_van_mander",
+    "name": "Карел ван Мандер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0a9cd611ae3b3262639f.json",
+    "works": 0
+  },
+  {
+    "artistId": "bartholomeus_spranger",
+    "name": "Бартоломеус Спрангер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0a575592d1ca3ad8c2bd.json",
+    "works": 0
+  },
+  {
+    "artistId": "joachim_wtewael",
+    "name": "Йоахим Эйтевал",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4625a053f181634f88bb.json",
+    "works": 0
+  },
+  {
+    "artistId": "cornelis_ketel",
+    "name": "Корнелис Кетел",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0081036603def56a170c.json",
+    "works": 0
+  },
+  {
+    "artistId": "paul_bril",
+    "name": "Пауль Бриль",
+    "status": "needs_review",
+    "file": "artist-0044d5a5376cd71fa34f.json",
+    "works": 1
+  },
+  {
+    "artistId": "gillis_van_coninxloo",
+    "name": "Гиллис ван Конинкслоо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2af6fbeb9192df2b8b75.json",
+    "works": 0
+  },
+  {
+    "artistId": "roelant_savery",
+    "name": "Рулант Саверей",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e60f99b60f6550834a14.json",
+    "works": 0
+  },
+  {
+    "artistId": "joos_de_momper",
+    "name": "Йос де Момпер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7461a4c1f1384fbb6f68.json",
+    "works": 0
+  },
+  {
+    "artistId": "tobias_verhaecht",
+    "name": "Тобиас Верхахт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e8375b4bbbfc87bc6737.json",
+    "works": 0
+  },
+  {
+    "artistId": "adam_elsheimer",
+    "name": "Адам Эльсхаймер",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-bfaa8fa213c9a458eba4.json",
+    "works": 1
+  },
+  {
+    "artistId": "bartholomeus_breenbergh",
+    "name": "Бартоломеус Бренберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0a4eb880959c54d45969.json",
+    "works": 0
+  },
+  {
+    "artistId": "cornelis_van_poelenburgh",
+    "name": "Корнелис ван Пуленбург",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-80415e73c4b6d556e7ff.json",
+    "works": 11
+  },
+  {
+    "artistId": "jan_both",
+    "name": "Ян Бот",
+    "status": "no_match_in_checked_index",
+    "file": "artist-792bfdb1eb4eb12dfc4a.json",
+    "works": 0
+  },
+  {
+    "artistId": "herman_van_swanevelt",
+    "name": "Херман ван Сваневелт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e158dfb74017ce043217.json",
+    "works": 0
+  },
+  {
+    "artistId": "pieter_lastman",
+    "name": "Питер Ластман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8b63932d5f4cb6de2d95.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_pynas",
+    "name": "Ян Пейнас",
+    "status": "no_match_in_checked_index",
+    "file": "artist-35432b629b03ff333d4f.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacob_pynas",
+    "name": "Якоб Пейнас",
+    "status": "no_match_in_checked_index",
+    "file": "artist-270b4b8c32be7b3ed588.json",
+    "works": 0
+  },
+  {
+    "artistId": "nicolaes_moeyaert",
+    "name": "Николас Мойарт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6c9b8eab93a3b03034ee.json",
+    "works": 0
+  },
+  {
+    "artistId": "moyses_van_wtenbrouck",
+    "name": "Мозес ван Эйтенбрук",
+    "status": "no_match_in_checked_index",
+    "file": "artist-226ca4f934c79b573e91.json",
+    "works": 0
+  },
+  {
+    "artistId": "pieter_codde",
+    "name": "Питер Кодде",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6df5b565a6546110f387.json",
+    "works": 0
+  },
+  {
+    "artistId": "willem_duyster",
+    "name": "Виллем Дёйстер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d4e11c8adcd46f49e9b5.json",
+    "works": 0
+  },
+  {
+    "artistId": "pieter_quast",
+    "name": "Питер Кваст",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e7b065737991037fcfcf.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacob_duck",
+    "name": "Якоб Дюк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a4bc4e462d8624107633.json",
+    "works": 0
+  },
+  {
+    "artistId": "anthonie_palamedesz",
+    "name": "Антони Паламедес",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2c1dcd8b8a3fa52037cc.json",
+    "works": 0
+  },
+  {
+    "artistId": "dirck_hals",
+    "name": "Дирк Халс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-53679a452ae02e42238c.json",
+    "works": 0
+  },
+  {
+    "artistId": "esaias_boursse",
+    "name": "Эсайас Бурсе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-40bd25fbda747f72c4a0.json",
+    "works": 0
+  },
+  {
+    "artistId": "quiringh_van_brekelenkam",
+    "name": "Квирин ван Брекеленкам",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d7a106a339790a896c81.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_miense_molenaer",
+    "name": "Ян Минсе Моленар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d1cedb89812090d096e7.json",
+    "works": 0
+  },
+  {
+    "artistId": "hendrick_martensz_sorgh",
+    "name": "Хендрик Мартенс Сорг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3dadbd2984f579bd881b.json",
+    "works": 0
+  },
+  {
+    "artistId": "ludolf_de_jongh",
+    "name": "Людолф де Йонг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a29aa011c58900314f18.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacob_ochtervelt",
+    "name": "Якоб Охтервелт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1704ff1735ce50ae6d12.json",
+    "works": 0
+  },
+  {
+    "artistId": "eglon_hendrik_van_der_neer",
+    "name": "Эглон Хендрик ван дер Нер",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-0248d3da1f793b205e93.json",
+    "works": 4
+  },
+  {
+    "artistId": "cornelis_de_man",
+    "name": "Корнелис де Ман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-506f3c9192082288bd0b.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_verkolje",
+    "name": "Ян Верколье",
+    "status": "no_match_in_checked_index",
+    "file": "artist-893ca1fea847b1c22462.json",
+    "works": 0
+  },
+  {
+    "artistId": "thomas_de_keyser",
+    "name": "Томас де Кейзер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cf30813593e2dbc24a7e.json",
+    "works": 0
+  },
+  {
+    "artistId": "bartholomeus_van_der_helst",
+    "name": "Бартоломеус ван дер Хелст",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-bdb4ef0605fb5491f6d5.json",
+    "works": 1
+  },
+  {
+    "artistId": "johannes_verspronck",
+    "name": "Йоханнес Верспронк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f7b3e442af2b93112770.json",
+    "works": 0
+  },
+  {
+    "artistId": "nicolaes_eliasz_pickenoy",
+    "name": "Николас Элиас Пикеной",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0aee3cf73b1359162d11.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_van_ravesteyn",
+    "name": "Ян ван Равестейн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fcb619ab23a82af6b6a3.json",
+    "works": 0
+  },
+  {
+    "artistId": "bartholomeus_van_bassen",
+    "name": "Бартоломеус ван Бассен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-abc909cfa61017b4419d.json",
+    "works": 0
+  },
+  {
+    "artistId": "hendrick_van_steenwyck_the_elder",
+    "name": "Хендрик ван Стенвейк Старший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-46e0c48cbd942ac06c9b.json",
+    "works": 0
+  },
+  {
+    "artistId": "hendrick_van_steenwyck_the_younger",
+    "name": "Хендрик ван Стенвейк Младший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4a618ef13c1c0721888a.json",
+    "works": 0
+  },
+  {
+    "artistId": "dirck_van_delen",
+    "name": "Дирк ван Делен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-90495bb7c602e31750fb.json",
+    "works": 0
+  },
+  {
+    "artistId": "susanna_van_steenwijck",
+    "name": "Сусанна ван Стенвейк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b5d2ec66212eb0cb439b.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_van_der_heyden",
+    "name": "Ян ван дер Хейден",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-6b61711316daef169c34.json",
+    "works": 1
+  },
+  {
+    "artistId": "gerrit_berckheyde",
+    "name": "Геррит Беркхейде",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-6d1d264c3b106848630a.json",
+    "works": 2
+  },
+  {
+    "artistId": "job_berckheyde",
+    "name": "Йоб Беркхейде",
+    "status": "needs_review",
+    "file": "artist-4a088b7e97e2251c5d62.json",
+    "works": 1
+  },
+  {
+    "artistId": "egbert_van_der_poel",
+    "name": "Эгберт ван дер Пул",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1133d876738be1bfebae.json",
+    "works": 0
+  },
+  {
+    "artistId": "daniel_vosmaer",
+    "name": "Даниэл Восмар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dc7f4a996b4221c242f9.json",
+    "works": 0
+  },
+  {
+    "artistId": "floris_van_dijck",
+    "name": "Флорис ван Дейк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-675ef7c1d16584a5095e.json",
+    "works": 0
+  },
+  {
+    "artistId": "nicolaes_gillis",
+    "name": "Николас Гиллис",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8f34430baecd29acca74.json",
+    "works": 0
+  },
+  {
+    "artistId": "floris_van_schooten",
+    "name": "Флорис ван Схотен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b09d09a8a8de2874e14d.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_jansz_den_uyl",
+    "name": "Ян Янс ден Эйл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d9ff6f6b247665062ed0.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_jansz_treck",
+    "name": "Ян Янс Трек",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0a8d4c67976c70b72270.json",
+    "works": 0
+  },
+  {
+    "artistId": "roelof_koets",
+    "name": "Рулоф Кутс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b9641304266922187ad8.json",
+    "works": 0
+  },
+  {
+    "artistId": "pieter_van_roestraten",
+    "name": "Питер ван Рустратен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-87d658b4838852ce9472.json",
+    "works": 0
+  },
+  {
+    "artistId": "cornelis_de_heem",
+    "name": "Корнелис де Хем",
+    "status": "no_match_in_checked_index",
+    "file": "artist-85281bed49daf2a476df.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_pauwel_gillemans_the_elder",
+    "name": "Ян Паувел Гиллеманс Старший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e7ae31a68b982493ff80.json",
+    "works": 0
+  },
+  {
+    "artistId": "alexander_coosemans",
+    "name": "Александр Коземанс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-51fef53f8dd08e0717f1.json",
+    "works": 0
+  },
+  {
+    "artistId": "adriaen_van_utrecht",
+    "name": "Адриан ван Утрехт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7112d5b0f7bfe18204ef.json",
+    "works": 0
+  },
+  {
+    "artistId": "pieter_boel",
+    "name": "Питер Буль",
+    "status": "needs_review",
+    "file": "artist-5030633b43bf4722d508.json",
+    "works": 1
+  },
+  {
+    "artistId": "david_de_coninck",
+    "name": "Давид де Конинк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-97e6c1542a04afa10c88.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_van_den_hecke_the_elder",
+    "name": "Ян ван ден Хекке Старший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3a745234ee19a7b63e2d.json",
+    "works": 0
+  },
+  {
+    "artistId": "frans_van_cuyck_de_myerhop",
+    "name": "Франс ван Кёйк де Мейерхоп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-40c22062e9206c1eaf1e.json",
+    "works": 0
+  },
+  {
+    "artistId": "daniel_seghers",
+    "name": "Даниэл Сегерс",
+    "status": "needs_review",
+    "file": "artist-2241fe8b01333f802ab0.json",
+    "works": 1
+  },
+  {
+    "artistId": "jan_philip_van_thielen",
+    "name": "Ян Филип ван Тилен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ef43a98633e8a09b7f92.json",
+    "works": 0
+  },
+  {
+    "artistId": "gaspar_peeter_verbruggen_the_elder",
+    "name": "Гаспар Петер Вербрюгген Старший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7a47052ed13cc3040e06.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_baptiste_monnoyer",
+    "name": "Жан-Батист Моннуайе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-71fe0e779eedc6a6221e.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_baptiste_belin_de_fontenay",
+    "name": "Жан-Батист Белен де Фонтене Старший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-615367f8849e08ad87e7.json",
+    "works": 0
+  },
+  {
+    "artistId": "pieter_claesz",
+    "name": "Питер Клас",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3b35441875bc877c07cd.json",
+    "works": 0
+  },
+  {
+    "artistId": "willem_claesz_heda",
+    "name": "Виллем Клас Хеда",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b1209e0437b8812a4041.json",
+    "works": 0
+  },
+  {
+    "artistId": "aelbert_cuyp",
+    "name": "Аэлберт Кёйп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0bb69166f5a00f4639de.json",
+    "works": 0
+  },
+  {
+    "artistId": "herman_saftleven",
+    "name": "Херман Сафтлевен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9cd4171e36eed03128e5.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_lingelbach",
+    "name": "Ян Лингельбах",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7deedd3fa4ce5e91c346.json",
+    "works": 0
+  },
+  {
+    "artistId": "meindert_hobbema",
+    "name": "Мейндерт Хоббема",
+    "status": "no_match_in_checked_index",
+    "file": "artist-60c555850d416b3a412f.json",
+    "works": 0
+  },
+  {
+    "artistId": "philips_wouwerman",
+    "name": "Филипс Вауверман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cc66db17bfac6add23de.json",
+    "works": 0
+  },
+  {
+    "artistId": "frans_van_mieris_the_elder",
+    "name": "Франс ван Мирис Старший",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a235e5875cf020a1b5eb.json",
+    "works": 10
+  },
+  {
+    "artistId": "jan_van_goyen",
+    "name": "Ян ван Гойен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cf5133ce214a6ab449bc.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_porcellis",
+    "name": "Ян Порселлис",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9b4e56138ca0d95f3da2.json",
+    "works": 0
+  },
+  {
+    "artistId": "simon_de_vlieger",
+    "name": "Симон де Влигер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d62d8b066fd797af36b6.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_van_de_cappelle",
+    "name": "Ян ван де Каппелле",
+    "status": "no_match_in_checked_index",
+    "file": "artist-27a0f00f3b9ad1e5f168.json",
+    "works": 0
+  },
+  {
+    "artistId": "willem_van_de_velde_the_younger",
+    "name": "Виллем ван де Велде Младший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8fe185f0d9d6acdb45c9.json",
+    "works": 0
+  },
+  {
+    "artistId": "ludolf_bakhuizen",
+    "name": "Людолф Бакхёйзен",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f3ee7e34fe1e35e4fdfa.json",
+    "works": 1
+  },
+  {
+    "artistId": "willem_van_de_velde_the_elder",
+    "name": "Виллем ван де Велде Старший",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-11eef68a68853f61021d.json",
+    "works": 1
+  },
+  {
+    "artistId": "hendrick_dubbels",
+    "name": "Хендрик Дюббелс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-72eb91a8be3ef92df98e.json",
+    "works": 0
+  },
+  {
+    "artistId": "abraham_storck",
+    "name": "Абрахам Сторк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-aa25c8688c7abedfd299.json",
+    "works": 0
+  },
+  {
+    "artistId": "bonaventura_peeters_the_elder",
+    "name": "Бонавентура Петерс Старший",
+    "status": "no_match_in_checked_index",
+    "file": "artist-efb1c43240f9d8cac129.json",
+    "works": 0
+  },
+  {
+    "artistId": "reinier_nooms",
+    "name": "Рейнир Номс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5f7a218440b94f3de927.json",
+    "works": 0
+  },
+  {
+    "artistId": "paulus_potter",
+    "name": "Паулюс Поттер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1e247fca0f3061705122.json",
+    "works": 0
+  },
+  {
+    "artistId": "nicolaes_berchem",
+    "name": "Николас Берхем",
+    "status": "no_match_in_checked_index",
+    "file": "artist-29f454331b4087ac3f99.json",
+    "works": 0
+  },
+  {
+    "artistId": "adriaen_van_de_velde",
+    "name": "Адриан ван де Велде",
+    "status": "needs_review",
+    "file": "artist-698416d0f0b256990ede.json",
+    "works": 1
+  },
+  {
+    "artistId": "karel_dujardin",
+    "name": "Карел Дюжарден",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1d36f0e829f923d254c2.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_asselijn",
+    "name": "Ян Асселейн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dfa0dad8500a833caecb.json",
+    "works": 0
+  },
+  {
+    "artistId": "hendrick_avercamp",
+    "name": "Хендрик Аверкамп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ac820f525c461cc5a273.json",
+    "works": 0
+  },
+  {
+    "artistId": "esaias_van_de_velde",
+    "name": "Эсайас ван де Велде",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b3260fe384d934e47fdd.json",
+    "works": 0
+  },
+  {
+    "artistId": "aert_van_der_neer",
+    "name": "Арт ван дер Нер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d1321ea0d7ab64ad6b20.json",
+    "works": 0
+  },
+  {
+    "artistId": "isack_van_ostade",
+    "name": "Исак ван Остаде",
+    "status": "no_match_in_checked_index",
+    "file": "artist-345c7c9ca402f3d62cb3.json",
+    "works": 0
+  },
+  {
+    "artistId": "arent_arentsz",
+    "name": "Арент Арентсз.",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ec6592948bf5d653771d.json",
+    "works": 0
+  },
+  {
+    "artistId": "cornelis_vroom",
+    "name": "Корнелис Вром",
+    "status": "no_match_in_checked_index",
+    "file": "artist-70b34f3609070d2c4c04.json",
+    "works": 0
+  },
+  {
+    "artistId": "allart_van_everdingen",
+    "name": "Алларт ван Эвердинген",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9711290b4a6ff4fdf2ed.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_wijnants",
+    "name": "Ян Вейнантс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5e5fc1bf9ea90583336b.json",
+    "works": 0
+  },
+  {
+    "artistId": "philips_koninck",
+    "name": "Филипс Конинк",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-69fca6704c5886edc6a0.json",
+    "works": 1
+  },
+  {
+    "artistId": "frederick_de_moucheron",
+    "name": "Фредерик де Мушерон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-60f0bfb473cc2a2d435b.json",
+    "works": 0
+  },
+  {
+    "artistId": "ferdinand_bol",
+    "name": "Фердинанд Бол",
+    "status": "no_match_in_checked_index",
+    "file": "artist-01ddee16085e51474e47.json",
+    "works": 0
+  },
+  {
+    "artistId": "govert_flinck",
+    "name": "Говерт Флинк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c41aebca5b3be4e601ea.json",
+    "works": 0
+  },
+  {
+    "artistId": "nicolaes_maes",
+    "name": "Николас Мас",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9e5ea01302be667360f3.json",
+    "works": 0
+  },
+  {
+    "artistId": "gerbrand_van_den_eeckhout",
+    "name": "Гербранд ван ден Экхаут",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a7f7b3bbc6732230f95c.json",
+    "works": 0
+  },
+  {
+    "artistId": "samuel_van_hoogstraten",
+    "name": "Самюэл ван Хогстратен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-db11bae5ca956ec1e8e7.json",
+    "works": 0
+  },
+  {
+    "artistId": "carel_fabritius",
+    "name": "Карел Фабрициус",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3126858fdf9ef00d05be.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_lievens",
+    "name": "Ян Ливенс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4d3c98f036323b1cf21d.json",
+    "works": 0
+  },
+  {
+    "artistId": "jan_victors",
+    "name": "Ян Викторс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7c194e475994a97076ad.json",
+    "works": 0
+  },
+  {
+    "artistId": "salomon_koninck",
+    "name": "Саломон Конинк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-16282632912e62e96c3c.json",
+    "works": 0
+  },
+  {
+    "artistId": "aert_de_gelder",
+    "name": "Арт де Гелдер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-59ffb8ad7fcaa90c3178.json",
+    "works": 0
+  },
+  {
+    "artistId": "gerrit_van_honthorst",
+    "name": "Геррит ван Хонтхорст",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-5b42a42380be4bc292a4.json",
+    "works": 5
+  },
+  {
+    "artistId": "hendrick_ter_brugghen",
+    "name": "Хендрик тер Брюгген",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a956ef379f85d58f1547.json",
+    "works": 0
+  },
+  {
+    "artistId": "dirck_van_baburen",
+    "name": "Дирк ван Бабюрен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-42eaa45d95deea1655f6.json",
+    "works": 0
+  },
+  {
+    "artistId": "matthias_stom",
+    "name": "Маттиас Стом",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-481289330da45461f68d.json",
+    "works": 2
+  },
+  {
+    "artistId": "adam_de_coster",
+    "name": "Адам де Костер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-82dd5debe9a78088b54c.json",
+    "works": 0
+  },
+  {
+    "artistId": "georges_de_la_tour",
+    "name": "Жорж де Латур",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b128dabe05630ae0c9e0.json",
+    "works": 0
+  },
+  {
+    "artistId": "valentin_de_boulogne",
+    "name": "Валантен де Булонь",
+    "status": "no_match_in_checked_index",
+    "file": "artist-59f39e30c9b41b55398c.json",
+    "works": 0
+  },
+  {
+    "artistId": "nicolas_tournier",
+    "name": "Никола Турнье",
+    "status": "needs_review",
+    "file": "artist-41e05dd382faac98feca.json",
+    "works": 1
+  },
+  {
+    "artistId": "nicolas_regnier",
+    "name": "Никола Ренье",
+    "status": "needs_review",
+    "file": "artist-55b68b3d226a2dd03266.json",
+    "works": 1
+  },
+  {
+    "artistId": "orazio_gentileschi",
+    "name": "Орацио Джентилески",
+    "status": "no_match_in_checked_index",
+    "file": "artist-efe56ecf0d93e26faceb.json",
+    "works": 0
+  },
+  {
+    "artistId": "bartolomeo_manfredi",
+    "name": "Бартоломео Манфреди",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-db555412989fadd9ad25.json",
+    "works": 7
+  },
+  {
+    "artistId": "carlo_saraceni",
+    "name": "Карло Сарачени",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ed7671a819b68ce6e2cc.json",
+    "works": 0
+  },
+  {
+    "artistId": "orazio_borgianni",
+    "name": "Орацио Борджанни",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e4ffacc81a653e5253f6.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_baglione",
+    "name": "Джованни Бальоне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ac9b207aa5ac53dcc8f7.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_serodine",
+    "name": "Джованни Серодине",
+    "status": "no_match_in_checked_index",
+    "file": "artist-71b721cf91015d01e07a.json",
+    "works": 0
+  },
+  {
+    "artistId": "annibale_carracci",
+    "name": "Аннибале Карраччи",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-68af6556877dcb30cfc9.json",
+    "works": 6
+  },
+  {
+    "artistId": "agostino_carracci",
+    "name": "Агостино Карраччи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fe79d286658c33887bd0.json",
+    "works": 0
+  },
+  {
+    "artistId": "ludovico_carracci",
+    "name": "Людовико Карраччи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-77b39f1ee5f1d9bd2b2a.json",
+    "works": 0
+  },
+  {
+    "artistId": "domenichino",
+    "name": "Доменикино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d63213d7b244f55571d1.json",
+    "works": 2
+  },
+  {
+    "artistId": "guercino",
+    "name": "Гверчино",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-66311f89ba6489a70712.json",
+    "works": 5
+  },
+  {
+    "artistId": "giovanni_lanfranco",
+    "name": "Джованни Ланфранко",
+    "status": "no_match_in_checked_index",
+    "file": "artist-aabe6e3fe44226f9632b.json",
+    "works": 0
+  },
+  {
+    "artistId": "pietro_da_cortona",
+    "name": "Пьетро да Кортона",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6ea462749c0b7359f6be.json",
+    "works": 0
+  },
+  {
+    "artistId": "andrea_sacchi",
+    "name": "Андреа Сакки",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d725b6c7e1a6ec26bbc5.json",
+    "works": 0
+  },
+  {
+    "artistId": "carlo_maratta",
+    "name": "Карло Маратта",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-8d58e4dac7cd4a539906.json",
+    "works": 2
+  },
+  {
+    "artistId": "giovanni_battista_gaulli",
+    "name": "Джованни Баттиста Гаулли",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-68ff33a35c81e38013c4.json",
+    "works": 3
+  },
+  {
+    "artistId": "jusepe_de_ribera",
+    "name": "Хусепе де Рибера",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-4b7b0c5f61805e25f3ef.json",
+    "works": 8
+  },
+  {
+    "artistId": "battistello_caracciolo",
+    "name": "Баттистелло Караччоло",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f83c0cd33c2eae41faa5.json",
+    "works": 2
+  },
+  {
+    "artistId": "massimo_stanzione",
+    "name": "Массимо Станционе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bb866c6d1443b63e6c20.json",
+    "works": 0
+  },
+  {
+    "artistId": "bernardo_cavallino",
+    "name": "Бернардо Каваллино",
+    "status": "no_match_in_checked_index",
+    "file": "artist-41e1752940356b66b80d.json",
+    "works": 0
+  },
+  {
+    "artistId": "mattia_preti",
+    "name": "Маттиа Прети",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-60bf92b083de320edc87.json",
+    "works": 3
+  },
+  {
+    "artistId": "luca_giordano",
+    "name": "Лука Джордано",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-8682440baac67e4f1a92.json",
+    "works": 2
+  },
+  {
+    "artistId": "francesco_solimena",
+    "name": "Франческо Солимена",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fa07f4696e87ab5711b3.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_battista_recco",
+    "name": "Джованни Баттиста Рекко",
+    "status": "no_match_in_checked_index",
+    "file": "artist-03bd2cf3bdf92ebb2246.json",
+    "works": 0
+  },
+  {
+    "artistId": "giuseppe_recco",
+    "name": "Джузеппе Рекко",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d3709b2d9d90dee03733.json",
+    "works": 0
+  },
+  {
+    "artistId": "paolo_porpora",
+    "name": "Паоло Порпора",
+    "status": "no_match_in_checked_index",
+    "file": "artist-67ef2906041325e4f357.json",
+    "works": 0
+  },
+  {
+    "artistId": "andrea_vaccaro",
+    "name": "Андреа Ваккаро",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e3fb079456cae1434356.json",
+    "works": 0
+  },
+  {
+    "artistId": "aniello_falcone",
+    "name": "Аньелло Фальконе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-63ced7272f620b8ca178.json",
+    "works": 0
+  },
+  {
+    "artistId": "domenico_gargiulo",
+    "name": "Доменико Гарджуло",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e05b9096db1c59256aac.json",
+    "works": 0
+  },
+  {
+    "artistId": "viviano_codazzi",
+    "name": "Вивиано Кодацци",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-bb176f827ffb873930bb.json",
+    "works": 1
+  },
+  {
+    "artistId": "francesco_de_mura",
+    "name": "Франческо де Мура",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e99ed6846cce4041537d.json",
+    "works": 0
+  },
+  {
+    "artistId": "andrea_di_lione",
+    "name": "Андреа ди Лионе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-806a26d270c5c051021b.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_battista_ruoppolo",
+    "name": "Джованни Баттиста Руопполо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6d30cb65607d4420f06b.json",
+    "works": 0
+  },
+  {
+    "artistId": "giuseppe_ruoppolo",
+    "name": "Джузеппе Руопполо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6eaca07e790061ee81db.json",
+    "works": 0
+  },
+  {
+    "artistId": "andrea_belvedere",
+    "name": "Андреа Бельведере",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-b8e999f06fd801eed6df.json",
+    "works": 1
+  },
+  {
+    "artistId": "abraham_brueghel",
+    "name": "Абрахам Брейгель",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d9af7e9e8e7276126d13.json",
+    "works": 0
+  },
+  {
+    "artistId": "bernardo_strozzi",
+    "name": "Бернардо Строцци",
+    "status": "no_match_in_checked_index",
+    "file": "artist-735e65ef97f488cd9d70.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_benedetto_castiglione",
+    "name": "Джованни Бенедетто Кастильоне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-27e8f574912692a2c73a.json",
+    "works": 0
+  },
+  {
+    "artistId": "valerio_castello",
+    "name": "Валерио Кастелло",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7e5b76e3e86abfc81b12.json",
+    "works": 0
+  },
+  {
+    "artistId": "gregorio_de_ferrari",
+    "name": "Грегорио де Феррари",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fe6aca0906c94a54412d.json",
+    "works": 0
+  },
+  {
+    "artistId": "alessandro_magnasco",
+    "name": "Алессандро Маньяско",
+    "status": "needs_review",
+    "file": "artist-4cdb1508ba78fca3a64b.json",
+    "works": 1
+  },
+  {
+    "artistId": "giovanni_andrea_de_ferrari",
+    "name": "Джованни Андреа де Феррари",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bf2e67d37504ac6e7264.json",
+    "works": 0
+  },
+  {
+    "artistId": "gioacchino_assereto",
+    "name": "Джоаккино Ассерето",
+    "status": "no_match_in_checked_index",
+    "file": "artist-05901f640a3a8a5e3c76.json",
+    "works": 0
+  },
+  {
+    "artistId": "orazio_de_ferrari",
+    "name": "Орацио де Феррари",
+    "status": "no_match_in_checked_index",
+    "file": "artist-760e047220f49b178f9c.json",
+    "works": 0
+  },
+  {
+    "artistId": "sinibaldo_scorza",
+    "name": "Синибальдо Скорца",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3cc5a38a8dff0d78ea20.json",
+    "works": 0
+  },
+  {
+    "artistId": "domenico_piola",
+    "name": "Доменико Пиола",
+    "status": "no_match_in_checked_index",
+    "file": "artist-02b02537e1c9edb0936e.json",
+    "works": 0
+  },
+  {
+    "artistId": "luca_cambiaso",
+    "name": "Лука Камбьязо",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b10295b0938651d4333f.json",
+    "works": 0
+  },
+  {
+    "artistId": "andrea_semino",
+    "name": "Андреа Семино",
+    "status": "no_match_in_checked_index",
+    "file": "artist-53a2a7c5147c8a34730e.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_battista_paggi",
+    "name": "Джованни Баттиста Паджи",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-7a74d3ef744cc25dbe9a.json",
+    "works": 2
+  },
+  {
+    "artistId": "bernardo_castello",
+    "name": "Бернардо Кастелло",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c3da832474d86615fef8.json",
+    "works": 0
+  },
+  {
+    "artistId": "domenico_fiasella",
+    "name": "Доменико Фьязелла",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7513afc0056fa7d08801.json",
+    "works": 0
+  },
+  {
+    "artistId": "sebastiano_ricci",
+    "name": "Себастьяно Риччи",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-8e8883e04ac00ba6ec1e.json",
+    "works": 3
+  },
+  {
+    "artistId": "marco_ricci",
+    "name": "Марко Риччи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-df84a6936b030ad73919.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_antonio_pellegrini",
+    "name": "Джованни Антонио Пеллегрини",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a239fa4e43ac5db67c26.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_battista_piazzetta",
+    "name": "Джованни Баттиста Пьяццетта",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fc829e917be9b689b3fb.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_battista_pittoni",
+    "name": "Джованни Баттиста Питтони",
+    "status": "no_match_in_checked_index",
+    "file": "artist-db2b3e88231c2b343a77.json",
+    "works": 0
+  },
+  {
+    "artistId": "michele_marieschi",
+    "name": "Микеле Мариески",
+    "status": "no_match_in_checked_index",
+    "file": "artist-17dac50616077c385ea7.json",
+    "works": 0
+  },
+  {
+    "artistId": "francesco_guardi",
+    "name": "Франческо Гварди",
+    "status": "no_match_in_checked_index",
+    "file": "artist-97b02117d54e1e6d7854.json",
+    "works": 0
+  },
+  {
+    "artistId": "francesco_zuccarelli",
+    "name": "Франческо Цуккарелли",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b2c1d75551c76e6dfae9.json",
+    "works": 0
+  },
+  {
+    "artistId": "giuseppe_zais",
+    "name": "Джузеппе Дзаис",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ca9e72259aa705167c06.json",
+    "works": 0
+  },
+  {
+    "artistId": "antonio_joli",
+    "name": "Антонио Джоли",
+    "status": "no_match_in_checked_index",
+    "file": "artist-582451eab89208902265.json",
+    "works": 0
+  },
+  {
+    "artistId": "giuseppe_maria_crespi",
+    "name": "Джузеппе Мария Креспи",
+    "status": "needs_review",
+    "file": "artist-93348275e2d60ae79c36.json",
+    "works": 7
+  },
+  {
+    "artistId": "pietro_longhi",
+    "name": "Пьетро Лонги",
+    "status": "no_match_in_checked_index",
+    "file": "artist-482678ed020c44aed7e8.json",
+    "works": 0
+  },
+  {
+    "artistId": "giacomo_ceruti",
+    "name": "Джакомо Черути",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e6d7a0cead163f46fa72.json",
+    "works": 0
+  },
+  {
+    "artistId": "vittore_ghislandi",
+    "name": "Витторе Гисланди",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ec388ab1fde6617fa7b9.json",
+    "works": 0
+  },
+  {
+    "artistId": "pietro_rotari",
+    "name": "Пьетро Ротари",
+    "status": "no_match_in_checked_index",
+    "file": "artist-953bcd136f700ad7de2d.json",
+    "works": 0
+  },
+  {
+    "artistId": "pompeo_batoni",
+    "name": "Помпео Батони",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a9ffb3b4de03734c9946.json",
+    "works": 2
+  },
+  {
+    "artistId": "corrado_giaquinto",
+    "name": "Коррадо Джаквинто",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e3edd9d9208769c96ec2.json",
+    "works": 0
+  },
+  {
+    "artistId": "francesco_trevisani",
+    "name": "Франческо Тревизани",
+    "status": "no_match_in_checked_index",
+    "file": "artist-19cae6818bdc7a15bb71.json",
+    "works": 0
+  },
+  {
+    "artistId": "sebastiano_conca",
+    "name": "Себастьяно Конка",
+    "status": "no_match_in_checked_index",
+    "file": "artist-78d1964e7915cd4fc4b4.json",
+    "works": 0
+  },
+  {
+    "artistId": "giuseppe_bartolomeo_chiari",
+    "name": "Джузеппе Бартоломео Кьяри",
+    "status": "no_match_in_checked_index",
+    "file": "artist-01b5f672f56acd9bbafe.json",
+    "works": 0
+  },
+  {
+    "artistId": "carlo_cignani",
+    "name": "Карло Чиньяни",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9f482c36048f586ac883.json",
+    "works": 0
+  },
+  {
+    "artistId": "carlo_dolci",
+    "name": "Карло Дольчи",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2fc20bdc1b26fbba63df.json",
+    "works": 9
+  },
+  {
+    "artistId": "francesco_furini",
+    "name": "Франческо Фурини",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-24e199cdab790a54b048.json",
+    "works": 4
+  },
+  {
+    "artistId": "sassoferrato",
+    "name": "Сассоферрато",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-3a63f5ce60c3fe600c9c.json",
+    "works": 1
+  },
+  {
+    "artistId": "jacopo_vignali",
+    "name": "Якопо Виньяли",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8931f209928a8d8b0e86.json",
+    "works": 0
+  },
+  {
+    "artistId": "baldassarre_franceschini",
+    "name": "Бальдассарре Франческини",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dac7154b8592879f3af5.json",
+    "works": 0
+  },
+  {
+    "artistId": "lorenzo_lippi",
+    "name": "Лоренцо Липпи",
+    "status": "needs_review",
+    "file": "artist-ef11e8ff8e0a32f57d44.json",
+    "works": 1
+  },
+  {
+    "artistId": "cesare_dandini",
+    "name": "Чезаре Дандини",
+    "status": "needs_review",
+    "file": "artist-5b696786a7fd60523064.json",
+    "works": 2
+  },
+  {
+    "artistId": "giovanni_da_san_giovanni",
+    "name": "Джованни да Сан-Джованни",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-8ab01b332c4d94f09d7a.json",
+    "works": 3
+  },
+  {
+    "artistId": "cristofano_allori",
+    "name": "Кристофано Аллори",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-543dbca6ce5a29afb04e.json",
+    "works": 6
+  },
+  {
+    "artistId": "jacopo_chimenti",
+    "name": "Якопо Кименти",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-472a3a7a1d8b6fed4955.json",
+    "works": 4
+  },
+  {
+    "artistId": "ludovico_cardi",
+    "name": "Лудовико Карди",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f401ef75d47fcaa2314f.json",
+    "works": 2
+  },
+  {
+    "artistId": "santi_di_tito",
+    "name": "Санти ди Тито",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-14b0fd1adecdec11c5b0.json",
+    "works": 1
+  },
+  {
+    "artistId": "domenico_cresti",
+    "name": "Доменико Крести",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e4f636d1d5c32baa3c81.json",
+    "works": 0
+  },
+  {
+    "artistId": "giovanni_martinelli",
+    "name": "Джованни Мартинелли",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-a257f31c5893755a95b7.json",
+    "works": 1
+  },
+  {
+    "artistId": "simone_pignoni",
+    "name": "Симоне Пиньони",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-ffcc53a6d86a171b514e.json",
+    "works": 1
+  },
+  {
+    "artistId": "mario_balassi",
+    "name": "Марио Баласси",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-040deabc414fc0f2557a.json",
+    "works": 1
+  },
+  {
+    "artistId": "vincenzo_dandini",
+    "name": "Винченцо Дандини",
+    "status": "no_match_in_checked_index",
+    "file": "artist-95f5cac1e06ce6b4f8d9.json",
+    "works": 0
+  },
+  {
+    "artistId": "agostino_melissi",
+    "name": "Агостино Мелисси",
+    "status": "no_match_in_checked_index",
+    "file": "artist-95cbaf3fb95e1dfaa1e6.json",
+    "works": 0
+  },
+  {
+    "artistId": "francesco_curradi",
+    "name": "Франческо Курради",
+    "status": "no_match_in_checked_index",
+    "file": "artist-02d1c89985158961c936.json",
+    "works": 0
+  },
+  {
+    "artistId": "matteo_rosselli",
+    "name": "Маттео Росселли",
+    "status": "no_match_in_checked_index",
+    "file": "artist-021a69683fd4e787efaf.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacopo_ligozzi",
+    "name": "Якопо Лигоцци",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-cf293f2c16f315345262.json",
+    "works": 3
+  },
+  {
+    "artistId": "anton_domenico_gabbiani",
+    "name": "Антон Доменико Габбиани",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-6f40b68ece92e3994bf0.json",
+    "works": 3
+  },
+  {
+    "artistId": "benedetto_luti",
+    "name": "Бенедетто Лути",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6661c3b0d464faf4f4ff.json",
+    "works": 0
+  },
+  {
+    "artistId": "alessandro_allori",
+    "name": "Алессандро Аллори",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-197ad35d66ca2ee7b681.json",
+    "works": 16
+  },
+  {
+    "artistId": "francesco_salviati",
+    "name": "Франческо Сальвиати",
+    "status": "needs_review",
+    "file": "artist-1dc510d128b0d183a40b.json",
+    "works": 4
+  },
+  {
+    "artistId": "daniele_da_volterra",
+    "name": "Даниеле да Вольтерра",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-abef84f0b4e7dd60c965.json",
+    "works": 1
+  },
+  {
+    "artistId": "giovanni_bilivert",
+    "name": "Джованни Биливерт",
+    "status": "needs_review",
+    "file": "artist-a2b3e8733d200c47b5bc.json",
+    "works": 1
+  },
+  {
+    "artistId": "cecco_bravo",
+    "name": "Чекко Браво",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-df1012b89f88e57bdbf3.json",
+    "works": 2
+  },
+  {
+    "artistId": "philippe_de_champaigne",
+    "name": "Филипп де Шампень",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2012c694fbb39c8f5c87.json",
+    "works": 2
+  },
+  {
+    "artistId": "simon_vouet",
+    "name": "Симон Вуэ",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-fd6b7cba6da10898d235.json",
+    "works": 2
+  },
+  {
+    "artistId": "eustache_le_sueur",
+    "name": "Эсташ Лесюэр",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2836696ff253a371cc8c.json",
+    "works": 0
+  },
+  {
+    "artistId": "laurent_de_la_hyre",
+    "name": "Лоран де Ла Ир",
+    "status": "needs_review",
+    "file": "artist-a1991b3200941519fde0.json",
+    "works": 1
+  },
+  {
+    "artistId": "charles_le_brun",
+    "name": "Шарль Лебрен",
+    "status": "needs_review",
+    "file": "artist-231d4c57c65c0d764e4a.json",
+    "works": 2
+  },
+  {
+    "artistId": "charles_de_la_fosse",
+    "name": "Шарль де Лафосс",
+    "status": "needs_review",
+    "file": "artist-88a9a80a6d6f608e7cfe.json",
+    "works": 1
+  },
+  {
+    "artistId": "jean_jouvenet",
+    "name": "Жан Жувене",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-badc08bfed0b94326486.json",
+    "works": 1
+  },
+  {
+    "artistId": "noel_coypel",
+    "name": "Ноэль Куапель",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c89e9699498590f17f53.json",
+    "works": 0
+  },
+  {
+    "artistId": "antoine_coypel",
+    "name": "Антуан Куапель",
+    "status": "needs_review",
+    "file": "artist-caf43c5ab7058f290270.json",
+    "works": 1
+  },
+  {
+    "artistId": "bon_boullogne",
+    "name": "Бон Булонь",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4c24f5b234f16635beed.json",
+    "works": 0
+  },
+  {
+    "artistId": "hyacinthe_rigaud",
+    "name": "Гиацинт Риго",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-05235bcbcfa015a71a3f.json",
+    "works": 2
+  },
+  {
+    "artistId": "nicolas_de_largilliere",
+    "name": "Никола де Ларжильер",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-9795f685232e0c6859a3.json",
+    "works": 3
+  },
+  {
+    "artistId": "alexandre_francois_desportes",
+    "name": "Александр-Франсуа Депорт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9a680c3b3c448f340a80.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_baptiste_oudry",
+    "name": "Жан-Батист Удри",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8ffb89bbad8ca45ef284.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_baptiste_santerre",
+    "name": "Жан-Батист Сантерр",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cc67cc5437b2fce22a13.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_simeon_chardin",
+    "name": "Жан-Симеон Шарден",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-55040a063dadca01e36e.json",
+    "works": 2
+  },
+  {
+    "artistId": "jean_baptiste_greuze",
+    "name": "Жан-Батист Грёз",
+    "status": "no_match_in_checked_index",
+    "file": "artist-47d8df9d0f7644ecc6eb.json",
+    "works": 0
+  },
+  {
+    "artistId": "nicolas_lancret",
+    "name": "Никола Ланкре",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2bc527925d10f2dafa9e.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_baptiste_pater",
+    "name": "Жан-Батист Патер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e88d7728e9d63f34ce94.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_marc_nattier",
+    "name": "Жан-Марк Натье",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-93eab500867419b9934d.json",
+    "works": 3
+  },
+  {
+    "artistId": "jean_etienne_liotard",
+    "name": "Жан-Этьен Лиотар",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-3c8365774afe5f58677a.json",
+    "works": 2
+  },
+  {
+    "artistId": "francois_hubert_drouais",
+    "name": "Франсуа-Юбер Друэ",
+    "status": "no_match_in_checked_index",
+    "file": "artist-eedff70803323d9d1d4d.json",
+    "works": 0
+  },
+  {
+    "artistId": "jean_baptiste_perronneau",
+    "name": "Жан-Батист Перронно",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e80503f15276f9a3b1b0.json",
+    "works": 0
+  },
+  {
+    "artistId": "elisabeth_louise_vigee_le_brun",
+    "name": "Элизабет Луиза Виже-Лебрен",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d1ca088c8e29a3085568.json",
+    "works": 1
+  },
+  {
+    "artistId": "adelaide_labille_guiard",
+    "name": "Аделаида Лабиль-Гиар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9bc7203b9b5731fee86f.json",
+    "works": 0
+  },
+  {
+    "artistId": "angelica_kauffmann",
+    "name": "Ангелика Кауфман",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-b9d5963efa24998d8cf8.json",
+    "works": 2
+  },
+  {
+    "artistId": "anne_vallayer_coster",
+    "name": "Анна Валлайе-Костер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cb121be6aa56be0b64c9.json",
+    "works": 0
+  },
+  {
+    "artistId": "mary_moser",
+    "name": "Мэри Мозер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-eaf4b2cefebe3d3502de.json",
+    "works": 0
+  },
+  {
+    "artistId": "marguerite_gerard",
+    "name": "Маргерит Жерар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-030b153c87ce165be9ab.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_gabrielle_capet",
+    "name": "Мари-Габриэль Капе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-935bba361a731fd839ac.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_victoire_lemoine",
+    "name": "Мари-Виктуар Лемуан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9515210dcb55ccfbfe4c.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_denise_villers",
+    "name": "Мари-Дениз Виллер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4da7e3c7208fa6fa8f3a.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_guillemine_benoist",
+    "name": "Мари-Гийемин Бенуа",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f24d0e19fcec1fc02af4.json",
+    "works": 0
+  },
+  {
+    "artistId": "rose_adelaide_ducreux",
+    "name": "Роз-Аделаида Дюкре",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dabef7abb7a60a19811a.json",
+    "works": 0
+  },
+  {
+    "artistId": "constance_mayer",
+    "name": "Констанс Майер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-037cc0c117cb454eb909.json",
+    "works": 0
+  },
+  {
+    "artistId": "constance_charpentier",
+    "name": "Констанс Шарпантье",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5152cc37e2aba6d4d8e8.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_dorothea_therbusch",
+    "name": "Анна Доротея Тербуш",
+    "status": "no_match_in_checked_index",
+    "file": "artist-918bb0dd53282ca6f1ba.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_rosina_de_gasc",
+    "name": "Анна Розина де Гаск",
+    "status": "no_match_in_checked_index",
+    "file": "artist-72c06a90238b060ddefd.json",
+    "works": 0
+  },
+  {
+    "artistId": "caroline_bardua",
+    "name": "Каролина Бардуа",
+    "status": "no_match_in_checked_index",
+    "file": "artist-477529e8ecd3bc962489.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_ellenrieder",
+    "name": "Мария Элленридер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9a31fe07a5a32addb9cb.json",
+    "works": 0
+  },
+  {
+    "artistId": "sofonisba_anguissola",
+    "name": "Софонисба Ангвиссола",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d314404a0ffd91c8cf4a.json",
+    "works": 2
+  },
+  {
+    "artistId": "lavinia_fontana",
+    "name": "Лавиния Фонтана",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-2958f6677513c1afe5e5.json",
+    "works": 2
+  },
+  {
+    "artistId": "judith_leyster",
+    "name": "Юдит Лейстер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4df1ace7cce5328d8dd8.json",
+    "works": 0
+  },
+  {
+    "artistId": "rachel_ruysch",
+    "name": "Рахел Рюйш",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-f3acbe8a1b4e9baf37b8.json",
+    "works": 4
+  },
+  {
+    "artistId": "clara_peeters",
+    "name": "Клара Петерс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c7c8db1e386ab2d8a474.json",
+    "works": 0
+  },
+  {
+    "artistId": "michaelina_wautier",
+    "name": "Михаэлина Ваутье",
+    "status": "no_match_in_checked_index",
+    "file": "artist-350faf472725ed474d4e.json",
+    "works": 0
+  },
+  {
+    "artistId": "elisabetta_sirani",
+    "name": "Элизабетта Сирани",
+    "status": "needs_review",
+    "file": "artist-af5c64d4f7200f4efd85.json",
+    "works": 1
+  },
+  {
+    "artistId": "fede_galizia",
+    "name": "Феде Галиция",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-92567e75217c9027b9fe.json",
+    "works": 1
+  },
+  {
+    "artistId": "giovanna_garzoni",
+    "name": "Джованна Гарцони",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f148f5a238edcdec85de.json",
+    "works": 0
+  },
+  {
+    "artistId": "rosalba_carriera",
+    "name": "Розальба Каррьера",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-7abb59bbcb857fecc307.json",
+    "works": 2
+  },
+  {
+    "artistId": "catharina_van_hemessen",
+    "name": "Катарина ван Хемессен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2329803006edc00f48f3.json",
+    "works": 0
+  },
+  {
+    "artistId": "barbara_longhi",
+    "name": "Барбара Лонги",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3429c2fd20cdc340b77f.json",
+    "works": 0
+  },
+  {
+    "artistId": "louise_moillon",
+    "name": "Луиза Муайон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f27c7e3b20013d57c452.json",
+    "works": 0
+  },
+  {
+    "artistId": "maria_van_oosterwijck",
+    "name": "Мария ван Остервейк",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-6920ff48b462c4ae5297.json",
+    "works": 2
+  },
+  {
+    "artistId": "giulia_lama",
+    "name": "Джулия Лама",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-4fc01a035662de4f8163.json",
+    "works": 1
+  },
+  {
+    "artistId": "mary_beale",
+    "name": "Мэри Бил",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e5d1c2ab302527470389.json",
+    "works": 0
+  },
+  {
+    "artistId": "joan_carlile",
+    "name": "Джоан Карлайл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6e5a89c8dea0d843e742.json",
+    "works": 0
+  },
+  {
+    "artistId": "anne_killigrew",
+    "name": "Энн Киллигрю",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f0d5327a3f50aab3a1ac.json",
+    "works": 0
+  },
+  {
+    "artistId": "elisabeth_sophie_cheron",
+    "name": "Элизабет-Софи Шерон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-29e2af2d2709e9f166b2.json",
+    "works": 0
+  },
+  {
+    "artistId": "maria_sibylla_merian",
+    "name": "Мария Сибилла Мериан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ceba5dccdbd0449e1ec2.json",
+    "works": 0
+  },
+  {
+    "artistId": "rosa_bonheur",
+    "name": "Роза Бонёр",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f86c982809c6d401b7bd.json",
+    "works": 0
+  },
+  {
+    "artistId": "eva_gonzales",
+    "name": "Ева Гонсалес",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b08a2289ef36effd9104.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_bashkirtseff",
+    "name": "Мария Башкирцева",
+    "status": "no_match_in_checked_index",
+    "file": "artist-65cb9e5777c24ae59d4f.json",
+    "works": 0
+  },
+  {
+    "artistId": "cecilia_beaux",
+    "name": "Сесилия Бо",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-c8da0a4350cd7624ddbd.json",
+    "works": 1
+  },
+  {
+    "artistId": "anna_ancher",
+    "name": "Анна Анкер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d6ea575bc38f55f7b93e.json",
+    "works": 0
+  },
+  {
+    "artistId": "bertha_wegmann",
+    "name": "Берта Вегман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-346caaee7f3558cca214.json",
+    "works": 0
+  },
+  {
+    "artistId": "elizabeth_butler",
+    "name": "Элизабет Батлер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bb671e85e0995b4d241e.json",
+    "works": 0
+  },
+  {
+    "artistId": "elizabeth_nourse",
+    "name": "Элизабет Нурс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fdee00fc139c612b6a94.json",
+    "works": 0
+  },
+  {
+    "artistId": "lilla_cabot_perry",
+    "name": "Лилла Кэбот Перри",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d14b821f9ed1fed37434.json",
+    "works": 0
+  },
+  {
+    "artistId": "elizabeth_jane_gardner",
+    "name": "Элизабет Джейн Гарднер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9cdc519182a9e72dbbed.json",
+    "works": 0
+  },
+  {
+    "artistId": "jeanna_bauck",
+    "name": "Йенна Баук",
+    "status": "no_match_in_checked_index",
+    "file": "artist-396675fe283a8401f1b6.json",
+    "works": 0
+  },
+  {
+    "artistId": "hanna_pauli",
+    "name": "Ханна Паули",
+    "status": "no_match_in_checked_index",
+    "file": "artist-22dbc77aab1b8fcdbf07.json",
+    "works": 0
+  },
+  {
+    "artistId": "eva_bonnier",
+    "name": "Ева Бонниер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-126bc158f7789ff9fc0a.json",
+    "works": 0
+  },
+  {
+    "artistId": "helene_schjerfbeck",
+    "name": "Хелена Шерфбек",
+    "status": "no_match_in_checked_index",
+    "file": "artist-72bbf1714487bbc55737.json",
+    "works": 0
+  },
+  {
+    "artistId": "ellen_thesleff",
+    "name": "Эллен Теслефф",
+    "status": "no_match_in_checked_index",
+    "file": "artist-02d5de7cef08b9e8a94d.json",
+    "works": 0
+  },
+  {
+    "artistId": "elin_danielson_gambogi",
+    "name": "Элин Даниельсон-Гамбоджи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-12beeb64e7873e016966.json",
+    "works": 0
+  },
+  {
+    "artistId": "helena_westermarck",
+    "name": "Хелена Вестермарк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d4d349ccbefad23125f4.json",
+    "works": 0
+  },
+  {
+    "artistId": "harriet_backer",
+    "name": "Харриет Баккер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-850a7d25c93fa5e2b4b4.json",
+    "works": 0
+  },
+  {
+    "artistId": "kitty_kielland",
+    "name": "Китти Хьелланн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3e8227f40f58f6f0ca14.json",
+    "works": 0
+  },
+  {
+    "artistId": "asta_norregaard",
+    "name": "Аста Нёррегор",
+    "status": "no_match_in_checked_index",
+    "file": "artist-51937af55d8b7018b6f1.json",
+    "works": 0
+  },
+  {
+    "artistId": "maria_wiik",
+    "name": "Мария Виик",
+    "status": "no_match_in_checked_index",
+    "file": "artist-859894f7b49ec6fc5dde.json",
+    "works": 0
+  },
+  {
+    "artistId": "amelie_lundahl",
+    "name": "Амели Лундаль",
+    "status": "no_match_in_checked_index",
+    "file": "artist-906d292b05abe70944b3.json",
+    "works": 0
+  },
+  {
+    "artistId": "fanny_churberg",
+    "name": "Фанни Чурберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-75a9534e4470f8f60144.json",
+    "works": 0
+  },
+  {
+    "artistId": "venny_soldan_brofeldt",
+    "name": "Венни Сольдан-Бруфельдт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d974ac545eded3db8532.json",
+    "works": 0
+  },
+  {
+    "artistId": "dora_wahlroos",
+    "name": "Дора Вальрус",
+    "status": "no_match_in_checked_index",
+    "file": "artist-405888bc8563f87d894c.json",
+    "works": 0
+  },
+  {
+    "artistId": "amalia_lindegren",
+    "name": "Амалия Линдегрен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8f7b5d690dadb967b7fe.json",
+    "works": 0
+  },
+  {
+    "artistId": "amanda_sidwall",
+    "name": "Аманда Сидваль",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2b9668ebb91f29ea1cfd.json",
+    "works": 0
+  },
+  {
+    "artistId": "fanny_brate",
+    "name": "Фанни Брате",
+    "status": "no_match_in_checked_index",
+    "file": "artist-66c03ce550044fcb27f8.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_boberg",
+    "name": "Анна Боберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bb659de88ba1b30651ce.json",
+    "works": 0
+  },
+  {
+    "artistId": "hilma_af_klint",
+    "name": "Хильма аф Клинт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a9ae10181e9e8ac49316.json",
+    "works": 0
+  },
+  {
+    "artistId": "evelyn_de_morgan",
+    "name": "Эвелин де Морган",
+    "status": "no_match_in_checked_index",
+    "file": "artist-69cd3c6d9b5b3d73bee1.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_spartali_stillman",
+    "name": "Мария Спартали Стиллман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-730cddfd8ccb36fa97ca.json",
+    "works": 0
+  },
+  {
+    "artistId": "marianne_stokes",
+    "name": "Марианна Стокс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2837d9d60b3745a8524c.json",
+    "works": 0
+  },
+  {
+    "artistId": "eleanor_fortescue_brickdale",
+    "name": "Элеонора Фортескью-Брикдейл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-575b4895232c943a9871.json",
+    "works": 0
+  },
+  {
+    "artistId": "elizabeth_forbes",
+    "name": "Элизабет Форбс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-22d7f0c9f087059bf82b.json",
+    "works": 0
+  },
+  {
+    "artistId": "louise_jopling",
+    "name": "Луиза Джоплинг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3663196ca230e0638016.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_lea_merritt",
+    "name": "Анна Ли Мерритт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-226f0fbed759303f222d.json",
+    "works": 0
+  },
+  {
+    "artistId": "sophie_anderson",
+    "name": "Софи Андерсон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fc3fdee01e2b4a5bc630.json",
+    "works": 0
+  },
+  {
+    "artistId": "emma_sandys",
+    "name": "Эмма Сэндис",
+    "status": "no_match_in_checked_index",
+    "file": "artist-86f4def7419b98ceffd9.json",
+    "works": 0
+  },
+  {
+    "artistId": "joanna_mary_wells",
+    "name": "Джоанна Мэри Уэллс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d4e822df1577efd9eb8c.json",
+    "works": 0
+  },
+  {
+    "artistId": "rebecca_solomon",
+    "name": "Ребекка Соломон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4ddb3671c8547cf1bbb0.json",
+    "works": 0
+  },
+  {
+    "artistId": "emily_mary_osborn",
+    "name": "Эмили Мэри Осборн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9fb8892b5286f344bbc8.json",
+    "works": 0
+  },
+  {
+    "artistId": "henrietta_rae",
+    "name": "Генриетта Рэй",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3c596200a3102fabf2c5.json",
+    "works": 0
+  },
+  {
+    "artistId": "lucy_madox_brown",
+    "name": "Люси Мэдокс Браун",
+    "status": "no_match_in_checked_index",
+    "file": "artist-54a7c3a45288ec13359b.json",
+    "works": 0
+  },
+  {
+    "artistId": "catherine_madox_brown",
+    "name": "Кэтрин Мэдокс Браун",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a39c429a83eb60df1878.json",
+    "works": 0
+  },
+  {
+    "artistId": "kate_bunce",
+    "name": "Кейт Банс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-73c1c671de41d6fcb090.json",
+    "works": 0
+  },
+  {
+    "artistId": "jessica_hayllar",
+    "name": "Джессика Хейллар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1f598a6a2ac65f6965dc.json",
+    "works": 0
+  },
+  {
+    "artistId": "edith_hayllar",
+    "name": "Эдит Хейллар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-49c40e11dcd6da31f316.json",
+    "works": 0
+  },
+  {
+    "artistId": "kate_hayllar",
+    "name": "Кейт Хейллар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-59c758ae55d85fe33b29.json",
+    "works": 0
+  },
+  {
+    "artistId": "louise_rayner",
+    "name": "Луиза Рейнер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c7931878a47363ff7c97.json",
+    "works": 0
+  },
+  {
+    "artistId": "lilly_martin_spencer",
+    "name": "Лилли Мартин Спенсер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b7ad36fe0b1b059655be.json",
+    "works": 0
+  },
+  {
+    "artistId": "jennie_augusta_brownscombe",
+    "name": "Дженни Огаста Браунскомб",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5610852870434d38597d.json",
+    "works": 0
+  },
+  {
+    "artistId": "sarah_goodridge",
+    "name": "Сара Гудридж",
+    "status": "no_match_in_checked_index",
+    "file": "artist-3c33d5d014bd90c36c09.json",
+    "works": 0
+  },
+  {
+    "artistId": "sarah_miriam_peale",
+    "name": "Сара Мириам Пил",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b38fcb363dfc96763248.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_claypoole_peale",
+    "name": "Анна Клейпул Пил",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9f18d1967d565173fd63.json",
+    "works": 0
+  },
+  {
+    "artistId": "margaretta_angelica_peale",
+    "name": "Маргаретта Анжелика Пил",
+    "status": "no_match_in_checked_index",
+    "file": "artist-19792b89ade4eb96d9c6.json",
+    "works": 0
+  },
+  {
+    "artistId": "fidelia_bridges",
+    "name": "Фиделия Бриджес",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9de314ab716535f2051f.json",
+    "works": 0
+  },
+  {
+    "artistId": "julie_hart_beers",
+    "name": "Джули Харт Бирс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8f6154a84a3c3c8ce8aa.json",
+    "works": 0
+  },
+  {
+    "artistId": "susie_moore_barstow",
+    "name": "Сьюзи Мур Барстоу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0333888fb34fb8d02d5e.json",
+    "works": 0
+  },
+  {
+    "artistId": "mary_blood_mellen",
+    "name": "Мэри Блад Меллен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a585400f2e3d5a0e034e.json",
+    "works": 0
+  },
+  {
+    "artistId": "maria_oakey_dewing",
+    "name": "Мария Оуки Дьюинг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-330e8078397d8e0c625b.json",
+    "works": 0
+  },
+  {
+    "artistId": "ellen_day_hale",
+    "name": "Эллен Дэй Хейл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f2a7377e009159ebc5bb.json",
+    "works": 0
+  },
+  {
+    "artistId": "mary_lizzie_macomber",
+    "name": "Мэри Лиззи Макомбер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0785a5fab10b087595bf.json",
+    "works": 0
+  },
+  {
+    "artistId": "susan_watkins",
+    "name": "Сьюзен Уоткинс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b0a8300f40c011e1ab35.json",
+    "works": 0
+  },
+  {
+    "artistId": "mary_fairchild_macmonnies_low",
+    "name": "Мэри Фэрчайлд Макмоннис Лоу",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d25cd830eec315816b6b.json",
+    "works": 0
+  },
+  {
+    "artistId": "helen_mcnicoll",
+    "name": "Хелен Макниколл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-383759e591ffdf3ec2f9.json",
+    "works": 0
+  },
+  {
+    "artistId": "laura_muntz_lyall",
+    "name": "Лора Мунц Лайалл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-62acc8c438c0a7c00aae.json",
+    "works": 0
+  },
+  {
+    "artistId": "florence_carlyle",
+    "name": "Флоренс Карлайл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-07c8db724984e78f42a2.json",
+    "works": 0
+  },
+  {
+    "artistId": "florence_helena_mcgillivray",
+    "name": "Флоренс Хелена Макгилливрей",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8531c1b96865e0ffc3bf.json",
+    "works": 0
+  },
+  {
+    "artistId": "mary_hiester_reid",
+    "name": "Мэри Хистер Рид",
+    "status": "no_match_in_checked_index",
+    "file": "artist-aec735c2af89c75e1d5f.json",
+    "works": 0
+  },
+  {
+    "artistId": "jane_sutherland",
+    "name": "Джейн Сазерленд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8e01104d7d2e22f7d5c9.json",
+    "works": 0
+  },
+  {
+    "artistId": "clara_southern",
+    "name": "Клара Саутерн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b5a0351b28b335498ce2.json",
+    "works": 0
+  },
+  {
+    "artistId": "jane_price",
+    "name": "Джейн Прайс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-65818ed2781d2716d84b.json",
+    "works": 0
+  },
+  {
+    "artistId": "alice_chapman",
+    "name": "Элис Чапмен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4a449d89a58a5ba3228a.json",
+    "works": 0
+  },
+  {
+    "artistId": "violet_teague",
+    "name": "Вайолет Тиг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d802b9bb02adfd91f666.json",
+    "works": 0
+  },
+  {
+    "artistId": "ethel_carrick",
+    "name": "Этель Кэррик",
+    "status": "no_match_in_checked_index",
+    "file": "artist-27fbd938e2f8b07baf30.json",
+    "works": 0
+  },
+  {
+    "artistId": "bessie_davidson",
+    "name": "Бесси Дэвидсон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c2607cdeaba0272ce5d8.json",
+    "works": 0
+  },
+  {
+    "artistId": "ellis_rowan",
+    "name": "Эллис Роуэн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f1dbe86270971283d923.json",
+    "works": 0
+  },
+  {
+    "artistId": "louisa_anne_meredith",
+    "name": "Луиза Энн Мередит",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4dd33df1ee3f39de7411.json",
+    "works": 0
+  },
+  {
+    "artistId": "georgiana_mccrae",
+    "name": "Джорджиана Маккрей",
+    "status": "no_match_in_checked_index",
+    "file": "artist-80835513475bcb116c3d.json",
+    "works": 0
+  },
+  {
+    "artistId": "frances_hodgkins",
+    "name": "Фрэнсис Ходжкинс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-123cc18c91053e4c9e1d.json",
+    "works": 0
+  },
+  {
+    "artistId": "margaret_stoddart",
+    "name": "Маргарет Стоддарт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f82917eabd1ad3990c51.json",
+    "works": 0
+  },
+  {
+    "artistId": "grace_joel",
+    "name": "Грейс Джоэл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b3ebae0ef9b88378878a.json",
+    "works": 0
+  },
+  {
+    "artistId": "dorothy_kate_richmond",
+    "name": "Дороти Кейт Ричмонд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7da934202b2a279ec583.json",
+    "works": 0
+  },
+  {
+    "artistId": "mabel_hill",
+    "name": "Мейбл Хилл",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b082edb63c005673b3e4.json",
+    "works": 0
+  },
+  {
+    "artistId": "edith_collier",
+    "name": "Эдит Коллиер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8550140a307b384904b7.json",
+    "works": 0
+  },
+  {
+    "artistId": "rhona_haszard",
+    "name": "Рона Хазард",
+    "status": "no_match_in_checked_index",
+    "file": "artist-337a1870ab8a28ffcfd2.json",
+    "works": 0
+  },
+  {
+    "artistId": "mina_arndt",
+    "name": "Мина Арндт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-773724713c65e50eaf39.json",
+    "works": 0
+  },
+  {
+    "artistId": "maud_sherwood",
+    "name": "Мод Шервуд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-edd694a8c5f86bc2c953.json",
+    "works": 0
+  },
+  {
+    "artistId": "maude_burge",
+    "name": "Мод Бёрдж",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0d79df508a8cc4ec220d.json",
+    "works": 0
+  },
+  {
+    "artistId": "louise_catherine_breslau",
+    "name": "Луиза Катрин Бреслау",
+    "status": "no_match_in_checked_index",
+    "file": "artist-18f857a265f88fe90eea.json",
+    "works": 0
+  },
+  {
+    "artistId": "louise_abbema",
+    "name": "Луиза Аббема",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1770c85619be58bd6bf5.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_klumpke",
+    "name": "Анна Клюмпке",
+    "status": "no_match_in_checked_index",
+    "file": "artist-475374439d01bd601906.json",
+    "works": 0
+  },
+  {
+    "artistId": "virginie_demont_breton",
+    "name": "Виржини Демон-Бретон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-18f9f5c75f3258ca36ec.json",
+    "works": 0
+  },
+  {
+    "artistId": "henriette_browne",
+    "name": "Анриетта Браун",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e6c9d93017ca150b3f8c.json",
+    "works": 0
+  },
+  {
+    "artistId": "madeleine_lemaire",
+    "name": "Мадлен Лемер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bae1e55bf03cb031e59a.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_cazin",
+    "name": "Мари Казен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8f94dc9adeddb438e9b2.json",
+    "works": 0
+  },
+  {
+    "artistId": "jeanne_rongier",
+    "name": "Жанна Ронжье",
+    "status": "no_match_in_checked_index",
+    "file": "artist-de4fd44e3251894c7171.json",
+    "works": 0
+  },
+  {
+    "artistId": "juana_romani",
+    "name": "Хуана Романи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8926223f09562b807ce8.json",
+    "works": 0
+  },
+  {
+    "artistId": "jeanne_jacquemin",
+    "name": "Жанна Жакмен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a7ed63f898c28bbccfa7.json",
+    "works": 0
+  },
+  {
+    "artistId": "therese_schwartze",
+    "name": "Тереза Шварце",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-087cfb2f18e06958e493.json",
+    "works": 1
+  },
+  {
+    "artistId": "lizzy_ansingh",
+    "name": "Лиззи Ансинг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9edf00ef21eaee9bbcb3.json",
+    "works": 0
+  },
+  {
+    "artistId": "suze_robertson",
+    "name": "Сюзе Робертсон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ea958b764b76f74f8e47.json",
+    "works": 0
+  },
+  {
+    "artistId": "wally_moes",
+    "name": "Валли Мус",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f81400c6b891ed35fcd1.json",
+    "works": 0
+  },
+  {
+    "artistId": "jacoba_van_heemskerck",
+    "name": "Якоба ван Хемскерк",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bce93f3c2149e30d6911.json",
+    "works": 0
+  },
+  {
+    "artistId": "charley_toorop",
+    "name": "Чарли Тороп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2ea9f406cf064bd5ebfd.json",
+    "works": 0
+  },
+  {
+    "artistId": "betzy_akersloot_berg",
+    "name": "Бетси Акерслот-Берг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-4904105cd6799637913f.json",
+    "works": 0
+  },
+  {
+    "artistId": "maria_margaretha_van_os",
+    "name": "Мария Маргарета ван Ос",
+    "status": "no_match_in_checked_index",
+    "file": "artist-295c32e4e8cd4c32e604.json",
+    "works": 0
+  },
+  {
+    "artistId": "adriana_johanna_haanen",
+    "name": "Адриана Йоханна Ханен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9c3560efd1efbdd428be.json",
+    "works": 0
+  },
+  {
+    "artistId": "sientje_mesdag_van_houten",
+    "name": "Синтье Месдаг-ван Хаутен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-32a1de696b3b7a5973f2.json",
+    "works": 0
+  },
+  {
+    "artistId": "coba_ritsema",
+    "name": "Коба Ритсема",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ce5444b25a67b88ffd14.json",
+    "works": 0
+  },
+  {
+    "artistId": "coba_surie",
+    "name": "Коба Сюри",
+    "status": "no_match_in_checked_index",
+    "file": "artist-11a2693a7c256c710862.json",
+    "works": 0
+  },
+  {
+    "artistId": "ans_van_den_berg",
+    "name": "Анс ван ден Берг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ccdf8e6de4185a34e9f9.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_van_regteren_altena",
+    "name": "Мари ван Регтерен Алтена",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6446eb98c1767fc54b0b.json",
+    "works": 0
+  },
+  {
+    "artistId": "betsy_westendorp_osieck",
+    "name": "Бетси Вестендорп-Осик",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fe10cd27c8f63a23fa19.json",
+    "works": 0
+  },
+  {
+    "artistId": "henriette_ronner_knip",
+    "name": "Генриетта Роннер-Книп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a3c90b786dda94fe0feb.json",
+    "works": 0
+  },
+  {
+    "artistId": "margaretha_roosenboom",
+    "name": "Маргарета Розенбом",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1024b9becd1bb308fdd3.json",
+    "works": 0
+  },
+  {
+    "artistId": "gerardina_van_de_sande_bakhuyzen",
+    "name": "Герардина Якоба ван де Санде Бакхёйзен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b192293f4896c03ea243.json",
+    "works": 0
+  },
+  {
+    "artistId": "henriette_geertruida_knip",
+    "name": "Генриетта Гертрёйда Книп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b295f4168a01e45b2f12.json",
+    "works": 0
+  },
+  {
+    "artistId": "pauline_knip",
+    "name": "Полина Книп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b0a163b77dc4134c06ee.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_boch",
+    "name": "Анна Бох",
+    "status": "no_match_in_checked_index",
+    "file": "artist-afb447fbdc7629d5b071.json",
+    "works": 0
+  },
+  {
+    "artistId": "louise_de_hem",
+    "name": "Луиза де Хем",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c18b4adaa9ccb2ce2516.json",
+    "works": 0
+  },
+  {
+    "artistId": "jenny_montigny",
+    "name": "Дженни Монтиньи",
+    "status": "no_match_in_checked_index",
+    "file": "artist-46721974f650cbca6787.json",
+    "works": 0
+  },
+  {
+    "artistId": "juliette_wytsman",
+    "name": "Жюльетта Витсман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1e925737ab3b87f43484.json",
+    "works": 0
+  },
+  {
+    "artistId": "berthe_art",
+    "name": "Берта Арт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-efc23311c08ea3df3fc3.json",
+    "works": 0
+  },
+  {
+    "artistId": "alice_ronner",
+    "name": "Алиса Роннер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1072a6a16e1f4c100e07.json",
+    "works": 0
+  },
+  {
+    "artistId": "marguerite_verboeckhoven",
+    "name": "Маргерит Вербукховен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1c762b9dc62775f1c008.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_collart",
+    "name": "Мари Коллар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-44caf4eb2d8cb8272311.json",
+    "works": 0
+  },
+  {
+    "artistId": "cecile_douard",
+    "name": "Сесиль Дуар",
+    "status": "no_match_in_checked_index",
+    "file": "artist-189c0acf2542eeff6bd2.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_de_weert",
+    "name": "Анна де Верт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b668301990e9cc2aae1b.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_antoinette_marcotte",
+    "name": "Мари-Антуанетта Маркотт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5899c707f4e7c9398e54.json",
+    "works": 0
+  },
+  {
+    "artistId": "euphrosine_beernaert",
+    "name": "Эфрозина Бернарт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8edb747e2fd1383dac72.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_de_bievre",
+    "name": "Мари де Бьевр",
+    "status": "no_match_in_checked_index",
+    "file": "artist-84bf163b36a5ff314ee5.json",
+    "works": 0
+  },
+  {
+    "artistId": "elisa_de_gamond",
+    "name": "Элиза де Гамонд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f40b7e277f3a2468b6dc.json",
+    "works": 0
+  },
+  {
+    "artistId": "adele_kindt",
+    "name": "Адель Киндт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e857b144155864570072.json",
+    "works": 0
+  },
+  {
+    "artistId": "fanny_geefs",
+    "name": "Фанни Гефс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7b3479d28abfb09b8ac2.json",
+    "works": 0
+  },
+  {
+    "artistId": "alix_d_anethan",
+    "name": "Аликс д’Анетан",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dbe93e9b9bfd9b1e74ba.json",
+    "works": 0
+  },
+  {
+    "artistId": "louise_heger",
+    "name": "Луиза Эгер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c0f1373217a186613bd5.json",
+    "works": 0
+  },
+  {
+    "artistId": "emma_lambotte",
+    "name": "Эмма Ламботт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-449bc8a3e35d69047f9e.json",
+    "works": 0
+  },
+  {
+    "artistId": "marthe_donas",
+    "name": "Марта Донас",
+    "status": "no_match_in_checked_index",
+    "file": "artist-682f283729c04b89fb9a.json",
+    "works": 0
+  },
+  {
+    "artistId": "elisabeth_jerichau_baumann",
+    "name": "Элизабет Йерихау-Бауман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1fd02e782c61788b4f27.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_petersen",
+    "name": "Анна Петерсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-691c2ec30afbc08f48ce.json",
+    "works": 0
+  },
+  {
+    "artistId": "emilie_mundt",
+    "name": "Эмилия Мундт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fe07eeb05648c395ba0e.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_luplau",
+    "name": "Мари Луплау",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f6e26e46acfc3268450c.json",
+    "works": 0
+  },
+  {
+    "artistId": "marie_kroyer",
+    "name": "Мари Крёйер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-75eece4bc2ab1690b010.json",
+    "works": 0
+  },
+  {
+    "artistId": "astrid_holm",
+    "name": "Астрид Хольм",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fb711ce0dde74372b381.json",
+    "works": 0
+  },
+  {
+    "artistId": "christine_swane",
+    "name": "Кристине Сване",
+    "status": "no_match_in_checked_index",
+    "file": "artist-26cf3f20c5a20cc06e4d.json",
+    "works": 0
+  },
+  {
+    "artistId": "christine_lovmand",
+    "name": "Кристине Лёвманн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ef958ac5f2c936850f50.json",
+    "works": 0
+  },
+  {
+    "artistId": "anna_syberg",
+    "name": "Анна Сюберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f0312c9fd89e41113ea4.json",
+    "works": 0
+  },
+  {
+    "artistId": "alhed_larsen",
+    "name": "Альхед Ларсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2de9f8e17d7fbdbf1195.json",
+    "works": 0
+  },
+  {
+    "artistId": "fritz_syberg",
+    "name": "Фриц Сюберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ae12cea7dda4c82a3474.json",
+    "works": 0
+  },
+  {
+    "artistId": "johannes_larsen",
+    "name": "Йоханнес Ларсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c2349539e3f37e7fc67c.json",
+    "works": 0
+  },
+  {
+    "artistId": "harald_slott_moller",
+    "name": "Харальд Слотт-Мёллер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9cbf35054b30c77bc882.json",
+    "works": 0
+  },
+  {
+    "artistId": "joakim_skovgaard",
+    "name": "Йоаким Сковгор",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5bed68dd8de9a4fd5ab5.json",
+    "works": 0
+  },
+  {
+    "artistId": "niels_skovgaard",
+    "name": "Нильс Сковгор",
+    "status": "no_match_in_checked_index",
+    "file": "artist-73977da8647bc0bc3dd0.json",
+    "works": 0
+  },
+  {
+    "artistId": "kristian_zahrtmann",
+    "name": "Кристиан Цартман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-bf87702992fb6c011026.json",
+    "works": 0
+  },
+  {
+    "artistId": "laurits_andersen_ring",
+    "name": "Лауриц Андерсен Ринг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0f0365cfc137fe171f87.json",
+    "works": 0
+  },
+  {
+    "artistId": "peter_hansen",
+    "name": "Петер Хансен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-af2d4a1f687bf3e43f86.json",
+    "works": 0
+  },
+  {
+    "artistId": "karl_isakson",
+    "name": "Карл Исаксон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e6e7b0b7b243920f65bd.json",
+    "works": 0
+  },
+  {
+    "artistId": "carl_holsoe",
+    "name": "Карл Хольсёе",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dbdbbe99761f287c6881.json",
+    "works": 0
+  },
+  {
+    "artistId": "christen_kobke",
+    "name": "Кристен Кёбке",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2d83b75b9d063b72a038.json",
+    "works": 0
+  },
+  {
+    "artistId": "martinus_rorbye",
+    "name": "Мартинус Рёрбю",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b9faae6d2859f5194eda.json",
+    "works": 0
+  },
+  {
+    "artistId": "wilhelm_bendz",
+    "name": "Вильгельм Бендз",
+    "status": "no_match_in_checked_index",
+    "file": "artist-07f3bcd14c9cece8c4f3.json",
+    "works": 0
+  },
+  {
+    "artistId": "constantin_hansen",
+    "name": "Константин Хансен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-0ca38a11312cf0949c8f.json",
+    "works": 0
+  },
+  {
+    "artistId": "dankvart_dreyer",
+    "name": "Данкварт Дрейер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-85ec2a2c9436f7e2111e.json",
+    "works": 0
+  },
+  {
+    "artistId": "johan_thomas_lundbye",
+    "name": "Йохан Томас Лундбю",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1b8a24f619fc3ae2e42d.json",
+    "works": 0
+  },
+  {
+    "artistId": "peter_christian_skovgaard",
+    "name": "Петер Кристиан Сковгор",
+    "status": "no_match_in_checked_index",
+    "file": "artist-56c0d5bc54e1bc1cd45e.json",
+    "works": 0
+  },
+  {
+    "artistId": "jorgen_roed",
+    "name": "Йёрген Рёд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fbd342ff7ec9137fd0d4.json",
+    "works": 0
+  },
+  {
+    "artistId": "vilhelm_kyhn",
+    "name": "Вильхельм Кюн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-139e9b0c24b6162c5300.json",
+    "works": 0
+  },
+  {
+    "artistId": "johan_laurentz_jensen",
+    "name": "Йохан Лауренц Йенсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b1eb3a8e7d1a092cf387.json",
+    "works": 0
+  },
+  {
+    "artistId": "christoffer_wilhelm_eckersberg",
+    "name": "Кристоффер Вильхельм Эккерсберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-46c980bcb972c48542e3.json",
+    "works": 0
+  },
+  {
+    "artistId": "peder_severin_kroyer",
+    "name": "Педер Северин Крёйер",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-8bcee34e204d7904ec71.json",
+    "works": 1
+  },
+  {
+    "artistId": "michael_ancher",
+    "name": "Михаэль Анкер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-cb2d69ee11c8de06e26b.json",
+    "works": 0
+  },
+  {
+    "artistId": "viggo_johansen",
+    "name": "Вигго Йохансен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fbc70d7025c279ac019e.json",
+    "works": 0
+  },
+  {
+    "artistId": "holger_drachmann",
+    "name": "Хольгер Дракман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-42ff1caa1013456976b0.json",
+    "works": 0
+  },
+  {
+    "artistId": "karl_madsen",
+    "name": "Карл Мадсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-25b37cdda68e06ac7ddb.json",
+    "works": 0
+  },
+  {
+    "artistId": "laurits_tuxen",
+    "name": "Лауриц Туксен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fbc847709ff26dac492e.json",
+    "works": 0
+  },
+  {
+    "artistId": "julius_paulsen",
+    "name": "Юлиус Паульсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-97acd9fe56621a04f7b2.json",
+    "works": 0
+  },
+  {
+    "artistId": "georg_achen",
+    "name": "Георг Ахен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5b6aae83fd9730ee694e.json",
+    "works": 0
+  },
+  {
+    "artistId": "hans_andersen_brendekilde",
+    "name": "Ханс Андерсен Брендекилле",
+    "status": "no_match_in_checked_index",
+    "file": "artist-40a6f0de0ba720489bd1.json",
+    "works": 0
+  },
+  {
+    "artistId": "johan_christian_dahl",
+    "name": "Йохан Кристиан Даль",
+    "status": "no_match_in_checked_index",
+    "file": "artist-9edaeb3c32fb0bdc2b65.json",
+    "works": 0
+  },
+  {
+    "artistId": "thomas_fearnley",
+    "name": "Томас Фернли",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ca4e5c6d6e6e52b68c39.json",
+    "works": 0
+  },
+  {
+    "artistId": "hans_gude",
+    "name": "Ханс Гуде",
+    "status": "no_match_in_checked_index",
+    "file": "artist-56ebd78ea0e6ddfdf843.json",
+    "works": 0
+  },
+  {
+    "artistId": "adolph_tidemand",
+    "name": "Адольф Тидеманд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d568bc6379b9d9ea24e8.json",
+    "works": 0
+  },
+  {
+    "artistId": "christian_krohg",
+    "name": "Кристиан Крог",
+    "status": "no_match_in_checked_index",
+    "file": "artist-10e7ba6465fc3899eb96.json",
+    "works": 0
+  },
+  {
+    "artistId": "erik_werenskiold",
+    "name": "Эрик Вереншёлль",
+    "status": "no_match_in_checked_index",
+    "file": "artist-2aef857dcc2895894d2c.json",
+    "works": 0
+  },
+  {
+    "artistId": "frits_thaulow",
+    "name": "Фриц Таулов",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f8886ef72b96309a4c80.json",
+    "works": 0
+  },
+  {
+    "artistId": "peder_balke",
+    "name": "Педер Балке",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c173a920908de4d35383.json",
+    "works": 0
+  },
+  {
+    "artistId": "harald_sohlberg",
+    "name": "Харальд Сульберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8ada99439e37c9cb018c.json",
+    "works": 0
+  },
+  {
+    "artistId": "nikolai_astrup",
+    "name": "Николай Аструп",
+    "status": "no_match_in_checked_index",
+    "file": "artist-646844996f501d2f0c69.json",
+    "works": 0
+  },
+  {
+    "artistId": "eilif_peterssen",
+    "name": "Эйлиф Петерссен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-611a9b5562190bc7b8e0.json",
+    "works": 0
+  },
+  {
+    "artistId": "gerhard_munthe",
+    "name": "Герхард Мунте",
+    "status": "no_match_in_checked_index",
+    "file": "artist-7659dd8896132d56f3e1.json",
+    "works": 0
+  },
+  {
+    "artistId": "theodor_kittelsen",
+    "name": "Теодор Киттельсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-baa54e410703dec4eb21.json",
+    "works": 0
+  },
+  {
+    "artistId": "halfdan_egedius",
+    "name": "Хальфдан Эгедиус",
+    "status": "no_match_in_checked_index",
+    "file": "artist-a5e8d70ee0c8b7ef99ba.json",
+    "works": 0
+  },
+  {
+    "artistId": "gustav_wentzel",
+    "name": "Густав Вентцель",
+    "status": "no_match_in_checked_index",
+    "file": "artist-f2a1967a605291d014a8.json",
+    "works": 0
+  },
+  {
+    "artistId": "ludvig_karsten",
+    "name": "Людвиг Карстен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1e9bab8e038c5f86ce44.json",
+    "works": 0
+  },
+  {
+    "artistId": "christian_skredsvig",
+    "name": "Кристиан Скредсвиг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b3d3d9a0a3232c1604c3.json",
+    "works": 0
+  },
+  {
+    "artistId": "johan_fredrik_eckersberg",
+    "name": "Йохан Фредрик Эккерсберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-58fcbc305b48198e74e0.json",
+    "works": 0
+  },
+  {
+    "artistId": "amaldus_nielsen",
+    "name": "Амальдус Нильсен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-aa247314d2f510d229cc.json",
+    "works": 0
+  },
+  {
+    "artistId": "oscar_wergeland",
+    "name": "Оскар Вергеланн",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fe4aef4a8fbc1f28271d.json",
+    "works": 0
+  },
+  {
+    "artistId": "carl_larsson",
+    "name": "Карл Ларссон",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-d7c28906512eeaba8645.json",
+    "works": 1
+  },
+  {
+    "artistId": "anders_zorn",
+    "name": "Андерс Цорн",
+    "status": "has_metadata_supported_candidates",
+    "file": "artist-226a09ba0ba5e034448d.json",
+    "works": 1
+  },
+  {
+    "artistId": "bruno_liljefors",
+    "name": "Бруно Лильефорс",
+    "status": "no_match_in_checked_index",
+    "file": "artist-abe962a78a36f6bc0853.json",
+    "works": 0
+  },
+  {
+    "artistId": "richard_bergh",
+    "name": "Рихард Берг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-afe6fb948b18c260a408.json",
+    "works": 0
+  },
+  {
+    "artistId": "ernst_josephson",
+    "name": "Эрнст Юсефсон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ee33b207ce7e20fca217.json",
+    "works": 0
+  },
+  {
+    "artistId": "nils_kreuger",
+    "name": "Нильс Крейгер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-93790c90ff3b94879aff.json",
+    "works": 0
+  },
+  {
+    "artistId": "karl_nordstrom",
+    "name": "Карл Нордстрём",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6d8522df520f69e0dcc3.json",
+    "works": 0
+  },
+  {
+    "artistId": "eugene_jansson",
+    "name": "Эжен Янссон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-52845bd203b180f88633.json",
+    "works": 0
+  },
+  {
+    "artistId": "prince_eugen",
+    "name": "Принц Евгений",
+    "status": "no_match_in_checked_index",
+    "file": "artist-00371171129c416125e2.json",
+    "works": 0
+  },
+  {
+    "artistId": "gustaf_fjaestad",
+    "name": "Густав Фьестад",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8c86a9d4c76558dbe39f.json",
+    "works": 0
+  },
+  {
+    "artistId": "akseli_gallen_kallela",
+    "name": "Аксели Галлен-Каллела",
+    "status": "no_match_in_checked_index",
+    "file": "artist-10af5c2ceec592ac6507.json",
+    "works": 0
+  },
+  {
+    "artistId": "albert_edelfelt",
+    "name": "Альберт Эдельфельт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-88632d7b866102de16b1.json",
+    "works": 0
+  },
+  {
+    "artistId": "hugo_simberg",
+    "name": "Хуго Симберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-80e8fafcaeaa2960d381.json",
+    "works": 0
+  },
+  {
+    "artistId": "magnus_enckell",
+    "name": "Магнус Энкель",
+    "status": "no_match_in_checked_index",
+    "file": "artist-b6f301d3258eff7bee76.json",
+    "works": 0
+  },
+  {
+    "artistId": "eero_jarnefelt",
+    "name": "Ээро Ярнефельт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1f7b495205064aa2d9c8.json",
+    "works": 0
+  },
+  {
+    "artistId": "pekka_halonen",
+    "name": "Пекка Халонен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-df1c37bc95e722d00ac8.json",
+    "works": 0
+  },
+  {
+    "artistId": "ferdinand_von_wright",
+    "name": "Фердинанд фон Вригт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dee1ca37b3dbed1d8604.json",
+    "works": 0
+  },
+  {
+    "artistId": "magnus_von_wright",
+    "name": "Магнус фон Вригт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-8fa5a172459e3d4ac018.json",
+    "works": 0
+  },
+  {
+    "artistId": "werner_holmberg",
+    "name": "Вернер Хольмберг",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fa76a82063362a6197b9.json",
+    "works": 0
+  },
+  {
+    "artistId": "victor_westerholm",
+    "name": "Виктор Вестерхольм",
+    "status": "no_match_in_checked_index",
+    "file": "artist-041cf63dd712b259e2c1.json",
+    "works": 0
+  },
+  {
+    "artistId": "robert_wilhelm_ekman",
+    "name": "Роберт Вильгельм Экман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d0076c037f5f3a4cddb7.json",
+    "works": 0
+  },
+  {
+    "artistId": "alexander_laureus",
+    "name": "Александр Лауреус",
+    "status": "no_match_in_checked_index",
+    "file": "artist-570ee99e4eec4e3d028a.json",
+    "works": 0
+  },
+  {
+    "artistId": "berndt_lindholm",
+    "name": "Берндт Линдхольм",
+    "status": "no_match_in_checked_index",
+    "file": "artist-c5687bede97dbb1693f1.json",
+    "works": 0
+  },
+  {
+    "artistId": "hjalmar_munsterhjelm",
+    "name": "Яльмар Мунстеръельм",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5de31da0ffb4e71bd4a7.json",
+    "works": 0
+  },
+  {
+    "artistId": "adolf_von_becker",
+    "name": "Адольф фон Беккер",
+    "status": "no_match_in_checked_index",
+    "file": "artist-dbdbf47e0abb1f583db0.json",
+    "works": 0
+  },
+  {
+    "artistId": "severin_falkman",
+    "name": "Северин Фалькман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-d84ab60265a01dd9cc11.json",
+    "works": 0
+  },
+  {
+    "artistId": "vaino_blomstedt",
+    "name": "Вяйнё Блумстедт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-51bf5fc3a5e4ec81e6d9.json",
+    "works": 0
+  },
+  {
+    "artistId": "juho_rissanen",
+    "name": "Юхо Риссанен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-ef68efd3f8ecc70cd39c.json",
+    "works": 0
+  },
+  {
+    "artistId": "tyko_sallinen",
+    "name": "Тюко Саллинен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-62508a38cc6c37725ee5.json",
+    "works": 0
+  },
+  {
+    "artistId": "alvar_cawen",
+    "name": "Алвар Кавен",
+    "status": "no_match_in_checked_index",
+    "file": "artist-315307235017a6b15870.json",
+    "works": 0
+  },
+  {
+    "artistId": "gunnar_berndtson",
+    "name": "Гуннар Берндтсон",
+    "status": "no_match_in_checked_index",
+    "file": "artist-652e7f48704f29b1e6ae.json",
+    "works": 0
+  },
+  {
+    "artistId": "oskar_kleineh",
+    "name": "Оскар Клейне",
+    "status": "no_match_in_checked_index",
+    "file": "artist-5d5b1018e0415fefa575.json",
+    "works": 0
+  },
+  {
+    "artistId": "arvid_liljelund",
+    "name": "Арвид Лильелунд",
+    "status": "no_match_in_checked_index",
+    "file": "artist-523fe3ff1d7aa678ed14.json",
+    "works": 0
+  },
+  {
+    "artistId": "fredrik_ahlstedt",
+    "name": "Фредрик Альштедт",
+    "status": "no_match_in_checked_index",
+    "file": "artist-6869291e94a701b71883.json",
+    "works": 0
+  },
+  {
+    "artistId": "axel_haartman",
+    "name": "Аксель Хаартман",
+    "status": "no_match_in_checked_index",
+    "file": "artist-1f35575ef616eb1b40ac.json",
+    "works": 0
+  },
+  {
+    "artistId": "alfred_william_finch",
+    "name": "Альфред Уильям Финч",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e20d3467bf682f1e25f2.json",
+    "works": 0
+  },
+  {
+    "artistId": "jalmari_ruokokoski",
+    "name": "Ялмари Руококоски",
+    "status": "no_match_in_checked_index",
+    "file": "artist-fa8cf2850bbcb71050bd.json",
+    "works": 0
+  },
+  {
+    "artistId": "yrjo_ollila",
+    "name": "Юрьё Оллила",
+    "status": "no_match_in_checked_index",
+    "file": "artist-00832f347de245f8f111.json",
+    "works": 0
+  },
+  {
+    "artistId": "vaino_kunnas",
+    "name": "Вяйнё Куннас",
+    "status": "no_match_in_checked_index",
+    "file": "artist-576925d7e28bf7f826fa.json",
+    "works": 0
+  },
+  {
+    "artistId": "juho_makela",
+    "name": "Юхо Мякеля",
+    "status": "no_match_in_checked_index",
+    "file": "artist-e7219f9e2a8c774d7e8f.json",
+    "works": 0
+  }
+]

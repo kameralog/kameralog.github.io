@@ -1,0 +1,40 @@
+{
+  "work": "Q4006168",
+  "title": "Portrait of an unknown man with a letter",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00292965"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Hans memling, uomo con la lettera, uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Hans_memling%2C_uomo_con_la_lettera%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/68/Hans_memling%2C_uomo_con_la_lettera%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_memling,_uomo_con_la_lettera,_uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hans Memling",
+        "credit": "book:AA.VV., Galleria degli Uffizi, collana I Grandi Musei del Mondo, Scala Group, Roma 2003.",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:04:32.717Z"
+      },
+      "width": 801,
+      "height": 1164
+    }
+  ]
+}

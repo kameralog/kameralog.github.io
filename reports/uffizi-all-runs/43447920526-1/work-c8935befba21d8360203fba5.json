@@ -1,0 +1,41 @@
+{
+  "work": "Q116912709",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1857",
+    "A759"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Hyacinthe Rigand - Autoportrait dit «à la palette» - A759 - Uffizi Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hyacinthe_Rigand_-_Autoportrait_dit_%C2%AB%C3%A0_la_palette%C2%BB_-_A759_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hyacinthe_Rigand_-_Autoportrait_dit_%C2%AB%C3%A0_la_palette%C2%BB_-_A759_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyacinthe_Rigand_-_Autoportrait_dit_%C2%AB%C3%A0_la_palette%C2%BB_-_A759_-_Uffizi_Gallery.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hyacinthe Rigaud",
+        "credit": "https://www.hyacinthe-rigaud.com/catalogue-raisonne-hyacinthe-rigaud/autoportraits/962-rigaud-hyacinthe-8",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:17:19.750Z"
+      },
+      "width": 782,
+      "height": 984
+    }
+  ]
+}

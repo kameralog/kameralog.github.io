@@ -1,0 +1,16 @@
+{
+  "artistId": "william_holman_hunt",
+  "name": "Уильям Холман Хант",
+  "latin": "William Holman Hunt",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52329846",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c6ea288ff2bbcaa1691c7f07.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

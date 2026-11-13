@@ -1,0 +1,40 @@
+{
+  "work": "Q2267509",
+  "title": "The Return of Judith to Bethulia",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00188555"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sandro Botticelli - Retour de Judith 1.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sandro_Botticelli_-_Retour_de_Judith_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sandro_Botticelli_-_Retour_de_Judith_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Retour_de_Judith_1.JPG",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli",
+        "credit": "Botticelli : de Laurent le Magnifique à Savonarole : catalogue de l'exposition à Paris, Musée du Luxembourg, du 1er octobre 2003 au 22 février 2004 et à Florence, Palazzo Strozzi, du 10 mars au 11 juillet 2004. Milan : Skira editore, Paris : Musée du Luxembourg, 2003. ISBN 9788884915641",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:03:32.667Z"
+      },
+      "width": 2040,
+      "height": 2745
+    }
+  ]
+}

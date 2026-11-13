@@ -1,0 +1,40 @@
+{
+  "work": "Q3937792",
+  "title": "Portrait of a man",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287709"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Parmigianino, ritratto maschile uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Parmigianino%2C_ritratto_maschile_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/23/Parmigianino%2C_ritratto_maschile_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmigianino,_ritratto_maschile_uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Parmigianino",
+        "credit": "Self-scanned",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:09:19.786Z"
+      },
+      "width": 1451,
+      "height": 2081
+    }
+  ]
+}

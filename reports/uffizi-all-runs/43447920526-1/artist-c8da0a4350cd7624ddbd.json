@@ -1,0 +1,16 @@
+{
+  "artistId": "cecilia_beaux",
+  "name": "Сесилия Бо",
+  "latin": "Cecilia Beaux",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q23010022",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c2f604638d17e2e0249b7ab0.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

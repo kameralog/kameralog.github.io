@@ -1,0 +1,22 @@
+{
+  "artistId": "simon_vouet",
+  "name": "Симон Вуэ",
+  "latin": "Simon Vouet",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241487",
+      "title": "Q114241487",
+      "status": "needs_review",
+      "file": "work-9652023bf189aef135a79a6a.json"
+    },
+    {
+      "work": "Q52331038",
+      "title": "self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-08658885b0628c04bb4f4dd6.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q28798129",
+  "title": "Portrait of Battista Sforza",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "3342"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Battista sforza.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Battista_sforza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Battista_sforza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Battista_sforza.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Piero della Francesca",
+        "credit": "(per Virtual Uffizi http://www.virtualuffizi.com/uffizi1/artista.asp?Autore=Piero+della+Francesca",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:07:08.669Z"
+      },
+      "width": 2407,
+      "height": 3390
+    }
+  ]
+}

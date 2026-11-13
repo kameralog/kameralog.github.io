@@ -1,0 +1,52 @@
+{
+  "artistId": "giuseppe_maria_crespi",
+  "name": "Джузеппе Мария Креспи",
+  "latin": "Giuseppe Maria Crespi",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q116912667",
+      "title": "Self-portrait of Giuseppe Maria Crespi (1665-1747) in the midst of his family, in the background a small painting with a caricature of the Bolognese priest, Silva",
+      "status": "needs_review",
+      "file": "work-8e35ff4af275e6a27291e28d.json"
+    },
+    {
+      "work": "Q116912703",
+      "title": "Still life with birds and a gun.",
+      "status": "needs_review",
+      "file": "work-8717f39126320a44253c93bb.json"
+    },
+    {
+      "work": "Q116912708",
+      "title": "The scullery",
+      "status": "needs_review",
+      "file": "work-722b0f9887acc2827f13468c.json"
+    },
+    {
+      "work": "Q116912713",
+      "title": "The Fair at Poggio a Caiano",
+      "status": "needs_review",
+      "file": "work-0263456fea244c5f6ebe96b0.json"
+    },
+    {
+      "work": "Q28465975",
+      "title": "Donna che lava i piatti",
+      "status": "needs_review",
+      "file": "work-0aaaac7e8b805ab1129f2676.json"
+    },
+    {
+      "work": "Q50939921",
+      "title": "Woman Searching for Fleas",
+      "status": "needs_review",
+      "file": "work-ce19a41cf959703e19be7986.json"
+    },
+    {
+      "work": "Q9150125",
+      "title": "Amor and Psyche",
+      "status": "needs_review",
+      "file": "work-fd6ac5d058d7c947bedafb6b.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

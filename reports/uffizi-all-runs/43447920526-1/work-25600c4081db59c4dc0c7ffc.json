@@ -1,0 +1,40 @@
+{
+  "work": "Q109320432",
+  "title": "Portrait of Caspar Schoppe",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "198"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Peter Paul Rubens - Portrait of Kaspar Scioppius - WGA20354.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Peter_Paul_Rubens_-_Portrait_of_Kaspar_Scioppius_-_WGA20354.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Peter_Paul_Rubens_-_Portrait_of_Kaspar_Scioppius_-_WGA20354.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Portrait_of_Kaspar_Scioppius_-_WGA20354.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Peter Paul Rubens",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"r/rubens/41portra/05sciopp\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:09:33.294Z"
+      },
+      "width": 971,
+      "height": 1300
+    }
+  ]
+}

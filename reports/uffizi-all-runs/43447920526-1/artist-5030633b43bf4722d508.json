@@ -1,0 +1,16 @@
+{
+  "artistId": "pieter_boel",
+  "name": "Питер Буль",
+  "latin": "Pieter Boel",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q116912623",
+      "title": "Q116912623",
+      "status": "needs_review",
+      "file": "work-f18485174fd1f2b2f4f0863b.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,38 @@
+{
+  "work": "Q108314527",
+  "title": "Portrait of the Dwarf Nano Morgante",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Nano Morgante.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nano_Morgante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nano_Morgante.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Nano_Morgante.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "http://newsru.co.il/pict/id/large/406397_20101208161008.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:04:38.626Z"
+      },
+      "width": 640,
+      "height": 480
+    }
+  ]
+}

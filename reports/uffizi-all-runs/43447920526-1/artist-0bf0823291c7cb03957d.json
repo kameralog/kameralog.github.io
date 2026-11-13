@@ -1,0 +1,22 @@
+{
+  "artistId": "claude_lorrain",
+  "name": "Клод Лоррен",
+  "latin": "Claude Lorrain (Claude Gellée)",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241452",
+      "title": "Q114241452",
+      "status": "metadata_passed_not_visual",
+      "file": "work-171ee3598eda922da1bba747.json"
+    },
+    {
+      "work": "Q51078137",
+      "title": "Port Scene with the Villa Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-da6a469ac7c90cfb9743b601.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

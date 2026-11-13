@@ -1,0 +1,22 @@
+{
+  "artistId": "diego_velazquez",
+  "name": "Диего Веласкес",
+  "latin": "Diego Velázquez",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q24237929",
+      "title": "Self-portrait",
+      "status": "needs_review",
+      "file": "work-6b80bc9e3304e823fd8cbce7.json"
+    },
+    {
+      "work": "Q24325684",
+      "title": "Portrait of Philip IV of Spain on Horseback",
+      "status": "needs_review",
+      "file": "work-d55e0b6d23c1c9e136d456bd.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

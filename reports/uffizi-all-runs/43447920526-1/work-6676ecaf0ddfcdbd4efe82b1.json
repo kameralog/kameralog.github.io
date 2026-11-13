@@ -1,0 +1,40 @@
+{
+  "work": "Q3937781",
+  "title": "Female Portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286545"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Cranach, ritratto di donna, uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cranach%2C_ritratto_di_donna%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cranach%2C_ritratto_di_donna%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Cranach,_ritratto_di_donna,_uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lucas Cranach the Elder and workshop",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/c/cranach/lucas_e/13/06woman1\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:04:23.603Z"
+      },
+      "width": 700,
+      "height": 1086
+    }
+  ]
+}

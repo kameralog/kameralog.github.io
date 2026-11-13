@@ -1,0 +1,44 @@
+{
+  "work": "Q131704141",
+  "title": "Christ and the Adulteress",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "129"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Ludovico Mazzolino, Cristo e l'adultera, circa 1526.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ludovico_Mazzolino%2C_Cristo_e_l%27adultera%2C_circa_1526.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ludovico_Mazzolino%2C_Cristo_e_l%27adultera%2C_circa_1526.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Ludovico_Mazzolino,_Cristo_e_l%27adultera,_circa_1526.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Francesco Bini",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:13:15.309Z"
+      },
+      "width": 2370,
+      "height": 2986
+    }
+  ]
+}

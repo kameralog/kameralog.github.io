@@ -1,0 +1,40 @@
+{
+  "work": "Q137886266",
+  "title": "Portrait du théologien Giulio Gagliardi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "4000-1890"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Guerchin 40.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Guerchin_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Guerchin_40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Guerchin_40.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Guercino",
+        "credit": "https://vasari.fr/Tableaux/IMAGES/G/Guerchin/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:15:16.223Z"
+      },
+      "width": 568,
+      "height": 576
+    }
+  ]
+}

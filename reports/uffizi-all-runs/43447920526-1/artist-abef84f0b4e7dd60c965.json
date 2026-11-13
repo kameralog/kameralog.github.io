@@ -1,0 +1,16 @@
+{
+  "artistId": "daniele_da_volterra",
+  "name": "Даниеле да Вольтерра",
+  "latin": "Daniele da Volterra",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q28466203",
+      "title": "The Massacre of the Innocents",
+      "status": "metadata_passed_not_visual",
+      "file": "work-33faa5a7918e9483a67a91e8.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

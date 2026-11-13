@@ -1,0 +1,16 @@
+{
+  "artistId": "marco_palmezzano",
+  "name": "Марко Пальмеццано",
+  "latin": "Marco Palmezzano",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3698198",
+      "title": "Crucifixion",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a7a456550e0d3081ea537f6e.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

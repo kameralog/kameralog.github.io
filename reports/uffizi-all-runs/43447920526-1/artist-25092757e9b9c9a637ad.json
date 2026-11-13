@@ -1,0 +1,154 @@
+{
+  "artistId": "andrea_del_sarto",
+  "name": "Андреа дель Сарто",
+  "latin": "Andrea del Sarto",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1235695",
+      "title": "Madonna of the Harpies",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ab77eb0219c7f5f5f8d52233.json"
+    },
+    {
+      "work": "Q1241129",
+      "title": "San Gallo Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-200b017d4a9c540d2a543724.json"
+    },
+    {
+      "work": "Q131561263",
+      "title": "Drawing by Andrea del Sarto (Uffizi, 328 F)",
+      "status": "needs_review",
+      "file": "work-28af551d2848056c639fc130.json"
+    },
+    {
+      "work": "Q131561264",
+      "title": "Drawing by Andrea del Sarto (Uffizi, 632 E)",
+      "status": "needs_review",
+      "file": "work-c4bd9b391ff048e2ccc0891e.json"
+    },
+    {
+      "work": "Q131561265",
+      "title": "Drawing by Andrea del Sarto (Uffizi, 669 E)",
+      "status": "needs_review",
+      "file": "work-49ec35bd8e36524a60feb4ae.json"
+    },
+    {
+      "work": "Q18613323",
+      "title": "Annunciation with the saints Michael the Archangel and Godenzo",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a52d6b9edf490a0a261545db.json"
+    },
+    {
+      "work": "Q3618188",
+      "title": "Della Scala Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-684bff551cf0ce6f487dfb7a.json"
+    },
+    {
+      "work": "Q3627380",
+      "title": "Passerini Assumption",
+      "status": "metadata_passed_not_visual",
+      "file": "work-883ba03dea6565d9eb5f46c1.json"
+    },
+    {
+      "work": "Q3627381",
+      "title": "Panciatichi Assumption",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1de268e39b89026d8407c45b.json"
+    },
+    {
+      "work": "Q3630715",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-be3bd94c41dd16c9ede8067a.json"
+    },
+    {
+      "work": "Q3701197",
+      "title": "Lady with a book of Petrarch's rhyme",
+      "status": "metadata_passed_not_visual",
+      "file": "work-77a66b9b187ecffb3541599f.json"
+    },
+    {
+      "work": "Q3701199",
+      "title": "Portrait of a Woman with a Basket of Spindles",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7bbb04a1a67fb40afe1c6048.json"
+    },
+    {
+      "work": "Q3710280",
+      "title": "The Disputation on the Trinity",
+      "status": "metadata_passed_not_visual",
+      "file": "work-72564cfd5a68c46318b9bc3c.json"
+    },
+    {
+      "work": "Q3714445",
+      "title": "Vallombrosa Altarpiece",
+      "status": "metadata_passed_not_visual",
+      "file": "work-23d5296552bbf1955766e0c1.json"
+    },
+    {
+      "work": "Q3771677",
+      "title": "Joseph interpreting Pharaoh's dresm",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5b6c2841042dbcd068fbf2ae.json"
+    },
+    {
+      "work": "Q3842749",
+      "title": "Assumption of the Virgin",
+      "status": "metadata_passed_not_visual",
+      "file": "work-787f8a90cfb36ed84974f132.json"
+    },
+    {
+      "work": "Q3877890",
+      "title": "Noli me tangere",
+      "status": "metadata_passed_not_visual",
+      "file": "work-67637aacf29c4d0369d0707c.json"
+    },
+    {
+      "work": "Q3889243",
+      "title": "Gambassi Altarpiece",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f7b82467338dac8a5bd24256.json"
+    },
+    {
+      "work": "Q3904409",
+      "title": "Pietà with Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-13a283bb1d5daf2448a1c1f1.json"
+    },
+    {
+      "work": "Q3944461",
+      "title": "Bracci Holy Family",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ddecdda24e6215c2237c4cc9.json"
+    },
+    {
+      "work": "Q3944463",
+      "title": "Madonna with child, Saint Elizabeth, and Saint John",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8daccbe4fb95db1e39cd7593.json"
+    },
+    {
+      "work": "Q3947281",
+      "title": "Saint John the Baptist as a Boy",
+      "status": "metadata_passed_not_visual",
+      "file": "work-12e95f9a094f48ec2ee3fd14.json"
+    },
+    {
+      "work": "Q3947375",
+      "title": "Saint James",
+      "status": "needs_review",
+      "file": "work-d40553e6cb2c5a40c57cd3c7.json"
+    },
+    {
+      "work": "Q3974456",
+      "title": "Stories of Joseph",
+      "status": "metadata_passed_not_visual",
+      "file": "work-382a14b28e2fc4ed325841d1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

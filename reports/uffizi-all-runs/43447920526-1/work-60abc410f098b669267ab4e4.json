@@ -1,0 +1,41 @@
+{
+  "work": "Q3947292",
+  "title": "Saint Jerome Reading in the Desert",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "Contini Bonacossi 25",
+    "25"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Giovanni Bellini — Saint Jerome Reading in the Desert.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Giovanni_Bellini_%E2%80%94_Saint_Jerome_Reading_in_the_Desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/25/Giovanni_Bellini_%E2%80%94_Saint_Jerome_Reading_in_the_Desert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_%E2%80%94_Saint_Jerome_Reading_in_the_Desert.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Bellini",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:12:19.803Z"
+      },
+      "width": 3964,
+      "height": 5188
+    }
+  ]
+}

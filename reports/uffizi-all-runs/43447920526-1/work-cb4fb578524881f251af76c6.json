@@ -1,0 +1,38 @@
+{
+  "work": "Q120290938",
+  "title": "Architectural View",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Viviano Codazzi - Architectural View - WGA5104.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Viviano_Codazzi_-_Architectural_View_-_WGA5104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/61/Viviano_Codazzi_-_Architectural_View_-_WGA5104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Viviano_Codazzi_-_Architectural_View_-_WGA5104.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Viviano Codazzi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/codazzi/archview\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12561,
+        "checkedAt": "2026-11-13T15:15:38.732Z"
+      },
+      "width": 800,
+      "height": 596
+    }
+  ]
+}

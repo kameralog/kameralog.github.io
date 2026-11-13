@@ -1,0 +1,28 @@
+{
+  "artistId": "bonaventura_berlinghieri",
+  "name": "Бонавентура Берлингьери",
+  "latin": "Bonaventura Berlinghieri",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q141671207",
+      "title": "Diptych: Crucifixion",
+      "status": "needs_review",
+      "file": "work-f223001f9157c5680181b90a.json"
+    },
+    {
+      "work": "Q141671268",
+      "title": "Diptych: Madonna and Child with Saints",
+      "status": "needs_review",
+      "file": "work-7cad1d5b9d4ffc4ad73081a7.json"
+    },
+    {
+      "work": "Q3711898",
+      "title": "Diptych of crucifixion and Madonna and Child",
+      "status": "needs_review",
+      "file": "work-c3b5c1ef12cdaf74be03ecde.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

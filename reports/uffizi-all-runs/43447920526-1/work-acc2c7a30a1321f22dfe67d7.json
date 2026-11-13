@@ -1,0 +1,40 @@
+{
+  "work": "Q3975686",
+  "title": "Massacre of the Innocents",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287552"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Mazzolino (attr.), strage degli innocenti, ante 1525, uffizi 2.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mazzolino_%28attr.%29%2C_strage_degli_innocenti%2C_ante_1525%2C_uffizi_2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mazzolino_%28attr.%29%2C_strage_degli_innocenti%2C_ante_1525%2C_uffizi_2.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Mazzolino_(attr.),_strage_degli_innocenti,_ante_1525,_uffizi_2.jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Ludovico Mazzolino",
+        "credit": "http://www.polomuseale.firenze.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:13:19.808Z"
+      },
+      "width": 998,
+      "height": 676
+    }
+  ]
+}

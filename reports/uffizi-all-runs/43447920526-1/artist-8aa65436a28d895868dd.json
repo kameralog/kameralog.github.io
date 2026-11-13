@@ -1,0 +1,40 @@
+{
+  "artistId": "dosso_dossi",
+  "name": "Доссо Досси",
+  "latin": "Dosso Dossi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131588045",
+      "title": "Nymph and Satyr",
+      "status": "needs_review",
+      "file": "work-fbf575abbcd3da0f5c8a8977.json"
+    },
+    {
+      "work": "Q3612423",
+      "title": "Witchcraft (Allegory of Hercules)",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6a002343a94144a0c68627be.json"
+    },
+    {
+      "work": "Q3620828",
+      "title": "The Virgin Appearing to Sts John the Baptist and John the Evangelist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2cca53131e93643fc36b2b18.json"
+    },
+    {
+      "work": "Q3936369",
+      "title": "Rest on the Flight into Egypt",
+      "status": "metadata_passed_not_visual",
+      "file": "work-92d46ca8a467de1012651a9e.json"
+    },
+    {
+      "work": "Q3937734",
+      "title": "Portrait of a warrior",
+      "status": "metadata_passed_not_visual",
+      "file": "work-666e06032263a7a39346778e.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

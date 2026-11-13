@@ -1,0 +1,40 @@
+{
+  "work": "Q123751969",
+  "title": "Christ the Redeemer",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "228"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Vecellio Tiziano - Cristo Salvatore - 228 - Galleria Palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vecellio_Tiziano_-_Cristo_Salvatore_-_228_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Vecellio_Tiziano_-_Cristo_Salvatore_-_228_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Vecellio_Tiziano_-_Cristo_Salvatore_-_228_-_Galleria_Palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Central Institute for Catalogues and Documentation",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:08:26.907Z"
+      },
+      "width": 1007,
+      "height": 1280
+    }
+  ]
+}

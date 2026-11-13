@@ -1,0 +1,40 @@
+{
+  "work": "Q116979305",
+  "title": "Portrait of Philipp Melanchton",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "472"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "PhilippMelanchthon.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PhilippMelanchthon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/47/PhilippMelanchthon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:PhilippMelanchthon.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lucas Cranach the Elder and workshop",
+        "credit": "1. Originally uploaded to en.wikipedia 2. Bridgeman Art Library : Object 228519",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12565,
+        "checkedAt": "2026-11-13T15:04:14.531Z"
+      },
+      "width": 1228,
+      "height": 1750
+    }
+  ]
+}

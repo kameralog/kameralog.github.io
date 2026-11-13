@@ -1,0 +1,16 @@
+{
+  "artistId": "charles_de_la_fosse",
+  "name": "Шарль де Лафосс",
+  "latin": "Charles de La Fosse",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241450",
+      "title": "Q114241450",
+      "status": "needs_review",
+      "file": "work-8a052aa68ad748db101a1232.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,28 @@
+{
+  "artistId": "mattia_preti",
+  "name": "Маттиа Прети",
+  "latin": "Mattia Preti",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131704142",
+      "title": "Christ and the Obsessed",
+      "status": "needs_review",
+      "file": "work-43dd4996ff0aabf7157397fb.json"
+    },
+    {
+      "work": "Q48917755",
+      "title": "Vanitas",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ecf24e46ca9cd3265483ddae.json"
+    },
+    {
+      "work": "Q52154856",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-695dffa56787041dfc95b2c5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "hans_baldung",
+  "name": "Ганс Бальдунг",
+  "latin": "Hans Baldung",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q3605052",
+      "title": "Adam and Eve",
+      "status": "needs_review",
+      "file": "work-4fae328455819bc2c31b89c5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

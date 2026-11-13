@@ -1,0 +1,64 @@
+{
+  "work": "Q3947062",
+  "title": "Saint Philip",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286570"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Durer, san filippo.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Durer%2C_san_filippo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Durer%2C_san_filippo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Durer,_san_filippo.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Albrecht Dürer",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"d/durer/1/08/6apostl2\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:09:09.284Z"
+      },
+      "width": 804,
+      "height": 985
+    },
+    {
+      "file": "Albrecht Dürer 009.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Albrecht_D%C3%BCrer_009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/42/Albrecht_D%C3%BCrer_009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_009.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Albrecht Dürer",
+        "credit": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:09:10.851Z"
+      },
+      "width": 1576,
+      "height": 1914
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "jacques_louis_david",
+  "name": "Жак Луи Давид",
+  "latin": "Jacques-Louis David",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q2872721",
+      "title": "Self-portrait with three collars",
+      "status": "metadata_passed_not_visual",
+      "file": "work-be76eeeff7ff0ef26560f1d0.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,142 @@
+{
+  "artistId": "agnolo_bronzino",
+  "name": "Аньоло Бронзино",
+  "latin": "Agnolo Bronzino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q108314527",
+      "title": "Portrait of the Dwarf Nano Morgante",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1e1cb3449d443f6613ecbe73.json"
+    },
+    {
+      "work": "Q111577849",
+      "title": "Pygmalion and Galatea",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f454577c52ec006c000057dc.json"
+    },
+    {
+      "work": "Q113825024",
+      "title": "Portrait of Guidobaldo II della Rovere",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0833a58dbee15fc40fd57d6c.json"
+    },
+    {
+      "work": "Q124350611",
+      "title": "Portrait of Cardinal Ippolito de’ Medici",
+      "status": "needs_review",
+      "file": "work-2f93f82ae8c754d95ff08b6f.json"
+    },
+    {
+      "work": "Q125964860",
+      "title": "Alessandro de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8fa4e64a7d478dca96752d68.json"
+    },
+    {
+      "work": "Q126727913",
+      "title": "Portrait of Lucrezia di Cosimo",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f44a36d549f35daf1dd6dd70.json"
+    },
+    {
+      "work": "Q128610363",
+      "title": "Ferdinando I de' medici as a child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-bf2365dbca50d8364cbb9bef.json"
+    },
+    {
+      "work": "Q131463514",
+      "title": "Portrait of Luca Martini",
+      "status": "metadata_passed_not_visual",
+      "file": "work-df0ab657448e693b175a0300.json"
+    },
+    {
+      "work": "Q131675981",
+      "title": "The Ten Thousand Martyrs",
+      "status": "needs_review",
+      "file": "work-0fe4d651c82ea4a37c61f562.json"
+    },
+    {
+      "work": "Q1328065",
+      "title": "Portrait of Eleanor of Toledo and her son Giovanni de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-61264c7915454a36554911c1.json"
+    },
+    {
+      "work": "Q1990128",
+      "title": "Portrait of Lucrezia Panciatichi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9702cb82e87c3709b0c299e6.json"
+    },
+    {
+      "work": "Q3625842",
+      "title": "Portrait of Cosimo I de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e1139b59a9859c2dc9f2f550.json"
+    },
+    {
+      "work": "Q3784272",
+      "title": "Portrait of Giovanni de' Medici as a Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c687b7989cd3a723ccaf4bb5.json"
+    },
+    {
+      "work": "Q3937472",
+      "title": "Portrait of Bia de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2985c456840c8f10610ab06b.json"
+    },
+    {
+      "work": "Q3937473",
+      "title": "Portrait of Bartolomeo Panciatichi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9d89bb36ad28604a61cadb0c.json"
+    },
+    {
+      "work": "Q3944462",
+      "title": "Panciatichi Holy Family",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d84c28362db152f126e3facc.json"
+    },
+    {
+      "work": "Q48814933",
+      "title": "Portrait of a girl",
+      "status": "metadata_passed_not_visual",
+      "file": "work-10446175cb5455c2b509f0b2.json"
+    },
+    {
+      "work": "Q50378007",
+      "title": "Portrait of Francesco I de' Medici as a Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-45a0ebf678183c0f74ba6d78.json"
+    },
+    {
+      "work": "Q50378015",
+      "title": "Maria (di Cosimo I) de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2f0bf09be7aa8aa0d043118b.json"
+    },
+    {
+      "work": "Q50384906",
+      "title": "Portrait of a young man with a lute",
+      "status": "metadata_passed_not_visual",
+      "file": "work-edc0277143b271e0f0c218c1.json"
+    },
+    {
+      "work": "Q50474718",
+      "title": "Allegory of fortune",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7d59f24dd6c32f82d22c9e34.json"
+    },
+    {
+      "work": "Q83295755",
+      "title": "Pietà with Saint Mary Magdalene",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b073b77099c0277d07b99a0b.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,28 @@
+{
+  "artistId": "ambrogio_lorenzetti",
+  "name": "Амброджо Лоренцетти",
+  "latin": "Ambrogio Lorenzetti",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3910903",
+      "title": "Presentation at the Temple",
+      "status": "metadata_passed_not_visual",
+      "file": "work-daa176464c38c8f1e75daed0.json"
+    },
+    {
+      "work": "Q3974495",
+      "title": "Stories of Saint Nicholas",
+      "status": "needs_review",
+      "file": "work-bb3079faccd09c9ecffce09b.json"
+    },
+    {
+      "work": "Q3999127",
+      "title": "Altarpiece of St Proculus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a9a1198fd51d1eb5c4d93966.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

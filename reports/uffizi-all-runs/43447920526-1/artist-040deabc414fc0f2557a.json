@@ -1,0 +1,16 @@
+{
+  "artistId": "mario_balassi",
+  "name": "Марио Баласси",
+  "latin": "Mario Balassi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q110896440",
+      "title": "Portrait of Virginia de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-38aef963acbee6a880d030c4.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

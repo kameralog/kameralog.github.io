@@ -1,0 +1,64 @@
+{
+  "artistId": "carlo_dolci",
+  "name": "Карло Дольчи",
+  "latin": "Carlo Dolci",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q112580459",
+      "title": "The Crucifixion of Saint Andrew",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7e728645f0378236382ec69b.json"
+    },
+    {
+      "work": "Q112580569",
+      "title": "Portrait of Stefano Della Bella",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9ebba0d9038eb955f4ab2b89.json"
+    },
+    {
+      "work": "Q116912716",
+      "title": "Vase of tulips, Narcissi, anemones and buttercups with a basin of tulips",
+      "status": "needs_review",
+      "file": "work-754d4d9618b49479516a9724.json"
+    },
+    {
+      "work": "Q126965536",
+      "title": "Ritratto dell'Arciduchessa Claudia come Galla Placidia",
+      "status": "metadata_passed_not_visual",
+      "file": "work-53bd6b0aca91857ce24991ba.json"
+    },
+    {
+      "work": "Q130999140",
+      "title": "Portrait of Vittoria della Rovere",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2702c50e38ba651a7241a17f.json"
+    },
+    {
+      "work": "Q131627588",
+      "title": "Vase of flowers and a basin",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6ad5cbaf0ccd0af6b35539e9.json"
+    },
+    {
+      "work": "Q137399945",
+      "title": "Moses",
+      "status": "metadata_passed_not_visual",
+      "file": "work-87bf400c6f8ba4a90dd185d2.json"
+    },
+    {
+      "work": "Q52155142",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9caa3615cfae28ff2a20696f.json"
+    },
+    {
+      "work": "Q97933450",
+      "title": "Portrait of Ainolfo de Bardi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ef337d639ddf89407c2a2845.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

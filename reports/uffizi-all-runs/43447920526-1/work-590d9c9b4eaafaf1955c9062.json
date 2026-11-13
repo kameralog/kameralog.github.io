@@ -1,0 +1,40 @@
+{
+  "work": "Q3937458",
+  "title": "Portrait of Alvise Cornaro",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "83"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tintoretto - ritratto di Alvise Cornaro, 1188258, Galleria Palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tintoretto_-_ritratto_di_Alvise_Cornaro%2C_1188258%2C_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tintoretto_-_ritratto_di_Alvise_Cornaro%2C_1188258%2C_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_ritratto_di_Alvise_Cornaro,_1188258,_Galleria_Palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "https://catalogo.uffizi.it/it/viewer/#/main/viewer?idMetadato=1188258&type=iccd",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:05:31.500Z"
+      },
+      "width": 779,
+      "height": 1024
+    }
+  ]
+}

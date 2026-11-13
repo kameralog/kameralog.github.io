@@ -1,0 +1,64 @@
+{
+  "work": "Q2011510",
+  "title": "Bacchus",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "5312"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Baco, por Caravaggio.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Baco%2C_por_Caravaggio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/96/Baco%2C_por_Caravaggio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Baco,_por_Caravaggio.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Caravaggio",
+        "credit": "Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:09:24.261Z"
+      },
+      "width": 2633,
+      "height": 3000
+    },
+    {
+      "file": "Bacchus by Caravaggio 1.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bacchus_by_Caravaggio_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bacchus_by_Caravaggio_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bacchus_by_Caravaggio_1.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Caravaggio",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12574,
+        "checkedAt": "2026-11-13T15:09:25.713Z"
+      },
+      "width": 5700,
+      "height": 6648
+    }
+  ]
+}

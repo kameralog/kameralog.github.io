@@ -1,0 +1,22 @@
+{
+  "artistId": "cima_da_conegliano",
+  "name": "Чима да Конельяно",
+  "latin": "Giovanni Battista Cima da Conegliano",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3842464",
+      "title": "Madonna and Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fc25da989edbd4b56f01012a.json"
+    },
+    {
+      "work": "Q3947301",
+      "title": "Saint Jerome",
+      "status": "metadata_passed_not_visual",
+      "file": "work-49ccc6d605205c4bd4d6fe28.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

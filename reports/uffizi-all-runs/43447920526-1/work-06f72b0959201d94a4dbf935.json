@@ -1,0 +1,40 @@
+{
+  "work": "Q30310406",
+  "title": "Lunette with Three Hovering Angels",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "187 E"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Botticelli, disegno, tre angeli.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Botticelli%2C_disegno%2C_tre_angeli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/62/Botticelli%2C_disegno%2C_tre_angeli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Botticelli,_disegno,_tre_angeli.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli",
+        "credit": "www.wga.hu",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:03:43.144Z"
+      },
+      "width": 1162,
+      "height": 500
+    }
+  ]
+}

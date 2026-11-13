@@ -1,0 +1,40 @@
+{
+  "work": "Q52157937",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "3351"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sargent, John SInger (1856-1925) - Self-Portrait 1907 b.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sargent%2C_John_SInger_%281856-1925%29_-_Self-Portrait_1907_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Sargent%2C_John_SInger_%281856-1925%29_-_Self-Portrait_1907_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sargent,_John_SInger_(1856-1925)_-_Self-Portrait_1907_b.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "John Singer Sargent",
+        "credit": "http://www.shaw-morton.co.uk/a-brief-history-of-oil-painting-technique/ http://www.shaw-morton.co.uk/wp-content/uploads/2013/09/John-Singer-Sargent_SelfPortrait.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12576,
+        "checkedAt": "2026-11-13T15:10:40.735Z"
+      },
+      "width": 2727,
+      "height": 3683
+    }
+  ]
+}

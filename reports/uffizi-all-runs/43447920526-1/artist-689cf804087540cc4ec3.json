@@ -1,0 +1,16 @@
+{
+  "artistId": "giampietrino",
+  "name": "Джампьетрино",
+  "latin": "Giampietrino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3948942",
+      "title": "Saint Catherine of Alexandria",
+      "status": "metadata_passed_not_visual",
+      "file": "work-bba3ab9e57fa77c80717f30e.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

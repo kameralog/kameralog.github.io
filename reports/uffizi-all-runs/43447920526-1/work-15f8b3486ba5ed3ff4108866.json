@@ -1,0 +1,40 @@
+{
+  "work": "Q111822118",
+  "title": "Sacrifice of Isaac",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "95"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Isaac Cigoli.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Isaac_Cigoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Isaac_Cigoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Isaac_Cigoli.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Cigoli",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/cigoli/isaac\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:16:24.184Z"
+      },
+      "width": 801,
+      "height": 1076
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q3612423",
+  "title": "Witchcraft (Allegory of Hercules)",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287860"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Dosso Dossi 004.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dosso_Dossi_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Dosso_Dossi_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_004.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Dosso Dossi",
+        "credit": "Dosso Dossi , Ercole ed Omfale (Allegoria della stegoneria). Ca. 1535. Galleria degli Uffizi, Firenze.",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:13:07.844Z"
+      },
+      "width": 1181,
+      "height": 1198
+    }
+  ]
+}

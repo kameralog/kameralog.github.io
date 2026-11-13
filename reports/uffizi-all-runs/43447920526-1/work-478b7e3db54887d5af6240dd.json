@@ -1,0 +1,40 @@
+{
+  "work": "Q3685123",
+  "title": "Lamentation",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "64"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fra Bartolomeo - Lamentation - WGA1369.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fra_Bartolomeo_-_Lamentation_-_WGA1369.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fra_Bartolomeo_-_Lamentation_-_WGA1369.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Bartolomeo_-_Lamentation_-_WGA1369.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Fra Bartolomeo",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/bartolom/fra/lamentat\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:13:24.376Z"
+      },
+      "width": 1109,
+      "height": 900
+    }
+  ]
+}

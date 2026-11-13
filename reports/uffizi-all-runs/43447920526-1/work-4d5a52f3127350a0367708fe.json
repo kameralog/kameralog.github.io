@@ -1,0 +1,40 @@
+{
+  "work": "Q125022101",
+  "title": "John the Baptist in the desert",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "305"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Allori C San Giovanni.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Allori_C_San_Giovanni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/26/Allori_C_San_Giovanni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Allori_C_San_Giovanni.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Cristofano Allori",
+        "credit": "http://www.rz.uni-leipzig.de/ru/bilder/johannes/allorit1.htm",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:15.199Z"
+      },
+      "width": 997,
+      "height": 1361
+    }
+  ]
+}

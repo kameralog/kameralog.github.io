@@ -1,0 +1,28 @@
+{
+  "artistId": "bruegel",
+  "name": "Питер Брейгель Старший",
+  "latin": "Pieter Bruegel the Elder",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q121508938",
+      "title": "The wedding dance",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b4a6d7dc1862b663b1271ef8.json"
+    },
+    {
+      "work": "Q139859775",
+      "title": "Road to Calvary",
+      "status": "needs_review",
+      "file": "work-762a313d93d4f66486ac6c5c.json"
+    },
+    {
+      "work": "Q3775535",
+      "title": "Large Calvary",
+      "status": "metadata_passed_not_visual",
+      "file": "work-510fe5193225d9e024f4923c.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

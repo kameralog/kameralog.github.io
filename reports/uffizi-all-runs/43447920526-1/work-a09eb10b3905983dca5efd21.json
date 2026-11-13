@@ -1,0 +1,41 @@
+{
+  "work": "Q131466408",
+  "title": "i giocatori di carte",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bartolomeo manfredi, i giocatori di carte, 1617 ca. 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bartolomeo_manfredi%2C_i_giocatori_di_carte%2C_1617_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bartolomeo_manfredi%2C_i_giocatori_di_carte%2C_1617_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bartolomeo_manfredi,_i_giocatori_di_carte,_1617_ca._01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:14:53.570Z"
+      },
+      "width": 4260,
+      "height": 3162
+    }
+  ]
+}

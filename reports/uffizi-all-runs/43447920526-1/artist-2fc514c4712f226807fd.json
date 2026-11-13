@@ -1,0 +1,28 @@
+{
+  "artistId": "sodoma",
+  "name": "Содома",
+  "latin": "Sodoma",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q117775408",
+      "title": "Q117775408",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1f85615179a232aea5ad1b6b.json"
+    },
+    {
+      "work": "Q131613924",
+      "title": "Standard of Saint Sebastian",
+      "status": "metadata_passed_not_visual",
+      "file": "work-da512092a49984a0d02e41d3.json"
+    },
+    {
+      "work": "Q3697669",
+      "title": "Man of Sorrows",
+      "status": "metadata_passed_not_visual",
+      "file": "work-08325eb56749855ca2d489f5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

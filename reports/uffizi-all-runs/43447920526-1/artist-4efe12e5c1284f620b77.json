@@ -1,0 +1,16 @@
+{
+  "artistId": "paolo_uccello",
+  "name": "Паоло Уччелло",
+  "latin": "Paolo Uccello",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q18564202",
+      "title": "Niccolò Mauruzi da Tolentino unseats Bernardino della Ciarda at the Battle of San Romano",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0ddeea5ea097b8208489fa12.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,106 @@
+{
+  "artistId": "peter_paul_rubens",
+  "name": "Питер Пауль Рубенс",
+  "latin": "Peter Paul Rubens",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q109320432",
+      "title": "Portrait of Caspar Schoppe",
+      "status": "metadata_passed_not_visual",
+      "file": "work-25600c4081db59c4dc0c7ffc.json"
+    },
+    {
+      "work": "Q12955980",
+      "title": "The Three Graces",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7f74e0a5010e776bab41ebb1.json"
+    },
+    {
+      "work": "Q131501683",
+      "title": "Judith and Holofernes",
+      "status": "needs_review",
+      "file": "work-55f3205c6d0394addabc1ebd.json"
+    },
+    {
+      "work": "Q131542585",
+      "title": "Drunken Bacchus",
+      "status": "needs_review",
+      "file": "work-ff1b10cf88c149b94dfa0010.json"
+    },
+    {
+      "work": "Q16938315",
+      "title": "The Triumphal Entry of Henry IV into Paris",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a985becbb50147c1276a1337.json"
+    },
+    {
+      "work": "Q2894005",
+      "title": "The Four Philosophers",
+      "status": "metadata_passed_not_visual",
+      "file": "work-28f6f17ff8025fcd06a3460e.json"
+    },
+    {
+      "work": "Q3687201",
+      "title": "Consequences of War",
+      "status": "metadata_passed_not_visual",
+      "file": "work-78befc543b48e9d2a284844b.json"
+    },
+    {
+      "work": "Q3725832",
+      "title": "Henry IV at the Battle of Ivry, 14 March 1590",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5b2b059b68961b5169fca276.json"
+    },
+    {
+      "work": "Q3842661",
+      "title": "Madonna of the Basket",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5b78407e52907f659fca5c79.json"
+    },
+    {
+      "work": "Q3933573",
+      "title": "Resurrection",
+      "status": "metadata_passed_not_visual",
+      "file": "work-80e55b0f0da2a17d4f2d015f.json"
+    },
+    {
+      "work": "Q3937365",
+      "title": "The Peasants Returning From The Fields",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b539e7702d0b3a59a02dc21c.json"
+    },
+    {
+      "work": "Q4003067",
+      "title": "Odysseus on the island of the Phaecians",
+      "status": "metadata_passed_not_visual",
+      "file": "work-981a086c440f220a28cb3d3f.json"
+    },
+    {
+      "work": "Q52331037",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c06c003fb305bc06f3584c76.json"
+    },
+    {
+      "work": "Q52333696",
+      "title": "Self-portrait with hat",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ff77ef5574cebb686cdd8260.json"
+    },
+    {
+      "work": "Q65971659",
+      "title": "Portrait of Isabella Brant",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0c1853656c78f357c027c5c7.json"
+    },
+    {
+      "work": "Q65971920",
+      "title": "Portrait of Judith with the Head of Holofernes",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9aafca1cf38b110c85654e8d.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

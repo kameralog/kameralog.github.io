@@ -1,0 +1,40 @@
+{
+  "work": "Q3944473",
+  "title": "Madonna and Child with Saints",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "893"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lorenzo Lotto (Venezia, 1480 - Loreto, 1556) - Sacra Famiglia con San Girolamo - 893 - Uffizi Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lorenzo_Lotto_%28Venezia%2C_1480_-_Loreto%2C_1556%29_-_Sacra_Famiglia_con_San_Girolamo_-_893_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/95/Lorenzo_Lotto_%28Venezia%2C_1480_-_Loreto%2C_1556%29_-_Sacra_Famiglia_con_San_Girolamo_-_893_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_(Venezia,_1480_-_Loreto,_1556)_-_Sacra_Famiglia_con_San_Girolamo_-_893_-_Uffizi_Gallery.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo Lotto",
+        "credit": "uffizi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:13:00.328Z"
+      },
+      "width": 3851,
+      "height": 3022
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q4009552",
+  "title": "Venus",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285599"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lorenzo di credi, venere.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lorenzo_di_credi%2C_venere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Lorenzo_di_credi%2C_venere.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_di_credi,_venere.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo di Credi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"l/lorenzo/credi/venus\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:12:33.251Z"
+      },
+      "width": 493,
+      "height": 1201
+    }
+  ]
+}

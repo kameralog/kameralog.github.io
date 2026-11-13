@@ -1,0 +1,40 @@
+{
+  "artistId": "canaletto",
+  "name": "Каналетто",
+  "latin": "Canaletto (Giovanni Antonio Canal)",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q18683500",
+      "title": "View of the Grand Canal",
+      "status": "metadata_passed_not_visual",
+      "file": "work-92c3782e17a37cad38e27029.json"
+    },
+    {
+      "work": "Q18683513",
+      "title": "View of the Ducal Palace in Venice",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d378b642c46964328fb20577.json"
+    },
+    {
+      "work": "Q19660718",
+      "title": "The Tower at Marghera",
+      "status": "needs_review",
+      "file": "work-9f36c4fb5163b41ad8291707.json"
+    },
+    {
+      "work": "Q19681713",
+      "title": "Capriccio with Lagoon and a Tomb",
+      "status": "needs_review",
+      "file": "work-6397f029a5fb115222ac0946.json"
+    },
+    {
+      "work": "Q19681714",
+      "title": "Lagoon with House and Campanile",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fd79c117f230b8683d97cd81.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

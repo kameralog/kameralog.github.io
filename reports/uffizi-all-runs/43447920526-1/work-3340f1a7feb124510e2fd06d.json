@@ -1,0 +1,40 @@
+{
+  "work": "Q114241461",
+  "title": "Portrait of Jacques-Bénigne Bossuet",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "995"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "1698 - Jacques-Bénigne Bossuet (Florence).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/1698_-_Jacques-B%C3%A9nigne_Bossuet_%28Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ab/1698_-_Jacques-B%C3%A9nigne_Bossuet_%28Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:1698_-_Jacques-B%C3%A9nigne_Bossuet_(Florence).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hyacinthe Rigaud",
+        "credit": "Florence, Galerie des Offices",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:17:18.264Z"
+      },
+      "width": 1611,
+      "height": 2008
+    }
+  ]
+}

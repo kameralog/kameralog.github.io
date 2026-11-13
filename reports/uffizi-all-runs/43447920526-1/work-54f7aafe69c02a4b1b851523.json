@@ -1,0 +1,44 @@
+{
+  "work": "Q114241448",
+  "title": "Q114241448",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1858"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Nicolas de largillierre, ritratto di charles le brun, 1683-1684.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nicolas_de_largillierre%2C_ritratto_di_charles_le_brun%2C_1683-1684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nicolas_de_largillierre%2C_ritratto_di_charles_le_brun%2C_1683-1684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Nicolas_de_largillierre,_ritratto_di_charles_le_brun,_1683-1684.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Francesco Bini",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:17:15.257Z"
+      },
+      "width": 3752,
+      "height": 4448
+    }
+  ]
+}

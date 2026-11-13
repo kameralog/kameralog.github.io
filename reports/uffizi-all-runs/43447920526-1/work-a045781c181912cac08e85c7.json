@@ -1,0 +1,40 @@
+{
+  "work": "Q3842724",
+  "title": "Madonna with child",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00188380"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Angelico, madonna col bambino, uffizi, 1425-1449.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Angelico%2C_madonna_col_bambino%2C_uffizi%2C_1425-1449.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Angelico%2C_madonna_col_bambino%2C_uffizi%2C_1425-1449.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelico,_madonna_col_bambino,_uffizi,_1425-1449.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Fra Angelico",
+        "credit": "John Pope-Hennessy, Beato Angelico, Scala, Firenze 1981.",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:03:14.635Z"
+      },
+      "width": 1096,
+      "height": 2449
+    }
+  ]
+}

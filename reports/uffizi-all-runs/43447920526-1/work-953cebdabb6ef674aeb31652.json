@@ -1,0 +1,40 @@
+{
+  "work": "Q27978428",
+  "title": "Esther before Ahasuerus",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "912"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Veronese - Esther before Ahasuerus.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Veronese_-_Esther_before_Ahasuerus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Veronese_-_Esther_before_Ahasuerus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Veronese_-_Esther_before_Ahasuerus.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Paolo Veronese",
+        "credit": "https://pureandlowly.wordpress.com/symbolised-2/esther-and-ahasuerus-by-paolo-veronese/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:06:12.667Z"
+      },
+      "width": 600,
+      "height": 438
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "jean_auguste_dominique_ingres",
+  "name": "Жан Огюст Доминик Энгр",
+  "latin": "Jean-Auguste-Dominique Ingres",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52156262",
+      "title": "self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cb7188253ee40095a0987aff.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

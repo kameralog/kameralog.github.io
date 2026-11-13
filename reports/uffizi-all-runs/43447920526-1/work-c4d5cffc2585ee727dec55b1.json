@@ -1,0 +1,40 @@
+{
+  "work": "Q28696302",
+  "title": "Portrait of Federico Zuccaro",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1690"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fede Galizia - Portrait of Federico Zuccaro.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Fede_Galizia_-_Portrait_of_Federico_Zuccaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/98/Fede_Galizia_-_Portrait_of_Federico_Zuccaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fede_Galizia_-_Portrait_of_Federico_Zuccaro.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Fede Galizia",
+        "credit": "https://www.raicultura.it/arte/articoli/2021/08/Fede-Galizia-la-pioniera-fb44090c-937a-468a-893b-8ef9c2ffb73b.html",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:17:51.201Z"
+      },
+      "width": 1419,
+      "height": 1827
+    }
+  ]
+}

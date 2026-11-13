@@ -1,0 +1,40 @@
+{
+  "work": "Q3926028",
+  "title": "Angel Playing the Lute",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1505"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rosso Fiorentino - Madonna dello Spedalingo - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rosso_Fiorentino_-_Madonna_dello_Spedalingo_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Rosso_Fiorentino_-_Madonna_dello_Spedalingo_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso_Fiorentino_-_Madonna_dello_Spedalingo_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Rosso Fiorentino",
+        "credit": "Google Arts & Culture — YgFYC_DCsZQu8A",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:13:53.048Z"
+      },
+      "width": 3342,
+      "height": 2665
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "artistId": "antonello_da_messina",
+  "name": "Антонелло да Мессина",
+  "latin": "Antonello da Messina",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131690602",
+      "title": "Madonna with Child, St. John the Evangelist and St. Benedict",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c0feeb2f98abe239d76f1df4.json"
+    },
+    {
+      "work": "Q3842503",
+      "title": "Madonna Uffizi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d6b707d3fe0bb48e481102fb.json"
+    },
+    {
+      "work": "Q3907481",
+      "title": "Polyptych of the doctors of the Church",
+      "status": "needs_review",
+      "file": "work-72934cc7ae5f7787f1ffb1d9.json"
+    },
+    {
+      "work": "Q3947253",
+      "title": "Saint John the Evangelist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0ba657878abfd721bf43e553.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

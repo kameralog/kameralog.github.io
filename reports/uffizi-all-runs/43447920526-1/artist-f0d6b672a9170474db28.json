@@ -1,0 +1,22 @@
+{
+  "artistId": "piero_di_cosimo",
+  "name": "Пьеро ди Козимо",
+  "latin": "Piero di Cosimo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3204084",
+      "title": "Incarnation of Jesus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2bbbb8a6118d4fa90c2d45dc.json"
+    },
+    {
+      "work": "Q3558043",
+      "title": "Perseus Freeing Andromeda",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2348f8cd997daecfd7fb5917.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

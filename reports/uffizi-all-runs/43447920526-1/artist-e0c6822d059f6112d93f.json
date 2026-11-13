@@ -1,0 +1,22 @@
+{
+  "artistId": "jacopo_del_sellaio",
+  "name": "Якопо дель Селлайо",
+  "latin": "Jacopo del Sellaio",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131675998",
+      "title": "Scenes from the Book of Esther",
+      "status": "needs_review",
+      "file": "work-165b0cbf2c8023104161cc9e.json"
+    },
+    {
+      "work": "Q3748926",
+      "title": "The Banquet of Ahasuerus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fac6adc7767cd3fbd9be4ef3.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

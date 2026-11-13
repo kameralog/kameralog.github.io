@@ -1,0 +1,22 @@
+{
+  "artistId": "herri_met_de_bles",
+  "name": "Херри мет де Блес",
+  "latin": "Herri met de Bles",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q116912622",
+      "title": "Q116912622",
+      "status": "needs_review",
+      "file": "work-f27a7083ec92ec6a7d2c2d02.json"
+    },
+    {
+      "work": "Q131674322",
+      "title": "Copper mine",
+      "status": "needs_review",
+      "file": "work-c4f6333027caa88900363adf.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

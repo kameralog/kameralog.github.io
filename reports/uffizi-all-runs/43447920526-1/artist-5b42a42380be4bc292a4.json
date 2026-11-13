@@ -1,0 +1,40 @@
+{
+  "artistId": "gerrit_van_honthorst",
+  "name": "Геррит ван Хонтхорст",
+  "latin": "Gerrit van Honthorst",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912598",
+      "title": "The Fortune Teller",
+      "status": "needs_review",
+      "file": "work-ba008362402a81cf7a425b59.json"
+    },
+    {
+      "work": "Q116912673",
+      "title": "Supper with a Lute Player",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0ff7fa573cd1a1d3901fb7a9.json"
+    },
+    {
+      "work": "Q116912674",
+      "title": "Dinner with nuptials",
+      "status": "needs_review",
+      "file": "work-029fa08e556385875a20294e.json"
+    },
+    {
+      "work": "Q116912724",
+      "title": "The Adoration of the Shepherds",
+      "status": "needs_review",
+      "file": "work-56a6c19b28ffb2d02e8afe7c.json"
+    },
+    {
+      "work": "Q18685777",
+      "title": "Adoration of the Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-990f4bff5f01eba5c7b7a575.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

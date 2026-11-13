@@ -1,0 +1,41 @@
+{
+  "work": "Q131703787",
+  "title": "carità romana",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bartolomeo manfredi, carità romana, 1610-20 ca.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bartolomeo_manfredi%2C_carit%C3%A0_romana%2C_1610-20_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Bartolomeo_manfredi%2C_carit%C3%A0_romana%2C_1610-20_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bartolomeo_manfredi,_carit%C3%A0_romana,_1610-20_ca.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:14:56.589Z"
+      },
+      "width": 3006,
+      "height": 3792
+    }
+  ]
+}

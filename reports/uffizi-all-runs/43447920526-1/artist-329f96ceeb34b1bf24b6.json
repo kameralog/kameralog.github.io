@@ -1,0 +1,58 @@
+{
+  "artistId": "luca_signorelli",
+  "name": "Лука Синьорелли",
+  "latin": "Luca Signorelli",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3207989",
+      "title": "Crucifixion of Christ with saints",
+      "status": "needs_review",
+      "file": "work-e4f415f28aa6adaa41748467.json"
+    },
+    {
+      "work": "Q3612416",
+      "title": "Allegory of Fertility and Abundance",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9c94deb826fabb499ca61155.json"
+    },
+    {
+      "work": "Q3698237",
+      "title": "Crucifixion with Saint Mary Magdalene",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9e564d46646f1cd00fe01e52.json"
+    },
+    {
+      "work": "Q3842435",
+      "title": "Trinity, the Virgin, and Two Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3fdadd824d139bd88d49117e.json"
+    },
+    {
+      "work": "Q3842589",
+      "title": "Madonna and Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-22b641138b2a77a04c90542b.json"
+    },
+    {
+      "work": "Q3944499",
+      "title": "The Holy Family with Saint",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e23590c0804196f65b3233c1.json"
+    },
+    {
+      "work": "Q3944500",
+      "title": "The Holy Family di Parte Guelfa",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7749fa19d7dd8cc921f124d3.json"
+    },
+    {
+      "work": "Q72274251",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d3b70b389c559e99a9599fcb.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,41 @@
+{
+  "work": "Q124530944",
+  "title": "chiamata di san pietro che cammina sulle acque",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alessandro allori, chiamata di san pietro che cammina sulle acque, 1595 ca. 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Alessandro_allori%2C_chiamata_di_san_pietro_che_cammina_sulle_acque%2C_1595_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Alessandro_allori%2C_chiamata_di_san_pietro_che_cammina_sulle_acque%2C_1595_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_chiamata_di_san_pietro_che_cammina_sulle_acque,_1595_ca._01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:54.203Z"
+      },
+      "width": 3336,
+      "height": 3732
+    }
+  ]
+}

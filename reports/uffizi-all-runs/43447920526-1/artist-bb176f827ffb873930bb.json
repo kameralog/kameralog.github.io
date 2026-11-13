@@ -1,0 +1,16 @@
+{
+  "artistId": "viviano_codazzi",
+  "name": "Вивиано Кодацци",
+  "latin": "Viviano Codazzi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q120290938",
+      "title": "Architectural View",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cb4fb578524881f251af76c6.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

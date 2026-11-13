@@ -1,0 +1,22 @@
+{
+  "artistId": "salvator_rosa",
+  "name": "Сальватор Роза",
+  "latin": "Salvator Rosa",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q115727218",
+      "title": "Marina del Porto",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e50540dd6bc5aca46eeead47.json"
+    },
+    {
+      "work": "Q133459806",
+      "title": "Allegory of lie",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a6814255e9676996a60e4125.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

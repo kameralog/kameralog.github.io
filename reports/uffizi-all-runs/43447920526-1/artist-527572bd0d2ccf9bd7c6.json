@@ -1,0 +1,16 @@
+{
+  "artistId": "francesco_melzi",
+  "name": "Франческо Мельци",
+  "latin": "Francesco Melzi",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q3829345",
+      "title": "Leda and the Swan",
+      "status": "needs_review",
+      "file": "work-26d371af418fd1e5f4e65a3d.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

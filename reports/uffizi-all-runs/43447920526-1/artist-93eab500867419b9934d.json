@@ -1,0 +1,28 @@
+{
+  "artistId": "jean_marc_nattier",
+  "name": "Жан-Марк Натье",
+  "latin": "Jean-Marc Nattier",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241470",
+      "title": "Portrait of Marie Zéphyrine of France",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1fec97ae58f0c556f132a20c.json"
+    },
+    {
+      "work": "Q16910479",
+      "title": "Marie Adelaide of France as Diana",
+      "status": "metadata_passed_not_visual",
+      "file": "work-51509c70d0cdcdcf0121b104.json"
+    },
+    {
+      "work": "Q16910581",
+      "title": "Henriette of France as Flora",
+      "status": "metadata_passed_not_visual",
+      "file": "work-104626437bd4e78b14a2a6d0.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

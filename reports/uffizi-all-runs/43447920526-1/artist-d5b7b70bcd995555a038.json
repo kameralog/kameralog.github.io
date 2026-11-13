@@ -1,0 +1,64 @@
+{
+  "artistId": "gentile_da_fabriano",
+  "name": "Джентиле да Фабриано",
+  "latin": "Gentile da Fabriano",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1055117",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5046c502134e0c478e662272.json"
+    },
+    {
+      "work": "Q111821582",
+      "title": "Adoration of the Three Kings - Birth of Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-43a0f699c81481481d547e4a.json"
+    },
+    {
+      "work": "Q111821584",
+      "title": "Adoration of the Three Kings - Pantocrator - Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d44b535a790a0af0ccd7ee52.json"
+    },
+    {
+      "work": "Q111821652",
+      "title": "Baptism of Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-833ae77679739dce5cd764fb.json"
+    },
+    {
+      "work": "Q111821958",
+      "title": "King David plays the harp",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3f6282559f8208d59f69bf8f.json"
+    },
+    {
+      "work": "Q111822206",
+      "title": "The young Mary in prayer",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8c1b068d47b9c9d498936734.json"
+    },
+    {
+      "work": "Q124308772",
+      "title": "Madonna annuniciata, angeli, Santi",
+      "status": "needs_review",
+      "file": "work-8aa0769fec2544bb42a9e1ab.json"
+    },
+    {
+      "work": "Q131501671",
+      "title": "Four saints from the Quaratesi Polyptich",
+      "status": "needs_review",
+      "file": "work-fe8b8ea8a3443eff44072f10.json"
+    },
+    {
+      "work": "Q3907477",
+      "title": "Quaratesi Polyptych",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f5307e644f4197e895d301f4.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

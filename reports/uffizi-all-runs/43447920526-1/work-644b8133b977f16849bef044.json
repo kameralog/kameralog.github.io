@@ -1,0 +1,40 @@
+{
+  "work": "Q3937767",
+  "title": "Portrait of an Old Man",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285576"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Filippino Lippi Portrait of old man.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Filippino_Lippi_Portrait_of_old_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/52/Filippino_Lippi_Portrait_of_old_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi_Portrait_of_old_man.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippino Lippi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/l/lippi/flippino/1/09oldman\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:03:01.096Z"
+      },
+      "width": 871,
+      "height": 1064
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "kustodiev",
+  "name": "Борис Кустодиев",
+  "latin": "Boris Kustodiev",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q30100850",
+      "title": "Self-Portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-451a02899060bca5843a11dc.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

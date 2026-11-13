@@ -1,0 +1,22 @@
+{
+  "artistId": "lorenzo_costa",
+  "name": "Лоренцо Коста",
+  "latin": "Lorenzo Costa",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3937548",
+      "title": "Portrait of Giovanni II Bentivoglio",
+      "status": "metadata_passed_not_visual",
+      "file": "work-bad0c7d288977c7fadcb7664.json"
+    },
+    {
+      "work": "Q3947944",
+      "title": "Saint Sebastian",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5c540271c6bef4276ea3b61a.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

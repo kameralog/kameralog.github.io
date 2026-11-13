@@ -1,0 +1,16 @@
+{
+  "artistId": "bernardo_zenale",
+  "name": "Бернардо Дзенале",
+  "latin": "Bernardo Zenale",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3907526",
+      "title": "Madonna and Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fe603f3aa8313e65e0659fb1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

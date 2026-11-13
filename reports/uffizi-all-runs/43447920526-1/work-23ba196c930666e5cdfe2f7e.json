@@ -1,0 +1,40 @@
+{
+  "work": "Q151047",
+  "title": "The Birth of Venus",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00158551"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli",
+        "credit": "Adjusted levels from File:Sandro Botticelli - La nascita di Venere - Google Art Project.jpg , originally from Google Art Project. Compression Photoshop level 9.",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12573,
+        "checkedAt": "2026-11-13T15:03:29.530Z"
+      },
+      "width": 30000,
+      "height": 18840
+    }
+  ]
+}

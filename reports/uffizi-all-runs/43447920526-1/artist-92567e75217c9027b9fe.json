@@ -1,0 +1,16 @@
+{
+  "artistId": "fede_galizia",
+  "name": "Феде Галиция",
+  "latin": "Fede Galizia",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q28696302",
+      "title": "Portrait of Federico Zuccaro",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c4d5cffc2585ee727dec55b1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

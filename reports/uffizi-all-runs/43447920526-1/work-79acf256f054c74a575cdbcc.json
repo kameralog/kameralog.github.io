@@ -1,0 +1,40 @@
+{
+  "work": "Q16670765",
+  "title": "Portrait of Alessandro de' Medici",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00021976"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alessandro de Medici Ruestung.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Alessandro_de_Medici_Ruestung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/72/Alessandro_de_Medici_Ruestung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_de_Medici_Ruestung.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giorgio Vasari",
+        "credit": "worldroots.com/brigitte/royal/arti-m.htm",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12615,
+        "checkedAt": "2026-11-13T15:06:56.694Z"
+      },
+      "width": 3512,
+      "height": 4850
+    }
+  ]
+}

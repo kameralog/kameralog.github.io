@@ -1,0 +1,40 @@
+{
+  "work": "Q113367191",
+  "title": "Portrait of a woman with a rosary",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287021"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Joos van cleve, doppio rirtratto (cropped2).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Joos_van_cleve%2C_doppio_rirtratto_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/98/Joos_van_cleve%2C_doppio_rirtratto_%28cropped2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Joos_van_cleve,_doppio_rirtratto_(cropped2).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Joos van Cleve",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/cleve/joos/double\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:14:04.948Z"
+      },
+      "width": 669,
+      "height": 950
+    }
+  ]
+}

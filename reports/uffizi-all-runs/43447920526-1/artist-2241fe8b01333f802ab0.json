@@ -1,0 +1,16 @@
+{
+  "artistId": "daniel_seghers",
+  "name": "Даниэл Сегерс",
+  "latin": "Daniël Seghers",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114391600",
+      "title": "Portrait of Archduke Leopold Willem of Austria in a flower garland",
+      "status": "needs_review",
+      "file": "work-f547ecab64ab1936e33a6566.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

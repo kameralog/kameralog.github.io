@@ -1,0 +1,67 @@
+{
+  "work": "Q50884435",
+  "title": "The Sacrifice of Isaac",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00288812"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "The Sacrifice of Isaac - Alessandro Allori.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Sacrifice_of_Isaac_-_Alessandro_Allori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_Sacrifice_of_Isaac_-_Alessandro_Allori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Sacrifice_of_Isaac_-_Alessandro_Allori.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Uffizi , image",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12591,
+        "checkedAt": "2026-11-13T15:16:58.746Z"
+      },
+      "width": 567,
+      "height": 400
+    },
+    {
+      "file": "Alessandro allori, sacrificio di isacco, 1601, 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alessandro_allori%2C_sacrificio_di_isacco%2C_1601%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alessandro_allori%2C_sacrificio_di_isacco%2C_1601%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_sacrificio_di_isacco,_1601,_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:17:00.204Z"
+      },
+      "width": 4272,
+      "height": 3306
+    }
+  ]
+}

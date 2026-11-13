@@ -1,0 +1,58 @@
+{
+  "artistId": "giorgio_vasari",
+  "name": "Джорджо Вазари",
+  "latin": "Giorgio Vasari",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q12118453",
+      "title": "Portrait of Lorenzo de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f655bf6cd70b2cab7bca0a4e.json"
+    },
+    {
+      "work": "Q125022698",
+      "title": "Allegory of the Immaculate Conception",
+      "status": "metadata_passed_not_visual",
+      "file": "work-910b86cf22a06356c73267f2.json"
+    },
+    {
+      "work": "Q131449675",
+      "title": "Allegory of Patience",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4abb67e776f9d4478ffa0765.json"
+    },
+    {
+      "work": "Q15974337",
+      "title": "The Forge of Vulcan",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2634d2f8cf74c6e34abb68cc.json"
+    },
+    {
+      "work": "Q16626564",
+      "title": "Portrait of Giorgio Vasari",
+      "status": "needs_review",
+      "file": "work-bc5803695a833079fc25c95b.json"
+    },
+    {
+      "work": "Q16670765",
+      "title": "Portrait of Alessandro de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-79acf256f054c74a575cdbcc.json"
+    },
+    {
+      "work": "Q17173923",
+      "title": "Artemisia mourning Mausolus",
+      "status": "needs_review",
+      "file": "work-e5455b2b1855cd7a940d9da0.json"
+    },
+    {
+      "work": "Q17354853",
+      "title": "The Prophet Elisha",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b1b784eb4cda299da283e4ec.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

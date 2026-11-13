@@ -1,0 +1,40 @@
+{
+  "work": "Q3605549",
+  "title": "Adoration of the Shepherds",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8399"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lorenzo di credi, adorazione di pastori.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lorenzo_di_credi%2C_adorazione_di_pastori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Lorenzo_di_credi%2C_adorazione_di_pastori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_di_credi,_adorazione_di_pastori.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo di Credi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/l/lorenzo/credi/shepherd\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:12:30.285Z"
+      },
+      "width": 801,
+      "height": 941
+    }
+  ]
+}

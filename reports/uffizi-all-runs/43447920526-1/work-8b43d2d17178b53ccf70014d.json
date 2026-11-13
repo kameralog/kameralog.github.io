@@ -1,0 +1,40 @@
+{
+  "work": "Q3618168",
+  "title": "Annunciation",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285290"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alesso baldovinetti, annunciazione.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Alesso_baldovinetti%2C_annunciazione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/26/Alesso_baldovinetti%2C_annunciazione.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alesso_baldovinetti,_annunciazione.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alesso Baldovinetti",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/baldovin/annuncia\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:12:34.749Z"
+      },
+      "width": 809,
+      "height": 1027
+    }
+  ]
+}

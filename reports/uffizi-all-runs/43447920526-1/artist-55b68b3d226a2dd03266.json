@@ -1,0 +1,16 @@
+{
+  "artistId": "nicolas_regnier",
+  "name": "Никола Ренье",
+  "latin": "Nicolas Régnier",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241478",
+      "title": "Q114241478",
+      "status": "needs_review",
+      "file": "work-a3c5a67d890ce6d12c7402e1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

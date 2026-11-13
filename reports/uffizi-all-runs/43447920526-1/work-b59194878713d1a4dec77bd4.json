@@ -1,0 +1,64 @@
+{
+  "work": "Q131561185",
+  "title": "Perspective Study for the Background of the Adoration of the Magi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "436 E"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Leonardo study AdorationofMagi.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Leonardo_study_AdorationofMagi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Leonardo_study_AdorationofMagi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_study_AdorationofMagi.JPG",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Leonardo da Vinci",
+        "credit": "Bortolon, The Life and Times of Leonardo , Paul Hamlyn",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:07:36.114Z"
+      },
+      "width": 2953,
+      "height": 1682
+    },
+    {
+      "file": "Leonardo, Studio per l'Adorazione dei Magi, Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Leonardo%2C_Studio_per_l%27Adorazione_dei_Magi%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Leonardo%2C_Studio_per_l%27Adorazione_dei_Magi%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo,_Studio_per_l%27Adorazione_dei_Magi,_Uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Leonardo da Vinci",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"l/leonardo/07study1/5adorat1\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:07:37.606Z"
+      },
+      "width": 1340,
+      "height": 770
+    }
+  ]
+}

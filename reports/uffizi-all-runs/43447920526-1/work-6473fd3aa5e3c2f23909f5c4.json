@@ -1,0 +1,40 @@
+{
+  "work": "Q20890597",
+  "title": "Country Road with Cornfields and Oak Tree",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1201"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Jacob Isaacksz. van Ruisdael - Landscape with Shepherds and Peasants - WGA20501.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jacob_Isaacksz._van_Ruisdael_-_Landscape_with_Shepherds_and_Peasants_-_WGA20501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/11/Jacob_Isaacksz._van_Ruisdael_-_Landscape_with_Shepherds_and_Peasants_-_WGA20501.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacob_Isaacksz._van_Ruisdael_-_Landscape_with_Shepherds_and_Peasants_-_WGA20501.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacob van Ruisdael",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"r/ruysdael/jacob/3/landshep\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:10:25.828Z"
+      },
+      "width": 1155,
+      "height": 1000
+    }
+  ]
+}

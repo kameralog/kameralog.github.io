@@ -1,0 +1,40 @@
+{
+  "work": "Q103884105",
+  "title": "Portrait of Leopoldo de’ Medici in swaddling",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "49"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiberio di Tito - Prince Leopoldo de' Medici in a Cradle - WGA22723.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tiberio_di_Tito_-_Prince_Leopoldo_de%27_Medici_in_a_Cradle_-_WGA22723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/59/Tiberio_di_Tito_-_Prince_Leopoldo_de%27_Medici_in_a_Cradle_-_WGA22723.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiberio_di_Tito_-_Prince_Leopoldo_de%27_Medici_in_a_Cradle_-_WGA22723.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Ligozzi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tito/tiberio/leopoldo\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:33.222Z"
+      },
+      "width": 1091,
+      "height": 900
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "artistId": "angelica_kauffmann",
+  "name": "Ангелика Кауфман",
+  "latin": "Angelica Kauffmann",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q23008412",
+      "title": "Self-Portrait in the Traditional Costume of the Bregenz Forest, Seated at her Easel",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9eb5e65b461899d4a7990dcd.json"
+    },
+    {
+      "work": "Q23008414",
+      "title": "Self-portrait of Angelica Kauffman",
+      "status": "metadata_passed_not_visual",
+      "file": "work-30d6dfa63824030aed637cfa.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

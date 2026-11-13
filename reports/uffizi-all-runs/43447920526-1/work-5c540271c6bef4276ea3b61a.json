@@ -1,0 +1,40 @@
+{
+  "work": "Q3947944",
+  "title": "Saint Sebastian",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00188378"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lorenzo Costa - Saint Sebastian.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lorenzo_Costa_-_Saint_Sebastian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lorenzo_Costa_-_Saint_Sebastian.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Costa_-_Saint_Sebastian.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo Costa",
+        "credit": "https://www.alessandro-giua.it/SEBASTIAN",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:12:39.246Z"
+      },
+      "width": 461,
+      "height": 650
+    }
+  ]
+}

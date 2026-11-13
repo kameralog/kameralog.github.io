@@ -1,0 +1,38 @@
+{
+  "work": "Q3605055",
+  "title": "Adam and Eve",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Cranach, adamo ed eva, uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cranach%2C_adamo_ed_eva%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Cranach%2C_adamo_ed_eva%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Cranach,_adamo_ed_eva,_uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lucas Cranach the Elder",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/cranach/lucas_e/07/adamev05\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12550,
+        "checkedAt": "2026-11-13T15:04:17.604Z"
+      },
+      "width": 1100,
+      "height": 1525
+    }
+  ]
+}

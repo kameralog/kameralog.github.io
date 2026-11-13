@@ -1,0 +1,40 @@
+{
+  "work": "Q3979942",
+  "title": "The Annunciation and Circumcision and Nativity of Christ",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00281679"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fra bartolomeo, tabernacolo del pugliese chiuso e aperto.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fra_bartolomeo%2C_tabernacolo_del_pugliese_chiuso_e_aperto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fra_bartolomeo%2C_tabernacolo_del_pugliese_chiuso_e_aperto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo,_tabernacolo_del_pugliese_chiuso_e_aperto.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Fra Bartolomeo",
+        "credit": "www.wga.hu",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:13:31.858Z"
+      },
+      "width": 921,
+      "height": 443
+    }
+  ]
+}

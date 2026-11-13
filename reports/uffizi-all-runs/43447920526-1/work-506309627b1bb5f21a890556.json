@@ -1,0 +1,38 @@
+{
+  "work": "Q3213753",
+  "title": "Madonna with child, Saint John the Baptist, and an angel",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pietro Perugino cat55.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pietro_Perugino_cat55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pietro_Perugino_cat55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat55.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:11:40.627Z"
+      },
+      "width": 2340,
+      "height": 2405
+    }
+  ]
+}

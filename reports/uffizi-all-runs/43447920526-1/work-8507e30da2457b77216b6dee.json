@@ -1,0 +1,40 @@
+{
+  "work": "Q4680810",
+  "title": "The Adoration of the Shepherds",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287773"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Ludovico Mazzolino - Adoration of the Shepherds - WGA14713.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ludovico_Mazzolino_-_Adoration_of_the_Shepherds_-_WGA14713.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ludovico_Mazzolino_-_Adoration_of_the_Shepherds_-_WGA14713.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Ludovico_Mazzolino_-_Adoration_of_the_Shepherds_-_WGA14713.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Ludovico Mazzolino",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/m/mazzolin/adoratio\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:13:21.327Z"
+      },
+      "width": 701,
+      "height": 962
+    }
+  ]
+}

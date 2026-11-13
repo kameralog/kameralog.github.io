@@ -1,0 +1,34 @@
+{
+  "artistId": "francesco_furini",
+  "name": "Франческо Фурини",
+  "latin": "Francesco Furini",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q104967205",
+      "title": "Painting and Poetry",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d6774fe156e8b98ee6beeb1f.json"
+    },
+    {
+      "work": "Q135163749",
+      "title": "Portrait of Vittoria della Rovere",
+      "status": "metadata_passed_not_visual",
+      "file": "work-68889e85ad4ce1918acc6f77.json"
+    },
+    {
+      "work": "Q135210600",
+      "title": "Self-portrait holding a palette",
+      "status": "metadata_passed_not_visual",
+      "file": "work-276f4cf9f031aad52272565a.json"
+    },
+    {
+      "work": "Q52154669",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ff730cd83c795bfe7364b5ad.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

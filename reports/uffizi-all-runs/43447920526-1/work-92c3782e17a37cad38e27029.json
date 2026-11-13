@@ -1,0 +1,40 @@
+{
+  "work": "Q18683500",
+  "title": "View of the Grand Canal",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1318"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Canaletto - Veduta del Canal Grande - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Canaletto_-_Veduta_del_Canal_Grande_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Canaletto_-_Veduta_del_Canal_Grande_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Canaletto_-_Veduta_del_Canal_Grande_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Antonio Canal",
+        "credit": "Google Arts & Culture — nQHYheDEFwQjdA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12578,
+        "checkedAt": "2026-11-13T15:10:48.074Z"
+      },
+      "width": 3720,
+      "height": 2331
+    }
+  ]
+}

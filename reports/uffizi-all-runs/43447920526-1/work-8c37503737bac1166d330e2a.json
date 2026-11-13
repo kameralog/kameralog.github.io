@@ -1,0 +1,40 @@
+{
+  "work": "Q131561181",
+  "title": "Studies of an Old Man and a Youth (Salai?) in Profile, Facing each Other",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "423 E"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Leonardo da vinci, Heads of an old man and a youth.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Leonardo_da_vinci%2C_Heads_of_an_old_man_and_a_youth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/04/Leonardo_da_vinci%2C_Heads_of_an_old_man_and_a_youth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci,_Heads_of_an_old_man_and_a_youth.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Leonardo da Vinci",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"l/leonardo/08heads/062heads\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:07:30.045Z"
+      },
+      "width": 704,
+      "height": 939
+    }
+  ]
+}

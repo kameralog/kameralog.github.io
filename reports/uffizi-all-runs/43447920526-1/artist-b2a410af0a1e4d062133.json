@@ -1,0 +1,16 @@
+{
+  "artistId": "sebastien_bourdon",
+  "name": "Себастьен Бурдон",
+  "latin": "Sébastien Bourdon",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241488",
+      "title": "Q114241488",
+      "status": "needs_review",
+      "file": "work-7f4cea4ab2b34a948db2c715.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

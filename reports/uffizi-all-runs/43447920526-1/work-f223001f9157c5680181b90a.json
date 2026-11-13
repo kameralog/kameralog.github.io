@@ -1,0 +1,40 @@
+{
+  "work": "Q141671207",
+  "title": "Diptych: Crucifixion",
+  "collections": [
+    "Q16335227"
+  ],
+  "inventories": [
+    "8575"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bonaventura berlinghieri, crocifissione, uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bonaventura_berlinghieri%2C_crocifissione%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bonaventura_berlinghieri%2C_crocifissione%2C_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bonaventura_berlinghieri,_crocifissione,_uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bonaventura Berlinghieri",
+        "credit": "Angelo Tartuferi, Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi , Polistampa, Firenze 2007",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:03:59.607Z"
+      },
+      "width": 792,
+      "height": 1344
+    }
+  ]
+}

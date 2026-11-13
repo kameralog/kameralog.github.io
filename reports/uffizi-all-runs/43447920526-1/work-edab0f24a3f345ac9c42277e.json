@@ -1,0 +1,64 @@
+{
+  "work": "Q18420689",
+  "title": "Venus with a Satyr and Cupids",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1452"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Annibale Carracci - Venus with a Satyr and Cupids - WGA4430.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/47/Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Annibale Carracci",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/carracci/annibale/1/venus_sc\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:15:05.555Z"
+      },
+      "width": 1019,
+      "height": 797
+    },
+    {
+      "file": "Annibale Carracci (or copy after), Venus, Satyr and Cupids, Chrysler Collection.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Annibale_Carracci_%28or_copy_after%29%2C_Venus%2C_Satyr_and_Cupids%2C_Chrysler_Collection.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Annibale_Carracci_%28or_copy_after%29%2C_Venus%2C_Satyr_and_Cupids%2C_Chrysler_Collection.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_(or_copy_after),_Venus,_Satyr_and_Cupids,_Chrysler_Collection.png",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Annibale Carracci",
+        "credit": "[unknow]",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/png",
+        "bytesInspected": 12565,
+        "checkedAt": "2026-11-13T15:15:06.996Z"
+      },
+      "width": 709,
+      "height": 557
+    }
+  ]
+}

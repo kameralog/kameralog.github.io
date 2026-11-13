@@ -1,0 +1,22 @@
+{
+  "artistId": "jacob_van_ruisdael",
+  "name": "Якоб ван Рёйсдал",
+  "latin": "Jacob van Ruisdael",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q20819833",
+      "title": "Landscape with a Waterfall",
+      "status": "metadata_passed_not_visual",
+      "file": "work-78936aff9d4ff3013a0513da.json"
+    },
+    {
+      "work": "Q20890597",
+      "title": "Country Road with Cornfields and Oak Tree",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6473fd3aa5e3c2f23909f5c4.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

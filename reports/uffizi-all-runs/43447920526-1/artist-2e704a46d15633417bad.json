@@ -1,0 +1,34 @@
+{
+  "artistId": "rembrandt",
+  "name": "Рембрандт ван Рейн",
+  "latin": "Rembrandt van Rijn",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q18226128",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-636198323b4670cc2592d877.json"
+    },
+    {
+      "work": "Q21469930",
+      "title": "A Rabbi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5179d58a083c95ced6f36faf.json"
+    },
+    {
+      "work": "Q21686804",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9036b4f627337c73d880b1a0.json"
+    },
+    {
+      "work": "Q3630762",
+      "title": "Tronie of a Young Man with Gorget and Beret",
+      "status": "needs_review",
+      "file": "work-a5c69f135dd2dee15a3755da.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,43 @@
+{
+  "work": "Q138427969",
+  "title": "Saint Joseph",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "inv. 51 E"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pietro perugino, san giuseppe, 1473 circa (gdsu).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pietro_perugino%2C_san_giuseppe%2C_1473_circa_%28gdsu%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pietro_perugino%2C_san_giuseppe%2C_1473_circa_%28gdsu%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_perugino,_san_giuseppe,_1473_circa_(gdsu).jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:11:34.639Z"
+      },
+      "width": 2754,
+      "height": 4098
+    }
+  ]
+}

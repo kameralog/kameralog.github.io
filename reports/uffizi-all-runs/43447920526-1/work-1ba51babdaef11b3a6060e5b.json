@@ -1,0 +1,40 @@
+{
+  "work": "Q3999120",
+  "title": "Benedetto Portinari triptych: Right wing, Portrait of a Praying Man",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286041 2"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Memling, trittico di Benedetto Portinari, ritratto, parte destra.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Memling%2C_trittico_di_Benedetto_Portinari%2C_ritratto%2C_parte_destra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/04/Memling%2C_trittico_di_Benedetto_Portinari%2C_ritratto%2C_parte_destra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Memling,_trittico_di_Benedetto_Portinari,_ritratto,_parte_destra.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hans Memling",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"m/memling/3mature6/33nopor3\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:04:31.132Z"
+      },
+      "width": 850,
+      "height": 1171
+    }
+  ]
+}

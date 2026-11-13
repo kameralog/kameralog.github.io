@@ -1,0 +1,40 @@
+{
+  "work": "Q3889222",
+  "title": "Madonna and Child with Saints Francis, Damian, Cosmas and Anthony of Padua",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285312"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fra Filippo Lippi - Madonna Enthroned with Saints - WGA13224.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fra_Filippo_Lippi_-_Madonna_Enthroned_with_Saints_-_WGA13224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/40/Fra_Filippo_Lippi_-_Madonna_Enthroned_with_Saints_-_WGA13224.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_-_Madonna_Enthroned_with_Saints_-_WGA13224.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippo Lippi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"l/lippi/filippo/1440/07madonn\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:02:58.082Z"
+      },
+      "width": 1106,
+      "height": 1100
+    }
+  ]
+}

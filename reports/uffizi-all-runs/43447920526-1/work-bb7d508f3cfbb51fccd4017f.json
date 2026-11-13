@@ -1,0 +1,38 @@
+{
+  "work": "Q114362159",
+  "title": "Joseph and the wife of Potiphar",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Cecco Bravo 001.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cecco_Bravo_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cecco_Bravo_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Cecco_Bravo_001.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Cecco Bravo",
+        "credit": "http://www.eosarte.it/agli%20Uffizi%20I%20mai%20visti.htm",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:17:09.270Z"
+      },
+      "width": 283,
+      "height": 232
+    }
+  ]
+}

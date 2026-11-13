@@ -1,0 +1,220 @@
+{
+  "artistId": "raphael",
+  "name": "Рафаэль Санти",
+  "latin": "Raphael",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1134281",
+      "title": "Ezekiel's Vision",
+      "status": "metadata_passed_not_visual",
+      "file": "work-64aa18b742ee62e2caa614cf.json"
+    },
+    {
+      "work": "Q131463448",
+      "title": "Half-length portrait of a young woman in profile",
+      "status": "needs_review",
+      "file": "work-110070c01dc14d375538fa33.json"
+    },
+    {
+      "work": "Q131561253",
+      "title": "Drawing by Raffaello (Uffizi, 1332 F)",
+      "status": "needs_review",
+      "file": "work-b4bba9b4425bc30fa6ecca63.json"
+    },
+    {
+      "work": "Q131561254",
+      "title": "Drawing by Raffaello (Uffizi, 134 S)",
+      "status": "needs_review",
+      "file": "work-75f70c7c9a8e367738d0b1c1.json"
+    },
+    {
+      "work": "Q131561255",
+      "title": "Drawing by Raffaello (Uffizi, 163 A)",
+      "status": "needs_review",
+      "file": "work-361dbc7f12110fb96226f1f0.json"
+    },
+    {
+      "work": "Q131561257",
+      "title": "Drawing by Raffaello (Uffizi, 164 A)",
+      "status": "needs_review",
+      "file": "work-475f301e6f8d67070d8c723c.json"
+    },
+    {
+      "work": "Q131561258",
+      "title": "Drawing by Raffaello (Uffizi, 165 A)",
+      "status": "needs_review",
+      "file": "work-4f15a96087b7d3e29218fa36.json"
+    },
+    {
+      "work": "Q131561259",
+      "title": "Drawing by Raffaello (Uffizi, 496 E)",
+      "status": "needs_review",
+      "file": "work-21ce0d91409db6bb850c4028.json"
+    },
+    {
+      "work": "Q131561260",
+      "title": "Drawing by Raffaello (Uffizi, 520 E)",
+      "status": "needs_review",
+      "file": "work-9bfdabc0534fdbdba1b33e05.json"
+    },
+    {
+      "work": "Q131561261",
+      "title": "Drawing by Raffaello (Uffizi, 539 E)",
+      "status": "needs_review",
+      "file": "work-5e13830d094e26773d84ecef.json"
+    },
+    {
+      "work": "Q131561262",
+      "title": "Drawing by Raffaello (Uffizi, 541 E)",
+      "status": "needs_review",
+      "file": "work-50e2a3d46c83bfd889a8a50b.json"
+    },
+    {
+      "work": "Q131613632",
+      "title": "Two studies for the Madonna and Child with the Infant Saint John",
+      "status": "needs_review",
+      "file": "work-f8e52bbfb0c5e525bccfa079.json"
+    },
+    {
+      "work": "Q131613740",
+      "title": "Madonna col Bambino (for the 'Madonna del Granduca')",
+      "status": "needs_review",
+      "file": "work-326385cbc58cb518cfd73d76.json"
+    },
+    {
+      "work": "Q131613747",
+      "title": "Madonna seduta in atto di prendere il Bambino tra le braccia e studio separato del busto della Madonna",
+      "status": "needs_review",
+      "file": "work-534d3e698a0e16e72f823496.json"
+    },
+    {
+      "work": "Q131613901",
+      "title": "Saint George and the Dragon",
+      "status": "needs_review",
+      "file": "work-91c7a6ba45f74e35edc27ab2.json"
+    },
+    {
+      "work": "Q131613932",
+      "title": "Studio compositivo per la 'Deposizione'",
+      "status": "needs_review",
+      "file": "work-71e029abe8bcc6a96d84f03a.json"
+    },
+    {
+      "work": "Q19516146",
+      "title": "Portrait of Pope Julius II",
+      "status": "needs_review",
+      "file": "work-48135e736c118975d0c355d4.json"
+    },
+    {
+      "work": "Q2035209",
+      "title": "Madonna del Granduca",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e0c62e55c43097f3c70bdf95.json"
+    },
+    {
+      "work": "Q2052275",
+      "title": "Madonna dell'Impannata",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f705fa2a156708d906aeb83e.json"
+    },
+    {
+      "work": "Q2276546",
+      "title": "La donna gravida",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0155b1876a2b3f378df3be2e.json"
+    },
+    {
+      "work": "Q2344505",
+      "title": "Madonna of the Goldfinch",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cca0dcd655e584188538c989.json"
+    },
+    {
+      "work": "Q2515309",
+      "title": "Portrait of Agnolo Doni",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3d7761000c2dd518951fa933.json"
+    },
+    {
+      "work": "Q2607055",
+      "title": "Portrait of Maddalena Doni",
+      "status": "metadata_passed_not_visual",
+      "file": "work-36997d41690c023f492c1a69.json"
+    },
+    {
+      "work": "Q2607072",
+      "title": "Portrait of Perugino",
+      "status": "needs_review",
+      "file": "work-02d66ee9ee300b9d88937d7c.json"
+    },
+    {
+      "work": "Q2610729",
+      "title": "Portrait of Leo X",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ab1ac1012adfe2f72c98d66d.json"
+    },
+    {
+      "work": "Q2627028",
+      "title": "Portrait of Elisabetta Gonzaga",
+      "status": "needs_review",
+      "file": "work-3c7b4c838350b2622669fa93.json"
+    },
+    {
+      "work": "Q2713823",
+      "title": "Portrait of a Young Man with an Apple",
+      "status": "metadata_passed_not_visual",
+      "file": "work-617d5f8e8ab99f3f79f4dd13.json"
+    },
+    {
+      "work": "Q3013751",
+      "title": "Portrait of Guidobaldo da Montefeltro",
+      "status": "metadata_passed_not_visual",
+      "file": "work-013c2a48c3684911c0a742bf.json"
+    },
+    {
+      "work": "Q3399492",
+      "title": "Portrait of Cardinal Bibbiena",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2362af2975995d7a62df2360.json"
+    },
+    {
+      "work": "Q3463871",
+      "title": "Saint John the Baptist as a Boy",
+      "status": "needs_review",
+      "file": "work-1e074a1ec4bf0f6f6aab7e3c.json"
+    },
+    {
+      "work": "Q3842604",
+      "title": "Madonna of the Baldacchino",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1ea3ddd7cd14d2c90235fdb2.json"
+    },
+    {
+      "work": "Q428274",
+      "title": "Portrait of Tommaso Inghirami, called Fedra",
+      "status": "metadata_passed_not_visual",
+      "file": "work-44e044b8df8d0c7425465c78.json"
+    },
+    {
+      "work": "Q555821",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-50e6e2825757155e7836dda9.json"
+    },
+    {
+      "work": "Q948034",
+      "title": "La velata",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4e1119bc1d61e3d65bfc9d71.json"
+    },
+    {
+      "work": "Q966681",
+      "title": "Madonna della Seggiola",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fdd21182842ddd2a9537778a.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

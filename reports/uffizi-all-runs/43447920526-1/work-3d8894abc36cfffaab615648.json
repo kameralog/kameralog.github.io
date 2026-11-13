@@ -1,0 +1,40 @@
+{
+  "work": "Q3889213",
+  "title": "Pala degli Otto",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285679"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Filippino lippi, madonna col bambino e i santi g.battista, vittore, bernardo e zanobi (1485) uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Filippino_lippi%2C_madonna_col_bambino_e_i_santi_g.battista%2C_vittore%2C_bernardo_e_zanobi_%281485%29_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/80/Filippino_lippi%2C_madonna_col_bambino_e_i_santi_g.battista%2C_vittore%2C_bernardo_e_zanobi_%281485%29_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippino_lippi,_madonna_col_bambino_e_i_santi_g.battista,_vittore,_bernardo_e_zanobi_(1485)_uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippo Lippi",
+        "credit": "book: Giulia Cosmo, Filippino Lippi, serie Art dossier, Giunti, Firenze 2001",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:02:56.641Z"
+      },
+      "width": 2106,
+      "height": 3069
+    }
+  ]
+}

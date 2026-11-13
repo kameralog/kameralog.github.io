@@ -1,0 +1,46 @@
+{
+  "artistId": "annibale_carracci",
+  "name": "Аннибале Карраччи",
+  "latin": "Annibale Carracci",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q104935741",
+      "title": "Man with a Monkey",
+      "status": "needs_review",
+      "file": "work-1e28f191bacbf78e87f3c226.json"
+    },
+    {
+      "work": "Q116912606",
+      "title": "Madonna with Child and Saint John the Baptist",
+      "status": "needs_review",
+      "file": "work-42ce7f5c2d140f815c553e9d.json"
+    },
+    {
+      "work": "Q126180968",
+      "title": "Man with a Monkey",
+      "status": "metadata_passed_not_visual",
+      "file": "work-abcbd6c34ffb98ed01b45956.json"
+    },
+    {
+      "work": "Q18223127",
+      "title": "Christ in Glory",
+      "status": "metadata_passed_not_visual",
+      "file": "work-27947a7033c2797d24ab9b64.json"
+    },
+    {
+      "work": "Q18420689",
+      "title": "Venus with a Satyr and Cupids",
+      "status": "metadata_passed_not_visual",
+      "file": "work-edab0f24a3f345ac9c42277e.json"
+    },
+    {
+      "work": "Q52337780",
+      "title": "Self-Portrait in Profile",
+      "status": "metadata_passed_not_visual",
+      "file": "work-46a8588c3d711a6586e595e0.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

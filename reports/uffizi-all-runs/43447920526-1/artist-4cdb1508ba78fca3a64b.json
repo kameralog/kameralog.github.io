@@ -1,0 +1,16 @@
+{
+  "artistId": "alessandro_magnasco",
+  "name": "Алессандро Маньяско",
+  "latin": "Alessandro Magnasco",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q116912715",
+      "title": "The trained magpie",
+      "status": "needs_review",
+      "file": "work-260132b20eed335191be9073.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,42 @@
+{
+  "work": "Q54075117",
+  "title": "Flowers and Ducks",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    null
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [
+    "editorial:belvedere-prado-c1fe28dc"
+  ],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Abate Andrea Belvedere - Flowers and Ducks - WGA01850.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Abate_Andrea_Belvedere_-_Flowers_and_Ducks_-_WGA01850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Abate_Andrea_Belvedere_-_Flowers_and_Ducks_-_WGA01850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Abate_Andrea_Belvedere_-_Flowers_and_Ducks_-_WGA01850.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea Belvedere",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/belveder/flowduck\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:15:40.296Z"
+      },
+      "width": 1067,
+      "height": 800
+    }
+  ]
+}

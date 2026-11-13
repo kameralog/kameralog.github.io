@@ -1,0 +1,40 @@
+{
+  "work": "Q3937553",
+  "title": "Portrait of Giulia Varano",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "Oggetti d'Arte Pitti: 764"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Titian - Giulia Varano, Duchess of Urbino - WGA22928.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Titian_-_Giulia_Varano%2C_Duchess_of_Urbino_-_WGA22928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/99/Titian_-_Giulia_Varano%2C_Duchess_of_Urbino_-_WGA22928.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Titian_-_Giulia_Varano,_Duchess_of_Urbino_-_WGA22928.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tiziano/10/1/12varano\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:08:52.778Z"
+      },
+      "width": 800,
+      "height": 1040
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "artistId": "giovanni_battista_paggi",
+  "name": "Джованни Баттиста Паджи",
+  "latin": "Giovanni Battista Paggi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q120379555",
+      "title": "ritratto di Piero de' Medici detto il Gottoso",
+      "status": "needs_review",
+      "file": "work-ff037734cb2fe465adb269b2.json"
+    },
+    {
+      "work": "Q120379763",
+      "title": "Portrait of Piero di Lorenzo de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-521769762195f3d25452da70.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

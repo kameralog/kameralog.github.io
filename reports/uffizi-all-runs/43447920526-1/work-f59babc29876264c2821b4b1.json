@@ -1,0 +1,38 @@
+{
+  "work": "Q135913315",
+  "title": "Self-portrait with palette and brush",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Simone Pignoni - Self-portrait with palette and brush.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Simone_Pignoni_-_Self-portrait_with_palette_and_brush.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Simone_Pignoni_-_Self-portrait_with_palette_and_brush.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Simone_Pignoni_-_Self-portrait_with_palette_and_brush.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Simone Pignoni",
+        "credit": "Fotoinventari Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12564,
+        "checkedAt": "2026-11-13T15:16:30.129Z"
+      },
+      "width": 811,
+      "height": 1073
+    }
+  ]
+}

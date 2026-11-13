@@ -1,0 +1,40 @@
+{
+  "work": "Q3658722",
+  "title": "Charity",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00158557 A 1"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Piero del Pollaiolo charity.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Piero_del_Pollaiolo_charity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/71/Piero_del_Pollaiolo_charity.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_charity.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Piero del Pollaiuolo",
+        "credit": "[1]",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:11:22.575Z"
+      },
+      "width": 751,
+      "height": 1500
+    }
+  ]
+}

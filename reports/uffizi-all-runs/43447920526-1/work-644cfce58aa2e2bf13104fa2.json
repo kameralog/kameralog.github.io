@@ -1,0 +1,40 @@
+{
+  "work": "Q51155321",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1876"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Frans van Mieris (I) - Self-portrait.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Frans_van_Mieris_%28I%29_-_Self-portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Frans_van_Mieris_%28I%29_-_Self-portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Frans_van_Mieris_(I)_-_Self-portrait.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Frans van Mieris the Elder",
+        "credit": "https://rkd.nl/explore/images/255127",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:14:29.445Z"
+      },
+      "width": 522,
+      "height": 650
+    }
+  ]
+}

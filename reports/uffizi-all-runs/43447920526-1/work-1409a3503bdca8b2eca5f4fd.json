@@ -1,0 +1,40 @@
+{
+  "work": "Q103231881",
+  "title": "Giovanni Boccaccio from the cycle Famous People",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00291026 4"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea del Castagno Giovanni Boccaccio c 1450.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Andrea_del_Castagno_Giovanni_Boccaccio_c_1450.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/29/Andrea_del_Castagno_Giovanni_Boccaccio_c_1450.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_Giovanni_Boccaccio_c_1450.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Castagno",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/andrea/castagno/2_famous/8boccacc\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:12:03.072Z"
+      },
+      "width": 766,
+      "height": 1200
+    }
+  ]
+}

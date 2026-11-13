@@ -1,0 +1,22 @@
+{
+  "artistId": "masaccio",
+  "name": "Мазаччо",
+  "latin": "Masaccio",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3842642",
+      "title": "Madonna Casini",
+      "status": "metadata_passed_not_visual",
+      "file": "work-22ce403ca73a407db42255d2.json"
+    },
+    {
+      "work": "Q32381",
+      "title": "Virgin and Child with Saint Anne",
+      "status": "needs_review",
+      "file": "work-44b11855926f24e82af1b70a.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

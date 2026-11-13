@@ -1,0 +1,40 @@
+{
+  "work": "Q3889223",
+  "title": "Cardinal of Portugal's Altarpiece",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1617"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Antonio e piero del pollaiolo, santi vincenzo, jacopo e eustachio, da cappella del cardinale di portogallo.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Antonio_e_piero_del_pollaiolo%2C_santi_vincenzo%2C_jacopo_e_eustachio%2C_da_cappella_del_cardinale_di_portogallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Antonio_e_piero_del_pollaiolo%2C_santi_vincenzo%2C_jacopo_e_eustachio%2C_da_cappella_del_cardinale_di_portogallo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Antonio_e_piero_del_pollaiolo,_santi_vincenzo,_jacopo_e_eustachio,_da_cappella_del_cardinale_di_portogallo.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Antonio del Pollaiuolo / Piero del Pollaiuolo",
+        "credit": "book",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:11:27.085Z"
+      },
+      "width": 2111,
+      "height": 2111
+    }
+  ]
+}

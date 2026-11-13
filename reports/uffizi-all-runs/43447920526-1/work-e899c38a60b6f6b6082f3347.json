@@ -1,0 +1,41 @@
+{
+  "work": "Q124518726",
+  "title": "Hercules crowned by a Muse",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alessandro allori, ercole coronato dalle muse, 1568 circa 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Alessandro_allori%2C_ercole_coronato_dalle_muse%2C_1568_circa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Alessandro_allori%2C_ercole_coronato_dalle_muse%2C_1568_circa_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_ercole_coronato_dalle_muse,_1568_circa_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:51.246Z"
+      },
+      "width": 3234,
+      "height": 4098
+    }
+  ]
+}

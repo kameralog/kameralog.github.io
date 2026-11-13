@@ -1,0 +1,22 @@
+{
+  "artistId": "bernaert_van_orley",
+  "name": "Бернарт ван Орлей",
+  "latin": "Bernaert van Orley",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912629",
+      "title": "Portrait of a woman",
+      "status": "needs_review",
+      "file": "work-5337be81478408f180487559.json"
+    },
+    {
+      "work": "Q3937744",
+      "title": "Portrait of an unknown man and his wife",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c603c74a55e14965403a5220.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

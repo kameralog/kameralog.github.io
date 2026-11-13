@@ -1,0 +1,40 @@
+{
+  "work": "Q15974345",
+  "title": "The Martyrdom of Saint Justina",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287432"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Paolo Veronese - Martirio di Santa Giustina - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paolo_Veronese_-_Martirio_di_Santa_Giustina_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Paolo_Veronese_-_Martirio_di_Santa_Giustina_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Martirio_di_Santa_Giustina_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Paolo Veronese",
+        "credit": "Google Arts & Culture — IAHd5DfarX8PcA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12578,
+        "checkedAt": "2026-11-13T15:06:08.214Z"
+      },
+      "width": 8024,
+      "height": 7040
+    }
+  ]
+}

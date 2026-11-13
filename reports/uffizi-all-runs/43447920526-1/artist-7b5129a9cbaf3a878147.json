@@ -1,0 +1,16 @@
+{
+  "artistId": "giovanni_di_paolo",
+  "name": "Джованни ди Паоло",
+  "latin": "Giovanni di Paolo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3842527",
+      "title": "Madonna and Child with Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-040988c8029074aa2638bea1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

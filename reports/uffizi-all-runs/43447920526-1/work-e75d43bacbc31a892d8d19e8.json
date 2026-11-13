@@ -1,0 +1,38 @@
+{
+  "work": "Q15974364",
+  "title": "Holy Family with St. John the Baptist and Angels",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Beccafumi, Sacra Famiglia con san Giovannino e l'agnellino tra serafini.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Beccafumi%2C_Sacra_Famiglia_con_san_Giovannino_e_l%27agnellino_tra_serafini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/90/Beccafumi%2C_Sacra_Famiglia_con_san_Giovannino_e_l%27agnellino_tra_serafini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Beccafumi,_Sacra_Famiglia_con_san_Giovannino_e_l%27agnellino_tra_serafini.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Domenico Beccafumi",
+        "credit": "http://www.polomuseale.firenze.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:13:37.880Z"
+      },
+      "width": 877,
+      "height": 999
+    }
+  ]
+}

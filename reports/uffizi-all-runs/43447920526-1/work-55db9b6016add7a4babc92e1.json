@@ -1,0 +1,40 @@
+{
+  "work": "Q3997721",
+  "title": "Transfiguration",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00289148"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Savoldo, trasfigurazione 2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Savoldo%2C_trasfigurazione_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/19/Savoldo%2C_trasfigurazione_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Savoldo,_trasfigurazione_2.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Girolamo Savoldo",
+        "credit": "Self-scanned",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:06:47.697Z"
+      },
+      "width": 1152,
+      "height": 1342
+    }
+  ]
+}

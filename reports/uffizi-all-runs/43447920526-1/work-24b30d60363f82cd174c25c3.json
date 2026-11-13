@@ -1,0 +1,40 @@
+{
+  "work": "Q124736928",
+  "title": "Portrait of Bianca Cappello",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1514"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alessandro Allori - Portrait of Bianca Cappello.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/allori/alessand/portra1\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12576,
+        "checkedAt": "2026-11-13T15:16:55.633Z"
+      },
+      "width": 812,
+      "height": 1145
+    }
+  ]
+}

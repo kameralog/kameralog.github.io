@@ -1,0 +1,38 @@
+{
+  "work": "Q124518582",
+  "title": "Allegory of Human Life",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Alessandro allori, allegoria della vita umana.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alessandro_allori%2C_allegoria_della_vita_umana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alessandro_allori%2C_allegoria_della_vita_umana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_allegoria_della_vita_umana.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/a/allori/alessand/allegory\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:16:49.690Z"
+      },
+      "width": 650,
+      "height": 922
+    }
+  ]
+}

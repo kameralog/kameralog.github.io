@@ -1,0 +1,64 @@
+{
+  "work": "Q23010034",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1786"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rosalba Carriera - Self-Portrait Holding a Portrait of Her Sister - WGA4502.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rosalba_Carriera_-_Self-Portrait_Holding_a_Portrait_of_Her_Sister_-_WGA4502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rosalba_Carriera_-_Self-Portrait_Holding_a_Portrait_of_Her_Sister_-_WGA4502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosalba_Carriera_-_Self-Portrait_Holding_a_Portrait_of_Her_Sister_-_WGA4502.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Rosalba Carriera",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/carriera/self_por\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:17:52.797Z"
+      },
+      "width": 1000,
+      "height": 1213
+    },
+    {
+      "file": "Self-portrait holding a portrait of her sister, by Rosalba Carriera.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Self-portrait_holding_a_portrait_of_her_sister%2C_by_Rosalba_Carriera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/59/Self-portrait_holding_a_portrait_of_her_sister%2C_by_Rosalba_Carriera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_holding_a_portrait_of_her_sister,_by_Rosalba_Carriera.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Rosalba Carriera",
+        "credit": "WGA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:17:54.259Z"
+      },
+      "width": 1036,
+      "height": 1300
+    }
+  ]
+}

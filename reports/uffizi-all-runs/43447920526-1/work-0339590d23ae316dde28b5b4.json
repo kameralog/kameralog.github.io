@@ -1,0 +1,44 @@
+{
+  "work": "Q3210265",
+  "title": "Madonna of the Caves",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1348"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea Mantegna, Madonna of the Caves, 1489, Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Andrea_Mantegna%2C_Madonna_of_the_Caves%2C_1489%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/87/Andrea_Mantegna%2C_Madonna_of_the_Caves%2C_1489%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna,_Madonna_of_the_Caves,_1489,_Uffizi.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Andrea Mantegna",
+        "credit": "Own work by Armin Kleiner . Taken on 14 September 2021, 11:58:48",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:11:01.653Z"
+      },
+      "width": 3892,
+      "height": 5205
+    }
+  ]
+}

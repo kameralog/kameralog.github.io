@@ -1,0 +1,16 @@
+{
+  "artistId": "jacob_cornelisz_van_oostsanen",
+  "name": "Якоб Корнелис ван Остсанен",
+  "latin": "Jacob Cornelisz van Oostsanen",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q23304560",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ef4838d25cf3d76d63b290d2.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

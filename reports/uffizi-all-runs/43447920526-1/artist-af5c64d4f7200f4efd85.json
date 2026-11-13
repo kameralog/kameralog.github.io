@@ -1,0 +1,16 @@
+{
+  "artistId": "elisabetta_sirani",
+  "name": "Элизабетта Сирани",
+  "latin": "Elisabetta Sirani",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q52329156",
+      "title": "Self-portrait",
+      "status": "needs_review",
+      "file": "work-768444c9ed74fbb999a0d52e.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

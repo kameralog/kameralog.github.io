@@ -1,0 +1,40 @@
+{
+  "artistId": "giovanni_bellini",
+  "name": "Джованни Беллини",
+  "latin": "Giovanni Bellini",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1629015",
+      "title": "Holy Allegory",
+      "status": "metadata_passed_not_visual",
+      "file": "work-aaa73243ab5376b71e12290a.json"
+    },
+    {
+      "work": "Q3685124",
+      "title": "Lamentation of Christ",
+      "status": "needs_review",
+      "file": "work-1ab9053234c3c8ca5ae64395.json"
+    },
+    {
+      "work": "Q3937398",
+      "title": "Portrait of a Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-735db99673da08393259ca96.json"
+    },
+    {
+      "work": "Q3947292",
+      "title": "Saint Jerome Reading in the Desert",
+      "status": "metadata_passed_not_visual",
+      "file": "work-60abc410f098b669267ab4e4.json"
+    },
+    {
+      "work": "Q47871637",
+      "title": "Madonna Adoring the Sleeping Christ Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ea787bd7ade0c20c5c7d4537.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

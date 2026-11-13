@@ -1,0 +1,16 @@
+{
+  "artistId": "willem_van_de_velde_the_elder",
+  "name": "Виллем ван де Велде Старший",
+  "latin": "Willem van de Velde the Elder",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q50801937",
+      "title": "Dutch Battleships",
+      "status": "metadata_passed_not_visual",
+      "file": "work-34009c20839d2e850b1ff931.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

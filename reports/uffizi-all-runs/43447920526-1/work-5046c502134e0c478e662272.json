@@ -1,0 +1,40 @@
+{
+  "work": "Q1055117",
+  "title": "Adoration of the Magi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8364"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Gentile da Fabriano - Adorazione dei Magi - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gentile_da_Fabriano_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gentile_da_Fabriano_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Gentile da Fabriano",
+        "credit": "Google Arts & Culture — DQFJCeCtmALPyg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12613,
+        "checkedAt": "2026-11-13T15:07:10.192Z"
+      },
+      "width": 3356,
+      "height": 3669
+    }
+  ]
+}

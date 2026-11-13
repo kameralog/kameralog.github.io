@@ -1,0 +1,34 @@
+{
+  "artistId": "domenico_veneziano",
+  "name": "Доменико Венециано",
+  "latin": "Domenico Veneziano",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q118495248",
+      "title": "San Benedetto fanciullo ripara miracolosamente il capistero rotto.",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e25e9c5407487f47152cd1d1.json"
+    },
+    {
+      "work": "Q131676308",
+      "title": "Stories of Saint Benedict",
+      "status": "needs_review",
+      "file": "work-b4b5b9cf17ef45776f1e5017.json"
+    },
+    {
+      "work": "Q132247336",
+      "title": "Predella of Santa Lucia dei Magnoli altarpiece",
+      "status": "needs_review",
+      "file": "work-a4f22db7c71093712a59a0c0.json"
+    },
+    {
+      "work": "Q2350980",
+      "title": "Santa Lucia de' Magnoli Altarpiece",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a21249fe1a6141e3b939abe1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

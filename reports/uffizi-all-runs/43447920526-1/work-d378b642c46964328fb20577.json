@@ -1,0 +1,38 @@
+{
+  "work": "Q18683513",
+  "title": "View of the Ducal Palace in Venice",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Canaletto - Veduta del Palazzo Ducale di Venezia - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Canaletto_-_Veduta_del_Palazzo_Ducale_di_Venezia_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/07/Canaletto_-_Veduta_del_Palazzo_Ducale_di_Venezia_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Canaletto_-_Veduta_del_Palazzo_Ducale_di_Venezia_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Antonio Canal",
+        "credit": "Google Arts & Culture — zAFQOJUqMErR9w",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:10:49.601Z"
+      },
+      "width": 3432,
+      "height": 2103
+    }
+  ]
+}

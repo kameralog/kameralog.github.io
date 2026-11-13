@@ -1,0 +1,40 @@
+{
+  "work": "Q3937531",
+  "title": "Portrait of Francesco Maria della Rovere",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "926"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Portrait of Francesco Maria della Rovere, Duke of Urbino (by Titian) – Galleria degli Uffizi, Florence.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Portrait_of_Francesco_Maria_della_Rovere%2C_Duke_of_Urbino_%28by_Titian%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/af/Portrait_of_Francesco_Maria_della_Rovere%2C_Duke_of_Urbino_%28by_Titian%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Francesco_Maria_della_Rovere,_Duke_of_Urbino_(by_Titian)_%E2%80%93_Galleria_degli_Uffizi,_Florence.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "https://gallerix.org/album/Titian/pic/glrx-617948299",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:08:51.269Z"
+      },
+      "width": 3560,
+      "height": 4090
+    }
+  ]
+}

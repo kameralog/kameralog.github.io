@@ -1,0 +1,38 @@
+{
+  "work": "Q128610363",
+  "title": "Ferdinando I de' medici as a child",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Angelo Bronzino - Ferdinando de' Medici - WGA3252.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Angelo_Bronzino_-_Ferdinando_de%27_Medici_-_WGA3252.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/97/Angelo_Bronzino_-_Ferdinando_de%27_Medici_-_WGA3252.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Ferdinando_de%27_Medici_-_WGA3252.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/bronzino/1/ferdinan\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:04:47.616Z"
+      },
+      "width": 700,
+      "height": 929
+    }
+  ]
+}

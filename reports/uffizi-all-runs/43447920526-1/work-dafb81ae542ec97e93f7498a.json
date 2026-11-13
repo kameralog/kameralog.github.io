@@ -1,0 +1,40 @@
+{
+  "work": "Q3842767",
+  "title": "Madonna enthroned with child and two musical angels",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1024"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Hans Memling - Virgin enthroned with child and two angels making music.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hans_Memling_-_Virgin_enthroned_with_child_and_two_angels_making_music.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hans_Memling_-_Virgin_enthroned_with_child_and_two_angels_making_music.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_Memling_-_Virgin_enthroned_with_child_and_two_angels_making_music.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hans Memling",
+        "credit": "https://www.uffizi.it/en/events/hans-memling-potrait-2010",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:04:26.587Z"
+      },
+      "width": 2121,
+      "height": 2874
+    }
+  ]
+}

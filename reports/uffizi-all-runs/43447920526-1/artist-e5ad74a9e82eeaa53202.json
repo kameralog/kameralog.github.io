@@ -1,0 +1,28 @@
+{
+  "artistId": "vittore_carpaccio",
+  "name": "Витторе Карпаччо",
+  "latin": "Vittore Carpaccio",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3607620",
+      "title": "Group of Soldiers and Men in Oriental Costume",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cd87bdc34769b6343f1647a3.json"
+    },
+    {
+      "work": "Q3922600",
+      "title": "A Prophet",
+      "status": "metadata_passed_not_visual",
+      "file": "work-96c95d30664a83865338b94a.json"
+    },
+    {
+      "work": "Q3959997",
+      "title": "A Sibyl",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b41fd53fceead5919d7b01c9.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

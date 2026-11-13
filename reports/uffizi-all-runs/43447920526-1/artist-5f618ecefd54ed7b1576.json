@@ -1,0 +1,34 @@
+{
+  "artistId": "parmigianino",
+  "name": "Пармиджанино",
+  "latin": "Parmigianino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3842398",
+      "title": "Madonna with child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-438af2eebb7599ee16ec0112.json"
+    },
+    {
+      "work": "Q3842736",
+      "title": "Madonna and Child with Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-781f66bda56c13ed348d262f.json"
+    },
+    {
+      "work": "Q3937792",
+      "title": "Portrait of a man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-284b327667131530fa34cc0d.json"
+    },
+    {
+      "work": "Q867403",
+      "title": "Madonna with the Long Neck",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f4bf577926f31ee7e7b9a786.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

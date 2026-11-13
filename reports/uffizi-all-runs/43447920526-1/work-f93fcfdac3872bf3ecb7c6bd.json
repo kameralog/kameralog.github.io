@@ -1,0 +1,40 @@
+{
+  "work": "Q2046100",
+  "title": "Flora",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1462"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano - Flora - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tiziano_-_Flora_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tiziano_-_Flora_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_-_Flora_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Google Arts & Culture — RQF0sAhcSUiepw",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:08:40.764Z"
+      },
+      "width": 3317,
+      "height": 4423
+    }
+  ]
+}

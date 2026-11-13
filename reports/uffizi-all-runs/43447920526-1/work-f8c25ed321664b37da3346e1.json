@@ -1,0 +1,40 @@
+{
+  "work": "Q53995784",
+  "title": "The Virgin Appearing to St Philip Neri",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "71"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Carlo Maratta - The Virgin Appearing to St Philip Neri - WGA14052.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Carlo_Maratta_-_The_Virgin_Appearing_to_St_Philip_Neri_-_WGA14052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/40/Carlo_Maratta_-_The_Virgin_Appearing_to_St_Philip_Neri_-_WGA14052.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlo_Maratta_-_The_Virgin_Appearing_to_St_Philip_Neri_-_WGA14052.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Carlo Maratta",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"m/maratti/virgin_a\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:15:22.291Z"
+      },
+      "width": 900,
+      "height": 1550
+    }
+  ]
+}

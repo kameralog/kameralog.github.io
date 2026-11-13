@@ -1,0 +1,22 @@
+{
+  "artistId": "hyacinthe_rigaud",
+  "name": "Гиацинт Риго",
+  "latin": "Hyacinthe Rigaud",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241461",
+      "title": "Portrait of Jacques-Bénigne Bossuet",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3340f1a7feb124510e2fd06d.json"
+    },
+    {
+      "work": "Q116912709",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-c8935befba21d8360203fba5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

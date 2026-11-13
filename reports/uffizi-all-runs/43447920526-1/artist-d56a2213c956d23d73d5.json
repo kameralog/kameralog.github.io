@@ -1,0 +1,22 @@
+{
+  "artistId": "giovanni_battista_moroni",
+  "name": "Джованни Баттиста Морони",
+  "latin": "Giovanni Battista Moroni",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3937429",
+      "title": "Portrait of Pietro Secco Suardo",
+      "status": "metadata_passed_not_visual",
+      "file": "work-255e7426472abfcf62f52dff.json"
+    },
+    {
+      "work": "Q50840293",
+      "title": "portrait of a learned man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9f1e567f4c4802d90ed41cf8.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,22 @@
+{
+  "artistId": "francesco_francia",
+  "name": "Франческо Франча",
+  "latin": "Francesco Francia",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q107527004",
+      "title": "Saint Francis",
+      "status": "needs_review",
+      "file": "work-d9d7817d13bd537d6acf7f69.json"
+    },
+    {
+      "work": "Q3937516",
+      "title": "Portrait of Evangelista Scappi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2217986046cf928774b0afa0.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,42 @@
+{
+  "work": "Q21469930",
+  "title": "A Rabbi",
+  "collections": [
+    "Q866498",
+    "Q51252"
+  ],
+  "inventories": [
+    "8435",
+    "16"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rembrandt Harmenszoon van Rijn (Leida 1606 – Amsterdam 1669) - Portrait of an old man (The Old Rabbi) - 16 - Galleria Palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rembrandt_Harmenszoon_van_Rijn_%28Leida_1606_%E2%80%93_Amsterdam_1669%29_-_Portrait_of_an_old_man_%28The_Old_Rabbi%29_-_16_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/55/Rembrandt_Harmenszoon_van_Rijn_%28Leida_1606_%E2%80%93_Amsterdam_1669%29_-_Portrait_of_an_old_man_%28The_Old_Rabbi%29_-_16_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmenszoon_van_Rijn_(Leida_1606_%E2%80%93_Amsterdam_1669)_-_Portrait_of_an_old_man_(The_Old_Rabbi)_-_16_-_Galleria_Palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Rembrandt",
+        "credit": "uffizi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:02:35.993Z"
+      },
+      "width": 1607,
+      "height": 1983
+    }
+  ]
+}

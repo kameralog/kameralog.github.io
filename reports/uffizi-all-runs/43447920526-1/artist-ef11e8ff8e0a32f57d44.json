@@ -1,0 +1,16 @@
+{
+  "artistId": "lorenzo_lippi",
+  "name": "Лоренцо Липпи",
+  "latin": "Lorenzo Lippi",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q131937109",
+      "title": "Lot and his daughters",
+      "status": "needs_review",
+      "file": "work-62eb238dd26f7774d74c06b8.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

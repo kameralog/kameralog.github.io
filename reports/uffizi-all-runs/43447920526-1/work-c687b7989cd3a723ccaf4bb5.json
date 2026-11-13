@@ -1,0 +1,40 @@
+{
+  "work": "Q3784272",
+  "title": "Portrait of Giovanni de' Medici as a Child",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1475"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bronzino - Portrait of Giovanni de’ Medici - 1475 - Uffizi Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bronzino_-_Portrait_of_Giovanni_de%E2%80%99_Medici_-_1475_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bronzino_-_Portrait_of_Giovanni_de%E2%80%99_Medici_-_1475_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Portrait_of_Giovanni_de%E2%80%99_Medici_-_1475_-_Uffizi_Gallery.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "https://www.finestresullarte.info/en/works-and-artists/the-elegance-of-power-bronzino-s-portrait-of-eleanor-of-toledo",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:04:56.640Z"
+      },
+      "width": 1447,
+      "height": 1867
+    }
+  ]
+}

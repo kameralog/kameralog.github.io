@@ -1,0 +1,16 @@
+{
+  "artistId": "adam_elsheimer",
+  "name": "Адам Эльсхаймер",
+  "latin": "Adam Elsheimer",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q28127947",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-dab512dade85bb62d7ae4303.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q65971659",
+  "title": "Portrait of Isabella Brant",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "779"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Peter Paul Rubens - Portrait of Isabella Brant (Uffizi).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Peter_Paul_Rubens_-_Portrait_of_Isabella_Brant_%28Uffizi%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Peter_Paul_Rubens_-_Portrait_of_Isabella_Brant_%28Uffizi%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Portrait_of_Isabella_Brant_(Uffizi).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Peter Paul Rubens",
+        "credit": "https://catalogo.uffizi.it/it/viewer/#/main/viewer?idMetadato=1183881",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:09:52.796Z"
+      },
+      "width": 862,
+      "height": 1194
+    }
+  ]
+}

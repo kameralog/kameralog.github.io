@@ -1,0 +1,44 @@
+{
+  "work": "Q3685124",
+  "title": "Lamentation of Christ",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286742"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Giovanni Bellini, unfinished Lamentation, c1500, Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Giovanni_Bellini%2C_unfinished_Lamentation%2C_c1500%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/be/Giovanni_Bellini%2C_unfinished_Lamentation%2C_c1500%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini,_unfinished_Lamentation,_c1500,_Uffizi.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Giovanni Bellini",
+        "credit": "Own work by Armin Kleiner . Taken on 14 September 2021, 12:05:37",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:12:16.762Z"
+      },
+      "width": 5622,
+      "height": 3520
+    }
+  ]
+}

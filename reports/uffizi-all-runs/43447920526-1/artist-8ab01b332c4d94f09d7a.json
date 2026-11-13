@@ -1,0 +1,28 @@
+{
+  "artistId": "giovanni_da_san_giovanni",
+  "name": "Джованни да Сан-Джованни",
+  "latin": "Giovanni da San Giovanni",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131557458",
+      "title": "Mythological and Biblical Scenes",
+      "status": "needs_review",
+      "file": "work-43f57006bfea5477d116292f.json"
+    },
+    {
+      "work": "Q52156059",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0de6008005d37fcc51f8ceff.json"
+    },
+    {
+      "work": "Q53996705",
+      "title": "Venus Combing Cupid's Hair",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9d661c1e941c23c715f34774.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

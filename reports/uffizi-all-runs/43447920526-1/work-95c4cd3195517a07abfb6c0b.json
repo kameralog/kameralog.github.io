@@ -1,0 +1,40 @@
+{
+  "work": "Q3399418",
+  "title": "Biagio Milanesi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00195551"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pietro Perugino cat58a.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pietro_Perugino_cat58a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pietro_Perugino_cat58a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat58a.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:11:45.096Z"
+      },
+      "width": 2236,
+      "height": 2332
+    }
+  ]
+}

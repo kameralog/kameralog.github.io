@@ -1,0 +1,40 @@
+{
+  "work": "Q3937472",
+  "title": "Portrait of Bia de' Medici",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1472"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bia di Cosimo de‘ Medici, by Agnolo Bronzino.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bia_di_Cosimo_de%E2%80%98_Medici%2C_by_Agnolo_Bronzino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bia_di_Cosimo_de%E2%80%98_Medici%2C_by_Agnolo_Bronzino.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bia_di_Cosimo_de%E2%80%98_Medici,_by_Agnolo_Bronzino.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "Oberösterreichisches Landesmuseum",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:04:58.144Z"
+      },
+      "width": 2293,
+      "height": 3000
+    }
+  ]
+}

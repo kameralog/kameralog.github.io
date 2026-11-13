@@ -1,0 +1,44 @@
+{
+  "work": "Q3649315",
+  "title": "Expulsion of Adam and Eve",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1517"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pontormo, Expulsion of Adam and Eve, 1535, Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pontormo%2C_Expulsion_of_Adam_and_Eve%2C_1535%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pontormo%2C_Expulsion_of_Adam_and_Eve%2C_1535%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pontormo,_Expulsion_of_Adam_and_Eve,_1535,_Uffizi.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Pontormo",
+        "credit": "Own work by MenkinAlRire . Taken on 14 September 2021, 20:13:15",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:05:46.461Z"
+      },
+      "width": 3556,
+      "height": 4920
+    }
+  ]
+}

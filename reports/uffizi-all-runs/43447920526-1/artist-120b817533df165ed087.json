@@ -1,0 +1,22 @@
+{
+  "artistId": "giovanni_girolamo_savoldo",
+  "name": "Джованни Джироламо Савольдо",
+  "latin": "Giovanni Girolamo Savoldo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131628801",
+      "title": "Transfiguration",
+      "status": "needs_review",
+      "file": "work-21f9917c5a6c12419bbb915a.json"
+    },
+    {
+      "work": "Q3997721",
+      "title": "Transfiguration",
+      "status": "metadata_passed_not_visual",
+      "file": "work-55db9b6016add7a4babc92e1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

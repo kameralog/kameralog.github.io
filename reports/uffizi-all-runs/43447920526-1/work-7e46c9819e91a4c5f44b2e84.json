@@ -1,0 +1,40 @@
+{
+  "work": "Q15974356",
+  "title": "Portrait of Iseppo da Porto and his son Adriano",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "Contini Bonacossi 16"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Count Iseppo da Porto, by Paolo Veronese.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Count_Iseppo_da_Porto%2C_by_Paolo_Veronese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Count_Iseppo_da_Porto%2C_by_Paolo_Veronese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Count_Iseppo_da_Porto,_by_Paolo_Veronese.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Paolo Veronese",
+        "credit": "Rijksmuseum",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:06:09.679Z"
+      },
+      "width": 4095,
+      "height": 6494
+    }
+  ]
+}

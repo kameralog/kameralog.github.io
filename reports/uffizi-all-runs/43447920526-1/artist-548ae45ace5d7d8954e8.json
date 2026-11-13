@@ -1,0 +1,16 @@
+{
+  "artistId": "cimabue",
+  "name": "Чимабуэ",
+  "latin": "Cimabue (Cenni di Pepo)",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1569622",
+      "title": "Madonna and Child Enthroned with Angels and Prophets. ˋSanta Trinità Maestà´",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2b49bf267fde759021868947.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

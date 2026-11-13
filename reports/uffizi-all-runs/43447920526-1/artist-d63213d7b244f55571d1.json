@@ -1,0 +1,22 @@
+{
+  "artistId": "domenichino",
+  "name": "Доменикино",
+  "latin": "Domenichino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q138161289",
+      "title": "Portrait of Cardinal Agucchi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cd9dc116fb0b7d465d1704fa.json"
+    },
+    {
+      "work": "Q140753081",
+      "title": "Portrait of Virginio Cesarini",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cd69f8459951e09745e319cd.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

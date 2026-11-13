@@ -1,0 +1,40 @@
+{
+  "work": "Q3630726",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1630"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Hans Holbein the Younger, self-portrait.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hans_Holbein_the_Younger%2C_self-portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hans_Holbein_the_Younger%2C_self-portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger,_self-portrait.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hans Holbein the Younger",
+        "credit": "Stephanie Buck, Hans Holbein , Cologne: Könemann, 1999, ISBN 3829025831 .",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:05:13.138Z"
+      },
+      "width": 2424,
+      "height": 3312
+    }
+  ]
+}

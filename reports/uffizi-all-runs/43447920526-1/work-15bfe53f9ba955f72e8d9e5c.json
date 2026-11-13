@@ -1,0 +1,41 @@
+{
+  "work": "Q112045364",
+  "title": "Concerto",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bartolomeo manfredi, concerto (uffizi), danneggiata nell'attentato di via dei georgofili 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bartolomeo_manfredi%2C_concerto_%28uffizi%29%2C_danneggiata_nell%27attentato_di_via_dei_georgofili_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bartolomeo_manfredi%2C_concerto_%28uffizi%29%2C_danneggiata_nell%27attentato_di_via_dei_georgofili_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bartolomeo_manfredi,_concerto_(uffizi),_danneggiata_nell%27attentato_di_via_dei_georgofili_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:14:52.070Z"
+      },
+      "width": 4248,
+      "height": 3204
+    }
+  ]
+}

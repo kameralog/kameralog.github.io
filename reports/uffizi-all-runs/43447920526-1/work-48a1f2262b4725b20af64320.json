@@ -1,0 +1,41 @@
+{
+  "work": "Q119164762",
+  "title": "Portrait of Lorenzo di Giovanni de' Medici",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "2220",
+    "M02-104"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Portrait of Lorenzo de' Medici il Vecchio.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Portrait_of_Lorenzo_de%27_Medici_il_Vecchio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Portrait_of_Lorenzo_de%27_Medici_il_Vecchio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_de%27_Medici_il_Vecchio.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "palazzomediciriccardi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:16:45.208Z"
+      },
+      "width": 3358,
+      "height": 3983
+    }
+  ]
+}

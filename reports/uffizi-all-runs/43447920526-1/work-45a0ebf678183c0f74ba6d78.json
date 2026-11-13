@@ -1,0 +1,40 @@
+{
+  "work": "Q50378007",
+  "title": "Portrait of Francesco I de' Medici as a Child",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1571"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "FrancescodeMedici.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/FrancescodeMedici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/6f/FrancescodeMedici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:FrancescodeMedici.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/bronzino/1/f_medici\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12565,
+        "checkedAt": "2026-11-13T15:05:04.029Z"
+      },
+      "width": 716,
+      "height": 1001
+    }
+  ]
+}

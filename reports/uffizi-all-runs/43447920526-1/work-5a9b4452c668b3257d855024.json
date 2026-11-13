@@ -1,0 +1,40 @@
+{
+  "work": "Q18683107",
+  "title": "Pippo Spano from the cycle Famous People",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00291026 8"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea del Castagno - Pippo Spano, Niccolò Acciaiuoli, Francesco Petrarca - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Andrea_del_Castagno_-_Pippo_Spano%2C_Niccol%C3%B2_Acciaiuoli%2C_Francesco_Petrarca_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Andrea_del_Castagno_-_Pippo_Spano%2C_Niccol%C3%B2_Acciaiuoli%2C_Francesco_Petrarca_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_-_Pippo_Spano,_Niccol%C3%B2_Acciaiuoli,_Francesco_Petrarca_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Castagno / Andrea del Castagno / Andrea del Castagno",
+        "credit": "Google Arts & Culture — RAFbNU4KPI2CYw",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:12:06.106Z"
+      },
+      "width": 2291,
+      "height": 3397
+    }
+  ]
+}

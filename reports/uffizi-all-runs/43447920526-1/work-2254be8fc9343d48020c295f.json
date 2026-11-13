@@ -1,0 +1,40 @@
+{
+  "work": "Q118955910",
+  "title": "Portrait of Francesco and Caterina Medici as children",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "Poggio Imperiale 1275"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Allori Cristofano - iscrizione - ritratti di Francesco e Caterina de' Medici bambini, 1415299 (cropped).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Allori_Cristofano_-_iscrizione_-_ritratti_di_Francesco_e_Caterina_de%27_Medici_bambini%2C_1415299_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/25/Allori_Cristofano_-_iscrizione_-_ritratti_di_Francesco_e_Caterina_de%27_Medici_bambini%2C_1415299_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Allori_Cristofano_-_iscrizione_-_ritratti_di_Francesco_e_Caterina_de%27_Medici_bambini,_1415299_(cropped).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Cristofano Allori",
+        "credit": "https://catalogo.uffizi.it/it/29/ricerca/iccd/?search=Allori+Cristofano",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:13.751Z"
+      },
+      "width": 889,
+      "height": 1184
+    }
+  ]
+}

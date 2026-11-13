@@ -1,0 +1,40 @@
+{
+  "work": "Q3630762",
+  "title": "Tronie of a Young Man with Gorget and Beret",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "3890"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Harmensz van Rijn Rembrandt - Ritratto di giovane - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Harmensz_van_Rijn_Rembrandt_-_Ritratto_di_giovane_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Attributed to Rembrandt",
+        "credit": "Google Arts & Culture — PgEZs_YVqRYrng",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:02:39.852Z"
+      },
+      "width": 1664,
+      "height": 1928
+    }
+  ]
+}

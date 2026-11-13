@@ -1,0 +1,16 @@
+{
+  "artistId": "francois_boucher",
+  "name": "Франсуа Буше",
+  "latin": "François Boucher",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241454",
+      "title": "Q114241454",
+      "status": "needs_review",
+      "file": "work-d598131ee239c449d38223b5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

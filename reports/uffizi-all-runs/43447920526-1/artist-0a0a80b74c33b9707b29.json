@@ -1,0 +1,16 @@
+{
+  "artistId": "michelangelo",
+  "name": "Микеланджело Буонарроти",
+  "latin": "Michelangelo Buonarroti",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1473546",
+      "title": "Doni Tondo",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e4b75cc3afea6e64a8ac6123.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

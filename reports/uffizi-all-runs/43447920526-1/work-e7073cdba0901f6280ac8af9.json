@@ -1,0 +1,40 @@
+{
+  "work": "Q125170382",
+  "title": "The Honesty of Saint Eligius",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8663"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "L'empoli, onestà di sant'eligio, 1614, dalla confraternita degli orafi a firenze, 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/L%27empoli%2C_onest%C3%A0_di_sant%27eligio%2C_1614%2C_dalla_confraternita_degli_orafi_a_firenze%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b0/L%27empoli%2C_onest%C3%A0_di_sant%27eligio%2C_1614%2C_dalla_confraternita_degli_orafi_a_firenze%2C_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:L%27empoli,_onest%C3%A0_di_sant%27eligio,_1614,_dalla_confraternita_degli_orafi_a_firenze,_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:16:21.225Z"
+      },
+      "width": 2994,
+      "height": 4602
+    }
+  ]
+}

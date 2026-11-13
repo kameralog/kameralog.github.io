@@ -1,0 +1,18 @@
+{
+  "snapshot": "eb305904ec8b74b103799106cb54f6ceb29e3259",
+  "artistsTotal": 866,
+  "artistsProcessed": 866,
+  "indexComplete": true,
+  "scope": "All current site artists checked against Wikidata collections Q51252, Q16335227 (Uffizi) and Q866498 (Galleria Palatina); not a complete museum catalogue or visual review",
+  "statuses": {
+    "no_match_in_checked_index": 676,
+    "has_metadata_supported_candidates": 158,
+    "needs_review": 32
+  },
+  "errors": [],
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "indexWorks": 1305,
+  "complete": true,
+  "httpMediaRequests": 1222
+}

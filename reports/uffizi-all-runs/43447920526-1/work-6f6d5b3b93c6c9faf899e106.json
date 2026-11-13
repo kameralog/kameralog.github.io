@@ -1,0 +1,38 @@
+{
+  "work": "Q20486507",
+  "title": "Achilles and the Centaur Chiron",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pompeo Batoni - Achilles and the Centaur Chiron - WGA1498.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pompeo_Batoni_-_Achilles_and_the_Centaur_Chiron_-_WGA1498.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pompeo_Batoni_-_Achilles_and_the_Centaur_Chiron_-_WGA1498.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pompeo_Batoni_-_Achilles_and_the_Centaur_Chiron_-_WGA1498.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pompeo Batoni",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/batoni/achilles\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:15:46.341Z"
+      },
+      "width": 1000,
+      "height": 1213
+    }
+  ]
+}

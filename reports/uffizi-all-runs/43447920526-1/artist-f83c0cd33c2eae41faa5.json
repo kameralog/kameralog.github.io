@@ -1,0 +1,22 @@
+{
+  "artistId": "battistello_caracciolo",
+  "name": "Баттистелло Караччоло",
+  "latin": "Battistello Caracciolo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912613",
+      "title": "Salome receiving the head of John the Baptist",
+      "status": "needs_review",
+      "file": "work-8e297718ea8d00094987eb6c.json"
+    },
+    {
+      "work": "Q131627780",
+      "title": "Salome receives the Head of St. John the Baptist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4f8ec75fa05b3e3309ca4fa6.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

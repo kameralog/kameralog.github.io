@@ -1,0 +1,40 @@
+{
+  "work": "Q3797771",
+  "title": "Coronation of the Virgin",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285064"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Fra' Angelico - Incoronazione della Vergine - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Fra%27_Angelico_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/14/Fra%27_Angelico_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra%27_Angelico_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Fra Angelico",
+        "credit": "Google Arts & Culture — kgHzjXSIWl3RJA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:03:13.087Z"
+      },
+      "width": 2925,
+      "height": 3000
+    }
+  ]
+}

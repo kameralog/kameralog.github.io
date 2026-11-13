@@ -1,0 +1,22 @@
+{
+  "artistId": "rosalba_carriera",
+  "name": "Розальба Каррьера",
+  "latin": "Rosalba Carriera",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q105503258",
+      "title": "Flora",
+      "status": "needs_review",
+      "file": "work-e3950839cf4ac75ffc1598ae.json"
+    },
+    {
+      "work": "Q23010034",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-70d13be64da9f2a01a492df3.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

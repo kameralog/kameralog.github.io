@@ -1,0 +1,42 @@
+{
+  "work": "Q867403",
+  "title": "Madonna with the Long Neck",
+  "collections": [
+    "Q866498",
+    "Q51252"
+  ],
+  "inventories": [
+    "230",
+    "00287693"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Parmigianino - Madonna and Child with Angels, known as the Madonna with the Long Neck.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Parmigianino_-_Madonna_and_Child_with_Angels%2C_known_as_the_Madonna_with_the_Long_Neck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/70/Parmigianino_-_Madonna_and_Child_with_Angels%2C_known_as_the_Madonna_with_the_Long_Neck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmigianino_-_Madonna_and_Child_with_Angels,_known_as_the_Madonna_with_the_Long_Neck.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Parmigianino",
+        "credit": "https://www.uffizi.it/en/artworks/parmigianino-madonna-long-neck",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:09:21.270Z"
+      },
+      "width": 1490,
+      "height": 2336
+    }
+  ]
+}

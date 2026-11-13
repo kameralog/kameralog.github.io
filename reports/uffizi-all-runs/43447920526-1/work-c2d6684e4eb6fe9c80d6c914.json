@@ -1,0 +1,40 @@
+{
+  "work": "Q29016129",
+  "title": "Madonna and Child",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "2129"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Artemisia Gentileschi - Madonna con Bambino (1609-1610).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Artemisia_Gentileschi_-_Madonna_con_Bambino_%281609-1610%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Madonna_con_Bambino_(1609-1610).jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Artemisia Gentileschi",
+        "credit": "http://www.caccioppoli.com/Madonna%20and%20Child%20(fit%20screen)/Duccio/Gentileschi%20madonna-and-child-4457%20(2).jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:09:58.783Z"
+      },
+      "width": 1075,
+      "height": 1493
+    }
+  ]
+}

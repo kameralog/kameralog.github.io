@@ -1,0 +1,22 @@
+{
+  "artistId": "luca_giordano",
+  "name": "Лука Джордано",
+  "latin": "Luca Giordano",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912652",
+      "title": "Self portrait of Luca Giordano (1632-1705)",
+      "status": "needs_review",
+      "file": "work-56968c6347f1b4de038b3058.json"
+    },
+    {
+      "work": "Q52157997",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8bffcd712ee1f2930a8e50d5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

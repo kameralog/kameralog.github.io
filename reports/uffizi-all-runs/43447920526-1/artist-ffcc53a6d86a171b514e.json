@@ -1,0 +1,16 @@
+{
+  "artistId": "simone_pignoni",
+  "name": "Симоне Пиньони",
+  "latin": "Simone Pignoni",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q135913315",
+      "title": "Self-portrait with palette and brush",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f59babc29876264c2821b4b1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

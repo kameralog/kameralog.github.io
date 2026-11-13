@@ -1,0 +1,40 @@
+{
+  "work": "Q104772137",
+  "title": "Tears of Saint Peter",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00294579"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "El Greco - Tears of Saint Peter, Contini-Bonacossi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/El_Greco_-_Tears_of_Saint_Peter%2C_Contini-Bonacossi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ac/El_Greco_-_Tears_of_Saint_Peter%2C_Contini-Bonacossi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Tears_of_Saint_Peter,_Contini-Bonacossi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "El Greco",
+        "credit": "https://www.flickr.com/photos/mbell1975/4590774930",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:04:08.606Z"
+      },
+      "width": 738,
+      "height": 1024
+    }
+  ]
+}

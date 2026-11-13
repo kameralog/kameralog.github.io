@@ -1,0 +1,34 @@
+{
+  "artistId": "eglon_hendrik_van_der_neer",
+  "name": "Эглон Хендрик ван дер Нер",
+  "latin": "Eglon Hendrik van der Neer",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912603",
+      "title": "Landscape with washerwomen",
+      "status": "needs_review",
+      "file": "work-1e537a77cd7d0f6260d6183b.json"
+    },
+    {
+      "work": "Q52155602",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4a142d8a8b279305b867df89.json"
+    },
+    {
+      "work": "Q63214093",
+      "title": "Esther swoons in front of Ahasuerus (Esther Apocryphia 15:7)",
+      "status": "needs_review",
+      "file": "work-107cb94d22fe0832cf3b8ddc.json"
+    },
+    {
+      "work": "Q63214120",
+      "title": "Pastoral landscape",
+      "status": "needs_review",
+      "file": "work-7c65db32da527daa6530ad85.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

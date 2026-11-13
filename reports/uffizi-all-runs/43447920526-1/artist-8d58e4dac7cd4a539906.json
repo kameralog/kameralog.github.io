@@ -1,0 +1,22 @@
+{
+  "artistId": "carlo_maratta",
+  "name": "Карло Маратта",
+  "latin": "Carlo Maratta",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52155208",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e931518e714df52615417364.json"
+    },
+    {
+      "work": "Q53995784",
+      "title": "The Virgin Appearing to St Philip Neri",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f8c25ed321664b37da3346e1.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

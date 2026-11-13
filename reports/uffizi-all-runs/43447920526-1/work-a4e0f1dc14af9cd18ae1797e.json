@@ -1,0 +1,40 @@
+{
+  "work": "Q15974339",
+  "title": "Penitent Magdalene",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "67"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Magdalena penitente, por Tiziano.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Magdalena_penitente%2C_por_Tiziano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Magdalena_penitente%2C_por_Tiziano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Magdalena_penitente,_por_Tiziano.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:08:39.345Z"
+      },
+      "width": 1454,
+      "height": 1813
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q3863235",
+  "title": "Death of Adonis",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00288071"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sebastiano del Piombo - Morte di Adone - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sebastiano_del_Piombo_-_Morte_di_Adone_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sebastiano_del_Piombo_-_Morte_di_Adone_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo_-_Morte_di_Adone_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sebastiano del Piombo",
+        "credit": "Google Arts & Culture — JwHDpSxjJK2WJA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:13:58.961Z"
+      },
+      "width": 10488,
+      "height": 6864
+    }
+  ]
+}

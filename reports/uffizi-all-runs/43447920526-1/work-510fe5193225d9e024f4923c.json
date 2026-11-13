@@ -1,0 +1,40 @@
+{
+  "work": "Q3775535",
+  "title": "Large Calvary",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286584"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Jan brueghel il vecchio, grande calvario.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Jan_brueghel_il_vecchio%2C_grande_calvario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Jan_brueghel_il_vecchio%2C_grande_calvario.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jan_brueghel_il_vecchio,_grande_calvario.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jan Brueghel the Elder",
+        "credit": "www.wga.hu",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:10:46.573Z"
+      },
+      "width": 627,
+      "height": 922
+    }
+  ]
+}

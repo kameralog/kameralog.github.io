@@ -1,0 +1,16 @@
+{
+  "artistId": "joachim_beuckelaer",
+  "name": "Йоахим Бейкелар",
+  "latin": "Joachim Beuckelaer",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q116912684",
+      "title": "Pilato mostra Cristo al popolo",
+      "status": "needs_review",
+      "file": "work-056bbaee7f506bc6ce406a22.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

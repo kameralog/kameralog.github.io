@@ -1,0 +1,40 @@
+{
+  "work": "Q3686076",
+  "title": "The Concert",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "185"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano Vecellio (Pieve di Cadore 1490 ca - Venezia 1576) - Il Concerto - 185 - Galleria Palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tiziano_Vecellio_%28Pieve_di_Cadore_1490_ca_-_Venezia_1576%29_-_Il_Concerto_-_185_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Tiziano_Vecellio_%28Pieve_di_Cadore_1490_ca_-_Venezia_1576%29_-_Il_Concerto_-_185_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_(Pieve_di_Cadore_1490_ca_-_Venezia_1576)_-_Il_Concerto_-_185_-_Galleria_Palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "uffizi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:08:43.770Z"
+      },
+      "width": 3564,
+      "height": 2541
+    }
+  ]
+}

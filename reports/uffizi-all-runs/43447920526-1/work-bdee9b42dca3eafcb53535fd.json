@@ -1,0 +1,38 @@
+{
+  "work": "Q124449297",
+  "title": "Circumcision",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Albertinelli - circoncisione di Gesù Bambino, 1180195.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Albertinelli_-_circoncisione_di_Ges%C3%B9_Bambino%2C_1180195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Albertinelli_-_circoncisione_di_Ges%C3%B9_Bambino%2C_1180195.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Albertinelli_-_circoncisione_di_Ges%C3%B9_Bambino,_1180195.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Mariotto Albertinelli",
+        "credit": "https://catalogo.uffizi.it/it/29/ricerca/iccd/?search=Albertinelli&paginate_pageNum=1",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12564,
+        "checkedAt": "2026-11-13T15:13:45.362Z"
+      },
+      "width": 1200,
+      "height": 590
+    }
+  ]
+}

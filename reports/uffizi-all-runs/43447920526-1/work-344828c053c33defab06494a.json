@@ -1,0 +1,40 @@
+{
+  "work": "Q11824924",
+  "title": "Portrait of María Luisa de Borbón y Vallabriga",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "9484"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Francisco de Goya - Ritratto di María Luisa de Borbón y Vallabriga - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Francisco_de_Goya_-_Ritratto_di_Mar%C3%ADa_Luisa_de_Borb%C3%B3n_y_Vallabriga_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Francisco_de_Goya_-_Ritratto_di_Mar%C3%ADa_Luisa_de_Borb%C3%B3n_y_Vallabriga_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_-_Ritratto_di_Mar%C3%ADa_Luisa_de_Borb%C3%B3n_y_Vallabriga_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Francisco Goya",
+        "credit": "Google Arts & Culture — PAFl1VBxpXfmwg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:10:31.800Z"
+      },
+      "width": 2030,
+      "height": 3490
+    }
+  ]
+}

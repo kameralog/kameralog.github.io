@@ -1,0 +1,22 @@
+{
+  "artistId": "jean_etienne_liotard",
+  "name": "Жан-Этьен Лиотар",
+  "latin": "Jean-Etienne Liotard",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q18686531",
+      "title": "Portrait of Maria Adelaide of France in Turkish-style clothes",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4a7ccca4d873f76199375b34.json"
+    },
+    {
+      "work": "Q52157900",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-57f659ebbb75ae2a12bf3054.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

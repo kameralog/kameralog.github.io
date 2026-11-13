@@ -1,0 +1,40 @@
+{
+  "work": "Q9150125",
+  "title": "Amor and Psyche",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "5443"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Giuseppe Maria Crespi - Amore e Psiche - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Giuseppe_Maria_Crespi_-_Amore_e_Psiche_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/51/Giuseppe_Maria_Crespi_-_Amore_e_Psiche_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_Amore_e_Psiche_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giuseppe Maria Crespi",
+        "credit": "Google Arts & Culture — NAEULedkSUBQXQ",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:15:31.289Z"
+      },
+      "width": 3535,
+      "height": 2197
+    }
+  ]
+}

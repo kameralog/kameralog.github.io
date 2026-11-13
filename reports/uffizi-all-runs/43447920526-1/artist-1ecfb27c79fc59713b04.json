@@ -1,0 +1,16 @@
+{
+  "artistId": "aivazovsky",
+  "name": "Иван Айвазовский",
+  "latin": "Ivan Aivazovsky",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52154374",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-96a47a59abc5d5407b891b0d.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

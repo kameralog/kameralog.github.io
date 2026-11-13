@@ -1,0 +1,34 @@
+{
+  "artistId": "francesco_salviati",
+  "name": "Франческо Сальвиати",
+  "latin": "Francesco Salviati",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q131422021",
+      "title": "Adoration of the sheperds",
+      "status": "needs_review",
+      "file": "work-a074c11017d9c6493c79fbf7.json"
+    },
+    {
+      "work": "Q15974334",
+      "title": "Charity",
+      "status": "needs_review",
+      "file": "work-0fb1a6859fef7af7a09739f5.json"
+    },
+    {
+      "work": "Q17173923",
+      "title": "Artemisia mourning Mausolus",
+      "status": "needs_review",
+      "file": "work-84fe466d06f5f366cb9f9450.json"
+    },
+    {
+      "work": "Q18613326",
+      "title": "The Three Fates",
+      "status": "needs_review",
+      "file": "work-ac9e2ed423308307e5064fdc.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

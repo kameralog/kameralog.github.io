@@ -1,0 +1,40 @@
+{
+  "work": "Q3797775",
+  "title": "Coronation of the Virgin",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00281142"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lorenzo Monaco - Incoronazione della Vergine - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lorenzo_Monaco_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lorenzo_Monaco_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Monaco_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo Monaco",
+        "credit": "Google Arts & Culture — 4wGwIhQqTqCArw",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:04:05.601Z"
+      },
+      "width": 2893,
+      "height": 3000
+    }
+  ]
+}

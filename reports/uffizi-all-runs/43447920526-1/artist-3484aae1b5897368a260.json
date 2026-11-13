@@ -1,0 +1,58 @@
+{
+  "artistId": "albrecht_durer",
+  "name": "Альбрехт Дюрер",
+  "latin": "Albrecht Dürer",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q124454923",
+      "title": "Marriage Coat of Arms of the Families Duerer and Holper. Verso of the Albrecht Dürer the Elder portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-aedd742c66883d73e0c38d77.json"
+    },
+    {
+      "work": "Q18683052",
+      "title": "Portrait of the artist's father",
+      "status": "metadata_passed_not_visual",
+      "file": "work-71d91a3a2db7068e743cb756.json"
+    },
+    {
+      "work": "Q1988057",
+      "title": "Portrait Diptych of Dürer's Parents",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b30a21ac78e3822b595ce24b.json"
+    },
+    {
+      "work": "Q2628761",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-37fdf688f2f2e61bf73f2e80.json"
+    },
+    {
+      "work": "Q3947062",
+      "title": "Saint Philip",
+      "status": "metadata_passed_not_visual",
+      "file": "work-371f30781a0c1be9b137103a.json"
+    },
+    {
+      "work": "Q3947190",
+      "title": "The Apostle James the Elder",
+      "status": "metadata_passed_not_visual",
+      "file": "work-846486bedff02c7a3fe42573.json"
+    },
+    {
+      "work": "Q4009969",
+      "title": "Madonna and Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-acf3f16ec064c49b71b2c4c9.json"
+    },
+    {
+      "work": "Q62066600",
+      "title": "Katherina",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3570cdb2046610c5db2a6478.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

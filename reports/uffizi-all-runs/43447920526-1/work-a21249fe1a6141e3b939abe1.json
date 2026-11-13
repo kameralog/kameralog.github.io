@@ -1,0 +1,40 @@
+{
+  "work": "Q2350980",
+  "title": "Santa Lucia de' Magnoli Altarpiece",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285075"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Domenico Veneziano - Pala di Santa Lucia dei Magnoli - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Domenico_Veneziano_-_Pala_di_Santa_Lucia_dei_Magnoli_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Domenico_Veneziano_-_Pala_di_Santa_Lucia_dei_Magnoli_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Domenico_Veneziano_-_Pala_di_Santa_Lucia_dei_Magnoli_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Domenico Veneziano",
+        "credit": "Google Arts & Culture — 6QGQerjXR1l0ng",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:12:12.285Z"
+      },
+      "width": 2180,
+      "height": 2167
+    }
+  ]
+}

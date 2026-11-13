@@ -1,0 +1,28 @@
+{
+  "artistId": "sebastiano_ricci",
+  "name": "Себастьяно Риччи",
+  "latin": "Sebastiano Ricci",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q107420119",
+      "title": "Jupiter and Semele",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3aabbca4af4d5857c4bdf003.json"
+    },
+    {
+      "work": "Q116912660",
+      "title": "Self-portrait of Sebastiano Ricci (1759-1734)",
+      "status": "needs_review",
+      "file": "work-b09a634d2c6e35bdabaada5e.json"
+    },
+    {
+      "work": "Q50846578",
+      "title": "Allegory of Tuscany",
+      "status": "metadata_passed_not_visual",
+      "file": "work-abfcb9c9e670d1283c49893f.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

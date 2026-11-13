@@ -1,0 +1,40 @@
+{
+  "work": "Q104967205",
+  "title": "Painting and Poetry",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "6466"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Francesco Furini - Allegory of Painting and Poetry.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Francesco_Furini_-_Allegory_of_Painting_and_Poetry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Francesco_Furini_-_Allegory_of_Painting_and_Poetry.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Allegory_of_Painting_and_Poetry.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Francesco Furini",
+        "credit": "Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:16:03.206Z"
+      },
+      "width": 2470,
+      "height": 3198
+    }
+  ]
+}

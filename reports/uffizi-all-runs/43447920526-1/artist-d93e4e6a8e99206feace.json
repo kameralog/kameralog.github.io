@@ -1,0 +1,28 @@
+{
+  "artistId": "berlinghiero",
+  "name": "Берлингьеро Берлингьери",
+  "latin": "Berlinghiero",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q141671207",
+      "title": "Diptych: Crucifixion",
+      "status": "needs_review",
+      "file": "work-6e492b97ee1a4e196fe969c6.json"
+    },
+    {
+      "work": "Q141671268",
+      "title": "Diptych: Madonna and Child with Saints",
+      "status": "needs_review",
+      "file": "work-d18990f3e2d173fbac971da9.json"
+    },
+    {
+      "work": "Q3711898",
+      "title": "Diptych of crucifixion and Madonna and Child",
+      "status": "needs_review",
+      "file": "work-8aa3344083fab757c463352a.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

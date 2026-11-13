@@ -1,0 +1,16 @@
+{
+  "artistId": "anton_raphael_mengs",
+  "name": "Антон Рафаэль Менгс",
+  "latin": "Anton Raphael Mengs",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q52338215",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9e542c7c96a24ce37fd92630.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

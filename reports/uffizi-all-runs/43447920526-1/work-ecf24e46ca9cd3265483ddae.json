@@ -1,0 +1,40 @@
+{
+  "work": "Q48917755",
+  "title": "Vanitas",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "9283"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "4DPict.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/4DPict.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/66/4DPict.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:4DPict.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Mattia Preti",
+        "credit": "http://imagencpd.aut.org/4DPict?file=20&rec=18.211&field=2",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:15:34.301Z"
+      },
+      "width": 1566,
+      "height": 2126
+    }
+  ]
+}

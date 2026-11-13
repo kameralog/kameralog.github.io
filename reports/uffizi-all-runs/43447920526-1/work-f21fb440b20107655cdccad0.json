@@ -1,0 +1,40 @@
+{
+  "work": "Q19361572",
+  "title": "Self-portrait of Élisabeth Louise Vigée Le Brun",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1905"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Self-portrait (by Elisabeth Vigée-Lebrun) – Galleria degli Uffizi, Florence.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Self-portrait_%28by_Elisabeth_Vig%C3%A9e-Lebrun%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Self-portrait_%28by_Elisabeth_Vig%C3%A9e-Lebrun%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_(by_Elisabeth_Vig%C3%A9e-Lebrun)_%E2%80%93_Galleria_degli_Uffizi,_Florence.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Élisabeth Louise Vigée Le Brun",
+        "credit": "[1] [2]",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:17:33.280Z"
+      },
+      "width": 1949,
+      "height": 2488
+    }
+  ]
+}

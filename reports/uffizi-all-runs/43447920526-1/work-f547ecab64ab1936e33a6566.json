@@ -1,0 +1,38 @@
+{
+  "work": "Q114391600",
+  "title": "Portrait of Archduke Leopold Willem of Austria in a flower garland",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Daniel seghers e jan Van den Hoecke, ghirlanda di fiori con il ritratto dell'arciduca Leopoldo Guglielmo, 1647-1651.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Daniel_seghers_e_jan_Van_den_Hoecke%2C_ghirlanda_di_fiori_con_il_ritratto_dell%27arciduca_Leopoldo_Guglielmo%2C_1647-1651.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/97/Daniel_seghers_e_jan_Van_den_Hoecke%2C_ghirlanda_di_fiori_con_il_ritratto_dell%27arciduca_Leopoldo_Guglielmo%2C_1647-1651.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Daniel_seghers_e_jan_Van_den_Hoecke,_ghirlanda_di_fiori_con_il_ritratto_dell%27arciduca_Leopoldo_Guglielmo,_1647-1651.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "",
+        "credit": "http://www.artchive.com/web_gallery/D/Daniel-Seghers/Garland-of-flowers-surrounding-a-marble-bust-of-Archduke-Leopold-Guglielmo,-c.1647.html",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:14:26.397Z"
+      },
+      "width": 491,
+      "height": 600
+    }
+  ]
+}

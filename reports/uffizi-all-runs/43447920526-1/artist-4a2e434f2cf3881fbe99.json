@@ -1,0 +1,16 @@
+{
+  "artistId": "lucas_van_leyden",
+  "name": "Лукас ван Лейден",
+  "latin": "Lucas van Leyden",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q3697614",
+      "title": "Crucifixion of Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ddea9b85b8efe478f6c2d431.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

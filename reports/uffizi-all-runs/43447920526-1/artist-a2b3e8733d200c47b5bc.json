@@ -1,0 +1,16 @@
+{
+  "artistId": "giovanni_bilivert",
+  "name": "Джованни Биливерт",
+  "latin": "Giovanni Bilivert",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q131450079",
+      "title": "Angelica and Roger",
+      "status": "needs_review",
+      "file": "work-64600c26e8b021b545da4ba9.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

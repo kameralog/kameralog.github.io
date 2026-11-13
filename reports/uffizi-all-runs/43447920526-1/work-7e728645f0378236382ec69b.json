@@ -1,0 +1,38 @@
+{
+  "work": "Q112580459",
+  "title": "The Crucifixion of Saint Andrew",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Dolci Crocifissione Andrea.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dolci_Crocifissione_Andrea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Dolci_Crocifissione_Andrea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Dolci_Crocifissione_Andrea.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Carlo Dolci",
+        "credit": "http://pintura.aut.org/BU04?Autnum=12.059",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:15:49.343Z"
+      },
+      "width": 650,
+      "height": 800
+    }
+  ]
+}

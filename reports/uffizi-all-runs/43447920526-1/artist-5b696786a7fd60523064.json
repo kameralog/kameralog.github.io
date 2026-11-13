@@ -1,0 +1,22 @@
+{
+  "artistId": "cesare_dandini",
+  "name": "Чезаре Дандини",
+  "latin": "Cesare Dandini",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q131627572",
+      "title": "Two water birds hanging",
+      "status": "needs_review",
+      "file": "work-7c049382dd6a4a31781f59a9.json"
+    },
+    {
+      "work": "Q132397721",
+      "title": "Rinaldo and Armida",
+      "status": "needs_review",
+      "file": "work-b229a01c6c73e84c2a8f5c55.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

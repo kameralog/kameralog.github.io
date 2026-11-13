@@ -1,0 +1,64 @@
+{
+  "work": "Q22931136",
+  "title": "Self-portrait",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1945"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pedar Severin Krøyer, by Pedar Severin Krøyer.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pedar_Severin_Kr%C3%B8yer%2C_by_Pedar_Severin_Kr%C3%B8yer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/75/Pedar_Severin_Kr%C3%B8yer%2C_by_Pedar_Severin_Kr%C3%B8yer.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pedar_Severin_Kr%C3%B8yer,_by_Pedar_Severin_Kr%C3%B8yer.JPG",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Peder Severin Krøyer / After Peder Severin Krøyer",
+        "credit": "Palais Dorotheum 11 October 2011, lot 107",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12586,
+        "checkedAt": "2026-11-13T15:18:01.993Z"
+      },
+      "width": 5761,
+      "height": 6987
+    },
+    {
+      "file": "Self-portrait of Pedar Severin Kroyer in the Vasari Corridor 2016-05-06.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Self-portrait_of_Pedar_Severin_Kroyer_in_the_Vasari_Corridor_2016-05-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/59/Self-portrait_of_Pedar_Severin_Kroyer_in_the_Vasari_Corridor_2016-05-06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_of_Pedar_Severin_Kroyer_in_the_Vasari_Corridor_2016-05-06.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Peder Severin Krøyer",
+        "credit": "Self-photographed (photo by Szilas in the Vasari Corridor)",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:18:03.478Z"
+      },
+      "width": 2528,
+      "height": 2806
+    }
+  ]
+}

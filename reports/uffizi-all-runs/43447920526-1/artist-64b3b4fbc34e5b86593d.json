@@ -1,0 +1,22 @@
+{
+  "artistId": "petrus_christus",
+  "name": "Петрус Кристус",
+  "latin": "Petrus Christus",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q116912648",
+      "title": "The Annunciation: the angel Gabriel",
+      "status": "needs_review",
+      "file": "work-5d88aa6766e567db94aac1e9.json"
+    },
+    {
+      "work": "Q116912649",
+      "title": "The Annunciation: the Virgin Mary",
+      "status": "needs_review",
+      "file": "work-ca658f273df298c6e966fafb.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

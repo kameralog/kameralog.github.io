@@ -1,0 +1,40 @@
+{
+  "work": "Q3937539",
+  "title": "Portrait of Galeazzo Maria Sforza",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1492"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pollaiuolo, Piero -Portrait of Galeazzo Maria Sforza - inv. 1890 1492.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pollaiuolo%2C_Piero_-Portrait_of_Galeazzo_Maria_Sforza_-_inv._1890_1492.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/57/Pollaiuolo%2C_Piero_-Portrait_of_Galeazzo_Maria_Sforza_-_inv._1890_1492.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pollaiuolo,_Piero_-Portrait_of_Galeazzo_Maria_Sforza_-_inv._1890_1492.jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Piero del Pollaiuolo",
+        "credit": "https://www.uffizi.it/en/artworks/ritratto-di-galeazzo-maria-sforza",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:11:30.135Z"
+      },
+      "width": 1239,
+      "height": 1918
+    }
+  ]
+}

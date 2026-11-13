@@ -1,0 +1,40 @@
+{
+  "work": "Q3944462",
+  "title": "Panciatichi Holy Family",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00021797"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bronzino - Sacra famiglia Panciatichi or Madonna Panciatichi - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bronzino_-_Sacra_famiglia_Panciatichi_or_Madonna_Panciatichi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bronzino_-_Sacra_famiglia_Panciatichi_or_Madonna_Panciatichi_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Sacra_famiglia_Panciatichi_or_Madonna_Panciatichi_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "Google Arts & Culture — swE5uDp9RM8WmQ",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:05:01.104Z"
+      },
+      "width": 2648,
+      "height": 3421
+    }
+  ]
+}

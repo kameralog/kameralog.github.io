@@ -1,0 +1,40 @@
+{
+  "work": "Q131561184",
+  "title": "Female Head in Profile",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "428 E"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Da Vinci - Weiblicher Kopf im Profil.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Da_Vinci_-_Weiblicher_Kopf_im_Profil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/85/Da_Vinci_-_Weiblicher_Kopf_im_Profil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Da_Vinci_-_Weiblicher_Kopf_im_Profil.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Leonardo da Vinci",
+        "credit": "Copied from an art book",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:07:34.591Z"
+      },
+      "width": 982,
+      "height": 1378
+    }
+  ]
+}

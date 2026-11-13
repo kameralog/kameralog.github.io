@@ -1,0 +1,40 @@
+{
+  "work": "Q123754396",
+  "title": "Our Lady of Mercy",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "484"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano Vecellio e aiuti - Madonna della Misericordia - 484 - Galleria Palatina.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tiziano_Vecellio_e_aiuti_-_Madonna_della_Misericordia_-_484_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tiziano_Vecellio_e_aiuti_-_Madonna_della_Misericordia_-_484_-_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_e_aiuti_-_Madonna_della_Misericordia_-_484_-_Galleria_Palatina.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian and workshop",
+        "credit": "meisterdrucke.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12564,
+        "checkedAt": "2026-11-13T15:08:30.201Z"
+      },
+      "width": 961,
+      "height": 1024
+    }
+  ]
+}

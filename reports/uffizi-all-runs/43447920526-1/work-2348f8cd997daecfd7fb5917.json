@@ -1,0 +1,40 @@
+{
+  "work": "Q3558043",
+  "title": "Perseus Freeing Andromeda",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1536"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Piero di Cosimo - Liberazione di Andromeda - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Piero di Cosimo",
+        "credit": "Google Arts & Culture — 0gGaSvnZqCaHrA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:12:28.739Z"
+      },
+      "width": 9704,
+      "height": 5520
+    }
+  ]
+}

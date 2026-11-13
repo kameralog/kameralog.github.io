@@ -1,0 +1,34 @@
+{
+  "artistId": "guido_reni",
+  "name": "Гвидо Рени",
+  "latin": "Guido Reni",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q125760078",
+      "title": "David with the Head of Goliath",
+      "status": "metadata_passed_not_visual",
+      "file": "work-df33b80be6b6b034487d559b.json"
+    },
+    {
+      "work": "Q23304693",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3e3767f32929f0dc70a9312d.json"
+    },
+    {
+      "work": "Q32904731",
+      "title": "Charity",
+      "status": "metadata_passed_not_visual",
+      "file": "work-20b8476c517e07dab1b994e5.json"
+    },
+    {
+      "work": "Q32904843",
+      "title": "Cleopatra",
+      "status": "metadata_passed_not_visual",
+      "file": "work-743430a6c849b89265d7b8ba.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

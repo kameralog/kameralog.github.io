@@ -1,0 +1,40 @@
+{
+  "work": "Q3664358",
+  "title": "Supper at Emmaus",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00099583"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Pontormo - Cena in Emmaus - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pontormo_-_Cena_in_Emmaus_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pontormo_-_Cena_in_Emmaus_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pontormo_-_Cena_in_Emmaus_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pontormo",
+        "credit": "Google Arts & Culture — MwHPzvKeSKDjPA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:05:47.895Z"
+      },
+      "width": 6816,
+      "height": 9240
+    }
+  ]
+}

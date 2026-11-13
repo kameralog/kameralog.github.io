@@ -1,0 +1,40 @@
+{
+  "artistId": "ludovico_mazzolino",
+  "name": "Людовико Маццолино",
+  "latin": "Ludovico Mazzolino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131704141",
+      "title": "Christ and the Adulteress",
+      "status": "needs_review",
+      "file": "work-dc1aebbf0658fe7726079ef7.json"
+    },
+    {
+      "work": "Q15974335",
+      "title": "Circumcision of Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9ac29ea6a11dd166cd47d8a2.json"
+    },
+    {
+      "work": "Q3842530",
+      "title": "Madonna with Child and Saints",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a382eeca8f502b10e8662dc5.json"
+    },
+    {
+      "work": "Q3975686",
+      "title": "Massacre of the Innocents",
+      "status": "metadata_passed_not_visual",
+      "file": "work-acc2c7a30a1321f22dfe67d7.json"
+    },
+    {
+      "work": "Q4680810",
+      "title": "The Adoration of the Shepherds",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8507e30da2457b77216b6dee.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

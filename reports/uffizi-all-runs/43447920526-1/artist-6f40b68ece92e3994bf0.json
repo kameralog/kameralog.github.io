@@ -1,0 +1,28 @@
+{
+  "artistId": "anton_domenico_gabbiani",
+  "name": "Антон Доменико Габбиани",
+  "latin": "Anton Domenico Gabbiani",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q125986172",
+      "title": "Portrait of Anna Maria Luisa de' Medici as a Young Woman",
+      "status": "metadata_passed_not_visual",
+      "file": "work-266ed2859e349a99a29795fa.json"
+    },
+    {
+      "work": "Q50399525",
+      "title": "The Rape of Ganymede",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0819953e4b3548549e5613a8.json"
+    },
+    {
+      "work": "Q52153808",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ece37054898a97cec0d00a00.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

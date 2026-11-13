@@ -1,0 +1,40 @@
+{
+  "work": "Q3877890",
+  "title": "Noli me tangere",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "516"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Sarto, Andrea del - Noli me tangere - c. 1510.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sarto%2C_Andrea_del_-_Noli_me_tangere_-_c._1510.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sarto%2C_Andrea_del_-_Noli_me_tangere_-_c._1510.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sarto,_Andrea_del_-_Noli_me_tangere_-_c._1510.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Sarto",
+        "credit": "abbeville.com",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:06:35.203Z"
+      },
+      "width": 562,
+      "height": 648
+    }
+  ]
+}

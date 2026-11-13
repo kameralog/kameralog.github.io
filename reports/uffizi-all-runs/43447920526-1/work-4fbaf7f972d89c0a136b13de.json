@@ -1,0 +1,40 @@
+{
+  "work": "Q99571360",
+  "title": "Judith with the Head of Holofernes",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "96"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Judit con la cabeza de Holofernes, por Cristofano Allori.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Judit_con_la_cabeza_de_Holofernes%2C_por_Cristofano_Allori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/76/Judit_con_la_cabeza_de_Holofernes%2C_por_Cristofano_Allori.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Judit_con_la_cabeza_de_Holofernes,_por_Cristofano_Allori.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Cristofano Allori",
+        "credit": "Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:19.736Z"
+      },
+      "width": 2006,
+      "height": 2500
+    }
+  ]
+}

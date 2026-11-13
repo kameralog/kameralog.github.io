@@ -1,0 +1,41 @@
+{
+  "work": "Q104935437",
+  "title": "Armida",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Cecco bravo, armida, 1550-55 ca. 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cecco_bravo%2C_armida%2C_1550-55_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/78/Cecco_bravo%2C_armida%2C_1550-55_ca._01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Cecco_bravo,_armida,_1550-55_ca._01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:17:07.793Z"
+      },
+      "width": 2922,
+      "height": 4308
+    }
+  ]
+}

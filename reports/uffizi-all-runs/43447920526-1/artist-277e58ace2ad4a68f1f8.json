@@ -1,0 +1,400 @@
+{
+  "artistId": "pontormo",
+  "name": "Якопо Понтормо",
+  "latin": "Jacopo da Pontormo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q111822178",
+      "title": "Supper at Emmaus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2984411d88633edceacaa7de.json"
+    },
+    {
+      "work": "Q117427876",
+      "title": "autoportrait of Giovanni Antonio Lappoli",
+      "status": "needs_review",
+      "file": "work-108ced7785aabcbd8ce7ed35.json"
+    },
+    {
+      "work": "Q117708177",
+      "title": "kicking player",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d25335ad6f4d08a6f9168723.json"
+    },
+    {
+      "work": "Q131546452",
+      "title": "Bachiacca",
+      "status": "needs_review",
+      "file": "work-b63aca218be8e7c457823d12.json"
+    },
+    {
+      "work": "Q131561197",
+      "title": "Drawing by Pontormo (Uffizi, 443 F)",
+      "status": "needs_review",
+      "file": "work-0e148d99858620d8eb948ef5.json"
+    },
+    {
+      "work": "Q131561198",
+      "title": "Drawing by Pontormo (Uffizi, 448 F)",
+      "status": "needs_review",
+      "file": "work-9e4670c155067254bab48db8.json"
+    },
+    {
+      "work": "Q131561199",
+      "title": "Drawing by Pontormo (Uffizi, 452 F)",
+      "status": "needs_review",
+      "file": "work-8a7147e03f245586caea4c01.json"
+    },
+    {
+      "work": "Q131561200",
+      "title": "Drawing by Pontormo (Uffizi, 454 F)",
+      "status": "needs_review",
+      "file": "work-87186bf25a6e816839b052fc.json"
+    },
+    {
+      "work": "Q131561201",
+      "title": "Drawing by Pontormo (Uffizi, 455 F)",
+      "status": "needs_review",
+      "file": "work-159c505ee03b78aa695ee18b.json"
+    },
+    {
+      "work": "Q131561202",
+      "title": "Drawing by Pontormo (Uffizi, 458 F)",
+      "status": "needs_review",
+      "file": "work-e215413f56566d6124ef9b74.json"
+    },
+    {
+      "work": "Q131561203",
+      "title": "Drawing by Pontormo (Uffizi, 461 F)",
+      "status": "needs_review",
+      "file": "work-7efaa79c52579d3ae1a64c2f.json"
+    },
+    {
+      "work": "Q131561205",
+      "title": "Drawing by Pontormo (Uffizi, 465 F)",
+      "status": "needs_review",
+      "file": "work-5f7d24c8f89e2df31d28a035.json"
+    },
+    {
+      "work": "Q131561206",
+      "title": "Drawing by Pontormo (Uffizi, 6503 F)",
+      "status": "needs_review",
+      "file": "work-d28d22118bc7cfc5f6402916.json"
+    },
+    {
+      "work": "Q131561207",
+      "title": "Drawing by Pontormo (Uffizi, 6505 F)",
+      "status": "needs_review",
+      "file": "work-9242058261527ed8f551354d.json"
+    },
+    {
+      "work": "Q131561208",
+      "title": "Drawing by Pontormo (Uffizi, 6506 F)",
+      "status": "needs_review",
+      "file": "work-6adc3f7199db291d988f9bba.json"
+    },
+    {
+      "work": "Q131561209",
+      "title": "Drawing by Pontormo (Uffizi, 6513 F)",
+      "status": "needs_review",
+      "file": "work-22a8f38dad85203aa65594a0.json"
+    },
+    {
+      "work": "Q131561210",
+      "title": "Drawing by Pontormo (Uffizi, 6521 F)",
+      "status": "needs_review",
+      "file": "work-d47577dcbb65ca61bbfb9ea3.json"
+    },
+    {
+      "work": "Q131561212",
+      "title": "Drawing by Pontormo (Uffizi, 6528 F)",
+      "status": "needs_review",
+      "file": "work-1ad157519ef13b6fa1d34ae8.json"
+    },
+    {
+      "work": "Q131561213",
+      "title": "Drawing by Pontormo (Uffizi, 6535 F)",
+      "status": "needs_review",
+      "file": "work-805562d1b5c67e1be41dceb4.json"
+    },
+    {
+      "work": "Q131561214",
+      "title": "Drawing by Pontormo (Uffizi, 6539 F)",
+      "status": "needs_review",
+      "file": "work-851ed8a41ff6b1c614feb139.json"
+    },
+    {
+      "work": "Q131561215",
+      "title": "Drawing by Pontormo (Uffizi, 6560 F)",
+      "status": "needs_review",
+      "file": "work-8e52dadc0d298480f2e9bdcb.json"
+    },
+    {
+      "work": "Q131561216",
+      "title": "Drawing by Pontormo (Uffizi, 6570 F)",
+      "status": "needs_review",
+      "file": "work-b55a1be2c8e83a10fc7f6222.json"
+    },
+    {
+      "work": "Q131561217",
+      "title": "Drawing by Pontormo (Uffizi, 6571 F)",
+      "status": "needs_review",
+      "file": "work-c4032208277da05b865d2442.json"
+    },
+    {
+      "work": "Q131561218",
+      "title": "Drawing by Pontormo (Uffizi, 6576 F)",
+      "status": "needs_review",
+      "file": "work-ff80a683ef7cc48884390d37.json"
+    },
+    {
+      "work": "Q131561219",
+      "title": "Drawing by Pontormo (Uffizi, 6579 F)",
+      "status": "needs_review",
+      "file": "work-9fd1fce65fcd8acf6588a02b.json"
+    },
+    {
+      "work": "Q131561220",
+      "title": "Drawing by Pontormo (Uffizi, 6583 F)",
+      "status": "needs_review",
+      "file": "work-d16bc9e34cf3edd4afe3d6cf.json"
+    },
+    {
+      "work": "Q131561221",
+      "title": "Drawing by Pontormo (Uffizi, 6584 F)",
+      "status": "needs_review",
+      "file": "work-426c2e036eb1abaaca037119.json"
+    },
+    {
+      "work": "Q131561222",
+      "title": "Drawing by Pontormo (Uffizi, 6587 F)",
+      "status": "needs_review",
+      "file": "work-1969885cdd34cb39e273c4c5.json"
+    },
+    {
+      "work": "Q131561223",
+      "title": "Drawing by Pontormo (Uffizi, 6593 F)",
+      "status": "needs_review",
+      "file": "work-a9b4768e2845da9e7f9bc42f.json"
+    },
+    {
+      "work": "Q131561224",
+      "title": "Drawing by Pontormo (Uffizi, 6599 F)",
+      "status": "needs_review",
+      "file": "work-4e409c1f653192ed73e977b9.json"
+    },
+    {
+      "work": "Q131561225",
+      "title": "Drawing by Pontormo (Uffizi, 6608 F)",
+      "status": "needs_review",
+      "file": "work-ed04db72f7a31a0d43d850f0.json"
+    },
+    {
+      "work": "Q131561226",
+      "title": "Drawing by Pontormo (Uffizi, 6609 F)",
+      "status": "needs_review",
+      "file": "work-3e72496a24defb87e79d2f02.json"
+    },
+    {
+      "work": "Q131561227",
+      "title": "Drawing by Pontormo (Uffizi, 6613 F)",
+      "status": "needs_review",
+      "file": "work-be34f54ab128e4e9b5e429c2.json"
+    },
+    {
+      "work": "Q131561228",
+      "title": "Drawing by Pontormo (Uffizi, 6630 F)",
+      "status": "needs_review",
+      "file": "work-9152539c5e3da7f818764e6f.json"
+    },
+    {
+      "work": "Q131561229",
+      "title": "Drawing by Pontormo (Uffizi, 6653 F)",
+      "status": "needs_review",
+      "file": "work-d25c7b32902994f9c6608d71.json"
+    },
+    {
+      "work": "Q131561230",
+      "title": "Drawing by Pontormo (Uffizi, 6661 F)",
+      "status": "needs_review",
+      "file": "work-3a3c0d8f380f85f430d7610e.json"
+    },
+    {
+      "work": "Q131561231",
+      "title": "Drawing by Pontormo (Uffizi, 6667 F)",
+      "status": "needs_review",
+      "file": "work-fa7a88088606dc3969f67efd.json"
+    },
+    {
+      "work": "Q131561232",
+      "title": "Drawing by Pontormo (Uffizi, 6670 F)",
+      "status": "needs_review",
+      "file": "work-e249a532cb8994f54dafcf80.json"
+    },
+    {
+      "work": "Q131561234",
+      "title": "Drawing by Pontormo (Uffizi, 6671 F)",
+      "status": "needs_review",
+      "file": "work-85751042ecb2a14651b73cc7.json"
+    },
+    {
+      "work": "Q131561236",
+      "title": "Drawing by Pontormo (Uffizi, 6683 F)",
+      "status": "needs_review",
+      "file": "work-ef9ac405b0798757566bee5b.json"
+    },
+    {
+      "work": "Q131561237",
+      "title": "Drawing by Pontormo (Uffizi, 6685 F)",
+      "status": "needs_review",
+      "file": "work-9316d43ecce99697a539c3ee.json"
+    },
+    {
+      "work": "Q131561238",
+      "title": "Drawing by Pontormo (Uffizi, 6689 F)",
+      "status": "needs_review",
+      "file": "work-fef7e4e26c7b4fbcf76918b9.json"
+    },
+    {
+      "work": "Q131561239",
+      "title": "Drawing by Pontormo (Uffizi, 6701 F)",
+      "status": "needs_review",
+      "file": "work-e6ed4b6f5fab8c1b132485d0.json"
+    },
+    {
+      "work": "Q131561240",
+      "title": "Drawing by Pontormo (Uffizi, 6727 F)",
+      "status": "needs_review",
+      "file": "work-702bda4c47eaaf9771d6f238.json"
+    },
+    {
+      "work": "Q131561241",
+      "title": "Drawing by Pontormo (Uffizi, 6728 F)",
+      "status": "needs_review",
+      "file": "work-96110d6a9d57e11b8223ccc9.json"
+    },
+    {
+      "work": "Q131561242",
+      "title": "Drawing by Pontormo (Uffizi, 6729 F)",
+      "status": "needs_review",
+      "file": "work-a0b0fcdfe1838424d3c5216b.json"
+    },
+    {
+      "work": "Q131561244",
+      "title": "Drawing by Pontormo (Uffizi, 6738 F)",
+      "status": "needs_review",
+      "file": "work-33da3344ab3ba95260263dc7.json"
+    },
+    {
+      "work": "Q131561245",
+      "title": "Drawing by Pontormo (Uffizi, 6739 F)",
+      "status": "needs_review",
+      "file": "work-5aca81a232ee43fde7ebeb67.json"
+    },
+    {
+      "work": "Q131561246",
+      "title": "Drawing by Pontormo (Uffizi, 6748 F)",
+      "status": "needs_review",
+      "file": "work-8a481396e095f95fd5b549ed.json"
+    },
+    {
+      "work": "Q131561247",
+      "title": "Drawing by Pontormo (Uffizi, 6749 F)",
+      "status": "needs_review",
+      "file": "work-7ed060db66b8e2ab76ab7b5d.json"
+    },
+    {
+      "work": "Q131561249",
+      "title": "Drawing by Pontormo (Uffizi, 6750 F)",
+      "status": "needs_review",
+      "file": "work-133ebb471c7d6b4366282f7e.json"
+    },
+    {
+      "work": "Q131561250",
+      "title": "Drawing by Pontormo (Uffizi, 6752 F)",
+      "status": "needs_review",
+      "file": "work-7cc7ef64967a5409485a216e.json"
+    },
+    {
+      "work": "Q131561251",
+      "title": "Drawing by Pontormo (Uffizi, 8966 S)",
+      "status": "needs_review",
+      "file": "work-ccb1bc1cc8b23aaf67f0a0cc.json"
+    },
+    {
+      "work": "Q131561252",
+      "title": "Drawing by Pontormo (Uffizi, 92201)",
+      "status": "needs_review",
+      "file": "work-5450545f846582a51db6fce7.json"
+    },
+    {
+      "work": "Q131675981",
+      "title": "The Ten Thousand Martyrs",
+      "status": "needs_review",
+      "file": "work-29674e5937d1b614c1a84e41.json"
+    },
+    {
+      "work": "Q3605539",
+      "title": "Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f13c3cf22004e25799a73458.json"
+    },
+    {
+      "work": "Q3649315",
+      "title": "Expulsion of Adam and Eve",
+      "status": "needs_review",
+      "file": "work-59a2c630f7cbf2acc1cca43f.json"
+    },
+    {
+      "work": "Q3664358",
+      "title": "Supper at Emmaus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5320d06cd52c400fb858b3a8.json"
+    },
+    {
+      "work": "Q3842522",
+      "title": "Madonna and Child with Saint John the Baptist",
+      "status": "needs_review",
+      "file": "work-5d940233b66211f292714441.json"
+    },
+    {
+      "work": "Q3873251",
+      "title": "The Birth of John the Baptist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-963927473ec4999e0efea6b0.json"
+    },
+    {
+      "work": "Q3937502",
+      "title": "Portrait of Cosimo the Elder",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2a83dbc6f84eb50c030b7802.json"
+    },
+    {
+      "work": "Q3937624",
+      "title": "Portrait of Maria Salviati",
+      "status": "needs_review",
+      "file": "work-160a2b9eb1745cc31e835c86.json"
+    },
+    {
+      "work": "Q3937765",
+      "title": "Portrait of a Musician",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4574561f163f3a52b86926c5.json"
+    },
+    {
+      "work": "Q3948774",
+      "title": "Saint Anthony Abbot",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d70c42b08a10f9584bceb9fc.json"
+    },
+    {
+      "work": "Q4004623",
+      "title": "The Ten Thousand Martyrs",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1f658376ce871f099a59876e.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

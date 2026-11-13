@@ -1,0 +1,40 @@
+{
+  "work": "Q948034",
+  "title": "La velata",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "245"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "La velada, por Rafael.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/La_velada%2C_por_Rafael.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/0d/La_velada%2C_por_Rafael.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:La_velada,_por_Rafael.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Raphael",
+        "credit": "Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:08:17.339Z"
+      },
+      "width": 1279,
+      "height": 1648
+    }
+  ]
+}

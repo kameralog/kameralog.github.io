@@ -1,0 +1,22 @@
+{
+  "artistId": "pompeo_batoni",
+  "name": "Помпео Батони",
+  "latin": "Pompeo Batoni",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q20486507",
+      "title": "Achilles and the Centaur Chiron",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6f6d5b3b93c6c9faf899e106.json"
+    },
+    {
+      "work": "Q52153899",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0268c0ef12965977b3eb6f1e.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

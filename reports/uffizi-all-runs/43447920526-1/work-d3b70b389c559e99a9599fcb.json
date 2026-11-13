@@ -1,0 +1,38 @@
+{
+  "work": "Q72274251",
+  "title": "Adoration of the Magi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Signorelli - Adoration of The Magi - Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Signorelli_-_Adoration_of_The_Magi_-_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/19/Signorelli_-_Adoration_of_The_Magi_-_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli_-_Adoration_of_The_Magi_-_Uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Luca Signorelli",
+        "credit": "Gallerix.ru",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:12:01.614Z"
+      },
+      "width": 800,
+      "height": 208
+    }
+  ]
+}

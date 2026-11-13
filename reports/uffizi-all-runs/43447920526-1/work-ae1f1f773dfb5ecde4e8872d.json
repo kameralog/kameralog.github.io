@@ -1,0 +1,38 @@
+{
+  "work": "Q102281990",
+  "title": "the seven virtues",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Botticelli - Pollaiolo, P. - Seven virtues.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Botticelli_-_Pollaiolo%2C_P._-_Seven_virtues.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/17/Botticelli_-_Pollaiolo%2C_P._-_Seven_virtues.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Botticelli_-_Pollaiolo,_P._-_Seven_virtues.jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sandro Botticelli / Piero del Pollaiuolo",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:03:20.587Z"
+      },
+      "width": 4032,
+      "height": 3024
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q115787659",
+  "title": "Portrait of Pope Julius II",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "79"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Titian - Portrait of Pope Julius II - WGA22961.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Titian_-_Portrait_of_Pope_Julius_II_-_WGA22961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Titian_-_Portrait_of_Pope_Julius_II_-_WGA22961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Titian_-_Portrait_of_Pope_Julius_II_-_WGA22961.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tiziano/10/22/01popeju\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:08:23.310Z"
+      },
+      "width": 1000,
+      "height": 1205
+    }
+  ]
+}

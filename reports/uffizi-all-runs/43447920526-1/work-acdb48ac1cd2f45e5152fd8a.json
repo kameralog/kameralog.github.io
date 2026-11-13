@@ -1,0 +1,40 @@
+{
+  "work": "Q4014806",
+  "title": "The Visitation",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00287171"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Albertinelli Visitation.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Albertinelli_Visitation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/74/Albertinelli_Visitation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Albertinelli_Visitation.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Mariotto Albertinelli",
+        "credit": "http://gallery.euroweb.hu/html/a/albertin/index.html ; english Wikipedia, http://en.wikipedia.org/wiki/Image:Albertinelli_Visitation.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12576,
+        "checkedAt": "2026-11-13T15:13:46.864Z"
+      },
+      "width": 816,
+      "height": 1248
+    }
+  ]
+}

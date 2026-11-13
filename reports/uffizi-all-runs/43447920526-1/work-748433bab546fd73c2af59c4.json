@@ -1,0 +1,40 @@
+{
+  "work": "Q3618179",
+  "title": "The Annunciation",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285845"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lorenzo di credi, annunciazione 1480 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lorenzo_di_credi%2C_annunciazione_1480_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lorenzo_di_credi%2C_annunciazione_1480_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_di_credi,_annunciazione_1480_01.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo di Credi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"l/lorenzo/credi/annunci\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12575,
+        "checkedAt": "2026-11-13T15:12:31.674Z"
+      },
+      "width": 2822,
+      "height": 3500
+    }
+  ]
+}

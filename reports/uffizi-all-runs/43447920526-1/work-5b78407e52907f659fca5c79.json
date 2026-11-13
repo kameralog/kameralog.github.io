@@ -1,0 +1,40 @@
+{
+  "work": "Q3842661",
+  "title": "Madonna of the Basket",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "139"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Rubens, sacra famiglia, pitti.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rubens%2C_sacra_famiglia%2C_pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Rubens%2C_sacra_famiglia%2C_pitti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubens,_sacra_famiglia,_pitti.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Peter Paul Rubens",
+        "credit": "http://www.centroarte.com/Rubens%20Pieter.htm",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:09:43.770Z"
+      },
+      "width": 770,
+      "height": 1021
+    }
+  ]
+}

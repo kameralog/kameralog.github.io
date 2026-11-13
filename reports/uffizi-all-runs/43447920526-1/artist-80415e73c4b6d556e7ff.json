@@ -1,0 +1,76 @@
+{
+  "artistId": "cornelis_van_poelenburgh",
+  "name": "Корнелис ван Пуленбург",
+  "latin": "Cornelis van Poelenburgh",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912615",
+      "title": "Landscape with Mercury and Battus",
+      "status": "needs_review",
+      "file": "work-0945b559d685536059c13e5e.json"
+    },
+    {
+      "work": "Q116912617",
+      "title": "Landscape with figures",
+      "status": "needs_review",
+      "file": "work-f6aefed379632407aaf35722.json"
+    },
+    {
+      "work": "Q116912618",
+      "title": "Landscape with ruins and figures",
+      "status": "needs_review",
+      "file": "work-b08883938b95b82ea07bbecb.json"
+    },
+    {
+      "work": "Q116912621",
+      "title": "Abraham and Isaac",
+      "status": "needs_review",
+      "file": "work-fbfa34ba2d1e6d51562c1def.json"
+    },
+    {
+      "work": "Q116912624",
+      "title": "Landscape with Apollo, Mercury, and Battus",
+      "status": "needs_review",
+      "file": "work-3cb2233e8a1508003a300244.json"
+    },
+    {
+      "work": "Q116912631",
+      "title": "View of the Forum with dancing figures",
+      "status": "needs_review",
+      "file": "work-2c541cc545d433bdec5c6aa2.json"
+    },
+    {
+      "work": "Q116912632",
+      "title": "The finding of Moses  (Exodus 2:5)",
+      "status": "needs_review",
+      "file": "work-e8ca177e4841db84590096d9.json"
+    },
+    {
+      "work": "Q116912633",
+      "title": "Mozes striking the rock",
+      "status": "needs_review",
+      "file": "work-215108db8673313dba6858a2.json"
+    },
+    {
+      "work": "Q116912634",
+      "title": "Landscape with dancing satyrs",
+      "status": "needs_review",
+      "file": "work-dcb4bdb4f1c800d1cb58ea8e.json"
+    },
+    {
+      "work": "Q116912637",
+      "title": "Landscape with dancing figures",
+      "status": "needs_review",
+      "file": "work-0c0141e53d8609f6aa1ceea2.json"
+    },
+    {
+      "work": "Q53996660",
+      "title": "Roman Ruins",
+      "status": "metadata_passed_not_visual",
+      "file": "work-319549e6003dbdb8ba771b47.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

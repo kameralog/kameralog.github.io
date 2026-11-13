@@ -1,0 +1,42 @@
+{
+  "work": "Q3829345",
+  "title": "Leda and the Swan",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1747",
+    "1738",
+    "00292960"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Leda Melzi Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Leda_Melzi_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Leda_Melzi_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Leda_Melzi_Uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Francesco Melzi",
+        "credit": "civita.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12564,
+        "checkedAt": "2026-11-13T15:07:45.076Z"
+      },
+      "width": 1500,
+      "height": 2519
+    }
+  ]
+}

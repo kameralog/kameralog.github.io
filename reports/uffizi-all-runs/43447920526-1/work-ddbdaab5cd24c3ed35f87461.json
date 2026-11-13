@@ -1,0 +1,64 @@
+{
+  "work": "Q3769169",
+  "title": "Judith Beheading Holofernes",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1567"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Artemisia Gentileschi - Giuditta decapita Oloferne - Google Art Project-Adjust.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/50/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Artemisia Gentileschi",
+        "credit": "Originally from Google Cultural Institute ( image page ), edited for levels",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:10:07.768Z"
+      },
+      "width": 2685,
+      "height": 3301
+    },
+    {
+      "file": "Judith Beheading Holofernes.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Judith_Beheading_Holofernes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/8/83/Judith_Beheading_Holofernes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Judith_Beheading_Holofernes.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Artemisia Gentileschi",
+        "credit": "https://www.flickr.com/photos/mazanto/47058274682",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:10:09.351Z"
+      },
+      "width": 3727,
+      "height": 4116
+    }
+  ]
+}

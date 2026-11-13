@@ -1,0 +1,16 @@
+{
+  "artistId": "ludolf_bakhuizen",
+  "name": "Людолф Бакхёйзен",
+  "latin": "Ludolf Bakhuizen",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q58359375",
+      "title": "Ships in storm",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e55fb96950191eb7011fd0fc.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

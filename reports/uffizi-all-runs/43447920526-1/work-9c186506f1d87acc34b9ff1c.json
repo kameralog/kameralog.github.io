@@ -1,0 +1,41 @@
+{
+  "work": "Q29016638",
+  "title": "Minerva",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00454150",
+    "8557 - 1890"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Artemisia Gentileschi - Minerva - WGA8568.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Artemisia_Gentileschi_-_Minerva_-_WGA8568.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Artemisia_Gentileschi_-_Minerva_-_WGA8568.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Minerva_-_WGA8568.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Artemisia Gentileschi",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"g/gentiles/artemisi/minerva\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12565,
+        "checkedAt": "2026-11-13T15:10:01.713Z"
+      },
+      "width": 909,
+      "height": 1080
+    }
+  ]
+}

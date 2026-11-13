@@ -1,0 +1,40 @@
+{
+  "work": "Q23305107",
+  "title": "Self-portrait in the Uffizi",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "2047"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Giulia Lama.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Giulia_Lama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Giulia_Lama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giulia_Lama.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giulia Lama",
+        "credit": "http://www.liveinternet.ru/users/2010239/post262361170",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12591,
+        "checkedAt": "2026-11-13T15:17:57.272Z"
+      },
+      "width": 600,
+      "height": 704
+    }
+  ]
+}

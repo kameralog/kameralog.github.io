@@ -1,0 +1,34 @@
+{
+  "artistId": "jacopo_chimenti",
+  "name": "Якопо Кименти",
+  "latin": "Jacopo Chimenti",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q125170382",
+      "title": "The Honesty of Saint Eligius",
+      "status": "needs_review",
+      "file": "work-e7073cdba0901f6280ac8af9.json"
+    },
+    {
+      "work": "Q131676028",
+      "title": "Still Life with game and fruit",
+      "status": "needs_review",
+      "file": "work-e8ddd61a91f04fb1aad6d241.json"
+    },
+    {
+      "work": "Q131676029",
+      "title": "Still Life with game",
+      "status": "needs_review",
+      "file": "work-5eddb8c0be40a03a7b4da1cc.json"
+    },
+    {
+      "work": "Q93158029",
+      "title": "Wedding of Maria de Medici and Henry IV of France",
+      "status": "metadata_passed_not_visual",
+      "file": "work-79b58896696701a89fe5e0ac.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

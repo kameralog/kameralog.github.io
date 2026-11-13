@@ -1,0 +1,40 @@
+{
+  "work": "Q3605566",
+  "title": "Adoration of the Child with SS. Joseph, Jerome, Hilarion, Magdalena and angels",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285124"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lippi, adorazione di annalena.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lippi%2C_adorazione_di_annalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lippi%2C_adorazione_di_annalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lippi,_adorazione_di_annalena.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippo Lippi",
+        "credit": "http://www.aiwaz.net/panopticon/adoration-of-the-child/gi4190c240",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:02:49.135Z"
+      },
+      "width": 1680,
+      "height": 1700
+    }
+  ]
+}

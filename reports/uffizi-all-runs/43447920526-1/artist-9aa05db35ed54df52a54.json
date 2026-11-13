@@ -1,0 +1,9 @@
+{
+  "artistId": "van-gogh",
+  "name": "Винсент ван Гог",
+  "latin": "Vincent van Gogh",
+  "status": "no_match_in_checked_index",
+  "works": [],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

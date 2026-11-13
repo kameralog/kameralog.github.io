@@ -1,0 +1,40 @@
+{
+  "work": "Q92358261",
+  "title": "St Fredianus Diverts the River Serchio",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00281153 1"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Predella pala barbadori, uffizi, 02.02.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Predella_pala_barbadori%2C_uffizi%2C_02.02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/40/Predella_pala_barbadori%2C_uffizi%2C_02.02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori,_uffizi,_02.02.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippo Lippi",
+        "credit": "Own work Oursana",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:03:08.699Z"
+      },
+      "width": 4968,
+      "height": 2267
+    }
+  ]
+}

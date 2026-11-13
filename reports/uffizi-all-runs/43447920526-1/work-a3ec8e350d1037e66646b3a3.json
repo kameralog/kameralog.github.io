@@ -1,0 +1,41 @@
+{
+  "work": "Q114241482",
+  "title": "Q114241482",
+  "collections": [
+    "Q16335227",
+    "Q51252"
+  ],
+  "inventories": [
+    "981"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Champaigne Paysage avec la vocation de saint Pierre Florence.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Champaigne_Paysage_avec_la_vocation_de_saint_Pierre_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/59/Champaigne_Paysage_avec_la_vocation_de_saint_Pierre_Florence.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Champaigne_Paysage_avec_la_vocation_de_saint_Pierre_Florence.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Philippe de Champaigne",
+        "credit": "Google",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:17:10.747Z"
+      },
+      "width": 674,
+      "height": 528
+    }
+  ]
+}

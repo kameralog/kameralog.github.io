@@ -1,0 +1,22 @@
+{
+  "artistId": "francisco_goya",
+  "name": "Франсиско Гойя",
+  "latin": "Francisco de Goya",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q11824924",
+      "title": "Portrait of María Luisa de Borbón y Vallabriga",
+      "status": "metadata_passed_not_visual",
+      "file": "work-344828c053c33defab06494a.json"
+    },
+    {
+      "work": "Q11824928",
+      "title": "Portrait of María Teresa de Vallabriga on Horseback",
+      "status": "metadata_passed_not_visual",
+      "file": "work-235c31da45f2c62a803cfb82.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

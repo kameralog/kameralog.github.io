@@ -1,0 +1,70 @@
+{
+  "artistId": "paolo_veronese",
+  "name": "Паоло Веронезе",
+  "latin": "Paolo Veronese",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q117774616",
+      "title": "Venus and Mercury Presenting Anteros to Jupiter",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8e2f0912d9b1a906bfff9b7c.json"
+    },
+    {
+      "work": "Q130515982",
+      "title": "The Baptism of Christ",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f90f60688175a8746658338b.json"
+    },
+    {
+      "work": "Q131579631",
+      "title": "Madonna con Bambino con Santi e donatori",
+      "status": "needs_review",
+      "file": "work-e4adaa5a652ceefcd2efabe6.json"
+    },
+    {
+      "work": "Q131579660",
+      "title": "Saint Agatha crowned by Angels",
+      "status": "needs_review",
+      "file": "work-77879ed6b3a65bd0ce9df0bb.json"
+    },
+    {
+      "work": "Q15974329",
+      "title": "Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a0780c1884ac2e670c2f2f9c.json"
+    },
+    {
+      "work": "Q15974345",
+      "title": "The Martyrdom of Saint Justina",
+      "status": "metadata_passed_not_visual",
+      "file": "work-2d18bc640e0bcdf2d448a337.json"
+    },
+    {
+      "work": "Q15974356",
+      "title": "Portrait of Iseppo da Porto and his son Adriano",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7e46c9819e91a4c5f44b2e84.json"
+    },
+    {
+      "work": "Q15974361",
+      "title": "The Holy Family with St Catherine and the Infant St John",
+      "status": "metadata_passed_not_visual",
+      "file": "work-00bea8b132d40dbe73c26f4f.json"
+    },
+    {
+      "work": "Q27978428",
+      "title": "Esther before Ahasuerus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-953cebdabb6ef674aeb31652.json"
+    },
+    {
+      "work": "Q3937768",
+      "title": "Portrait of a gentleman in a fur",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1e09c2b0f8a6d3f3301dbb2f.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

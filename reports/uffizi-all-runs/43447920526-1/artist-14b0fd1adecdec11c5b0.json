@@ -1,0 +1,16 @@
+{
+  "artistId": "santi_di_tito",
+  "name": "Санти ди Тито",
+  "latin": "Santi di Tito",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q120379091",
+      "title": "Q120379091",
+      "status": "metadata_passed_not_visual",
+      "file": "work-690cab142cfbc503181c06fb.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

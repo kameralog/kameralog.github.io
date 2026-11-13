@@ -1,0 +1,42 @@
+{
+  "work": "Q3907481",
+  "title": "Polyptych of the doctors of the Church",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Polyptyque des Docteurs de l'Église.png",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Polyptyque_des_Docteurs_de_l%27%C3%89glise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Polyptyque_des_Docteurs_de_l%27%C3%89glise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Polyptyque_des_Docteurs_de_l%27%C3%89glise.png",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "author": "Louis-garden",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/png",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:11:16.608Z"
+      },
+      "width": 587,
+      "height": 698
+    }
+  ]
+}

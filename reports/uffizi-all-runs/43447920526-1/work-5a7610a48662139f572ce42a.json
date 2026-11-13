@@ -1,0 +1,40 @@
+{
+  "work": "Q18683395",
+  "title": "Tribute to Caesar",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "778"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bartolomeo Manfredi - Il tributo a Cesare - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bartolomeo_Manfredi_-_Il_tributo_a_Cesare_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bartolomeo_Manfredi_-_Il_tributo_a_Cesare_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Manfredi_-_Il_tributo_a_Cesare_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bartolomeo Manfredi",
+        "credit": "Google Arts & Culture — xwEpWzzJCNHOeA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:14:58.106Z"
+      },
+      "width": 2856,
+      "height": 1944
+    }
+  ]
+}

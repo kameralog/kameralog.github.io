@@ -1,0 +1,16 @@
+{
+  "artistId": "jan_van_der_heyden",
+  "name": "Ян ван дер Хейден",
+  "latin": "Jan van der Heyden",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q41796100",
+      "title": "The Town Hall of Amsterdam",
+      "status": "metadata_passed_not_visual",
+      "file": "work-bfd1f1015bf9df7a746c4c8c.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

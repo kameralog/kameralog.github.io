@@ -1,0 +1,40 @@
+{
+  "work": "Q18564202",
+  "title": "Niccolò Mauruzi da Tolentino unseats Bernardino della Ciarda at the Battle of San Romano",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285047"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Uccello — the Battle of San Romano.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Uccello_%E2%80%94_the_Battle_of_San_Romano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Uccello_%E2%80%94_the_Battle_of_San_Romano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Uccello_%E2%80%94_the_Battle_of_San_Romano.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "CC0",
+        "url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "author": "Gleb Simonov",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:10:55.587Z"
+      },
+      "width": 11305,
+      "height": 6351
+    }
+  ]
+}

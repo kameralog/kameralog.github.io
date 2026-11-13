@@ -1,0 +1,44 @@
+{
+  "work": "Q3213773",
+  "title": "Madonna in Glory with Seraphim",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "504"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Botticelli, Madonna in Glory with Seraphim, 1469, Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Botticelli%2C_Madonna_in_Glory_with_Seraphim%2C_1469%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/67/Botticelli%2C_Madonna_in_Glory_with_Seraphim%2C_1469%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Botticelli,_Madonna_in_Glory_with_Seraphim,_1469,_Uffizi.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Sandro Botticelli",
+        "credit": "Armin Kleiner Own work Taken on 14 September 2021, 09:18:18",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:03:46.144Z"
+      },
+      "width": 3335,
+      "height": 5750
+    }
+  ]
+}

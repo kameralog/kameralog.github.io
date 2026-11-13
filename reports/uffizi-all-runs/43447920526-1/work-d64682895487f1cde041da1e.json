@@ -1,0 +1,40 @@
+{
+  "work": "Q131107700",
+  "title": "Allegoria della Pittura",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1890 n. 2037"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Allegoria della Pittura, Giovanni Martinelli, 1630-35 c., Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Allegoria_della_Pittura%2C_Giovanni_Martinelli%2C_1630-35_c.%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Allegoria_della_Pittura%2C_Giovanni_Martinelli%2C_1630-35_c.%2C_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Allegoria_della_Pittura,_Giovanni_Martinelli,_1630-35_c.,_Uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Martinelli",
+        "credit": "http://www.liveinternet.ru/users/2010239/post264304527/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:16:28.706Z"
+      },
+      "width": 550,
+      "height": 712
+    }
+  ]
+}

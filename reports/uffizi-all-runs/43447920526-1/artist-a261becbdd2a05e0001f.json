@@ -1,0 +1,88 @@
+{
+  "artistId": "leonardo_da_vinci",
+  "name": "Леонардо да Винчи",
+  "latin": "Leonardo da Vinci",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1059211",
+      "title": "The Baptism of Christ",
+      "status": "needs_review",
+      "file": "work-ce03af62b928f3ae7bf05f01.json"
+    },
+    {
+      "work": "Q1217213",
+      "title": "Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e5b96919307cb75a831d56b9.json"
+    },
+    {
+      "work": "Q131561180",
+      "title": "Studies for a Madonna with a Cat",
+      "status": "needs_review",
+      "file": "work-eb8bc789ad472728069945b6.json"
+    },
+    {
+      "work": "Q131561181",
+      "title": "Studies of an Old Man and a Youth (Salai?) in Profile, Facing each Other",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8c37503737bac1166d330e2a.json"
+    },
+    {
+      "work": "Q131561182",
+      "title": "Profile of an Old Man",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7bdebae150a9beacd4df3e60.json"
+    },
+    {
+      "work": "Q131561183",
+      "title": "Female Head",
+      "status": "metadata_passed_not_visual",
+      "file": "work-aa8ab95f1e3351e96cbcb9d0.json"
+    },
+    {
+      "work": "Q131561184",
+      "title": "Female Head in Profile",
+      "status": "metadata_passed_not_visual",
+      "file": "work-fc19dc81641bd2df821d642f.json"
+    },
+    {
+      "work": "Q131561185",
+      "title": "Perspective Study for the Background of the Adoration of the Magi",
+      "status": "metadata_passed_not_visual",
+      "file": "work-b59194878713d1a4dec77bd4.json"
+    },
+    {
+      "work": "Q131561186",
+      "title": "Drawing of Two Heads in Profile and Studies of Machines",
+      "status": "metadata_passed_not_visual",
+      "file": "work-18a5fea4efe8874a3d48ccd2.json"
+    },
+    {
+      "work": "Q1638622",
+      "title": "Adoration of the Magi",
+      "status": "needs_review",
+      "file": "work-e398ee4c76a7b79a5b28a3f5.json"
+    },
+    {
+      "work": "Q2397593",
+      "title": "Tavola Doria",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1238e162ab8a6a9c8c9a48b4.json"
+    },
+    {
+      "work": "Q3373694",
+      "title": "Arno Landscape",
+      "status": "metadata_passed_not_visual",
+      "file": "work-eadc8eed389b5db912083bca.json"
+    },
+    {
+      "work": "Q3829345",
+      "title": "Leda and the Swan",
+      "status": "needs_review",
+      "file": "work-db548b82e25834bd33292baa.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

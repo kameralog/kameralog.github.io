@@ -1,0 +1,40 @@
+{
+  "work": "Q2016193",
+  "title": "Madonna Enthroned",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00284545"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Madonna di Ognissanti by Giotto.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Madonna_di_Ognissanti_by_Giotto.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Madonna_di_Ognissanti_by_Giotto.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giotto",
+        "credit": "Own work by Campocorvino",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:07:01.173Z"
+      },
+      "width": 2719,
+      "height": 4181
+    }
+  ]
+}

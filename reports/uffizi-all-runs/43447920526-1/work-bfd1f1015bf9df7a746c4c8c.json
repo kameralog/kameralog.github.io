@@ -1,0 +1,40 @@
+{
+  "work": "Q41796100",
+  "title": "The Town Hall of Amsterdam",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1211"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "The Town Hall of Amsterdam 1667 Jan van der Heyden.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Town_Hall_of_Amsterdam_1667_Jan_van_der_Heyden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Town_Hall_of_Amsterdam_1667_Jan_van_der_Heyden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Town_Hall_of_Amsterdam_1667_Jan_van_der_Heyden.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jan van der Heyden",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"h/heyden/townhal\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:14:22.564Z"
+      },
+      "width": 901,
+      "height": 834
+    }
+  ]
+}

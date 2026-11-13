@@ -1,0 +1,28 @@
+{
+  "artistId": "giovanni_battista_gaulli",
+  "name": "Джованни Баттиста Гаулли",
+  "latin": "Giovanni Battista Gaulli",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q132247318",
+      "title": "Paintings by Giovanni Battista Gaulli il Baciccio in the Uffizi Gallery",
+      "status": "needs_review",
+      "file": "work-872c5bf639ffc32d79937f6d.json"
+    },
+    {
+      "work": "Q52153732",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-298c8c26fd4cc6c771466939.json"
+    },
+    {
+      "work": "Q69113709",
+      "title": "Portrait of Cardinal Leopoldo de' Medici",
+      "status": "metadata_passed_not_visual",
+      "file": "work-6f87837b4e9e5190fde55880.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

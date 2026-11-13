@@ -1,0 +1,41 @@
+{
+  "work": "Q114241452",
+  "title": "Q114241452",
+  "collections": [
+    "Q16335227",
+    "Q51252"
+  ],
+  "inventories": [
+    "1168"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lorrain uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lorrain_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lorrain_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorrain_uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Claude Lorrain",
+        "credit": "https://www.topofart.com/images/artists/Claude_Lorrain/paintings/lorrain024.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12581,
+        "checkedAt": "2026-11-13T15:10:21.289Z"
+      },
+      "width": 500,
+      "height": 367
+    }
+  ]
+}

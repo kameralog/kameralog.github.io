@@ -1,0 +1,16 @@
+{
+  "artistId": "nicolas_tournier",
+  "name": "Никола Турнье",
+  "latin": "Nicolas Tournier",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241479",
+      "title": "Q114241479",
+      "status": "needs_review",
+      "file": "work-1ef2005a1aa7f8d5a46315b0.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

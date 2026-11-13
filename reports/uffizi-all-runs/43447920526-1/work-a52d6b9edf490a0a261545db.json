@@ -1,0 +1,40 @@
+{
+  "work": "Q18613323",
+  "title": "Annunciation with the saints Michael the Archangel and Godenzo",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "97"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea del Sarto - Annunciazione con San Michele Arcangelo e San Godenzo, 00228537.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Andrea_del_Sarto_-_Annunciazione_con_San_Michele_Arcangelo_e_San_Godenzo%2C_00228537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Andrea_del_Sarto_-_Annunciazione_con_San_Michele_Arcangelo_e_San_Godenzo%2C_00228537.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Annunciazione_con_San_Michele_Arcangelo_e_San_Godenzo,_00228537.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Sarto",
+        "credit": "http://catalogo.uffizi.it/it/29/ricerca/detailiccd/1416997/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:06:18.681Z"
+      },
+      "width": 953,
+      "height": 977
+    }
+  ]
+}

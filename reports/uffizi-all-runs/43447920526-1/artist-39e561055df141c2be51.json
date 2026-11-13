@@ -1,0 +1,46 @@
+{
+  "artistId": "caravaggio",
+  "name": "Караваджо",
+  "latin": "Caravaggio",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1113749",
+      "title": "Portrait of Fra Antonio Martelli",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7b529024d7d02b0f10fd01dc.json"
+    },
+    {
+      "work": "Q2011510",
+      "title": "Bacchus",
+      "status": "metadata_passed_not_visual",
+      "file": "work-31f09383c290742baa97db24.json"
+    },
+    {
+      "work": "Q2284829",
+      "title": "Sacrifice of Isaac",
+      "status": "metadata_passed_not_visual",
+      "file": "work-840a530e021d423691fa6190.json"
+    },
+    {
+      "work": "Q2293905",
+      "title": "Medusa",
+      "status": "metadata_passed_not_visual",
+      "file": "work-5ecb45a97f4279d597007a32.json"
+    },
+    {
+      "work": "Q2429754",
+      "title": "Sleeping Cupid",
+      "status": "metadata_passed_not_visual",
+      "file": "work-dfe99c0fb5ace6c89ff586a4.json"
+    },
+    {
+      "work": "Q3202347",
+      "title": "The Toothpuller",
+      "status": "metadata_passed_not_visual",
+      "file": "work-71e61ecd695bb9c289a2cc44.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

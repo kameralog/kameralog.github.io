@@ -1,7 +1,7 @@
 {
-  "runId": "43446759891",
-  "destination": "reports/uffizi-all-runs/43446759891-1",
-  "complete": false,
-  "artistsProcessed": 0,
-  "artistsTotal": 856
+  "runId": "43447920526",
+  "destination": "reports/uffizi-all-runs/43447920526-1",
+  "complete": true,
+  "artistsProcessed": 866,
+  "artistsTotal": 866
 }

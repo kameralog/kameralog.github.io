@@ -1,0 +1,43 @@
+{
+  "work": "Q113465655",
+  "title": "Adam",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1459"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Canach il vecchio, adamo, 1528 (uffizi) 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Canach_il_vecchio%2C_adamo%2C_1528_%28uffizi%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/49/Canach_il_vecchio%2C_adamo%2C_1528_%28uffizi%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Canach_il_vecchio,_adamo,_1528_(uffizi)_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY 3.0",
+        "url": "https://creativecommons.org/licenses/by/3.0",
+        "author": "Sailko",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:04:11.639Z"
+      },
+      "width": 1300,
+      "height": 3300
+    }
+  ]
+}

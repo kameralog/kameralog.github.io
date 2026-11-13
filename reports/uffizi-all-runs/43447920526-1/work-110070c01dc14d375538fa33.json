@@ -1,0 +1,42 @@
+{
+  "work": "Q131463448",
+  "title": "Half-length portrait of a young woman in profile",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Female profile by Raphael (c.1505, Uffizi) in Pushkin museum (2016) by shakko 01.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Female_profile_by_Raphael_%28c.1505%2C_Uffizi%29_in_Pushkin_museum_%282016%29_by_shakko_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/58/Female_profile_by_Raphael_%28c.1505%2C_Uffizi%29_in_Pushkin_museum_%282016%29_by_shakko_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Female_profile_by_Raphael_(c.1505,_Uffizi)_in_Pushkin_museum_(2016)_by_shakko_01.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "user:shakko",
+        "credit": "Own work",
+        "restrictions": "",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:07:48.206Z"
+      },
+      "width": 1412,
+      "height": 2188
+    }
+  ]
+}

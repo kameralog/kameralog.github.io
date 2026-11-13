@@ -1,0 +1,16 @@
+{
+  "artistId": "elisabeth_louise_vigee_le_brun",
+  "name": "Элизабет Луиза Виже-Лебрен",
+  "latin": "Elisabeth Louise Vigée Le Brun",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q19361572",
+      "title": "Self-portrait of Élisabeth Louise Vigée Le Brun",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f21fb440b20107655cdccad0.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

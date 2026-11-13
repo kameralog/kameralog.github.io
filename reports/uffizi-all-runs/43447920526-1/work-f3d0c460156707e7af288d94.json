@@ -1,0 +1,40 @@
+{
+  "work": "Q123912954",
+  "title": "Portrait of Bishop Ludovico Beccadelli",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1457"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano Vecellio (1490, Pieve di Cadore - 1576, Venice) - Portrait of Bishop Ludovico Beccadelli - 1457 - Uffizi Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tiziano_Vecellio_%281490%2C_Pieve_di_Cadore_-_1576%2C_Venice%29_-_Portrait_of_Bishop_Ludovico_Beccadelli_-_1457_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/93/Tiziano_Vecellio_%281490%2C_Pieve_di_Cadore_-_1576%2C_Venice%29_-_Portrait_of_Bishop_Ludovico_Beccadelli_-_1457_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_(1490,_Pieve_di_Cadore_-_1576,_Venice)_-_Portrait_of_Bishop_Ludovico_Beccadelli_-_1457_-_Uffizi_Gallery.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "Web Gallery of Art",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:08:31.846Z"
+      },
+      "width": 1412,
+      "height": 1700
+    }
+  ]
+}

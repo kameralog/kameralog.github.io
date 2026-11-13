@@ -1,0 +1,22 @@
+{
+  "artistId": "giovanni_antonio_boltraffio",
+  "name": "Джованни Антонио Больтраффио",
+  "latin": "Giovanni Antonio Boltraffio",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131490096",
+      "title": "Portrait of a Notable (or Gerolamo Casio)",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4843e912ba991db163b17663.json"
+    },
+    {
+      "work": "Q3870403",
+      "title": "Narcissus at the Fountain",
+      "status": "metadata_passed_not_visual",
+      "file": "work-40758886948b00a18d5f386f.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

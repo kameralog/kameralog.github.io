@@ -1,0 +1,40 @@
+{
+  "work": "Q3889243",
+  "title": "Gambassi Altarpiece",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "307"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea del Sarto - Virgin and Child in Glory with Six Saints - WGA0406.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Sarto",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/andrea/sarto/3/madglory\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:06:36.727Z"
+      },
+      "width": 1050,
+      "height": 1303
+    }
+  ]
+}

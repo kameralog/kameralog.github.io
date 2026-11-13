@@ -1,0 +1,38 @@
+{
+  "work": "Q3139812",
+  "title": "Famous Men and Women",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Eve-Castagno.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Eve-Castagno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/52/Eve-Castagno.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Eve-Castagno.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Castagno",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/andrea/castagno/3_1450s/04legna1\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 15304,
+        "checkedAt": "2026-11-13T15:12:07.642Z"
+      },
+      "width": 689,
+      "height": 1507
+    }
+  ]
+}

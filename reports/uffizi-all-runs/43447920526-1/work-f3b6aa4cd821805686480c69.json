@@ -1,0 +1,40 @@
+{
+  "work": "Q28147005",
+  "title": "The Resurrected Christ",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "10093"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Tiziano Vecellio - Cristo Risorto - 10093 - Uffizi Gallery.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tiziano_Vecellio_-_Cristo_Risorto_-_10093_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/91/Tiziano_Vecellio_-_Cristo_Risorto_-_10093_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano_Vecellio_-_Cristo_Risorto_-_10093_-_Uffizi_Gallery.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Titian",
+        "credit": "uffizi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:08:42.295Z"
+      },
+      "width": 2348,
+      "height": 3813
+    }
+  ]
+}

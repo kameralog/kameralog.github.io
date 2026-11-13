@@ -1,0 +1,16 @@
+{
+  "artistId": "adriaen_van_de_velde",
+  "name": "Адриан ван де Велде",
+  "latin": "Adriaen van de Velde",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q67405711",
+      "title": "Pastoral Landscape",
+      "status": "needs_review",
+      "file": "work-b648bf8d66983cd7daa19aae.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

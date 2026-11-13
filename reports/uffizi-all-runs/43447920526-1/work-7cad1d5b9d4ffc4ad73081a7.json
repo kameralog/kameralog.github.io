@@ -1,0 +1,40 @@
+{
+  "work": "Q141671268",
+  "title": "Diptych: Madonna and Child with Saints",
+  "collections": [
+    "Q16335227"
+  ],
+  "inventories": [
+    "8576"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Berlinghieri, Bonaventura - Madonna col Bambino e santi - Uffizi.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Berlinghieri%2C_Bonaventura_-_Madonna_col_Bambino_e_santi_-_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/06/Berlinghieri%2C_Bonaventura_-_Madonna_col_Bambino_e_santi_-_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Berlinghieri,_Bonaventura_-_Madonna_col_Bambino_e_santi_-_Uffizi.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bonaventura Berlinghieri",
+        "credit": "Angelo Tartuferi, Il Maestro del Bigallo e la pittura della prima metà del Duecento agli Uffizi , Polistampa, Firenze 2007",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12588,
+        "checkedAt": "2026-11-13T15:04:01.150Z"
+      },
+      "width": 3456,
+      "height": 5184
+    }
+  ]
+}

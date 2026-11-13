@@ -1,0 +1,40 @@
+{
+  "work": "Q763795",
+  "title": "Allegory",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285779"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Filippino, Allegoria.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Filippino%2C_Allegoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/0/03/Filippino%2C_Allegoria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippino,_Allegoria.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Ridolfo del Ghirlandaio",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"l/lippi/flippino/2/6allegor\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12580,
+        "checkedAt": "2026-11-13T15:11:12.079Z"
+      },
+      "width": 770,
+      "height": 1040
+    }
+  ]
+}

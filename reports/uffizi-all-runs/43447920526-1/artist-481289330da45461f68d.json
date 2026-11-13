@@ -1,0 +1,22 @@
+{
+  "artistId": "matthias_stom",
+  "name": "Маттиас Стом",
+  "latin": "Matthias Stom",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912668",
+      "title": "The annunciation",
+      "status": "needs_review",
+      "file": "work-5c50bde43745bcfd5f7586a4.json"
+    },
+    {
+      "work": "Q18688172",
+      "title": "The Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-804798144a8f9d8965e52418.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

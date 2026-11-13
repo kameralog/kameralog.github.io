@@ -1,0 +1,16 @@
+{
+  "artistId": "philips_koninck",
+  "name": "Филипс Конинк",
+  "latin": "Philips Koninck",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912721",
+      "title": "Self-portrait of Philips Koninck (1619-1688)",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3b7e605b5f54a23b43063fc6.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

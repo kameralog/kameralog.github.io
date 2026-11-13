@@ -1,0 +1,58 @@
+{
+  "artistId": "jusepe_de_ribera",
+  "name": "Хусепе де Рибера",
+  "latin": "Jusepe de Ribera",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q116912667",
+      "title": "Self-portrait of Giuseppe Maria Crespi (1665-1747) in the midst of his family, in the background a small painting with a caricature of the Bolognese priest, Silva",
+      "status": "needs_review",
+      "file": "work-f0609908b50a23e68d947d1e.json"
+    },
+    {
+      "work": "Q116912703",
+      "title": "Still life with birds and a gun.",
+      "status": "needs_review",
+      "file": "work-47fb09829ccd7a62a8ab47d7.json"
+    },
+    {
+      "work": "Q116912708",
+      "title": "The scullery",
+      "status": "needs_review",
+      "file": "work-0318cad509e6261c28244ddf.json"
+    },
+    {
+      "work": "Q116912713",
+      "title": "The Fair at Poggio a Caiano",
+      "status": "needs_review",
+      "file": "work-80dbb91e45894be51deef2c5.json"
+    },
+    {
+      "work": "Q28465975",
+      "title": "Donna che lava i piatti",
+      "status": "needs_review",
+      "file": "work-a53c1b23c6d287ba5260a811.json"
+    },
+    {
+      "work": "Q50939921",
+      "title": "Woman Searching for Fleas",
+      "status": "needs_review",
+      "file": "work-59547147022db9a1bbe718ae.json"
+    },
+    {
+      "work": "Q57081221",
+      "title": "Martyrdom of St. Bartholomew",
+      "status": "metadata_passed_not_visual",
+      "file": "work-183f7129baa3d28f91f85ad7.json"
+    },
+    {
+      "work": "Q9150125",
+      "title": "Amor and Psyche",
+      "status": "needs_review",
+      "file": "work-e87100a833ec72e28bcbce1b.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

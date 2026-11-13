@@ -1,0 +1,40 @@
+{
+  "work": "Q3701197",
+  "title": "Lady with a book of Petrarch's rhyme",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00228535"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Andrea del Sarto - Dama col - Google Art Project.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Andrea_del_Sarto_-_Dama_col_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/17/Andrea_del_Sarto_-_Dama_col_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Dama_col_-_Google_Art_Project.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Andrea del Sarto",
+        "credit": "Google Arts & Culture — KQGu8ynEBLnvkQ",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12587,
+        "checkedAt": "2026-11-13T15:06:26.204Z"
+      },
+      "width": 6112,
+      "height": 7408
+    }
+  ]
+}

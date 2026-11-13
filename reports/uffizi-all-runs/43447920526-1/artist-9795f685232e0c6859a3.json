@@ -1,0 +1,28 @@
+{
+  "artistId": "nicolas_de_largilliere",
+  "name": "Никола де Ларжильер",
+  "latin": "Nicolas de Largillière",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241448",
+      "title": "Q114241448",
+      "status": "needs_review",
+      "file": "work-54f7aafe69c02a4b1b851523.json"
+    },
+    {
+      "work": "Q114241480",
+      "title": "Q114241480",
+      "status": "needs_review",
+      "file": "work-af933236eed9e82c0c72876b.json"
+    },
+    {
+      "work": "Q114241481",
+      "title": "Q114241481",
+      "status": "metadata_passed_not_visual",
+      "file": "work-27d2679a00cb5b30735398cb.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

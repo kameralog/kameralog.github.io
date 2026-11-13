@@ -1,0 +1,40 @@
+{
+  "work": "Q3937714",
+  "title": "Portrait of a Young men with a red  beret",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285470"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Filippino, uomo col berretto rosso.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Filippino%2C_uomo_col_berretto_rosso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Filippino%2C_uomo_col_berretto_rosso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippino,_uomo_col_berretto_rosso.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippino Lippi",
+        "credit": "http://www.virtualuffizi.com/uffizi1/artista.asp?Autore=Filippino+Lippi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:02:59.627Z"
+      },
+      "width": 572,
+      "height": 805
+    }
+  ]
+}

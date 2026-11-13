@@ -1,0 +1,16 @@
+{
+  "artistId": "boccaccio_boccaccino",
+  "name": "Боккаччо Боккаччино",
+  "latin": "Boccaccio Boccaccino",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q4024486",
+      "title": "Gipsy girl",
+      "status": "metadata_passed_not_visual",
+      "file": "work-4284bf33c52a3329427ca6ba.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

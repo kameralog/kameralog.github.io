@@ -1,0 +1,22 @@
+{
+  "artistId": "philippe_de_champaigne",
+  "name": "Филипп де Шампень",
+  "latin": "Philippe de Champaigne",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q114241482",
+      "title": "Q114241482",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a3ec8e350d1037e66646b3a3.json"
+    },
+    {
+      "work": "Q114241483",
+      "title": "Q114241483",
+      "status": "needs_review",
+      "file": "work-f6b83f31f8de2956a02e1589.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

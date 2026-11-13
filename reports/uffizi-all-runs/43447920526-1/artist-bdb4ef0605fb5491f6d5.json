@@ -1,0 +1,16 @@
+{
+  "artistId": "bartholomeus_van_der_helst",
+  "name": "Бартоломеус ван дер Хелст",
+  "latin": "Bartholomeus van der Helst",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q30222055",
+      "title": "Self-portrait",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e063de72d7d4b5ba1a634211.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,40 @@
+{
+  "work": "Q108292260",
+  "title": "Portrait of Isabella de' Medici",
+  "collections": [
+    "Q866498"
+  ],
+  "inventories": [
+    "8738"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Isabella de' Medici 02.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Isabella_de%27_Medici_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Isabella_de%27_Medici_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Isabella_de%27_Medici_02.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Attributed to Alessandro Allori / Formerly attributed to Bronzino",
+        "credit": "http://web.archive.org/web/20160306043211/http://www.palazzo-medici.it/mediateca/en/Scheda_Isabella_di_Cosimo_I",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:16:39.205Z"
+      },
+      "width": 1190,
+      "height": 1646
+    }
+  ]
+}

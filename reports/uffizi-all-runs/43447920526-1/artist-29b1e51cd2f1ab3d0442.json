@@ -1,0 +1,136 @@
+{
+  "artistId": "fra_filippo_lippi",
+  "name": "Фра Филиппо Липпи",
+  "latin": "Fra Filippo Lippi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q1055111",
+      "title": "Madonna and Child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1de2be89c0e57870689d72c5.json"
+    },
+    {
+      "work": "Q131579617",
+      "title": "Figure study",
+      "status": "needs_review",
+      "file": "work-b255f27f99b2931a2c86218f.json"
+    },
+    {
+      "work": "Q131579662",
+      "title": "Studio of feminine head with veil, for the Madonna of the 'Tondo Bartolini'",
+      "status": "needs_review",
+      "file": "work-93df89ad628eb841f48e4427.json"
+    },
+    {
+      "work": "Q3605532",
+      "title": "Adoration of the Magi",
+      "status": "needs_review",
+      "file": "work-96510a441393d222e50d435f.json"
+    },
+    {
+      "work": "Q3605559",
+      "title": "Adoration of the Child",
+      "status": "needs_review",
+      "file": "work-d4b6f96320c30cdcc27f1bb1.json"
+    },
+    {
+      "work": "Q3605566",
+      "title": "Adoration of the Child with SS. Joseph, Jerome, Hilarion, Magdalena and angels",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0a225b5840df3a40231d52b1.json"
+    },
+    {
+      "work": "Q3605568",
+      "title": "Adoration of Camaldoli",
+      "status": "metadata_passed_not_visual",
+      "file": "work-d482ef4657df2cd588e6d3c8.json"
+    },
+    {
+      "work": "Q3797764",
+      "title": "Coronation of the Virgin",
+      "status": "metadata_passed_not_visual",
+      "file": "work-f537c0b5e043777c226127cf.json"
+    },
+    {
+      "work": "Q3863243",
+      "title": "Death of Lucretia",
+      "status": "needs_review",
+      "file": "work-416a0d8da4c51d7a02045d9c.json"
+    },
+    {
+      "work": "Q3889196",
+      "title": "Barbadori Altarpiece and Predella",
+      "status": "metadata_passed_not_visual",
+      "file": "work-13896cb81d01ca3cd76bf854.json"
+    },
+    {
+      "work": "Q3889213",
+      "title": "Pala degli Otto",
+      "status": "metadata_passed_not_visual",
+      "file": "work-3d8894abc36cfffaab615648.json"
+    },
+    {
+      "work": "Q3889222",
+      "title": "Madonna and Child with Saints Francis, Damian, Cosmas and Anthony of Padua",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0a764a6fb64184dbf810ad62.json"
+    },
+    {
+      "work": "Q3937714",
+      "title": "Portrait of a Young men with a red  beret",
+      "status": "needs_review",
+      "file": "work-de882113b85310328f9a9024.json"
+    },
+    {
+      "work": "Q3937767",
+      "title": "Portrait of an Old Man",
+      "status": "needs_review",
+      "file": "work-644b8133b977f16849bef044.json"
+    },
+    {
+      "work": "Q3947288",
+      "title": "Saint Jerome",
+      "status": "needs_review",
+      "file": "work-a7f078e39246f7b845575b78.json"
+    },
+    {
+      "work": "Q3993020",
+      "title": "Virgin with the Child and Scenes from the Life of St Anne",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e1351fd60d3e7b6b2c824968.json"
+    },
+    {
+      "work": "Q4009966",
+      "title": "The Annunciation, Saints Anthony Abate, John the Baptist",
+      "status": "metadata_passed_not_visual",
+      "file": "work-a7005fc73e3b63999d4ff01d.json"
+    },
+    {
+      "work": "Q50617387",
+      "title": "Predella of the Barbadori altarpiece",
+      "status": "metadata_passed_not_visual",
+      "file": "work-7688f90e415302c2b5b66a16.json"
+    },
+    {
+      "work": "Q92358261",
+      "title": "St Fredianus Diverts the River Serchio",
+      "status": "metadata_passed_not_visual",
+      "file": "work-0b396ab2bcd526d4514d351f.json"
+    },
+    {
+      "work": "Q92419779",
+      "title": "Announcement of the Death of the Virgin",
+      "status": "metadata_passed_not_visual",
+      "file": "work-e9b6e515cba6326500dfe1eb.json"
+    },
+    {
+      "work": "Q92422327",
+      "title": "Vision of St Augustine",
+      "status": "metadata_passed_not_visual",
+      "file": "work-921ca24d01dc0dd399b14ba3.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

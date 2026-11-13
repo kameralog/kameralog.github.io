@@ -1,0 +1,22 @@
+{
+  "artistId": "charles_le_brun",
+  "name": "Шарль Лебрен",
+  "latin": "Charles Le Brun",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241448",
+      "title": "Q114241448",
+      "status": "needs_review",
+      "file": "work-8ef5f96ec93164ef1b22eb04.json"
+    },
+    {
+      "work": "Q114241449",
+      "title": "Q114241449",
+      "status": "needs_review",
+      "file": "work-3f7e58a7b79b611fabe2059b.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

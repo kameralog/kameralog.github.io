@@ -1,0 +1,38 @@
+{
+  "work": "Q28465975",
+  "title": "Donna che lava i piatti",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Giuseppe Maria Crespi - La sguattera .jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Giuseppe_Maria_Crespi_-_La_sguattera_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/1/17/Giuseppe_Maria_Crespi_-_La_sguattera_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giuseppe_Maria_Crespi_-_La_sguattera_.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giuseppe Maria Crespi",
+        "credit": "100 Capolavori degli Uffizi, 100 Opere d' Arte per la tua Vita, Guida al Grande Museo e alle Scelte di Class 2005, Supplemento a Class N. 224, Dicembre 2004",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12578,
+        "checkedAt": "2026-11-13T15:15:26.719Z"
+      },
+      "width": 3099,
+      "height": 4251
+    }
+  ]
+}

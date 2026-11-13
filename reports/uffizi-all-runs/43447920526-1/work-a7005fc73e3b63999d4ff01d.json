@@ -1,0 +1,40 @@
+{
+  "work": "Q4009966",
+  "title": "The Annunciation, Saints Anthony Abate, John the Baptist",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00285423"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Lippi, Vergine Annunziata, Angelo Annunziante, sant'Antonio Abate e san Giovanni Battista.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lippi%2C_Vergine_Annunziata%2C_Angelo_Annunziante%2C_sant%27Antonio_Abate_e_san_Giovanni_Battista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lippi%2C_Vergine_Annunziata%2C_Angelo_Annunziante%2C_sant%27Antonio_Abate_e_san_Giovanni_Battista.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lippi,_Vergine_Annunziata,_Angelo_Annunziante,_sant%27Antonio_Abate_e_san_Giovanni_Battista.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Filippo Lippi",
+        "credit": "http://www.restaurofilippolippi.it/opere/scheda_23.htm",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:03:05.603Z"
+      },
+      "width": 508,
+      "height": 390
+    }
+  ]
+}

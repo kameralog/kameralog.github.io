@@ -1,0 +1,40 @@
+{
+  "work": "Q16626564",
+  "title": "Portrait of Giorgio Vasari",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00021975"
+  ],
+  "creatorEvidence": "needs_attribution_review",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Zucchi, Jacopo - Vasari, Giorgio - Uffizi ICCD.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zucchi%2C_Jacopo_-_Vasari%2C_Giorgio_-_Uffizi_ICCD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Zucchi%2C_Jacopo_-_Vasari%2C_Giorgio_-_Uffizi_ICCD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Zucchi,_Jacopo_-_Vasari,_Giorgio_-_Uffizi_ICCD.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Attributed to Jacopo Zucchi",
+        "credit": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900021975#lg=1&slide=1",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12560,
+        "checkedAt": "2026-11-13T15:06:55.110Z"
+      },
+      "width": 773,
+      "height": 982
+    }
+  ]
+}

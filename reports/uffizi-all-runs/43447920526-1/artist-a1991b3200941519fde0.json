@@ -1,0 +1,16 @@
+{
+  "artistId": "laurent_de_la_hyre",
+  "name": "Лоран де Ла Ир",
+  "latin": "Laurent de La Hyre",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241473",
+      "title": "Q114241473",
+      "status": "needs_review",
+      "file": "work-06f221c02e52787021b0cd79.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

@@ -1,0 +1,45 @@
+{
+  "work": "Q114241480",
+  "title": "Q114241480",
+  "collections": [
+    "Q16335227",
+    "Q51252"
+  ],
+  "inventories": [
+    "1851"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "needs_review",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Nicolas de largillierre, autoritratto, 1729.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nicolas_de_largillierre%2C_autoritratto%2C_1729.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nicolas_de_largillierre%2C_autoritratto%2C_1729.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Nicolas_de_largillierre,_autoritratto,_1729.jpg",
+      "rights": {
+        "status": "unclear",
+        "name": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "author": "Francesco Bini",
+        "credit": "Own work",
+        "restrictions": "ita-mibac",
+        "obligations": [
+          "attribution",
+          "indicate_changes",
+          "share_alike"
+        ],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12579,
+        "checkedAt": "2026-11-13T15:17:21.242Z"
+      },
+      "width": 3328,
+      "height": 3952
+    }
+  ]
+}

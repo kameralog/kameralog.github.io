@@ -1,0 +1,40 @@
+{
+  "artistId": "andrea_del_castagno",
+  "name": "Андреа дель Кастаньо",
+  "latin": "Andrea del Castagno",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q103231881",
+      "title": "Giovanni Boccaccio from the cycle Famous People",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1409a3503bdca8b2eca5f4fd.json"
+    },
+    {
+      "work": "Q127500037",
+      "title": "Famous Persons: The Cumean Sibyl",
+      "status": "metadata_passed_not_visual",
+      "file": "work-8218f96706564c256ffc144d.json"
+    },
+    {
+      "work": "Q18683107",
+      "title": "Pippo Spano from the cycle Famous People",
+      "status": "needs_review",
+      "file": "work-5a9b4452c668b3257d855024.json"
+    },
+    {
+      "work": "Q3139812",
+      "title": "Famous Men and Women",
+      "status": "needs_review",
+      "file": "work-8a8e41da6467d521ad443ed9.json"
+    },
+    {
+      "work": "Q3842742",
+      "title": "Madonna and child",
+      "status": "metadata_passed_not_visual",
+      "file": "work-50cead00f47886772771ba1c.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

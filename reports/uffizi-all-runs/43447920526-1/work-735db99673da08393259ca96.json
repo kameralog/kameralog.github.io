@@ -1,0 +1,40 @@
+{
+  "work": "Q3937398",
+  "title": "Portrait of a Man",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "1863"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "BELLINI, Giovanni.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/BELLINI%2C_Giovanni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a6/BELLINI%2C_Giovanni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:BELLINI,_Giovanni.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Bellini",
+        "credit": "Original uploader was Кузнецов at ru.wikipedia",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12590,
+        "checkedAt": "2026-11-13T15:12:18.249Z"
+      },
+      "width": 708,
+      "height": 904
+    }
+  ]
+}

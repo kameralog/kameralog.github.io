@@ -1,0 +1,40 @@
+{
+  "work": "Q48814933",
+  "title": "Portrait of a girl",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00021909"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Bronzino, Agnolo - Portrait of a Young Girl with a book.jpeg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bronzino%2C_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bronzino%2C_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronzino,_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Bronzino",
+        "credit": "https://catalogo.uffizi.it/it/29/ricerca/detailiccd/1185042/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12567,
+        "checkedAt": "2026-11-13T15:05:02.529Z"
+      },
+      "width": 547,
+      "height": 691
+    }
+  ]
+}

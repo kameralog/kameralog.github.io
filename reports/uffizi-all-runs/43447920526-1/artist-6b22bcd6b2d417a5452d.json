@@ -1,0 +1,52 @@
+{
+  "artistId": "artemisia_gentileschi",
+  "name": "Артемизия Джентилески",
+  "latin": "Artemisia Gentileschi",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q29016129",
+      "title": "Madonna and Child",
+      "status": "needs_review",
+      "file": "work-c2d6684e4eb6fe9c80d6c914.json"
+    },
+    {
+      "work": "Q29016365",
+      "title": "Saint Catherine of Alexandria",
+      "status": "metadata_passed_not_visual",
+      "file": "work-96d40d39e4ea7460d97d69dc.json"
+    },
+    {
+      "work": "Q29016638",
+      "title": "Minerva",
+      "status": "metadata_passed_not_visual",
+      "file": "work-9c186506f1d87acc34b9ff1c.json"
+    },
+    {
+      "work": "Q29017580",
+      "title": "David and Bathsheba",
+      "status": "metadata_passed_not_visual",
+      "file": "work-1060501f719581cf03028dc6.json"
+    },
+    {
+      "work": "Q3689716",
+      "title": "Conversion of the Magdalene",
+      "status": "metadata_passed_not_visual",
+      "file": "work-66ecfea1347c28d5f3992a28.json"
+    },
+    {
+      "work": "Q3769169",
+      "title": "Judith Beheading Holofernes",
+      "status": "metadata_passed_not_visual",
+      "file": "work-ddbdaab5cd24c3ed35f87461.json"
+    },
+    {
+      "work": "Q532486",
+      "title": "Judith and Her Maidservant",
+      "status": "metadata_passed_not_visual",
+      "file": "work-cd8b1015cf23f2f170fb813c.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

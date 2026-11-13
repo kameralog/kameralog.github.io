@@ -1,0 +1,40 @@
+{
+  "work": "Q3607620",
+  "title": "Group of Soldiers and Men in Oriental Costume",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "00286664"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Carpaccio, gruppo di soldati.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Carpaccio%2C_gruppo_di_soldati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Carpaccio%2C_gruppo_di_soldati.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Carpaccio,_gruppo_di_soldati.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Vittore Carpaccio",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/carpacci/5/05group\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12589,
+        "checkedAt": "2026-11-13T15:12:22.785Z"
+      },
+      "width": 700,
+      "height": 1162
+    }
+  ]
+}

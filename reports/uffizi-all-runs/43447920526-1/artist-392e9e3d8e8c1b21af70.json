@@ -1,0 +1,16 @@
+{
+  "artistId": "nicolas_poussin",
+  "name": "Никола Пуссен",
+  "latin": "Nicolas Poussin",
+  "status": "needs_review",
+  "works": [
+    {
+      "work": "Q114241476",
+      "title": "Le jeune Thésée retrouve l'épée de son père",
+      "status": "needs_review",
+      "file": "work-621fa14324942d08413b9f00.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}

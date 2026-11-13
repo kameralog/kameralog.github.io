@@ -1,0 +1,40 @@
+{
+  "work": "Q3698237",
+  "title": "Crucifixion with Saint Mary Magdalene",
+  "collections": [
+    "Q51252"
+  ],
+  "inventories": [
+    "8368"
+  ],
+  "creatorEvidence": "single_unqualified_creator",
+  "localInventoryMatches": [],
+  "status": "metadata_passed_not_visual",
+  "filesTruncated": false,
+  "images": [
+    {
+      "file": "Signorelli-crucifixion.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Signorelli-crucifixion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/d/da/Signorelli-crucifixion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli-crucifixion.jpg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Luca Signorelli",
+        "credit": "Florence, Galleria degli Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "probe": {
+        "ok": true,
+        "mime": "image/jpeg",
+        "bytesInspected": 12576,
+        "checkedAt": "2026-11-13T15:11:54.013Z"
+      },
+      "width": 623,
+      "height": 930
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "artistId": "garofalo",
+  "name": "Гарофало",
+  "latin": "Garofalo",
+  "status": "has_metadata_supported_candidates",
+  "works": [
+    {
+      "work": "Q131450093",
+      "title": "Annunciation",
+      "status": "metadata_passed_not_visual",
+      "file": "work-369bbe2975f711c3d74e7ab5.json"
+    }
+  ],
+  "visualReviewPerformed": false,
+  "gameFilesModified": false
+}
