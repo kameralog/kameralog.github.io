@@ -1,0 +1,96 @@
+name: Prepare Uffizi reproduction package
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/prepare-uffizi-package.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/checkout@v4
+        with:
+          ref: museum-reports
+          path: audit-source
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Compare all audited works with current catalogue
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          import {execFileSync} from 'node:child_process';
+          import {jsonValue} from './games/painting/discover-painting-images.mjs';
+          const norm=s=>String(s||'').normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]+/gu,' ').trim();
+          function inv(s){s=String(s||'').normalize('NFKC').replace(/^uffizi:/i,'').trim();const m=s.match(/^1890\s*(?:(?:n|no|№)\.?\s*)?[-.:]?\s*(\d+)$/i);return m?'1890-'+Number(m[1]):norm(s);}
+          function media(s){try{const u=new URL(s);if(['upload.wikimedia.org','thumb.wikimedia.org'].includes(u.hostname)){const parts=decodeURIComponent(u.pathname).split('/');if(parts.includes('thumb'))parts.pop();return 'commons:'+parts.at(-1).replaceAll('_',' ');}if(u.hostname==='commons.wikimedia.org'&&u.pathname.startsWith('/wiki/File:'))return 'commons:'+decodeURIComponent(u.pathname.slice(11)).replaceAll('_',' ');u.hash='';return u.href;}catch{return '';}}
+          assert.equal(inv('1890 № 3562'),inv('1890 n. 3562'));
+          assert.notEqual(inv('1890 № 3562'),inv('1890 № 3563'));
+          assert.equal(media('https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Test.jpg/1000px-Test.jpg?x=1'),media('https://upload.wikimedia.org/wikipedia/commons/a/ab/Test.jpg?x=2'));
+          const input='audit-source/reports/uffizi-all-runs/43447920526-1';
+          const audit=JSON.parse(fs.readFileSync(input+'/summary.json'));assert(audit.complete&&audit.artistsProcessed===audit.artistsTotal,'Audit incomplete');
+          const html=fs.readFileSync('games/painting/index.html','utf8'),CARDS=jsonValue(html,'CARDS'),registry=jsonValue(html,'ARTISTS'),owners=new Map(Object.keys(registry).map(id=>[id,'games/painting/index.html'])),registered=new Set();
+          for(const f of fs.readdirSync('games/painting').filter(f=>/^artists-batch-\d+\.js$/.test(f)).sort((a,b)=>+a.match(/\d+/)[0]-+b.match(/\d+/)[0])){const box={CARDS,console,document:{getElementById:()=>null},MutationObserver:class{observe(){}}};box.window=box;box.registerPaintingArtists=batch=>{for(const[id,a]of Object.entries(batch)){assert(!registered.has(id),'Duplicate artist');registered.add(id);registry[id]=a;owners.set(id,'games/painting/'+f);}};vm.runInNewContext(fs.readFileSync('games/painting/'+f,'utf8'),box,{timeout:5000});}
+          const records=[];for(const[id,a]of Object.entries(registry))for(const bucket of ['works','pendingWorks'])for(const w of a[bucket]||[])records.push({artistId:id,file:owners.get(id),bucket,w});
+          for(const w of CARDS)records.push({artistId:w.artistId||null,file:'games/painting/index.html',bucket:'CARDS',w});
+          const jobs=[];for(const f of fs.readdirSync(input).filter(f=>/^artist-[a-f0-9]+\.json$/.test(f))){const a=JSON.parse(fs.readFileSync(input+'/'+f));for(const entry of a.works){assert(/^work-[a-f0-9]+\.json$/.test(entry.file));jobs.push({artistId:a.artistId,name:a.name,row:JSON.parse(fs.readFileSync(input+'/'+entry.file))});}}
+          const workOwners=new Map();for(const j of jobs){if(!workOwners.has(j.row.work))workOwners.set(j.row.work,new Set());workOwners.get(j.row.work).add(j.artistId);}
+          const out='reports/uffizi-package';fs.mkdirSync(out,{recursive:true});const groups={already_present:[],existing_work_missing_image:[],new_work_candidates:[],needs_review:[]};
+          const museum=w=>/uffizi|уффици|palatina|палатин/iu.test(w.museum||'')||/^https:\/\/(?:www\.)?uffizi\.it\/(?:en\/|it\/)?artworks\//i.test(w.source||'');
+          const qid=w=>[w.wikidata,w.wikidataId,w.source].some(x=>typeof x==='string'&&/^(?:https?:\/\/www\.wikidata\.org\/(?:wiki|entity)\/)?Q\d+$/.test(x)&&x.split('/').at(-1)===w._candidateQid);
+          for(const j of jobs){const {row:r,artistId}=j;const images=(r.images||[]).filter(x=>!x.error&&x.rights?.status==='documented_open'&&x.probe?.ok===true).sort((a,b)=>Number(/^(Public domain|CC0)/i.test(b.rights.name))-Number(/^(Public domain|CC0)/i.test(a.rights.name))||(b.width||0)*(b.height||0)-(a.width||0)*(a.height||0));const image=images[0];const own=records.filter(x=>x.artistId===artistId);const exact=own.filter(x=>qid({...x.w,_candidateQid:r.work})||museum(x.w)&&(r.inventories||[]).some(n=>[x.w.inventory,x.w.key].some(k=>k&&inv(k)===inv(n))));const imageMatches=image?records.filter(x=>x.w.image&&[x.w.image,x.w.zoom,x.w.imageSource].some(url=>media(url)&&[media(image.image),media(image.zoom),media(image.source)].includes(media(url)))):[];
+          let category='needs_review',reason='Audit evidence, rights or delivery require review';
+          if(!registry[artistId])reason='Artist no longer in current catalogue';
+          else if(workOwners.get(r.work).size>1)reason='Same work assigned to multiple site artist IDs';
+          else if(exact.some(x=>x.w.image)||imageMatches.some(x=>x.artistId===artistId)){category='already_present';reason='Same work already illustrated or same Commons file already used for this artist';}
+          else if(imageMatches.length)reason='Image already used under another or unknown artist; reconcile first';
+          else if(r.status==='metadata_passed_not_visual'&&image){const targets=new Map(exact.map(x=>[[x.artistId,x.file,x.bucket,x.w.key||x.w.source].join('|'),x]));if(targets.size===1){category='existing_work_missing_image';reason='Unique same-artist museum inventory or Wikidata match without image';}else if(targets.size>1)reason='Multiple catalogue targets need reconciliation';else if(own.some(x=>[x.w.title,x.w.originalTitle].some(t=>t&&norm(t)===norm(r.title))))reason='Title matches an existing work but object identity is unresolved';else{category='new_work_candidates';reason='No match by recorded inventory, Wikidata ID, same-file identity or exact title; newness still requires catalogue review';}}
+          const result={status:'proposed_not_approved',category,reason,artistId,artist:j.name,work:r.work,title:r.title,inventories:r.inventories,collections:r.collections,chosenImage:image||null,auditStatus:r.status,creatorEvidence:r.creatorEvidence,targets:exact.map(x=>({file:x.file,bucket:x.bucket,key:x.w.key||'',source:x.w.source||'',expectedSha256:createHash('sha256').update(fs.readFileSync(x.file)).digest('hex')})),auditSnapshot:audit.snapshot,visualReviewPerformed:false,applyAllowed:false};const file='entry-'+createHash('sha256').update(artistId+':'+r.work).digest('hex').slice(0,24)+'.json';fs.writeFileSync(out+'/'+file,JSON.stringify(result,null,2));groups[category].push({artistId,artist:j.name,work:r.work,title:r.title,file});}
+          const parts=[];for(const [category,rows]of Object.entries(groups)){let chunk=[],n=1;const flush=()=>{if(!chunk.length)return;const file=category+'-'+String(n++).padStart(3,'0')+'.json';fs.writeFileSync(out+'/'+file,JSON.stringify(chunk));parts.push({category,file,count:chunk.length});chunk=[];};for(const row of rows){if(Buffer.byteLength(JSON.stringify([...chunk,row]))>8000)flush();chunk.push(row);}flush();}
+          const counts=Object.fromEntries(Object.entries(groups).map(([k,v])=>[k,v.length]));assert.equal(Object.values(counts).reduce((a,b)=>a+b,0),jobs.length);
+          const summary={status:'proposed_not_approved',sourceAudit:'43447920526-1',auditSnapshot:audit.snapshot,catalogueSnapshot:execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim(),artistsInCurrentCatalogue:Object.keys(registry).length,artistWorkRecordsCompared:jobs.length,uniqueAuditedWorks:workOwners.size,counts,parts,gameFilesModified:false,visualReviewPerformed:false,applyAllowed:false,note:'No image search or installation performed. New work candidates are not confirmed additions; unmatched identifiers and non-visual checks do not prove newness.'};fs.writeFileSync(out+'/summary.json',JSON.stringify(summary,null,2));
+          NODE
+      - name: Confirm game unchanged
+        run: git diff --exit-code -- games/painting
+      - uses: actions/upload-artifact@v4
+        with:
+          name: uffizi-package-${{ github.run_id }}
+          path: reports/uffizi-package/
+      - name: Save draft package separately
+        env:
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/uffizi-package"
+          cp reports/uffizi-package/*.json "$RUNNER_TEMP/uffizi-package/"
+          rm -rf reports/uffizi-package audit-source
+          git fetch origin refs/heads/museum-reports:refs/remotes/origin/museum-reports
+          git checkout -B museum-reports origin/museum-reports
+          destination="reports/uffizi-packages/$RUN_ID-$RUN_ATTEMPT"
+          mkdir -p "$destination"
+          cp "$RUNNER_TEMP/uffizi-package/"*.json "$destination/"
+          DESTINATION="$destination" python3 <<'PY'
+          import os,json,pathlib
+          p=pathlib.Path(os.environ['DESTINATION'])
+          s=json.loads((p/'summary.json').read_text())
+          pathlib.Path('reports/uffizi-package-latest.json').write_text(json.dumps({'destination':str(p),'counts':s['counts'],'status':s['status']},indent=2))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f -- "$destination" reports/uffizi-package-latest.json
+          git commit -m "Prepare draft Uffizi package $RUN_ID"
+          git push origin HEAD:refs/heads/museum-reports
