@@ -16,5 +16,6 @@ async function loadResearch(){
 }
 const originalSync=sync;sync=async function(...args){await originalSync(...args);await loadResearch()};$('#sync').onclick=sync;
 const sender=document.createElement('script');sender.src='github-send.js';sender.onerror=()=>say('Не загрузился модуль отправки GitHub. Правки сохранены; обновите страницу после публикации.');document.head.append(sender);
+const packetStatus=document.createElement('script');packetStatus.src='github-packet-status.js';packetStatus.onerror=()=>say('Не загрузился статус разбиения. Исходные отправки не отменены; обновите страницу.');document.head.append(packetStatus);
 let tries=0;function wait(){if(catalogue.length){loadResearch();return}if(++tries<200)setTimeout(wait,100)}wait();
 })();

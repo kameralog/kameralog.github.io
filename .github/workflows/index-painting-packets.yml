@@ -1,0 +1,47 @@
+name: Index and verify editorial packets
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'coordination/painting-editor/inbox/**'
+      - 'tools/painting-packet-index.cjs'
+      - 'tools/test-painting-packet-index.cjs'
+      - '.github/workflows/index-painting-packets.yml'
+permissions:
+  contents: write
+concurrency:
+  group: painting-packet-index
+  cancel-in-progress: false
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Test, migrate and publish derived files only
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            node --check editorial/painting/github-packet-status.js
+            node --check editorial/painting/research-loader.js
+            node tools/test-painting-github.cjs
+            node tools/test-painting-packet-index.cjs
+            node tools/painting-packet-index.cjs --write
+            git add -- coordination/painting-editor/packets/
+            if git diff --cached --quiet; then exit 0; fi
+            git commit -m 'Index verified editorial packets without modifying originals'
+            if git push origin HEAD:main; then exit 0; fi
+          done
+          exit 1
