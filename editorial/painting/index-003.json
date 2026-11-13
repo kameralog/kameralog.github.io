@@ -1,5 +1,30 @@
 [
   {
+    "id": "dorothy_kate_richmond",
+    "name": "Дороти Кейт Ричмонд",
+    "path": "records/dorothy_kate_richmond.json"
+  },
+  {
+    "id": "dosso_dossi",
+    "name": "Доссо Досси",
+    "path": "records/dosso_dossi.json"
+  },
+  {
+    "id": "gyula_benczur",
+    "name": "Дьюла Бенцур",
+    "path": "records/gyula_benczur.json"
+  },
+  {
+    "id": "hockney",
+    "name": "Дэвид Хокни",
+    "path": "records/hockney.json"
+  },
+  {
+    "id": "eva_bonnier",
+    "name": "Ева Бонниер",
+    "path": "records/eva_bonnier.json"
+  },
+  {
     "id": "eva_gonzales",
     "name": "Ева Гонсалес",
     "path": "records/eva_gonzales.json"
@@ -420,6 +445,11 @@
     "path": "records/carlo_cignani.json"
   },
   {
+    "id": "karoly_kernstok",
+    "name": "Карой Керншток",
+    "path": "records/karoly_kernstok.json"
+  },
+  {
     "id": "karoly_lotz",
     "name": "Карой Лотц",
     "path": "records/karoly_lotz.json"
@@ -468,35 +498,5 @@
     "id": "quiringh_van_brekelenkam",
     "name": "Квирин ван Брекеленкам",
     "path": "records/quiringh_van_brekelenkam.json"
-  },
-  {
-    "id": "kate_bunce",
-    "name": "Кейт Банс",
-    "path": "records/kate_bunce.json"
-  },
-  {
-    "id": "kate_hayllar",
-    "name": "Кейт Хейллар",
-    "path": "records/kate_hayllar.json"
-  },
-  {
-    "id": "kim_hongdo",
-    "name": "Ким Хондо",
-    "path": "records/kim_hongdo.json"
-  },
-  {
-    "id": "kitty_kielland",
-    "name": "Китти Хьелланн",
-    "path": "records/kitty_kielland.json"
-  },
-  {
-    "id": "clara_peeters",
-    "name": "Клара Петерс",
-    "path": "records/clara_peeters.json"
-  },
-  {
-    "id": "clara_southern",
-    "name": "Клара Саутерн",
-    "path": "records/clara_southern.json"
   }
 ]

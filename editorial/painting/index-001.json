@@ -85,6 +85,11 @@
     "path": "records/bela_ivanyi_grunwald.json"
   },
   {
+    "id": "bela_czobel",
+    "name": "Бела Цобель",
+    "path": "records/bela_czobel.json"
+  },
+  {
     "id": "benedetto_luti",
     "name": "Бенедетто Лути",
     "path": "records/benedetto_luti.json"
@@ -158,6 +163,11 @@
     "id": "morisot",
     "name": "Берта Моризо",
     "path": "records/morisot.json"
+  },
+  {
+    "id": "bertalan_por",
+    "name": "Берталан Пор",
+    "path": "records/bertalan_por.json"
   },
   {
     "id": "bertalan_szekely",
@@ -350,6 +360,11 @@
     "path": "records/vilhelms_purvitis.json"
   },
   {
+    "id": "vilmos_perlrott_csaba",
+    "name": "Вильмош Перлротт-Чаба",
+    "path": "records/vilmos_perlrott_csaba.json"
+  },
+  {
     "id": "vilhelm_kyhn",
     "name": "Вильхельм Кюн",
     "path": "records/vilhelm_kyhn.json"
@@ -483,20 +498,5 @@
     "id": "gerbrand_van_den_eeckhout",
     "name": "Гербранд ван ден Экхаут",
     "path": "records/gerbrand_van_den_eeckhout.json"
-  },
-  {
-    "id": "gerrit_berckheyde",
-    "name": "Геррит Беркхейде",
-    "path": "records/gerrit_berckheyde.json"
-  },
-  {
-    "id": "gerrit_van_honthorst",
-    "name": "Геррит ван Хонтхорст",
-    "path": "records/gerrit_van_honthorst.json"
-  },
-  {
-    "id": "geertgen_tot_sint_jans",
-    "name": "Гертген тот Синт Янс",
-    "path": "records/geertgen_tot_sint_jans.json"
   }
 ]

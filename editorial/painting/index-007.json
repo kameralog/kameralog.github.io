@@ -1,5 +1,45 @@
 [
   {
+    "id": "xiao_yuncong",
+    "name": "Сяо Юньцун",
+    "path": "records/xiao_yuncong.json"
+  },
+  {
+    "id": "murakami",
+    "name": "Такаси Мураками",
+    "path": "records/murakami.json"
+  },
+  {
+    "id": "tanomura_chikuden",
+    "name": "Таномура Тикудэн",
+    "path": "records/tanomura_chikuden.json"
+  },
+  {
+    "id": "theo_van_doesburg",
+    "name": "Тео ван Дусбург",
+    "path": "records/theo_van_doesburg.json"
+  },
+  {
+    "id": "theodor_kittelsen",
+    "name": "Теодор Киттельсен",
+    "path": "records/theodor_kittelsen.json"
+  },
+  {
+    "id": "tepantitla_tlalocan",
+    "name": "Тепантитла: роспись «Тлалокан»",
+    "path": "records/tepantitla_tlalocan.json"
+  },
+  {
+    "id": "therese_schwartze",
+    "name": "Тереза Шварце",
+    "path": "records/therese_schwartze.json"
+  },
+  {
+    "id": "tetitla_murals",
+    "name": "Тетитла: росписи жилого комплекса",
+    "path": "records/tetitla_murals.json"
+  },
+  {
     "id": "tivadar_csontvary_kosztka",
     "name": "Тивадар Чонтвари-Костка",
     "path": "records/tivadar_csontvary_kosztka.json"
@@ -458,45 +498,5 @@
     "id": "herman_saftleven",
     "name": "Херман Сафтлевен",
     "path": "records/herman_saftleven.json"
-  },
-  {
-    "id": "herri_met_de_bles",
-    "name": "Херри мет де Блес",
-    "path": "records/herri_met_de_bles.json"
-  },
-  {
-    "id": "hilma_af_klint",
-    "name": "Хильма аф Клинт",
-    "path": "records/hilma_af_klint.json"
-  },
-  {
-    "id": "holger_drachmann",
-    "name": "Хольгер Дракман",
-    "path": "records/holger_drachmann.json"
-  },
-  {
-    "id": "orozco",
-    "name": "Хосе Клементе Ороско",
-    "path": "records/orozco.json"
-  },
-  {
-    "id": "juan_gris",
-    "name": "Хуан Грис",
-    "path": "records/juan_gris.json"
-  },
-  {
-    "id": "huang_gongwang",
-    "name": "Хуан Гунван",
-    "path": "records/huang_gongwang.json"
-  },
-  {
-    "id": "juan_de_flandes",
-    "name": "Хуан де Фландес",
-    "path": "records/juan_de_flandes.json"
-  },
-  {
-    "id": "juana_romani",
-    "name": "Хуана Романи",
-    "path": "records/juana_romani.json"
   }
 ]

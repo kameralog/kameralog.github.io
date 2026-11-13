@@ -1,5 +1,40 @@
 [
   {
+    "id": "paul_bril",
+    "name": "Пауль Бриль",
+    "path": "records/paul_bril.json"
+  },
+  {
+    "id": "klee",
+    "name": "Пауль Клее",
+    "path": "records/klee.json"
+  },
+  {
+    "id": "paul_raud",
+    "name": "Пауль Рауд",
+    "path": "records/paul_raud.json"
+  },
+  {
+    "id": "paulus_potter",
+    "name": "Паулюс Поттер",
+    "path": "records/paulus_potter.json"
+  },
+  {
+    "id": "peder_balke",
+    "name": "Педер Балке",
+    "path": "records/peder_balke.json"
+  },
+  {
+    "id": "peder_severin_kroyer",
+    "name": "Педер Северин Крёйер",
+    "path": "records/peder_severin_kroyer.json"
+  },
+  {
+    "id": "pekka_halonen",
+    "name": "Пекка Халонен",
+    "path": "records/pekka_halonen.json"
+  },
+  {
     "id": "peter_christian_skovgaard",
     "name": "Петер Кристиан Сковгор",
     "path": "records/peter_christian_skovgaard.json"
@@ -230,6 +265,11 @@
     "path": "records/robert_campin.json"
   },
   {
+    "id": "robert_bereny",
+    "name": "Роберт Берень",
+    "path": "records/robert_bereny.json"
+  },
+  {
     "id": "robert_wilhelm_ekman",
     "name": "Роберт Вильгельм Экман",
     "path": "records/robert_wilhelm_ekman.json"
@@ -458,45 +498,5 @@
     "id": "xia_gui",
     "name": "Ся Гуй",
     "path": "records/xia_gui.json"
-  },
-  {
-    "id": "xiao_yuncong",
-    "name": "Сяо Юньцун",
-    "path": "records/xiao_yuncong.json"
-  },
-  {
-    "id": "murakami",
-    "name": "Такаси Мураками",
-    "path": "records/murakami.json"
-  },
-  {
-    "id": "tanomura_chikuden",
-    "name": "Таномура Тикудэн",
-    "path": "records/tanomura_chikuden.json"
-  },
-  {
-    "id": "theo_van_doesburg",
-    "name": "Тео ван Дусбург",
-    "path": "records/theo_van_doesburg.json"
-  },
-  {
-    "id": "theodor_kittelsen",
-    "name": "Теодор Киттельсен",
-    "path": "records/theodor_kittelsen.json"
-  },
-  {
-    "id": "tepantitla_tlalocan",
-    "name": "Тепантитла: роспись «Тлалокан»",
-    "path": "records/tepantitla_tlalocan.json"
-  },
-  {
-    "id": "therese_schwartze",
-    "name": "Тереза Шварце",
-    "path": "records/therese_schwartze.json"
-  },
-  {
-    "id": "tetitla_murals",
-    "name": "Тетитла: росписи жилого комплекса",
-    "path": "records/tetitla_murals.json"
   }
 ]

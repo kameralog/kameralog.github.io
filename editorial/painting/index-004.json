@@ -1,5 +1,35 @@
 [
   {
+    "id": "kate_bunce",
+    "name": "Кейт Банс",
+    "path": "records/kate_bunce.json"
+  },
+  {
+    "id": "kate_hayllar",
+    "name": "Кейт Хейллар",
+    "path": "records/kate_hayllar.json"
+  },
+  {
+    "id": "kim_hongdo",
+    "name": "Ким Хондо",
+    "path": "records/kim_hongdo.json"
+  },
+  {
+    "id": "kitty_kielland",
+    "name": "Китти Хьелланн",
+    "path": "records/kitty_kielland.json"
+  },
+  {
+    "id": "clara_peeters",
+    "name": "Клара Петерс",
+    "path": "records/clara_peeters.json"
+  },
+  {
+    "id": "clara_southern",
+    "name": "Клара Саутерн",
+    "path": "records/clara_southern.json"
+  },
+  {
     "id": "claude_lorrain",
     "name": "Клод Лоррен",
     "path": "records/claude_lorrain.json"
@@ -158,6 +188,11 @@
     "id": "lavinia_fontana",
     "name": "Лавиния Фонтана",
     "path": "records/lavinia_fontana.json"
+  },
+  {
+    "id": "lajos_tihanyi",
+    "name": "Лайош Тиханьи",
+    "path": "records/lajos_tihanyi.json"
   },
   {
     "id": "laszlo_mednyanszky",
@@ -463,40 +498,5 @@
     "id": "marie_victoire_lemoine",
     "name": "Мари-Виктуар Лемуан",
     "path": "records/marie_victoire_lemoine.json"
-  },
-  {
-    "id": "marie_gabrielle_capet",
-    "name": "Мари-Габриэль Капе",
-    "path": "records/marie_gabrielle_capet.json"
-  },
-  {
-    "id": "marie_guillemine_benoist",
-    "name": "Мари-Гийемин Бенуа",
-    "path": "records/marie_guillemine_benoist.json"
-  },
-  {
-    "id": "marie_denise_villers",
-    "name": "Мари-Дениз Виллер",
-    "path": "records/marie_denise_villers.json"
-  },
-  {
-    "id": "marianne_stokes",
-    "name": "Марианна Стокс",
-    "path": "records/marianne_stokes.json"
-  },
-  {
-    "id": "marinus_van_reymerswale",
-    "name": "Маринус ван Реймерсвале",
-    "path": "records/marinus_van_reymerswale.json"
-  },
-  {
-    "id": "mario_balassi",
-    "name": "Марио Баласси",
-    "path": "records/mario_balassi.json"
-  },
-  {
-    "id": "mariotto_albertinelli",
-    "name": "Мариотто Альбертинелли",
-    "path": "records/mariotto_albertinelli.json"
   }
 ]

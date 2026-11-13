@@ -1,5 +1,40 @@
 [
   {
+    "id": "marie_gabrielle_capet",
+    "name": "Мари-Габриэль Капе",
+    "path": "records/marie_gabrielle_capet.json"
+  },
+  {
+    "id": "marie_guillemine_benoist",
+    "name": "Мари-Гийемин Бенуа",
+    "path": "records/marie_guillemine_benoist.json"
+  },
+  {
+    "id": "marie_denise_villers",
+    "name": "Мари-Дениз Виллер",
+    "path": "records/marie_denise_villers.json"
+  },
+  {
+    "id": "marianne_stokes",
+    "name": "Марианна Стокс",
+    "path": "records/marianne_stokes.json"
+  },
+  {
+    "id": "marinus_van_reymerswale",
+    "name": "Маринус ван Реймерсвале",
+    "path": "records/marinus_van_reymerswale.json"
+  },
+  {
+    "id": "mario_balassi",
+    "name": "Марио Баласси",
+    "path": "records/mario_balassi.json"
+  },
+  {
+    "id": "mariotto_albertinelli",
+    "name": "Мариотто Альбертинелли",
+    "path": "records/mariotto_albertinelli.json"
+  },
+  {
     "id": "marie_bashkirtseff",
     "name": "Мария Башкирцева",
     "path": "records/marie_bashkirtseff.json"
@@ -463,40 +498,5 @@
     "id": "parmigianino",
     "name": "Пармиджанино",
     "path": "records/parmigianino.json"
-  },
-  {
-    "id": "paul_bril",
-    "name": "Пауль Бриль",
-    "path": "records/paul_bril.json"
-  },
-  {
-    "id": "klee",
-    "name": "Пауль Клее",
-    "path": "records/klee.json"
-  },
-  {
-    "id": "paul_raud",
-    "name": "Пауль Рауд",
-    "path": "records/paul_raud.json"
-  },
-  {
-    "id": "paulus_potter",
-    "name": "Паулюс Поттер",
-    "path": "records/paulus_potter.json"
-  },
-  {
-    "id": "peder_balke",
-    "name": "Педер Балке",
-    "path": "records/peder_balke.json"
-  },
-  {
-    "id": "peder_severin_kroyer",
-    "name": "Педер Северин Крёйер",
-    "path": "records/peder_severin_kroyer.json"
-  },
-  {
-    "id": "pekka_halonen",
-    "name": "Пекка Халонен",
-    "path": "records/pekka_halonen.json"
   }
 ]
