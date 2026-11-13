@@ -1,5 +1,15 @@
 [
   {
+    "id": "gerhard_munthe",
+    "name": "Герхард Мунте",
+    "path": "records/gerhard_munthe.json"
+  },
+  {
+    "id": "richter",
+    "name": "Герхард Рихтер",
+    "path": "records/richter.json"
+  },
+  {
     "id": "hyacinthe_rigaud",
     "name": "Гиацинт Риго",
     "path": "records/hyacinthe_rigaud.json"
@@ -475,6 +485,11 @@
     "path": "records/dosso_dossi.json"
   },
   {
+    "id": "gyula_benczur",
+    "name": "Дьюла Бенцур",
+    "path": "records/gyula_benczur.json"
+  },
+  {
     "id": "hockney",
     "name": "Дэвид Хокни",
     "path": "records/hockney.json"
@@ -483,20 +498,5 @@
     "id": "eva_bonnier",
     "name": "Ева Бонниер",
     "path": "records/eva_bonnier.json"
-  },
-  {
-    "id": "eva_gonzales",
-    "name": "Ева Гонсалес",
-    "path": "records/eva_gonzales.json"
-  },
-  {
-    "id": "jekabs_kazaks",
-    "name": "Екабс Казакс",
-    "path": "records/jekabs_kazaks.json"
-  },
-  {
-    "id": "yokoyama_taikan",
-    "name": "Ёкояма Тайкан",
-    "path": "records/yokoyama_taikan.json"
   }
 ]

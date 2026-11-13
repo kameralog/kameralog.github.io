@@ -1,5 +1,50 @@
 [
   {
+    "id": "peter_christian_skovgaard",
+    "name": "Петер Кристиан Сковгор",
+    "path": "records/peter_christian_skovgaard.json"
+  },
+  {
+    "id": "peter_hansen",
+    "name": "Петер Хансен",
+    "path": "records/peter_hansen.json"
+  },
+  {
+    "id": "konchalovsky",
+    "name": "Пётр Кончаловский",
+    "path": "records/konchalovsky.json"
+  },
+  {
+    "id": "petrus_christus",
+    "name": "Петрус Кристус",
+    "path": "records/petrus_christus.json"
+  },
+  {
+    "id": "pisanello",
+    "name": "Пизанелло",
+    "path": "records/pisanello.json"
+  },
+  {
+    "id": "pinturicchio",
+    "name": "Пинтуриккьо",
+    "path": "records/pinturicchio.json"
+  },
+  {
+    "id": "piet_mondrian",
+    "name": "Пит Мондриан",
+    "path": "records/piet_mondrian.json"
+  },
+  {
+    "id": "pieter_aertsen",
+    "name": "Питер Артсен",
+    "path": "records/pieter_aertsen.json"
+  },
+  {
+    "id": "bruegel",
+    "name": "Питер Брейгель Старший",
+    "path": "records/bruegel.json"
+  },
+  {
     "id": "pieter_boel",
     "name": "Питер Буль",
     "path": "records/pieter_boel.json"
@@ -453,50 +498,5 @@
     "id": "tetitla_murals",
     "name": "Тетитла: росписи жилого комплекса",
     "path": "records/tetitla_murals.json"
-  },
-  {
-    "id": "tivadar_csontvary_kosztka",
-    "name": "Тивадар Чонтвари-Костка",
-    "path": "records/tivadar_csontvary_kosztka.json"
-  },
-  {
-    "id": "tintoretto",
-    "name": "Тинторетто",
-    "path": "records/tintoretto.json"
-  },
-  {
-    "id": "titian",
-    "name": "Тициан Вечеллио",
-    "path": "records/titian.json"
-  },
-  {
-    "id": "tobias_verhaecht",
-    "name": "Тобиас Верхахт",
-    "path": "records/tobias_verhaecht.json"
-  },
-  {
-    "id": "thomas_de_keyser",
-    "name": "Томас де Кейзер",
-    "path": "records/thomas_de_keyser.json"
-  },
-  {
-    "id": "thomas_cole",
-    "name": "Томас Коул",
-    "path": "records/thomas_cole.json"
-  },
-  {
-    "id": "thomas_fearnley",
-    "name": "Томас Фернли",
-    "path": "records/thomas_fearnley.json"
-  },
-  {
-    "id": "tensho_shubun",
-    "name": "Тэнсё Сюбун",
-    "path": "records/tensho_shubun.json"
-  },
-  {
-    "id": "tyko_sallinen",
-    "name": "Тюко Саллинен",
-    "path": "records/tyko_sallinen.json"
   }
 ]

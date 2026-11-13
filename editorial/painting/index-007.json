@@ -1,5 +1,50 @@
 [
   {
+    "id": "tivadar_csontvary_kosztka",
+    "name": "Тивадар Чонтвари-Костка",
+    "path": "records/tivadar_csontvary_kosztka.json"
+  },
+  {
+    "id": "tintoretto",
+    "name": "Тинторетто",
+    "path": "records/tintoretto.json"
+  },
+  {
+    "id": "titian",
+    "name": "Тициан Вечеллио",
+    "path": "records/titian.json"
+  },
+  {
+    "id": "tobias_verhaecht",
+    "name": "Тобиас Верхахт",
+    "path": "records/tobias_verhaecht.json"
+  },
+  {
+    "id": "thomas_de_keyser",
+    "name": "Томас де Кейзер",
+    "path": "records/thomas_de_keyser.json"
+  },
+  {
+    "id": "thomas_cole",
+    "name": "Томас Коул",
+    "path": "records/thomas_cole.json"
+  },
+  {
+    "id": "thomas_fearnley",
+    "name": "Томас Фернли",
+    "path": "records/thomas_fearnley.json"
+  },
+  {
+    "id": "tensho_shubun",
+    "name": "Тэнсё Сюбун",
+    "path": "records/tensho_shubun.json"
+  },
+  {
+    "id": "tyko_sallinen",
+    "name": "Тюко Саллинен",
+    "path": "records/tyko_sallinen.json"
+  },
+  {
     "id": "wu_daozi",
     "name": "У Даоцзы",
     "path": "records/wu_daozi.json"
@@ -453,50 +498,5 @@
     "id": "juana_romani",
     "name": "Хуана Романи",
     "path": "records/juana_romani.json"
-  },
-  {
-    "id": "hugo_simberg",
-    "name": "Хуго Симберг",
-    "path": "records/hugo_simberg.json"
-  },
-  {
-    "id": "jusepe_de_ribera",
-    "name": "Хусепе де Рибера",
-    "path": "records/jusepe_de_ribera.json"
-  },
-  {
-    "id": "qiu_ying",
-    "name": "Цю Ин",
-    "path": "records/qiu_ying.json"
-  },
-  {
-    "id": "charley_toorop",
-    "name": "Чарли Тороп",
-    "path": "records/charley_toorop.json"
-  },
-  {
-    "id": "cesare_da_sesto",
-    "name": "Чезаре да Сесто",
-    "path": "records/cesare_da_sesto.json"
-  },
-  {
-    "id": "cesare_dandini",
-    "name": "Чезаре Дандини",
-    "path": "records/cesare_dandini.json"
-  },
-  {
-    "id": "cecco_bravo",
-    "name": "Чекко Браво",
-    "path": "records/cecco_bravo.json"
-  },
-  {
-    "id": "zhao_mengfu",
-    "name": "Чжао Мэнфу",
-    "path": "records/zhao_mengfu.json"
-  },
-  {
-    "id": "zhou_fang",
-    "name": "Чжоу Фан",
-    "path": "records/zhou_fang.json"
   }
 ]

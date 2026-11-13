@@ -1,5 +1,20 @@
 [
   {
+    "id": "eva_gonzales",
+    "name": "Ева Гонсалес",
+    "path": "records/eva_gonzales.json"
+  },
+  {
+    "id": "jekabs_kazaks",
+    "name": "Екабс Казакс",
+    "path": "records/jekabs_kazaks.json"
+  },
+  {
+    "id": "yokoyama_taikan",
+    "name": "Ёкояма Тайкан",
+    "path": "records/yokoyama_taikan.json"
+  },
+  {
     "id": "yosa_buson",
     "name": "Ёса Бусон",
     "path": "records/yosa_buson.json"
@@ -180,6 +195,11 @@
     "path": "records/isack_van_ostade.json"
   },
   {
+    "id": "istvan_reti",
+    "name": "Иштван Рети",
+    "path": "records/istvan_reti.json"
+  },
+  {
     "id": "istvan_csok",
     "name": "Иштван Чок",
     "path": "records/istvan_csok.json"
@@ -223,6 +243,11 @@
     "id": "joza_uprka",
     "name": "Йожа Упрка",
     "path": "records/joza_uprka.json"
+  },
+  {
+    "id": "jozsef_borsos",
+    "name": "Йожеф Боршош",
+    "path": "records/jozsef_borsos.json"
   },
   {
     "id": "jozsef_rippl_ronai",
@@ -395,6 +420,16 @@
     "path": "records/carlo_cignani.json"
   },
   {
+    "id": "karoly_lotz",
+    "name": "Карой Лотц",
+    "path": "records/karoly_lotz.json"
+  },
+  {
+    "id": "karoly_marko_the_elder",
+    "name": "Карой Марко Старший",
+    "path": "records/karoly_marko_the_elder.json"
+  },
+  {
     "id": "karoly_ferenczy",
     "name": "Карой Ференци",
     "path": "records/karoly_ferenczy.json"
@@ -463,40 +498,5 @@
     "id": "clara_southern",
     "name": "Клара Саутерн",
     "path": "records/clara_southern.json"
-  },
-  {
-    "id": "claude_lorrain",
-    "name": "Клод Лоррен",
-    "path": "records/claude_lorrain.json"
-  },
-  {
-    "id": "monet",
-    "name": "Клод Моне",
-    "path": "records/monet.json"
-  },
-  {
-    "id": "coba_ritsema",
-    "name": "Коба Ритсема",
-    "path": "records/coba_ritsema.json"
-  },
-  {
-    "id": "coba_surie",
-    "name": "Коба Сюри",
-    "path": "records/coba_surie.json"
-  },
-  {
-    "id": "cosimo_tura",
-    "name": "Козимо Тура",
-    "path": "records/cosimo_tura.json"
-  },
-  {
-    "id": "colijn_de_coter",
-    "name": "Колейн де Котер",
-    "path": "records/colijn_de_coter.json"
-  },
-  {
-    "id": "konrad_magi",
-    "name": "Конрад Мяги",
-    "path": "records/konrad_magi.json"
   }
 ]

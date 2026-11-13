@@ -1,0 +1,38 @@
+{
+  "id": "viktor_madarasz",
+  "name": "Виктор Мадарас",
+  "latin": "Viktor Madarász",
+  "life": "1830–1917",
+  "tag": "Венгерское искусство · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-140.js",
+  "existing": {
+    "bio": [
+      "Историческая живопись.",
+      "Выбрано произведение «Оплакивание Ласло Хуньяди». Датировка в используемом источнике: 1859.",
+      "Предметные ограничения: Выбрано большое полотно, не малая версия 50271 и не эскиз 52840."
+    ],
+    "technique": [
+      "Масло на холсте; 243 × 311,5 см",
+      "Самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный вопрос, а не утверждение о новаторстве: Как организовано пространство картины?",
+    "caution": "Выбрано большое полотно, не малая версия 50271 и не эскиз 52840.",
+    "editorialStatus": "RESEARCH_DRAFT_BIO_EXPANSION_ALIAS_GLOBAL_AND_IMAGE_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Предметный источник",
+      "url": "https://en.mng.hu/artworks/54526/"
+    },
+    {
+      "title": "Файловый кандидат, не подключён",
+      "url": "https://commons.wikimedia.org/wiki/File:Madar%C3%A1sz%2C_Viktor_-_The_Mourning_of_L%C3%A1szl%C3%B3_Hunyadi_-_Google_Art_Project.jpg"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

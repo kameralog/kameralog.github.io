@@ -1,0 +1,38 @@
+{
+  "id": "bertalan_szekely",
+  "name": "Берталан Секей",
+  "latin": "Bertalan Székely",
+  "life": "1835–1910",
+  "tag": "Венгерское искусство · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-140.js",
+  "existing": {
+    "bio": [
+      "Историческая живопись.",
+      "Выбрано произведение «Женщины Эгера». Датировка в используемом источнике: 1867.",
+      "Предметные ограничения: Не смешивать законченное полотно с рисунками и живописными эскизами. Утверждение предыдущего черновика о Men of Eger удалено как неподтверждённое."
+    ],
+    "technique": [
+      "Масло на холсте; 227 × 176,5 см",
+      "Самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный вопрос, а не утверждение о новаторстве: Как организовано пространство картины?",
+    "caution": "Не смешивать законченное полотно с рисунками и живописными эскизами. Утверждение предыдущего черновика о Men of Eger удалено как неподтверждённое.",
+    "editorialStatus": "RESEARCH_DRAFT_BIO_EXPANSION_ALIAS_GLOBAL_AND_IMAGE_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Предметный источник",
+      "url": "https://en.mng.hu/artworks/54525/"
+    },
+    {
+      "title": "Файловый кандидат, не подключён",
+      "url": "https://commons.wikimedia.org/wiki/File:Sz%C3%A9kely%2C_Bertalan_-_The_Women_of_Eger_-_Google_Art_Project.jpg"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

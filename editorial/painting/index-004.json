@@ -1,5 +1,40 @@
 [
   {
+    "id": "claude_lorrain",
+    "name": "Клод Лоррен",
+    "path": "records/claude_lorrain.json"
+  },
+  {
+    "id": "monet",
+    "name": "Клод Моне",
+    "path": "records/monet.json"
+  },
+  {
+    "id": "coba_ritsema",
+    "name": "Коба Ритсема",
+    "path": "records/coba_ritsema.json"
+  },
+  {
+    "id": "coba_surie",
+    "name": "Коба Сюри",
+    "path": "records/coba_surie.json"
+  },
+  {
+    "id": "cosimo_tura",
+    "name": "Козимо Тура",
+    "path": "records/cosimo_tura.json"
+  },
+  {
+    "id": "colijn_de_coter",
+    "name": "Колейн де Котер",
+    "path": "records/colijn_de_coter.json"
+  },
+  {
+    "id": "konrad_magi",
+    "name": "Конрад Мяги",
+    "path": "records/konrad_magi.json"
+  },
+  {
     "id": "constance_mayer",
     "name": "Констанс Майер",
     "path": "records/constance_mayer.json"
@@ -123,6 +158,11 @@
     "id": "lavinia_fontana",
     "name": "Лавиния Фонтана",
     "path": "records/lavinia_fontana.json"
+  },
+  {
+    "id": "laszlo_mednyanszky",
+    "name": "Ласло Меднянский",
+    "path": "records/laszlo_mednyanszky.json"
   },
   {
     "id": "laszlo_paal",
@@ -458,45 +498,5 @@
     "id": "mariotto_albertinelli",
     "name": "Мариотто Альбертинелли",
     "path": "records/mariotto_albertinelli.json"
-  },
-  {
-    "id": "marie_bashkirtseff",
-    "name": "Мария Башкирцева",
-    "path": "records/marie_bashkirtseff.json"
-  },
-  {
-    "id": "maria_van_oosterwijck",
-    "name": "Мария ван Остервейк",
-    "path": "records/maria_van_oosterwijck.json"
-  },
-  {
-    "id": "maria_wiik",
-    "name": "Мария Виик",
-    "path": "records/maria_wiik.json"
-  },
-  {
-    "id": "maria_margaretha_van_os",
-    "name": "Мария Маргарета ван Ос",
-    "path": "records/maria_margaretha_van_os.json"
-  },
-  {
-    "id": "maria_oakey_dewing",
-    "name": "Мария Оуки Дьюинг",
-    "path": "records/maria_oakey_dewing.json"
-  },
-  {
-    "id": "maria_sibylla_merian",
-    "name": "Мария Сибилла Мериан",
-    "path": "records/maria_sibylla_merian.json"
-  },
-  {
-    "id": "marie_spartali_stillman",
-    "name": "Мария Спартали Стиллман",
-    "path": "records/marie_spartali_stillman.json"
-  },
-  {
-    "id": "marie_ellenrieder",
-    "name": "Мария Элленридер",
-    "path": "records/marie_ellenrieder.json"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": "hugo_simberg",
+    "name": "Хуго Симберг",
+    "path": "records/hugo_simberg.json"
+  },
+  {
+    "id": "jusepe_de_ribera",
+    "name": "Хусепе де Рибера",
+    "path": "records/jusepe_de_ribera.json"
+  },
+  {
+    "id": "qiu_ying",
+    "name": "Цю Ин",
+    "path": "records/qiu_ying.json"
+  },
+  {
+    "id": "charley_toorop",
+    "name": "Чарли Тороп",
+    "path": "records/charley_toorop.json"
+  },
+  {
+    "id": "cesare_da_sesto",
+    "name": "Чезаре да Сесто",
+    "path": "records/cesare_da_sesto.json"
+  },
+  {
+    "id": "cesare_dandini",
+    "name": "Чезаре Дандини",
+    "path": "records/cesare_dandini.json"
+  },
+  {
+    "id": "cecco_bravo",
+    "name": "Чекко Браво",
+    "path": "records/cecco_bravo.json"
+  },
+  {
+    "id": "zhao_mengfu",
+    "name": "Чжао Мэнфу",
+    "path": "records/zhao_mengfu.json"
+  },
+  {
+    "id": "zhou_fang",
+    "name": "Чжоу Фан",
+    "path": "records/zhou_fang.json"
+  },
+  {
     "id": "cima_da_conegliano",
     "name": "Чима да Конельяно",
     "path": "records/cima_da_conegliano.json"
@@ -43,6 +88,11 @@
     "id": "sheikh_taju",
     "name": "Шейх Таджу",
     "path": "records/sheikh_taju.json"
+  },
+  {
+    "id": "simon_hollosy",
+    "name": "Шимон Холлоши",
+    "path": "records/simon_hollosy.json"
   },
   {
     "id": "shitao",
@@ -448,55 +498,5 @@
     "id": "jan_van_den_hecke_the_elder",
     "name": "Ян ван ден Хекке Старший",
     "path": "records/jan_van_den_hecke_the_elder.json"
-  },
-  {
-    "id": "jan_van_der_heyden",
-    "name": "Ян ван дер Хейден",
-    "path": "records/jan_van_der_heyden.json"
-  },
-  {
-    "id": "jan_van_ravesteyn",
-    "name": "Ян ван Равестейн",
-    "path": "records/jan_van_ravesteyn.json"
-  },
-  {
-    "id": "jan_van_scorel",
-    "name": "Ян ван Скорел",
-    "path": "records/jan_van_scorel.json"
-  },
-  {
-    "id": "jan_van_eyck",
-    "name": "Ян ван Эйк",
-    "path": "records/jan_van_eyck.json"
-  },
-  {
-    "id": "jan_wijnants",
-    "name": "Ян Вейнантс",
-    "path": "records/jan_wijnants.json"
-  },
-  {
-    "id": "jan_verkolje",
-    "name": "Ян Верколье",
-    "path": "records/jan_verkolje.json"
-  },
-  {
-    "id": "johannes_vermeer",
-    "name": "Ян Вермеер",
-    "path": "records/johannes_vermeer.json"
-  },
-  {
-    "id": "jan_victors",
-    "name": "Ян Викторс",
-    "path": "records/jan_victors.json"
-  },
-  {
-    "id": "jan_gossart",
-    "name": "Ян Госсарт",
-    "path": "records/jan_gossart.json"
-  },
-  {
-    "id": "jan_lievens",
-    "name": "Ян Ливенс",
-    "path": "records/jan_lievens.json"
   }
 ]

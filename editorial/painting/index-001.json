@@ -160,6 +160,11 @@
     "path": "records/morisot.json"
   },
   {
+    "id": "bertalan_szekely",
+    "name": "Берталан Секей",
+    "path": "records/bertalan_szekely.json"
+  },
+  {
     "id": "bessie_davidson",
     "name": "Бесси Дэвидсон",
     "path": "records/bessie_davidson.json"
@@ -303,6 +308,11 @@
     "id": "victor_westerholm",
     "name": "Виктор Вестерхольм",
     "path": "records/victor_westerholm.json"
+  },
+  {
+    "id": "viktor_madarasz",
+    "name": "Виктор Мадарас",
+    "path": "records/viktor_madarasz.json"
   },
   {
     "id": "willem_van_de_velde_the_younger",
@@ -488,15 +498,5 @@
     "id": "geertgen_tot_sint_jans",
     "name": "Гертген тот Синт Янс",
     "path": "records/geertgen_tot_sint_jans.json"
-  },
-  {
-    "id": "gerhard_munthe",
-    "name": "Герхард Мунте",
-    "path": "records/gerhard_munthe.json"
-  },
-  {
-    "id": "richter",
-    "name": "Герхард Рихтер",
-    "path": "records/richter.json"
   }
 ]

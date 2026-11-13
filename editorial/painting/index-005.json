@@ -1,5 +1,45 @@
 [
   {
+    "id": "marie_bashkirtseff",
+    "name": "Мария Башкирцева",
+    "path": "records/marie_bashkirtseff.json"
+  },
+  {
+    "id": "maria_van_oosterwijck",
+    "name": "Мария ван Остервейк",
+    "path": "records/maria_van_oosterwijck.json"
+  },
+  {
+    "id": "maria_wiik",
+    "name": "Мария Виик",
+    "path": "records/maria_wiik.json"
+  },
+  {
+    "id": "maria_margaretha_van_os",
+    "name": "Мария Маргарета ван Ос",
+    "path": "records/maria_margaretha_van_os.json"
+  },
+  {
+    "id": "maria_oakey_dewing",
+    "name": "Мария Оуки Дьюинг",
+    "path": "records/maria_oakey_dewing.json"
+  },
+  {
+    "id": "maria_sibylla_merian",
+    "name": "Мария Сибилла Мериан",
+    "path": "records/maria_sibylla_merian.json"
+  },
+  {
+    "id": "marie_spartali_stillman",
+    "name": "Мария Спартали Стиллман",
+    "path": "records/marie_spartali_stillman.json"
+  },
+  {
+    "id": "marie_ellenrieder",
+    "name": "Мария Элленридер",
+    "path": "records/marie_ellenrieder.json"
+  },
+  {
     "id": "rothko",
     "name": "Марк Ротко",
     "path": "records/rothko.json"
@@ -118,6 +158,11 @@
     "id": "michele_tosini",
     "name": "Микеле Тозини",
     "path": "records/michele_tosini.json"
+  },
+  {
+    "id": "miklos_barabas",
+    "name": "Миклош Барабаш",
+    "path": "records/miklos_barabas.json"
   },
   {
     "id": "mikolas_ales",
@@ -453,50 +498,5 @@
     "id": "pekka_halonen",
     "name": "Пекка Халонен",
     "path": "records/pekka_halonen.json"
-  },
-  {
-    "id": "peter_christian_skovgaard",
-    "name": "Петер Кристиан Сковгор",
-    "path": "records/peter_christian_skovgaard.json"
-  },
-  {
-    "id": "peter_hansen",
-    "name": "Петер Хансен",
-    "path": "records/peter_hansen.json"
-  },
-  {
-    "id": "konchalovsky",
-    "name": "Пётр Кончаловский",
-    "path": "records/konchalovsky.json"
-  },
-  {
-    "id": "petrus_christus",
-    "name": "Петрус Кристус",
-    "path": "records/petrus_christus.json"
-  },
-  {
-    "id": "pisanello",
-    "name": "Пизанелло",
-    "path": "records/pisanello.json"
-  },
-  {
-    "id": "pinturicchio",
-    "name": "Пинтуриккьо",
-    "path": "records/pinturicchio.json"
-  },
-  {
-    "id": "piet_mondrian",
-    "name": "Пит Мондриан",
-    "path": "records/piet_mondrian.json"
-  },
-  {
-    "id": "pieter_aertsen",
-    "name": "Питер Артсен",
-    "path": "records/pieter_aertsen.json"
-  },
-  {
-    "id": "bruegel",
-    "name": "Питер Брейгель Старший",
-    "path": "records/bruegel.json"
   }
 ]
