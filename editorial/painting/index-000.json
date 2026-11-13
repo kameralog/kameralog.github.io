@@ -410,6 +410,11 @@
     "path": "records/antonio_joli.json"
   },
   {
+    "id": "ants_laikmaa",
+    "name": "Антс Лайкмаа",
+    "path": "records/ants_laikmaa.json"
+  },
+  {
     "id": "antoine_watteau",
     "name": "Антуан Ватто",
     "path": "records/antoine_watteau.json"
@@ -493,10 +498,5 @@
     "id": "bada_shanren",
     "name": "Бада Шаньжэнь",
     "path": "records/bada_shanren.json"
-  },
-  {
-    "id": "baldassarre_franceschini",
-    "name": "Бальдассарре Франческини",
-    "path": "records/baldassarre_franceschini.json"
   }
 ]

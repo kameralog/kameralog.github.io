@@ -1,5 +1,30 @@
 [
   {
+    "id": "christine_swane",
+    "name": "Кристине Сване",
+    "path": "records/christine_swane.json"
+  },
+  {
+    "id": "cristofano_allori",
+    "name": "Кристофано Аллори",
+    "path": "records/cristofano_allori.json"
+  },
+  {
+    "id": "christoffer_wilhelm_eckersberg",
+    "name": "Кристоффер Вильхельм Эккерсберг",
+    "path": "records/christoffer_wilhelm_eckersberg.json"
+  },
+  {
+    "id": "kristjan_raud",
+    "name": "Кристьян Рауд",
+    "path": "records/kristjan_raud.json"
+  },
+  {
+    "id": "petrovvodkin",
+    "name": "Кузьма Петров-Водкин",
+    "path": "records/petrovvodkin.json"
+  },
+  {
     "id": "kuroda_seiki",
     "name": "Курода Сэйки",
     "path": "records/kuroda_seiki.json"
@@ -473,30 +498,5 @@
     "id": "meindert_hobbema",
     "name": "Мейндерт Хоббема",
     "path": "records/meindert_hobbema.json"
-  },
-  {
-    "id": "michelangelo",
-    "name": "Микеланджело Буонарроти",
-    "path": "records/michelangelo.json"
-  },
-  {
-    "id": "michele_marieschi",
-    "name": "Микеле Мариески",
-    "path": "records/michele_marieschi.json"
-  },
-  {
-    "id": "michele_tosini",
-    "name": "Микеле Тозини",
-    "path": "records/michele_tosini.json"
-  },
-  {
-    "id": "mina_arndt",
-    "name": "Мина Арндт",
-    "path": "records/mina_arndt.json"
-  },
-  {
-    "id": "vrubel",
-    "name": "Михаил Врубель",
-    "path": "records/vrubel.json"
   }
 ]

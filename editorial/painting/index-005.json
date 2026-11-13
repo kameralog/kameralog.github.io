@@ -1,5 +1,30 @@
 [
   {
+    "id": "michelangelo",
+    "name": "Микеланджело Буонарроти",
+    "path": "records/michelangelo.json"
+  },
+  {
+    "id": "michele_marieschi",
+    "name": "Микеле Мариески",
+    "path": "records/michele_marieschi.json"
+  },
+  {
+    "id": "michele_tosini",
+    "name": "Микеле Тозини",
+    "path": "records/michele_tosini.json"
+  },
+  {
+    "id": "mina_arndt",
+    "name": "Мина Арндт",
+    "path": "records/mina_arndt.json"
+  },
+  {
+    "id": "vrubel",
+    "name": "Михаил Врубель",
+    "path": "records/vrubel.json"
+  },
+  {
     "id": "larionov",
     "name": "Михаил Ларионов",
     "path": "records/larionov.json"
@@ -135,6 +160,11 @@
     "path": "records/nikolai_astrup.json"
   },
   {
+    "id": "nikolai_triik",
+    "name": "Николай Трийк",
+    "path": "records/nikolai_triik.json"
+  },
+  {
     "id": "nicolaes_berchem",
     "name": "Николас Берхем",
     "path": "records/nicolaes_berchem.json"
@@ -215,6 +245,11 @@
     "path": "records/oscar_wergeland.json"
   },
   {
+    "id": "oskar_kallis",
+    "name": "Оскар Каллис",
+    "path": "records/oskar_kallis.json"
+  },
+  {
     "id": "oskar_kleineh",
     "name": "Оскар Клейне",
     "path": "records/oskar_kleineh.json"
@@ -263,6 +298,11 @@
     "id": "klee",
     "name": "Пауль Клее",
     "path": "records/klee.json"
+  },
+  {
+    "id": "paul_raud",
+    "name": "Пауль Рауд",
+    "path": "records/paul_raud.json"
   },
   {
     "id": "paulus_potter",
@@ -458,45 +498,5 @@
     "id": "pietro_perugino",
     "name": "Пьетро Перуджино",
     "path": "records/pietro_perugino.json"
-  },
-  {
-    "id": "pietro_rotari",
-    "name": "Пьетро Ротари",
-    "path": "records/pietro_rotari.json"
-  },
-  {
-    "id": "raphael",
-    "name": "Рафаэль Санти",
-    "path": "records/raphael.json"
-  },
-  {
-    "id": "rachel_ruysch",
-    "name": "Рахел Рюйш",
-    "path": "records/rachel_ruysch.json"
-  },
-  {
-    "id": "rebecca_solomon",
-    "name": "Ребекка Соломон",
-    "path": "records/rebecca_solomon.json"
-  },
-  {
-    "id": "ryozen",
-    "name": "Рёдзэн",
-    "path": "records/ryozen.json"
-  },
-  {
-    "id": "reinier_nooms",
-    "name": "Рейнир Номс",
-    "path": "records/reinier_nooms.json"
-  },
-  {
-    "id": "rembrandt",
-    "name": "Рембрандт ван Рейн",
-    "path": "records/rembrandt.json"
-  },
-  {
-    "id": "magritte",
-    "name": "Рене Магритт",
-    "path": "records/magritte.json"
   }
 ]

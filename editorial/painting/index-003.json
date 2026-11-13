@@ -1,5 +1,15 @@
 [
   {
+    "id": "jean_baptiste_pater",
+    "name": "Жан-Батист Патер",
+    "path": "records/jean_baptiste_pater.json"
+  },
+  {
+    "id": "jean_baptiste_perronneau",
+    "name": "Жан-Батист Перронно",
+    "path": "records/jean_baptiste_perronneau.json"
+  },
+  {
     "id": "jean_baptiste_santerre",
     "name": "Жан-Батист Сантерр",
     "path": "records/jean_baptiste_santerre.json"
@@ -178,6 +188,11 @@
     "id": "johan_fredrik_eckersberg",
     "name": "Йохан Фредрик Эккерсберг",
     "path": "records/johan_fredrik_eckersberg.json"
+  },
+  {
+    "id": "johann_koler",
+    "name": "Йоханн Кёлер",
+    "path": "records/johann_koler.json"
   },
   {
     "id": "johannes_verspronck",
@@ -395,6 +410,11 @@
     "path": "records/colijn_de_coter.json"
   },
   {
+    "id": "konrad_magi",
+    "name": "Конрад Мяги",
+    "path": "records/konrad_magi.json"
+  },
+  {
     "id": "constance_mayer",
     "name": "Констанс Майер",
     "path": "records/constance_mayer.json"
@@ -478,25 +498,5 @@
     "id": "christine_lovmand",
     "name": "Кристине Лёвманн",
     "path": "records/christine_lovmand.json"
-  },
-  {
-    "id": "christine_swane",
-    "name": "Кристине Сване",
-    "path": "records/christine_swane.json"
-  },
-  {
-    "id": "cristofano_allori",
-    "name": "Кристофано Аллори",
-    "path": "records/cristofano_allori.json"
-  },
-  {
-    "id": "christoffer_wilhelm_eckersberg",
-    "name": "Кристоффер Вильхельм Эккерсберг",
-    "path": "records/christoffer_wilhelm_eckersberg.json"
-  },
-  {
-    "id": "petrovvodkin",
-    "name": "Кузьма Петров-Водкин",
-    "path": "records/petrovvodkin.json"
   }
 ]

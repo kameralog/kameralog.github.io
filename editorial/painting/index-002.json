@@ -1,5 +1,15 @@
 [
   {
+    "id": "gustaf_fjaestad",
+    "name": "Густав Фьестад",
+    "path": "records/gustaf_fjaestad.json"
+  },
+  {
+    "id": "gustave_courbet",
+    "name": "Гюстав Курбе",
+    "path": "records/gustave_courbet.json"
+  },
+  {
     "id": "gustave_moreau",
     "name": "Гюстав Моро",
     "path": "records/gustave_moreau.json"
@@ -488,15 +498,5 @@
     "id": "jean_baptiste_monnoyer",
     "name": "Жан-Батист Моннуайе",
     "path": "records/jean_baptiste_monnoyer.json"
-  },
-  {
-    "id": "jean_baptiste_pater",
-    "name": "Жан-Батист Патер",
-    "path": "records/jean_baptiste_pater.json"
-  },
-  {
-    "id": "jean_baptiste_perronneau",
-    "name": "Жан-Батист Перронно",
-    "path": "records/jean_baptiste_perronneau.json"
   }
 ]

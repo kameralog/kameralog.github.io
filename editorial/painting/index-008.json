@@ -1,5 +1,45 @@
 [
   {
+    "id": "elisabeth_sophie_cheron",
+    "name": "Элизабет-Софи Шерон",
+    "path": "records/elisabeth_sophie_cheron.json"
+  },
+  {
+    "id": "elisabetta_sirani",
+    "name": "Элизабетта Сирани",
+    "path": "records/elisabetta_sirani.json"
+  },
+  {
+    "id": "elin_danielson_gambogi",
+    "name": "Элин Даниельсон-Гамбоджи",
+    "path": "records/elin_danielson_gambogi.json"
+  },
+  {
+    "id": "alice_chapman",
+    "name": "Элис Чапмен",
+    "path": "records/alice_chapman.json"
+  },
+  {
+    "id": "ellen_day_hale",
+    "name": "Эллен Дэй Хейл",
+    "path": "records/ellen_day_hale.json"
+  },
+  {
+    "id": "ellen_thesleff",
+    "name": "Эллен Теслефф",
+    "path": "records/ellen_thesleff.json"
+  },
+  {
+    "id": "ellis_rowan",
+    "name": "Эллис Роуэн",
+    "path": "records/ellis_rowan.json"
+  },
+  {
+    "id": "el_greco",
+    "name": "Эль Греко",
+    "path": "records/el_greco.json"
+  },
+  {
     "id": "lissitzky",
     "name": "Эль Лисицкий",
     "path": "records/lissitzky.json"
@@ -328,5 +368,15 @@
     "id": "jan_jansz_treck",
     "name": "Ян Янс Трек",
     "path": "records/jan_jansz_treck.json"
+  },
+  {
+    "id": "janis_valters",
+    "name": "Янис Валтерс",
+    "path": "records/janis_valters.json"
+  },
+  {
+    "id": "janis_rozentals",
+    "name": "Янис Розенталс",
+    "path": "records/janis_rozentals.json"
   }
 ]

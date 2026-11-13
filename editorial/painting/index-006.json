@@ -1,5 +1,45 @@
 [
   {
+    "id": "pietro_rotari",
+    "name": "Пьетро Ротари",
+    "path": "records/pietro_rotari.json"
+  },
+  {
+    "id": "raphael",
+    "name": "Рафаэль Санти",
+    "path": "records/raphael.json"
+  },
+  {
+    "id": "rachel_ruysch",
+    "name": "Рахел Рюйш",
+    "path": "records/rachel_ruysch.json"
+  },
+  {
+    "id": "rebecca_solomon",
+    "name": "Ребекка Соломон",
+    "path": "records/rebecca_solomon.json"
+  },
+  {
+    "id": "ryozen",
+    "name": "Рёдзэн",
+    "path": "records/ryozen.json"
+  },
+  {
+    "id": "reinier_nooms",
+    "name": "Рейнир Номс",
+    "path": "records/reinier_nooms.json"
+  },
+  {
+    "id": "rembrandt",
+    "name": "Рембрандт ван Рейн",
+    "path": "records/rembrandt.json"
+  },
+  {
+    "id": "magritte",
+    "name": "Рене Магритт",
+    "path": "records/magritte.json"
+  },
+  {
     "id": "richard_bergh",
     "name": "Рихард Берг",
     "path": "records/richard_bergh.json"
@@ -458,45 +498,5 @@
     "id": "hals",
     "name": "Франс Халс",
     "path": "records/hals.json"
-  },
-  {
-    "id": "francisco_goya",
-    "name": "Франсиско Гойя",
-    "path": "records/francisco_goya.json"
-  },
-  {
-    "id": "francois_boucher",
-    "name": "Франсуа Буше",
-    "path": "records/francois_boucher.json"
-  },
-  {
-    "id": "francois_hubert_drouais",
-    "name": "Франсуа-Юбер Друэ",
-    "path": "records/francois_hubert_drouais.json"
-  },
-  {
-    "id": "franz_marc",
-    "name": "Франц Марк",
-    "path": "records/franz_marc.json"
-  },
-  {
-    "id": "francesco_bonsignori",
-    "name": "Франческо Бонсиньори",
-    "path": "records/francesco_bonsignori.json"
-  },
-  {
-    "id": "francesco_guardi",
-    "name": "Франческо Гварди",
-    "path": "records/francesco_guardi.json"
-  },
-  {
-    "id": "francesco_de_mura",
-    "name": "Франческо де Мура",
-    "path": "records/francesco_de_mura.json"
-  },
-  {
-    "id": "francesco_del_cossa",
-    "name": "Франческо дель Косса",
-    "path": "records/francesco_del_cossa.json"
   }
 ]

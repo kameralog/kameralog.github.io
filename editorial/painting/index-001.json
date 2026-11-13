@@ -1,5 +1,10 @@
 [
   {
+    "id": "baldassarre_franceschini",
+    "name": "Бальдассарре Франческини",
+    "path": "records/baldassarre_franceschini.json"
+  },
+  {
     "id": "barbara_longhi",
     "name": "Барбара Лонги",
     "path": "records/barbara_longhi.json"
@@ -290,6 +295,11 @@
     "path": "records/wilhelm_bendz.json"
   },
   {
+    "id": "vilhelms_purvitis",
+    "name": "Вильгельм Пурвитис",
+    "path": "records/vilhelms_purvitis.json"
+  },
+  {
     "id": "vilhelm_kyhn",
     "name": "Вильхельм Кюн",
     "path": "records/vilhelm_kyhn.json"
@@ -488,15 +498,5 @@
     "id": "klimt",
     "name": "Густав Климт",
     "path": "records/klimt.json"
-  },
-  {
-    "id": "gustaf_fjaestad",
-    "name": "Густав Фьестад",
-    "path": "records/gustaf_fjaestad.json"
-  },
-  {
-    "id": "gustave_courbet",
-    "name": "Гюстав Курбе",
-    "path": "records/gustave_courbet.json"
   }
 ]
