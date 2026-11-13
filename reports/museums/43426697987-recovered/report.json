@@ -1,0 +1,1434 @@
+{
+  "policy": "image-discovery-v1",
+  "snapshot": "339626083c4b02a76a883aa2c5c19e240f1056cc",
+  "counts": {
+    "artists": 816,
+    "batchFiles": 128,
+    "baseRecords": 777,
+    "missingWorks": 255,
+    "artistsWithoutImages": 338
+  },
+  "rows": [
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 3562",
+        "key": "1890 № 3562",
+        "title": "Гилас и нимфы",
+        "originalTitle": "Hylas and the Nymphs",
+        "source": "https://www.uffizi.it/en/artworks/hylas-and-the-nymphs",
+        "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+        "artistId": "francesco_furini",
+        "artist": "Франческо Фурини",
+        "aliases": [
+          "Francesco Furini",
+          "Франческо Фурини"
+        ],
+        "date": "около 1632",
+        "refs": [
+          "artists-batch-96.js:pendingWorks:1890 № 3562"
+        ],
+        "id": "711683d1757453f151ed28d4d3f0682f5734deea08fa14470a426d8998ffa2a6"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "711683d1757453f151ed28d4d3f0682f5734deea08fa14470a426d8998ffa2a6",
+        "probeRequested": true,
+        "attemptedAt": 1794573442494,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": false
+          }
+        ],
+        "errors": [
+          {
+            "source": "commons-search",
+            "error": "URL outside allowed image/API hosts"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "4282",
+            "title": "Faun and Nymphs",
+            "artist": "possibly after Raymond de Lafage\nFrench, 1656-1690",
+            "date": "n.d.",
+            "source": "https://www.artic.edu/artworks/4282",
+            "image": "https://www.artic.edu/iiif/2/df56aa8c-88f1-151a-99b1-f75a9cf1d209/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/df56aa8c-88f1-151a-99b1-f75a9cf1d209/full/1686,/0/default.jpg",
+            "width": 3000,
+            "height": 2161,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "The Leonora Hall Gurley Memorial Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "29398",
+            "title": "Centaur Abducting a Nymph",
+            "artist": "Attributed to Francesco Fanelli (Italian, active c. 1608–1661)",
+            "date": "c. 1650",
+            "source": "https://www.artic.edu/artworks/29398",
+            "image": "https://www.artic.edu/iiif/2/fe29a13c-13cc-a45d-c927-3dc5ea09b69a/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/fe29a13c-13cc-a45d-c927-3dc5ea09b69a/full/1686,/0/default.jpg",
+            "width": 2047,
+            "height": 2250,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Gift of Mrs. Siegfried Schmidt",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-vignali-flautist",
+        "key": "editorial:uffizi-vignali-flautist",
+        "title": "Флейтист",
+        "originalTitle": "The Flautist",
+        "source": "https://www.uffizi.it/en/events/jacopo-vignali-and-uffizi-galleries-in-san-casciano-val-di-pesa",
+        "museum": "Галереи Уффици, Флоренция",
+        "artistId": "jacopo_vignali",
+        "artist": "Якопо Виньяли",
+        "aliases": [
+          "Jacopo Vignali",
+          "Якопо Виньяли"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-97.js:pendingWorks:editorial:uffizi-vignali-flautist"
+        ],
+        "id": "bf517f45636c0a21194f2d60ab9392b9cba291faff920d23f57b3d5d0c0e3c48"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "bf517f45636c0a21194f2d60ab9392b9cba291faff920d23f57b3d5d0c0e3c48",
+        "probeRequested": true,
+        "attemptedAt": 1794573447191,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "30",
+            "title": "The Battle around the Shield and Lance",
+            "artist": "Giovanni Jacopo Caraglio (Italian, 1500/05–1565)\nafter Raffaello Sanzio, called Raphael (Italian, 1483-1520)",
+            "date": "c. 1527",
+            "source": "https://www.artic.edu/artworks/30",
+            "image": "https://www.artic.edu/iiif/2/d11c0a27-95f3-92fd-049b-37003e3cdf5a/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/d11c0a27-95f3-92fd-049b-37003e3cdf5a/full/1686,/0/default.jpg",
+            "width": 3000,
+            "height": 2082,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Elizabeth Hammond Stickney Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": [
+              "70e62283e3079799f368dba6e1e5170ae1ab5a53d0d40dd5c8da9ffcf201e18c"
+            ]
+          },
+          {
+            "provider": "aic",
+            "objectId": "110782",
+            "title": "Diana and Actaeon",
+            "artist": "Jacopo Bassano (Italian, c. 1510-1592)",
+            "date": "1585–92",
+            "source": "https://www.artic.edu/artworks/110782",
+            "image": "https://www.artic.edu/iiif/2/7ee5e05c-9dfa-ef87-2dd9-2696da7dbc74/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/7ee5e05c-9dfa-ef87-2dd9-2696da7dbc74/full/1686,/0/default.jpg",
+            "width": 2455,
+            "height": 2250,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Charles H. and Mary F. S. Worcester Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:pitti-volterrano-arlotto",
+        "key": "editorial:pitti-volterrano-arlotto",
+        "title": "Шутка священника Арлотто",
+        "originalTitle": "One of Father Arlotto’s Tricks",
+        "source": "https://www.uffizi.it/en/artworks/volterrano-one-of-father-arlotto-s-tricks",
+        "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+        "artistId": "baldassarre_franceschini",
+        "artist": "Бальдассарре Франческини",
+        "aliases": [
+          "Baldassarre Franceschini",
+          "Бальдассарре Франческини",
+          "Вольтеррано",
+          "Il Volterrano",
+          "Volterrano"
+        ],
+        "date": "около 1640",
+        "refs": [
+          "artists-batch-97.js:pendingWorks:editorial:pitti-volterrano-arlotto"
+        ],
+        "id": "0027d2b077dd958cab498f8ee3cd4ae2fd418d455c9586f7aa991419ad25d58b"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "0027d2b077dd958cab498f8ee3cd4ae2fd418d455c9586f7aa991419ad25d58b",
+        "probeRequested": true,
+        "attemptedAt": 1794573452017,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": false
+          }
+        ],
+        "errors": [
+          {
+            "source": "commons-search",
+            "error": "URL outside allowed image/API hosts"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "185829",
+            "title": "God the Father",
+            "artist": "Bernardino Campi\nItalian, 1522-1591",
+            "date": "1567/70",
+            "source": "https://www.artic.edu/artworks/185829",
+            "image": "https://www.artic.edu/iiif/2/58b988f6-ebc8-6dee-0c32-6534210ad770/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/58b988f6-ebc8-6dee-0c32-6534210ad770/full/1686,/0/default.jpg",
+            "width": 3000,
+            "height": 1790,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "57757",
+            "title": "God the Father Blessing",
+            "artist": "Italian; possibly Tuscany",
+            "date": "c. 1455",
+            "source": "https://www.artic.edu/artworks/57757",
+            "image": "https://www.artic.edu/iiif/2/ac1d0e9b-4ebd-5c88-d383-4778bd1d96c8/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/ac1d0e9b-4ebd-5c88-d383-4778bd1d96c8/full/1686,/0/default.jpg",
+            "width": 2937,
+            "height": 2250,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Kate S. Buckingham Endowment",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-dandini-shepherd-bagpipes",
+        "key": "editorial:uffizi-dandini-shepherd-bagpipes",
+        "title": "Пастух с волынкой",
+        "originalTitle": "Shepherd with Bagpipes",
+        "source": "https://www.uffizi.it/en/events/jacopo-vignali-and-uffizi-galleries-in-san-casciano-val-di-pesa",
+        "museum": "Галереи Уффици, Флоренция",
+        "artistId": "cesare_dandini",
+        "artist": "Чезаре Дандини",
+        "aliases": [
+          "Cesare Dandini",
+          "Чезаре Дандини"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-97.js:pendingWorks:editorial:uffizi-dandini-shepherd-bagpipes"
+        ],
+        "id": "d65db88ed1af9ff5ce374c39f57be5006ed5d17e61e161ce2701a8904ff5ca6d"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "d65db88ed1af9ff5ce374c39f57be5006ed5d17e61e161ce2701a8904ff5ca6d",
+        "probeRequested": true,
+        "attemptedAt": 1794573456649,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "28017",
+            "title": "The Bagpipe Player",
+            "artist": "Nicolaes Berchem\nDutch, 1620-1683",
+            "date": "1644–45",
+            "source": "https://www.artic.edu/artworks/28017",
+            "image": "https://www.artic.edu/iiif/2/791b0a26-9693-e470-ee3d-45575c085909/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/791b0a26-9693-e470-ee3d-45575c085909/full/1686,/0/default.jpg",
+            "width": 3000,
+            "height": 2149,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Clarence Buckingham Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "9652",
+            "title": "De Gli Habiti Antichi, et Moderni di Diuerse Parti del Mondo Libri Dve, Fatti da Cesare Vecellio et con discoursi da Lui Dichiarti. Con Privilegio\"",
+            "artist": "Cesare Vecellio (Italian, c. 1521–1601)\nItaly, Venice",
+            "date": "1590",
+            "source": "https://www.artic.edu/artworks/9652",
+            "image": "https://www.artic.edu/iiif/2/ab7d49c9-81ba-ba32-229f-e522fee7119b/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/ab7d49c9-81ba-ba32-229f-e522fee7119b/full/1686,/0/default.jpg",
+            "width": 2526,
+            "height": 2026,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Gift of the Antiquarian Society",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 8741",
+        "key": "1890 № 8741",
+        "title": "Поклонение волхвов",
+        "originalTitle": "Adoration of the Magi",
+        "source": "https://www.uffizi.it/en/artworks/adoration-magi-cristofano-allori",
+        "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+        "artistId": "cristofano_allori",
+        "artist": "Кристофано Аллори",
+        "aliases": [
+          "Cristofano Allori",
+          "Кристофано Аллори"
+        ],
+        "date": "1610–1611",
+        "refs": [
+          "artists-batch-98.js:pendingWorks:1890 № 8741"
+        ],
+        "id": "43050d05a2aa781a6762a1c595042b46ff9feca9aeac0e288309cf4413f2d8f3"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "43050d05a2aa781a6762a1c595042b46ff9feca9aeac0e288309cf4413f2d8f3",
+        "probeRequested": true,
+        "attemptedAt": 1794573461174,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": false
+          }
+        ],
+        "errors": [
+          {
+            "source": "commons-search",
+            "error": "URL outside allowed image/API hosts"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "21937",
+            "title": "Adoration of the Magi",
+            "artist": "Jan van Scorel (Netherlandish, 1495-1562)",
+            "date": "c. 1519",
+            "source": "https://www.artic.edu/artworks/21937",
+            "image": "https://www.artic.edu/iiif/2/5f5b4009-7e1c-2e07-8b3e-ae59a3cf9c4c/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/5f5b4009-7e1c-2e07-8b3e-ae59a3cf9c4c/full/1686,/0/default.jpg",
+            "width": 2762,
+            "height": 2250,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Wilson L. Mead Fund",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "25743",
+            "title": "The Adoration of the Magi",
+            "artist": "Attributed to Raffaello Botticini (Italian, 1477–c.1520)",
+            "date": "c. 1495",
+            "source": "https://www.artic.edu/artworks/25743",
+            "image": "https://www.artic.edu/iiif/2/24c1565b-f22d-fb73-4a7f-f35bcb3dcc09/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/24c1565b-f22d-fb73-4a7f-f35bcb3dcc09/full/1686,/0/default.jpg",
+            "width": 2237,
+            "height": 2250,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Mr. and Mrs. Martin A. Ryerson Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 8441",
+        "key": "1890 № 8441",
+        "title": "Кладовая с бочкой, дичью, мясом и посудой",
+        "originalTitle": "Pantry with cask, game, meat and pottery",
+        "source": "https://www.uffizi.it/en/artworks/empoli-still-life",
+        "museum": "Уффици, Флоренция",
+        "artistId": "jacopo_chimenti",
+        "artist": "Якопо Кименти",
+        "aliases": [
+          "Jacopo Chimenti",
+          "Якопо Кименти",
+          "Эмполи",
+          "Empoli",
+          "Jacopo da Empoli"
+        ],
+        "date": "1624; подпись и дата",
+        "refs": [
+          "artists-batch-98.js:pendingWorks:1890 № 8441"
+        ],
+        "id": "70e62283e3079799f368dba6e1e5170ae1ab5a53d0d40dd5c8da9ffcf201e18c"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "70e62283e3079799f368dba6e1e5170ae1ab5a53d0d40dd5c8da9ffcf201e18c",
+        "probeRequested": true,
+        "attemptedAt": 1794573465876,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": true
+          }
+        ],
+        "errors": [
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "30",
+            "title": "The Battle around the Shield and Lance",
+            "artist": "Giovanni Jacopo Caraglio (Italian, 1500/05–1565)\nafter Raffaello Sanzio, called Raphael (Italian, 1483-1520)",
+            "date": "c. 1527",
+            "source": "https://www.artic.edu/artworks/30",
+            "image": "https://www.artic.edu/iiif/2/d11c0a27-95f3-92fd-049b-37003e3cdf5a/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/d11c0a27-95f3-92fd-049b-37003e3cdf5a/full/1686,/0/default.jpg",
+            "width": 3000,
+            "height": 2082,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Elizabeth Hammond Stickney Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": [
+              "bf517f45636c0a21194f2d60ab9392b9cba291faff920d23f57b3d5d0c0e3c48"
+            ]
+          },
+          {
+            "provider": "aic",
+            "objectId": "11390",
+            "title": "Portrait of a Noblewoman Dressed in Mourning",
+            "artist": "Jacopo da Empoli (Jacopo Chimenti; Italian, 1551–1640)",
+            "date": "c. 1600",
+            "source": "https://www.artic.edu/artworks/11390",
+            "image": "https://www.artic.edu/iiif/2/7904b9d2-675f-7aeb-88c3-e29cd519b7be/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/7904b9d2-675f-7aeb-88c3-e29cd519b7be/full/1686,/0/default.jpg",
+            "width": 1238,
+            "height": 2250,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Louise B. and Frank H. Woods Purchase Fund",
+            "identityBasis": "search_result",
+            "duplicateExisting": true,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 3496",
+        "key": "1890 № 3496",
+        "title": "Святой Франциск получает стигматы",
+        "originalTitle": "St Francis receives the stigmata",
+        "source": "https://www.uffizi.it/en/artworks/cigoli-francis-stigmata",
+        "museum": "Уффици, Флоренция",
+        "artistId": "ludovico_cardi",
+        "artist": "Лудовико Карди",
+        "aliases": [
+          "Ludovico Cardi",
+          "Лудовико Карди",
+          "Чиголи",
+          "Cigoli",
+          "Il Cigoli"
+        ],
+        "date": "1596; подписано и датировано",
+        "refs": [
+          "artists-batch-98.js:pendingWorks:1890 № 3496"
+        ],
+        "id": "013e4601acfe04d9a98d4a62b04b6078106c992b39ff496f9dd01f71660c4f74"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "013e4601acfe04d9a98d4a62b04b6078106c992b39ff496f9dd01f71660c4f74",
+        "probeRequested": true,
+        "attemptedAt": 1794573470511,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": false
+          }
+        ],
+        "errors": [
+          {
+            "source": "commons-search",
+            "error": "URL outside allowed image/API hosts"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "86972",
+            "title": "Saint Francis Receiving the Stigmata",
+            "artist": "Federico Barocci\nItalian, 1526/28-1612",
+            "date": "c. 1581",
+            "source": "https://www.artic.edu/artworks/86972",
+            "image": "https://www.artic.edu/iiif/2/c766454d-b7e3-0454-0f72-95fce138705c/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/c766454d-b7e3-0454-0f72-95fce138705c/full/1686,/0/default.jpg",
+            "width": 1953,
+            "height": 3000,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Joseph Brooks Fair Fund",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "83893",
+            "title": "Saint Francis Receiving the Stigmata",
+            "artist": "Nicolò Boldrini (Italian, c. 1500–1566)\nafter Titian (Italian, c. 1488-1576)",
+            "date": "1535/45",
+            "source": "https://www.artic.edu/artworks/83893",
+            "image": "https://www.artic.edu/iiif/2/ea583487-2f47-efb6-b9ba-1a352064063a/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/ea583487-2f47-efb6-b9ba-1a352064063a/full/1686,/0/default.jpg",
+            "width": 1024,
+            "height": 695,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Albert H. Wolf Memorial Collection",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 2037",
+        "key": "1890 № 2037",
+        "title": "Аллегория живописи",
+        "originalTitle": "Allegory of Painting",
+        "source": "https://www.uffizi.it/en/artworks/martinelli-allegory-of-painting",
+        "museum": "Уффици, Флоренция; запасники по музейной карточке",
+        "artistId": "giovanni_martinelli",
+        "artist": "Джованни Мартинелли",
+        "aliases": [
+          "Giovanni Martinelli",
+          "Джованни Мартинелли"
+        ],
+        "date": "около 1630–1635",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:1890 № 2037"
+        ],
+        "id": "535d909fc17c793a8b63b31fee5ceac7a10d227cd9ea9b50fd2e8558f7058744"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "535d909fc17c793a8b63b31fee5ceac7a10d227cd9ea9b50fd2e8558f7058744",
+        "probeRequested": true,
+        "attemptedAt": 1794573475074,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": false
+          }
+        ],
+        "errors": [
+          {
+            "source": "commons-search",
+            "error": "URL outside allowed image/API hosts"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "64916",
+            "title": "The Serf",
+            "artist": "Henri Matisse\nFrench, 1869–1954",
+            "date": "1900–03, cast c. 1908",
+            "source": "https://www.artic.edu/artworks/64916",
+            "image": "https://www.artic.edu/iiif/2/fa74552f-53c3-28bd-dc81-5c2f2b8143a1/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/fa74552f-53c3-28bd-dc81-5c2f2b8143a1/full/1686,/0/default.jpg",
+            "width": 4872,
+            "height": 8662,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Edward E. Ayer Endowment in memory of Charles L. Hutchinson",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "4373",
+            "title": "Allegory of Envy",
+            "artist": "Cristofano Robetta\nItalian, 1462-c. 1535",
+            "date": "c. 1505",
+            "source": "https://www.artic.edu/artworks/4373",
+            "image": "https://www.artic.edu/iiif/2/a1aa06ff-08e5-1feb-35e9-40d2beac8a06/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/a1aa06ff-08e5-1feb-35e9-40d2beac8a06/full/1686,/0/default.jpg",
+            "width": 2319,
+            "height": 3000,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Bequest of Mrs. Potter Palmer, Jr.",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:15",
+        "key": "catalogue:rigore-grazia:15",
+        "title": "Лот и его дочери",
+        "originalTitle": "Lot e le figlie",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "simone_pignoni",
+        "artist": "Симоне Пиньони",
+        "aliases": [
+          "Simone Pignoni",
+          "Симоне Пиньони"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:15"
+        ],
+        "id": "29a3461a34cf8e82ecc1f064a2e69ff3b9ca494d284829bc71a5f78f2a2b43b7"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "29a3461a34cf8e82ecc1f064a2e69ff3b9ca494d284829bc71a5f78f2a2b43b7",
+        "probeRequested": true,
+        "attemptedAt": 1794573479621,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": false
+          }
+        ],
+        "errors": [
+          {
+            "source": "commons-search",
+            "error": "URL outside allowed image/API hosts"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "100",
+            "title": "Simon Vouet",
+            "artist": "Robert van Voerst (Flemish, 1597-1636/37)\nafter Anthony van Dyck (Flemish, 1599-1641)",
+            "date": "1630/36",
+            "source": "https://www.artic.edu/artworks/100",
+            "image": "https://www.artic.edu/iiif/2/03c0fd45-3690-5fae-8023-4a3c16d3bfad/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/03c0fd45-3690-5fae-8023-4a3c16d3bfad/full/1686,/0/default.jpg",
+            "width": 2215,
+            "height": 3000,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Gift of John E. Irwin",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "2995",
+            "title": "Fragments (Border)",
+            "artist": "Nasca\nCoyunga, Nazca Valley, South coast, Peru",
+            "date": "100 BCE-200 CE",
+            "source": "https://www.artic.edu/artworks/2995",
+            "image": "https://www.artic.edu/iiif/2/beb9c895-4d71-d087-95e3-f647882dd9d2/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/beb9c895-4d71-d087-95e3-f647882dd9d2/full/1686,/0/default.jpg",
+            "width": 1022,
+            "height": 406,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Purchased with funds provided by Mrs. Chauncey B. Borland",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:16",
+        "key": "catalogue:rigore-grazia:16",
+        "title": "Исцеление Товита",
+        "originalTitle": "Guarigione di Tobi",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "mario_balassi",
+        "artist": "Марио Баласси",
+        "aliases": [
+          "Mario Balassi",
+          "Марио Баласси"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:16"
+        ],
+        "id": "0e9da7f404be2a59c7b588b012935439e584c5138941a3ef62c187505c60aced"
+      },
+      "result": {
+        "policy": "image-discovery-v1",
+        "taskId": "0e9da7f404be2a59c7b588b012935439e584c5138941a3ef62c187505c60aced",
+        "probeRequested": true,
+        "attemptedAt": 1794573484261,
+        "status": "incomplete",
+        "budget": false,
+        "sources": [
+          {
+            "name": "aic-search",
+            "complete": true
+          },
+          {
+            "name": "cma-search",
+            "complete": true
+          },
+          {
+            "name": "commons-search",
+            "complete": false
+          }
+        ],
+        "errors": [
+          {
+            "source": "commons-search",
+            "error": "URL outside allowed image/API hosts"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          },
+          {
+            "source": "aic-image",
+            "error": "HTTP 403"
+          }
+        ],
+        "candidates": [
+          {
+            "provider": "aic",
+            "objectId": "10927",
+            "title": "Saint Benedict Presenting his Rule to Benedictine and Cistercian Monks in a Historiated Initial \"O\" from a Choirbook",
+            "artist": "Italian (Siena)\nMartino di Bartolomeo (Italian, 1389-1434/5)\n1394/95",
+            "date": "1394/95",
+            "source": "https://www.artic.edu/artworks/10927",
+            "image": "https://www.artic.edu/iiif/2/54f0b704-7108-5b91-1d0f-585758267fb4/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/54f0b704-7108-5b91-1d0f-585758267fb4/full/1686,/0/default.jpg",
+            "width": 2476,
+            "height": 3000,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Gift of the Frank W. Gunsaulus Estate",
+            "identityBasis": "search_result",
+            "duplicateExisting": false,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          },
+          {
+            "provider": "aic",
+            "objectId": "72320",
+            "title": "Elaine",
+            "artist": "Toby Edward Rosenthal (American, 1848–1917)",
+            "date": "1874",
+            "source": "https://www.artic.edu/artworks/72320",
+            "image": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac/full/843,/0/default.jpg",
+            "zoom": "https://www.artic.edu/iiif/2/27d70359-d92b-18fb-b31a-f3dd4e3c78ac/full/1686,/0/default.jpg",
+            "width": 3000,
+            "height": 1826,
+            "exact": false,
+            "rights": {
+              "status": "documented_open",
+              "name": "CC0",
+              "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+              "obligations": [],
+              "evidence": "Art Institute API is_public_domain=true; open-access image policy"
+            },
+            "creditLine": "Gift of Mrs. Maurice Rosenfeld",
+            "identityBasis": "search_result",
+            "duplicateExisting": true,
+            "caution": "",
+            "probe": {
+              "ok": false,
+              "error": "HTTP 403"
+            },
+            "status": "needs_identity_review",
+            "sharedCandidateTasks": []
+          }
+        ],
+        "searchScope": "AIC/CMA direct lookup where supported; first 2 AIC, 2 CMA and 3 Commons search results. No exhaustive-world-search claim.",
+        "visualReviewPerformed": false,
+        "gameFilesModified": false
+      }
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:18",
+        "key": "catalogue:rigore-grazia:18",
+        "title": "Иеровоам и пророк Ахия",
+        "originalTitle": "Geroboamo e il profeta Achia",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "vincenzo_dandini",
+        "artist": "Винченцо Дандини",
+        "aliases": [
+          "Vincenzo Dandini",
+          "Винченцо Дандини"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:18"
+        ],
+        "id": "7a351e2ea0a2f1bb4eab9dfba861c4c050328e7bc9371074857d58617ccaeb9f"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:catalogue:rigore-grazia:19",
+        "key": "catalogue:rigore-grazia:19",
+        "title": "Сусанна и старцы",
+        "originalTitle": "Susanna e i vecchioni",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "artistId": "agostino_melissi",
+        "artist": "Агостино Мелисси",
+        "aliases": [
+          "Agostino Melissi",
+          "Агостино Мелисси"
+        ],
+        "date": "Точная дата не установлена",
+        "refs": [
+          "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:19"
+        ],
+        "id": "5968e13fc1909aa96be20165e2728fa466558cf70cb55e9fa5d470406bb0f200"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 8023",
+        "key": "1890 № 8023",
+        "title": "Аллегория Фортуны",
+        "originalTitle": "Allegory of Fortune",
+        "source": "https://www.uffizi.it/en/artworks/ligozzi-fortune",
+        "museum": "Уффици, Флоренция",
+        "artistId": "jacopo_ligozzi",
+        "artist": "Якопо Лигоцци",
+        "aliases": [
+          "Jacopo Ligozzi",
+          "Якопо Лигоцци"
+        ],
+        "date": "1580–1599",
+        "refs": [
+          "artists-batch-100.js:pendingWorks:1890 № 8023"
+        ],
+        "id": "232dac55b4ef96191a31c195e9c1a21874a3f1a1e547732502025b4fb79e0560"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-gabbiani-magdalene-1701",
+        "key": "editorial:uffizi-gabbiani-magdalene-1701",
+        "title": "Слава святой Марии Магдалины, возносимой ангелами на небо",
+        "originalTitle": "Glory of Saint Mary Magdalene carried to heaven by angels",
+        "source": "https://www.uffizi.it/en/events/florence-and-europe",
+        "museum": "Галереи Уффици; по выставочной записи",
+        "artistId": "anton_domenico_gabbiani",
+        "artist": "Антон Доменико Габбиани",
+        "aliases": [
+          "Anton Domenico Gabbiani",
+          "Антон Доменико Габбиани"
+        ],
+        "date": "1701",
+        "refs": [
+          "artists-batch-100.js:pendingWorks:editorial:uffizi-gabbiani-magdalene-1701"
+        ],
+        "id": "a75ac52a94c9d8bbdc5fe424f809b4030d5b342bd9640af4522e62922e421eb1"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:editorial:uffizi-allori-hercules-muses",
+        "key": "editorial:uffizi-allori-hercules-muses",
+        "title": "Геркулес, увенчанный музами",
+        "originalTitle": "Hercules crowned by the Muses",
+        "source": "https://www.uffizi.it/en/artworks/allori-hercules-muses",
+        "museum": "Уффици, Флоренция",
+        "artistId": "alessandro_allori",
+        "artist": "Алессандро Аллори",
+        "aliases": [
+          "Alessandro Allori",
+          "Алессандро Аллори"
+        ],
+        "date": "1568",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:editorial:uffizi-allori-hercules-muses"
+        ],
+        "id": "a4e333504efecc46cb293df46ac4c54305296be45d0ab4cb942febd72534d07d"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 10840",
+        "key": "1890 № 10840",
+        "title": "Мадонна с Младенцем, маленьким Иоанном Крестителем и святой Варварой",
+        "originalTitle": "Madonna and Child, Young Saint John the Baptist and Saint Barbara",
+        "source": "https://www.uffizi.it/en/artworks/madonna-child-st-john-st-barbara-daniele-da-volterra",
+        "museum": "Уффици, Флоренция",
+        "artistId": "daniele_da_volterra",
+        "artist": "Даниеле да Вольтерра",
+        "aliases": [
+          "Daniele da Volterra",
+          "Даниеле да Вольтерра",
+          "Даниеле Риччарелли",
+          "Daniele Ricciarelli"
+        ],
+        "date": "около 1545–1547",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:1890 № 10840"
+        ],
+        "id": "fd1da74d4b99c017c9c7f26643d2b7ddd354e52505d6e02e4fa3598acdc2f47f"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 9974",
+        "key": "1890 № 9974",
+        "title": "Анжелика скрывается от Руджеро",
+        "originalTitle": "Angelica hides from Ruggiero",
+        "source": "https://www.uffizi.it/en/artworks/ruggero-angelica-bilivert",
+        "museum": "Уффици, Флоренция",
+        "artistId": "giovanni_bilivert",
+        "artist": "Джованни Биливерт",
+        "aliases": [
+          "Giovanni Bilivert",
+          "Джованни Биливерт"
+        ],
+        "date": "около 1624",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:1890 № 9974"
+        ],
+        "id": "1612947ba4aa74bab7fbf584c3a731361298eebadd5a2e1588ff9030cef1c116"
+      },
+      "result": null
+    },
+    {
+      "task": {
+        "kind": "work",
+        "identity": "key:1890 № 10723",
+        "key": "1890 № 10723",
+        "title": "Армида",
+        "originalTitle": "Armida",
+        "source": "https://www.uffizi.it/en/artworks/armida-cecco-bravo",
+        "museum": "Уффици, Флоренция",
+        "artistId": "cecco_bravo",
+        "artist": "Чекко Браво",
+        "aliases": [
+          "Cecco Bravo",
+          "Чекко Браво",
+          "Франческо Монтелатичи",
+          "Francesco Montelatici"
+        ],
+        "date": "около 1650",
+        "refs": [
+          "artists-batch-101.js:pendingWorks:1890 № 10723"
+        ],
+        "id": "009a271cced44e262a2c9887d720863db212fa0aa654be2ed043d74807f4efde"
+      },
+      "result": null
+    }
+  ],
+  "gameFilesModified": false,
+  "visualReviewPerformed": false
+}

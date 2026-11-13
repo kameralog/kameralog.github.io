@@ -1,0 +1,14 @@
+{
+  "museum": "uffizi",
+  "other": "",
+  "inventoryOnly": false,
+  "snapshot": "339626083c4b02a76a883aa2c5c19e240f1056cc",
+  "selectedMissingWorks": 18,
+  "offset": 0,
+  "processed": 10,
+  "nextOffset": 10,
+  "httpRequests": 70,
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "note": "Museum selection uses catalogue labels and source links. Existing AIC/CMA/Commons search is reused; this does not add direct museum website collectors. Candidates require identity and rights review. Zero matches does not prove museum completeness."
+}

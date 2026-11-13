@@ -1,0 +1,375 @@
+[
+  {
+    "kind": "work",
+    "identity": "key:1890 № 3562",
+    "key": "1890 № 3562",
+    "title": "Гилас и нимфы",
+    "originalTitle": "Hylas and the Nymphs",
+    "source": "https://www.uffizi.it/en/artworks/hylas-and-the-nymphs",
+    "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+    "artistId": "francesco_furini",
+    "artist": "Франческо Фурини",
+    "aliases": [
+      "Francesco Furini",
+      "Франческо Фурини"
+    ],
+    "date": "около 1632",
+    "refs": [
+      "artists-batch-96.js:pendingWorks:1890 № 3562"
+    ],
+    "id": "711683d1757453f151ed28d4d3f0682f5734deea08fa14470a426d8998ffa2a6"
+  },
+  {
+    "kind": "work",
+    "identity": "key:editorial:uffizi-vignali-flautist",
+    "key": "editorial:uffizi-vignali-flautist",
+    "title": "Флейтист",
+    "originalTitle": "The Flautist",
+    "source": "https://www.uffizi.it/en/events/jacopo-vignali-and-uffizi-galleries-in-san-casciano-val-di-pesa",
+    "museum": "Галереи Уффици, Флоренция",
+    "artistId": "jacopo_vignali",
+    "artist": "Якопо Виньяли",
+    "aliases": [
+      "Jacopo Vignali",
+      "Якопо Виньяли"
+    ],
+    "date": "Точная дата не установлена",
+    "refs": [
+      "artists-batch-97.js:pendingWorks:editorial:uffizi-vignali-flautist"
+    ],
+    "id": "bf517f45636c0a21194f2d60ab9392b9cba291faff920d23f57b3d5d0c0e3c48"
+  },
+  {
+    "kind": "work",
+    "identity": "key:editorial:pitti-volterrano-arlotto",
+    "key": "editorial:pitti-volterrano-arlotto",
+    "title": "Шутка священника Арлотто",
+    "originalTitle": "One of Father Arlotto’s Tricks",
+    "source": "https://www.uffizi.it/en/artworks/volterrano-one-of-father-arlotto-s-tricks",
+    "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+    "artistId": "baldassarre_franceschini",
+    "artist": "Бальдассарре Франческини",
+    "aliases": [
+      "Baldassarre Franceschini",
+      "Бальдассарре Франческини",
+      "Вольтеррано",
+      "Il Volterrano",
+      "Volterrano"
+    ],
+    "date": "около 1640",
+    "refs": [
+      "artists-batch-97.js:pendingWorks:editorial:pitti-volterrano-arlotto"
+    ],
+    "id": "0027d2b077dd958cab498f8ee3cd4ae2fd418d455c9586f7aa991419ad25d58b"
+  },
+  {
+    "kind": "work",
+    "identity": "key:editorial:uffizi-dandini-shepherd-bagpipes",
+    "key": "editorial:uffizi-dandini-shepherd-bagpipes",
+    "title": "Пастух с волынкой",
+    "originalTitle": "Shepherd with Bagpipes",
+    "source": "https://www.uffizi.it/en/events/jacopo-vignali-and-uffizi-galleries-in-san-casciano-val-di-pesa",
+    "museum": "Галереи Уффици, Флоренция",
+    "artistId": "cesare_dandini",
+    "artist": "Чезаре Дандини",
+    "aliases": [
+      "Cesare Dandini",
+      "Чезаре Дандини"
+    ],
+    "date": "Точная дата не установлена",
+    "refs": [
+      "artists-batch-97.js:pendingWorks:editorial:uffizi-dandini-shepherd-bagpipes"
+    ],
+    "id": "d65db88ed1af9ff5ce374c39f57be5006ed5d17e61e161ce2701a8904ff5ca6d"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 8741",
+    "key": "1890 № 8741",
+    "title": "Поклонение волхвов",
+    "originalTitle": "Adoration of the Magi",
+    "source": "https://www.uffizi.it/en/artworks/adoration-magi-cristofano-allori",
+    "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+    "artistId": "cristofano_allori",
+    "artist": "Кристофано Аллори",
+    "aliases": [
+      "Cristofano Allori",
+      "Кристофано Аллори"
+    ],
+    "date": "1610–1611",
+    "refs": [
+      "artists-batch-98.js:pendingWorks:1890 № 8741"
+    ],
+    "id": "43050d05a2aa781a6762a1c595042b46ff9feca9aeac0e288309cf4413f2d8f3"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 8441",
+    "key": "1890 № 8441",
+    "title": "Кладовая с бочкой, дичью, мясом и посудой",
+    "originalTitle": "Pantry with cask, game, meat and pottery",
+    "source": "https://www.uffizi.it/en/artworks/empoli-still-life",
+    "museum": "Уффици, Флоренция",
+    "artistId": "jacopo_chimenti",
+    "artist": "Якопо Кименти",
+    "aliases": [
+      "Jacopo Chimenti",
+      "Якопо Кименти",
+      "Эмполи",
+      "Empoli",
+      "Jacopo da Empoli"
+    ],
+    "date": "1624; подпись и дата",
+    "refs": [
+      "artists-batch-98.js:pendingWorks:1890 № 8441"
+    ],
+    "id": "70e62283e3079799f368dba6e1e5170ae1ab5a53d0d40dd5c8da9ffcf201e18c"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 3496",
+    "key": "1890 № 3496",
+    "title": "Святой Франциск получает стигматы",
+    "originalTitle": "St Francis receives the stigmata",
+    "source": "https://www.uffizi.it/en/artworks/cigoli-francis-stigmata",
+    "museum": "Уффици, Флоренция",
+    "artistId": "ludovico_cardi",
+    "artist": "Лудовико Карди",
+    "aliases": [
+      "Ludovico Cardi",
+      "Лудовико Карди",
+      "Чиголи",
+      "Cigoli",
+      "Il Cigoli"
+    ],
+    "date": "1596; подписано и датировано",
+    "refs": [
+      "artists-batch-98.js:pendingWorks:1890 № 3496"
+    ],
+    "id": "013e4601acfe04d9a98d4a62b04b6078106c992b39ff496f9dd01f71660c4f74"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 2037",
+    "key": "1890 № 2037",
+    "title": "Аллегория живописи",
+    "originalTitle": "Allegory of Painting",
+    "source": "https://www.uffizi.it/en/artworks/martinelli-allegory-of-painting",
+    "museum": "Уффици, Флоренция; запасники по музейной карточке",
+    "artistId": "giovanni_martinelli",
+    "artist": "Джованни Мартинелли",
+    "aliases": [
+      "Giovanni Martinelli",
+      "Джованни Мартинелли"
+    ],
+    "date": "около 1630–1635",
+    "refs": [
+      "artists-batch-99.js:pendingWorks:1890 № 2037"
+    ],
+    "id": "535d909fc17c793a8b63b31fee5ceac7a10d227cd9ea9b50fd2e8558f7058744"
+  },
+  {
+    "kind": "work",
+    "identity": "key:catalogue:rigore-grazia:15",
+    "key": "catalogue:rigore-grazia:15",
+    "title": "Лот и его дочери",
+    "originalTitle": "Lot e le figlie",
+    "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+    "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+    "artistId": "simone_pignoni",
+    "artist": "Симоне Пиньони",
+    "aliases": [
+      "Simone Pignoni",
+      "Симоне Пиньони"
+    ],
+    "date": "Точная дата не установлена",
+    "refs": [
+      "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:15"
+    ],
+    "id": "29a3461a34cf8e82ecc1f064a2e69ff3b9ca494d284829bc71a5f78f2a2b43b7"
+  },
+  {
+    "kind": "work",
+    "identity": "key:catalogue:rigore-grazia:16",
+    "key": "catalogue:rigore-grazia:16",
+    "title": "Исцеление Товита",
+    "originalTitle": "Guarigione di Tobi",
+    "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+    "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+    "artistId": "mario_balassi",
+    "artist": "Марио Баласси",
+    "aliases": [
+      "Mario Balassi",
+      "Марио Баласси"
+    ],
+    "date": "Точная дата не установлена",
+    "refs": [
+      "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:16"
+    ],
+    "id": "0e9da7f404be2a59c7b588b012935439e584c5138941a3ef62c187505c60aced"
+  },
+  {
+    "kind": "work",
+    "identity": "key:catalogue:rigore-grazia:18",
+    "key": "catalogue:rigore-grazia:18",
+    "title": "Иеровоам и пророк Ахия",
+    "originalTitle": "Geroboamo e il profeta Achia",
+    "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+    "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+    "artistId": "vincenzo_dandini",
+    "artist": "Винченцо Дандини",
+    "aliases": [
+      "Vincenzo Dandini",
+      "Винченцо Дандини"
+    ],
+    "date": "Точная дата не установлена",
+    "refs": [
+      "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:18"
+    ],
+    "id": "7a351e2ea0a2f1bb4eab9dfba861c4c050328e7bc9371074857d58617ccaeb9f"
+  },
+  {
+    "kind": "work",
+    "identity": "key:catalogue:rigore-grazia:19",
+    "key": "catalogue:rigore-grazia:19",
+    "title": "Сусанна и старцы",
+    "originalTitle": "Susanna e i vecchioni",
+    "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+    "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+    "artistId": "agostino_melissi",
+    "artist": "Агостино Мелисси",
+    "aliases": [
+      "Agostino Melissi",
+      "Агостино Мелисси"
+    ],
+    "date": "Точная дата не установлена",
+    "refs": [
+      "artists-batch-99.js:pendingWorks:catalogue:rigore-grazia:19"
+    ],
+    "id": "5968e13fc1909aa96be20165e2728fa466558cf70cb55e9fa5d470406bb0f200"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 8023",
+    "key": "1890 № 8023",
+    "title": "Аллегория Фортуны",
+    "originalTitle": "Allegory of Fortune",
+    "source": "https://www.uffizi.it/en/artworks/ligozzi-fortune",
+    "museum": "Уффици, Флоренция",
+    "artistId": "jacopo_ligozzi",
+    "artist": "Якопо Лигоцци",
+    "aliases": [
+      "Jacopo Ligozzi",
+      "Якопо Лигоцци"
+    ],
+    "date": "1580–1599",
+    "refs": [
+      "artists-batch-100.js:pendingWorks:1890 № 8023"
+    ],
+    "id": "232dac55b4ef96191a31c195e9c1a21874a3f1a1e547732502025b4fb79e0560"
+  },
+  {
+    "kind": "work",
+    "identity": "key:editorial:uffizi-gabbiani-magdalene-1701",
+    "key": "editorial:uffizi-gabbiani-magdalene-1701",
+    "title": "Слава святой Марии Магдалины, возносимой ангелами на небо",
+    "originalTitle": "Glory of Saint Mary Magdalene carried to heaven by angels",
+    "source": "https://www.uffizi.it/en/events/florence-and-europe",
+    "museum": "Галереи Уффици; по выставочной записи",
+    "artistId": "anton_domenico_gabbiani",
+    "artist": "Антон Доменико Габбиани",
+    "aliases": [
+      "Anton Domenico Gabbiani",
+      "Антон Доменико Габбиани"
+    ],
+    "date": "1701",
+    "refs": [
+      "artists-batch-100.js:pendingWorks:editorial:uffizi-gabbiani-magdalene-1701"
+    ],
+    "id": "a75ac52a94c9d8bbdc5fe424f809b4030d5b342bd9640af4522e62922e421eb1"
+  },
+  {
+    "kind": "work",
+    "identity": "key:editorial:uffizi-allori-hercules-muses",
+    "key": "editorial:uffizi-allori-hercules-muses",
+    "title": "Геркулес, увенчанный музами",
+    "originalTitle": "Hercules crowned by the Muses",
+    "source": "https://www.uffizi.it/en/artworks/allori-hercules-muses",
+    "museum": "Уффици, Флоренция",
+    "artistId": "alessandro_allori",
+    "artist": "Алессандро Аллори",
+    "aliases": [
+      "Alessandro Allori",
+      "Алессандро Аллори"
+    ],
+    "date": "1568",
+    "refs": [
+      "artists-batch-101.js:pendingWorks:editorial:uffizi-allori-hercules-muses"
+    ],
+    "id": "a4e333504efecc46cb293df46ac4c54305296be45d0ab4cb942febd72534d07d"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 10840",
+    "key": "1890 № 10840",
+    "title": "Мадонна с Младенцем, маленьким Иоанном Крестителем и святой Варварой",
+    "originalTitle": "Madonna and Child, Young Saint John the Baptist and Saint Barbara",
+    "source": "https://www.uffizi.it/en/artworks/madonna-child-st-john-st-barbara-daniele-da-volterra",
+    "museum": "Уффици, Флоренция",
+    "artistId": "daniele_da_volterra",
+    "artist": "Даниеле да Вольтерра",
+    "aliases": [
+      "Daniele da Volterra",
+      "Даниеле да Вольтерра",
+      "Даниеле Риччарелли",
+      "Daniele Ricciarelli"
+    ],
+    "date": "около 1545–1547",
+    "refs": [
+      "artists-batch-101.js:pendingWorks:1890 № 10840"
+    ],
+    "id": "fd1da74d4b99c017c9c7f26643d2b7ddd354e52505d6e02e4fa3598acdc2f47f"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 9974",
+    "key": "1890 № 9974",
+    "title": "Анжелика скрывается от Руджеро",
+    "originalTitle": "Angelica hides from Ruggiero",
+    "source": "https://www.uffizi.it/en/artworks/ruggero-angelica-bilivert",
+    "museum": "Уффици, Флоренция",
+    "artistId": "giovanni_bilivert",
+    "artist": "Джованни Биливерт",
+    "aliases": [
+      "Giovanni Bilivert",
+      "Джованни Биливерт"
+    ],
+    "date": "около 1624",
+    "refs": [
+      "artists-batch-101.js:pendingWorks:1890 № 9974"
+    ],
+    "id": "1612947ba4aa74bab7fbf584c3a731361298eebadd5a2e1588ff9030cef1c116"
+  },
+  {
+    "kind": "work",
+    "identity": "key:1890 № 10723",
+    "key": "1890 № 10723",
+    "title": "Армида",
+    "originalTitle": "Armida",
+    "source": "https://www.uffizi.it/en/artworks/armida-cecco-bravo",
+    "museum": "Уффици, Флоренция",
+    "artistId": "cecco_bravo",
+    "artist": "Чекко Браво",
+    "aliases": [
+      "Cecco Bravo",
+      "Чекко Браво",
+      "Франческо Монтелатичи",
+      "Francesco Montelatici"
+    ],
+    "date": "около 1650",
+    "refs": [
+      "artists-batch-101.js:pendingWorks:1890 № 10723"
+    ],
+    "id": "009a271cced44e262a2c9887d720863db212fa0aa654be2ed043d74807f4efde"
+  }
+]
