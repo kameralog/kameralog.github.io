@@ -1,0 +1,45 @@
+{
+  "id": "christoffer_wilhelm_eckersberg",
+  "name": "Кристоффер Вильхельм Эккерсберг",
+  "latin": "Christoffer Wilhelm Eckersberg",
+  "life": "1783–1853",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-128.js",
+  "existing": {
+    "bio": [
+      "Датский художник и преподаватель, один из центральных мастеров датского золотого века.",
+      "Работал с перспективой, архитектурными видами, портретами и маринами."
+    ],
+    "technique": [
+      "Масло на холсте; 32 × 49,5 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как арки образуют три кадра?",
+    "caution": "Не подменять другими видами Колизея из Hirschsprung Collection, инв. 109, или Thorvaldsens Museum, B405. Дата картины 1815 и поле публикации 1815/1816 различаются.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.smk.dk/en/artist_profile/c-w-eckersberg/"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:C.W._Eckersberg_-_A_View_through_Three_Arches_of_the_Third_Storey_of_the_Colosseum_-_Google_Art_Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "christoffer_wilhelm_eckersberg_selected",
+      "title": "Вид через три арки третьего яруса Колизея",
+      "date": "1815",
+      "museum": "SMK — Statens Museum for Kunst",
+      "source": "https://www.smk.dk/en/artist_profile/c-w-eckersberg/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

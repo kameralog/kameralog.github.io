@@ -180,6 +180,11 @@
     "path": "records/viviano_codazzi.json"
   },
   {
+    "id": "viggo_johansen",
+    "name": "Вигго Йохансен",
+    "path": "records/viggo_johansen.json"
+  },
+  {
     "id": "willem_van_de_velde_the_younger",
     "name": "Виллем ван де Велде Младший",
     "path": "records/willem_van_de_velde_the_younger.json"
@@ -303,6 +308,11 @@
     "id": "henrietta_rae",
     "name": "Генриетта Рэй",
     "path": "records/henrietta_rae.json"
+  },
+  {
+    "id": "georg_achen",
+    "name": "Георг Ахен",
+    "path": "records/georg_achen.json"
   },
   {
     "id": "gerard_david",
@@ -488,15 +498,5 @@
     "id": "girolamo_romanino",
     "name": "Джироламо Романино",
     "path": "records/girolamo_romanino.json"
-  },
-  {
-    "id": "gioacchino_assereto",
-    "name": "Джоаккино Ассерето",
-    "path": "records/gioacchino_assereto.json"
-  },
-  {
-    "id": "joan_carlile",
-    "name": "Джоан Карлайл",
-    "path": "records/joan_carlile.json"
   }
 ]

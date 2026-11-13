@@ -1,0 +1,37 @@
+{
+  "id": "julius_paulsen",
+  "name": "Юлиус Паульсен",
+  "latin": "Julius Paulsen",
+  "life": "1860–1940",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-128.js",
+  "existing": {
+    "bio": [
+      "Датский живописец портретов, пейзажей и фигуративных композиций.",
+      "Сам изображён среди гостей в картине Туксена о мастерской на Страндвейен."
+    ],
+    "technique": [
+      "Масло на холсте; 148,5 × 155 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как две фигуры связаны движением?",
+    "caution": "1887 — дата по подписи, 1888 — приобретение. Библейская сцена не выдана за доказанное историческое событие. Не подменять позднейшими натурными этюдами.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://open.smk.dk/en/artwork/image/KMS1319"
+    },
+    {
+      "title": "Сам Паульсен как модель, не автор этой картины",
+      "url": "https://en.wikipedia.org/wiki/Evening_Party_in_the_Studio_on_Strandvejen"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

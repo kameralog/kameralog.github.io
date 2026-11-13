@@ -1,0 +1,33 @@
+{
+  "id": "georg_achen",
+  "name": "Георг Ахен",
+  "latin": "Georg Achen",
+  "life": "1860–1912",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-128.js",
+  "existing": {
+    "bio": [
+      "Датский художник портрета, пейзажа и интерьера.",
+      "В выбранной работе обращается к камерному мотиву чтения в помещении."
+    ],
+    "technique": [
+      "Масло на холсте; 57,5 × 47,5 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как чтение организует позу?",
+    "caution": "1897 и смерть 1912 подтверждены прямой карточкой Ribe. Не подменять Interior with reading woman 1896 года или крупным частным интерьером Buderupholm 1907.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.ribekunstmuseum.dk/samling/RKMm0001"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

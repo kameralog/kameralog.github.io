@@ -1,5 +1,30 @@
 [
   {
+    "id": "luca_giordano",
+    "name": "Лука Джордано",
+    "path": "records/luca_giordano.json"
+  },
+  {
+    "id": "luca_cambiaso",
+    "name": "Лука Камбьязо",
+    "path": "records/luca_cambiaso.json"
+  },
+  {
+    "id": "luca_signorelli",
+    "name": "Лука Синьорелли",
+    "path": "records/luca_signorelli.json"
+  },
+  {
+    "id": "lucas_van_leyden",
+    "name": "Лукас ван Лейден",
+    "path": "records/lucas_van_leyden.json"
+  },
+  {
+    "id": "lucas_cranach_the_elder",
+    "name": "Лукас Кранах Старший",
+    "path": "records/lucas_cranach_the_elder.json"
+  },
+  {
     "id": "ludovico_carracci",
     "name": "Людовико Карраччи",
     "path": "records/ludovico_carracci.json"
@@ -335,6 +360,11 @@
     "path": "records/michaelina_wautier.json"
   },
   {
+    "id": "michael_ancher",
+    "name": "Михаэль Анкер",
+    "path": "records/michael_ancher.json"
+  },
+  {
     "id": "maude_burge",
     "name": "Мод Бёрдж",
     "path": "records/maude_burge.json"
@@ -468,35 +498,5 @@
     "id": "nicolaes_moeyaert",
     "name": "Николас Мойарт",
     "path": "records/nicolaes_moeyaert.json"
-  },
-  {
-    "id": "nicolaes_eliasz_pickenoy",
-    "name": "Николас Элиас Пикеной",
-    "path": "records/nicolaes_eliasz_pickenoy.json"
-  },
-  {
-    "id": "niels_skovgaard",
-    "name": "Нильс Сковгор",
-    "path": "records/niels_skovgaard.json"
-  },
-  {
-    "id": "noel_coypel",
-    "name": "Ноэль Куапель",
-    "path": "records/noel_coypel.json"
-  },
-  {
-    "id": "ogata_korin",
-    "name": "Огата Корин",
-    "path": "records/ogata_korin.json"
-  },
-  {
-    "id": "nerdrum",
-    "name": "Одд Нердрум",
-    "path": "records/nerdrum.json"
-  },
-  {
-    "id": "odilon_redon",
-    "name": "Одилон Редон",
-    "path": "records/odilon_redon.json"
   }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "jan_pynas",
+    "name": "Ян Пейнас",
+    "path": "records/jan_pynas.json"
+  },
+  {
+    "id": "jan_porcellis",
+    "name": "Ян Порселлис",
+    "path": "records/jan_porcellis.json"
+  },
+  {
+    "id": "jan_sanders_van_hemessen",
+    "name": "Ян Сандерс ван Хемессен",
+    "path": "records/jan_sanders_van_hemessen.json"
+  },
+  {
+    "id": "jan_philip_van_thielen",
+    "name": "Ян Филип ван Тилен",
+    "path": "records/jan_philip_van_thielen.json"
+  },
+  {
+    "id": "jan_jansz_den_uyl",
+    "name": "Ян Янс ден Эйл",
+    "path": "records/jan_jansz_den_uyl.json"
+  },
+  {
+    "id": "jan_jansz_treck",
+    "name": "Ян Янс Трек",
+    "path": "records/jan_jansz_treck.json"
+  }
+]

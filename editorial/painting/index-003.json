@@ -1,5 +1,15 @@
 [
   {
+    "id": "levitan",
+    "name": "Исаак Левитан",
+    "path": "records/levitan.json"
+  },
+  {
+    "id": "isack_van_ostade",
+    "name": "Исак ван Остаде",
+    "path": "records/isack_van_ostade.json"
+  },
+  {
     "id": "jeanna_bauck",
     "name": "Йенна Баук",
     "path": "records/jeanna_bauck.json"
@@ -123,6 +133,11 @@
     "id": "karl_isakson",
     "name": "Карл Исаксон",
     "path": "records/karl_isakson.json"
+  },
+  {
+    "id": "karl_madsen",
+    "name": "Карл Мадсен",
+    "path": "records/karl_madsen.json"
   },
   {
     "id": "carl_holsoe",
@@ -340,6 +355,11 @@
     "path": "records/cristofano_allori.json"
   },
   {
+    "id": "christoffer_wilhelm_eckersberg",
+    "name": "Кристоффер Вильхельм Эккерсберг",
+    "path": "records/christoffer_wilhelm_eckersberg.json"
+  },
+  {
     "id": "petrovvodkin",
     "name": "Кузьма Петров-Водкин",
     "path": "records/petrovvodkin.json"
@@ -363,6 +383,11 @@
     "id": "laurits_andersen_ring",
     "name": "Лауриц Андерсен Ринг",
     "path": "records/laurits_andersen_ring.json"
+  },
+  {
+    "id": "laurits_tuxen",
+    "name": "Лауриц Туксен",
+    "path": "records/laurits_tuxen.json"
   },
   {
     "id": "leonardo_da_vinci",
@@ -473,30 +498,5 @@
     "id": "louisa_anne_meredith",
     "name": "Луиза Энн Мередит",
     "path": "records/louisa_anne_meredith.json"
-  },
-  {
-    "id": "luca_giordano",
-    "name": "Лука Джордано",
-    "path": "records/luca_giordano.json"
-  },
-  {
-    "id": "luca_cambiaso",
-    "name": "Лука Камбьязо",
-    "path": "records/luca_cambiaso.json"
-  },
-  {
-    "id": "luca_signorelli",
-    "name": "Лука Синьорелли",
-    "path": "records/luca_signorelli.json"
-  },
-  {
-    "id": "lucas_van_leyden",
-    "name": "Лукас ван Лейден",
-    "path": "records/lucas_van_leyden.json"
-  },
-  {
-    "id": "lucas_cranach_the_elder",
-    "name": "Лукас Кранах Старший",
-    "path": "records/lucas_cranach_the_elder.json"
   }
 ]

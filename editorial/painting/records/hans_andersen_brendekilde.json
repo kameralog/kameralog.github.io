@@ -1,0 +1,41 @@
+{
+  "id": "hans_andersen_brendekilde",
+  "name": "Ханс Андерсен Брендекилле",
+  "latin": "Hans Andersen Brendekilde",
+  "life": "1857–1942",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-128.js",
+  "existing": {
+    "bio": [
+      "Датский художник натуралистического и социально-критического направления.",
+      "Первоначально носил имя Ханс Андерсен; фамилию Брендекилле взял по месту рождения."
+    ],
+    "technique": [
+      "Масло на холсте; 207 × 270 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как масштаб фигур связан с полем?",
+    "caution": "1889 — создание, 1894 — приобретение. Не утверждаем конкретную причину падения, личность мужчины или родство женщины без документов. Не путать с писателем Х.К. Андерсеном.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://lex.dk/H.A._Brendekilde"
+    },
+    {
+      "title": "Музейный номер и приобретение",
+      "url": "https://www.wikidata.org/wiki/Q21096635"
+    },
+    {
+      "title": "Социальное прочтение исследователями",
+      "url": "https://www.sdu.dk/en/om-sdu/fakulteterne/naturvidenskab/nyheder-2020/visualisering-af-danmarks-kulturarv"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

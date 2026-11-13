@@ -1,5 +1,50 @@
 [
   {
+    "id": "juan_de_flandes",
+    "name": "Хуан де Фландес",
+    "path": "records/juan_de_flandes.json"
+  },
+  {
+    "id": "juana_romani",
+    "name": "Хуана Романи",
+    "path": "records/juana_romani.json"
+  },
+  {
+    "id": "jusepe_de_ribera",
+    "name": "Хусепе де Рибера",
+    "path": "records/jusepe_de_ribera.json"
+  },
+  {
+    "id": "qiu_ying",
+    "name": "Цю Ин",
+    "path": "records/qiu_ying.json"
+  },
+  {
+    "id": "charley_toorop",
+    "name": "Чарли Тороп",
+    "path": "records/charley_toorop.json"
+  },
+  {
+    "id": "cesare_da_sesto",
+    "name": "Чезаре да Сесто",
+    "path": "records/cesare_da_sesto.json"
+  },
+  {
+    "id": "cesare_dandini",
+    "name": "Чезаре Дандини",
+    "path": "records/cesare_dandini.json"
+  },
+  {
+    "id": "cecco_bravo",
+    "name": "Чекко Браво",
+    "path": "records/cecco_bravo.json"
+  },
+  {
+    "id": "zhao_mengfu",
+    "name": "Чжао Мэнфу",
+    "path": "records/zhao_mengfu.json"
+  },
+  {
     "id": "zhou_fang",
     "name": "Чжоу Фан",
     "path": "records/zhou_fang.json"
@@ -295,6 +340,11 @@
     "path": "records/judith_leyster.json"
   },
   {
+    "id": "julius_paulsen",
+    "name": "Юлиус Паульсен",
+    "path": "records/julius_paulsen.json"
+  },
+  {
     "id": "jacob_van_ruisdael",
     "name": "Якоб ван Рёйсдал",
     "path": "records/jacob_van_ruisdael.json"
@@ -448,35 +498,5 @@
     "id": "jan_pauwel_gillemans_the_elder",
     "name": "Ян Паувел Гиллеманс Старший",
     "path": "records/jan_pauwel_gillemans_the_elder.json"
-  },
-  {
-    "id": "jan_pynas",
-    "name": "Ян Пейнас",
-    "path": "records/jan_pynas.json"
-  },
-  {
-    "id": "jan_porcellis",
-    "name": "Ян Порселлис",
-    "path": "records/jan_porcellis.json"
-  },
-  {
-    "id": "jan_sanders_van_hemessen",
-    "name": "Ян Сандерс ван Хемессен",
-    "path": "records/jan_sanders_van_hemessen.json"
-  },
-  {
-    "id": "jan_philip_van_thielen",
-    "name": "Ян Филип ван Тилен",
-    "path": "records/jan_philip_van_thielen.json"
-  },
-  {
-    "id": "jan_jansz_den_uyl",
-    "name": "Ян Янс ден Эйл",
-    "path": "records/jan_jansz_den_uyl.json"
-  },
-  {
-    "id": "jan_jansz_treck",
-    "name": "Ян Янс Трек",
-    "path": "records/jan_jansz_treck.json"
   }
 ]

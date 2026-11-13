@@ -1,5 +1,15 @@
 [
   {
+    "id": "gioacchino_assereto",
+    "name": "Джоаккино Ассерето",
+    "path": "records/gioacchino_assereto.json"
+  },
+  {
+    "id": "joan_carlile",
+    "name": "Джоан Карлайл",
+    "path": "records/joan_carlile.json"
+  },
+  {
     "id": "joanna_mary_wells",
     "name": "Джоанна Мэри Уэллс",
     "path": "records/joanna_mary_wells.json"
@@ -488,15 +498,5 @@
     "id": "johann_koerbecke",
     "name": "Иоганн Кёрбеке",
     "path": "records/johann_koerbecke.json"
-  },
-  {
-    "id": "levitan",
-    "name": "Исаак Левитан",
-    "path": "records/levitan.json"
-  },
-  {
-    "id": "isack_van_ostade",
-    "name": "Исак ван Остаде",
-    "path": "records/isack_van_ostade.json"
   }
 ]

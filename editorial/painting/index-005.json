@@ -1,5 +1,35 @@
 [
   {
+    "id": "nicolaes_eliasz_pickenoy",
+    "name": "Николас Элиас Пикеной",
+    "path": "records/nicolaes_eliasz_pickenoy.json"
+  },
+  {
+    "id": "niels_skovgaard",
+    "name": "Нильс Сковгор",
+    "path": "records/niels_skovgaard.json"
+  },
+  {
+    "id": "noel_coypel",
+    "name": "Ноэль Куапель",
+    "path": "records/noel_coypel.json"
+  },
+  {
+    "id": "ogata_korin",
+    "name": "Огата Корин",
+    "path": "records/ogata_korin.json"
+  },
+  {
+    "id": "nerdrum",
+    "name": "Одд Нердрум",
+    "path": "records/nerdrum.json"
+  },
+  {
+    "id": "odilon_redon",
+    "name": "Одилон Редон",
+    "path": "records/odilon_redon.json"
+  },
+  {
     "id": "honore_daumier",
     "name": "Оноре Домье",
     "path": "records/honore_daumier.json"
@@ -68,6 +98,11 @@
     "id": "paulus_potter",
     "name": "Паулюс Поттер",
     "path": "records/paulus_potter.json"
+  },
+  {
+    "id": "peder_severin_kroyer",
+    "name": "Педер Северин Крёйер",
+    "path": "records/peder_severin_kroyer.json"
   },
   {
     "id": "peter_christian_skovgaard",
@@ -463,40 +498,5 @@
     "id": "sofonisba_anguissola",
     "name": "Софонисба Ангвиссола",
     "path": "records/sofonisba_anguissola.json"
-  },
-  {
-    "id": "stefan_lochner",
-    "name": "Стефан Лохнер",
-    "path": "records/stefan_lochner.json"
-  },
-  {
-    "id": "susanna_van_steenwijck",
-    "name": "Сусанна ван Стенвейк",
-    "path": "records/susanna_van_steenwijck.json"
-  },
-  {
-    "id": "susan_watkins",
-    "name": "Сьюзен Уоткинс",
-    "path": "records/susan_watkins.json"
-  },
-  {
-    "id": "susie_moore_barstow",
-    "name": "Сьюзи Мур Барстоу",
-    "path": "records/susie_moore_barstow.json"
-  },
-  {
-    "id": "sesshu_toyo",
-    "name": "Сэссю Тоё",
-    "path": "records/sesshu_toyo.json"
-  },
-  {
-    "id": "suze_robertson",
-    "name": "Сюзе Робертсон",
-    "path": "records/suze_robertson.json"
-  },
-  {
-    "id": "xia_gui",
-    "name": "Ся Гуй",
-    "path": "records/xia_gui.json"
   }
 ]

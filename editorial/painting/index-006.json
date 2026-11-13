@@ -1,5 +1,40 @@
 [
   {
+    "id": "stefan_lochner",
+    "name": "Стефан Лохнер",
+    "path": "records/stefan_lochner.json"
+  },
+  {
+    "id": "susanna_van_steenwijck",
+    "name": "Сусанна ван Стенвейк",
+    "path": "records/susanna_van_steenwijck.json"
+  },
+  {
+    "id": "susan_watkins",
+    "name": "Сьюзен Уоткинс",
+    "path": "records/susan_watkins.json"
+  },
+  {
+    "id": "susie_moore_barstow",
+    "name": "Сьюзи Мур Барстоу",
+    "path": "records/susie_moore_barstow.json"
+  },
+  {
+    "id": "sesshu_toyo",
+    "name": "Сэссю Тоё",
+    "path": "records/sesshu_toyo.json"
+  },
+  {
+    "id": "suze_robertson",
+    "name": "Сюзе Робертсон",
+    "path": "records/suze_robertson.json"
+  },
+  {
+    "id": "xia_gui",
+    "name": "Ся Гуй",
+    "path": "records/xia_gui.json"
+  },
+  {
     "id": "xiao_yuncong",
     "name": "Сяо Юньцун",
     "path": "records/xiao_yuncong.json"
@@ -345,6 +380,11 @@
     "path": "records/hanna_pauli.json"
   },
   {
+    "id": "hans_andersen_brendekilde",
+    "name": "Ханс Андерсен Брендекилле",
+    "path": "records/hans_andersen_brendekilde.json"
+  },
+  {
     "id": "han_gan",
     "name": "Хань Гань",
     "path": "records/han_gan.json"
@@ -440,6 +480,11 @@
     "path": "records/hilma_af_klint.json"
   },
   {
+    "id": "holger_drachmann",
+    "name": "Хольгер Дракман",
+    "path": "records/holger_drachmann.json"
+  },
+  {
     "id": "orozco",
     "name": "Хосе Клементе Ороско",
     "path": "records/orozco.json"
@@ -453,50 +498,5 @@
     "id": "huang_gongwang",
     "name": "Хуан Гунван",
     "path": "records/huang_gongwang.json"
-  },
-  {
-    "id": "juan_de_flandes",
-    "name": "Хуан де Фландес",
-    "path": "records/juan_de_flandes.json"
-  },
-  {
-    "id": "juana_romani",
-    "name": "Хуана Романи",
-    "path": "records/juana_romani.json"
-  },
-  {
-    "id": "jusepe_de_ribera",
-    "name": "Хусепе де Рибера",
-    "path": "records/jusepe_de_ribera.json"
-  },
-  {
-    "id": "qiu_ying",
-    "name": "Цю Ин",
-    "path": "records/qiu_ying.json"
-  },
-  {
-    "id": "charley_toorop",
-    "name": "Чарли Тороп",
-    "path": "records/charley_toorop.json"
-  },
-  {
-    "id": "cesare_da_sesto",
-    "name": "Чезаре да Сесто",
-    "path": "records/cesare_da_sesto.json"
-  },
-  {
-    "id": "cesare_dandini",
-    "name": "Чезаре Дандини",
-    "path": "records/cesare_dandini.json"
-  },
-  {
-    "id": "cecco_bravo",
-    "name": "Чекко Браво",
-    "path": "records/cecco_bravo.json"
-  },
-  {
-    "id": "zhao_mengfu",
-    "name": "Чжао Мэнфу",
-    "path": "records/zhao_mengfu.json"
   }
 ]
