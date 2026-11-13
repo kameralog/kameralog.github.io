@@ -1,0 +1,109 @@
+name: Review Uffizi candidates in batches of 50
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/review-uffizi-batch.yml']
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: Batch number, 1 to 10
+        type: number
+        default: 1
+permissions:
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/checkout@v4
+        with:
+          ref: museum-reports
+          path: audit-source
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install image decoder outside repository
+        run: npm install --prefix "$RUNNER_TEMP/uffizi-decoder" --no-save --package-lock=false sharp@0.33.5
+      - name: Review exactly one batch
+        env:
+          BATCH: ${{ inputs.batch || 1 }}
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createRequire} from 'node:module';
+          import {execFileSync} from 'node:child_process';
+          import {Network,commonsRights} from './games/painting/discover-painting-images.mjs';
+          const sharp=createRequire(import.meta.url)(process.env.RUNNER_TEMP+'/uffizi-decoder/node_modules/sharp');
+          const batch=Number(process.env.BATCH);assert(Number.isInteger(batch)&&batch>=1&&batch<=10);
+          const base='audit-source/reports/uffizi-duplicates/43459074306-1',pkg='audit-source/reports/uffizi-packages/43457577858-1';
+          const manifest=JSON.parse(fs.readFileSync(base+'/summary.json'));assert(manifest.complete&&manifest.processed===495);
+          const queue=manifest.parts.filter(x=>x.status==='no_duplicate_detected').flatMap(x=>JSON.parse(fs.readFileSync(base+'/'+x.file)));assert.equal(queue.length,493);
+          const selected=queue.slice((batch-1)*50,batch*50);assert.equal(selected.length,batch===10?43:50);
+          const out='reports/uffizi-batch-review';fs.mkdirSync(out,{recursive:true});
+          const summary={batch,from:(batch-1)*50+1,to:Math.min(batch*50,493),expected:selected.length,processed:0,counts:{automatic_checks_passed_pending_visual:0,needs_review:0,incomplete:0},entries:[],complete:false,gameFilesModified:false,visualReviewPerformed:false,catalogueSnapshot:execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim()};
+          const save=()=>fs.writeFileSync(out+'/summary.json',JSON.stringify(summary,null,2));save();
+          const entities={};
+          for(let i=0;i<selected.length;i+=25){const ids=selected.slice(i,i+25).map(x=>x.work);let error;for(let n=0;n<3;n++){try{const r=await fetch('https://www.wikidata.org/w/api.php?'+new URLSearchParams({action:'wbgetentities',format:'json',ids:ids.join('|'),props:'labels|aliases|claims'}),{redirect:'error',signal:AbortSignal.timeout(25000),headers:{'User-Agent':'PaintingUffiziBatchReview/1.0 (https://github.com/kameralog/kameralog.github.io)'}});assert(r.ok,'Wikidata HTTP '+r.status);const j=await r.json();assert(j.entities&&!j.error);Object.assign(entities,j.entities);error=null;break;}catch(e){error=e;await new Promise(r=>setTimeout(r,2000*(n+1)));}}if(error)for(const id of ids)entities[id]={fetchError:error.message};}
+          const active=(e,p)=>(e?.claims?.[p]||[]).filter(c=>c.rank!=='deprecated'&&!c.qualifiers?.P582);
+          const values=(e,p)=>active(e,p).map(c=>c.mainsnak?.datavalue?.value);
+          const normalizedFile=s=>String(s||'').replaceAll('_',' ').trim();
+          const net=new Network({maxRequests:350,seconds:1200,interval:1500});
+          for(const item of selected){const c=JSON.parse(fs.readFileSync(pkg+'/'+item.file)),e=entities[c.work],issues=[],checks={},errors=[];let image=null;
+          if(!e||e.fetchError||e.missing!==undefined)errors.push(e?.fetchError||'Wikidata entity unavailable');
+          else{checks.painting=values(e,'P31').some(v=>v?.id==='Q330521');if(!checks.painting)issues.push('Exact painting type not established; drawing, copy, panel or subtype requires review');
+          checks.currentCollection=values(e,'P195').some(v=>c.collections.includes(v?.id));if(!checks.currentCollection)issues.push('Collection changed or not confirmed');
+          const creators=active(e,'P170');checks.singleUnqualifiedCreator=creators.length===1&&Object.keys(creators[0].qualifiers||{}).every(p=>p==='P1932');if(!checks.singleUnqualifiedCreator)issues.push('Creator attribution requires review');
+          checks.fileIsRecordedImage=active(e,'P18').some(x=>!x.qualifiers?.P518&&normalizedFile(x.mainsnak?.datavalue?.value)===normalizedFile(c.chosenImage?.file));if(!checks.fileIsRecordedImage)issues.push('Chosen file is not a current unspecialized image claim');
+          checks.inventoryConsistent=values(e,'P217').some(v=>c.inventories.includes(v));if(!checks.inventoryConsistent)issues.push('Inventory missing or changed');}
+          const titles={ru:e?.labels?.ru?.value||'',en:e?.labels?.en?.value||'',it:e?.labels?.it?.value||''};const title=titles.ru||titles.en||titles.it||c.title;if(/^Q\d+$/.test(title))issues.push('Human-readable title missing');if(!titles.ru)issues.push('Russian title requires editorial preparation');
+          const objectLinks=values(e,'P973').filter(x=>typeof x==='string'&&/^https:\/\/(?:www\.)?uffizi\.it\/(?:en\/|it\/)?artworks\//i.test(x));checks.officialObjectLinkRecorded=objectLinks.length>0;if(!objectLinks.length)issues.push('No exact Uffizi object link in checked metadata; independent museum identity review remains');
+          if(/\b(detail|fragment|verso|reverse|cropped|dettaglio|particolare)\b/i.test(normalizedFile(c.chosenImage?.file)))issues.push('File name suggests detail, crop or reverse');
+          try{assert(c.chosenImage?.file,'No selected image');const j=await net.json('https://commons.wikimedia.org/w/api.php?'+new URLSearchParams({action:'query',format:'json',formatversion:2,titles:'File:'+c.chosenImage.file,prop:'imageinfo',iiprop:'url|size|extmetadata'}));const ii=j.query?.pages?.[0]?.imageinfo?.[0];assert(ii?.url,'Commons image unavailable');const rights=commonsRights(ii.extmetadata||{});checks.openRights=rights.status==='documented_open';if(!checks.openRights)issues.push('Rights require review');const response=await net.request(ii.url);const bytes=await net.bytes(response,20*1024*1024);const meta=await sharp(bytes,{limitInputPixels:80000000}).metadata();await sharp(bytes,{limitInputPixels:80000000}).rotate().resize(32,32,{fit:'inside'}).raw().toBuffer();checks.imageDecoded=true;if(Math.min(meta.width||0,meta.height||0)<600)issues.push('Image short side below 600 pixels');image={file:c.chosenImage.file,url:ii.url,source:ii.descriptionurl,width:meta.width,height:meta.height,format:meta.format,rights};}catch(err){errors.push(err.message);checks.imageDecoded=false;}
+          const status=errors.length?'incomplete':issues.length?'needs_review':'automatic_checks_passed_pending_visual';const result={batch,artistId:c.artistId,artist:c.artist,work:c.work,title,titles,status,issues,errors,checks,objectLinks,image,inventory:c.inventories,visualReviewPerformed:false,applyAllowed:false};fs.writeFileSync(out+'/'+item.file,JSON.stringify(result,null,2));summary.entries.push({artistId:c.artistId,artist:c.artist,work:c.work,title,status,issues,errors,file:item.file});summary.counts[status]++;summary.processed++;save();}
+          assert.equal(summary.processed,summary.expected);const all=summary.entries;delete summary.entries;summary.parts=[];let chunk=[],n=1;const flush=()=>{if(!chunk.length)return;const file='results-'+String(n++).padStart(3,'0')+'.json';fs.writeFileSync(out+'/'+file,JSON.stringify(chunk));summary.parts.push({file,count:chunk.length});chunk=[];};for(const row of all){if(Buffer.byteLength(JSON.stringify([...chunk,row]))>8000)flush();chunk.push(row);}flush();summary.complete=true;summary.note='Automatic metadata and full file decoding checks only. No visual identity, crop detection or exhaustive duplicate proof. No installation.';save();
+          NODE
+      - name: Confirm game unchanged
+        if: always()
+        run: git diff --exit-code -- games/painting
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: uffizi-batch-${{ inputs.batch || 1 }}-${{ github.run_id }}
+          path: reports/uffizi-batch-review/
+          if-no-files-found: warn
+      - name: Save batch review separately
+        if: always() && hashFiles('reports/uffizi-batch-review/summary.json') != ''
+        env:
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          set -euo pipefail
+          mkdir -p "$RUNNER_TEMP/uffizi-batch-output"
+          cp reports/uffizi-batch-review/*.json "$RUNNER_TEMP/uffizi-batch-output/"
+          rm -rf reports/uffizi-batch-review audit-source
+          git fetch origin refs/heads/museum-reports:refs/remotes/origin/museum-reports
+          git checkout -B museum-reports origin/museum-reports
+          destination="reports/uffizi-batch-reviews/$RUN_ID-$RUN_ATTEMPT"
+          mkdir -p "$destination"
+          cp "$RUNNER_TEMP/uffizi-batch-output/"*.json "$destination/"
+          DESTINATION="$destination" python3 <<'PY'
+          import os,json,pathlib
+          p=pathlib.Path(os.environ['DESTINATION']);s=json.loads((p/'summary.json').read_text())
+          pointer={'destination':str(p),'batch':s['batch'],'processed':s['processed'],'complete':s['complete'],'counts':s['counts']}
+          pathlib.Path('reports/uffizi-batch-review-latest.json').write_text(json.dumps(pointer,indent=2))
+          pathlib.Path('reports/uffizi-batch-review-'+str(s['batch'])+'.json').write_text(json.dumps(pointer,indent=2))
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f -- "$destination" reports/uffizi-batch-review-*.json
+          git commit -m "Review Uffizi candidate batch $RUN_ID"
+          git push origin HEAD:refs/heads/museum-reports
