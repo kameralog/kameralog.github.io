@@ -1,0 +1,14 @@
+{
+  "snapshot": "99d3545aafe5ce2b2fd67306fe23e36e16fb720d",
+  "artistsTotal": 856,
+  "artistsProcessed": 0,
+  "indexComplete": false,
+  "scope": "Wikidata current collection claims linked through collection/parent official websites to uffizi.it; not a complete museum catalogue or visual review",
+  "statuses": {},
+  "errors": [
+    "HTTP 400"
+  ],
+  "gameFilesModified": false,
+  "visualReviewPerformed": false,
+  "complete": false
+}
