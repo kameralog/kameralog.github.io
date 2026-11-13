@@ -5809,3 +5809,41 @@ for(const [id,file,width,height,credit] of attached){const a=B[id],w=a.pendingWo
 if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');window.registerPaintingArtists(B);})();
 
 ;
+/* artists-batch-140.js */
+/* Batch 140: corrected research draft. 10 artists, 0 works, 10 pendingWorks. Editorial ID listing checked; no repository-wide name/alias audit. Biographies are concise research notes, not final expanded biographies. No browser or image-byte tests. */
+(()=>{
+'use strict';
+const specs={
+bertalan_szekely:{name:'Берталан Секей',latin:'Bertalan Székely',life:'1835–1910',title:'Женщины Эгера',originalTitle:'Women of Eger',date:'1867',medium:'Масло на холсте; 227 × 176,5 см',number:'54525',context:'Историческая живопись.',caution:'Не смешивать законченное полотно с рисунками и живописными эскизами. Утверждение предыдущего черновика о Men of Eger удалено как неподтверждённое.'},
+viktor_madarasz:{name:'Виктор Мадарас',latin:'Viktor Madarász',life:'1830–1917',title:'Оплакивание Ласло Хуньяди',originalTitle:'The Mourning of László Hunyadi',date:'1859',medium:'Масло на холсте; 243 × 311,5 см',number:'54526',inventoryNumber:'2800',context:'Историческая живопись.',caution:'Выбрано большое полотно, не малая версия 50271 и не эскиз 52840.'},
+gyula_benczur:{name:'Дьюла Бенцур',latin:'Gyula Benczúr',life:'1844–1920',title:'Крещение Вайка — версия 1870 года',originalTitle:'The Baptism of Vajk',date:'1870',medium:'Масло на холсте; 89 × 114 см',number:'54614',inventoryNumber:'2717',context:'Художник и преподаватель; работал в историческом жанре и портрете.',caution:'Данные относятся только к музейному предмету 2717. Не переносить на него дату и размеры версии 1875 года.'},
+karoly_lotz:{name:'Карой Лотц',latin:'Károly Lotz',life:'1833–1904',title:'Разбойник',originalTitle:'Outlaw',date:'1850-е годы',medium:'Масло на холсте; 58 × 92 см',number:'49170',context:'Венгерская живопись XIX века.',caution:'Приблизительная датировка сохранена; не заменять её выдуманным точным годом.'},
+miklos_barabas:{name:'Миклош Барабаш',latin:'Miklós Barabás',life:'1810–1898',title:'Румынская семья по дороге на ярмарку',originalTitle:'Romanian Family Heading for the Fair',date:'1843–1844',medium:'Масло на холсте; 138,5 × 110 см',number:'54309',context:'Венгерская живопись XIX века.',caution:'Датировка сохранена диапазоном. Название не доказывает личности изображённых людей.'},
+jozsef_borsos:{name:'Йожеф Боршош',latin:'József Borsos',life:'1821–1883',title:'Девушки после бала',originalTitle:'Girls after the Ball',date:'1850',medium:'Масло на дереве; 123 × 126 см',number:'54306',inventoryNumber:'1394',context:'Живописец и фотограф; известен жанровыми композициями.',caution:'Основа — дерево по музейной записи; не холст. Размеры рамы не подставлены вместо размеров изображения.'},
+karoly_marko_the_elder:{name:'Карой Марко Старший',latin:'Károly Markó the Elder',life:'1793–1860',title:'Вышеград',originalTitle:'Visegrád',date:'1820-е годы',medium:'Масло на холсте; 58,5 × 83,5 см',number:'54376',inventoryNumber:'3097',context:'Пейзажист. Музей связывает «Вышеград» с формированием национального пейзажного образа.',caution:'Точный 1826 год удалён: музей даёт 1820-е годы. Не смешивать с работами сыновей Марко.'},
+laszlo_mednyanszky:{name:'Ласло Меднянский',latin:'László Mednyánszky',life:'1852–1919',title:'Бродяга с сигарой',originalTitle:'Tramp with Cigar',date:'Не установлена в использованном источнике',medium:'Масло на холсте; 28,5 × 22 см',number:'53306',inventoryNumber:'6330',context:'Работал с образами бродяг; выбран отдельный небольшой портрет.',caution:'Не переносить даты других портретов или рисунков. Повторная загрузка музейной страницы не удалась; данные сохранены из предыдущего поискового результата.'},
+simon_hollosy:{name:'Шимон Холлоши',latin:'Simon Hollósy',life:'1857–1918',title:'Лущение кукурузы',originalTitle:'Corn Husking',date:'1885',medium:'Масло на холсте; около 150 × 100 см',source:'https://www.wga.hu/html_m/h/hollosy/1corn.html',context:'Художник и педагог, участвовавший в основании художественной колонии Надьбанья в 1896 году.',caution:'Картина предшествует основанию колонии. Название исправлено: лущение кукурузы, не обмолот.'},
+istvan_reti:{name:'Иштван Рети',latin:'István Réti',life:'1872–1945',title:'Рождественский вечер богемцев на чужбине',originalTitle:'Bohemians’ Christmas Eve in Exile',date:'1893',medium:'Масляная живопись; основа и размеры требуют предметной сверки',source:'https://commons.wikimedia.org/wiki/File:Istv%C3%A1n_R%C3%A9ti_-_Bohemians%27_Christmas_Eve_in_exile.jpg',context:'Художник и преподаватель, связанный с колонией Надьбанья.',caution:'Музейный номер и точную предметную версию нужно подтвердить. Не подменять законченную картину эскизом 50429.'}
+};
+const B={};
+for(const [id,d] of Object.entries(specs)){
+const source=d.source||'https://en.mng.hu/artworks/'+d.number+'/';
+const q=['Как организовано пространство картины?','Как свет связывает части композиции?','Какие детали помогают понять сюжет?'];
+const w={key:id+'_selected',title:d.title,originalTitle:d.originalTitle,date:d.date,medium:d.medium,museum:'Hungarian National Gallery — Венгерская национальная галерея, Будапешт',source,look:'Вопросы для будущего рассматривания, не результаты визуального осмотра: '+q.join(' '),reason:'Конкретная репродукция не принята: версия файла, права, полный кредит и доставка изображения не проверены в совокупности.'};
+if(d.inventoryNumber)w.inventoryNumber=d.inventoryNumber;
+B[id]={name:d.name,latin:d.latin,aliases:[d.name,d.latin],life:d.life,tag:'Венгерское искусство · XIX–XX века',bio:[d.context,'Выбрано произведение «'+d.title+'». Датировка в используемом источнике: '+d.date+'.','Предметные ограничения: '+d.caution],technique:[d.medium,'Самостоятельный визуальный осмотр не выполнен.'],innovation:'Учебный вопрос, а не утверждение о новаторстве: '+q[0],features:q.concat(['Что сообщает предметная запись?','Где заканчивается документ и начинается интерпретация?']),caution:d.caution,sources:[['Предметный источник',source]],works:[],pendingWorks:[w],editorialStatus:'RESEARCH_DRAFT_BIO_EXPANSION_ALIAS_GLOBAL_AND_IMAGE_CHECK_PENDING'};
+}
+B.karoly_marko_the_elder.aliases.push('Károly Markó','Karoly Marko','Карой Марко');
+const candidates={bertalan_szekely:'Székely, Bertalan - The Women of Eger - Google Art Project.jpg',viktor_madarasz:'Madarász, Viktor - The Mourning of László Hunyadi - Google Art Project.jpg',jozsef_borsos:'Borsos Lányok bál után.jpg',simon_hollosy:'Hollósy Tengerihántás 1885.JPG'};
+for(const [id,file] of Object.entries(candidates)){
+const url='https://commons.wikimedia.org/wiki/File:'+encodeURIComponent(file.replace(/ /g,'_'));
+B[id].pendingWorks[0].candidateFilePage=url;
+B[id].sources.push(['Файловый кандидат, не подключён',url]);
+}
+B.jozsef_borsos.pendingWorks[0].reason='Страница кандидата найдена в поиске, но её загрузка не удалась. Права, версия и кредит не подтверждены; изображение не подключено.';
+B.istvan_reti.pendingWorks[0].reason='Найден конкретный файловый кандидат; музейная предметная версия, инвентарный номер, права и кредит ещё требуют сверки.';
+if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');
+window.registerPaintingArtists(B);
+})();
+
+;
