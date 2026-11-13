@@ -1,5 +1,30 @@
 [
   {
+    "id": "jean_baptiste_santerre",
+    "name": "Жан-Батист Сантерр",
+    "path": "records/jean_baptiste_santerre.json"
+  },
+  {
+    "id": "jean_baptiste_oudry",
+    "name": "Жан-Батист Удри",
+    "path": "records/jean_baptiste_oudry.json"
+  },
+  {
+    "id": "jean_marc_nattier",
+    "name": "Жан-Марк Натье",
+    "path": "records/jean_marc_nattier.json"
+  },
+  {
+    "id": "basquiat",
+    "name": "Жан-Мишель Баския",
+    "path": "records/basquiat.json"
+  },
+  {
+    "id": "jean_simeon_chardin",
+    "name": "Жан-Симеон Шарден",
+    "path": "records/jean_simeon_chardin.json"
+  },
+  {
     "id": "jean_etienne_liotard",
     "name": "Жан-Этьен Лиотар",
     "path": "records/jean_etienne_liotard.json"
@@ -473,30 +498,5 @@
     "id": "petrovvodkin",
     "name": "Кузьма Петров-Водкин",
     "path": "records/petrovvodkin.json"
-  },
-  {
-    "id": "kuroda_seiki",
-    "name": "Курода Сэйки",
-    "path": "records/kuroda_seiki.json"
-  },
-  {
-    "id": "catherine_madox_brown",
-    "name": "Кэтрин Мэдокс Браун",
-    "path": "records/catherine_madox_brown.json"
-  },
-  {
-    "id": "lavinia_fontana",
-    "name": "Лавиния Фонтана",
-    "path": "records/lavinia_fontana.json"
-  },
-  {
-    "id": "laurits_andersen_ring",
-    "name": "Лауриц Андерсен Ринг",
-    "path": "records/laurits_andersen_ring.json"
-  },
-  {
-    "id": "laurits_tuxen",
-    "name": "Лауриц Туксен",
-    "path": "records/laurits_tuxen.json"
   }
 ]

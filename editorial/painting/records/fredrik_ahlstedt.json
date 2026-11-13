@@ -1,0 +1,50 @@
+{
+  "id": "fredrik_ahlstedt",
+  "name": "Фредрик Альштедт",
+  "latin": "Fredrik Ahlstedt",
+  "life": "1839–1901",
+  "tag": "Финская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-134.js",
+  "existing": {
+    "bio": [
+      "Финский художник-пейзажист и портретист, родившийся в Турку и умерший в Паргасе. Преподавал рисование, в том числе работал в университетской художественной среде.",
+      "Его наследие включает портреты, зимние пейзажи и сцены труда. Выбранная картина показывает выжигание хвороста — мотив, к которому в том же 1893 году обратился Ээро Ярнефельт.",
+      "Совпадение темы и даты не означает зависимости одной картины от другой. Работа Альштедта идентифицирована по номеру A I 723 и размерам; её можно сопоставлять с Под игом Ярнефельта, сохраняя различие авторов и композиций."
+    ],
+    "technique": [
+      "Масло на холсте; 71,5 × 100,5 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный ракурс: Как фигура связана с обработкой земли?",
+    "caution": "Не подменять Под игом Ярнефельта. История приобретения и дата создания разделены; 1902 в сводке коллекции не заменяет дату картины 1893.",
+    "editorialStatus": "RESEARCH_DRAFT_BIO_OBJECT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://kokoelma.kansallisgalleria.fi/en/object/390076"
+    },
+    {
+      "title": "Биография — вторичный источник",
+      "url": "https://en.wikipedia.org/wiki/Fredrik_Ahlstedt"
+    },
+    {
+      "title": "Конкретный файл и правовое основание",
+      "url": "https://commons.wikimedia.org/wiki/File:Fredrik_Ahlstedt_-_Matti_Burning_the_Brushwood_-_A_I_723_-_Finnish_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "fredrik_ahlstedt_selected",
+      "title": "Матти выжигает хворост",
+      "date": "1893",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://kokoelma.kansallisgalleria.fi/en/object/390076"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,5 +1,30 @@
 [
   {
+    "id": "gustave_moreau",
+    "name": "Гюстав Моро",
+    "path": "records/gustave_moreau.json"
+  },
+  {
+    "id": "siqueiros",
+    "name": "Давид Альфаро Сикейрос",
+    "path": "records/siqueiros.json"
+  },
+  {
+    "id": "david_de_coninck",
+    "name": "Давид де Конинк",
+    "path": "records/david_de_coninck.json"
+  },
+  {
+    "id": "daniele_da_volterra",
+    "name": "Даниеле да Вольтерра",
+    "path": "records/daniele_da_volterra.json"
+  },
+  {
+    "id": "daniel_vosmaer",
+    "name": "Даниэл Восмар",
+    "path": "records/daniel_vosmaer.json"
+  },
+  {
     "id": "daniel_seghers",
     "name": "Даниэл Сегерс",
     "path": "records/daniel_seghers.json"
@@ -473,30 +498,5 @@
     "id": "jean_baptiste_perronneau",
     "name": "Жан-Батист Перронно",
     "path": "records/jean_baptiste_perronneau.json"
-  },
-  {
-    "id": "jean_baptiste_santerre",
-    "name": "Жан-Батист Сантерр",
-    "path": "records/jean_baptiste_santerre.json"
-  },
-  {
-    "id": "jean_baptiste_oudry",
-    "name": "Жан-Батист Удри",
-    "path": "records/jean_baptiste_oudry.json"
-  },
-  {
-    "id": "jean_marc_nattier",
-    "name": "Жан-Марк Натье",
-    "path": "records/jean_marc_nattier.json"
-  },
-  {
-    "id": "basquiat",
-    "name": "Жан-Мишель Баския",
-    "path": "records/basquiat.json"
-  },
-  {
-    "id": "jean_simeon_chardin",
-    "name": "Жан-Симеон Шарден",
-    "path": "records/jean_simeon_chardin.json"
   }
 ]

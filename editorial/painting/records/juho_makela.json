@@ -1,0 +1,50 @@
+{
+  "id": "juho_makela",
+  "name": "Юхо Мякеля",
+  "latin": "Juho Mäkelä",
+  "life": "1885–1943",
+  "tag": "Финская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-134.js",
+  "existing": {
+    "bio": [
+      "Финский художник из Оулу, учившийся декоративной живописи, а затем в рисовальной школе Финского художественного общества в 1904–1907 годах. После поездок в Центральную Европу вернулся в Оулу в конце 1913 года.",
+      "Работал в экспрессивной манере; позднее особенно много занимался акварелью и пейзажами Северной Остроботнии. Преподавал рисование, создавал также портреты и монументальные работы.",
+      "Осенние облака датированы 1915 годом и идентифицированы по номеру A II 1119. Хотя биография связывает этот период с переходом к акварели, конкретная техника на прочитанной странице файла не названа и не заполнена по аналогии."
+    ],
+    "technique": [
+      "Живопись; точная техника и основа требуют предметной сверки; 28 × 38 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный ракурс: Как облака меняют масштаб земли?",
+    "caution": "Не путать с футболистом Юхо Мякеля или художником Юккой Мякеля. На странице файла нет указания конкретного материала; не объявлять работу ни маслом, ни акварелью без предметной сверки.",
+    "editorialStatus": "RESEARCH_DRAFT_BIO_OBJECT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://commons.wikimedia.org/wiki/File:Juho_M%C3%A4kel%C3%A4_-_Autumn_Clouds_-_A_II_1119_-_Finnish_National_Gallery.jpg"
+    },
+    {
+      "title": "Биография — вторичный источник",
+      "url": "https://fi.wikipedia.org/wiki/Juho_M%C3%A4kel%C3%A4_(taidemaalari)"
+    },
+    {
+      "title": "Конкретный файл и правовое основание",
+      "url": "https://commons.wikimedia.org/wiki/File:Juho_M%C3%A4kel%C3%A4_-_Autumn_Clouds_-_A_II_1119_-_Finnish_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "juho_makela_selected",
+      "title": "Осенние облака",
+      "date": "1915",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://commons.wikimedia.org/wiki/File:Juho_M%C3%A4kel%C3%A4_-_Autumn_Clouds_-_A_II_1119_-_Finnish_National_Gallery.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

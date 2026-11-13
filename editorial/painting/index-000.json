@@ -80,6 +80,11 @@
     "path": "records/akseli_gallen_kallela.json"
   },
   {
+    "id": "axel_haartman",
+    "name": "Аксель Хаартман",
+    "path": "records/axel_haartman.json"
+  },
+  {
     "id": "alvar_cawen",
     "name": "Алвар Кавен",
     "path": "records/alvar_cawen.json"
@@ -158,6 +163,11 @@
     "id": "alfred_sisley",
     "name": "Альфред Сислей",
     "path": "records/alfred_sisley.json"
+  },
+  {
+    "id": "alfred_william_finch",
+    "name": "Альфред Уильям Финч",
+    "path": "records/alfred_william_finch.json"
   },
   {
     "id": "alhed_larsen",
@@ -420,6 +430,11 @@
     "path": "records/agnolo_bronzino.json"
   },
   {
+    "id": "arvid_liljelund",
+    "name": "Арвид Лильелунд",
+    "path": "records/arvid_liljelund.json"
+  },
+  {
     "id": "arent_arentsz",
     "name": "Арент Арентсз.",
     "path": "records/arent_arentsz.json"
@@ -483,20 +498,5 @@
     "id": "baldassarre_franceschini",
     "name": "Бальдассарре Франческини",
     "path": "records/baldassarre_franceschini.json"
-  },
-  {
-    "id": "barbara_longhi",
-    "name": "Барбара Лонги",
-    "path": "records/barbara_longhi.json"
-  },
-  {
-    "id": "bart_van_der_leck",
-    "name": "Барт ван дер Лек",
-    "path": "records/bart_van_der_leck.json"
-  },
-  {
-    "id": "bartolomeo_manfredi",
-    "name": "Бартоломео Манфреди",
-    "path": "records/bartolomeo_manfredi.json"
   }
 ]

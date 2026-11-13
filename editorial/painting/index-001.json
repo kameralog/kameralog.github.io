@@ -1,5 +1,20 @@
 [
   {
+    "id": "barbara_longhi",
+    "name": "Барбара Лонги",
+    "path": "records/barbara_longhi.json"
+  },
+  {
+    "id": "bart_van_der_leck",
+    "name": "Барт ван дер Лек",
+    "path": "records/bart_van_der_leck.json"
+  },
+  {
+    "id": "bartolomeo_manfredi",
+    "name": "Бартоломео Манфреди",
+    "path": "records/bartolomeo_manfredi.json"
+  },
+  {
     "id": "bartolomeo_montagna",
     "name": "Бартоломео Монтанья",
     "path": "records/bartolomeo_montagna.json"
@@ -320,6 +335,11 @@
     "path": "records/vaino_blomstedt.json"
   },
   {
+    "id": "vaino_kunnas",
+    "name": "Вяйнё Куннас",
+    "path": "records/vaino_kunnas.json"
+  },
+  {
     "id": "hans_baldung",
     "name": "Ганс Бальдунг",
     "path": "records/hans_baldung.json"
@@ -455,6 +475,11 @@
     "path": "records/ghulam_ali_khan.json"
   },
   {
+    "id": "gunnar_berndtson",
+    "name": "Гуннар Берндтсон",
+    "path": "records/gunnar_berndtson.json"
+  },
+  {
     "id": "gustav_wentzel",
     "name": "Густав Вентцель",
     "path": "records/gustav_wentzel.json"
@@ -473,30 +498,5 @@
     "id": "gustave_courbet",
     "name": "Гюстав Курбе",
     "path": "records/gustave_courbet.json"
-  },
-  {
-    "id": "gustave_moreau",
-    "name": "Гюстав Моро",
-    "path": "records/gustave_moreau.json"
-  },
-  {
-    "id": "siqueiros",
-    "name": "Давид Альфаро Сикейрос",
-    "path": "records/siqueiros.json"
-  },
-  {
-    "id": "david_de_coninck",
-    "name": "Давид де Конинк",
-    "path": "records/david_de_coninck.json"
-  },
-  {
-    "id": "daniele_da_volterra",
-    "name": "Даниеле да Вольтерра",
-    "path": "records/daniele_da_volterra.json"
-  },
-  {
-    "id": "daniel_vosmaer",
-    "name": "Даниэл Восмар",
-    "path": "records/daniel_vosmaer.json"
   }
 ]

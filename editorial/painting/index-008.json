@@ -1,5 +1,40 @@
 [
   {
+    "id": "lissitzky",
+    "name": "Эль Лисицкий",
+    "path": "records/lissitzky.json"
+  },
+  {
+    "id": "emily_mary_osborn",
+    "name": "Эмили Мэри Осборн",
+    "path": "records/emily_mary_osborn.json"
+  },
+  {
+    "id": "emilie_mundt",
+    "name": "Эмилия Мундт",
+    "path": "records/emilie_mundt.json"
+  },
+  {
+    "id": "emil_nolde",
+    "name": "Эмиль Нольде",
+    "path": "records/emil_nolde.json"
+  },
+  {
+    "id": "emma_lambotte",
+    "name": "Эмма Ламботт",
+    "path": "records/emma_lambotte.json"
+  },
+  {
+    "id": "emma_sandys",
+    "name": "Эмма Сэндис",
+    "path": "records/emma_sandys.json"
+  },
+  {
+    "id": "warhol",
+    "name": "Энди Уорхол",
+    "path": "records/warhol.json"
+  },
+  {
     "id": "wyeth",
     "name": "Эндрю Уайет",
     "path": "records/wyeth.json"
@@ -85,6 +120,16 @@
     "path": "records/julius_paulsen.json"
   },
   {
+    "id": "yrjo_ollila",
+    "name": "Юрьё Оллила",
+    "path": "records/yrjo_ollila.json"
+  },
+  {
+    "id": "juho_makela",
+    "name": "Юхо Мякеля",
+    "path": "records/juho_makela.json"
+  },
+  {
     "id": "juho_rissanen",
     "name": "Юхо Риссанен",
     "path": "records/juho_rissanen.json"
@@ -148,6 +193,11 @@
     "id": "pontormo",
     "name": "Якопо Понтормо",
     "path": "records/pontormo.json"
+  },
+  {
+    "id": "jalmari_ruokokoski",
+    "name": "Ялмари Руококоски",
+    "path": "records/jalmari_ruokokoski.json"
   },
   {
     "id": "hjalmar_munsterhjelm",

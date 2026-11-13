@@ -1,5 +1,35 @@
 [
   {
+    "id": "richard_bergh",
+    "name": "Рихард Берг",
+    "path": "records/richard_bergh.json"
+  },
+  {
+    "id": "robert_campin",
+    "name": "Робер Кампен",
+    "path": "records/robert_campin.json"
+  },
+  {
+    "id": "robert_wilhelm_ekman",
+    "name": "Роберт Вильгельм Экман",
+    "path": "records/robert_wilhelm_ekman.json"
+  },
+  {
+    "id": "rauschenberg",
+    "name": "Роберт Раушенберг",
+    "path": "records/rauschenberg.json"
+  },
+  {
+    "id": "rose_adelaide_ducreux",
+    "name": "Роз-Аделаида Дюкре",
+    "path": "records/rose_adelaide_ducreux.json"
+  },
+  {
+    "id": "rosa_bonheur",
+    "name": "Роза Бонёр",
+    "path": "records/rosa_bonheur.json"
+  },
+  {
     "id": "rosalba_carriera",
     "name": "Розальба Каррьера",
     "path": "records/rosalba_carriera.json"
@@ -468,35 +498,5 @@
     "id": "francesco_del_cossa",
     "name": "Франческо дель Косса",
     "path": "records/francesco_del_cossa.json"
-  },
-  {
-    "id": "francesco_curradi",
-    "name": "Франческо Курради",
-    "path": "records/francesco_curradi.json"
-  },
-  {
-    "id": "francesco_melzi",
-    "name": "Франческо Мельци",
-    "path": "records/francesco_melzi.json"
-  },
-  {
-    "id": "francesco_pesellino",
-    "name": "Франческо Пезеллино",
-    "path": "records/francesco_pesellino.json"
-  },
-  {
-    "id": "francesco_salviati",
-    "name": "Франческо Сальвиати",
-    "path": "records/francesco_salviati.json"
-  },
-  {
-    "id": "francesco_solimena",
-    "name": "Франческо Солимена",
-    "path": "records/francesco_solimena.json"
-  },
-  {
-    "id": "francesco_trevisani",
-    "name": "Франческо Тревизани",
-    "path": "records/francesco_trevisani.json"
   }
 ]

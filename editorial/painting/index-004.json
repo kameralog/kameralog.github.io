@@ -1,5 +1,30 @@
 [
   {
+    "id": "kuroda_seiki",
+    "name": "Курода Сэйки",
+    "path": "records/kuroda_seiki.json"
+  },
+  {
+    "id": "catherine_madox_brown",
+    "name": "Кэтрин Мэдокс Браун",
+    "path": "records/catherine_madox_brown.json"
+  },
+  {
+    "id": "lavinia_fontana",
+    "name": "Лавиния Фонтана",
+    "path": "records/lavinia_fontana.json"
+  },
+  {
+    "id": "laurits_andersen_ring",
+    "name": "Лауриц Андерсен Ринг",
+    "path": "records/laurits_andersen_ring.json"
+  },
+  {
+    "id": "laurits_tuxen",
+    "name": "Лауриц Туксен",
+    "path": "records/laurits_tuxen.json"
+  },
+  {
     "id": "leonardo_da_vinci",
     "name": "Леонардо да Винчи",
     "path": "records/leonardo_da_vinci.json"
@@ -473,30 +498,5 @@
     "id": "vrubel",
     "name": "Михаил Врубель",
     "path": "records/vrubel.json"
-  },
-  {
-    "id": "larionov",
-    "name": "Михаил Ларионов",
-    "path": "records/larionov.json"
-  },
-  {
-    "id": "michaelina_wautier",
-    "name": "Михаэлина Ваутье",
-    "path": "records/michaelina_wautier.json"
-  },
-  {
-    "id": "michael_ancher",
-    "name": "Михаэль Анкер",
-    "path": "records/michael_ancher.json"
-  },
-  {
-    "id": "maude_burge",
-    "name": "Мод Бёрдж",
-    "path": "records/maude_burge.json"
-  },
-  {
-    "id": "maud_sherwood",
-    "name": "Мод Шервуд",
-    "path": "records/maud_sherwood.json"
   }
 ]
