@@ -1,5 +1,30 @@
 [
   {
+    "id": "marco_ricci",
+    "name": "Марко Риччи",
+    "path": "records/marco_ricci.json"
+  },
+  {
+    "id": "marthe_donas",
+    "name": "Марта Донас",
+    "path": "records/marthe_donas.json"
+  },
+  {
+    "id": "maerten_van_heemskerck",
+    "name": "Мартен ван Хемскерк",
+    "path": "records/maerten_van_heemskerck.json"
+  },
+  {
+    "id": "martinus_rorbye",
+    "name": "Мартинус Рёрбю",
+    "path": "records/martinus_rorbye.json"
+  },
+  {
+    "id": "maruyama_okyo",
+    "name": "Маруяма Окё",
+    "path": "records/maruyama_okyo.json"
+  },
+  {
     "id": "massimo_stanzione",
     "name": "Массимо Станционе",
     "path": "records/massimo_stanzione.json"
@@ -325,6 +350,11 @@
     "path": "records/kokoschka.json"
   },
   {
+    "id": "otakar_lebeda",
+    "name": "Отакар Лебеда",
+    "path": "records/otakar_lebeda.json"
+  },
+  {
     "id": "pablo_picasso",
     "name": "Пабло Пикассо",
     "path": "records/pablo_picasso.json"
@@ -468,35 +498,5 @@
     "id": "peter_paul_rubens",
     "name": "Питер Пауль Рубенс",
     "path": "records/peter_paul_rubens.json"
-  },
-  {
-    "id": "cleveland_funerary_portrait_1971_137",
-    "name": "Погребальный портрет из Кливленда (1971.137)",
-    "path": "records/cleveland_funerary_portrait_1971_137.json"
-  },
-  {
-    "id": "pauline_knip",
-    "name": "Полина Книп",
-    "path": "records/pauline_knip.json"
-  },
-  {
-    "id": "gauguin",
-    "name": "Поль Гоген",
-    "path": "records/gauguin.json"
-  },
-  {
-    "id": "cezanne",
-    "name": "Поль Сезанн",
-    "path": "records/cezanne.json"
-  },
-  {
-    "id": "paul_signac",
-    "name": "Поль Синьяк",
-    "path": "records/paul_signac.json"
-  },
-  {
-    "id": "pompeo_batoni",
-    "name": "Помпео Батони",
-    "path": "records/pompeo_batoni.json"
   }
 ]

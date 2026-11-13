@@ -1,5 +1,20 @@
 [
   {
+    "id": "jacques_louis_david",
+    "name": "Жак Луи Давид",
+    "path": "records/jacques_louis_david.json"
+  },
+  {
+    "id": "jean_de_beaumetz",
+    "name": "Жан де Бомец",
+    "path": "records/jean_de_beaumetz.json"
+  },
+  {
+    "id": "jean_jouvenet",
+    "name": "Жан Жувене",
+    "path": "records/jean_jouvenet.json"
+  },
+  {
     "id": "jean_auguste_dominique_ingres",
     "name": "Жан Огюст Доминик Энгр",
     "path": "records/jean_auguste_dominique_ingres.json"
@@ -193,6 +208,11 @@
     "id": "job_berckheyde",
     "name": "Йоб Беркхейде",
     "path": "records/job_berckheyde.json"
+  },
+  {
+    "id": "joza_uprka",
+    "name": "Йожа Упрка",
+    "path": "records/joza_uprka.json"
   },
   {
     "id": "josef_manes",
@@ -478,25 +498,5 @@
     "id": "coppo_di_marcovaldo",
     "name": "Коппо ди Марковальдо",
     "path": "records/coppo_di_marcovaldo.json"
-  },
-  {
-    "id": "cornelis_van_poelenburgh",
-    "name": "Корнелис ван Пуленбург",
-    "path": "records/cornelis_van_poelenburgh.json"
-  },
-  {
-    "id": "cornelis_van_haarlem",
-    "name": "Корнелис ван Харлем",
-    "path": "records/cornelis_van_haarlem.json"
-  },
-  {
-    "id": "cornelis_vroom",
-    "name": "Корнелис Вром",
-    "path": "records/cornelis_vroom.json"
-  },
-  {
-    "id": "cornelis_de_man",
-    "name": "Корнелис де Ман",
-    "path": "records/cornelis_de_man.json"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "gillis_van_coninxloo",
+    "name": "Гиллис ван Конинкслоо",
+    "path": "records/gillis_van_coninxloo.json"
+  },
+  {
+    "id": "guo_xi",
+    "name": "Го Си",
+    "path": "records/guo_xi.json"
+  },
+  {
+    "id": "govert_flinck",
+    "name": "Говерт Флинк",
+    "path": "records/govert_flinck.json"
+  },
+  {
     "id": "gregorio_de_ferrari",
     "name": "Грегорио де Феррари",
     "path": "records/gregorio_de_ferrari.json"
@@ -483,20 +498,5 @@
     "id": "yosa_buson",
     "name": "Ёса Бусон",
     "path": "records/yosa_buson.json"
-  },
-  {
-    "id": "jacques_louis_david",
-    "name": "Жак Луи Давид",
-    "path": "records/jacques_louis_david.json"
-  },
-  {
-    "id": "jean_de_beaumetz",
-    "name": "Жан де Бомец",
-    "path": "records/jean_de_beaumetz.json"
-  },
-  {
-    "id": "jean_jouvenet",
-    "name": "Жан Жувене",
-    "path": "records/jean_jouvenet.json"
   }
 ]

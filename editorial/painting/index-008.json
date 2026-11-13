@@ -1,5 +1,45 @@
 [
   {
+    "id": "sheikh_taju",
+    "name": "Шейх Таджу",
+    "path": "records/sheikh_taju.json"
+  },
+  {
+    "id": "shitao",
+    "name": "Шитао",
+    "path": "records/shitao.json"
+  },
+  {
+    "id": "shen_zhou",
+    "name": "Шэнь Чжоу",
+    "path": "records/shen_zhou.json"
+  },
+  {
+    "id": "evelyn_de_morgan",
+    "name": "Эвелин де Морган",
+    "path": "records/evelyn_de_morgan.json"
+  },
+  {
+    "id": "egbert_van_der_poel",
+    "name": "Эгберт ван дер Пул",
+    "path": "records/egbert_van_der_poel.json"
+  },
+  {
+    "id": "eglon_hendrik_van_der_neer",
+    "name": "Эглон Хендрик ван дер Нер",
+    "path": "records/eglon_hendrik_van_der_neer.json"
+  },
+  {
+    "id": "schiele",
+    "name": "Эгон Шиле",
+    "path": "records/schiele.json"
+  },
+  {
+    "id": "munch",
+    "name": "Эдвард Мунк",
+    "path": "records/munch.json"
+  },
+  {
     "id": "hopper",
     "name": "Эдвард Хоппер",
     "path": "records/hopper.json"
@@ -240,6 +280,11 @@
     "path": "records/judith_leyster.json"
   },
   {
+    "id": "julius_marak",
+    "name": "Юлиус Маржак",
+    "path": "records/julius_marak.json"
+  },
+  {
     "id": "julius_paulsen",
     "name": "Юлиус Паульсен",
     "path": "records/julius_paulsen.json"
@@ -323,6 +368,11 @@
     "id": "pontormo",
     "name": "Якопо Понтормо",
     "path": "records/pontormo.json"
+  },
+  {
+    "id": "jakub_schikaneder",
+    "name": "Якуб Шиканедер",
+    "path": "records/jakub_schikaneder.json"
   },
   {
     "id": "jalmari_ruokokoski",
@@ -448,35 +498,5 @@
     "id": "jan_sanders_van_hemessen",
     "name": "Ян Сандерс ван Хемессен",
     "path": "records/jan_sanders_van_hemessen.json"
-  },
-  {
-    "id": "jan_philip_van_thielen",
-    "name": "Ян Филип ван Тилен",
-    "path": "records/jan_philip_van_thielen.json"
-  },
-  {
-    "id": "jan_jansz_den_uyl",
-    "name": "Ян Янс ден Эйл",
-    "path": "records/jan_jansz_den_uyl.json"
-  },
-  {
-    "id": "jan_jansz_treck",
-    "name": "Ян Янс Трек",
-    "path": "records/jan_jansz_treck.json"
-  },
-  {
-    "id": "janis_valters",
-    "name": "Янис Валтерс",
-    "path": "records/janis_valters.json"
-  },
-  {
-    "id": "janis_tillbergs",
-    "name": "Янис Робертс Тилбергс",
-    "path": "records/janis_tillbergs.json"
-  },
-  {
-    "id": "janis_rozentals",
-    "name": "Янис Розенталс",
-    "path": "records/janis_rozentals.json"
   }
 ]

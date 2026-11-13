@@ -265,6 +265,16 @@
     "path": "records/surikov.json"
   },
   {
+    "id": "vaclav_brozik",
+    "name": "Вацлав Брожик",
+    "path": "records/vaclav_brozik.json"
+  },
+  {
+    "id": "vaclav_radimsky",
+    "name": "Вацлав Радимский",
+    "path": "records/vaclav_radimsky.json"
+  },
+  {
     "id": "venny_soldan_brofeldt",
     "name": "Венни Сольдан-Бруфельдт",
     "path": "records/venny_soldan_brofeldt.json"
@@ -358,6 +368,11 @@
     "id": "vittore_carpaccio",
     "name": "Витторе Карпаччо",
     "path": "records/vittore_carpaccio.json"
+  },
+  {
+    "id": "vojtech_hynais",
+    "name": "Войтех Гинайc",
+    "path": "records/vojtech_hynais.json"
   },
   {
     "id": "wen_zhengming",
@@ -483,20 +498,5 @@
     "id": "hyacinthe_rigaud",
     "name": "Гиацинт Риго",
     "path": "records/hyacinthe_rigaud.json"
-  },
-  {
-    "id": "gillis_van_coninxloo",
-    "name": "Гиллис ван Конинкслоо",
-    "path": "records/gillis_van_coninxloo.json"
-  },
-  {
-    "id": "guo_xi",
-    "name": "Го Си",
-    "path": "records/guo_xi.json"
-  },
-  {
-    "id": "govert_flinck",
-    "name": "Говерт Флинк",
-    "path": "records/govert_flinck.json"
   }
 ]

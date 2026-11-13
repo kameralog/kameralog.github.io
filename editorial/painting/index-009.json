@@ -1,0 +1,32 @@
+[
+  {
+    "id": "jan_philip_van_thielen",
+    "name": "Ян Филип ван Тилен",
+    "path": "records/jan_philip_van_thielen.json"
+  },
+  {
+    "id": "jan_jansz_den_uyl",
+    "name": "Ян Янс ден Эйл",
+    "path": "records/jan_jansz_den_uyl.json"
+  },
+  {
+    "id": "jan_jansz_treck",
+    "name": "Ян Янс Трек",
+    "path": "records/jan_jansz_treck.json"
+  },
+  {
+    "id": "janis_valters",
+    "name": "Янис Валтерс",
+    "path": "records/janis_valters.json"
+  },
+  {
+    "id": "janis_tillbergs",
+    "name": "Янис Робертс Тилбергс",
+    "path": "records/janis_tillbergs.json"
+  },
+  {
+    "id": "janis_rozentals",
+    "name": "Янис Розенталс",
+    "path": "records/janis_rozentals.json"
+  }
+]

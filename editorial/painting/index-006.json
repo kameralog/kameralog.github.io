@@ -1,5 +1,35 @@
 [
   {
+    "id": "cleveland_funerary_portrait_1971_137",
+    "name": "Погребальный портрет из Кливленда (1971.137)",
+    "path": "records/cleveland_funerary_portrait_1971_137.json"
+  },
+  {
+    "id": "pauline_knip",
+    "name": "Полина Книп",
+    "path": "records/pauline_knip.json"
+  },
+  {
+    "id": "gauguin",
+    "name": "Поль Гоген",
+    "path": "records/gauguin.json"
+  },
+  {
+    "id": "cezanne",
+    "name": "Поль Сезанн",
+    "path": "records/cezanne.json"
+  },
+  {
+    "id": "paul_signac",
+    "name": "Поль Синьяк",
+    "path": "records/paul_signac.json"
+  },
+  {
+    "id": "pompeo_batoni",
+    "name": "Помпео Батони",
+    "path": "records/pompeo_batoni.json"
+  },
+  {
     "id": "funerary_portrait_of_aline",
     "name": "Портрет Алины (Aline) из Хавары",
     "path": "records/funerary_portrait_of_aline.json"
@@ -468,35 +498,5 @@
     "id": "fanny_churberg",
     "name": "Фанни Чурберг",
     "path": "records/fanny_churberg.json"
-  },
-  {
-    "id": "fan_kuan",
-    "name": "Фань Куань",
-    "path": "records/fan_kuan.json"
-  },
-  {
-    "id": "fede_galizia",
-    "name": "Феде Галиция",
-    "path": "records/fede_galizia.json"
-  },
-  {
-    "id": "theophanes_the_greek",
-    "name": "Феофан Грек",
-    "path": "records/theophanes_the_greek.json"
-  },
-  {
-    "id": "ferdinand_bol",
-    "name": "Фердинанд Бол",
-    "path": "records/ferdinand_bol.json"
-  },
-  {
-    "id": "ferdinand_georg_waldmuller",
-    "name": "Фердинанд Георг Вальдмюллер",
-    "path": "records/ferdinand_georg_waldmuller.json"
-  },
-  {
-    "id": "ferdinand_von_wright",
-    "name": "Фердинанд фон Вригт",
-    "path": "records/ferdinand_von_wright.json"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "cornelis_van_poelenburgh",
+    "name": "Корнелис ван Пуленбург",
+    "path": "records/cornelis_van_poelenburgh.json"
+  },
+  {
+    "id": "cornelis_van_haarlem",
+    "name": "Корнелис ван Харлем",
+    "path": "records/cornelis_van_haarlem.json"
+  },
+  {
+    "id": "cornelis_vroom",
+    "name": "Корнелис Вром",
+    "path": "records/cornelis_vroom.json"
+  },
+  {
+    "id": "cornelis_de_man",
+    "name": "Корнелис де Ман",
+    "path": "records/cornelis_de_man.json"
+  },
+  {
     "id": "cornelis_de_heem",
     "name": "Корнелис де Хем",
     "path": "records/cornelis_de_heem.json"
@@ -233,6 +253,11 @@
     "id": "ludvig_karsten",
     "name": "Людвиг Карстен",
     "path": "records/ludvig_karsten.json"
+  },
+  {
+    "id": "ludek_marold",
+    "name": "Людек Маролд",
+    "path": "records/ludek_marold.json"
   },
   {
     "id": "ludovico_carracci",
@@ -473,30 +498,5 @@
     "id": "marco_palmezzano",
     "name": "Марко Пальмеццано",
     "path": "records/marco_palmezzano.json"
-  },
-  {
-    "id": "marco_ricci",
-    "name": "Марко Риччи",
-    "path": "records/marco_ricci.json"
-  },
-  {
-    "id": "marthe_donas",
-    "name": "Марта Донас",
-    "path": "records/marthe_donas.json"
-  },
-  {
-    "id": "maerten_van_heemskerck",
-    "name": "Мартен ван Хемскерк",
-    "path": "records/maerten_van_heemskerck.json"
-  },
-  {
-    "id": "martinus_rorbye",
-    "name": "Мартинус Рёрбю",
-    "path": "records/martinus_rorbye.json"
-  },
-  {
-    "id": "maruyama_okyo",
-    "name": "Маруяма Окё",
-    "path": "records/maruyama_okyo.json"
   }
 ]

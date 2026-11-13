@@ -1,5 +1,40 @@
 [
   {
+    "id": "fan_kuan",
+    "name": "Фань Куань",
+    "path": "records/fan_kuan.json"
+  },
+  {
+    "id": "fede_galizia",
+    "name": "Феде Галиция",
+    "path": "records/fede_galizia.json"
+  },
+  {
+    "id": "theophanes_the_greek",
+    "name": "Феофан Грек",
+    "path": "records/theophanes_the_greek.json"
+  },
+  {
+    "id": "ferdinand_bol",
+    "name": "Фердинанд Бол",
+    "path": "records/ferdinand_bol.json"
+  },
+  {
+    "id": "ferdinand_georg_waldmuller",
+    "name": "Фердинанд Георг Вальдмюллер",
+    "path": "records/ferdinand_georg_waldmuller.json"
+  },
+  {
+    "id": "ferdinand_von_wright",
+    "name": "Фердинанд фон Вригт",
+    "path": "records/ferdinand_von_wright.json"
+  },
+  {
+    "id": "ferdinand_engelmuller",
+    "name": "Фердинанд Энгельмюллер",
+    "path": "records/ferdinand_engelmuller.json"
+  },
+  {
     "id": "fidelia_bridges",
     "name": "Фиделия Бриджес",
     "path": "records/fidelia_bridges.json"
@@ -88,6 +123,11 @@
     "id": "francois_hubert_drouais",
     "name": "Франсуа-Юбер Друэ",
     "path": "records/francois_hubert_drouais.json"
+  },
+  {
+    "id": "frantisek_zenisek",
+    "name": "Франтишек Женишек",
+    "path": "records/frantisek_zenisek.json"
   },
   {
     "id": "frantisek_kupka",
@@ -458,45 +498,5 @@
     "id": "shaikh_zainuddin",
     "name": "Шейх Зайн-уд-Дин",
     "path": "records/shaikh_zainuddin.json"
-  },
-  {
-    "id": "sheikh_taju",
-    "name": "Шейх Таджу",
-    "path": "records/sheikh_taju.json"
-  },
-  {
-    "id": "shitao",
-    "name": "Шитао",
-    "path": "records/shitao.json"
-  },
-  {
-    "id": "shen_zhou",
-    "name": "Шэнь Чжоу",
-    "path": "records/shen_zhou.json"
-  },
-  {
-    "id": "evelyn_de_morgan",
-    "name": "Эвелин де Морган",
-    "path": "records/evelyn_de_morgan.json"
-  },
-  {
-    "id": "egbert_van_der_poel",
-    "name": "Эгберт ван дер Пул",
-    "path": "records/egbert_van_der_poel.json"
-  },
-  {
-    "id": "eglon_hendrik_van_der_neer",
-    "name": "Эглон Хендрик ван дер Нер",
-    "path": "records/eglon_hendrik_van_der_neer.json"
-  },
-  {
-    "id": "schiele",
-    "name": "Эгон Шиле",
-    "path": "records/schiele.json"
-  },
-  {
-    "id": "munch",
-    "name": "Эдвард Мунк",
-    "path": "records/munch.json"
   }
 ]
