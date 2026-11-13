@@ -1,5 +1,55 @@
 [
   {
+    "id": "esaias_van_de_velde",
+    "name": "Эсайас ван де Велде",
+    "path": "records/esaias_van_de_velde.json"
+  },
+  {
+    "id": "eustache_le_sueur",
+    "name": "Эсташ Лесюэр",
+    "path": "records/eustache_le_sueur.json"
+  },
+  {
+    "id": "ethel_carrick",
+    "name": "Этель Кэррик",
+    "path": "records/ethel_carrick.json"
+  },
+  {
+    "id": "euphrosine_beernaert",
+    "name": "Эфрозина Бернарт",
+    "path": "records/euphrosine_beernaert.json"
+  },
+  {
+    "id": "asher_brown_durand",
+    "name": "Эшер Браун Дюранд",
+    "path": "records/asher_brown_durand.json"
+  },
+  {
+    "id": "eero_jarnefelt",
+    "name": "Ээро Ярнефельт",
+    "path": "records/eero_jarnefelt.json"
+  },
+  {
+    "id": "hubert_robert",
+    "name": "Юбер Робер",
+    "path": "records/hubert_robert.json"
+  },
+  {
+    "id": "judith_leyster",
+    "name": "Юдит Лейстер",
+    "path": "records/judith_leyster.json"
+  },
+  {
+    "id": "julius_paulsen",
+    "name": "Юлиус Паульсен",
+    "path": "records/julius_paulsen.json"
+  },
+  {
+    "id": "jacob_van_ruisdael",
+    "name": "Якоб ван Рёйсдал",
+    "path": "records/jacob_van_ruisdael.json"
+  },
+  {
     "id": "jacob_duck",
     "name": "Якоб Дюк",
     "path": "records/jacob_duck.json"

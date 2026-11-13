@@ -1,5 +1,15 @@
 [
   {
+    "id": "bartholomeus_van_der_helst",
+    "name": "Бартоломеус ван дер Хелст",
+    "path": "records/bartholomeus_van_der_helst.json"
+  },
+  {
+    "id": "bartholomeus_spranger",
+    "name": "Бартоломеус Спрангер",
+    "path": "records/bartholomeus_spranger.json"
+  },
+  {
     "id": "basawan",
     "name": "Басаван",
     "path": "records/basawan.json"
@@ -195,6 +205,11 @@
     "path": "records/venny_soldan_brofeldt.json"
   },
   {
+    "id": "werner_holmberg",
+    "name": "Вернер Хольмберг",
+    "path": "records/werner_holmberg.json"
+  },
+  {
     "id": "viviano_codazzi",
     "name": "Вивиано Кодацци",
     "path": "records/viviano_codazzi.json"
@@ -203,6 +218,11 @@
     "id": "viggo_johansen",
     "name": "Вигго Йохансен",
     "path": "records/viggo_johansen.json"
+  },
+  {
+    "id": "victor_westerholm",
+    "name": "Виктор Вестерхольм",
+    "path": "records/victor_westerholm.json"
   },
   {
     "id": "willem_van_de_velde_the_younger",
@@ -478,25 +498,5 @@
     "id": "giampietrino",
     "name": "Джампьетрино",
     "path": "records/giampietrino.json"
-  },
-  {
-    "id": "johns",
-    "name": "Джаспер Джонс",
-    "path": "records/johns.json"
-  },
-  {
-    "id": "james_mcneill_whistler",
-    "name": "Джеймс Макнил Уистлер",
-    "path": "records/james_mcneill_whistler.json"
-  },
-  {
-    "id": "jane_price",
-    "name": "Джейн Прайс",
-    "path": "records/jane_price.json"
-  },
-  {
-    "id": "jane_sutherland",
-    "name": "Джейн Сазерленд",
-    "path": "records/jane_sutherland.json"
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "id": "fritz_syberg",
+    "name": "Фриц Сюберг",
+    "path": "records/fritz_syberg.json"
+  },
+  {
+    "id": "frits_thaulow",
+    "name": "Фриц Таулов",
+    "path": "records/frits_thaulow.json"
+  },
+  {
+    "id": "bacon",
+    "name": "Фрэнсис Бэкон",
+    "path": "records/bacon.json"
+  },
+  {
+    "id": "frances_hodgkins",
+    "name": "Фрэнсис Ходжкинс",
+    "path": "records/frances_hodgkins.json"
+  },
+  {
+    "id": "fujiwara_nobuzane",
+    "name": "Фудзивара Нобудзанэ",
+    "path": "records/fujiwara_nobuzane.json"
+  },
+  {
+    "id": "fujiwara_takanobu",
+    "name": "Фудзивара Таканобу",
+    "path": "records/fujiwara_takanobu.json"
+  },
+  {
+    "id": "halfdan_egedius",
+    "name": "Хальфдан Эгедиус",
+    "path": "records/halfdan_egedius.json"
+  },
+  {
+    "id": "hanna_pauli",
+    "name": "Ханна Паули",
+    "path": "records/hanna_pauli.json"
+  },
+  {
     "id": "hans_andersen_brendekilde",
     "name": "Ханс Андерсен Брендекилле",
     "path": "records/hans_andersen_brendekilde.json"
@@ -138,6 +178,11 @@
     "id": "juana_romani",
     "name": "Хуана Романи",
     "path": "records/juana_romani.json"
+  },
+  {
+    "id": "hugo_simberg",
+    "name": "Хуго Симберг",
+    "path": "records/hugo_simberg.json"
   },
   {
     "id": "jusepe_de_ribera",
@@ -453,50 +498,5 @@
     "id": "esaias_boursse",
     "name": "Эсайас Бурсе",
     "path": "records/esaias_boursse.json"
-  },
-  {
-    "id": "esaias_van_de_velde",
-    "name": "Эсайас ван де Велде",
-    "path": "records/esaias_van_de_velde.json"
-  },
-  {
-    "id": "eustache_le_sueur",
-    "name": "Эсташ Лесюэр",
-    "path": "records/eustache_le_sueur.json"
-  },
-  {
-    "id": "ethel_carrick",
-    "name": "Этель Кэррик",
-    "path": "records/ethel_carrick.json"
-  },
-  {
-    "id": "euphrosine_beernaert",
-    "name": "Эфрозина Бернарт",
-    "path": "records/euphrosine_beernaert.json"
-  },
-  {
-    "id": "asher_brown_durand",
-    "name": "Эшер Браун Дюранд",
-    "path": "records/asher_brown_durand.json"
-  },
-  {
-    "id": "hubert_robert",
-    "name": "Юбер Робер",
-    "path": "records/hubert_robert.json"
-  },
-  {
-    "id": "judith_leyster",
-    "name": "Юдит Лейстер",
-    "path": "records/judith_leyster.json"
-  },
-  {
-    "id": "julius_paulsen",
-    "name": "Юлиус Паульсен",
-    "path": "records/julius_paulsen.json"
-  },
-  {
-    "id": "jacob_van_ruisdael",
-    "name": "Якоб ван Рёйсдал",
-    "path": "records/jacob_van_ruisdael.json"
   }
 ]

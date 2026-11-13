@@ -1,5 +1,40 @@
 [
   {
+    "id": "salomon_koninck",
+    "name": "Саломон Конинк",
+    "path": "records/salomon_koninck.json"
+  },
+  {
+    "id": "dali",
+    "name": "Сальвадор Дали",
+    "path": "records/dali.json"
+  },
+  {
+    "id": "salvator_rosa",
+    "name": "Сальватор Роза",
+    "path": "records/salvator_rosa.json"
+  },
+  {
+    "id": "samuel_van_hoogstraten",
+    "name": "Самюэл ван Хогстратен",
+    "path": "records/samuel_van_hoogstraten.json"
+  },
+  {
+    "id": "botticelli",
+    "name": "Сандро Боттичелли",
+    "path": "records/botticelli.json"
+  },
+  {
+    "id": "sano_di_pietro",
+    "name": "Сано ди Пьетро",
+    "path": "records/sano_di_pietro.json"
+  },
+  {
+    "id": "santi_di_tito",
+    "name": "Санти ди Тито",
+    "path": "records/santi_di_tito.json"
+  },
+  {
     "id": "sarah_goodridge",
     "name": "Сара Гудридж",
     "path": "records/sarah_goodridge.json"
@@ -275,6 +310,11 @@
     "path": "records/ferdinand_georg_waldmuller.json"
   },
   {
+    "id": "ferdinand_von_wright",
+    "name": "Фердинанд фон Вригт",
+    "path": "records/ferdinand_von_wright.json"
+  },
+  {
     "id": "fidelia_bridges",
     "name": "Фиделия Бриджес",
     "path": "records/fidelia_bridges.json"
@@ -458,45 +498,5 @@
     "id": "friedrich_amerling",
     "name": "Фридрих Амерлинг",
     "path": "records/friedrich_amerling.json"
-  },
-  {
-    "id": "fritz_syberg",
-    "name": "Фриц Сюберг",
-    "path": "records/fritz_syberg.json"
-  },
-  {
-    "id": "frits_thaulow",
-    "name": "Фриц Таулов",
-    "path": "records/frits_thaulow.json"
-  },
-  {
-    "id": "bacon",
-    "name": "Фрэнсис Бэкон",
-    "path": "records/bacon.json"
-  },
-  {
-    "id": "frances_hodgkins",
-    "name": "Фрэнсис Ходжкинс",
-    "path": "records/frances_hodgkins.json"
-  },
-  {
-    "id": "fujiwara_nobuzane",
-    "name": "Фудзивара Нобудзанэ",
-    "path": "records/fujiwara_nobuzane.json"
-  },
-  {
-    "id": "fujiwara_takanobu",
-    "name": "Фудзивара Таканобу",
-    "path": "records/fujiwara_takanobu.json"
-  },
-  {
-    "id": "halfdan_egedius",
-    "name": "Хальфдан Эгедиус",
-    "path": "records/halfdan_egedius.json"
-  },
-  {
-    "id": "hanna_pauli",
-    "name": "Ханна Паули",
-    "path": "records/hanna_pauli.json"
   }
 ]

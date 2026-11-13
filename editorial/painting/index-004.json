@@ -1,5 +1,25 @@
 [
   {
+    "id": "lilly_martin_spencer",
+    "name": "Лилли Мартин Спенсер",
+    "path": "records/lilly_martin_spencer.json"
+  },
+  {
+    "id": "laura_muntz_lyall",
+    "name": "Лора Мунц Лайалл",
+    "path": "records/laura_muntz_lyall.json"
+  },
+  {
+    "id": "laurent_de_la_hyre",
+    "name": "Лоран де Ла Ир",
+    "path": "records/laurent_de_la_hyre.json"
+  },
+  {
+    "id": "lorenzo_di_credi",
+    "name": "Лоренцо ди Креди",
+    "path": "records/lorenzo_di_credi.json"
+  },
+  {
     "id": "lorenzo_costa",
     "name": "Лоренцо Коста",
     "path": "records/lorenzo_costa.json"
@@ -128,6 +148,16 @@
     "id": "ma_yuan",
     "name": "Ма Юань",
     "path": "records/ma_yuan.json"
+  },
+  {
+    "id": "magnus_von_wright",
+    "name": "Магнус фон Вригт",
+    "path": "records/magnus_von_wright.json"
+  },
+  {
+    "id": "magnus_enckell",
+    "name": "Магнус Энкель",
+    "path": "records/magnus_enckell.json"
   },
   {
     "id": "madeleine_lemaire",
@@ -468,35 +498,5 @@
     "id": "mary_beale",
     "name": "Мэри Бил",
     "path": "records/mary_beale.json"
-  },
-  {
-    "id": "mary_blood_mellen",
-    "name": "Мэри Блад Меллен",
-    "path": "records/mary_blood_mellen.json"
-  },
-  {
-    "id": "mary_cassatt",
-    "name": "Мэри Кассат",
-    "path": "records/mary_cassatt.json"
-  },
-  {
-    "id": "mary_lizzie_macomber",
-    "name": "Мэри Лиззи Макомбер",
-    "path": "records/mary_lizzie_macomber.json"
-  },
-  {
-    "id": "mary_moser",
-    "name": "Мэри Мозер",
-    "path": "records/mary_moser.json"
-  },
-  {
-    "id": "mary_fairchild_macmonnies_low",
-    "name": "Мэри Фэрчайлд Макмоннис Лоу",
-    "path": "records/mary_fairchild_macmonnies_low.json"
-  },
-  {
-    "id": "mary_hiester_reid",
-    "name": "Мэри Хистер Рид",
-    "path": "records/mary_hiester_reid.json"
   }
 ]

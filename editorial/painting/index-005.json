@@ -1,5 +1,35 @@
 [
   {
+    "id": "mary_blood_mellen",
+    "name": "Мэри Блад Меллен",
+    "path": "records/mary_blood_mellen.json"
+  },
+  {
+    "id": "mary_cassatt",
+    "name": "Мэри Кассат",
+    "path": "records/mary_cassatt.json"
+  },
+  {
+    "id": "mary_lizzie_macomber",
+    "name": "Мэри Лиззи Макомбер",
+    "path": "records/mary_lizzie_macomber.json"
+  },
+  {
+    "id": "mary_moser",
+    "name": "Мэри Мозер",
+    "path": "records/mary_moser.json"
+  },
+  {
+    "id": "mary_fairchild_macmonnies_low",
+    "name": "Мэри Фэрчайлд Макмоннис Лоу",
+    "path": "records/mary_fairchild_macmonnies_low.json"
+  },
+  {
+    "id": "mary_hiester_reid",
+    "name": "Мэри Хистер Рид",
+    "path": "records/mary_hiester_reid.json"
+  },
+  {
     "id": "nainsukh",
     "name": "Найнсукх",
     "path": "records/nainsukh.json"
@@ -193,6 +223,11 @@
     "id": "peder_severin_kroyer",
     "name": "Педер Северин Крёйер",
     "path": "records/peder_severin_kroyer.json"
+  },
+  {
+    "id": "pekka_halonen",
+    "name": "Пекка Халонен",
+    "path": "records/pekka_halonen.json"
   },
   {
     "id": "peter_christian_skovgaard",
@@ -463,40 +498,5 @@
     "id": "roelof_koets",
     "name": "Рулоф Кутс",
     "path": "records/roelof_koets.json"
-  },
-  {
-    "id": "salomon_koninck",
-    "name": "Саломон Конинк",
-    "path": "records/salomon_koninck.json"
-  },
-  {
-    "id": "dali",
-    "name": "Сальвадор Дали",
-    "path": "records/dali.json"
-  },
-  {
-    "id": "salvator_rosa",
-    "name": "Сальватор Роза",
-    "path": "records/salvator_rosa.json"
-  },
-  {
-    "id": "samuel_van_hoogstraten",
-    "name": "Самюэл ван Хогстратен",
-    "path": "records/samuel_van_hoogstraten.json"
-  },
-  {
-    "id": "botticelli",
-    "name": "Сандро Боттичелли",
-    "path": "records/botticelli.json"
-  },
-  {
-    "id": "sano_di_pietro",
-    "name": "Сано ди Пьетро",
-    "path": "records/sano_di_pietro.json"
-  },
-  {
-    "id": "santi_di_tito",
-    "name": "Санти ди Тито",
-    "path": "records/santi_di_tito.json"
   }
 ]

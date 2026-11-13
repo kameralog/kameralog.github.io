@@ -70,6 +70,11 @@
     "path": "records/adriana_johanna_haanen.json"
   },
   {
+    "id": "akseli_gallen_kallela",
+    "name": "Аксели Галлен-Каллела",
+    "path": "records/akseli_gallen_kallela.json"
+  },
+  {
     "id": "alexander_coosemans",
     "name": "Александр Коземанс",
     "path": "records/alexander_coosemans.json"
@@ -118,6 +123,11 @@
     "id": "albert_bouts",
     "name": "Альберт Баутс",
     "path": "records/albert_bouts.json"
+  },
+  {
+    "id": "albert_edelfelt",
+    "name": "Альберт Эдельфельт",
+    "path": "records/albert_edelfelt.json"
   },
   {
     "id": "giacometti",
@@ -488,15 +498,5 @@
     "id": "bartholomeus_van_bassen",
     "name": "Бартоломеус ван Бассен",
     "path": "records/bartholomeus_van_bassen.json"
-  },
-  {
-    "id": "bartholomeus_van_der_helst",
-    "name": "Бартоломеус ван дер Хелст",
-    "path": "records/bartholomeus_van_der_helst.json"
-  },
-  {
-    "id": "bartholomeus_spranger",
-    "name": "Бартоломеус Спрангер",
-    "path": "records/bartholomeus_spranger.json"
   }
 ]

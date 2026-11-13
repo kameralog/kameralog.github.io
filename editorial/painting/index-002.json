@@ -1,5 +1,25 @@
 [
   {
+    "id": "johns",
+    "name": "Джаспер Джонс",
+    "path": "records/johns.json"
+  },
+  {
+    "id": "james_mcneill_whistler",
+    "name": "Джеймс Макнил Уистлер",
+    "path": "records/james_mcneill_whistler.json"
+  },
+  {
+    "id": "jane_price",
+    "name": "Джейн Прайс",
+    "path": "records/jane_price.json"
+  },
+  {
+    "id": "jane_sutherland",
+    "name": "Джейн Сазерленд",
+    "path": "records/jane_sutherland.json"
+  },
+  {
     "id": "pollock",
     "name": "Джексон Поллок",
     "path": "records/pollock.json"
@@ -478,25 +498,5 @@
     "id": "georges_braque",
     "name": "Жорж Брак",
     "path": "records/georges_braque.json"
-  },
-  {
-    "id": "georges_de_la_tour",
-    "name": "Жорж де Латур",
-    "path": "records/georges_de_la_tour.json"
-  },
-  {
-    "id": "georges_seurat",
-    "name": "Жорж Сёра",
-    "path": "records/georges_seurat.json"
-  },
-  {
-    "id": "juliette_wytsman",
-    "name": "Жюльетта Витсман",
-    "path": "records/juliette_wytsman.json"
-  },
-  {
-    "id": "yi_jehyeon",
-    "name": "И Джехён",
-    "path": "records/yi_jehyeon.json"
   }
 ]

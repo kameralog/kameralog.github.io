@@ -1,0 +1,50 @@
+{
+  "id": "hugo_simberg",
+  "name": "Хуго Симберг",
+  "latin": "Hugo Simberg",
+  "life": "1873–1917",
+  "tag": "Финское искусство · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-132.js",
+  "existing": {
+    "bio": [
+      "Финский художник-символист, создавший узнаваемый мир ангелов, чертей и олицетворённой Смерти. Его наследие включает также портреты и пейзажи, в которых музей видит поиск иной реальности за повседневным миром.",
+      "Раненого ангела написал в 1903 году. Двое детей несут ангела на носилках; место связано с берегом залива Тёёлёнлахти в Хельсинки. Картина получила известное название не сразу: первоначально художник не дал ей такого заглавия.",
+      "В истории создания учитывают пережитую художником болезнь, но это не объясняет картину однозначно. Образ допускает разные прочтения; музей не требует единственной разгадки. Выбранный холст поступил в Ateneum 14 декабря 1928 года."
+    ],
+    "technique": [
+      "Масло на холсте; 127 × 154 см",
+      "Описание опирается на источники; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный ракурс: Как носилки связывают три фигуры?",
+    "caution": "Не подменять позднейшей фресковой версией в Тампере. Личная болезнь художника — контекст, а не доказательство того, что ангел является его автопортретом.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://ateneum.fi/en/news/a-new-book-on-hugo-simberg-in-the-artists-of-the-ateneum-book-series/"
+    },
+    {
+      "title": "Музейный учебный материал",
+      "url": "https://ateneum.fi/wp-content/uploads/sites/3/2021/12/Letrs-talk-about-art-Easy-language-texts-and-exercises-related-to-works-in-the-Ateneum-Art-Museum.pdf"
+    },
+    {
+      "title": "Прочитанная страница файла и права",
+      "url": "https://en.wikipedia.org/wiki/File:Hugo_Simberg_(1873%E2%80%931917)-_The_Wounded_Angel_-_Haavoittunut_enkeli_(29568380521).jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "hugo_simberg_selected",
+      "title": "Раненый ангел",
+      "date": "1903",
+      "museum": "Finnish National Gallery / Ateneum Art Museum, Ahlström Collection",
+      "source": "https://ateneum.fi/en/news/a-new-book-on-hugo-simberg-in-the-artists-of-the-ateneum-book-series/"
+    }
+  ],
+  "pendingWorksCount": 0
+}
