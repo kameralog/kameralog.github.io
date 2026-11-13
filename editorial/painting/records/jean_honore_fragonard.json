@@ -1,0 +1,47 @@
+{
+  "id": "jean_honore_fragonard",
+  "name": "Жан Оноре Фрагонар",
+  "latin": "Jean-Honoré Fragonard",
+  "life": "1732–1806",
+  "tag": "Франция · рококо и поздние аллегории",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-18.js",
+  "existing": {
+    "bio": [
+      "Известный как мастер рококо, в 1780-е Фрагонар писал аллегории любви с напряжённым светом и ограниченной палитрой. Getty видит в них новый романтический строй чувств."
+    ],
+    "technique": [
+      "В Фонтане любви парные профили напоминают античные камеи. Мягкая дымная атмосфера сочетается с сильными контрастами и устремлённым движением."
+    ],
+    "innovation": "Поздняя аллегория отвечает неоклассицизму по-своему: античный мотив превращён в эмоциональное переживание первых мгновений любви.",
+    "caution": "Показана версия Getty, не Wallace Collection. Техническое исследование Getty считает её первичной; вывод принадлежит исследованию, не устанавливается по впечатлению от репродукции.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Музей Getty, Лос-Анджелес: Фонтан любви",
+      "url": "https://www.getty.edu/art/collection/object/103QRW"
+    },
+    {
+      "title": "Репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:The%20Fountain%20of%20Love%2C%20Jean-Honor%C3%A9%20Fragonard%2C%20c1785.jpg"
+    },
+    {
+      "title": "Getty: исследование двух версий",
+      "url": "https://www.getty.edu/art/exhibitions/consuming_passion/"
+    }
+  ],
+  "works": [
+    {
+      "key": "getty:99.PA.30",
+      "title": "Фонтан любви",
+      "date": "ок. 1785",
+      "museum": "Музей Getty, Лос-Анджелес",
+      "source": "https://www.getty.edu/art/collection/object/103QRW"
+    }
+  ],
+  "pendingWorksCount": 0
+}

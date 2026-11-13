@@ -1,0 +1,47 @@
+{
+  "id": "abul_hasan",
+  "name": "Абу-ль-Хасан",
+  "latin": "Abu’l Hasan",
+  "life": "родился 1588/1589; работал в начале XVII века",
+  "tag": "Великие Моголы · аллегорический портрет",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "Абу-ль-Хасан работал при Джахангире. Изображение объятий с шахом Аббасом около 1618 — аллегория желаемого могольского превосходства."
+    ],
+    "technique": [
+      "Масштаб фигур, сияющий нимб, глобус, лев и ягнёнок превращают придворный портрет в символическую программу."
+    ],
+    "innovation": "Правдоподобное сходство не делает изображение документом встречи: два государя в действительности не встречались.",
+    "caution": "Поздние поля не равны центральной живописи. Текущая Smithsonian-запись датирует поля 1747–1748, старый сайт — 1756–1757; расхождение не скрыто.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1945.9a/"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Jahangir%20%26%20Abbas%20I.jpg"
+    },
+    {
+      "title": "Smithsonian: виртуальная выставка и иной вариант даты полей",
+      "url": "https://asia-archive.si.edu/interactives/worlds-within-worlds/zoom/jahangir-embracing-shah-abbas.html"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide25:abul",
+      "title": "Джахангир обнимает шаха Аббаса",
+      "date": "ок. 1618; поля добавлены позднее",
+      "museum": "National Museum of Asian Art, Smithsonian",
+      "source": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1945.9a/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

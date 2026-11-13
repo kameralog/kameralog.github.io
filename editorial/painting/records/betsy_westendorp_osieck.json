@@ -1,0 +1,37 @@
+{
+  "id": "betsy_westendorp_osieck",
+  "name": "Бетси Вестендорп-Осик",
+  "latin": "Betsy Westendorp-Osieck",
+  "life": "1880–1968",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-122.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, акварелистка и график круга Amsterdamse Joffers.",
+      "Во время путешествий создавала зарисовки и фотографии; работала также в офорте."
+    ],
+    "technique": [
+      "Живопись; точные материал и основа требуют сверки",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как сгруппированы предметы?",
+    "caution": "3289 — ID веб-карточки, не подтверждённый инвентарный номер. Не подменять фотографиями азиатского путешествия или другим одноимённым натюрмортом.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.boijmans.nl/collectie/kunstwerken/3289"
+    },
+    {
+      "title": "Имя и биография",
+      "url": "https://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Osieck"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

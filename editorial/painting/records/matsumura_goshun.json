@@ -1,0 +1,54 @@
+{
+  "id": "matsumura_goshun",
+  "name": "Мацумура Госюн",
+  "latin": "Matsumura Goshun",
+  "life": "1752–1811",
+  "tag": "Эдо · киотская живопись",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Произведения Госюна обращаются и к китайскому роману Троецарствие, и к поэтическим местам Китая. Позднее он связан с формированием школы Сидзё."
+    ],
+    "technique": [
+      "В низкой восьмистворчатой ширме горный ряд Хэншань предназначен, вероятно, для небольшой чайной комнаты; тушь сочетается с золотой и серебряной фольгой."
+    ],
+    "innovation": "Литературный сюжет и формат предмета задают способ чтения: маленькая комнатная перегородка не равна монументальному пейзажу.",
+    "caution": "Клятва в персиковом саду — сцена китайского романа, не японское историческое событие. 72 пика названы надписью, не редакционной догадкой.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Oath of the Peach Garden, from Romance of the Three Kingdoms",
+      "url": "https://www.clevelandart.org/art/1987.35"
+    },
+    {
+      "title": "Cleveland Museum of Art: Seventy-Two Peaks Under the Blue Sky with Mount Furong",
+      "url": "https://www.clevelandart.org/art/1980.28"
+    },
+    {
+      "title": "Кливленд: свиток с каллиграфией Бусона и живописью Госюна",
+      "url": "https://www.clevelandart.org/art/1983.188"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:153727",
+      "title": "Клятва в персиковом саду",
+      "date": "ок. 1780",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1987.35"
+    },
+    {
+      "key": "cma:150074",
+      "title": "Семьдесят два пика под синим небом",
+      "date": "1785",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1980.28"
+    }
+  ],
+  "pendingWorksCount": 0
+}

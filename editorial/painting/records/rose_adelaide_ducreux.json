@@ -1,0 +1,41 @@
+{
+  "id": "rose_adelaide_ducreux",
+  "name": "Роз-Аделаида Дюкре",
+  "latin": "Rose Adélaïde Ducreux",
+  "life": "XVIII–XIX века",
+  "tag": "Предварительная карточка · проверка репродукции",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-108.js",
+  "existing": {
+    "bio": [
+      "Музей связывает работу с автопортретом, показанным художницей в Салоне 1791 года.",
+      "Современники отмечали изящество позы и роскошные ткани."
+    ],
+    "technique": [
+      "Масло на холсте; 193 × 128,9 см",
+      "Технические наблюдения сверх подтверждённой музейной записи пока не добавлены."
+    ],
+    "innovation": "Учебный ракурс уточняется; новаторство не устанавливается по одному произведению.",
+    "caution": "Не путать с Жозефом Дюкре. Связь с конкретной салонной работой формулировать как музейную идентификацию.",
+    "editorialStatus": "RESEARCH_DRAFT_NOT_READY_FOR_PUBLICATION"
+  },
+  "sources": [
+    {
+      "title": "Метрополитен-музей, Нью-Йорк: Автопортрет с арфой",
+      "url": "https://www.metmuseum.org/art/collection/search/436222"
+    },
+    {
+      "title": "Метрополитен: API объекта 436222",
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436222"
+    },
+    {
+      "title": "Метрополитен: политика Open Access / CC0",
+      "url": "https://www.metmuseum.org/hubs/open-access"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

@@ -1,0 +1,47 @@
+{
+  "id": "jean_auguste_dominique_ingres",
+  "name": "Жан Огюст Доминик Энгр",
+  "latin": "Jean-Auguste-Dominique Ingres",
+  "life": "1780–1867",
+  "tag": "Франция · неоклассическая традиция XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-18.js",
+  "existing": {
+    "bio": [
+      "Энгр считал историческую живопись высшей целью, но прославился и портретами. Мадам Муатесье заказана в 1844 и завершена в 1856, через двенадцать лет изменений."
+    ],
+    "technique": [
+      "Масло на холсте. Поза восходит к античной росписи из Геркуланума; платье, драгоценности, зеркало и узоры создают образ роскоши Второй империи."
+    ],
+    "innovation": "Античный идеал соединён с современной модой. Пример показывает продолжение классической традиции в XIX веке, а не картину XVIII века.",
+    "caution": "Это сидящий лондонский портрет 1856, не стоящая версия 1851 из Вашингтона. Тематическое включение в блок не меняет даты произведения.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Мадам Муатесье — сидящий портрет",
+      "url": "https://www.nationalgallery.org.uk/paintings/jean-auguste-dominique-ingres-madame-moitessier"
+    },
+    {
+      "title": "Репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Dominique%20Ingres%20-%20Mme%20Moitessier.jpg"
+    },
+    {
+      "title": "Национальная галерея: художник",
+      "url": "https://www.nationalgallery.org.uk/artists/jean-auguste-dominique-ingres"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG4821",
+      "title": "Мадам Муатесье — сидящий портрет",
+      "date": "1856",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/jean-auguste-dominique-ingres-madame-moitessier"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,49 @@
+{
+  "id": "carl_holsoe",
+  "name": "Карл Хольсёе",
+  "latin": "Carl Holsøe",
+  "life": "1863–1935",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский художник интерьеров, учившийся в том числе у П.С. Крёйера.",
+      "Его живопись сопоставляют с произведениями Вильхельма Хаммерсхёя; сходство не устанавливает одностороннее заимствование."
+    ],
+    "technique": [
+      "Масло на холсте; 53 × 46 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как фигура связана с чтением?",
+    "caution": "Не подменять частной работой Interior scene with Young Girl Reading на панели 54 × 45,5 см. Подключаемый файл помечен superseded; рекомендуемая замена не проверена. CC0 явно указан в шаблоне именно текущей загрузки, а не выведен из пустого Permission.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://open.smk.dk/en/artwork/image/KMS1790"
+    },
+    {
+      "title": "Другая одноимённая версия, не подключена",
+      "url": "https://www.thewintershow.org/media/wintershowmedia/wintershow2022/artworks/documents/Hols%C3%B6e_InteriorscenewithYoungGirlReading_T637831972805260422.pdf"
+    },
+    {
+      "title": "Прочитанная страница конкретного файла",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Hols%C3%B8e,_Interi%C3%B8r_med_ung_pige_der_l%C3%A6ser,_(1903),_KMS1790,_Statens_Museum_for_Kunst.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "carl_holsoe_selected",
+      "title": "Интерьер с читающей девушкой",
+      "date": "1903 по описанию файла",
+      "museum": "Statens Museum for Kunst",
+      "source": "https://open.smk.dk/en/artwork/image/KMS1790"
+    }
+  ],
+  "pendingWorksCount": 0
+}

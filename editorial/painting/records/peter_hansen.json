@@ -1,0 +1,41 @@
+{
+  "id": "peter_hansen",
+  "name": "Петер Хансен",
+  "latin": "Peter Hansen",
+  "life": "1868–1928",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский художник круга Fynboerne, ученик Цартмана.",
+      "Брат Анны Сюберг; работал как с сельскими, так и с городскими сюжетами."
+    ],
+    "technique": [
+      "Живопись; точные материал и основа требуют сверки",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как разворот связывает человека и животных?",
+    "caution": "Выбрана основная работа Faaborg Museum. KMS3939 в SMK фигурирует также как этюд: его размеры и снимок не перенесены на эту версию. Во вторичных публикациях встречаются 1900 и 1898–1902.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.faaborgmuseum.dk/en/art-and-artists/the-funen-painters/"
+    },
+    {
+      "title": "Музейная биография",
+      "url": "https://www.faaborgmuseum.dk/peter-hansens-atelier/"
+    },
+    {
+      "title": "Различение с этюдом",
+      "url": "https://open.smk.dk/en/artwork/image/KMS3939/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

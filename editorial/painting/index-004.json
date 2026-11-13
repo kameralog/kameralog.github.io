@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ludovico_carracci",
+    "name": "Людовико Карраччи",
+    "path": "records/ludovico_carracci.json"
+  },
+  {
+    "id": "ludovico_mazzolino",
+    "name": "Людовико Маццолино",
+    "path": "records/ludovico_mazzolino.json"
+  },
+  {
+    "id": "ludolf_bakhuizen",
+    "name": "Людолф Бакхёйзен",
+    "path": "records/ludolf_bakhuizen.json"
+  },
+  {
+    "id": "ludolf_de_jongh",
+    "name": "Людолф де Йонг",
+    "path": "records/ludolf_de_jongh.json"
+  },
+  {
+    "id": "lucy_madox_brown",
+    "name": "Люси Мэдокс Браун",
+    "path": "records/lucy_madox_brown.json"
+  },
+  {
+    "id": "freud",
+    "name": "Люсьен Фрейд",
+    "path": "records/freud.json"
+  },
+  {
+    "id": "ma_yuan",
+    "name": "Ма Юань",
+    "path": "records/ma_yuan.json"
+  },
+  {
+    "id": "madeleine_lemaire",
+    "name": "Мадлен Лемер",
+    "path": "records/madeleine_lemaire.json"
+  },
+  {
+    "id": "masaccio",
+    "name": "Мазаччо",
+    "path": "records/masaccio.json"
+  },
+  {
+    "id": "ernst",
+    "name": "Макс Эрнст",
+    "path": "records/ernst.json"
+  },
+  {
+    "id": "manaku",
+    "name": "Манаку",
+    "path": "records/manaku.json"
+  },
+  {
+    "id": "manuel_panselinos",
+    "name": "Мануил Панселин",
+    "path": "records/manuel_panselinos.json"
+  },
+  {
+    "id": "margaret_stoddart",
+    "name": "Маргарет Стоддарт",
+    "path": "records/margaret_stoddart.json"
+  },
+  {
+    "id": "margaretha_roosenboom",
+    "name": "Маргарета Розенбом",
+    "path": "records/margaretha_roosenboom.json"
+  },
+  {
+    "id": "margaretta_angelica_peale",
+    "name": "Маргаретта Анжелика Пил",
+    "path": "records/margaretta_angelica_peale.json"
+  },
+  {
+    "id": "marguerite_verboeckhoven",
+    "name": "Маргерит Вербукховен",
+    "path": "records/marguerite_verboeckhoven.json"
+  },
+  {
+    "id": "marguerite_gerard",
+    "name": "Маргерит Жерар",
+    "path": "records/marguerite_gerard.json"
+  },
+  {
+    "id": "marie_van_regteren_altena",
+    "name": "Мари ван Регтерен Алтена",
+    "path": "records/marie_van_regteren_altena.json"
+  },
+  {
+    "id": "marie_de_bievre",
+    "name": "Мари де Бьевр",
+    "path": "records/marie_de_bievre.json"
+  },
+  {
+    "id": "marie_cazin",
+    "name": "Мари Казен",
+    "path": "records/marie_cazin.json"
+  },
+  {
+    "id": "marie_collart",
+    "name": "Мари Коллар",
+    "path": "records/marie_collart.json"
+  },
+  {
+    "id": "marie_kroyer",
+    "name": "Мари Крёйер",
+    "path": "records/marie_kroyer.json"
+  },
+  {
+    "id": "marie_luplau",
+    "name": "Мари Луплау",
+    "path": "records/marie_luplau.json"
+  },
+  {
+    "id": "marie_antoinette_marcotte",
+    "name": "Мари-Антуанетта Маркотт",
+    "path": "records/marie_antoinette_marcotte.json"
+  },
+  {
+    "id": "marie_victoire_lemoine",
+    "name": "Мари-Виктуар Лемуан",
+    "path": "records/marie_victoire_lemoine.json"
+  },
+  {
+    "id": "marie_gabrielle_capet",
+    "name": "Мари-Габриэль Капе",
+    "path": "records/marie_gabrielle_capet.json"
+  },
+  {
+    "id": "marie_guillemine_benoist",
+    "name": "Мари-Гийемин Бенуа",
+    "path": "records/marie_guillemine_benoist.json"
+  },
+  {
+    "id": "marie_denise_villers",
+    "name": "Мари-Дениз Виллер",
+    "path": "records/marie_denise_villers.json"
+  },
+  {
+    "id": "marianne_stokes",
+    "name": "Марианна Стокс",
+    "path": "records/marianne_stokes.json"
+  },
+  {
+    "id": "marinus_van_reymerswale",
+    "name": "Маринус ван Реймерсвале",
+    "path": "records/marinus_van_reymerswale.json"
+  },
+  {
+    "id": "mario_balassi",
+    "name": "Марио Баласси",
+    "path": "records/mario_balassi.json"
+  },
+  {
+    "id": "mariotto_albertinelli",
+    "name": "Мариотто Альбертинелли",
+    "path": "records/mariotto_albertinelli.json"
+  },
+  {
+    "id": "marie_bashkirtseff",
+    "name": "Мария Башкирцева",
+    "path": "records/marie_bashkirtseff.json"
+  },
+  {
+    "id": "maria_van_oosterwijck",
+    "name": "Мария ван Остервейк",
+    "path": "records/maria_van_oosterwijck.json"
+  },
+  {
+    "id": "maria_wiik",
+    "name": "Мария Виик",
+    "path": "records/maria_wiik.json"
+  },
+  {
+    "id": "maria_margaretha_van_os",
+    "name": "Мария Маргарета ван Ос",
+    "path": "records/maria_margaretha_van_os.json"
+  },
+  {
+    "id": "maria_oakey_dewing",
+    "name": "Мария Оуки Дьюинг",
+    "path": "records/maria_oakey_dewing.json"
+  },
+  {
+    "id": "maria_sibylla_merian",
+    "name": "Мария Сибилла Мериан",
+    "path": "records/maria_sibylla_merian.json"
+  },
+  {
+    "id": "marie_spartali_stillman",
+    "name": "Мария Спартали Стиллман",
+    "path": "records/marie_spartali_stillman.json"
+  },
+  {
+    "id": "marie_ellenrieder",
+    "name": "Мария Элленридер",
+    "path": "records/marie_ellenrieder.json"
+  },
+  {
+    "id": "rothko",
+    "name": "Марк Ротко",
+    "path": "records/rothko.json"
+  },
+  {
+    "id": "chagall",
+    "name": "Марк Шагал",
+    "path": "records/chagall.json"
+  },
+  {
+    "id": "marco_basaiti",
+    "name": "Марко Базаити",
+    "path": "records/marco_basaiti.json"
+  },
+  {
+    "id": "marco_d_oggiono",
+    "name": "Марко д’Оджоно",
+    "path": "records/marco_d_oggiono.json"
+  },
+  {
+    "id": "marco_palmezzano",
+    "name": "Марко Пальмеццано",
+    "path": "records/marco_palmezzano.json"
+  },
+  {
+    "id": "marco_ricci",
+    "name": "Марко Риччи",
+    "path": "records/marco_ricci.json"
+  },
+  {
+    "id": "marthe_donas",
+    "name": "Марта Донас",
+    "path": "records/marthe_donas.json"
+  },
+  {
+    "id": "maerten_van_heemskerck",
+    "name": "Мартен ван Хемскерк",
+    "path": "records/maerten_van_heemskerck.json"
+  },
+  {
+    "id": "martinus_rorbye",
+    "name": "Мартинус Рёрбю",
+    "path": "records/martinus_rorbye.json"
+  },
+  {
+    "id": "maruyama_okyo",
+    "name": "Маруяма Окё",
+    "path": "records/maruyama_okyo.json"
+  },
+  {
+    "id": "massimo_stanzione",
+    "name": "Массимо Станционе",
+    "path": "records/massimo_stanzione.json"
+  },
+  {
+    "id": "kota_master_a",
+    "name": "Мастер Кота A",
+    "path": "records/kota_master_a.json"
+  },
+  {
+    "id": "master_of_the_holy_blood",
+    "name": "Мастер Святой Крови",
+    "path": "records/master_of_the_holy_blood.json"
+  },
+  {
+    "id": "matteo_di_giovanni",
+    "name": "Маттео ди Джованни",
+    "path": "records/matteo_di_giovanni.json"
+  },
+  {
+    "id": "matteo_rosselli",
+    "name": "Маттео Росселли",
+    "path": "records/matteo_rosselli.json"
+  },
+  {
+    "id": "mattia_preti",
+    "name": "Маттиа Прети",
+    "path": "records/mattia_preti.json"
+  },
+  {
+    "id": "matthias_stom",
+    "name": "Маттиас Стом",
+    "path": "records/matthias_stom.json"
+  },
+  {
+    "id": "matsumura_goshun",
+    "name": "Мацумура Госюн",
+    "path": "records/matsumura_goshun.json"
+  },
+  {
+    "id": "mabel_hill",
+    "name": "Мейбл Хилл",
+    "path": "records/mabel_hill.json"
+  },
+  {
+    "id": "meindert_hobbema",
+    "name": "Мейндерт Хоббема",
+    "path": "records/meindert_hobbema.json"
+  },
+  {
+    "id": "michelangelo",
+    "name": "Микеланджело Буонарроти",
+    "path": "records/michelangelo.json"
+  },
+  {
+    "id": "michele_marieschi",
+    "name": "Микеле Мариески",
+    "path": "records/michele_marieschi.json"
+  },
+  {
+    "id": "michele_tosini",
+    "name": "Микеле Тозини",
+    "path": "records/michele_tosini.json"
+  },
+  {
+    "id": "mina_arndt",
+    "name": "Мина Арндт",
+    "path": "records/mina_arndt.json"
+  },
+  {
+    "id": "vrubel",
+    "name": "Михаил Врубель",
+    "path": "records/vrubel.json"
+  },
+  {
+    "id": "larionov",
+    "name": "Михаил Ларионов",
+    "path": "records/larionov.json"
+  },
+  {
+    "id": "michaelina_wautier",
+    "name": "Михаэлина Ваутье",
+    "path": "records/michaelina_wautier.json"
+  },
+  {
+    "id": "maude_burge",
+    "name": "Мод Бёрдж",
+    "path": "records/maude_burge.json"
+  },
+  {
+    "id": "maud_sherwood",
+    "name": "Мод Шервуд",
+    "path": "records/maud_sherwood.json"
+  },
+  {
+    "id": "moyses_van_wtenbrouck",
+    "name": "Мозес ван Эйтенбрук",
+    "path": "records/moyses_van_wtenbrouck.json"
+  },
+  {
+    "id": "mokuan_reien",
+    "name": "Мокуан Рэйэн",
+    "path": "records/mokuan_reien.json"
+  },
+  {
+    "id": "moretto_da_brescia",
+    "name": "Моретто да Брешиа",
+    "path": "records/moretto_da_brescia.json"
+  },
+  {
+    "id": "muqi_fachang",
+    "name": "Муци Фачан",
+    "path": "records/muqi_fachang.json"
+  },
+  {
+    "id": "mary_beale",
+    "name": "Мэри Бил",
+    "path": "records/mary_beale.json"
+  },
+  {
+    "id": "mary_blood_mellen",
+    "name": "Мэри Блад Меллен",
+    "path": "records/mary_blood_mellen.json"
+  },
+  {
+    "id": "mary_cassatt",
+    "name": "Мэри Кассат",
+    "path": "records/mary_cassatt.json"
+  },
+  {
+    "id": "mary_lizzie_macomber",
+    "name": "Мэри Лиззи Макомбер",
+    "path": "records/mary_lizzie_macomber.json"
+  },
+  {
+    "id": "mary_moser",
+    "name": "Мэри Мозер",
+    "path": "records/mary_moser.json"
+  },
+  {
+    "id": "mary_fairchild_macmonnies_low",
+    "name": "Мэри Фэрчайлд Макмоннис Лоу",
+    "path": "records/mary_fairchild_macmonnies_low.json"
+  },
+  {
+    "id": "mary_hiester_reid",
+    "name": "Мэри Хистер Рид",
+    "path": "records/mary_hiester_reid.json"
+  },
+  {
+    "id": "nainsukh",
+    "name": "Найнсукх",
+    "path": "records/nainsukh.json"
+  },
+  {
+    "id": "nasiruddin",
+    "name": "Насируддин",
+    "path": "records/nasiruddin.json"
+  },
+  {
+    "id": "goncharova",
+    "name": "Наталья Гончарова",
+    "path": "records/goncharova.json"
+  },
+  {
+    "id": "ni_zan",
+    "name": "Ни Цзань",
+    "path": "records/ni_zan.json"
+  },
+  {
+    "id": "niju",
+    "name": "Ниджу",
+    "path": "records/niju.json"
+  },
+  {
+    "id": "nicolas_de_largilliere",
+    "name": "Никола де Ларжильер",
+    "path": "records/nicolas_de_largilliere.json"
+  },
+  {
+    "id": "nicolas_lancret",
+    "name": "Никола Ланкре",
+    "path": "records/nicolas_lancret.json"
+  },
+  {
+    "id": "nicolas_poussin",
+    "name": "Никола Пуссен",
+    "path": "records/nicolas_poussin.json"
+  },
+  {
+    "id": "nicolas_regnier",
+    "name": "Никола Ренье",
+    "path": "records/nicolas_regnier.json"
+  },
+  {
+    "id": "nicolas_tournier",
+    "name": "Никола Турнье",
+    "path": "records/nicolas_tournier.json"
+  },
+  {
+    "id": "nicolaes_berchem",
+    "name": "Николас Берхем",
+    "path": "records/nicolaes_berchem.json"
+  },
+  {
+    "id": "nicolaes_gillis",
+    "name": "Николас Гиллис",
+    "path": "records/nicolaes_gillis.json"
+  },
+  {
+    "id": "nicolaes_maes",
+    "name": "Николас Мас",
+    "path": "records/nicolaes_maes.json"
+  },
+  {
+    "id": "nicolaes_moeyaert",
+    "name": "Николас Мойарт",
+    "path": "records/nicolaes_moeyaert.json"
+  },
+  {
+    "id": "nicolaes_eliasz_pickenoy",
+    "name": "Николас Элиас Пикеной",
+    "path": "records/nicolaes_eliasz_pickenoy.json"
+  },
+  {
+    "id": "niels_skovgaard",
+    "name": "Нильс Сковгор",
+    "path": "records/niels_skovgaard.json"
+  },
+  {
+    "id": "noel_coypel",
+    "name": "Ноэль Куапель",
+    "path": "records/noel_coypel.json"
+  },
+  {
+    "id": "ogata_korin",
+    "name": "Огата Корин",
+    "path": "records/ogata_korin.json"
+  },
+  {
+    "id": "nerdrum",
+    "name": "Одд Нердрум",
+    "path": "records/nerdrum.json"
+  },
+  {
+    "id": "odilon_redon",
+    "name": "Одилон Редон",
+    "path": "records/odilon_redon.json"
+  }
+]

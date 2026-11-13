@@ -1,0 +1,41 @@
+{
+  "id": "mary_hiester_reid",
+  "name": "Мэри Хистер Рид",
+  "latin": "Mary Hiester Reid",
+  "life": "1854–1921",
+  "tag": "США и Канада · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-117.js",
+  "existing": {
+    "bio": [
+      "Американская по рождению канадская художница, известная цветочными натюрмортами.",
+      "Работа стала важным этапом её музейного признания и академической карьеры."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Сведения и вопросы основаны на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как цветы выступают из тёмного фона?",
+    "caution": "Не подменять Chrysanthemums: A Japanese Arrangement около 1895 или вазой Qing 1892. Покупка RCA в 1892 и дар галерее в 1893 — разные этапы.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.gallery.ca/collection/artwork/chrysanthemums"
+    },
+    {
+      "title": "История работы",
+      "url": "https://artbooks.artcanada.com/mary-hiester-reid/key-works/chrysanthemums"
+    },
+    {
+      "title": "Кредит и номер",
+      "url": "https://artbooks.artcanada.com/mary-hiester-reid/credits"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

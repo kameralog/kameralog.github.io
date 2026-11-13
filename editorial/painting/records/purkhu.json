@@ -1,0 +1,35 @@
+{
+  "id": "purkhu",
+  "name": "Пуркху",
+  "latin": "Purkhu of Kangra",
+  "life": "работал ок. 1780–1820",
+  "tag": "Пахари · Кангра",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "При Сансар-Чанде в Кангре существовала большая мастерская, вероятно под руководством Пуркху. Она писала жизнь двора и многочисленные религиозные серии."
+    ],
+    "technique": [
+      "Каталог подчёркивает усложнённые повествовательные пейзажи. Сан-Диего указывает Радху и посланницу около 1820 за Пуркху; другие музеи сохраняют оговорку о мастерской."
+    ],
+    "innovation": "Имя руководителя мастерской не означает, что каждый связанный с ней лист написан лично им.",
+    "caution": "Пока без встроенного изображения: конкретный файл не проверен. Не присваиваем Пуркху без оговорки Раму и золотую статую Ситы, приписываемые мастеру и его мастерской.",
+    "editorialStatus": "text_only_image_verification_pending"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://www.sdmart.org/exhibition/arts-of-south-and-southeast-asia/"
+    },
+    {
+      "title": "Met: Wonder of the Age, исследовательский каталог",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Wonder_of_the_Age_Master_Painters_of_India_1100_1900.pdf"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

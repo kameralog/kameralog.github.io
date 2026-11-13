@@ -1,0 +1,43 @@
+{
+  "id": "henri_de_toulouse_lautrec",
+  "name": "Анри де Тулуз-Лотрек",
+  "latin": "Henri de Toulouse-Lautrec",
+  "life": "1864–1901",
+  "tag": "Франция · постимпрессионизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Тулуз-Лотрек был связан с Мулен Руж с открытия в 1889. На картине изображены завсегдатаи, исполнители и сам художник в глубине."
+    ],
+    "technique": [
+      "Резко освещённое зеленоватое лицо Мэй Милтон и обрезанные фигуры создают напряжённый современный интерьер."
+    ],
+    "innovation": "Развлекательный мир показан через необычный цвет и композиционный срез, не как нейтральная фотография.",
+    "caution": "Это живописная картина Чикаго 1892–1895, не Танец в Мулен Руж из Филадельфии и не литография. Правая часть когда-то была отрезана и позднее возвращена.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Художественный институт Чикаго: В Мулен Руж",
+      "url": "https://www.artic.edu/artworks/61128/at-the-moulin-rouge"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Henri%20de%20Toulouse-Lautrec%20-%20At%20the%20Moulin%20Rouge%20-%20Google%20Art%20Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide20:lautrec",
+      "title": "В Мулен Руж",
+      "date": "1892–1895",
+      "museum": "Художественный институт Чикаго",
+      "source": "https://www.artic.edu/artworks/61128/at-the-moulin-rouge"
+    }
+  ],
+  "pendingWorksCount": 0
+}

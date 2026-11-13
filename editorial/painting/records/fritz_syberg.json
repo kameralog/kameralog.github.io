@@ -1,0 +1,37 @@
+{
+  "id": "fritz_syberg",
+  "name": "Фриц Сюберг",
+  "latin": "Fritz Syberg",
+  "life": "1862–1939",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский художник круга Fynboerne, ученик Кристиана Цартмана.",
+      "Работал в Сваннинге и Кертеминне; был женат на художнице Анне Сюберг."
+    ],
+    "technique": [
+      "Живопись; точные материал и основа требуют сверки",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как фигуры распределены по склону?",
+    "caution": "Не подменять The Children Bathing 1908 года или Rye Field near Svanninge 1887, KMS4219. Музейные определения лирической манеры переданы как интерпретация.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.faaborgmuseum.dk/en/art-and-artists/the-funen-painters/"
+    },
+    {
+      "title": "Связи с предыдущим батчем",
+      "url": "https://www.artiststudiomuseum.org/studio-museums/johannes-larsen-museum/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

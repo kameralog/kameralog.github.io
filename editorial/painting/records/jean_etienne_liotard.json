@@ -1,0 +1,45 @@
+{
+  "id": "jean_etienne_liotard",
+  "name": "Жан-Этьен Лиотар",
+  "latin": "Jean-Etienne Liotard",
+  "life": "XVIII век",
+  "tag": "Пастель · фактуры и семейная сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-106.js",
+  "existing": {
+    "bio": [
+      "Женщина наблюдает, как девочка обмакивает печенье в кофе с молоком; волосы девочки в бумажных папильотках.",
+      "Плотная влажная пастель передаёт блики на серебряном кофейнике и японском фарфоре, отражённых в лакированном подносе."
+    ],
+    "technique": [
+      "Пастель на бумаге, наклеенной на холст; 80 × 106 см.",
+      "На нотном листе из открытого ящика есть подпись и дата: Liotard / a lion / 1754, то есть «Лиотар, в Лионе, 1754»."
+    ],
+    "innovation": "Учебный ракурс — деликатный материал позволяет передавать сложные отражения и фактуры предметов внутри бытовой сцены.",
+    "caution": "Лиотар родился в Женеве; не называем его французом только из-за места работы. Автор называл фигуры матерью и дочерью, но музей считает вероятными племянницу и одну из её племянниц. Выбрана пастель 1754 года NG6685, не масляное повторение 1773 года из частного собрания.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Завтрак семьи Лавернь",
+      "url": "https://www.nationalgallery.org.uk/paintings/jean-etienne-liotard-the-lavergne-family-breakfast"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Etienne_Liotard_-_Le_petit_d%C3%A9jeuner_de_la_famille_Lavergne_%281754%29.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG6685",
+      "title": "Завтрак семьи Лавернь",
+      "date": "1754",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/jean-etienne-liotard-the-lavergne-family-breakfast"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jessica_hayllar",
+  "name": "Джессика Хейллар",
+  "latin": "Jessica Hayllar",
+  "life": "1858–1940",
+  "tag": "Британская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-115.js",
+  "existing": {
+    "bio": [
+      "Училась у отца, Джеймса Хейллара; писала семейные и домашние сцены.",
+      "Дверные проёмы и переходы между помещениями часто служили композиционным мотивом её работ."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Материал и сюжет сверены по источникам; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как проёмы создают глубину?",
+    "caution": "Не смешивать с A Coming Event 1886 года и другими работами серии. Историческая Forbes Collection не объявлена нынешним владельцем.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе или произведении",
+      "url": "https://en.wikipedia.org/wiki/Jessica_Hayllar"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

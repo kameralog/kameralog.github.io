@@ -1,0 +1,50 @@
+{
+  "id": "thomas_cole",
+  "name": "Томас Коул",
+  "latin": "Thomas Cole",
+  "life": "1801–1848",
+  "tag": "США · школа реки Гудзон",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Коул писал не только дикую природу, но и идеализированные сельские виды. Наблюдения в путешествиях перерабатывались в мастерской."
+    ],
+    "technique": [
+      "Пейзаж Новой Англии соединяет церковный шпиль, земледелие и низкое солнце. В Ниагаре заводы и гостиницы намеренно исключены."
+    ],
+    "innovation": "Пейзаж выражает представления о национальной истории и промышленном изменении, а не нейтрально фиксирует местность.",
+    "caution": "Музей критикует миф об исчезающих коренных народах в Ниагаре. Идеализация природы не должна стирать колонизацию и утрату суверенитета.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: New England Scenery",
+      "url": "https://www.artic.edu/artworks/57163"
+    },
+    {
+      "title": "Art Institute of Chicago: Distant View of Niagara Falls",
+      "url": "https://www.artic.edu/artworks/90048"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:57163",
+      "title": "Пейзаж Новой Англии",
+      "date": "1839",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/57163"
+    },
+    {
+      "key": "aic:90048",
+      "title": "Дальний вид Ниагарского водопада",
+      "date": "1830",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/90048"
+    }
+  ],
+  "pendingWorksCount": 0
+}

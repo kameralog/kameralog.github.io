@@ -1,0 +1,37 @@
+{
+  "id": "louisa_anne_meredith",
+  "name": "Луиза Энн Мередит",
+  "latin": "Louisa Anne Meredith",
+  "life": "1812–1895",
+  "tag": "Австралийская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-118.js",
+  "existing": {
+    "bio": [
+      "Британская по рождению писательница и художница, переехавшая в Австралию в 1839 году.",
+      "Наблюдала и изображала местную флору и фауну; работала также как книжная иллюстраторка."
+    ],
+    "technique": [
+      "Акварель на бристольском картоне; 45,7 × 34,8 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как ветви организуют лист?",
+    "caution": "По карточке работа не подписана и не датирована. Около 1860 — музейная датировка. Не путать с изданием Waratah Rhymes 1891 года.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.agsa.sa.gov.au/collection-publications/collection/works/tasmanian-waratah/23229/"
+    },
+    {
+      "title": "Писательница и иллюстраторка",
+      "url": "https://www.sl.nsw.gov.au/stories/australian-inspiration"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

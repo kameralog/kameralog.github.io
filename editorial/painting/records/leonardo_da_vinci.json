@@ -1,0 +1,43 @@
+{
+  "id": "leonardo_da_vinci",
+  "name": "Леонардо да Винчи",
+  "latin": "Leonardo da Vinci",
+  "life": "1452–1519",
+  "tag": "Италия · Высокое Возрождение",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-16.js",
+  "existing": {
+    "bio": [
+      "Леонардо начал карьеру во Флоренции, а в начале 1480-х предложил услуги миланским Сфорца. Заказ Мадонны в скалах связан с братством Непорочного зачатия в Сан-Франческо-Гранде."
+    ],
+    "technique": [
+      "Масло на тополевой доске. Сфумато — мягкое растворение краёв в тени; воздушная перспектива — более холодные, голубые и размытые дальние формы."
+    ],
+    "innovation": "Объём и расстояние передаются не только контуром и геометрией, но также переходами света, цвета и резкости.",
+    "caution": "Показана лондонская версия, не луврская. Работа велась этапами. Не называем растения точными ботаническими зарисовками: музей отмечает вымышленные гибриды.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: произведение и разбор",
+      "url": "https://www.nationalgallery.org.uk/paintings/leonardo-da-vinci-the-virgin-of-the-rocks"
+    },
+    {
+      "title": "Репродукция: сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20Virgin%20of%20the%20Rocks%20(National%20Gallery%20London).jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG1093",
+      "title": "Мадонна в скалах — лондонская версия",
+      "date": "ок. 1491/1492–1499 и 1506–1508",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/leonardo-da-vinci-the-virgin-of-the-rocks"
+    }
+  ],
+  "pendingWorksCount": 0
+}

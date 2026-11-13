@@ -1,0 +1,51 @@
+{
+  "id": "manuel_panselinos",
+  "name": "Мануил Панселин",
+  "latin": "Manuel Panselinos",
+  "life": "конец XIII — начало XIV века; личность дискуссионна",
+  "tag": "Византия · Афон · традиционная атрибуция",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-15.js",
+  "existing": {
+    "bio": [
+      "Имя традиционно связывают с росписями Протата в Карее. Macedonian Heritage датирует ансамбль около 1300 и прямо оговаривает приписывание, а не подписное авторство."
+    ],
+    "technique": [
+      "Фресковый ансамбль трёхнефной базилики соединяет множество сцен и выразительных фигур. Выбранное Введение Богородицы — часть росписи, не отдельная икона."
+    ],
+    "innovation": "Богатство повествования и человеческой выразительности характеризует памятник. Авторство всех решений одного установленного мастера не доказано.",
+    "caution": "Это страница об ансамбле и традиции атрибуции, не восстановленная биография. Гипотезу отождествления с Иоанном Астрапасом не принимаем за окончательный факт. Даты и авторство дискуссионны.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной источник",
+      "url": "https://www.macedonian-heritage.gr/HellenicMacedonia/en/C2.A.3.1.html"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Presentation%20of%20Mary%20of%20Protat.jpg"
+    },
+    {
+      "title": "Man or Metaphor? Исторические свидетельства",
+      "url": "https://www.academia.edu/1601660/Man_or_Metaphor_Manuel_Panselinos_and_the_Protaton_Frescoes"
+    },
+    {
+      "title": "Artnet: гипотеза идентификации, 2024",
+      "url": "https://news.artnet.com/art-world/manuel-panselinos-identity-manuscript-murals-2582576"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide:manuel_panselinos",
+      "title": "Введение Богородицы во храм — традиционно приписывается Панселину",
+      "date": "ок. 1300; атрибуция дискуссионна",
+      "museum": "Протат, Карея, Афон",
+      "source": "https://www.macedonian-heritage.gr/HellenicMacedonia/en/C2.A.3.1.html"
+    }
+  ],
+  "pendingWorksCount": 0
+}

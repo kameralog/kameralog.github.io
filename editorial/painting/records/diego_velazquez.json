@@ -1,0 +1,50 @@
+{
+  "id": "diego_velazquez",
+  "name": "Диего Веласкес",
+  "latin": "Diego Velázquez",
+  "life": "1599–1660",
+  "tag": "Испания · барокко",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-17.js",
+  "existing": {
+    "bio": [
+      "Две ранние работы позволяют не сводить Веласкеса к придворному портрету. Иоанн Креститель недавно признан работой молодого мастера после прежней атрибуции неизвестному севильцу."
+    ],
+    "technique": [
+      "Масло на холсте. В Иоанне музей отмечает более идеализированную фигуру, чем в самых ранних работах, и допускает связь с итальянскими образцами, увиденными в Мадриде."
+    ],
+    "innovation": "Художник меняет подход к фигуре в зависимости от задачи и опыта знакомства с другими школами. Одна ранняя картина не описывает всю позднюю придворную манеру.",
+    "caution": "Связь Иоанна с поездкой в Мадрид в 1622 — предположение музея. У Кухонной сцены в приложенной записи нет подробного описания: не приписываем ей неподтверждённый рассказ.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Kitchen Scene",
+      "url": "https://www.artic.edu/artworks/21934"
+    },
+    {
+      "title": "Art Institute of Chicago: Saint John the Baptist in the Wilderness",
+      "url": "https://www.artic.edu/artworks/6831"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:21934",
+      "title": "Кухонная сцена",
+      "date": "1618–20",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/21934"
+    },
+    {
+      "key": "aic:6831",
+      "title": "Иоанн Креститель в пустыне",
+      "date": "c. 1622",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/6831"
+    }
+  ],
+  "pendingWorksCount": 0
+}

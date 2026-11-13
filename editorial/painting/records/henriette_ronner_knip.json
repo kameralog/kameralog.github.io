@@ -1,0 +1,49 @@
+{
+  "id": "henriette_ronner_knip",
+  "name": "Генриетта Роннер-Книп",
+  "latin": "Henriëtte Ronner-Knip",
+  "life": "1821–1909",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-122.js",
+  "existing": {
+    "bio": [
+      "Нидерландско-бельгийская художница, известная изображениями домашних животных.",
+      "В этой сцене котёнок играет костяшками домино рядом с пепельницей и сигарой."
+    ],
+    "technique": [
+      "Масло на деревянной основе; 32,8 × 45,2 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как котёнок взаимодействует с предметами?",
+    "caution": "Не путать с Генриеттой Гертрёйдой Книп. 12,3 см — внешний размер с рамой, 1,8 см — толщина основы по описанию файла.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Katjesspel--1515cc2ee8fb37b57df7c4e24a0648e9"
+    },
+    {
+      "title": "Биография и различение авторов",
+      "url": "https://nl.wikipedia.org/wiki/Henri%C3%ABtte_Ronner-Knip"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Katjesspel%2C_SK-A-3089.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "henriette_ronner_knip_selected",
+      "title": "Играющая кошка",
+      "date": "около 1860–1878",
+      "museum": "Rijksmuseum",
+      "source": "https://www.rijksmuseum.nl/en/collection/object/Katjesspel--1515cc2ee8fb37b57df7c4e24a0648e9"
+    }
+  ],
+  "pendingWorksCount": 0
+}

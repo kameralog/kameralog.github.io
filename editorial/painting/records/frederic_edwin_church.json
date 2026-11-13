@@ -1,0 +1,47 @@
+{
+  "id": "frederic_edwin_church",
+  "name": "Фредерик Эдвин Чёрч",
+  "latin": "Frederic Edwin Church",
+  "life": "1826–1900",
+  "tag": "США · школа реки Гудзон",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Ниагара 1857 стала сенсацией однокартинной выставки. Перед работой в мастерской Чёрч неоднократно изучал водопад с разных точек."
+    ],
+    "technique": [
+      "Убрав передний план и совместив несколько перспектив, художник создаёт ощущение пребывания над падающей водой."
+    ],
+    "innovation": "Панорама достигает убедительности через конструкцию: такую совмещённую точку зрения нельзя буквально увидеть одним взглядом.",
+    "caution": "Это Ниагара 1857 из NGA, не Ниагара с американской стороны из Шотландии. Место связано и с историей хауденосауни, и с путями освобождения из рабства.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея искусства, Вашингтон: Ниагара",
+      "url": "https://www.nga.gov/artworks/166436-niagara"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Frederic%20Edwin%20Church%2C%20Niagara%2C%201857%2C%20NGA%20166436.jpg"
+    },
+    {
+      "title": "NGA: история создания",
+      "url": "https://www.nga.gov/stories/articles/19th-century-blockbuster-frederic-edwin-churchs-niagara"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide19:church",
+      "title": "Ниагара",
+      "date": "1857",
+      "museum": "Национальная галерея искусства, Вашингтон",
+      "source": "https://www.nga.gov/artworks/166436-niagara"
+    }
+  ],
+  "pendingWorksCount": 0
+}

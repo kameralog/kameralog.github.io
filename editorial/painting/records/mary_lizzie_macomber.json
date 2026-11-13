@@ -1,0 +1,37 @@
+{
+  "id": "mary_lizzie_macomber",
+  "name": "Мэри Лиззи Макомбер",
+  "latin": "Mary Lizzie Macomber",
+  "life": "1861–1916",
+  "tag": "США и Канада · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-117.js",
+  "existing": {
+    "bio": [
+      "Американская художница аллегорических композиций, связанная с бостонской средой.",
+      "Исследователи сопоставляют её фигуративную живопись с английскими прерафаэлитами."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Сведения и вопросы основаны на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как связаны две фигуры?",
+    "caution": "Музей даёт 76,2 × 63,2 см, Commons — 114,3 × 102,2 см. Причина не установлена; нельзя молча считать вторые размеры рамой. Религиозная трактовка — интерпретация исследователя.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://americanart.si.edu/artwork/night-and-her-daughter-sleep-15480"
+    },
+    {
+      "title": "Исследовательская интерпретация",
+      "url": "https://www.themagazineantiques.com/article/were-no-angels-women-and-allegory-in-the-art-of-mary-lizzie-macomber/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

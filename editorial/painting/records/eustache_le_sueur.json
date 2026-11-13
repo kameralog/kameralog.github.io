@@ -1,0 +1,45 @@
+{
+  "id": "eustache_le_sueur",
+  "name": "Эсташ Лесюэр",
+  "latin": "Eustache Le Sueur",
+  "life": "XVII век",
+  "tag": "Жесты · различение версий",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-102.js",
+  "existing": {
+    "bio": [
+      "Мария и Иоанн Евангелист находятся у креста; напротив них преклоняется Мария Магдалина со сложенными в молитве руками.",
+      "Музей связывает момент с евангельским рассказом Иоанна о словах Христа перед смертью."
+    ],
+    "technique": [
+      "Техника и размеры здесь не установлены; не заполняем их по аналогии с другими версиями.",
+      "Музей выделяет выражение переживания через лица и жесты рук как отличительную черту Лесюэра по сравнению с Вуэ."
+    ],
+    "innovation": "Учебный ракурс — сопоставлять выразительность жестов и лиц, не смешивая близкие версии композиции.",
+    "caution": "Выбрана NG6548. Более ранняя версия мастерской Вуэ находится в Эрмитаже; близкая луврская картина, прежде приписанная Лесюэру, теперь относится к мастерской Вуэ. Их репродукции не подменяют выбранную работу. Иерусалим в глубине музей называет воображаемым.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Христос на кресте с Богоматерью и святыми",
+      "url": "https://www.nationalgallery.org.uk/paintings/eustache-le-sueur-christ-on-the-cross-with-the-virgin-and-saints"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Eustache_Le_Sueur_(1616-1655)_-_Christ_on_the_Cross_with_the_Magdalen,_the_Virgin_Mary_and_Saint_John_the_Evangelist_-_NG6548_-_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG6548",
+      "title": "Христос на кресте с Богоматерью и святыми",
+      "date": "около 1643",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/eustache-le-sueur-christ-on-the-cross-with-the-virgin-and-saints"
+    }
+  ],
+  "pendingWorksCount": 0
+}

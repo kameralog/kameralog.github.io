@@ -1,0 +1,58 @@
+{
+  "id": "hasegawa_tohaku",
+  "name": "Хасэгава Тохаку",
+  "latin": "Hasegawa Tōhaku",
+  "life": "1539–1610",
+  "tag": "Момояма · тушевая живопись",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Тохаку исследовал выразительность туши и света. Сосны соединяют японскую пейзажную тему с воспринятыми им принципами южносунского Муци."
+    ],
+    "technique": [
+      "Густой туман создаёт глубину, чёрные тени деревьев сменяются светлыми исчезающими формами. Бумажная пустота активно участвует в пространстве."
+    ],
+    "innovation": "Разная плотность туши делает ограниченные средства носителями воздуха, света и зрительского присутствия.",
+    "caution": "Это две ширмы одного ансамбля, не два независимых заказа. Не подменяем парой один увеличенный фрагмент. Точная дата не установлена: XVI век.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Токийский национальный музей: Сосны — левая ширма",
+      "url": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100151&content_part_id=0&content_pict_id=0"
+    },
+    {
+      "title": "Токийский национальный музей: Сосны — правая ширма",
+      "url": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100151&content_part_id=0&content_pict_id=0"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Hasegawa%20Tohaku%20-%20Pine%20Trees%20(Sh%C5%8Drin-zu%20by%C5%8Dbu)%20-%20left%20hand%20screen.jpg"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Hasegawa%20Tohaku%20-%20Pine%20Trees%20(Sh%C5%8Drin-zu%20by%C5%8Dbu)%20-%20right%20hand%20screen.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide23:tohaku_left",
+      "title": "Сосны — левая ширма",
+      "date": "XVI век; точная дата не установлена",
+      "museum": "Токийский национальный музей",
+      "source": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100151&content_part_id=0&content_pict_id=0"
+    },
+    {
+      "key": "guide23:tohaku_right",
+      "title": "Сосны — правая ширма",
+      "date": "XVI век; точная дата не установлена",
+      "museum": "Токийский национальный музей",
+      "source": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100151&content_part_id=0&content_pict_id=0"
+    }
+  ],
+  "pendingWorksCount": 0
+}

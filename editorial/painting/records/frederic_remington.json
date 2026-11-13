@@ -1,0 +1,50 @@
+{
+  "id": "frederic_remington",
+  "name": "Фредерик Ремингтон",
+  "latin": "Frederic Remington",
+  "life": "1861–1909",
+  "tag": "США · реализм и миф фронтира",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Ремингтон путешествовал за материалом, но большинство картин создавал в нью-йоркской мастерской для восточной американской аудитории."
+    ],
+    "technique": [
+      "Динамичная композиция, выразительный силуэт всадника и отобранные детали делают сцену убедительной иллюстрацией."
+    ],
+    "innovation": "Натурный материал соединён с конструированием мифа Запада. Популярное изображение не равно беспристрастной истории.",
+    "caution": "Музей подчёркивает колониальную перспективу военных сцен. Не принимаем изображение столкновения за нейтральное свидетельство; гравюра по картине — отдельный объект.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: A Mexican Vaquero",
+      "url": "https://www.artic.edu/artworks/97907"
+    },
+    {
+      "title": "Art Institute of Chicago: The Advance-Guard, or The Military Sacrifice (The Ambush)",
+      "url": "https://www.artic.edu/artworks/97910"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:97907",
+      "title": "A Mexican Vaquero",
+      "date": "1890",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/97907"
+    },
+    {
+      "key": "aic:97910",
+      "title": "The Advance-Guard, or The Military Sacrifice (The Ambush)",
+      "date": "1890",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/97910"
+    }
+  ],
+  "pendingWorksCount": 0
+}

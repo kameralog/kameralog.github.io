@@ -1,0 +1,482 @@
+[
+  {
+    "id": "zhou_fang",
+    "name": "Чжоу Фан",
+    "path": "records/zhou_fang.json"
+  },
+  {
+    "id": "cima_da_conegliano",
+    "name": "Чима да Конельяно",
+    "path": "records/cima_da_conegliano.json"
+  },
+  {
+    "id": "cimabue",
+    "name": "Чимабуэ",
+    "path": "records/cimabue.json"
+  },
+  {
+    "id": "jeong_seon",
+    "name": "Чон Сон",
+    "path": "records/jeong_seon.json"
+  },
+  {
+    "id": "chen_hongshou",
+    "name": "Чэнь Хуншоу",
+    "path": "records/chen_hongshou.json"
+  },
+  {
+    "id": "charles_de_la_fosse",
+    "name": "Шарль де Лафосс",
+    "path": "records/charles_de_la_fosse.json"
+  },
+  {
+    "id": "charles_le_brun",
+    "name": "Шарль Лебрен",
+    "path": "records/charles_le_brun.json"
+  },
+  {
+    "id": "charles_meynier",
+    "name": "Шарль Мейнье",
+    "path": "records/charles_meynier.json"
+  },
+  {
+    "id": "shaikh_zainuddin",
+    "name": "Шейх Зайн-уд-Дин",
+    "path": "records/shaikh_zainuddin.json"
+  },
+  {
+    "id": "sheikh_taju",
+    "name": "Шейх Таджу",
+    "path": "records/sheikh_taju.json"
+  },
+  {
+    "id": "shitao",
+    "name": "Шитао",
+    "path": "records/shitao.json"
+  },
+  {
+    "id": "shen_zhou",
+    "name": "Шэнь Чжоу",
+    "path": "records/shen_zhou.json"
+  },
+  {
+    "id": "evelyn_de_morgan",
+    "name": "Эвелин де Морган",
+    "path": "records/evelyn_de_morgan.json"
+  },
+  {
+    "id": "egbert_van_der_poel",
+    "name": "Эгберт ван дер Пул",
+    "path": "records/egbert_van_der_poel.json"
+  },
+  {
+    "id": "eglon_hendrik_van_der_neer",
+    "name": "Эглон Хендрик ван дер Нер",
+    "path": "records/eglon_hendrik_van_der_neer.json"
+  },
+  {
+    "id": "schiele",
+    "name": "Эгон Шиле",
+    "path": "records/schiele.json"
+  },
+  {
+    "id": "munch",
+    "name": "Эдвард Мунк",
+    "path": "records/munch.json"
+  },
+  {
+    "id": "hopper",
+    "name": "Эдвард Хоппер",
+    "path": "records/hopper.json"
+  },
+  {
+    "id": "degas",
+    "name": "Эдгар Дега",
+    "path": "records/degas.json"
+  },
+  {
+    "id": "edith_collier",
+    "name": "Эдит Коллиер",
+    "path": "records/edith_collier.json"
+  },
+  {
+    "id": "edith_hayllar",
+    "name": "Эдит Хейллар",
+    "path": "records/edith_hayllar.json"
+  },
+  {
+    "id": "manet",
+    "name": "Эдуар Мане",
+    "path": "records/manet.json"
+  },
+  {
+    "id": "eugene_delacroix",
+    "name": "Эжен Делакруа",
+    "path": "records/eugene_delacroix.json"
+  },
+  {
+    "id": "eleanor_fortescue_brickdale",
+    "name": "Элеонора Фортескью-Брикдейл",
+    "path": "records/eleanor_fortescue_brickdale.json"
+  },
+  {
+    "id": "elisa_de_gamond",
+    "name": "Элиза де Гамонд",
+    "path": "records/elisa_de_gamond.json"
+  },
+  {
+    "id": "elizabeth_butler",
+    "name": "Элизабет Батлер",
+    "path": "records/elizabeth_butler.json"
+  },
+  {
+    "id": "elizabeth_jane_gardner",
+    "name": "Элизабет Джейн Гарднер",
+    "path": "records/elizabeth_jane_gardner.json"
+  },
+  {
+    "id": "elisabeth_jerichau_baumann",
+    "name": "Элизабет Йерихау-Бауман",
+    "path": "records/elisabeth_jerichau_baumann.json"
+  },
+  {
+    "id": "elisabeth_louise_vigee_le_brun",
+    "name": "Элизабет Луиза Виже-Лебрен",
+    "path": "records/elisabeth_louise_vigee_le_brun.json"
+  },
+  {
+    "id": "elizabeth_nourse",
+    "name": "Элизабет Нурс",
+    "path": "records/elizabeth_nourse.json"
+  },
+  {
+    "id": "elizabeth_forbes",
+    "name": "Элизабет Форбс",
+    "path": "records/elizabeth_forbes.json"
+  },
+  {
+    "id": "elisabeth_sophie_cheron",
+    "name": "Элизабет-Софи Шерон",
+    "path": "records/elisabeth_sophie_cheron.json"
+  },
+  {
+    "id": "elisabetta_sirani",
+    "name": "Элизабетта Сирани",
+    "path": "records/elisabetta_sirani.json"
+  },
+  {
+    "id": "elin_danielson_gambogi",
+    "name": "Элин Даниельсон-Гамбоджи",
+    "path": "records/elin_danielson_gambogi.json"
+  },
+  {
+    "id": "alice_chapman",
+    "name": "Элис Чапмен",
+    "path": "records/alice_chapman.json"
+  },
+  {
+    "id": "ellen_day_hale",
+    "name": "Эллен Дэй Хейл",
+    "path": "records/ellen_day_hale.json"
+  },
+  {
+    "id": "ellen_thesleff",
+    "name": "Эллен Теслефф",
+    "path": "records/ellen_thesleff.json"
+  },
+  {
+    "id": "ellis_rowan",
+    "name": "Эллис Роуэн",
+    "path": "records/ellis_rowan.json"
+  },
+  {
+    "id": "el_greco",
+    "name": "Эль Греко",
+    "path": "records/el_greco.json"
+  },
+  {
+    "id": "lissitzky",
+    "name": "Эль Лисицкий",
+    "path": "records/lissitzky.json"
+  },
+  {
+    "id": "emily_mary_osborn",
+    "name": "Эмили Мэри Осборн",
+    "path": "records/emily_mary_osborn.json"
+  },
+  {
+    "id": "emilie_mundt",
+    "name": "Эмилия Мундт",
+    "path": "records/emilie_mundt.json"
+  },
+  {
+    "id": "emil_nolde",
+    "name": "Эмиль Нольде",
+    "path": "records/emil_nolde.json"
+  },
+  {
+    "id": "emma_lambotte",
+    "name": "Эмма Ламботт",
+    "path": "records/emma_lambotte.json"
+  },
+  {
+    "id": "emma_sandys",
+    "name": "Эмма Сэндис",
+    "path": "records/emma_sandys.json"
+  },
+  {
+    "id": "warhol",
+    "name": "Энди Уорхол",
+    "path": "records/warhol.json"
+  },
+  {
+    "id": "wyeth",
+    "name": "Эндрю Уайет",
+    "path": "records/wyeth.json"
+  },
+  {
+    "id": "anne_killigrew",
+    "name": "Энн Киллигрю",
+    "path": "records/anne_killigrew.json"
+  },
+  {
+    "id": "eni",
+    "name": "Энъи",
+    "path": "records/eni.json"
+  },
+  {
+    "id": "ercole_de_roberti",
+    "name": "Эрколе де Роберти",
+    "path": "records/ercole_de_roberti.json"
+  },
+  {
+    "id": "ernst_ludwig_kirchner",
+    "name": "Эрнст Людвиг Кирхнер",
+    "path": "records/ernst_ludwig_kirchner.json"
+  },
+  {
+    "id": "esaias_boursse",
+    "name": "Эсайас Бурсе",
+    "path": "records/esaias_boursse.json"
+  },
+  {
+    "id": "esaias_van_de_velde",
+    "name": "Эсайас ван де Велде",
+    "path": "records/esaias_van_de_velde.json"
+  },
+  {
+    "id": "eustache_le_sueur",
+    "name": "Эсташ Лесюэр",
+    "path": "records/eustache_le_sueur.json"
+  },
+  {
+    "id": "ethel_carrick",
+    "name": "Этель Кэррик",
+    "path": "records/ethel_carrick.json"
+  },
+  {
+    "id": "euphrosine_beernaert",
+    "name": "Эфрозина Бернарт",
+    "path": "records/euphrosine_beernaert.json"
+  },
+  {
+    "id": "asher_brown_durand",
+    "name": "Эшер Браун Дюранд",
+    "path": "records/asher_brown_durand.json"
+  },
+  {
+    "id": "hubert_robert",
+    "name": "Юбер Робер",
+    "path": "records/hubert_robert.json"
+  },
+  {
+    "id": "judith_leyster",
+    "name": "Юдит Лейстер",
+    "path": "records/judith_leyster.json"
+  },
+  {
+    "id": "jacob_van_ruisdael",
+    "name": "Якоб ван Рёйсдал",
+    "path": "records/jacob_van_ruisdael.json"
+  },
+  {
+    "id": "jacob_duck",
+    "name": "Якоб Дюк",
+    "path": "records/jacob_duck.json"
+  },
+  {
+    "id": "jacob_cornelisz_van_oostsanen",
+    "name": "Якоб Корнелис ван Остсанен",
+    "path": "records/jacob_cornelisz_van_oostsanen.json"
+  },
+  {
+    "id": "jacob_ochtervelt",
+    "name": "Якоб Охтервелт",
+    "path": "records/jacob_ochtervelt.json"
+  },
+  {
+    "id": "jacob_pynas",
+    "name": "Якоб Пейнас",
+    "path": "records/jacob_pynas.json"
+  },
+  {
+    "id": "jacoba_van_heemskerck",
+    "name": "Якоба ван Хемскерк",
+    "path": "records/jacoba_van_heemskerck.json"
+  },
+  {
+    "id": "jacopo_bassano",
+    "name": "Якопо Бассано",
+    "path": "records/jacopo_bassano.json"
+  },
+  {
+    "id": "jacopo_vignali",
+    "name": "Якопо Виньяли",
+    "path": "records/jacopo_vignali.json"
+  },
+  {
+    "id": "jacopo_del_sellaio",
+    "name": "Якопо дель Селлайо",
+    "path": "records/jacopo_del_sellaio.json"
+  },
+  {
+    "id": "jacopo_chimenti",
+    "name": "Якопо Кименти",
+    "path": "records/jacopo_chimenti.json"
+  },
+  {
+    "id": "jacopo_ligozzi",
+    "name": "Якопо Лигоцци",
+    "path": "records/jacopo_ligozzi.json"
+  },
+  {
+    "id": "pontormo",
+    "name": "Якопо Понтормо",
+    "path": "records/pontormo.json"
+  },
+  {
+    "id": "jan_asselijn",
+    "name": "Ян Асселейн",
+    "path": "records/jan_asselijn.json"
+  },
+  {
+    "id": "jan_both",
+    "name": "Ян Бот",
+    "path": "records/jan_both.json"
+  },
+  {
+    "id": "jan_van_goyen",
+    "name": "Ян ван Гойен",
+    "path": "records/jan_van_goyen.json"
+  },
+  {
+    "id": "jan_van_de_cappelle",
+    "name": "Ян ван де Каппелле",
+    "path": "records/jan_van_de_cappelle.json"
+  },
+  {
+    "id": "jan_van_den_hecke_the_elder",
+    "name": "Ян ван ден Хекке Старший",
+    "path": "records/jan_van_den_hecke_the_elder.json"
+  },
+  {
+    "id": "jan_van_der_heyden",
+    "name": "Ян ван дер Хейден",
+    "path": "records/jan_van_der_heyden.json"
+  },
+  {
+    "id": "jan_van_ravesteyn",
+    "name": "Ян ван Равестейн",
+    "path": "records/jan_van_ravesteyn.json"
+  },
+  {
+    "id": "jan_van_scorel",
+    "name": "Ян ван Скорел",
+    "path": "records/jan_van_scorel.json"
+  },
+  {
+    "id": "jan_van_eyck",
+    "name": "Ян ван Эйк",
+    "path": "records/jan_van_eyck.json"
+  },
+  {
+    "id": "jan_wijnants",
+    "name": "Ян Вейнантс",
+    "path": "records/jan_wijnants.json"
+  },
+  {
+    "id": "jan_verkolje",
+    "name": "Ян Верколье",
+    "path": "records/jan_verkolje.json"
+  },
+  {
+    "id": "johannes_vermeer",
+    "name": "Ян Вермеер",
+    "path": "records/johannes_vermeer.json"
+  },
+  {
+    "id": "jan_victors",
+    "name": "Ян Викторс",
+    "path": "records/jan_victors.json"
+  },
+  {
+    "id": "jan_gossart",
+    "name": "Ян Госсарт",
+    "path": "records/jan_gossart.json"
+  },
+  {
+    "id": "jan_lievens",
+    "name": "Ян Ливенс",
+    "path": "records/jan_lievens.json"
+  },
+  {
+    "id": "jan_lingelbach",
+    "name": "Ян Лингельбах",
+    "path": "records/jan_lingelbach.json"
+  },
+  {
+    "id": "jan_miense_molenaer",
+    "name": "Ян Минсе Моленар",
+    "path": "records/jan_miense_molenaer.json"
+  },
+  {
+    "id": "jan_mostaert",
+    "name": "Ян Мостарт",
+    "path": "records/jan_mostaert.json"
+  },
+  {
+    "id": "jan_pauwel_gillemans_the_elder",
+    "name": "Ян Паувел Гиллеманс Старший",
+    "path": "records/jan_pauwel_gillemans_the_elder.json"
+  },
+  {
+    "id": "jan_pynas",
+    "name": "Ян Пейнас",
+    "path": "records/jan_pynas.json"
+  },
+  {
+    "id": "jan_porcellis",
+    "name": "Ян Порселлис",
+    "path": "records/jan_porcellis.json"
+  },
+  {
+    "id": "jan_sanders_van_hemessen",
+    "name": "Ян Сандерс ван Хемессен",
+    "path": "records/jan_sanders_van_hemessen.json"
+  },
+  {
+    "id": "jan_philip_van_thielen",
+    "name": "Ян Филип ван Тилен",
+    "path": "records/jan_philip_van_thielen.json"
+  },
+  {
+    "id": "jan_jansz_den_uyl",
+    "name": "Ян Янс ден Эйл",
+    "path": "records/jan_jansz_den_uyl.json"
+  },
+  {
+    "id": "jan_jansz_treck",
+    "name": "Ян Янс Трек",
+    "path": "records/jan_jansz_treck.json"
+  }
+]

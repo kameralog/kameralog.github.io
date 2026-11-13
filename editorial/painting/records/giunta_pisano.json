@@ -1,0 +1,43 @@
+{
+  "id": "giunta_pisano",
+  "name": "Джунта Пизано",
+  "latin": "Giunta Pisano",
+  "life": "XIII век; документирован до 1254",
+  "tag": "Италия · Пиза и Умбрия · дученто",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-15.js",
+  "existing": {
+    "bio": [
+      "Treccani выделяет три сохранившихся подписных креста: в Ассизи, Болонье и Пизе. Последняя документальная дата 1254 не является датой смерти."
+    ],
+    "technique": [
+      "Темпера на деревянном кресте. Склонённая голова и изогнутое тело выражают страдание и смерть — тип Christus patiens."
+    ],
+    "innovation": "Усиление человеческого страдания продолжает византийскую традицию: Джунта не изобрёл сам тип Christus patiens.",
+    "caution": "Не смешивай выбранный сохранившийся крест с утраченным заказом брата Илии 1236 года. Хронология трёх подписных крестов спорна; дата 1240-е условна.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной источник",
+      "url": "https://www.treccani.it/enciclopedia/giunta-pisano_(Enciclopedia-dell%27-Arte-Medievale)/"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Giunta%20Pisano%20-%20Crucifix%20-%20WGA09628.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide:giunta_pisano",
+      "title": "Расписной крест из Санта-Мария-дельи-Анджели",
+      "date": "1240-е (условная датировка WGA)",
+      "museum": "Музей базилики Санта-Мария-дельи-Анджели, Ассизи",
+      "source": "https://www.treccani.it/enciclopedia/giunta-pisano_(Enciclopedia-dell%27-Arte-Medievale)/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

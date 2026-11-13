@@ -1,0 +1,33 @@
+{
+  "id": "kristian_zahrtmann",
+  "name": "Кристиан Цартман",
+  "latin": "Kristian Zahrtmann",
+  "life": "1843–1917",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский художник исторических и фигуративных композиций, влиятельный преподаватель.",
+      "Создал серию картин о Леоноре Кристине, чья судьба стала важной темой его творчества."
+    ],
+    "technique": [
+      "Масло на холсте; 113 × 120 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как устроен центр внимания в комнате?",
+    "caution": "1897 — дата выбранной картины, 1946 — приобретение. Не подменять сценами в монастыре 1882 года или изображениями заключения в Blåtårn. Музей не гарантирует постоянный показ.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://fuglsangkunstmuseum.dk/en/artikler/kristian-zahrtmann-leonora-christinas-doed-paa-maribo-kloster/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

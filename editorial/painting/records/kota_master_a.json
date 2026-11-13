@@ -1,0 +1,35 @@
+{
+  "id": "kota_master_a",
+  "name": "Мастер Кота A",
+  "latin": "Kota Master A",
+  "life": "условный корпус ранней живописи Кота",
+  "tag": "Кота · анонимный мастер и атрибуционная группа",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "Мастер Кота A — условное исследовательское обозначение, не найденное личное имя. Разные классификации ранней Кота не совпадают полностью."
+    ],
+    "technique": [
+      "В приписываемой Охоте Рам-Сингха на носорога слон и двое всадников объединены в мощную силу, а цвет сконцентрирован в убранстве животного."
+    ],
+    "innovation": "Стилистическая атрибуция может выделять художественный почерк без выдуманной биографии анонимного автора.",
+    "caution": "Пока без изображения. Работа была выставочной ссудой и возвращена владельцу; нельзя указывать Метрополитен как нынешнего собственника. Attributed to сохраняется.",
+    "editorialStatus": "text_only_attribution_group"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://www.metmuseum.org/art/collection/search/76026"
+    },
+    {
+      "title": "Met: Wonder of the Age, исследовательский каталог",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Wonder_of_the_Age_Master_Painters_of_India_1100_1900.pdf"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

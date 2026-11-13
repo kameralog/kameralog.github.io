@@ -1,0 +1,39 @@
+{
+  "id": "paolo_veronese",
+  "name": "Паоло Веронезе",
+  "latin": "Paolo Veronese",
+  "life": "1528–1588",
+  "tag": "Италия · Венеция, чинквеченто",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-10.js",
+  "existing": {
+    "bio": [
+      "В кливлендской записи Веронезе указан как итальянский мастер 1528–1588 годов."
+    ],
+    "technique": [
+      "Агостино Барбариго представлен военачальником: доспехи и поза связывают его с изображениями римских императоров."
+    ],
+    "innovation": "Портрет превращает военную биографию в образ доблести. Стрела в руке напоминает о гибели Барбариго в битве при Лепанто 7 октября 1571 года.",
+    "caution": "Дата «после около 1571» относится к портрету, а 1528–1588 — годы художника. Биографию модели не следует принимать за биографию автора.",
+    "editorialStatus": ""
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Portrait of Agostino Barbarigo",
+      "url": "https://clevelandart.org/art/1928.16"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:109507",
+      "title": "Портрет Агостино Барбариго",
+      "date": "after c. 1571",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1928.16"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nasiruddin",
+  "name": "Насируддин",
+  "latin": "Nasiruddin",
+  "life": "работал ок. 1585–1609 по каталогу Met",
+  "tag": "Мевар · Чаванд · Рагамала",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "Насируддин назван в датированном колофоне Чавандской Рагамалы 1605. Шри-рага в Smithsonian — один из листов этой серии."
+    ],
+    "technique": [
+      "Непрозрачная акварель на бумаге. Музыкальный лад олицетворён принцем с цветком, слушающим музыкантов в красном павильоне."
+    ],
+    "innovation": "Музыка, сезон, время суток и чувство переводятся в фигуративный образ: здесь зима, поздний день и любовь.",
+    "caution": "Пока без изображения: точный свободный файл не выбран. Не подменяем Шри-рагой около 1695 из Кливленда. Альбом Nasiruddin Shah XIX века — иной объект, не авторская рукопись этого мастера.",
+    "editorialStatus": "text_only_image_verification_pending"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://asia.si.edu/explore-art-culture/collections/search/edanmdm:fsg_F1991.1/"
+    },
+    {
+      "title": "Smithsonian: музыкальная программа Шри-раги",
+      "url": "https://music.si.edu/object-day/shri-raga-chawand-ragamala"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

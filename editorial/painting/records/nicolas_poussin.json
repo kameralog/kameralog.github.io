@@ -1,0 +1,43 @@
+{
+  "id": "nicolas_poussin",
+  "name": "Никола Пуссен",
+  "latin": "Nicolas Poussin",
+  "life": "1594–1665",
+  "tag": "Франция и Рим · классицизм XVII века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-17.js",
+  "existing": {
+    "bio": [
+      "Француз по происхождению и обучению, Пуссен большую часть карьеры провёл в Риме, изучая античность и работая для образованной элиты. Чикаго связывает его искусство с идеалами классицизма."
+    ],
+    "technique": [
+      "В Пейзаже с Иоанном на Патмосе природа и архитектура организованы по принципам геометрии и логики. Даже профильная фигура согласована с общим порядком."
+    ],
+    "innovation": "Пейзаж создаётся как осмысленная идеальная конструкция, а не случайный вид с натуры. Античные формы задают интеллектуальную и историческую дистанцию.",
+    "caution": "Предполагаемая серия четырёх евангелистов не доказана; известно парное произведение с Матфеем. Это не топографически точный вид Патмоса.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Landscape with Saint John on Patmos",
+      "url": "https://www.artic.edu/artworks/5848"
+    },
+    {
+      "title": "Чикаго: расширенное описание",
+      "url": "https://www.artic.edu/artworks/5848/landscape-with-saint-john-on-patmos"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:5848",
+      "title": "Пейзаж со святым Иоанном на Патмосе",
+      "date": "1640",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/5848"
+    }
+  ],
+  "pendingWorksCount": 0
+}

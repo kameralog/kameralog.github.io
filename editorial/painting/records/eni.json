@@ -1,0 +1,43 @@
+{
+  "id": "eni",
+  "name": "Энъи",
+  "latin": "Hōgen En’i",
+  "life": "документированная работа — 1299",
+  "tag": "Камакура · повествовательный свиток",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "VII свиток Иллюстрированного жизнеописания Иппэна e-Museum указывает за Хогэн Энъи и датирует 1299."
+    ],
+    "technique": [
+      "Цвет на шёлке соединяет повествование о проповеднике с изображением мест, дорог и людей. VII свиток — лишь часть большого цикла."
+    ],
+    "innovation": "Религиозная биография становится развёрнутым пространственно-временным рассказом.",
+    "caution": "Не путай цикл 1299 с другим жизнеописанием Иппэна и его преемника XIV века. Американский интерьер собора aic:9 исключён как ложное совпадение имени.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Токийский национальный музей: Жизнеописание Иппэна — VII свиток, часть цикла",
+      "url": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100156&content_part_id=0&content_pict_id=0"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Hogen%20En%E2%80%99i%20-%20Illustrated%20Biography%20of%20Priest%20Ippen%2C%20Vol.%207%20-%20Google%20Art%20Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide23:eni",
+      "title": "Жизнеописание Иппэна — VII свиток, часть цикла",
+      "date": "1299",
+      "museum": "Токийский национальный музей",
+      "source": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100156&content_part_id=0&content_pict_id=0"
+    }
+  ],
+  "pendingWorksCount": 0
+}

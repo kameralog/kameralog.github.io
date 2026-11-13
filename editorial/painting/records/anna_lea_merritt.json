@@ -1,0 +1,49 @@
+{
+  "id": "anna_lea_merritt",
+  "name": "Анна Ли Мерритт",
+  "latin": "Anna Lea Merritt",
+  "life": "XIX–XX века",
+  "tag": "Британская художественная среда · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-114.js",
+  "existing": {
+    "bio": [
+      "Купидон стоит у двери гробницы; стрела и погасшая лампа лежат на земле.",
+      "Тейт связывает картину с памятью о муже художницы и приводит её слова об ожидании воссоединения."
+    ],
+    "technique": [
+      "Масло на холсте; 115,6 × 64,1 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение сюжета, материала и композиции без неподтверждённых заявлений о первенстве.",
+    "caution": "Не подменять копией Генри Джастиса Форда BORGM 00033. Используем 1890 по Тейт, не 1889 из истории первой загрузки. Приобретение через Chantrey Bequest не доказывает первенство женщины во всём собрании.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Тейт, Лондон: Любовь за запертой дверью",
+      "url": "https://www.tate.org.uk/art/artworks/merritt-love-locked-out-n01578"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Anna_Lea_Merritt-Love_locked_out.jpg"
+    },
+    {
+      "title": "Музейная подпись",
+      "url": "https://www.tate.org.uk/visit/tate-britain/display/historic-early-modern-british-art/1815"
+    }
+  ],
+  "works": [
+    {
+      "key": "N01578",
+      "title": "Любовь за запертой дверью",
+      "date": "1890",
+      "museum": "Тейт, Лондон",
+      "source": "https://www.tate.org.uk/art/artworks/merritt-love-locked-out-n01578"
+    }
+  ],
+  "pendingWorksCount": 0
+}

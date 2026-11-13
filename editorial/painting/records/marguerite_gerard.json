@@ -1,0 +1,45 @@
+{
+  "id": "marguerite_gerard",
+  "name": "Маргерит Жерар",
+  "latin": "Marguerite Gérard",
+  "life": "XVIII–XIX века",
+  "tag": "Жанровая картина · сосредоточенное занятие",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-107.js",
+  "existing": {
+    "bio": [
+      "«Читающая» около 1817 года принадлежит Институту изящных искусств Барбера, Бирмингем.",
+      "Авторство, дата, техника и размеры подтверждены научным каталогом Национальной галереи; это не её собственное собрание."
+    ],
+    "technique": [
+      "Масло на холсте; 32 × 24 см.",
+      "Внимание, жесты и пространство предлагается сравнить с «Карточным домиком» Шардена; сравнение не доказывает влияния."
+    ],
+    "innovation": "Учебный ракурс — небольшое повседневное занятие как самостоятельная тема изображения.",
+    "caution": "Раздел каталога «Терпение» — кураторский контекст, не доказанная авторская программа. Личность и биографию модели не придумываем. Файл 479 × 640 пикселей ограничивает увеличение. Номер 2020.1 указан в описании репродукции; не подменяет самостоятельную музейную проверку номера.",
+    "editorialStatus": "reproduction_attached_browser_delivery_not_verified"
+  },
+  "sources": [
+    {
+      "title": "Институт изящных искусств Барбера, Бирмингем: Читающая",
+      "url": "https://www.nationalgallery.org.uk/research/publications/exhibition-catalogues/fruits-of-the-spirit-art-from-the-heart/patience"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Reader_by_Marguerite_G%C3%A9rard%2C_1817.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "editorial:barber-gerard-reader",
+      "title": "Читающая",
+      "date": "около 1817",
+      "museum": "Институт изящных искусств Барбера, Бирмингем",
+      "source": "https://www.nationalgallery.org.uk/research/publications/exhibition-catalogues/fruits-of-the-spirit-art-from-the-heart/patience"
+    }
+  ],
+  "pendingWorksCount": 0
+}

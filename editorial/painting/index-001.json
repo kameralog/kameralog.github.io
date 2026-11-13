@@ -1,0 +1,502 @@
+[
+  {
+    "id": "benedetto_luti",
+    "name": "Бенедетто Лути",
+    "path": "records/benedetto_luti.json"
+  },
+  {
+    "id": "benozzo_gozzoli",
+    "name": "Беноццо Гоццоли",
+    "path": "records/benozzo_gozzoli.json"
+  },
+  {
+    "id": "berlinghiero",
+    "name": "Берлингьеро Берлингьери",
+    "path": "records/berlinghiero.json"
+  },
+  {
+    "id": "bernardino_bergognone",
+    "name": "Бернардино Бергоньоне",
+    "path": "records/bernardino_bergognone.json"
+  },
+  {
+    "id": "bernardino_butinone",
+    "name": "Бернардино Бутиноне",
+    "path": "records/bernardino_butinone.json"
+  },
+  {
+    "id": "bernardino_luini",
+    "name": "Бернардино Луини",
+    "path": "records/bernardino_luini.json"
+  },
+  {
+    "id": "bernardo_zenale",
+    "name": "Бернардо Дзенале",
+    "path": "records/bernardo_zenale.json"
+  },
+  {
+    "id": "bernardo_cavallino",
+    "name": "Бернардо Каваллино",
+    "path": "records/bernardo_cavallino.json"
+  },
+  {
+    "id": "bernardo_castello",
+    "name": "Бернардо Кастелло",
+    "path": "records/bernardo_castello.json"
+  },
+  {
+    "id": "bernardo_strozzi",
+    "name": "Бернардо Строцци",
+    "path": "records/bernardo_strozzi.json"
+  },
+  {
+    "id": "bernaert_van_orley",
+    "name": "Бернарт ван Орлей",
+    "path": "records/bernaert_van_orley.json"
+  },
+  {
+    "id": "berthe_art",
+    "name": "Берта Арт",
+    "path": "records/berthe_art.json"
+  },
+  {
+    "id": "bertha_wegmann",
+    "name": "Берта Вегман",
+    "path": "records/bertha_wegmann.json"
+  },
+  {
+    "id": "morisot",
+    "name": "Берта Моризо",
+    "path": "records/morisot.json"
+  },
+  {
+    "id": "bessie_davidson",
+    "name": "Бесси Дэвидсон",
+    "path": "records/bessie_davidson.json"
+  },
+  {
+    "id": "betzy_akersloot_berg",
+    "name": "Бетси Акерслот-Берг",
+    "path": "records/betzy_akersloot_berg.json"
+  },
+  {
+    "id": "betsy_westendorp_osieck",
+    "name": "Бетси Вестендорп-Осик",
+    "path": "records/betsy_westendorp_osieck.json"
+  },
+  {
+    "id": "bichitr",
+    "name": "Бичитр",
+    "path": "records/bichitr.json"
+  },
+  {
+    "id": "boccaccio_boccaccino",
+    "name": "Боккаччо Боккаччино",
+    "path": "records/boccaccio_boccaccino.json"
+  },
+  {
+    "id": "bon_boullogne",
+    "name": "Бон Булонь",
+    "path": "records/bon_boullogne.json"
+  },
+  {
+    "id": "bonaventura_berlinghieri",
+    "name": "Бонавентура Берлингьери",
+    "path": "records/bonaventura_berlinghieri.json"
+  },
+  {
+    "id": "bonaventura_peeters_the_elder",
+    "name": "Бонавентура Петерс Старший",
+    "path": "records/bonaventura_peeters_the_elder.json"
+  },
+  {
+    "id": "kustodiev",
+    "name": "Борис Кустодиев",
+    "path": "records/kustodiev.json"
+  },
+  {
+    "id": "bhawani_das",
+    "name": "Бхавани Дас",
+    "path": "records/bhawani_das.json"
+  },
+  {
+    "id": "banksy",
+    "name": "Бэнкси",
+    "path": "records/banksy.json"
+  },
+  {
+    "id": "violet_teague",
+    "name": "Вайолет Тиг",
+    "path": "records/violet_teague.json"
+  },
+  {
+    "id": "valentin_de_boulogne",
+    "name": "Валантен де Булонь",
+    "path": "records/valentin_de_boulogne.json"
+  },
+  {
+    "id": "serov",
+    "name": "Валентин Серов",
+    "path": "records/serov.json"
+  },
+  {
+    "id": "valerio_castello",
+    "name": "Валерио Кастелло",
+    "path": "records/valerio_castello.json"
+  },
+  {
+    "id": "wally_moes",
+    "name": "Валли Мус",
+    "path": "records/wally_moes.json"
+  },
+  {
+    "id": "king_gongmin",
+    "name": "Ван Конмин",
+    "path": "records/king_gongmin.json"
+  },
+  {
+    "id": "wang_hui",
+    "name": "Ван Хуэй",
+    "path": "records/wang_hui.json"
+  },
+  {
+    "id": "vasily_kandinsky",
+    "name": "Василий Кандинский",
+    "path": "records/vasily_kandinsky.json"
+  },
+  {
+    "id": "surikov",
+    "name": "Василий Суриков",
+    "path": "records/surikov.json"
+  },
+  {
+    "id": "venny_soldan_brofeldt",
+    "name": "Венни Сольдан-Бруфельдт",
+    "path": "records/venny_soldan_brofeldt.json"
+  },
+  {
+    "id": "viviano_codazzi",
+    "name": "Вивиано Кодацци",
+    "path": "records/viviano_codazzi.json"
+  },
+  {
+    "id": "willem_van_de_velde_the_younger",
+    "name": "Виллем ван де Велде Младший",
+    "path": "records/willem_van_de_velde_the_younger.json"
+  },
+  {
+    "id": "willem_van_de_velde_the_elder",
+    "name": "Виллем ван де Велде Старший",
+    "path": "records/willem_van_de_velde_the_elder.json"
+  },
+  {
+    "id": "dekooning",
+    "name": "Виллем де Кунинг",
+    "path": "records/dekooning.json"
+  },
+  {
+    "id": "willem_duyster",
+    "name": "Виллем Дёйстер",
+    "path": "records/willem_duyster.json"
+  },
+  {
+    "id": "willem_claesz_heda",
+    "name": "Виллем Клас Хеда",
+    "path": "records/willem_claesz_heda.json"
+  },
+  {
+    "id": "wilhelm_bendz",
+    "name": "Вильгельм Бендз",
+    "path": "records/wilhelm_bendz.json"
+  },
+  {
+    "id": "vilhelm_kyhn",
+    "name": "Вильхельм Кюн",
+    "path": "records/vilhelm_kyhn.json"
+  },
+  {
+    "id": "van-gogh",
+    "name": "Винсент ван Гог",
+    "path": "records/van-gogh.json"
+  },
+  {
+    "id": "vincenzo_dandini",
+    "name": "Винченцо Дандини",
+    "path": "records/vincenzo_dandini.json"
+  },
+  {
+    "id": "vincenzo_foppa",
+    "name": "Винченцо Фоппа",
+    "path": "records/vincenzo_foppa.json"
+  },
+  {
+    "id": "virginie_demont_breton",
+    "name": "Виржини Демон-Бретон",
+    "path": "records/virginie_demont_breton.json"
+  },
+  {
+    "id": "vittore_ghislandi",
+    "name": "Витторе Гисланди",
+    "path": "records/vittore_ghislandi.json"
+  },
+  {
+    "id": "vittore_carpaccio",
+    "name": "Витторе Карпаччо",
+    "path": "records/vittore_carpaccio.json"
+  },
+  {
+    "id": "wen_zhengming",
+    "name": "Вэнь Чжэнмин",
+    "path": "records/wen_zhengming.json"
+  },
+  {
+    "id": "hans_baldung",
+    "name": "Ганс Бальдунг",
+    "path": "records/hans_baldung.json"
+  },
+  {
+    "id": "hans_holbein_the_younger",
+    "name": "Ганс Гольбейн Младший",
+    "path": "records/hans_holbein_the_younger.json"
+  },
+  {
+    "id": "hans_memling",
+    "name": "Ганс Мемлинг",
+    "path": "records/hans_memling.json"
+  },
+  {
+    "id": "garofalo",
+    "name": "Гарофало",
+    "path": "records/garofalo.json"
+  },
+  {
+    "id": "gaspar_peeter_verbruggen_the_elder",
+    "name": "Гаспар Петер Вербрюгген Старший",
+    "path": "records/gaspar_peeter_verbruggen_the_elder.json"
+  },
+  {
+    "id": "gaetano_previati",
+    "name": "Гаэтано Превиати",
+    "path": "records/gaetano_previati.json"
+  },
+  {
+    "id": "guercino",
+    "name": "Гверчино",
+    "path": "records/guercino.json"
+  },
+  {
+    "id": "guido_reni",
+    "name": "Гвидо Рени",
+    "path": "records/guido_reni.json"
+  },
+  {
+    "id": "henriette_geertruida_knip",
+    "name": "Генриетта Гертрёйда Книп",
+    "path": "records/henriette_geertruida_knip.json"
+  },
+  {
+    "id": "henriette_ronner_knip",
+    "name": "Генриетта Роннер-Книп",
+    "path": "records/henriette_ronner_knip.json"
+  },
+  {
+    "id": "henrietta_rae",
+    "name": "Генриетта Рэй",
+    "path": "records/henrietta_rae.json"
+  },
+  {
+    "id": "gerard_david",
+    "name": "Герард Давид",
+    "path": "records/gerard_david.json"
+  },
+  {
+    "id": "gerardina_van_de_sande_bakhuyzen",
+    "name": "Герардина Якоба ван де Санде Бакхёйзен",
+    "path": "records/gerardina_van_de_sande_bakhuyzen.json"
+  },
+  {
+    "id": "gerbrand_van_den_eeckhout",
+    "name": "Гербранд ван ден Экхаут",
+    "path": "records/gerbrand_van_den_eeckhout.json"
+  },
+  {
+    "id": "gerrit_berckheyde",
+    "name": "Геррит Беркхейде",
+    "path": "records/gerrit_berckheyde.json"
+  },
+  {
+    "id": "gerrit_van_honthorst",
+    "name": "Геррит ван Хонтхорст",
+    "path": "records/gerrit_van_honthorst.json"
+  },
+  {
+    "id": "geertgen_tot_sint_jans",
+    "name": "Гертген тот Синт Янс",
+    "path": "records/geertgen_tot_sint_jans.json"
+  },
+  {
+    "id": "richter",
+    "name": "Герхард Рихтер",
+    "path": "records/richter.json"
+  },
+  {
+    "id": "hyacinthe_rigaud",
+    "name": "Гиацинт Риго",
+    "path": "records/hyacinthe_rigaud.json"
+  },
+  {
+    "id": "gillis_van_coninxloo",
+    "name": "Гиллис ван Конинкслоо",
+    "path": "records/gillis_van_coninxloo.json"
+  },
+  {
+    "id": "guo_xi",
+    "name": "Го Си",
+    "path": "records/guo_xi.json"
+  },
+  {
+    "id": "govert_flinck",
+    "name": "Говерт Флинк",
+    "path": "records/govert_flinck.json"
+  },
+  {
+    "id": "gregorio_de_ferrari",
+    "name": "Грегорио де Феррари",
+    "path": "records/gregorio_de_ferrari.json"
+  },
+  {
+    "id": "grace_joel",
+    "name": "Грейс Джоэл",
+    "path": "records/grace_joel.json"
+  },
+  {
+    "id": "ghulam_ali_khan",
+    "name": "Гулам Али Хан",
+    "path": "records/ghulam_ali_khan.json"
+  },
+  {
+    "id": "klimt",
+    "name": "Густав Климт",
+    "path": "records/klimt.json"
+  },
+  {
+    "id": "gustave_courbet",
+    "name": "Гюстав Курбе",
+    "path": "records/gustave_courbet.json"
+  },
+  {
+    "id": "gustave_moreau",
+    "name": "Гюстав Моро",
+    "path": "records/gustave_moreau.json"
+  },
+  {
+    "id": "siqueiros",
+    "name": "Давид Альфаро Сикейрос",
+    "path": "records/siqueiros.json"
+  },
+  {
+    "id": "david_de_coninck",
+    "name": "Давид де Конинк",
+    "path": "records/david_de_coninck.json"
+  },
+  {
+    "id": "daniele_da_volterra",
+    "name": "Даниеле да Вольтерра",
+    "path": "records/daniele_da_volterra.json"
+  },
+  {
+    "id": "daniel_vosmaer",
+    "name": "Даниэл Восмар",
+    "path": "records/daniel_vosmaer.json"
+  },
+  {
+    "id": "daniel_seghers",
+    "name": "Даниэл Сегерс",
+    "path": "records/daniel_seghers.json"
+  },
+  {
+    "id": "dankvart_dreyer",
+    "name": "Данкварт Дрейер",
+    "path": "records/dankvart_dreyer.json"
+  },
+  {
+    "id": "dante_gabriel_rossetti",
+    "name": "Данте Габриэль Россетти",
+    "path": "records/dante_gabriel_rossetti.json"
+  },
+  {
+    "id": "giacomo_ceruti",
+    "name": "Джакомо Черути",
+    "path": "records/giacomo_ceruti.json"
+  },
+  {
+    "id": "giampietrino",
+    "name": "Джампьетрино",
+    "path": "records/giampietrino.json"
+  },
+  {
+    "id": "johns",
+    "name": "Джаспер Джонс",
+    "path": "records/johns.json"
+  },
+  {
+    "id": "james_mcneill_whistler",
+    "name": "Джеймс Макнил Уистлер",
+    "path": "records/james_mcneill_whistler.json"
+  },
+  {
+    "id": "jane_price",
+    "name": "Джейн Прайс",
+    "path": "records/jane_price.json"
+  },
+  {
+    "id": "jane_sutherland",
+    "name": "Джейн Сазерленд",
+    "path": "records/jane_sutherland.json"
+  },
+  {
+    "id": "pollock",
+    "name": "Джексон Поллок",
+    "path": "records/pollock.json"
+  },
+  {
+    "id": "jenny_montigny",
+    "name": "Дженни Монтиньи",
+    "path": "records/jenny_montigny.json"
+  },
+  {
+    "id": "jennie_augusta_brownscombe",
+    "name": "Дженни Огаста Браунскомб",
+    "path": "records/jennie_augusta_brownscombe.json"
+  },
+  {
+    "id": "gentile_bellini",
+    "name": "Джентиле Беллини",
+    "path": "records/gentile_bellini.json"
+  },
+  {
+    "id": "gentile_da_fabriano",
+    "name": "Джентиле да Фабриано",
+    "path": "records/gentile_da_fabriano.json"
+  },
+  {
+    "id": "jessica_hayllar",
+    "name": "Джессика Хейллар",
+    "path": "records/jessica_hayllar.json"
+  },
+  {
+    "id": "girolamo_romanino",
+    "name": "Джироламо Романино",
+    "path": "records/girolamo_romanino.json"
+  },
+  {
+    "id": "gioacchino_assereto",
+    "name": "Джоаккино Ассерето",
+    "path": "records/gioacchino_assereto.json"
+  },
+  {
+    "id": "joan_carlile",
+    "name": "Джоан Карлайл",
+    "path": "records/joan_carlile.json"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "peter_christian_skovgaard",
+  "name": "Петер Кристиан Сковгор",
+  "latin": "Peter Christian Skovgaard",
+  "life": "1817–1875",
+  "tag": "Датский золотой век · XIX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-127.js",
+  "existing": {
+    "bio": [
+      "Датский пейзажист, отец Йоакима и Нильса Сковгоров.",
+      "Собирал большие композиции из отдельных рисунков, этюдов фигур и пейзажных наблюдений."
+    ],
+    "technique": [
+      "Масло на холсте; размеры основы требуют сверки",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как стволы организуют пространство?",
+    "caution": "Не путать с сыновьями из 126. В источниках встречаются 189,5 × 158,5, 214,1 × 183,1 и смешанные размеры с глубиной. Их не объявляем размерами одного холста. В тексте статьи стоит 1854, в подписи 1857; используем 1857 по музейной надписи и описанию файла.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.perspectivejournal.dk/en/first-you-must-draw-then-you-may-paint-p-c-skovgaard-the-draughtsman/"
+    },
+    {
+      "title": "Конкретный файл и правовое основание",
+      "url": "https://commons.wikimedia.org/wiki/File:PC_Skovgaard%2C_B%C3%B8geskov_i_maj_Motiv_fra_Iselingen%2C_1857%2C_KMS4580%2C_Statens_Museum_for_Kunst.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "peter_christian_skovgaard_selected",
+      "title": "Буковый лес в мае у усадьбы Иселинген",
+      "date": "1857",
+      "museum": "SMK — Statens Museum for Kunst",
+      "source": "https://www.perspectivejournal.dk/en/first-you-must-draw-then-you-may-paint-p-c-skovgaard-the-draughtsman/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,31 @@
+{
+  "id": "grandma_moses",
+  "name": "Бабушка Мозес",
+  "latin": "Anna Mary Robertson Moses (Grandma Moses)",
+  "life": "1860–1961",
+  "tag": "США · самоучка · XX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Анна Мэри Робертсон Мозес начала серьёзно заниматься живописью в свои семьдесят. Bennington Museum хранит крупнейшее публичное собрание её картин."
+    ],
+    "technique": [
+      "Домики становятся простыми кубическими формами, поля — плоским лоскутным узором, фигурки — ясными знаками сельских занятий."
+    ],
+    "innovation": "Поэтическая память о прошлом сочетается с самостоятельной абстрактной организацией цвета и узора.",
+    "caution": "Пока без репродукции: право на её использование не подтверждено. Самоучка не означает отсутствие художественного решения. Поздние сельские сцены не нейтральный документ ранней Америки.",
+    "editorialStatus": "text_only_image_rights_pending"
+  },
+  "sources": [
+    {
+      "title": "Bennington Museum: биография и метод",
+      "url": "https://benningtonmuseum.org/portfolio-items/grandma-moses/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 0
+}

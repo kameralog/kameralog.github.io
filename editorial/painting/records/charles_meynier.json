@@ -1,0 +1,50 @@
+{
+  "id": "charles_meynier",
+  "name": "Шарль Мейнье",
+  "latin": "Charles Meynier",
+  "life": "1768–1832",
+  "tag": "Франция · неоклассицизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-18.js",
+  "existing": {
+    "bio": [
+      "Лауреат Римской премии 1789 года, позднее академик и автор больших декоративных работ, Мейнье создал цикл для дома Франсуа Буайе-Фонфреда в Тулузе."
+    ],
+    "technique": [
+      "Монументальная мифологическая фигура связана с атрибутами искусства и поэзии. Каллиопа стоит перед бюстом Гомера; цвет и ткани организуют декоративную плоскость."
+    ],
+    "innovation": "Античная мифология служит цельной программе частного интерьера. Картины следует сравнивать как части ансамбля, не случайные изображения богинь.",
+    "caution": "Цикл состоит из пяти работ, здесь показаны две. У Аполлона в приложенной записи описание начинается с Эрато: эту несогласованную запись для разбора не используем.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Calliope, Muse of Epic Poetry",
+      "url": "https://clevelandart.org/art/2003.6.4"
+    },
+    {
+      "title": "Cleveland Museum of Art: Clio, Muse of History",
+      "url": "https://clevelandart.org/art/2003.6.5"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:163043",
+      "title": "Каллиопа, муза эпической поэзии",
+      "date": "1798",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/2003.6.4"
+    },
+    {
+      "key": "cma:163044",
+      "title": "Clio, Muse of History",
+      "date": "1800",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/2003.6.5"
+    }
+  ],
+  "pendingWorksCount": 0
+}

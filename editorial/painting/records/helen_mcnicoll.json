@@ -1,0 +1,37 @@
+{
+  "id": "helen_mcnicoll",
+  "name": "Хелен Макниколл",
+  "latin": "Helen McNicoll",
+  "life": "1879–1915",
+  "tag": "США и Канада · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-117.js",
+  "existing": {
+    "bio": [
+      "Канадская художница, работавшая также в Англии и Франции.",
+      "Исследование Art Canada Institute рассматривает картину в контексте женского художественного сотрудничества."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Сведения и вопросы основаны на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как верхняя точка зрения меняет сцену?",
+    "caution": "Датировки 1913/1914 сохранены. Сходные работы Доротеи Шарп не заменяют эту картину. Не переносить ошибочное хранение из вторичной PDF-подписи.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.mbam.qc.ca/en/works/25674/"
+    },
+    {
+      "title": "Другая датировка и контекст",
+      "url": "https://www.aci-iac.ca/art-books/helen-mcnicoll/key-works/under-the-shadow-of-the-tent/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

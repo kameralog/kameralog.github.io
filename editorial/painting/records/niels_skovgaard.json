@@ -1,0 +1,37 @@
+{
+  "id": "niels_skovgaard",
+  "name": "Нильс Сковгор",
+  "latin": "Niels Skovgaard",
+  "life": "1858–1938",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский живописец, скульптор, керамист и иллюстратор.",
+      "Брат Йоакима Сковгора; работал также в Греции и Норвегии."
+    ],
+    "technique": [
+      "Масло на холсте; 85,5 × 144,5 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как горизонт разделяет пейзаж?",
+    "caution": "Не путать с Йоакимом или П.К. Сковгором. 1883 — создание, 1901 — покупка норвежским музеем. Не подменять греческими этюдами одежды KMS4231 и KMS4233.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00565"
+    },
+    {
+      "title": "Различение братьев и биография",
+      "url": "https://en.wikipedia.org/wiki/Niels_Skovgaard"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

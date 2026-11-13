@@ -1,0 +1,31 @@
+{
+  "id": "fujiwara_nobuzane",
+  "name": "Фудзивара Нобудзанэ",
+  "latin": "Fujiwara no Nobuzane",
+  "life": "1177–1265 по e-Museum",
+  "tag": "Камакура · нисэ-э",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Свиток Порядок рассадки придворных традиционно приписывается Нобудзанэ и стилистически связан с его портретной линией."
+    ],
+    "technique": [
+      "Тонкие многослойные линии индивидуализируют лица, одежда решена свободнее. Изображены исторические сановники, не одно конкретное собрание."
+    ],
+    "innovation": "Сходство лица может сохраняться внутри условной повторяющейся формы придворного портрета.",
+    "caution": "Пока без репродукции. Авторство конкретного свитка традиционное; не выдаём общую стилистическую связь с мастерской за подпись художника.",
+    "editorialStatus": "text_only_historical_attribution"
+  },
+  "sources": [
+    {
+      "title": "e-Museum: Порядок рассадки придворных",
+      "url": "https://emuseum.nich.go.jp/detail?langId=en&webView=0&content_base_id=100955&content_part_id=001&content_pict_id=000"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 0
+}

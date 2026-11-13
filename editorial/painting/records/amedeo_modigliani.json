@@ -1,0 +1,50 @@
+{
+  "id": "amedeo_modigliani",
+  "name": "Амедео Модильяни",
+  "latin": "Amedeo Modigliani",
+  "life": "1884–1920",
+  "tag": "Италия и Париж · самостоятельная портретная манера",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-21.js",
+  "existing": {
+    "bio": [
+      "После итальянского обучения Модильяни поселился в Париже в 1906. Жак Липшиц заказал парный портрет к своей свадьбе с поэтом Бертой Китроссер."
+    ],
+    "technique": [
+      "В Мадам Помпадур удлинённые формы сочетаются с сеткой фона и перекликающимися изгибами шляпы, плеч и лица."
+    ],
+    "innovation": "Стилизация сохраняет портретную конкретность и может создавать иронию, а не только меланхолию.",
+    "caution": "Мадам Помпадур — название 1915, не портрет исторической фаворитки XVIII века. Отождествление модели с Беатрис Гастингс не доказано. Не объясняем стиль только богемной легендой.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Madam Pompadour",
+      "url": "https://www.artic.edu/artworks/27281"
+    },
+    {
+      "title": "Art Institute of Chicago: Jacques and Berthe Lipchitz",
+      "url": "https://www.artic.edu/artworks/27987"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:27281",
+      "title": "Мадам Помпадур",
+      "date": "1915",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/27281"
+    },
+    {
+      "key": "aic:27987",
+      "title": "Жак и Берта Липшиц",
+      "date": "1916",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/27987"
+    }
+  ],
+  "pendingWorksCount": 0
+}

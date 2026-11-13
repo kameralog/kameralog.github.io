@@ -1,0 +1,49 @@
+{
+  "id": "jeanna_bauck",
+  "name": "Йенна Баук",
+  "latin": "Jeanna Bauck",
+  "life": "XIX–XX века",
+  "tag": "Североевропейские художницы XIX — начала XX века · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-112.js",
+  "existing": {
+    "bio": [
+      "В мастерской изображена Берта Вегман за работой над мужским портретом.",
+      "Автор картины — Йенна Баук; имя Вегман относится к изображённой художнице, а не к авторству этого полотна."
+    ],
+    "technique": [
+      "Масло на холсте; 100 × 110 см",
+      "Наблюдения и интерпретации отнесены к источникам; самостоятельный визуальный анализ не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение профессионального самопредставления, жанровой сцены, света и пейзажа; без неподтверждённых заявлений о первенстве.",
+    "caution": "Не смешивать с портретом Баук кисти Вегман 1881 года NM 2828 из батча 111. Номер NM 2826 в прежнем обсуждении не используется здесь как заново проверенный музейный номер. Дату 1870 из агрегатора не подставлять вместо конца 1870-х.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Национальный музей Швеции, Стокгольм: Датская художница Берта Вегман пишет портрет",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/19881/"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Jeanna_Bauck_-_The_Danish_Artist_Bertha_Wegmann_Painting_a_Portrait_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Музейное описание на Google Arts & Culture",
+      "url": "https://artsandculture.google.com/asset/the-danish-artist-bertha-wegmann-painting-a-portrait/owHFui6PuD93bw"
+    }
+  ],
+  "works": [
+    {
+      "key": "editorial:112:jeanna_bauck",
+      "title": "Датская художница Берта Вегман пишет портрет",
+      "date": "конец 1870-х",
+      "museum": "Национальный музей Швеции, Стокгольм",
+      "source": "https://collection.nationalmuseum.se/en/collection/item/19881/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pompeo_batoni",
+  "name": "Помпео Батони",
+  "latin": "Pompeo Batoni",
+  "life": "XVIII век",
+  "tag": "Аллегория · понятие становится действием",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-95.js",
+  "existing": {
+    "bio": [
+      "Крылатое Время держит песочные часы и приказывает Старости обезобразить лицо Красоты.",
+      "Полотно создано для Бартоломео Таленти из Лукки. Парная работа — «Аллегория сладострастия», ныне в Эрмитаже."
+    ],
+    "technique": [
+      "Взаимодействие фигур превращает мысль о краткости молодости в конкретное действие.",
+      "Учебный анализ связывает атрибут, жест и роль персонажа."
+    ],
+    "innovation": "Учебный ракурс — отличие обычного персонажа от олицетворения отвлечённого понятия.",
+    "caution": "Не сводим творчество Батони к портретам путешественников. Парную картину не смешиваем с выбранной. Полная форма имени учтена в алиасах.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Время приказывает Старости уничтожить Красоту",
+      "url": "https://www.nationalgallery.org.uk/paintings/pompeo-girolamo-batoni-time-orders-old-age-to-destroy-beauty"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Pompeo_Girolamo_Batoni_-_Time_orders_Old_Age_to_destroy_Beauty.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG6316",
+      "title": "Время приказывает Старости уничтожить Красоту",
+      "date": "1746",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/pompeo-girolamo-batoni-time-orders-old-age-to-destroy-beauty"
+    }
+  ],
+  "pendingWorksCount": 0
+}

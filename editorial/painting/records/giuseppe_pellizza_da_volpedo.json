@@ -1,0 +1,43 @@
+{
+  "id": "giuseppe_pellizza_da_volpedo",
+  "name": "Джузеппе Пеллицца да Вольпедо",
+  "latin": "Giuseppe Pellizza da Volpedo",
+  "life": "1868–1907",
+  "tag": "Италия · дивизионизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Четвёртое сословие завершено в 1901 после длительной подготовки. Милан приобрёл полотно в 1920 по общественной подписке."
+    ],
+    "technique": [
+      "Масло на холсте. Движение большой группы к переднему краю организовано несколькими фигурами во главе шествия."
+    ],
+    "innovation": "Монументальная живопись делает коллективного трудящегося героя центральной темой, соединяя социальную программу с исследованием света.",
+    "caution": "С 2022 работа вновь в миланской GAM, не постоянной экспозиции Museo del Novecento. Выбрана полная композиция, не файл с crop.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "GAM, Милан: Четвёртое сословие",
+      "url": "https://www.lombardiabeniculturali.it/blog/articoli/11180/"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Il%20quarto%20stato%20(Volpedo).jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide20:pellizza",
+      "title": "Четвёртое сословие",
+      "date": "1901",
+      "museum": "GAM, Милан",
+      "source": "https://www.lombardiabeniculturali.it/blog/articoli/11180/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

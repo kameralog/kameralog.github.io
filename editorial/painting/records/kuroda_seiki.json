@@ -1,0 +1,43 @@
+{
+  "id": "kuroda_seiki",
+  "name": "Курода Сэйки",
+  "latin": "Kuroda Seiki",
+  "life": "1866–1924",
+  "tag": "Мэйдзи · ёга",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Обучавшийся во Франции Курода изменил японскую масляную живопись и художественное образование. Его светлое письмо называли новой или фиолетовой школой."
+    ],
+    "technique": [
+      "У озера — масло на холсте. Модель в юкате с круглым веером сидит у Асиноко; свет и воздух важны для музейного описания его метода."
+    ],
+    "innovation": "Японский сюжет и европейская техника не противоречат друг другу: ёга не означает иностранное происхождение модели.",
+    "caution": "Это У озера 1897, первоначально Летний курорт. Модель — будущая жена художника, позднее Тэруко. Не называем всю живопись Мэйдзи нихонга.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Токийский национальный музей: У озера",
+      "url": "https://emuseum.nich.go.jp/detail?langId=en&webView=0&content_base_id=100623&content_part_id=000&content_pict_id=000"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Kuroda-seiki-kohan00-6-1b.jpeg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide23:kuroda",
+      "title": "У озера",
+      "date": "1897",
+      "museum": "Токийский национальный музей",
+      "source": "https://emuseum.nich.go.jp/detail?langId=en&webView=0&content_base_id=100623&content_part_id=000&content_pict_id=000"
+    }
+  ],
+  "pendingWorksCount": 0
+}

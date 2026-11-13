@@ -1,0 +1,37 @@
+{
+  "id": "henrietta_rae",
+  "name": "Генриетта Рэй",
+  "latin": "Henrietta Rae",
+  "life": "1856 или 1859–1928",
+  "tag": "Британская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-115.js",
+  "existing": {
+    "bio": [
+      "Британская художница, писавшая мифологические и литературные композиции.",
+      "Картина выставлялась в Королевской академии в 1894 году; сюжет обращается к истории Психеи и Венеры."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Материал и сюжет сверены по источникам; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как организовано противостояние Психеи и Венеры?",
+    "caution": "Год рождения расходится: 1856 / 1859. Не смешивать полотно с эскизом около 1892 года. Заимствованный Tate номер L04613 не является доказательством владения.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе или произведении",
+      "url": "https://www.victorianweb.org/painting/rae/paintings/5.html"
+    },
+    {
+      "title": "Аукционная запись оригинала",
+      "url": "https://fineart.ha.com/itm/paintings/henrietta-rae-british-1859-1928-psyche-before-the-throne-of-venus-1894oil-on-canvas76-1-2-x-120-inches/a/5287-66042.s"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

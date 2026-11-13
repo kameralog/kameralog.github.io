@@ -1,0 +1,33 @@
+{
+  "id": "jennie_augusta_brownscombe",
+  "name": "Дженни Огаста Браунскомб",
+  "latin": "Jennie Augusta Brownscombe",
+  "life": "1850–1936",
+  "tag": "Американская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-116.js",
+  "existing": {
+    "bio": [
+      "Писала сентиментальные бытовые и исторические сцены.",
+      "Продажа прав на печатные репродукции была важной частью её профессиональной деятельности."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как разделены фигуры и пейзаж?",
+    "caution": "Музей называет пожилую женщину предположительно матерью, всадника — вероятным возлюбленным. На странице расходится ширина: 32 1/4 и 32 1/8 дюйма.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://nmwa.org/art/collection/loves-young-dream/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

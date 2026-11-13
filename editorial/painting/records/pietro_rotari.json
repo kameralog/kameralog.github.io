@@ -1,0 +1,45 @@
+{
+  "id": "pietro_rotari",
+  "name": "Пьетро Ротари",
+  "latin": "Pietro Rotari",
+  "life": "XVIII век",
+  "tag": "Портрет · предмет и жест",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-94.js",
+  "existing": {
+    "bio": [
+      "Молодая женщина изображена погрудно; правой рукой она держит книгу перед подбородком.",
+      "Книга участвует в позе. Само её наличие ещё не доказывает, что изображён процесс чтения."
+    ],
+    "technique": [
+      "Учебное рассматривание связывает предмет, руку и лицо.",
+      "Подробности книги и биография модели не подменяются предположениями."
+    ],
+    "innovation": "Учебный ракурс — отличие видимого портретного жеста от придуманного рассказа о занятии модели.",
+    "caution": "Имя модели, название и содержание книги неизвестны. Парная работа — «Молодая женщина», SK-A-3421; цветок в волосах из неё сюда не переносим. В life указан период, не проверенные точные годы жизни.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Рейксмюсеум, Амстердам: Молодая женщина с книгой",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/A-Young-Woman-with-a-Book--feac6ccb50984a5c0ee561de8468b22e"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Een_jonge_vrouw_met_een_boek_Rijksmuseum_SK-A-3422.jpeg"
+    }
+  ],
+  "works": [
+    {
+      "key": "SK-A-3422",
+      "title": "Молодая женщина с книгой",
+      "date": "1756–1762",
+      "museum": "Рейксмюсеум, Амстердам",
+      "source": "https://www.rijksmuseum.nl/en/collection/object/A-Young-Woman-with-a-Book--feac6ccb50984a5c0ee561de8468b22e"
+    }
+  ],
+  "pendingWorksCount": 0
+}

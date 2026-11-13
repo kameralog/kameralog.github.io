@@ -1,0 +1,43 @@
+{
+  "id": "john_everett_millais",
+  "name": "Джон Эверетт Милле",
+  "latin": "John Everett Millais",
+  "life": "1829–1896",
+  "tag": "Британия · прерафаэлиты",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Милле вместе с Россетти и Хантом основал прерафаэлитское движение. Офелия написана в 1851–1852 в двух разных местах."
+    ],
+    "technique": [
+      "Речной пейзаж создавался на натуре в Суррее, фигура Элизабет Сиддал — в лондонской мастерской. Цветы разных сезонов оказались рядом."
+    ],
+    "innovation": "Скрупулёзное наблюдение сочетается с литературной конструкцией: смерть Офелии в Гамлете пересказана, но не разыграна перед зрителем.",
+    "caution": "Это не документ утопления и не единый натурный сеанс. Не путаем Джона Эверетта Милле с французом Жаном Франсуа Милле.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Tate Britain, Лондон: Офелия",
+      "url": "https://www.tate.org.uk/art/artworks/millais-ophelia-n01506/story-ophelia"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Millais%20-%20Ophelia.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide19:millais",
+      "title": "Офелия",
+      "date": "1851–1852",
+      "museum": "Tate Britain, Лондон",
+      "source": "https://www.tate.org.uk/art/artworks/millais-ophelia-n01506/story-ophelia"
+    }
+  ],
+  "pendingWorksCount": 0
+}

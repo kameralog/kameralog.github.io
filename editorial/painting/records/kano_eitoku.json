@@ -1,0 +1,43 @@
+{
+  "id": "kano_eitoku",
+  "name": "Кано Эйтоку",
+  "latin": "Kanō Eitoku",
+  "life": "1543–1590",
+  "tag": "Момояма · монументальная декоративная живопись",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Кипарис e-Museum относит к очень позднему этапу Эйтоку; по следам дверных ручек работа первоначально могла быть дверной росписью резиденции 1590."
+    ],
+    "technique": [
+      "Золотой фон и облака обрамляют огромный ствол и ветви. Ограниченный цвет и энергичная фактура коры усиливают присутствие дерева."
+    ],
+    "innovation": "Декорация выражает масштаб и энергию культуры военной элиты Момояма, а не только ботаническое наблюдение.",
+    "caution": "Происхождение из дверных панелей и точная связь с 1590 — музейная реконструкция. Старое изображение показывает прежний монтаж, нынешняя запись — пару четырёхстворчатых ширм.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Токийский национальный музей: Кипарис — прежний монтаж",
+      "url": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100144&content_part_id=0&content_pict_id=0"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Kano%20Eitoku%20-%20Cypress%20Trees.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide23:eitoku",
+      "title": "Кипарис — прежний монтаж",
+      "date": "конец XVI века; вероятно, ок. 1590",
+      "museum": "Токийский национальный музей",
+      "source": "https://emuseum.nich.go.jp/detail?langId=en&content_base_id=100144&content_part_id=0&content_pict_id=0"
+    }
+  ],
+  "pendingWorksCount": 0
+}

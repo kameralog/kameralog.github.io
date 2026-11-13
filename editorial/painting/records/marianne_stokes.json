@@ -1,0 +1,33 @@
+{
+  "id": "marianne_stokes",
+  "name": "Марианна Стокс",
+  "latin": "Marianne Stokes",
+  "life": "XIX–XX века",
+  "tag": "Британская художественная среда · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-114.js",
+  "existing": {
+    "bio": [
+      "Мадонна приподнимает ткань, укрывающую ребёнка.",
+      "AWARE связывает работу с переходом художницы от масла к темпере."
+    ],
+    "technique": [
+      "Темпера на деревянной основе; 80,1 × 61 см по AWARE",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение сюжета, материала и композиции без неподтверждённых заявлений о первенстве.",
+    "caution": "Расходятся даты 1905 / 1907–1908 / около 1909 и размеры 80 × 59,5 / 80,1 × 61 / 81 × 61 см. Старый файл ошибочно указывает Whitworth, Manchester; выбран кандидат OP272. Права конкретного снимка не прочитаны.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Художественная галерея Вулвергемптона: Мадонна с Младенцем",
+      "url": "https://awarewomenartists.com/en/artiste/marianne-stokes-nee-maria-leopoldine-preindlsberger/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

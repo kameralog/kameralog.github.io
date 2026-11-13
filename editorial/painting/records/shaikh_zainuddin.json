@@ -1,0 +1,43 @@
+{
+  "id": "shaikh_zainuddin",
+  "name": "Шейх Зайн-уд-Дин",
+  "latin": "Shaikh Zain al-Din",
+  "life": "работал в Калькутте в 1770–1780-е",
+  "tag": "Company painting · естественная история",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "Художник из Патны работал над естественнонаучными изображениями для семьи Импи. Лист 1778 подписан по-персидски рядом с именем леди Импи."
+    ],
+    "technique": [
+      "Могольская выучка сочетается с отказом от пейзажного фона и цвета земли, близким европейской естественнонаучной иллюстрации."
+    ],
+    "innovation": "Колониальный заказ не отменяет индивидуального имени и профессионального опыта индийского художника.",
+    "caution": "Не принимаем все Company-листы за работы европейцев и не называем этот природный этюд случайной придворной миниатюрой. Виды могут уточняться биологами; заглавие дано по музею.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://www.metmuseum.org/art/collection/search/457758"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:An%20Orange-Headed%20Ground%20Thrush%20and%20a%20Death's-Head%20Moth%20on%20a%20Purple%20Ebony%20Orchid%20Branch%20MET%20DP261704.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide25:zain",
+      "title": "Оранжевоголовый дрозд и бражник на цветущей ветви",
+      "date": "1778",
+      "museum": "Метрополитен-музей, Нью-Йорк",
+      "source": "https://www.metmuseum.org/art/collection/search/457758"
+    }
+  ],
+  "pendingWorksCount": 0
+}

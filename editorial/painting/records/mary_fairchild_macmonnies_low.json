@@ -1,0 +1,33 @@
+{
+  "id": "mary_fairchild_macmonnies_low",
+  "name": "Мэри Фэрчайлд Макмоннис Лоу",
+  "latin": "Mary Fairchild MacMonnies Low",
+  "life": "1858–1946",
+  "tag": "США и Канада · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-117.js",
+  "existing": {
+    "bio": [
+      "Училась в Académie Julian и у Каролюса-Дюрана.",
+      "Сад её дома в Живерни служил мотивом серии сезонных картин."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Сведения и вопросы основаны на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как сад организует глубину?",
+    "caution": "Выбран именно лот 58, 75,6 × 141 см. Не подменять Winter Garden of Giverny, картиной Chrysler In the Garden, Giverny или садом Моне.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.christies.com/en/lot/lot-329783"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

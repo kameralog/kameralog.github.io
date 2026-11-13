@@ -1,0 +1,35 @@
+{
+  "id": "hockney",
+  "name": "Дэвид Хокни",
+  "latin": "David Hockney",
+  "life": "родился в 1937",
+  "tag": "Великобритания · поп-арт",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-31.js",
+  "existing": {
+    "bio": [
+      "«Больший всплеск» (A Bigger Splash, 1967) — акрил (Liquitex) по белому хлопковому холсту, 242,5 × 243,9 см, Tate (T03254, куплена в 1981 году). Картина показывает бассейн рядом с современным домом и всплеск от невидимого прыгуна."
+    ],
+    "technique": [
+      "По данным Тейт, Хокни писал сам всплеск две недели, копируя форму, оттенки и детали с фотографии маленькими кистями. Эскиза на холсте не было."
+    ],
+    "innovation": "Картина почти в натуральную величину: зритель оказывается внутри сцены, а не перед ней.",
+    "caution": "Права на изображение защищены (или статус неясен): репродукцию не подключаю, смотри музейную карточку по ссылке. Хокни жив.",
+    "editorialStatus": "text_only_rights_protected"
+  },
+  "sources": [
+    {
+      "title": "Tate: Больший всплеск",
+      "url": "https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254"
+    },
+    {
+      "title": "Tate: Понимание A Bigger Splash",
+      "url": "https://www.tate.org.uk/art/artworks/hockney-a-bigger-splash-t03254/understanding-david-hockneys-bigger-splash"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 0
+}

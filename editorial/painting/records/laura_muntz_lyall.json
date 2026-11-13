@@ -1,0 +1,45 @@
+{
+  "id": "laura_muntz_lyall",
+  "name": "Лора Мунц Лайалл",
+  "latin": "Laura Muntz Lyall",
+  "life": "1860–1930",
+  "tag": "США и Канада · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-117.js",
+  "existing": {
+    "bio": [
+      "Родилась в Англии, в детстве переехала в Канаду и училась во Франции.",
+      "Часто писала женщин и детей; музей сопоставляет эту картину с The Children’s Hour 1894 года."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Сведения и вопросы основаны на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как книга объединяет детей?",
+    "caution": "Не подключать старый файл Interesting Story.jpg: он помечен detail. Источники AGO меняют порядок 81,3 × 100,3; формат и размер проверяются отдельно.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://readfoyer.com/article/interesting-story-0"
+    },
+    {
+      "title": "Конкретный файл и PD-Art",
+      "url": "https://commons.wikimedia.org/wiki/File:Laura_Muntz_Lyall_-_Interesting_Story_-_Google_Art_Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "laura_muntz_lyall_selected",
+      "title": "Интересная история",
+      "date": "1898",
+      "museum": "Art Gallery of Ontario",
+      "source": "https://readfoyer.com/article/interesting-story-0"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,45 @@
+{
+  "id": "angelica_kauffmann",
+  "name": "Ангелика Кауфман",
+  "latin": "Angelica Kauffmann",
+  "life": "XVIII–XIX века",
+  "tag": "Историческая картина · подготовительная модель",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-107.js",
+  "existing": {
+    "bio": [
+      "Ахилл, переодетый женщиной, поднимает меч и держит щит: оружие выдаёт его среди дочерей Ликомеда. Слева Улисс указывает на героя.",
+      "NG6710 — подробно разработанная подготовительная модель для окончательной картины по заказу Екатерины II."
+    ],
+    "technique": [
+      "Масло на холсте; 103,2 × 130,8 см.",
+      "Инфракрасное исследование выявило графитовый рисунок; линии сетки связаны с переносом композиции на окончательный холст."
+    ],
+    "innovation": "Учебный ракурс — момент узнавания героя связан с подготовкой большого произведения.",
+    "caution": "Выбрана лондонская модель около 1788 года, не окончательная картина 1789 года из музея Российской академии художеств и не финская версия S-2004-60. Действие Деидамии неоднозначно: она защищает Ахилла или, возможно, себя. Подключена репродукция лондонской модели NG6710.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Ахилл, обнаруженный среди дочерей Ликомеда",
+      "url": "https://www.nationalgallery.org.uk/paintings/angelica-kauffmann-achilles-discovered-among-the-daughters-of-lycomedes"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Achilles_discovered_among_the_Daughters_of_Lycomedes_-_Angelica_Kauffmann_%28National_Gallery_NG6710%29.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG6710",
+      "title": "Ахилл, обнаруженный среди дочерей Ликомеда",
+      "date": "около 1788",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/angelica-kauffmann-achilles-discovered-among-the-daughters-of-lycomedes"
+    }
+  ],
+  "pendingWorksCount": 0
+}

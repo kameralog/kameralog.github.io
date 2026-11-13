@@ -1,0 +1,41 @@
+{
+  "id": "gaspar_peeter_verbruggen_the_elder",
+  "name": "Гаспар Петер Вербрюгген Старший",
+  "latin": "Gaspar Peeter Verbruggen the Elder",
+  "life": "1635–1681",
+  "tag": "Европа · цветочный натюрморт XVII–XVIII веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-70.js",
+  "existing": {
+    "bio": [
+      "Фламандский мастер специализировался на цветах и гирляндах. Его картины могли включать вазу, нишу, фигуру или религиозный образ в цветочном обрамлении.",
+      "Сын с тем же именем тоже стал цветочным живописцем. Поэтому обозначения Старший и Младший должны сохраняться при сопоставлении музейных объектов."
+    ],
+    "technique": [
+      "«Цветочная композиция», R.1919-55, относится к собранию Ipswich Borough Council. Art UK датирует её после 1658; Wikidata сопоставляет автора, инвентарь и холст.",
+      "Дата после 1658 не равна 1659. Название Flower Piece распространено и встречается также у неизвестных авторов, последователей и сына Вербрюггена."
+    ],
+    "innovation": "Надёжное разграничение одноимённых художников и предметов предшествует стилевому сравнению. Сама общность цветочного жанра не устанавливает руку автора.",
+    "caution": "Не подставляй Flower Piece из Elizabethan House Museum: это работа Младшего 1664–1730. Вариант Paisley относится лишь к стилю Старшего. Сведения о текущем объекте сопоставлены по Art UK и Wikidata, не по перепродаже репродукций. Конкретный свободный файл пока не подтверждён.",
+    "editorialStatus": "text_only_image_file_and_rights_pending"
+  },
+  "sources": [
+    {
+      "title": "Art UK: музейные работы Старшего",
+      "url": "https://artuk.org/discover/artists/de-verbruggen-the-elder-gaspar-peeter-16351681"
+    },
+    {
+      "title": "Wikidata: объект и инвентарь",
+      "url": "https://www.wikidata.org/wiki/Q118984751"
+    },
+    {
+      "title": "Для различения: наследие Младшего",
+      "url": "https://commons.wikimedia.org/wiki/Category:Gaspar_Peeter_Verbruggen_(II)"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

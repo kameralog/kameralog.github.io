@@ -1,0 +1,37 @@
+{
+  "id": "marthe_donas",
+  "name": "Марта Донас",
+  "latin": "Marthe Donas",
+  "life": "1885–1967",
+  "tag": "Бельгийская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-124.js",
+  "existing": {
+    "bio": [
+      "Бельгийская художница, работавшая в круге международного авангарда.",
+      "Использовала кубистические построения и включала различные материалы в поверхность произведения."
+    ],
+    "technique": [
+      "Коллаж: кружево, наждачная бумага, ткань, сетка и краска на композиционной плите",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как реальные фактуры связаны с изображёнными предметами?",
+    "caution": "53 × 38,6 см по музею. Не подменять Still Life 1917 из KMSKA или Still Life with Fruit около 1918–1919 из Yale, 1941.427.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://artgallery.yale.edu/collections/objects/74321"
+    },
+    {
+      "title": "Кредит современной репродукции",
+      "url": "https://apollo-magazine.com/marthe-donas-avant-garde-archipenko-antwerp-review/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

@@ -1,0 +1,33 @@
+{
+  "id": "constance_charpentier",
+  "name": "Констанс Шарпантье",
+  "latin": "Constance Charpentier",
+  "life": "XVIII–XIX века",
+  "tag": "Предварительная карточка · проверка репродукции",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-108.js",
+  "existing": {
+    "bio": [
+      "Музей подтверждает автора, название, дату 1801 и инвентарный номер.",
+      "Картина пользовалась успехом в Салоне 1801 года и была приобретена государством."
+    ],
+    "technique": [
+      "Масло на холсте; 130 × 165 см",
+      "Технические наблюдения сверх подтверждённой музейной записи пока не добавлены."
+    ],
+    "innovation": "Учебный ракурс уточняется; новаторство не устанавливается по одному произведению.",
+    "caution": "Не смешивать с «Меланхолией» Франсуа-Андре Венсана. Права фотографии RMN или музейного фотографа не считаются автоматически свободными.",
+    "editorialStatus": "RESEARCH_DRAFT_NOT_READY_FOR_PUBLICATION"
+  },
+  "sources": [
+    {
+      "title": "Музей Пикардии, Амьен: Меланхолия",
+      "url": "https://www.amiens.fr/Vivre-a-Amiens/Culture-Patrimoine/Etablissements-culturels/Musee-de-Picardie/Collections/XIX/Notices/Notice-Constance-Charpentier"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

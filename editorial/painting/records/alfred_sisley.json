@@ -1,0 +1,43 @@
+{
+  "id": "alfred_sisley",
+  "name": "Альфред Сислей",
+  "latin": "Alfred Sisley",
+  "life": "1839–1899",
+  "tag": "Франция · импрессионизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "В 1877 Сислей переехал в Севр и неоднократно писал мост с разных точек при разной погоде. Музей связывает работу с практикой пленэра."
+    ],
+    "technique": [
+      "Больше половины полотна занимает облачное небо, написанное широкими быстрыми мазками. Голубые отражения связывают воду и воздух."
+    ],
+    "innovation": "Один мотив позволяет изучать перемены света и погоды, а не только узнаваемость места.",
+    "caution": "Это мост через Сену, не железнодорожная пешеходная переправа. Около 1877 — приблизительная дата; источник Национальной галереи описывает предоставленную ей работу.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон, предоставленная работа: Мост в Севре",
+      "url": "https://www.nationalgallery.org.uk/paintings/alfred-sisley-the-bridge-at-sevres"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Sisley%20-%20The-Bridge-At-Sevres%2C-C.1877.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide20:sisley",
+      "title": "Мост в Севре",
+      "date": "ок. 1877",
+      "museum": "Национальная галерея, Лондон, предоставленная работа",
+      "source": "https://www.nationalgallery.org.uk/paintings/alfred-sisley-the-bridge-at-sevres"
+    }
+  ],
+  "pendingWorksCount": 0
+}

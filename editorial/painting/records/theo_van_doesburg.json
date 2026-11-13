@@ -1,0 +1,47 @@
+{
+  "id": "theo_van_doesburg",
+  "name": "Тео ван Дусбург",
+  "latin": "Theo van Doesburg",
+  "life": "1883–1931",
+  "tag": "Нидерланды · De Stijl · элементаризм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-21.js",
+  "existing": {
+    "bio": [
+      "В 1917 ван Дусбург основал журнал De Stijl, объединив художников, архитекторов и дизайнеров. Его целью был синтез искусства и жизни."
+    ],
+    "technique": [
+      "В ранней Композиции I 1916 ещё угадывается натюрморт, включая лимон. Контркомпозиция X 1924 позволяет сравнить иной этап геометрической организации."
+    ],
+    "innovation": "Абстрактная форма входила в программу переустройства среды и общества, а не была только декоративным узором.",
+    "caution": "Репродукция X всего 661 × 654 пикселя. Не подменяем её файлом early state и не переносим натюрмортное описание Композиции I на другую картину.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Музей Крёллер-Мюллер, Оттерло: Контркомпозиция X",
+      "url": "https://tijdlijn.krollermuller.nl/en/timeline/historical-continuity"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Theo%20van%20Doesburg%20Counter-composition%20X%201924.jpg"
+    },
+    {
+      "title": "Крёллер-Мюллер: Композиция I, 1916, не показанное произведение",
+      "url": "https://www.krollermuller.nl/en/collection/theo-van-doesburg-composition-i-still-life-km-106-123"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide21:doesburg",
+      "title": "Контркомпозиция X",
+      "date": "1924",
+      "museum": "Музей Крёллер-Мюллер, Оттерло",
+      "source": "https://tijdlijn.krollermuller.nl/en/timeline/historical-continuity"
+    }
+  ],
+  "pendingWorksCount": 0
+}

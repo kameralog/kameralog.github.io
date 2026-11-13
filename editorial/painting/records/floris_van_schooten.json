@@ -1,0 +1,49 @@
+{
+  "id": "floris_van_schooten",
+  "name": "Флорис ван Схотен",
+  "latin": "Floris van Schooten",
+  "life": "около 1588–1656 по Рейксмюсеуму",
+  "tag": "Нидерланды · натюрморт XVII века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-67.js",
+  "existing": {
+    "bio": [
+      "Схотен работал в Харлеме, писал завтраки, кухонные сцены и исторические картины. Его отождествление с монограммистом FVS подтвердилось полностью подписанным натюрмортом.",
+      "Кухонные сцены продолжают традицию Артсена и Бейкелара. В выбранной работе пищевое изобилие соединено с Христом в Эммаусе на заднем плане."
+    ],
+    "technique": [
+      "Около 1630, масло по холсту; SK-A-2058. Корзины фруктов и овощей занимают почти весь передний план, за ними работают две служанки.",
+      "Поднятые занавеси открывают библейский эпизод. Краска положена гладко и точно, почти без импасто; инфракрасная съёмка не выявила подрисунка."
+    ],
+    "innovation": "Материальная пища и духовная тема противопоставлены внутри одной кухни. По музею, это не просто запас продуктов, а напоминание о краткости земных удовольствий.",
+    "caution": "Основа — холст, не доска. Старое авторство Флориса ван Дейка отвергнуто: текущий музейный каталог принимает Схотена. Отсутствие выявленного подрисунка не доказывает отсутствие подготовки вообще. Эммаус — не Тайная вечеря. Свободный файл пока не подтверждён.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Рейксмюсеум: SK-A-2058, техника и переатрибуция",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-Fruit-and-Vegetables-with-Christ-at-Emmaus-in-the-background--83a34758f8002891da918dd350a3ec7a"
+    },
+    {
+      "title": "Крёллер-Мюллер: другой натюрморт и иная оценка рождения",
+      "url": "https://www.krollermuller.nl/en/collection/floris-van-schooten-breakfast-km-101-444"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Stilleven_met_vruchten_en_groenten_met_op_de_achtergrond_Christus_en_de_Emma%C3%BCsgangers_Rijksmuseum_Amsterdam_SK-A-2058.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "rijks:SK-A-2058",
+      "title": "Фрукты и овощи с Христом в Эммаусе на заднем плане",
+      "date": "около 1630",
+      "museum": "Рейксмюсеум, Амстердам",
+      "source": "https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-Fruit-and-Vegetables-with-Christ-at-Emmaus-in-the-background--83a34758f8002891da918dd350a3ec7a"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": "lucy_madox_brown",
+  "name": "Люси Мэдокс Браун",
+  "latin": "Lucy Madox Brown",
+  "life": "1843–1894",
+  "tag": "Британская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-115.js",
+  "existing": {
+    "bio": [
+      "Училась преимущественно у отца, Форда Мэдокса Брауна.",
+      "National Trust связывает сцену с V актом трагедии; моделями Ромео и Джульетты были Оливер и Кэтрин, родственники художницы."
+    ],
+    "technique": [
+      "Акварель и гуашь на бумаге",
+      "Материал и сюжет сверены по источникам; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как свет выделяет лица в склепе?",
+    "caution": "Дата создания 1870 и выставка Dudley Gallery 1871 не слиты. Описание композиции передано по National Trust, не по самостоятельному осмотру.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе или произведении",
+      "url": "https://www.nationaltrustcollections.org.uk/object/1288976"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

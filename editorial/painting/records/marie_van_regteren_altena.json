@@ -1,0 +1,37 @@
+{
+  "id": "marie_van_regteren_altena",
+  "name": "Мари ван Регтерен Алтена",
+  "latin": "Marie van Regteren Altena",
+  "life": "1868–1958",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-122.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, известная натюрмортами.",
+      "Музей описывает розовые и красные розы в синей вазе; дата подтверждается надписью Rozen ’49."
+    ],
+    "technique": [
+      "Масло на холсте; 37,3 × 29,5 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как цветы соотносятся с вазой?",
+    "caution": "Не подменять другим натюрмортом с розами или портретом автора. 1969 — год поступления по завещанию, не дата картины.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Roses--84c4d95230636f94900cb67a276058ba"
+    },
+    {
+      "title": "Биография",
+      "url": "https://en.wikipedia.org/wiki/Marie_van_Regteren_Altena"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

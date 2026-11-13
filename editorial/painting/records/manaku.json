@@ -1,0 +1,35 @@
+{
+  "id": "manaku",
+  "name": "Манаку",
+  "latin": "Manaku",
+  "life": "работал ок. 1725–1760",
+  "tag": "Пахари · Гулер",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "Манаку — сын Пандита Сеу и старший брат Найнсукха. Музей описывает его более тесную связь с отцовской традицией."
+    ],
+    "technique": [
+      "В поздней Игре Кришны в жмурки сохраняется характерная передняя река, но сильнее заметны заимствования у брата. На обороте есть имя мастера."
+    ],
+    "innovation": "Даже внутри семейной мастерской различаются художественные траектории, а влияние может меняться по ходу карьеры.",
+    "caution": "Пока без репродукции: совпадение файла с выбранным подписным листом и его правовой статус не подтверждены. Живопись, незавершённый рисунок и поздняя семейная работа — разные объекты.",
+    "editorialStatus": "text_only_image_verification_pending"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://www.metmuseum.org/art/collection/search/76103"
+    },
+    {
+      "title": "Met: Wonder of the Age, исследовательский каталог",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Wonder_of_the_Age_Master_Painters_of_India_1100_1900.pdf"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

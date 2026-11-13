@@ -1,0 +1,37 @@
+{
+  "id": "alice_ronner",
+  "name": "Алиса Роннер",
+  "latin": "Alice Ronner",
+  "life": "1857–1957",
+  "tag": "Бельгийская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-123.js",
+  "existing": {
+    "bio": [
+      "Бельгийская художница натюрмортов, дочь Генриетты Роннер-Книп.",
+      "Работала как самостоятельная художница; её цветочные композиции представлены в бельгийских музейных коллекциях."
+    ],
+    "technique": [
+      "Масло на холсте; 82,5 × 72,5 см по музею",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как цветы распределены по формату?",
+    "caution": "Не путать с Генриеттой Роннер-Книп из батча 122. Надпись Alice Ronner / 09 подтверждает 1909; приобретение в 1911 не является датой создания.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://fine-arts-museum.be/fr/la-collection/alice-ronner-les-pavots"
+    },
+    {
+      "title": "Коллекционный авторский реестр",
+      "url": "https://fine-arts-museum.be/fr/la-collection/artist/ronner-alice?string=ronner"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nainsukh",
+  "name": "Найнсукх",
+  "latin": "Nainsukh",
+  "life": "работал ок. 1735–1778",
+  "tag": "Пахари · Гулер и Джасрота",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "Найнсукх покинул семейную мастерскую и писал для Миана Зоравара Сингха и Бальванта Сингха. Музей подчёркивает точное наблюдение повседневной придворной жизни."
+    ],
+    "technique": [
+      "В сцене показа картины важны не только правитель и художник, но и ткань на кальяне, листва и ожидание реакции заказчика."
+    ],
+    "innovation": "Внимание к конкретной ситуации и настроению отличается от простого повторения церемониального портрета.",
+    "caution": "Работа приписывается Найнсукху; личность представленного художника также предположительна. Она принадлежит Rietberg, а не Метрополитену: выставочная ссуда возвращена.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://www.metmuseum.org/art/collection/search/76038"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Raja%20Balwant%20Singh%20of%20Jasrota%20examining%20a%20painting%20with%20Nainsukh.jpg"
+    },
+    {
+      "title": "Met: Wonder of the Age, исследовательский каталог",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Wonder_of_the_Age_Master_Painters_of_India_1100_1900.pdf"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide25:nainsukh",
+      "title": "Бальвант Сингх рассматривает картину — приписывается Найнсукху",
+      "date": "ок. 1745–1750",
+      "museum": "Museum Rietberg, Цюрих, RVI 1551",
+      "source": "https://www.metmuseum.org/art/collection/search/76038"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,43 @@
+{
+  "id": "asher_brown_durand",
+  "name": "Эшер Браун Дюранд",
+  "latin": "Asher Brown Durand",
+  "life": "1796–1886",
+  "tag": "США · школа реки Гудзон",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "После успешной работы гравёром и портретистом Дюранд в конце 1830-х сосредоточился на пейзаже. Публиковал мысли об искусстве в The Crayon."
+    ],
+    "technique": [
+      "Точные детали, фактура коры и мягкий свет образуют созерцательный лесной вид. NGA относит его к серии портретов деревьев."
+    ],
+    "innovation": "Почти научное наблюдение природы превращается в поэтический образ, отличающийся от более драматических конструкций Коула.",
+    "caution": "Около 1855 — приблизительная дата. Не подменяем показанную работу Родственными душами, находящимися в другом собрании.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея искусства, Вашингтон: Лес в утреннем свете",
+      "url": "https://www.nga.gov/artworks/56571-forest-morning-light"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Asher%20Brown%20Durand%2C%20Forest%20in%20the%20Morning%20Light%2C%20c.%201855%2C%20NGA%2056571.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide19:durand",
+      "title": "Лес в утреннем свете",
+      "date": "ок. 1855",
+      "museum": "Национальная галерея искусства, Вашингтон",
+      "source": "https://www.nga.gov/artworks/56571-forest-morning-light"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,47 @@
+{
+  "id": "gaetano_previati",
+  "name": "Гаэтано Превиати",
+  "latin": "Gaetano Previati",
+  "life": "1852–1920",
+  "tag": "Италия · дивизионизм и символизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Танец часов входит в собрание Fondazione Cariplo и показывается в Gallerie d’Italia в Милане. Музей датирует картину 1899."
+    ],
+    "technique": [
+      "Масло и темпера на холсте. Свет и ритм двенадцати женских фигур создают аллегорию временного круга."
+    ],
+    "innovation": "Раздельное письмо служит символическому движению и непрерывности времени, не обязательно натурному пейзажу.",
+    "caution": "В других источниках обсуждается 1894; используем дату музея 1899. Фото под CC BY-SA 3.0, не CC0; авторство Fondazione Cariplo указано явно.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Gallerie d’Italia, Милан; Fondazione Cariplo: Танец часов",
+      "url": "https://gallerieditalia.com/en/online-museums/artworks/dance_of_the_hours_1899-1745/"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Artgate%20Fondazione%20Cariplo%20-%20Previati%20Gaetano%2C%20La%20Danza%20delle%20Ore.jpg"
+    },
+    {
+      "title": "Лицензия репродукции: CC BY-SA 3.0",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide20:previati",
+      "title": "Танец часов",
+      "date": "1899 по музейной записи",
+      "museum": "Gallerie d’Italia, Милан; Fondazione Cariplo",
+      "source": "https://gallerieditalia.com/en/online-museums/artworks/dance_of_the_hours_1899-1745/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

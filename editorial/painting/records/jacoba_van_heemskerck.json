@@ -1,0 +1,49 @@
+{
+  "id": "jacoba_van_heemskerck",
+  "name": "Якоба ван Хемскерк",
+  "latin": "Jacoba van Heemskerck",
+  "life": "1876–1923",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, работавшая в живописи, графике и витраже.",
+      "Сближалась с кубизмом и экспрессионизмом; участвовала в круге Der Sturm."
+    ],
+    "technique": [
+      "Масло на холсте; 106 × 207,1 см по музею",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как контуры связывают формы?",
+    "caution": "В файле указаны 109 × 210,3 см, музей сейчас даёт 106 × 207,1. Причина не установлена; вторые размеры не объявлены рамой. Не подменять Composition no. 6 1913 года.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.kunstmuseum.nl/en/collection/composition-no-62-island"
+    },
+    {
+      "title": "Дата и выставочная история",
+      "url": "https://artsandculture.google.com/asset/composition-no-62-jacoba-van-heemskerck/ZAFaew1_Hp9Y0w"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacoba_van_Heemskerck_-_Composition_no._62_-_Google_Art_Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "jacoba_van_heemskerck_selected",
+      "title": "Композиция № 62 — Остров",
+      "date": "1917",
+      "museum": "Kunstmuseum Den Haag",
+      "source": "https://www.kunstmuseum.nl/en/collection/composition-no-62-island"
+    }
+  ],
+  "pendingWorksCount": 0
+}

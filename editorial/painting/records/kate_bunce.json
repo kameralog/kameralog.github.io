@@ -1,0 +1,45 @@
+{
+  "id": "kate_bunce",
+  "name": "Кейт Банс",
+  "latin": "Kate Bunce",
+  "life": "1856–1927",
+  "tag": "Британская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-115.js",
+  "existing": {
+    "bio": [
+      "Британская художница, связанная с художественной средой Бирмингема.",
+      "В описании файла подтверждены авторство, диапазон дат и музейный номер 1897P17."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Материал и сюжет сверены по источникам; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как изображение связывает музыку и фигуру?",
+    "caution": "Не путать бирмингемский музей с Birmingham Museum of Art в Алабаме. Диапазон дат не заменён одним предположительным годом.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе или произведении",
+      "url": "https://commons.wikimedia.org/wiki/File:Kate_Elizabeth_Bunce_-_Melody_(Musica)_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Конкретный файл и PD-Art",
+      "url": "https://commons.wikimedia.org/wiki/File:Kate_Elizabeth_Bunce_-_Melody_(Musica)_-_Google_Art_Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "kate_bunce_selected",
+      "title": "Мелодия",
+      "date": "1895–1897",
+      "museum": "Birmingham Museum and Art Gallery",
+      "source": "https://commons.wikimedia.org/wiki/File:Kate_Elizabeth_Bunce_-_Melody_(Musica)_-_Google_Art_Project.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

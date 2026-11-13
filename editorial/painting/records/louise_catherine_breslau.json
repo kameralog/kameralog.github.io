@@ -1,0 +1,37 @@
+{
+  "id": "louise_catherine_breslau",
+  "name": "Луиза Катрин Бреслау",
+  "latin": "Louise Catherine Breslau",
+  "life": "1856–1927",
+  "tag": "Парижская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-120.js",
+  "existing": {
+    "bio": [
+      "Училась в Académie Julian и работала в Париже.",
+      "Изобразила себя, Софи Шеппи и Марию Феллер в их общей мастерской."
+    ],
+    "technique": [
+      "Масло на холсте; 85 × 160 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как представлены разные занятия подруг?",
+    "caution": "В музейных публикациях встречаются Portrait des amis и Portrait des amies. 1883 — приобретение, не создание.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.mahmah.ch/collection/oeuvres/portrait-des-amies/1883-0002"
+    },
+    {
+      "title": "Музейный контекст",
+      "url": "https://www.mahmah.ch/voir-et-en-parler/articles/articles-blog/louise-breslau-en-trois-tableaux"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

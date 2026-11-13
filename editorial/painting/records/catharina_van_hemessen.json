@@ -1,0 +1,49 @@
+{
+  "id": "catharina_van_hemessen",
+  "name": "Катарина ван Хемессен",
+  "latin": "Catharina van Hemessen",
+  "life": "XVI век",
+  "tag": "Художницы XVI–XVIII веков · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-110.js",
+  "existing": {
+    "bio": [
+      "Художница изображена у мольберта с палитрой, кистями и муштабелем.",
+      "Надпись сообщает, что она написала себя в 1548 году в возрасте двадцати лет."
+    ],
+    "technique": [
+      "Масло на доске; размеры на дополнительной сверке",
+      "Описание основано на источниках; самостоятельный осмотр репродукции не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение материала, композиции и профессионального самопредставления; без неподтверждённых заявлений о первенстве.",
+    "caution": "Различать базельскую версию и автопортреты из Эрмитажа и собрания Майкелиса. В источниках расходятся размеры: 31,1 × 24,4 и 32 × 25 см; точные размеры пока не фиксируем. Абсолютное первенство в истории автопортрета не утверждается.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Художественный музей Базеля: Автопортрет у мольберта",
+      "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-you-need-to-know-about-catharina-van-hemessen"
+    },
+    {
+      "title": "Дополнительный источник",
+      "url": "https://www.mauritshuis.nl/en/our-collection/new-and-on-tour/new-arrivals/catharina-van-hemessen"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Self-Portrait_with_easel%E2%80%93Catharina_van_Hemessen.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "1361",
+      "title": "Автопортрет у мольберта",
+      "date": "1548",
+      "museum": "Художественный музей Базеля",
+      "source": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-you-need-to-know-about-catharina-van-hemessen"
+    }
+  ],
+  "pendingWorksCount": 0
+}

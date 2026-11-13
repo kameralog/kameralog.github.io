@@ -1,0 +1,47 @@
+{
+  "id": "georges_seurat",
+  "name": "Жорж Сёра",
+  "latin": "Georges Seurat",
+  "life": "1859–1891",
+  "tag": "Франция · неоимпрессионизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Сёра хотел сообщить современной сцене достоинство древнего фриза. Гранд-Жатт создавалась в 1884–1886; точечная кайма добавлена позднее."
+    ],
+    "technique": [
+      "Поверх ранних коротких горизонтальных мазков нанесены цветные точки. Оптическое смешение описано музеем как гипотеза метода, не буквальная химическая смесь."
+    ],
+    "innovation": "Систематическое построение цвета заменяет впечатление быстрой спонтанной записи и сочетается с монументальным порядком фигур.",
+    "caution": "1884 входит в название, но не означает завершение в один год. Не используем отдельный фрагмент Google Art Project вместо целой композиции.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Художественный институт Чикаго: Воскресный день на острове Гранд-Жатт — 1884",
+      "url": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Georges%20Seurat%20-%20Un%20dimanche%20apr%C3%A8s-midi%20%C3%A0%20l'%C3%8Ele%20de%20la%20Grande%20Jatte.jpg"
+    },
+    {
+      "title": "Национальная галерея: художник",
+      "url": "https://www.nationalgallery.org.uk/artists/georges-seurat"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide20:seurat",
+      "title": "Воскресный день на острове Гранд-Жатт — 1884",
+      "date": "1884–1886; кайма добавлена 1888–1889",
+      "museum": "Художественный институт Чикаго",
+      "source": "https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884"
+    }
+  ],
+  "pendingWorksCount": 0
+}

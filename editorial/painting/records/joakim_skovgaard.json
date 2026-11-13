@@ -1,0 +1,37 @@
+{
+  "id": "joakim_skovgaard",
+  "name": "Йоаким Сковгор",
+  "latin": "Joakim Skovgaard",
+  "life": "1856–1933",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский художник, работавший также в монументальной церковной живописи.",
+      "Литературная основа картины связана с переложением Грундтвигом древнеанглийской поэмы о сошествии Христа во ад."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как свет организует движение фигур?",
+    "caution": "Сюжет изложен как христианское представление и авторская интерпретация, не доказанное событие. Не подменять этюдом KMS7421 или росписями Виборгского собора.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://open.smk.dk/en/artwork/image/KMS3141"
+    },
+    {
+      "title": "Музейное прочтение и литературный источник",
+      "url": "https://artsandculture.google.com/asset/christ-in-the-realm-of-the-dead-joakim-skovgaard/oAH1JS9J2iXgzw"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

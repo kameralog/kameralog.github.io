@@ -1,0 +1,33 @@
+{
+  "id": "adriana_johanna_haanen",
+  "name": "Адриана Йоханна Ханен",
+  "latin": "Adriana Johanna Haanen",
+  "life": "1814–1895",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, специализировавшаяся на цветочных и фруктовых натюрмортах.",
+      "Музей описывает розы и другие цветы в садовой вазе на каменной стене."
+    ],
+    "technique": [
+      "Масло на холсте; 132 × 102 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как ваза организует букет?",
+    "caution": "Диапазон 1850–1884 не заменён точным годом. 1884 — также дата дара; самостоятельный визуальный осмотр не выполнен.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.rijksmuseum.nl/nl/collectie/object/De-zomer-stilleven-met-bloemen--7ee392357e28b617bb065384f6a58746"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pablo_picasso",
+  "name": "Пабло Пикассо",
+  "latin": "Pablo Picasso",
+  "life": "1881–1973",
+  "tag": "Испания и Франция · кубизм и другие периоды",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-21.js",
+  "existing": {
+    "bio": [
+      "С 1908 Пикассо и Брак развивали кубизм в тесном диалоге. Разбор портрета Канвейлера осени 1910 относится именно к раннему кубизму."
+    ],
+    "technique": [
+      "После многочисленных сеансов фигура превращена в сеть полупрозрачных граней, показанных с нескольких точек зрения. Волосы, галстук и цепочка часов помогают узнать сидящего человека."
+    ],
+    "innovation": "Предмет не исчезает, а заново собирается на плоскости: зритель сопоставляет фрагменты и опорные детали.",
+    "caution": "Пока только текст и музейная ссылка: на странице стоит © Estate of Pablo Picasso / ARS. Не используем Старого гитариста как пример кубизма: это Голубой период.",
+    "editorialStatus": "text_only_permission_pending"
+  },
+  "sources": [
+    {
+      "title": "Чикаго: Канвейлер, осень 1910, описание и copyright",
+      "url": "https://www.artic.edu/artworks/111060/daniel-henry-kahnweiler"
+    },
+    {
+      "title": "Чикаго: разные периоды Пикассо",
+      "url": "https://www.artic.edu/articles/1105/made-for-the-present-the-many-styles-of-pablo-picasso"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 0
+}

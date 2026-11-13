@@ -1,0 +1,43 @@
+{
+  "id": "caspar_david_friedrich",
+  "name": "Каспар Давид Фридрих",
+  "latin": "Caspar David Friedrich",
+  "life": "1774–1840",
+  "tag": "Германия · романтизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Фридрих понимал пейзаж как выражение души и чувства. Лондонский Зимний пейзаж соединяет природу с религиозной символикой."
+    ],
+    "technique": [
+      "Туман построен плавными переходами тона и точечными касаниями смальтой; ограниченная палитра важнее яркого локального цвета."
+    ],
+    "innovation": "Пейзаж становится носителем религиозного переживания, не просто описанием погоды.",
+    "caution": "Это лондонская версия с церковью, не одноимённая картина Шверина. Три ели музей связывает с Троицей.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Зимний пейзаж — лондонская версия",
+      "url": "https://www.nationalgallery.org.uk/paintings/caspar-david-friedrich-winter-landscape/"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Caspar%20David%20Friedrich%20-%20Winterlandschaft%20(London).jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide19:friedrich",
+      "title": "Зимний пейзаж — лондонская версия",
+      "date": "вероятно, 1811",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/caspar-david-friedrich-winter-landscape/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

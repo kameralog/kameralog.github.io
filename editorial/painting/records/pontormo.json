@@ -1,0 +1,39 @@
+{
+  "id": "pontormo",
+  "name": "Якопо Понтормо",
+  "latin": "Jacopo da Pontormo",
+  "life": "1494–1557",
+  "tag": "Италия · Флоренция, XVI век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-10.js",
+  "existing": {
+    "bio": [
+      "Чикаго называет художника Якопо Карруччи, известным как Понтормо."
+    ],
+    "technique": [
+      "Портрет Алессандро Медичи — подготовительный этюд для более крупных парадных портретов, которым могли пользоваться художник и мастерская."
+    ],
+    "innovation": "Произведение раскрывает рабочую сторону придворного портрета: небольшой этюд служит образцом для последующих версий.",
+    "caution": "Это рабочий этюд, не законченный парадный портрет. Подробная биография художника в выбранной записи отсутствует.",
+    "editorialStatus": ""
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Alessandro de' Medici",
+      "url": "https://www.artic.edu/artworks/110759"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:110759",
+      "title": "Алессандро Медичи",
+      "date": "1534–35",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/110759"
+    }
+  ],
+  "pendingWorksCount": 0
+}

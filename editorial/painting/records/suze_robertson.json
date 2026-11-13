@@ -1,0 +1,33 @@
+{
+  "id": "suze_robertson",
+  "name": "Сюзе Робертсон",
+  "latin": "Suze Robertson",
+  "life": "1855–1922",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, обращавшаяся к труду и повседневности простых людей.",
+      "Выбранная картина показывает женщину в интерьере с проходом в соседнюю комнату."
+    ],
+    "technique": [
+      "Масло на деревянной основе; 26,2 × 21 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как руки организуют действие?",
+    "caution": "Не подменять работой на бумаге KM 106.820 в Kröller-Müller. 5,5 см в записи не названы толщиной деревянной основы.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Peasant-Woman-Peeling-Potatoes--e89da1e43139c0fedca4404c81859753"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

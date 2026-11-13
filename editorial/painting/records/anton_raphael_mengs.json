@@ -1,0 +1,47 @@
+{
+  "id": "anton_raphael_mengs",
+  "name": "Антон Рафаэль Менгс",
+  "latin": "Anton Raphael Mengs",
+  "life": "1728–1779",
+  "tag": "Неоклассицизм · Рим и испанский двор",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-18.js",
+  "existing": {
+    "bio": [
+      "Прадо считает Менгса важной фигурой рождения неоклассицизма. Поклонение пастухов создавалось в Риме для личного помещения Карла III в Мадридском дворце."
+    ],
+    "technique": [
+      "Масло на дубовой доске. Свет исходит от Младенца и определяет объёмы полукруга фигур; источник композиции — Ночь Корреджо."
+    ],
+    "innovation": "Неоклассицизм здесь не означает отказ от эмоционального света. Мастер соединяет изучение перспективы с переработкой более раннего итальянского образца.",
+    "caution": "В поле записи Прадо стоит 1770, в описании — работа в Риме в 1771–1772. Расхождение сохранено. Гравюры по Менгсу не равны его живописному оригиналу.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Музей Прадо, Мадрид: Поклонение пастухов",
+      "url": "https://www.museodelprado.es/en/the-collection/art-work/the-adoration-of-the-shepherds/bb9e81ba-ff86-4ab0-80de-441d992d4fcd"
+    },
+    {
+      "title": "Репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:La%20Adoraci%C3%B3n%20de%20los%20pastores%2C%20de%20Anton%20Raphael%20Mengs%20(Museo%20del%20Prado).jpg"
+    },
+    {
+      "title": "Прадо: место в неоклассицизме",
+      "url": "https://www.museodelprado.es/en/whats-on/exhibition/anton-raphael-mengs-1728-1779/4be2964e-3169-c21d-52ec-9c6caf24cbfb"
+    }
+  ],
+  "works": [
+    {
+      "key": "prado:P02204",
+      "title": "Поклонение пастухов",
+      "date": "1770 в поле записи; 1771–1772 в описании",
+      "museum": "Музей Прадо, Мадрид",
+      "source": "https://www.museodelprado.es/en/the-collection/art-work/the-adoration-of-the-shepherds/bb9e81ba-ff86-4ab0-80de-441d992d4fcd"
+    }
+  ],
+  "pendingWorksCount": 0
+}

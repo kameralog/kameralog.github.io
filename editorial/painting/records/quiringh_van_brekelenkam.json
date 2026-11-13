@@ -1,0 +1,57 @@
+{
+  "id": "quiringh_van_brekelenkam",
+  "name": "Квирин ван Брекеленкам",
+  "latin": "Quiringh van Brekelenkam",
+  "life": "документирован с 1644; умер в 1668",
+  "tag": "Нидерланды · домашний интерьер",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-62.js",
+  "existing": {
+    "bio": [
+      "Самая ранняя датированная картина Брекеленкама относится к 1644 году, а в лейденскую гильдию он вступил в 1648-м. В Лейдене непрерывно документирован до смерти в 1668 году.",
+      "Он писал семейные сцены и ремесленные мастерские, связанные с текстильной промышленностью города. Интерьеры часто выражают образ желательного домашнего порядка, не являясь точными портретами конкретных семей."
+    ],
+    "technique": [
+      "«Женщина, заснувшая у огня», около 1648: масло по дереву, вероятно дубу; NG2550. Комната аккуратно прибрана, ужин разложен на отглаженной льняной скатерти.",
+      "По трактовке музея, женщина задремала после труда, читая Библию, а не от пьянства или безделья. Предметный порядок помогает отличить этот вариант сюжета от сатирических сцен со спящими хозяйками."
+    ],
+    "innovation": "Один и тот же мотив может иметь противоположные значения в разных картинах. Для интерпретации недостаточно заметить сон: нужно сопоставить книгу, накрытый стол и состояние комнаты.",
+    "caution": "1644 — год деятельности, не рождения. Похвала трудолюбию — музейное прочтение сцены, не установленная биография модели. Не переносить на неё сатирическую трактовку других спящих героинь. NG2550 не подменяется семейным интерьером NG1329 или портновской мастерской NG2549. Свободный файл пока не подтверждён.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: NG2550 и трактовка",
+      "url": "https://www.nationalgallery.org.uk/paintings/quiringh-van-brekelenkam-a-woman-asleep-by-a-fire"
+    },
+    {
+      "title": "Национальная галерея: биография",
+      "url": "https://www.nationalgallery.org.uk/artists/quiringh-van-brekelenkam"
+    },
+    {
+      "title": "Для сравнения: семейная сцена",
+      "url": "https://www.nationalgallery.org.uk/paintings/quiringh-van-brekelenkam-an-interior-with-a-man-and-a-woman-seated-by-a-fire"
+    },
+    {
+      "title": "Для сравнения: мастерская портного",
+      "url": "https://www.nationalgallery.org.uk/paintings/quiringh-van-brekelenkam-interior-of-a-tailor-s-shop"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Quiringh_van_Brekelenkam_-_Slapende_vrouw_met_een_boek_op_haar_schoot,_in_een_interieur_-_NG2550_-_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG2550",
+      "title": "Женщина, заснувшая у огня",
+      "date": "около 1648",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/quiringh-van-brekelenkam-a-woman-asleep-by-a-fire"
+    }
+  ],
+  "pendingWorksCount": 0
+}

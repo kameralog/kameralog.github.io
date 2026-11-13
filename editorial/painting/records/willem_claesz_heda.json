@@ -1,0 +1,53 @@
+{
+  "id": "willem_claesz_heda",
+  "name": "Виллем Клас Хеда",
+  "latin": "Willem Claesz. Heda",
+  "life": "1594–1680",
+  "tag": "Нидерланды · тональный банкетный натюрморт",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-71.js",
+  "existing": {
+    "bio": [
+      "Хеда жил и работал в Харлеме. Вместе с Класом он стал одним из главных мастеров почти монохромного ontbijtje — банкетного натюрморта с тщательно расставленными предметами.",
+      "Его композиции ценились за способность передавать металл, стекло, дамаст и пищу ограниченным диапазоном серых и коричневых тонов."
+    ],
+    "technique": [
+      "«Натюрморт с позолоченной чашей», 1635: масло по панели; 87,8 × 112,6 см, SK-A-4830. Картина подписана HEDA. 1635 на ткани справа.",
+      "Олово, серебро, дамаст, стекло и перламутр различаются нюансами серого; жёлтые и охристые акценты поддерживают равновесие. Рёмер, tazza, хлеб, устрицы и хлебные сосуды выстроены по диагоналям."
+    ],
+    "innovation": "Ограниченный цвет не упрощает предметы, а делает различие поверхностей главным зрительным событием. Музей считает эту большую композицию одной из самых представительных работ Хеды.",
+    "caution": "Не смешивай SK-A-4830 с «Натюрмортом с серебряной tazza» 1630 года SK-C-1694 или крабами NG1469. Датировка и подпись для выбранного предмета точны; файл репродукции пока не подключён.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Рейксмюсеум: SK-A-4830, подпись и описание",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-a-Gilt-Cup--4617db9a8506653eb2437fc6bde903fd"
+    },
+    {
+      "title": "Рейксмюсеум: техническая статья о tazza",
+      "url": "https://www.rijksmuseum.nl/en/collection/SK-C-1694/catalogus-entry"
+    },
+    {
+      "title": "Национальная галерея: сравнительный натюрморт с крабом",
+      "url": "https://www.nationalgallery.org.uk/paintings/willem-claesz-heda-still-life-pewter-and-silver-vessels-and-a-crab"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Stilleven_met_vergulde_bokaal_Rijksmuseum_SK-A-4830.jpeg"
+    }
+  ],
+  "works": [
+    {
+      "key": "rijks:SK-A-4830",
+      "title": "Натюрморт с позолоченной чашей",
+      "date": "1635",
+      "museum": "Рейксмюсеум, Амстердам",
+      "source": "https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-a-Gilt-Cup--4617db9a8506653eb2437fc6bde903fd"
+    }
+  ],
+  "pendingWorksCount": 0
+}

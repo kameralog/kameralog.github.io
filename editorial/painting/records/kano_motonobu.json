@@ -1,0 +1,39 @@
+{
+  "id": "kano_motonobu",
+  "name": "Кано Мотонобу",
+  "latin": "Kanō Motonobu",
+  "life": "ок. 1476–1559",
+  "tag": "Муромати · школа Кано",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Мотонобу руководил влиятельной киотской мастерской; её живопись была востребована при дворе и в резиденциях сёгунов."
+    ],
+    "technique": [
+      "Выбранная картина первоначально украшала раздвижную дверь. Видимый сегодня вертикальный свиток — результат позднего оформления."
+    ],
+    "innovation": "Живопись работала как архитектурная среда; её нынешний музейный формат может скрывать первоначальную функцию.",
+    "caution": "Показана одна из четырёх панелей, не отдельный изначальный свиток. Чикагскую работу с Attributed to Kano Motonobu не добавляем как бесспорную.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Flowers and Birds in a Spring Landscape",
+      "url": "https://www.clevelandart.org/art/1970.6.1"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:145373",
+      "title": "Цветы и птицы в весеннем пейзаже — одна дверная панель",
+      "date": "XVI век",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1970.6.1"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ghulam_ali_khan",
+  "name": "Гулам Али Хан",
+  "latin": "Ghulam ‘Ali Khan",
+  "life": "XIX век; делийский круг работал ок. 1810–1840",
+  "tag": "Company painting · Дели",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-25.js",
+  "existing": {
+    "bio": [
+      "Гулам Али Хан и связанные с ним семейные мастерские выполняли заказы европейских резидентов. Архитектурные листы для братьев Фрейзер, по Метрополитену, утрачены."
+    ],
+    "technique": [
+      "Восемь мужчин в индийских и бирманских костюмах музей относит к кругу, вероятно другому художнику мастерской, использовавшему лист альбома Фрейзера."
+    ],
+    "innovation": "Точное фиксирование модели заказчиками не гарантирует сохранения имени художника: роль мастерской надо устанавливать отдельно.",
+    "caution": "Пока текстовая страница. Не выдаём circle of за личное авторство Гулам Али Хана и не используем анонимный вид Агры из каталога как подписной пример мастера.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный источник",
+      "url": "https://www.metmuseum.org/essays/company-painting-in-nineteenth-century-india"
+    },
+    {
+      "title": "Произведение для дальнейшей проверки",
+      "url": "https://www.metmuseum.org/art/collection/search/454038"
+    },
+    {
+      "title": "Met: Wonder of the Age, исследовательский каталог",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Wonder_of_the_Age_Master_Painters_of_India_1100_1900.pdf"
+    }
+  ],
+  "works": [
+    {
+      "key": "audit:ghulam_ali_khan:9322d994baab",
+      "title": "Восемь мужчин в индийских и бирманских костюмах — Круг Гулама Али Хана",
+      "date": "XIX век",
+      "museum": "The Metropolitan Museum of Art",
+      "source": "https://www.metmuseum.org/art/collection/search/454038"
+    }
+  ],
+  "pendingWorksCount": 0
+}

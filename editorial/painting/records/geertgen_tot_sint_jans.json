@@ -1,0 +1,53 @@
+{
+  "id": "geertgen_tot_sint_jans",
+  "name": "Гертген тот Синт Янс",
+  "latin": "Geertgen tot Sint Jans",
+  "life": "около 1455/1465 — около 1485/1495",
+  "tag": "Нидерланды · ночной религиозный образ",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-56.js",
+  "existing": {
+    "bio": [
+      "Даты жизни Гертгена известны приблизительно. Национальная галерея относит «Ночное Рождество» предположительно к около 1490 года, не к точно установленному году.",
+      "Небольшая картина, вероятно, служила частной молитве. Решение ночной сцены восходит к двум утраченным «Рождествам» Гуго ван дер Гуса, а идея света от Младенца — к видениям Бригитты Шведской."
+    ],
+    "technique": [
+      "Масло по дереву, вероятно дубу; 34 × 25,3 см, NG4081. Младенец освещает Марию и ангелов. В глубине различаются земной костёр пастухов и сияние небесного вестника.",
+      "Свет собирает тесную группу внутри тёмного хлева. Лучи когда-то были заметнее; одежда Марии первоначально имела разные синие оттенки, а не выглядела чёрной."
+    ],
+    "innovation": "Несколько источников света создают одновременно пространство и богословский смысл. Маленький формат превращает рассказ о Рождестве в близкое переживание удивления и молитвенного внимания.",
+    "caution": "Не называй картину первым ночным пейзажем или изобретением Караваджо. Доску обрезали в 1901-м, пожар повредил её в 1904-м; потемнение не равно первоначальному замыслу. Старый музейный скан может отличаться от вида после реставрации. PD-Art файла проверен; визуальный просмотр и браузерная загрузка — нет.",
+    "editorialStatus": "museum_sources_pd_art_file_checked_browser_check_pending"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: NG4081, история и размеры",
+      "url": "https://www.nationalgallery.org.uk/paintings/geertgen-tot-sint-jans-the-nativity-at-night"
+    },
+    {
+      "title": "Музей: реставрация света",
+      "url": "https://www.nationalgallery.org.uk/behind-the-scenes/behind-the-scenes-in-conservation-geertgen-tot-sint-jans-s-the-nativity-at-night"
+    },
+    {
+      "title": "Каталог 1998: ограничения датировки",
+      "url": "https://www.nationalgallery.org.uk/paintings/catalogues/campbell-1998/the-nativity-at-night"
+    },
+    {
+      "title": "Commons: музейный скан и PD-Art",
+      "url": "https://commons.wikimedia.org/wiki/File:Geertgen_tot_Sint_Jans,_The_Nativity_at_Night,_c_1490.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG4081",
+      "title": "Ночное Рождество",
+      "date": "возможно около 1490",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/geertgen-tot-sint-jans-the-nativity-at-night"
+    }
+  ],
+  "pendingWorksCount": 0
+}

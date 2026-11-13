@@ -1,0 +1,45 @@
+{
+  "id": "philippe_de_champaigne",
+  "name": "Филипп де Шампень",
+  "latin": "Philippe de Champaigne",
+  "life": "XVII век",
+  "tag": "Три поворота · модель для скульптуры",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-102.js",
+  "existing": {
+    "bio": [
+      "Ришельё показан анфас и в двух профилях.",
+      "Портрет отправлен из Парижа в Рим Франческо Моки около 1642 года как модель для скульптуры."
+    ],
+    "technique": [
+      "Масло на холсте; 58,7 × 72,8 см.",
+      "Центральную и правую головы музей предположительно относит к Шампеню, остальное — вероятно, к мастерской."
+    ],
+    "innovation": "Учебный ракурс — повторение головы обслуживает практическую задачу показа модели с разных сторон.",
+    "caution": "Авторство произведения: Шампень и мастерская. Распределение участков предположительно. Надпись над правой головой означает «эта лучше». Карточка указывает модель для статуи в полный рост; не подменяем её общим рассказом о бюсте. Дата приблизительная.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Тройной портрет кардинала Ришельё",
+      "url": "https://www.nationalgallery.org.uk/paintings/philippe-de-champaigne-and-studio-triple-portrait-of-cardinal-de-richelieu"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642%2C_Philippe_de_Champaigne.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG798",
+      "title": "Тройной портрет кардинала Ришельё",
+      "date": "вероятно, 1642",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/philippe-de-champaigne-and-studio-triple-portrait-of-cardinal-de-richelieu"
+    }
+  ],
+  "pendingWorksCount": 0
+}

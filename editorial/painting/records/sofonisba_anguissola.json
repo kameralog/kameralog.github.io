@@ -1,0 +1,53 @@
+{
+  "id": "sofonisba_anguissola",
+  "name": "Софонисба Ангвиссола",
+  "latin": "Sofonisba Anguissola",
+  "life": "XVI–XVII века",
+  "tag": "Художницы XVI–XVIII веков · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-109.js",
+  "existing": {
+    "bio": [
+      "Выбрано изображение художницы у мольберта из музея-замка в Ланьцуте.",
+      "На создаваемой картине изображены Мадонна с Младенцем; автопортрет представляет и автора, и её работу."
+    ],
+    "technique": [
+      "Масло на холсте; 66 × 57 см",
+      "Указанные в тексте наблюдения опираются на перечисленные источники; самостоятельный осмотр изображения не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сопоставление произведений, материалов и самопредставления; заявление о первенстве не делается.",
+    "caution": "Не утверждать, что Ангвиссола знала автопортрет Катарины ван Хемессен: WGA прямо отмечает неопределённость. Не подменять другими автопортретами художницы.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Музей-замок, Ланьцут: Автопортрет у мольберта",
+      "url": "https://nmwa.org/blog/artist-spotlight/5-fast-facts-sofonisba-anguissola/"
+    },
+    {
+      "title": "Дополнительный источник",
+      "url": "https://www.wga.hu/html/a/anguisso/sofonisb/selfease.html"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Sofonisba_Anguissola%2C_Selvportr%C3%A6t_ved_staffeliet%2C_1556%2C_Museum_Castle_in_%C5%81a%C5%84cut.jpg"
+    },
+    {
+      "title": "Прочитанное описание файла",
+      "url": "https://en.wikipedia.org/wiki/File:Sofonisba_Anguissola,_Selvportr%C3%A6t_ved_staffeliet,_1556,_Museum_Castle_in_%C5%81a%C5%84cut.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "916MT",
+      "title": "Автопортрет у мольберта",
+      "date": "1556",
+      "museum": "Музей-замок, Ланьцут",
+      "source": "https://nmwa.org/blog/artist-spotlight/5-fast-facts-sofonisba-anguissola/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

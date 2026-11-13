@@ -1,0 +1,47 @@
+{
+  "id": "carl_spitzweg",
+  "name": "Карл Шпицвег",
+  "latin": "Carl Spitzweg",
+  "life": "1808–1885",
+  "tag": "Германия · бидермейер",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Изначально аптекарь, Шпицвег стал художником-самоучкой и писал небольшие жанровые сцены с мягкой иронией."
+    ],
+    "technique": [
+      "В Бедном поэте тесная мансарда, зонтик и рукописи превращают бытовое окружение в характеристику героя."
+    ],
+    "innovation": "Образ опровергает идеализацию художественного призвания, одновременно показывая бедность творческого труда.",
+    "caution": "Показана мюнхенская версия 1839 года, не вариант Grohmann 1837. Нынешний зал показа не меняет принадлежности к собранию Новой пинакотеки.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Новая пинакотека, Мюнхен: Бедный поэт — мюнхенская версия",
+      "url": "https://www.sammlung.pinakothek.de/en/artwork/9pL3KbKLeb"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl%20Spitzweg%20-%20Der%20arme%20Poet%20(Neue%20Pinakothek).jpg"
+    },
+    {
+      "title": "Пинакотека: биография",
+      "url": "https://www.sammlung.pinakothek.de/en/artist/jpxeZ72LJ7"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide19:spitzweg",
+      "title": "Бедный поэт — мюнхенская версия",
+      "date": "1839",
+      "museum": "Новая пинакотека, Мюнхен",
+      "source": "https://www.sammlung.pinakothek.de/en/artwork/9pL3KbKLeb"
+    }
+  ],
+  "pendingWorksCount": 0
+}

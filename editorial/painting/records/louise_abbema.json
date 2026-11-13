@@ -1,0 +1,53 @@
+{
+  "id": "louise_abbema",
+  "name": "Луиза Аббема",
+  "latin": "Louise Abbéma",
+  "life": "1853 или 1858–1927",
+  "tag": "Парижская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-120.js",
+  "existing": {
+    "bio": [
+      "Французская художница, известная портретами и декоративными работами.",
+      "Картина показывает дружескую встречу с участием Сары Бернар и самой художницы."
+    ],
+    "technique": [
+      "Масло на холсте; 194 × 308 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как растения организуют интерьер?",
+    "caution": "Год рождения расходится: POP даёт 1858, современные исследования и описание файла — 1853. Дата работы 1877, приобретение 1878.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://pop.culture.gouv.fr/notice/joconde/00980000018"
+    },
+    {
+      "title": "Биография и другая дата рождения",
+      "url": "https://www.beauxarts.com/grand-format/louise-abbema-en-2-minutes/"
+    },
+    {
+      "title": "Прочитанная страница конкретного файла",
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Louise_Abb%C3%A9ma_-_D%C3%A9jeuner_dans_la_serre_01.jpg"
+    },
+    {
+      "title": "Конкретный файл и лицензия",
+      "url": "https://commons.wikimedia.org/wiki/File:Louise_Abb%C3%A9ma_-_D%C3%A9jeuner_dans_la_serre_01.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "louise_abbema_selected",
+      "title": "Завтрак в оранжерее",
+      "date": "1877",
+      "museum": "Musée des beaux-arts de Pau",
+      "source": "https://pop.culture.gouv.fr/notice/joconde/00980000018"
+    }
+  ],
+  "pendingWorksCount": 0
+}

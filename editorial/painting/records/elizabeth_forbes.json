@@ -1,0 +1,41 @@
+{
+  "id": "elizabeth_forbes",
+  "name": "Элизабет Форбс",
+  "latin": "Elizabeth Forbes",
+  "life": "XIX–XX века",
+  "tag": "Британская художественная среда · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-114.js",
+  "existing": {
+    "bio": [
+      "Изображена школа в деревне Пол близ Ньюлина.",
+      "Текст с музейной подписью связывает создание картины с периодом перед свадьбой художницы."
+    ],
+    "technique": [
+      "Масло на холсте; 106 × 145 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение сюжета, материала и композиции без неподтверждённых заявлений о первенстве.",
+    "caution": "Не смешивать со Стэнхоупом Форбсом. 1989 — год поступления, не создания. Снимок Art UK / Victorian Web CC BY-NC не подключён как свободный. Права отдельного Commons-файла не прочитаны.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Пенли-Хаус, Пензанс: Уроки окончены",
+      "url": "https://victorianweb.org/painting/eforbes/paintings/2.html"
+    },
+    {
+      "title": "Музейная выставка",
+      "url": "https://penleehouse.org.uk/exhibition/newlyn-school-interiors/"
+    },
+    {
+      "title": "Автор и картина",
+      "url": "https://www.newenglishartclub.co.uk/past-members/elizabeth-forbes/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

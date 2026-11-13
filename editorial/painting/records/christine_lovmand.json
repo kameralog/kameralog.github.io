@@ -1,0 +1,37 @@
+{
+  "id": "christine_lovmand",
+  "name": "Кристине Лёвманн",
+  "latin": "Christine Løvmand",
+  "life": "1803–1872",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-125.js",
+  "existing": {
+    "bio": [
+      "Датская художница, специализировавшаяся на цветочных и фруктовых натюрмортах.",
+      "Училась у Иоганнеса Людвига Камрадта и Кристоффера Вильхельма Эккерсберга."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как букет включён в пейзаж?",
+    "caution": "Не подменять A Basket of Fruit in a Landscape 1832 года, KMS227, или Blomsterstykke 1841, KMS403. Материал и дата требуют финальной предметной сверки по прямой записи SMK.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings/Collection/Statens_Museum_for_Kunst/19th_Century"
+    },
+    {
+      "title": "Биография и другие произведения",
+      "url": "https://en.wikipedia.org/wiki/Christine_L%C3%B8vmand"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

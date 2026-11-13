@@ -1,0 +1,47 @@
+{
+  "id": "salvator_rosa",
+  "name": "Сальватор Роза",
+  "latin": "Salvator Rosa",
+  "life": "1615–1673",
+  "tag": "Италия · барочный пейзаж",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-17.js",
+  "existing": {
+    "bio": [
+      "После 1649 Роза жил в Риме, стремясь к большей свободе, чем при дворе Медичи. Пейзаж с Меркурием и нечестным дровосеком заказал Лоренцо Онофрио Колонна около 1663."
+    ],
+    "technique": [
+      "Музей описывает всё более драматические пейзажи 1660-х: гнущиеся от ветра деревья, водные потоки и грозовые облака. Небольшой сюжет помещён в большую взволнованную природу."
+    ],
+    "innovation": "Пейзаж несёт эмоциональный строй и моральный рассказ, а не только служит сценической декорацией для фигур.",
+    "caution": "Пока без встроенного изображения. Не используем файл с Nachfolger в названии как бесспорно авторскую картину. Художник показывает нечестного дровосека, не награждение честного.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: Меркурий и дровосек",
+      "url": "https://www.nationalgallery.org.uk/paintings/salvator-rosa-landscape-with-mercury-and-the-dishonest-woodsman"
+    },
+    {
+      "title": "Национальная галерея: путь художника",
+      "url": "https://www.nationalgallery.org.uk/paintings/salvator-rosa-landscape-with-travellers-asking-the-way"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Salvator_Rosa_Nachfolger,_gemalt_vor_1837,_%22Landschaft_mit_Merkur_und_dem_verlogenen_Holzf%C3%A4ller%22.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG84",
+      "title": "Пейзаж с Меркурием и нечестным дровосеком",
+      "date": "около 1663",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/salvator-rosa-landscape-with-mercury-and-the-dishonest-woodsman"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,51 @@
+{
+  "id": "jean_francois_millet",
+  "name": "Жан Франсуа Милле",
+  "latin": "Jean-François Millet",
+  "life": "1814–1875",
+  "tag": "Франция · реализм · Барбизон",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Милле вырос в Нормандии и в 1849 переехал в Барбизон. Getty подчёркивает тяжесть и достоинство труда в его крестьянских сюжетах."
+    ],
+    "technique": [
+      "Человек с мотыгой показывает отдых истощённого работника: грубость тела и позы стала причиной резкой критики."
+    ],
+    "innovation": "Крестьянский труд становится крупной темой искусства. Реакции публики были противоречивы и менялись во времени.",
+    "caution": "Берём живописный оригинал 85.PA.114, не рисунок 85.GB.115. Дебют — Салон 1863; старый учебный текст ошибочно называет 1862. Не путай с Джоном Эвереттом Милле.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Музей Getty, Лос-Анджелес: Человек с мотыгой",
+      "url": "https://www.getty.edu/art/exhibitions/man_with_hoe/index.html"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Mann%20mit%20Hacke.jpg"
+    },
+    {
+      "title": "Getty: биография",
+      "url": "https://www.getty.edu/art/collection/person/103JZS"
+    },
+    {
+      "title": "Getty: оригинал и подделка, Салон 1863",
+      "url": "https://www.getty.edu/news/the-forgery-that-shocked-the-art-world-millet-man-with-a-hoe-painting/"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide19:millet",
+      "title": "Человек с мотыгой",
+      "date": "1860–1862",
+      "museum": "Музей Getty, Лос-Анджелес",
+      "source": "https://www.getty.edu/art/exhibitions/man_with_hoe/index.html"
+    }
+  ],
+  "pendingWorksCount": 0
+}

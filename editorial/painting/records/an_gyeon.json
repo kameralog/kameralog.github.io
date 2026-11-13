@@ -1,0 +1,55 @@
+{
+  "id": "an_gyeon",
+  "name": "Ан Гён",
+  "latin": "An Gyeon (안견)",
+  "life": "работал ок. 1440–1470",
+  "tag": "Чосон · придворная пейзажная живопись",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-24.js",
+  "existing": {
+    "bio": [
+      "Ан Гён написал Сонное путешествие в страну цветущих персиков в 1447 по заказу принца Анпхёна. Принц описал сон и собрал поэтические отклики современников."
+    ],
+    "technique": [
+      "Тушь и лёгкий цвет на шёлке. Динамичные скальные формы и световая атмосфера перерабатывают северосунскую традицию Го Си. Утопическая долина расположена в правой части."
+    ],
+    "innovation": "Образ объединяет литературную модель Тао Юаньмина, переживание заказчика и работу художника; это не копия конкретного корейского вида.",
+    "caution": "Оригинал хранится в Центральной библиотеке университета Тэнри в Японии. Цифровая экспозиция в Сеуле — не перемещение оригинала. Другой заказ Анпхёна 1442 не сохранился.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Центральная библиотека университета Тэнри, Япония: Dream Journey to the Peach Blossom Land",
+      "url": "https://www.metmuseum.org/essays/mountain-and-water-korean-landscape-painting-1400-1800"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Dream%20Journey%20to%20the%20Peach%20Blossom%20Land.jpg"
+    },
+    {
+      "title": "Национальный музей Кореи: заказ Анпхёна и сохранившийся шедевр",
+      "url": "https://www.museum.go.kr/ENG/contents/E0401000000.do?schM=view&relicRecommendId=519671"
+    },
+    {
+      "title": "Korea.net: оригинал в Тэнри и цифровая версия",
+      "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=132671"
+    },
+    {
+      "title": "World History Encyclopedia: изображение помечено Public Domain",
+      "url": "https://www.worldhistory.org/image/13344/mongyudowondo-dream-journey-to-the-peach-blossom-l/"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide24:an",
+      "title": "Сонное путешествие в страну цветущих персиков",
+      "date": "1447",
+      "museum": "Центральная библиотека университета Тэнри, Япония",
+      "source": "https://www.metmuseum.org/essays/mountain-and-water-korean-landscape-painting-1400-1800"
+    }
+  ],
+  "pendingWorksCount": 0
+}

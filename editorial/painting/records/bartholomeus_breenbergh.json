@@ -1,0 +1,53 @@
+{
+  "id": "bartholomeus_breenbergh",
+  "name": "Бартоломеус Бренберг",
+  "latin": "Bartholomeus Breenbergh",
+  "life": "1598–1657",
+  "tag": "Нидерланды и Италия · пейзаж с древностями",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-59.js",
+  "existing": {
+    "bio": [
+      "Бренберг происходил из Девентера; работал в Амстердаме и Риме, где был связан с Паулем Брилем. Опыт Италии сформировал интерес к древним памятникам и историческому пейзажу.",
+      "В «Нахождении младенца Моисея дочерью фараона», 1636, этот интерес перенесён в воображаемый Египет. Картина подписана и датирована, хотя древности и европейская растительность не складываются в достоверный вид местности."
+    ],
+    "technique": [
+      "Масло по дереву, вероятно дубу; 41,5 × 56,7 см, NG208. Тёмный и чёткий передний план сменяется зелёными средними планами и бледной голубовато-серой далью.",
+      "Обелиски, колонна, пирамида и стела обозначают древний мир, но не все принадлежат Египту. Дочь фараона одета как состоятельная европейка; в глубине верблюды идут по виадуку, у реки виден слон."
+    ],
+    "innovation": "Историческое воображение строится из узнаваемых вещей, которые соединены вопреки географической точности. Маленький библейский эпизод остаётся частью большого пространственного спектакля.",
+    "caution": "Это NG208, 1636, на дереве, а не картина Hallwyl 1622 года на меди. Мириам предлагает кормилицу и возвращает ребёнка матери: не принимай всех женщин за дочерей фараона. Египет здесь воображаемый, не археологическая реконструкция. Найденные страницы файлов репродукций не загрузились; изображение пока не подключено.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: NG208, размеры, костюм и античности",
+      "url": "https://www.nationalgallery.org.uk/paintings/bartholomeus-breenbergh-the-finding-of-the-infant-moses-by-pharaoh-s-daughter"
+    },
+    {
+      "title": "Национальная галерея: биография",
+      "url": "https://www.nationalgallery.org.uk/artists/bartholomeus-breenbergh"
+    },
+    {
+      "title": "Для различения: другая версия в Hallwyl",
+      "url": "https://commons.wikimedia.org/wiki/File:Bartholomeus_Breenbergh_-_Landscape_with_the_Finding_of_Moses_-_WGA03155.jpg"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Bartholomeus_Breenbergh_(1598-1657)_-_The_Finding_of_the_Infant_Moses_by_Pharaoh%27s_Daughter_-_NG208_-_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG208",
+      "title": "Нахождение младенца Моисея дочерью фараона",
+      "date": "1636",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/bartholomeus-breenbergh-the-finding-of-the-infant-moses-by-pharaoh-s-daughter"
+    }
+  ],
+  "pendingWorksCount": 0
+}

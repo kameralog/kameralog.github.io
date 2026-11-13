@@ -1,0 +1,54 @@
+{
+  "id": "vasily_kandinsky",
+  "name": "Василий Кандинский",
+  "latin": "Vasily Kandinsky",
+  "life": "1866–1944",
+  "tag": "Россия Германия Франция · Синий всадник и абстракция",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-21.js",
+  "existing": {
+    "bio": [
+      "В мюнхенском круге Синего всадника Кандинский связывал формы и цвета с духовным, эмоциональным и мнемоническим воздействием. Музей отмечает влияние народного и средневекового искусства."
+    ],
+    "technique": [
+      "В Картине с тройкой 1911 ещё есть узнаваемый экипаж и расписанная автором рама. Работа 1913 с зелёным центром позволяет сравнить степень предметной определённости."
+    ],
+    "innovation": "Самостоятельные отношения цвета и формы могут выражать состояние без обязательного буквального рассказа. Это не отменяет узнаваемых мотивов в ранних работах.",
+    "caution": "Не называем каждую работу Кандинского беспредметной. В записи Зелёного центра нет подробного музейного толкования: вопросы к ней являются редакционными, не цитатой художника.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Painting with Troika",
+      "url": "https://www.artic.edu/artworks/8983"
+    },
+    {
+      "title": "Art Institute of Chicago: Painting with Green Center",
+      "url": "https://www.artic.edu/artworks/8987"
+    },
+    {
+      "title": "Чикаго: Картина с зелёным центром, данные без толкования",
+      "url": "https://www.artic.edu/artworks/8987/painting-with-green-center"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:8983",
+      "title": "Картина с тройкой",
+      "date": "January 18, 1911",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/8983"
+    },
+    {
+      "key": "aic:8987",
+      "title": "Картина с зелёным центром",
+      "date": "1913",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/8987"
+    }
+  ],
+  "pendingWorksCount": 0
+}

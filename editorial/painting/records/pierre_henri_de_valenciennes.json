@@ -1,0 +1,39 @@
+{
+  "id": "pierre_henri_de_valenciennes",
+  "name": "Пьер Анри де Валансьен",
+  "latin": "Pierre-Henri de Valenciennes",
+  "life": "1750–1819",
+  "tag": "Франция · неоклассический пейзаж",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-18.js",
+  "existing": {
+    "bio": [
+      "Пейзаж 1796 года с Александром у гробницы Кира имеет парное произведение о горе Афон. Чикаго связывает пару с увлечением античностью и культурой чувствительности конца XVIII века."
+    ],
+    "technique": [
+      "Масло на холсте. Историческое событие помещено в пейзаж, где гробница служит поводом для морального размышления."
+    ],
+    "innovation": "Пейзаж может говорить об истории и конечности власти: музей видит в выборе сюжетов намёк на преходящий характер империи и человеческой жизни.",
+    "caution": "Предложенный музеем смысл — интерпретация, не цитата из авторской программы. Показана одна картина пары. Не путай античную тему с датой создания.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Alexander at the Tomb of Cyrus the Great",
+      "url": "https://www.artic.edu/artworks/100060"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:100060",
+      "title": "Александр у гробницы Кира Великого",
+      "date": "1796",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/100060"
+    }
+  ],
+  "pendingWorksCount": 0
+}

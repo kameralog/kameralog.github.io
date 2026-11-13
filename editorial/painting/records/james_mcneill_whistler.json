@@ -1,0 +1,50 @@
+{
+  "id": "james_mcneill_whistler",
+  "name": "Джеймс Макнил Уистлер",
+  "latin": "James McNeill Whistler",
+  "life": "1834–1903",
+  "tag": "США и Британия · эстетизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Американец, работавший в Лондоне, Уистлер развивал искусство ради искусства и музыкальные названия картин."
+    ],
+    "technique": [
+      "В ноктюрне корабли превращаются в тени, а приглушённый цвет организует композицию. В Трувиле высокий горизонт и плоские зоны связаны с японской гравюрой."
+    ],
+    "innovation": "Рассказ и топография уступают самостоятельным цветовым гармониям. Это шаг к абстрагированию, не полное отсутствие предметов.",
+    "caution": "Эстетизм не равен реализму или импрессионизму. Включение в блок XIX века не означает одинаковую манеру у всех его художников.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Nocturne: Blue and Gold—Southampton Water",
+      "url": "https://www.artic.edu/artworks/56905"
+    },
+    {
+      "title": "Art Institute of Chicago: Trouville (Grey and Green, the Silver Sea)",
+      "url": "https://www.artic.edu/artworks/81572"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:56905",
+      "title": "Nocturne: Blue and Gold—Southampton Water",
+      "date": "1872",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/56905"
+    },
+    {
+      "key": "aic:81572",
+      "title": "Trouville (Grey and Green, the Silver Sea)",
+      "date": "1865",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/81572"
+    }
+  ],
+  "pendingWorksCount": 0
+}

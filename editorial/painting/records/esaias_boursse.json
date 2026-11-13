@@ -1,0 +1,57 @@
+{
+  "id": "esaias_boursse",
+  "name": "Эсайас Бурсе",
+  "latin": "Esaias Boursse",
+  "life": "1631–1672",
+  "tag": "Нидерланды · домашний труд",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-62.js",
+  "existing": {
+    "bio": [
+      "Бурсе был амстердамским мастером бытовых интерьеров и дворовых сцен. Каталог Wallace Collection указывает годы 1631–1672; партнёрский музейный материал сопоставляет его спокойные сцены с искусством Питера де Хоха.",
+      "Выбранный «Интерьер с женщиной за прялкой» написан в 1661 году. Это самостоятельная картина Рейксмюсеума, не «Интерьер с готовящей женщиной» 1656 года из Wallace Collection."
+    ],
+    "technique": [
+      "Масло по холсту; SK-A-767. Женщина работает у прялки, рядом мужчина греется у очага. Красный плиточный пол и витражные окна задают узнаваемую материальную среду.",
+      "На полке над камином стоят тарелки. Бытовые предметы и занятия связывают фигуры с комнатой; дата 1661 зафиксирована в музейном паспорте как надпись на произведении."
+    ],
+    "innovation": "Предметы и ежедневный труд создают содержание сцены без необходимости крупного исторического события. Сравнение с другими домашними интерьерами показывает различие между общим мотивом и копированием конкретной картины.",
+    "caution": "Не путай выбранную живопись с гравюрами, лишь приписанными Эсайасу или ранее относившимися к Яну Бурсе. Каталог приводит 60 × 49 × 9 см, но измерение с глубиной не выдано здесь за размер красочного поля или толщину холста. Выбран SK-A-767 на холсте. Полная страница конкретной репродукции не загрузилась; изображение не подключено.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Рейксмюсеум: SK-A-767, дата и предметы",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Interior-with-Woman-at-the-Spinning-Wheel--6c79b60d7ea41d189deef8e0e26c74b6"
+    },
+    {
+      "title": "Wallace Collection: годы автора и другая картина",
+      "url": "https://wallacelive.wallacecollection.org/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=65100"
+    },
+    {
+      "title": "Партнёрский материал Wallace: тип сцен",
+      "url": "https://artsandculture.google.com/asset/interior-with-woman-cooking-esaias-boursse/xwH_g_MSERTOzQ?hl=en"
+    },
+    {
+      "title": "Для различения: атрибуция отдельной гравюры",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Kerkinterieur-met-kerkgangers--1c9a6a995ab912dd329a1348d2ab48bb"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Esaias_Boursse_-_Interieur_met_vrouw_aan_spinnewiel_-_SK-A-767_-_Rijksmuseum.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "rijks:SK-A-767",
+      "title": "Интерьер с женщиной за прялкой",
+      "date": "1661",
+      "museum": "Рейксмюсеум, Амстердам",
+      "source": "https://www.rijksmuseum.nl/en/collection/object/Interior-with-Woman-at-the-Spinning-Wheel--6c79b60d7ea41d189deef8e0e26c74b6"
+    }
+  ],
+  "pendingWorksCount": 0
+}

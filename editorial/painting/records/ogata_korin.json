@@ -1,0 +1,39 @@
+{
+  "id": "ogata_korin",
+  "name": "Огата Корин",
+  "latin": "Ogata Kōrin",
+  "life": "1658–1716",
+  "tag": "Эдо · Римпа",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Кливлендская Слива около 1700 показывает, что Корин работал и монохромной тушью, не только по золоту."
+    ],
+    "technique": [
+      "Белые цветы созданы резервом: нужные участки шёлка оставлены незакрашенными внутри тушевой отмывки. Детали лепестков уточнялись позднее."
+    ],
+    "innovation": "Декоративное решение требует планирования отношения пустоты и окрашенной поверхности.",
+    "caution": "Не выбираем Хризантемы у ручья как бесспорно прижизненную работу: запись даёт 1715–1730 или позднее, при смерти Корина в 1716. Не вся Римпа — чистое золото.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Plum Tree",
+      "url": "https://www.clevelandart.org/art/1983.10"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:151078",
+      "title": "Слива",
+      "date": "ок. 1700",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1983.10"
+    }
+  ],
+  "pendingWorksCount": 0
+}

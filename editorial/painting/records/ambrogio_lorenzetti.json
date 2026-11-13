@@ -1,0 +1,47 @@
+{
+  "id": "ambrogio_lorenzetti",
+  "name": "Амброджо Лоренцетти",
+  "latin": "Ambrogio Lorenzetti",
+  "life": "документирован в 1319–1348",
+  "tag": "Италия · Сиена · треченто",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-15.js",
+  "existing": {
+    "bio": [
+      "Сиенский живописец, вероятно младший брат Пьетро Лоренцетти. Национальная галерея связывает братьев с распространением решений Джотто в Сиене."
+    ],
+    "technique": [
+      "Темпера на доске. Мадонна кормит Младенца: священный образ основан на человеческом контакте матери и ребёнка."
+    ],
+    "innovation": "Религиозная история получает убедительность через знакомое поведение. В других работах мастер исследует архитектурную глубину.",
+    "caution": "Не путай Амброджо с Пьетро. Дата около 1325 принята по выставке Национальной галереи; Commons даёт широкий интервал. Это не Сретение из Уффици.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной источник",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/past/siena-the-rise-of-painting"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Ambrogio%20Lorenzetti%20-%20Madonna%20of%20Milk%20-%20Google%20Art%20Project.jpg"
+    },
+    {
+      "title": "Национальная галерея: художник",
+      "url": "https://www.nationalgallery.org.uk/artists/ambrogio-lorenzetti"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide:ambrogio_lorenzetti",
+      "title": "Мадонна кормящая",
+      "date": "ок. 1325",
+      "museum": "Епархиальный музей при оратории Сан-Бернардино, Сиена",
+      "source": "https://www.nationalgallery.org.uk/exhibitions/past/siena-the-rise-of-painting"
+    }
+  ],
+  "pendingWorksCount": 0
+}

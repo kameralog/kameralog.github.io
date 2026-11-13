@@ -1,0 +1,33 @@
+{
+  "id": "lilly_martin_spencer",
+  "name": "Лилли Мартин Спенсер",
+  "latin": "Lilly Martin Spencer",
+  "life": "1822–1902",
+  "tag": "Американская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-116.js",
+  "existing": {
+    "bio": [
+      "Американская художница, родившаяся в Англии.",
+      "По музейному описанию, моделью неопытного покупателя был муж художницы."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как корзина организует действие?",
+    "caution": "Старые публикации указывают частное собрание; нынешняя карточка Met подтверждает дар 2015 года.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.metmuseum.org/art/collection/search/21126"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

@@ -1,0 +1,47 @@
+{
+  "id": "parmigianino",
+  "name": "Пармиджанино",
+  "latin": "Parmigianino",
+  "life": "1503–1540",
+  "tag": "Италия · маньеризм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-16.js",
+  "existing": {
+    "bio": [
+      "Алтарь 1526–1527 заказала Мария Буфалини для погребальной капеллы Сан-Сальваторе-ин-Лауро в Риме. После разграбления Рима в 1527 его туда не установили."
+    ],
+    "technique": [
+      "Масло на деревянной основе, вероятно тополе. Удлинённый палец Иоанна, искажённые пропорции, разные масштабы и сжатое пространство создают намеренно искусственный эффект."
+    ],
+    "innovation": "Маньеристическая выразительность не сводится к ошибкам рисунка. Необычная организация пространства связана также с узким высоким местом для алтаря и направлением света в капелле.",
+    "caution": "В XIX веке картину называли Видением святого Иеронима. Рассказ о пощадивших художника солдатах — свидетельство Вазари, не независимо установленная сцена. Это не Мадонна с длинной шеей.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: произведение и разбор",
+      "url": "https://www.nationalgallery.org.uk/paintings/parmigianino-the-madonna-and-child-with-saints"
+    },
+    {
+      "title": "Репродукция: сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Parmigianino%20-%20The%20Madonna%20and%20Child%20with%20Saints%20(The%20Vision%20of%20St%20Jerome).jpg"
+    },
+    {
+      "title": "Monstrance: запись конкретного файла и статус public domain",
+      "url": "https://monstrance.app/editions/parmigianino_madonna_and_child_with_saints_the_vision/"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG33",
+      "title": "Мадонна с Младенцем, Иоанном Крестителем и Иеронимом",
+      "date": "1526–1527",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/parmigianino-the-madonna-and-child-with-saints"
+    }
+  ],
+  "pendingWorksCount": 0
+}

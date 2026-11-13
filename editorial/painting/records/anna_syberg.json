@@ -1,0 +1,37 @@
+{
+  "id": "anna_syberg",
+  "name": "Анна Сюберг",
+  "latin": "Anna Syberg",
+  "life": "1870–1914",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-125.js",
+  "existing": {
+    "bio": [
+      "Датская художница, учившаяся у отца Петера Сюрака Хансена.",
+      "Работала с росписью фарфора и особенно с цветочной акварелью."
+    ],
+    "technique": [
+      "Акварель по экспозиционным публикациям",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как букет занимает формат?",
+    "caution": "Не путать с Анной Анкер, уже присутствующей в каталоге. Датское Provinsroser сохранено в originalTitle; научный вид роз отдельно не установлен. Инвентарный номер и размеры не выдуманы.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/"
+    },
+    {
+      "title": "Биография",
+      "url": "https://www.faaborgmuseum.dk/samlingen/kunstnere"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

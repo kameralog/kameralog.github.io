@@ -1,0 +1,50 @@
+{
+  "id": "henri_rousseau",
+  "name": "Анри Руссо",
+  "latin": "Henri Rousseau",
+  "life": "1844–1910",
+  "tag": "Франция · художник-самоучка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Руссо работал в муниципальной налоговой службе и стал известен воображаемыми джунглями. Он не путешествовал за пределами Франции."
+    ],
+    "technique": [
+      "Резко очерченные оранжерейные растения увеличены и превращены в фантастическую среду. В городском пейзаже письмо свободнее и объёмнее."
+    ],
+    "innovation": "Ботаническая неточность и наивная условность могут быть сознательной силой образа, оценённой авангардистами.",
+    "caution": "Джунгли не документ личной поездки: источники — книги и ботанический сад. Не путаем художника с философом Жан-Жаком Руссо.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Fight Between a Tiger and a Buffalo",
+      "url": "https://clevelandart.org/art/1949.186"
+    },
+    {
+      "title": "Cleveland Museum of Art: Outskirts of Paris",
+      "url": "https://clevelandart.org/art/1929.951"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:126769",
+      "title": "Схватка тигра с буйволом",
+      "date": "1908",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1949.186"
+    },
+    {
+      "key": "cma:111470",
+      "title": "Outskirts of Paris",
+      "date": "c. 1897–1905",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1929.951"
+    }
+  ],
+  "pendingWorksCount": 0
+}

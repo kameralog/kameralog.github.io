@@ -1,0 +1,37 @@
+{
+  "id": "laurits_andersen_ring",
+  "name": "Лауриц Андерсен Ринг",
+  "latin": "Laurits Andersen Ring",
+  "life": "1854–1933",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский художник, сочетавший сельский реализм и символические прочтения.",
+      "Для картины позировал брат художника Оле Петер Андерсен на своей ферме в Зеландии."
+    ],
+    "technique": [
+      "Масло на холсте; 190,2 × 154,2 см по SMK",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как коса организует движение?",
+    "caution": "Символическое прочтение дано музеем, а не установлено как единственное авторское намерение. Не подменять Høstbillede 1910 года кисти Петера Хансена.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://open.smk.dk/en/artwork/image/DEP289"
+    },
+    {
+      "title": "Биография",
+      "url": "https://mydailyartdisplay.uk/category/symbolism/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

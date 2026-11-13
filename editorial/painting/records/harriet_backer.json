@@ -1,0 +1,49 @@
+{
+  "id": "harriet_backer",
+  "name": "Харриет Баккер",
+  "latin": "Harriet Backer",
+  "life": "XIX–XX века",
+  "tag": "Североевропейские художницы XIX — начала XX века · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-112.js",
+  "existing": {
+    "bio": [
+      "Модель — подруга и коллега художницы Аста Нёррегор; картина написана в Париже.",
+      "Музей связывает объединяющий синий оттенок с отражённым дневным светом, определяющим цвета и формы комнаты."
+    ],
+    "technique": [
+      "Масло на холсте; 84 × 66 см",
+      "Наблюдения и интерпретации отнесены к источникам; самостоятельный визуальный анализ не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение профессионального самопредставления, жанровой сцены, света и пейзажа; без неподтверждённых заявлений о первенстве.",
+    "caution": "Не подменять «Голубой комнатой» Анны Анкер или интерьером Эйнабу NG.M.01993. Нынешняя музейная карточка кредитует Børre Høstland; это не доказывает, что он автор выбранного Google Art Project файла. Независимый визуальный осмотр не заявлен.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Национальный музей Норвегии, Осло: Голубой интерьер",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.02582"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Harriet_Backer_-_Blue_Interior_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Музейный аудиогид: цвет и модель",
+      "url": "https://www.nasjonalmuseet.no/en/guide/harrietbacker/hvertatomerfarge/302/"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG.M.02582",
+      "title": "Голубой интерьер",
+      "date": "1883",
+      "museum": "Национальный музей Норвегии, Осло",
+      "source": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.02582"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,54 @@
+{
+  "id": "xiao_yuncong",
+  "name": "Сяо Юньцун",
+  "latin": "Xiao Yuncong",
+  "life": "1596–1673",
+  "tag": "Китай · ранняя Цин · школа Гушу",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-22.js",
+  "existing": {
+    "bio": [
+      "Основатель школы Гушу, Сяо Юньцун рисовал с натуры, путешествовал и работал как проектировщик печатной графики. По музейным биографическим заметкам он не выбрал чиновничью карьеру."
+    ],
+    "technique": [
+      "В свитке 1664 соединены мелкие подробности, смелые мазки и голубоватые размывы. Изображение почти 7,82 м длиной — это не одномоментный вид целого."
+    ],
+    "innovation": "Путешествие, наблюдение и опыт печатной графики участвуют в построении ритма длинного свитка.",
+    "caution": "Общая длина с оформлением около 11,95 м, но сама живопись короче. Лист A из альбома не отдельный большой свиток; номер листа в старых описаниях изменялся.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Pure Tones among Hills and Waters",
+      "url": "https://clevelandart.org/art/1954.262"
+    },
+    {
+      "title": "Cleveland Museum of Art: Album of Seasonal Landscapes, Leaf A (previous leaf 4)",
+      "url": "https://clevelandart.org/art/1955.302.4"
+    },
+    {
+      "title": "Кливленд: описание большого свитка",
+      "url": "https://www.clevelandart.org/art/1954.262"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:131672",
+      "title": "Чистые звуки среди гор и вод",
+      "date": "1664",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1954.262"
+    },
+    {
+      "key": "cma:132837",
+      "title": "Альбом сезонных пейзажей. Лист A",
+      "date": "1668",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1955.302.4"
+    }
+  ],
+  "pendingWorksCount": 0
+}

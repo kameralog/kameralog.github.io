@@ -1,0 +1,57 @@
+{
+  "id": "hendrick_van_steenwyck_the_younger",
+  "name": "Хендрик ван Стенвейк Младший",
+  "latin": "Hendrick van Steenwyck the Younger",
+  "life": "документирован к 1604; умер в 1649",
+  "tag": "Нидерланды и Англия · иллюзия большого пространства",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-65.js",
+  "existing": {
+    "bio": [
+      "Младший Стенвейк, вероятно обучавшийся у отца, писал церковные интерьеры и архитектурные сцены. К 1617 году был в Лондоне, к 1645-му поселился в Северных Нидерландах.",
+      "Он сотрудничал с мастерами фигурной живописи, но участие другого автора необходимо устанавливать для каждой картины. В выбранном NG4040 фигуры справа, вероятно, принадлежат самому Стенвейку."
+    ],
+    "technique": [
+      "«Интерьер готической церкви, вид на восток», после 1609: масло по меди; всего 10,5 × 15,3 см. Низкая точка взгляда создаёт ощущение присутствия зрителя в главном нефе.",
+      "Уходящие линии пола и архитектуры ведут к хору. Мальчик будто замечает зрителя, а нарядный мужчина и две женщины могут участвовать в свадьбе. Надгробие несёт число 1609, но музей сохраняет формулу после 1609."
+    ],
+    "innovation": "Впечатление огромного пространства не зависит от большого физического формата: оно создаётся перспективой и масштабом фигур. Вымышленный храм может выглядеть правдоподобнее топографически неточной, но богато населённой сцены.",
+    "caution": "Храм, скорее всего, вымышлен. Свадебная церемония — предположение, не установленный сюжет. 1609 на надгробии не равен бесспорной дате завершения. NG4040 не подменяется совместным с Брейгелем NG2204, 1615, или NG2205, работой подражателя. Свободный файл пока не подтверждён.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: NG4040, материал и оговорки",
+      "url": "https://www.nationalgallery.org.uk/paintings/hendrick-van-steenwyck-the-younger-the-interior-of-a-gothic-church-looking-east"
+    },
+    {
+      "title": "Национальная галерея: биография",
+      "url": "https://www.nationalgallery.org.uk/artists/hendrick-van-steenwyck-the-younger"
+    },
+    {
+      "title": "Для различения: совместная работа с Брейгелем",
+      "url": "https://www.nationalgallery.org.uk/paintings/hendrick-van-steenwyck-the-younger-and-jan-brueghel-the-elder-the-interior-of-a-gothic-church-looking-east-1"
+    },
+    {
+      "title": "Для различения: подражатель",
+      "url": "https://www.nationalgallery.org.uk/paintings/imitator-of-hendrick-van-steenwyck-the-younger-interior-of-a-church-at-night"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Hendrick_van_Steenwijck_the_younger_(c.1580-1649)_-_The_Interior_of_a_Gothic_Church_looking_East_-_NG4040_-_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "ng:NG4040",
+      "title": "Интерьер готической церкви, вид на восток",
+      "date": "после 1609",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/hendrick-van-steenwyck-the-younger-the-interior-of-a-gothic-church-looking-east"
+    }
+  ],
+  "pendingWorksCount": 0
+}

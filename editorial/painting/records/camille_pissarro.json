@@ -1,0 +1,39 @@
+{
+  "id": "camille_pissarro",
+  "name": "Камиль Писсарро",
+  "latin": "Camille Pissarro",
+  "life": "1830–1903",
+  "tag": "Франция · импрессионизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Рыбный рынок относится к серии видов гавани Дьеппа, написанных летом 1902. Высокая точка зрения связывает картину с изображением современного города."
+    ],
+    "technique": [
+      "Энергичные раздельные мазки и насыщенные цвета передают движение рынка. Промышленный пар смешивается с облаками."
+    ],
+    "innovation": "Городская современность и изменчивая атмосфера становятся единым зрительным событием.",
+    "caution": "Разбор относится к поздней городской серии, не ко всем этапам Писсарро. Не путай Камиля с его сыном Люсьеном.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Fishmarket",
+      "url": "https://clevelandart.org/art/2020.113"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:74228",
+      "title": "Рыбный рынок",
+      "date": "1902",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/2020.113"
+    }
+  ],
+  "pendingWorksCount": 0
+}

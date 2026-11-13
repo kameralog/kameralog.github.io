@@ -1,0 +1,55 @@
+{
+  "id": "bonaventura_berlinghieri",
+  "name": "Бонавентура Берлингьери",
+  "latin": "Bonaventura Berlinghieri",
+  "life": "документирован в 1228–1274",
+  "tag": "Италия · Лукка · дученто",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-15.js",
+  "existing": {
+    "bio": [
+      "Живописец из Лукки. Панель 1235 года в Пешии — один из ранних сохранившихся образов Франциска. 1228–1274 — документированный период, не годы жизни."
+    ],
+    "technique": [
+      "Темпера на дереве. Большой фронтальный святой в центре сопоставлен с шестью небольшими повествовательными сценами по сторонам."
+    ],
+    "innovation": "Почитание святого соединено с рассказом о его жизни и чудесах: это два масштаба и два режима восприятия.",
+    "caution": "Не путай с Берлингьеро. Фото под CC BY-SA 4.0: это не CC0 и не public domain. Авторство и условия лицензии сохранены в подписи и источниках.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной источник",
+      "url": "https://www.visittuscany.com/en/ideas/an-art-walk-in-pescia/"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Bonaventura%20Berlinghieri%2C%20San%20Francesco%20e%20storie%20della%20sua%20vita%2C%201235%2C%2001b.jpg"
+    },
+    {
+      "title": "Фото: CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "title": "Уффици: документированный период",
+      "url": "https://www.uffizi.it/en/online-exhibitions/st-francis"
+    },
+    {
+      "title": "Муниципалитет Пешии: шесть сцен",
+      "url": "https://www.comune.pescia.pt.it/articolo_tematico/cultura-turismo-teatro-e-sport/itinerari-in-citta-fuori-e-il-cammino-di-s-jacopo/il-prato-di-san-francesco-2/"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide:bonaventura_berlinghieri",
+      "title": "Святой Франциск и сцены его жизни",
+      "date": "1235",
+      "museum": "Церковь Сан-Франческо, Пешия",
+      "source": "https://www.visittuscany.com/en/ideas/an-art-walk-in-pescia/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

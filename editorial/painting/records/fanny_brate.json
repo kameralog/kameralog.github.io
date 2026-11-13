@@ -1,0 +1,49 @@
+{
+  "id": "fanny_brate",
+  "name": "Фанни Брате",
+  "latin": "Fanny Brate",
+  "life": "XIX–XX века",
+  "tag": "Финляндия и Швеция · XIX — начало XX века · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-113.js",
+  "existing": {
+    "bio": [
+      "На семейной усадьбе Братегорден изображены дочери художницы Астрид и Торун, готовящиеся к именинам.",
+      "Музей отмечает светлую мебель и ткани, полевые цветы и плющ, соединяющие интерьер с летней природой."
+    ],
+    "technique": [
+      "Масло на холсте; 88 × 110 см",
+      "Описание и интерпретации отнесены к источникам; самостоятельный визуальный анализ не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение бытовой сцены, пейзажа, портрета и абстрактной композиции; без неподтверждённых заявлений о первенстве.",
+    "caution": "Именины не подменяются днём рождения. Дата создания 1902, музей приобрёл картину в 1903 году. Общий контекст идей Эллен Кей в музейной экспозиции не доказывает прямого заказа или авторской программы картины.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Национальный музей Швеции, Стокгольм: Именины",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18609/"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Fanny_Brate_-_A_Day_of_Celebration_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Музейный контекст и размеры",
+      "url": "https://www.nationalmuseum.se/en/webtour/tidslinjen-sekelskiftet-1900"
+    }
+  ],
+  "works": [
+    {
+      "key": "NM 1605",
+      "title": "Именины",
+      "date": "1902",
+      "museum": "Национальный музей Швеции, Стокгольм",
+      "source": "https://collection.nationalmuseum.se/en/collection/item/18609/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

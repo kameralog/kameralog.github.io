@@ -1,0 +1,41 @@
+{
+  "id": "gerardina_van_de_sande_bakhuyzen",
+  "name": "Герардина Якоба ван де Санде Бакхёйзен",
+  "latin": "Gerardina Jacoba van de Sande Bakhuyzen",
+  "life": "1826–1895",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-122.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, специализировавшаяся на цветах и фруктах.",
+      "Изобразила плоды и цветы на столе под ветвями кустарника в саду."
+    ],
+    "technique": [
+      "Масло на холсте; 68,5 × 93 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как крупные плоды соотносятся с цветами?",
+    "caution": "В нидерландской карточке 10 см относятся к внешнему размеру с рамой SK-L-2072. Не путать с отцом Хендриком или другой работой в Boijmans.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-Flowers-and-Fruit--aa3e1c823ea28204fb7ea0bbb5746919"
+    },
+    {
+      "title": "Границы размеров",
+      "url": "https://www.rijksmuseum.nl/nl/collectie/object/Stilleven-met-bloemen-en-vruchten--aa3e1c823ea28204fb7ea0bbb5746919"
+    },
+    {
+      "title": "Биография",
+      "url": "https://en.wikipedia.org/wiki/Gerardina_Jacoba_van_de_Sande_Bakhuyzen"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

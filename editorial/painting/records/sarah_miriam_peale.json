@@ -1,0 +1,45 @@
+{
+  "id": "sarah_miriam_peale",
+  "name": "Сара Мириам Пил",
+  "latin": "Sarah Miriam Peale",
+  "life": "1800–1885",
+  "tag": "Американская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-116.js",
+  "existing": {
+    "bio": [
+      "Училась у отца, Джеймса Пила; работала в портрете и натюрморте.",
+      "В музейной интерпретации фрукты представлены в идеальном состоянии, без повреждений."
+    ],
+    "technique": [
+      "Масло на деревянной основе",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как разрез арбуза организует композицию?",
+    "caution": "Не путать с другой картиной Watermelon 1822 года, проданной Christie’s в 2023 году. Размеры основы 46,4 × 67 см, не размеры рамы.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://harvardartmuseums.org/collections/object/4988"
+    },
+    {
+      "title": "Конкретный снимок и лицензия",
+      "url": "https://commons.wikimedia.org/wiki/File:Still_Life_with_Watermelon%2C_by_Sarah_Miriam_Peale%2C_1822%2C_oil_on_panel_-_Fogg_Art_Museum%2C_Harvard_University_-_DSC01409.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "sarah_miriam_peale_selected",
+      "title": "Натюрморт с арбузом",
+      "date": "1822",
+      "museum": "Harvard Art Museums / Fogg Museum",
+      "source": "https://harvardartmuseums.org/collections/object/4988"
+    }
+  ],
+  "pendingWorksCount": 0
+}

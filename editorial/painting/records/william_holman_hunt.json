@@ -1,0 +1,39 @@
+{
+  "id": "william_holman_hunt",
+  "name": "Уильям Холман Хант",
+  "latin": "William Holman Hunt",
+  "life": "1827–1910",
+  "tag": "Британия · прерафаэлиты",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Портрет тёщи Мэри Уокер Во написан после смерти жены Ханта Фанни. Кливленд связывает детали со скорбью семьи."
+    ],
+    "technique": [
+      "Траурная чёрная одежда сопоставлена с ширмой с красными маками. Предметная деталь становится символическим носителем смысла."
+    ],
+    "innovation": "Психологический портрет работает через бытовую среду и культурно читаемые знаки утраты.",
+    "caution": "Викторианский мак означает также утешение: символ не имеет единственного механического перевода. Один портрет не исчерпывает живопись Ханта.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Mary Walker Waugh",
+      "url": "https://clevelandart.org/art/1984.41"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:151969",
+      "title": "Мэри Уокер Во",
+      "date": "1868",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1984.41"
+    }
+  ],
+  "pendingWorksCount": 0
+}

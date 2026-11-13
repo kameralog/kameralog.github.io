@@ -1,0 +1,51 @@
+{
+  "id": "jeong_seon",
+  "name": "Чон Сон",
+  "latin": "Jeong Seon (정선)",
+  "life": "1676–1759",
+  "tag": "Чосон · пейзаж узнаваемых мест",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-24.js",
+  "existing": {
+    "bio": [
+      "Чон Сон — мастер пейзажа настоящих видов, jingyeong sansuhwa. Гора Инван после дождя написана в 1751, когда художник жил у подножия знакомой ему горы."
+    ],
+    "technique": [
+      "Тушь на бумаге. Контраст тёмных скальных масс с туманными промежутками делает вид одновременно узнаваемым и художественно организованным."
+    ],
+    "innovation": "Конкретное место становится основой самостоятельного пейзажного языка. Настоящий вид не означает фотографически точную фиксацию каждой детали.",
+    "caution": "После дара семьи Ли в 2021 работа поступила в Национальный музей Кореи. Старые подписи Commons с Ho-Am описывают прежнюю историю собрания. Не датируем её всей продолжительностью эпохи Чосон.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальный музей Кореи, Сеул: Clearing after Rain on Mount Inwang",
+      "url": "https://www.museum.go.kr/site/eng/exhiSpecialTheme/view/current?exhiSpThemId=604620"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Inwangjesaekdo.jpg"
+    },
+    {
+      "title": "Национальный музей Кореи: дар и история произведения",
+      "url": "https://www.museum.go.kr/MUSEUM/contents/M0701040000.do?schM=view&catCustomType=post&catId=93&arcId=17706&cp=114&sv="
+    },
+    {
+      "title": "Страница репродукции: PD-Art и прежнее собрание",
+      "url": "https://en.wikipedia.org/wiki/File:Inwangjesaekdo.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide24:jeong",
+      "title": "Гора Инван после дождя",
+      "date": "1751",
+      "museum": "Национальный музей Кореи, Сеул",
+      "source": "https://www.museum.go.kr/site/eng/exhiSpecialTheme/view/current?exhiSpThemId=604620"
+    }
+  ],
+  "pendingWorksCount": 0
+}

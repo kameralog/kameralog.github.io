@@ -1,0 +1,39 @@
+{
+  "id": "tintoretto",
+  "name": "Тинторетто",
+  "latin": "Tintoretto",
+  "life": "1518–1594",
+  "tag": "Италия · чинквеченто",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-10.js",
+  "existing": {
+    "bio": [
+      "Якопо Робусти, известный как Тинторетто, назван в чикагской записи итальянским художником 1518–1594 годов."
+    ],
+    "technique": [
+      "В сцене испытания Истинного Креста смелые обобщённые мазки быстро передают позу и движение."
+    ],
+    "innovation": "История Елены показана не мелкой отделкой, а энергией кисти. Это наблюдение относится к данной небольшой картине.",
+    "caution": "Связь с большим циклом о Елене музей считает возможной, а не доказанной.",
+    "editorialStatus": ""
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: Saint Helen Testing the True Cross",
+      "url": "https://www.artic.edu/artworks/10509"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:10509",
+      "title": "Святая Елена испытывает Истинный Крест",
+      "date": "c. 1545",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/10509"
+    }
+  ],
+  "pendingWorksCount": 0
+}

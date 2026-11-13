@@ -1,0 +1,35 @@
+{
+  "id": "filonov",
+  "name": "Павел Филонов",
+  "latin": "Pavel Filonov",
+  "life": "1883–1941",
+  "tag": "Россия · аналитическое искусство",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-30.js",
+  "existing": {
+    "bio": [
+      "«Пир королей» (1912–1913) хранится в Русском музее. По Commons, это масло по холсту, 175 × 215 см."
+    ],
+    "technique": [
+      "В каталоге Arthive та же работа описана как акварель и тушь по картону (1912): сведения о материале расходятся, поэтому требуют проверки по музейной карточке."
+    ],
+    "innovation": "Arthive относит работу к «аналитическому реализму» — направлению, которое развивал сам Филонов. Подробный разбор пока не заполнен.",
+    "caution": "Страница краткая и требует проверки: сведения о материале и дате «Пира королей» в источниках расходятся (Commons — масло, 1913; Arthive — акварель и тушь, 1912). Репродукцию не подключаю: файл ещё не выбран.",
+    "editorialStatus": "text_only_image_rights_pending"
+  },
+  "sources": [
+    {
+      "title": "Commons: Pavel Filonov KingsFeat.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Pavel_Filonov_KingsFeat.jpg"
+    },
+    {
+      "title": "Arthive: Пир королей",
+      "url": "https://arthive.com/pavelfilonov/works/336653~The_feast_of_kings"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 0
+}

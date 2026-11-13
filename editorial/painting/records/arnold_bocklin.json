@@ -1,0 +1,50 @@
+{
+  "id": "arnold_bocklin",
+  "name": "Арнольд Бёклин",
+  "latin": "Arnold Böcklin",
+  "life": "1827–1901",
+  "tag": "Швейцария · символизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Бёклин трактовал античные сюжеты по-своему: его мифологические персонажи живут в убедительной, но тревожной природе."
+    ],
+    "technique": [
+      "В Море телесная энергия существ соединена со странными отражениями. В Руинах ветер и нервный зелёный свет создают загадочность."
+    ],
+    "innovation": "Античность и природный вид становятся миром сна, далёким и от импрессионизма, и от академической нормы.",
+    "caution": "Руины у моря — не одна из версий Острова мёртвых. Ощущение смерти и сна — музейное прочтение, не единственный буквальный сюжет.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: In the Sea",
+      "url": "https://www.artic.edu/artworks/110507"
+    },
+    {
+      "title": "Cleveland Museum of Art: Ruin by the Sea",
+      "url": "https://clevelandart.org/art/1979.57"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:110507",
+      "title": "В море",
+      "date": "1883",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/110507"
+    },
+    {
+      "key": "cma:149665",
+      "title": "Руины у моря",
+      "date": "1881",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1979.57"
+    }
+  ],
+  "pendingWorksCount": 0
+}

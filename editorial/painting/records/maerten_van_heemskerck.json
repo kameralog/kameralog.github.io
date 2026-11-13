@@ -1,0 +1,39 @@
+{
+  "id": "maerten_van_heemskerck",
+  "name": "Мартен ван Хемскерк",
+  "latin": "Maerten van Heemskerck",
+  "life": "1498–1574",
+  "tag": "Нидерланды · северное Возрождение",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-10.js",
+  "existing": {
+    "bio": [
+      "Хемскерк жил в Риме в 1532–1536 годах и испытал сильное влияние искусства города и античности."
+    ],
+    "technique": [
+      "Поясная сидящая фигура, напряжённые изящные руки и гротескная маска связаны музеем с римским опытом; тщательная передача фактур — с северным искусством."
+    ],
+    "innovation": "Портрет сочетает античные формы с северной любовью к материальным поверхностям.",
+    "caution": "Парный портрет мужа не сохранился; его существование музей выводит из объединённых семейных эмблем герба.",
+    "editorialStatus": ""
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Portrait of Machtelt Suijs",
+      "url": "https://clevelandart.org/art/1987.136"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:153603",
+      "title": "Портрет Махтелт Сёйс",
+      "date": "c. 1540–45",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1987.136"
+    }
+  ],
+  "pendingWorksCount": 0
+}

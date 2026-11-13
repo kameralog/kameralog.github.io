@@ -1,0 +1,50 @@
+{
+  "id": "ike_taiga",
+  "name": "Икэ Тайга",
+  "latin": "Ike Taiga",
+  "life": "1723–1776",
+  "tag": "Эдо · нанга и бундзинга",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Тайга вошёл в киотскую среду литераторов. Китайские поэтические места, например озеро Сиху, стали частью его японской живописи."
+    ],
+    "technique": [
+      "В Бамбуке и камнях поток после дождя связывает горы и реку; плоский передний камень словно приглашает зрителя войти."
+    ],
+    "innovation": "Китайский источник сюжета не меняет происхождение художника: образ складывается из культурной памяти и собственного языка.",
+    "caution": "Не путаем место сюжета и место работы. Западное озеро — Сиху близ Ханчжоу в Китае; формат висячего свитка может включать широкую горизонтальную картину.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Bamboo and Rocks in Clearing Skies",
+      "url": "https://www.clevelandart.org/art/1958.337"
+    },
+    {
+      "title": "Cleveland Museum of Art: West Lake",
+      "url": "https://www.clevelandart.org/art/1970.69"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:135333",
+      "title": "Бамбук и камни при проясняющемся небе",
+      "date": "середина XVIII века",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1958.337"
+    },
+    {
+      "key": "cma:145418",
+      "title": "Западное озеро",
+      "date": "середина XVIII века",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1970.69"
+    }
+  ],
+  "pendingWorksCount": 0
+}

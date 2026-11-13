@@ -1,0 +1,37 @@
+{
+  "id": "grace_joel",
+  "name": "Грейс Джоэл",
+  "latin": "Grace Joel",
+  "life": "1865–1924",
+  "tag": "Новозеландские художницы · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-119.js",
+  "existing": {
+    "bio": [
+      "Новозеландская художница, связанная с художественной средой Данидина.",
+      "Галерея подтверждает выбранную работу 1895 года и её приобретение в 1966."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как фигура связана с цветами?",
+    "caution": "Размер 760 × 660 × 65 мм на странице события не перенесён на холст: границы измерения не уточнены. Код 69/530 не выдан за проверенный инвентарный номер.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://christchurchartgallery.org.nz/events/a-rose-midst-poppies-by-grace-joel"
+    },
+    {
+      "title": "Имя и годы жизни",
+      "url": "https://www.wikidata.org/wiki/Q5591228"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

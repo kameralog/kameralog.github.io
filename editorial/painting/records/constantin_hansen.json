@@ -1,0 +1,33 @@
+{
+  "id": "constantin_hansen",
+  "name": "Константин Хансен",
+  "latin": "Constantin Hansen",
+  "life": "1804–1880",
+  "tag": "Датский золотой век · XIX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-127.js",
+  "existing": {
+    "bio": [
+      "Датский художник, родившийся в Риме.",
+      "Подготовил групповой портрет коллег отдельными этюдами каждого участника."
+    ],
+    "technique": [
+      "Масло на холсте; 62 × 74 см без рамы",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как расположены участники разговора?",
+    "caution": "Не документ одного сеанса позирования. Среди изображённых есть архитектор Биндесбёлль; не все персонажи — живописцы. 1913 — приобретение, не создание.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://artsandculture.google.com/asset/a-group-of-danish-artists-in-rome-constantin-hansen/7AGkqHdoFea5nA?hl=en"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

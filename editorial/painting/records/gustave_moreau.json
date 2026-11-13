@@ -1,0 +1,47 @@
+{
+  "id": "gustave_moreau",
+  "name": "Гюстав Моро",
+  "latin": "Gustave Moreau",
+  "life": "1826–1898",
+  "tag": "Франция · символизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Эдип и Сфинкс принёс Моро успех в Салоне 1864. Вместо современной повседневности художник выбирал мифологические и воображаемые истории."
+    ],
+    "technique": [
+      "Замершая встреча взглядов, тесный контакт фигур и останки жертв превращают загадку в напряжённый образ."
+    ],
+    "innovation": "Метрополитен связывает эту сверхобыденную живопись с воздействием на Редона и Оскара Уайльда.",
+    "caution": "Не подменяем версией Энгра. Ответ на загадку — человек на разных этапах жизни; музей допускает и более широкое толкование загадки существования.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Метрополитен-музей, Нью-Йорк: Эдип и Сфинкс",
+      "url": "https://www.metmuseum.org/art/collection/search/437153"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Oedipus%20and%20the%20Sphinx%20MET%20DP-14201-023.jpg"
+    },
+    {
+      "title": "Метрополитен: значение Моро",
+      "url": "https://www.metmuseum.org/press-releases/gustave-moreau--between-epic-and-dream-1999-exhibitions"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide20:moreau",
+      "title": "Эдип и Сфинкс",
+      "date": "1864",
+      "museum": "Метрополитен-музей, Нью-Йорк",
+      "source": "https://www.metmuseum.org/art/collection/search/437153"
+    }
+  ],
+  "pendingWorksCount": 0
+}

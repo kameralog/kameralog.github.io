@@ -1,0 +1,39 @@
+{
+  "id": "murakami",
+  "name": "Такаси Мураками",
+  "latin": "Takashi Murakami",
+  "life": "род. 1962",
+  "tag": "Япония · Superflat",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-33.js",
+  "existing": {
+    "bio": [
+      "Мураками родился в 1962 году. Он автор термина Superflat (2000): так называется и его теория плоскостности в японском искусстве (укиё-э, манга, аниме), и выставка в Токио, которая в 2001 году поехала в США: MOCA Лос-Анджелес, Walker Art Center, Henry Art Gallery. В 2001 году его мастерская стала компанией Kaikai Kiki Co."
+    ],
+    "technique": [
+      "«727» (1996) — синтетический полимер по холсту на доске, три панели, 299,7 × 449,6 см, МоМА (дар Дэвида Тейгера, 2003). Гигантская волна напоминает гравюры Хокусая; фон создан примерно двадцатью слоями краски, которые снимали, — ссылка на стиль нихонга. На ней персонаж Mr. DOB."
+    ],
+    "innovation": "Superflat стирает границу между высоким и низким, музеем и торговлей, поэтому Мураками работает и с живописью, и с товарами Kaikai Kiki.",
+    "caution": "Права на изображение защищены (или статус неясен): репродукцию не подключаю, смотри музейную карточку по ссылке. Мураками жив, правообладатель — Takashi Murakami/Kaikai Kiki Co., Ltd. (по записи МоМА).",
+    "editorialStatus": "text_only_rights_protected"
+  },
+  "sources": [
+    {
+      "title": "МоМА: 727",
+      "url": "https://www.moma.org/slideshows/35/660"
+    },
+    {
+      "title": "TheArtStory: Superflat",
+      "url": "https://www.theartstory.org/movement/superflat/"
+    },
+    {
+      "title": "Википедия: Superflat",
+      "url": "https://en.wikipedia.org/wiki/Superflat"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 0
+}

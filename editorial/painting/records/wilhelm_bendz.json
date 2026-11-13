@@ -1,0 +1,41 @@
+{
+  "id": "wilhelm_bendz",
+  "name": "Вильгельм Бендз",
+  "latin": "Wilhelm Bendz",
+  "life": "1804–1832",
+  "tag": "Датский золотой век · XIX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-127.js",
+  "existing": {
+    "bio": [
+      "Датский художник, ученик Эккерсберга.",
+      "Изображал коллег и повседневную работу художественной среды."
+    ],
+    "technique": [
+      "Живопись; материал и основа требуют сверки",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как расположение учащихся задаёт иерархию?",
+    "caution": "Не подменять чернильным рисунком похожего сюжета или A Sculptor in his Studio Working from the Life 1827 года. Идентификации людей с рисунка не перенесены на картину автоматически.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://commons.wikimedia.org/wiki/File:Wilhelm_Bendz_-_The_Life_Class_at_the_Royal_Academy_of_Fine_Arts_-_KMS54_-_Statens_Museum_for_Kunst.jpg"
+    },
+    {
+      "title": "Картину не смешиваем с рисунком",
+      "url": "https://artsandculture.google.com/story/art-in-the-making-statens-museum-for-kunst/6AWB5hXFA6-nJw?hl=en"
+    },
+    {
+      "title": "Дата 1826 в сводных данных",
+      "url": "https://en.wikipedia.org/wiki/Danish_Golden_Age"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

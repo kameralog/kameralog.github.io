@@ -1,0 +1,37 @@
+{
+  "id": "jorgen_roed",
+  "name": "Йёрген Рёд",
+  "latin": "Jørgen Roed",
+  "life": "1808–1888",
+  "tag": "Датский золотой век · XIX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-127.js",
+  "existing": {
+    "bio": [
+      "Датский портретист и художник архитектурных видов, ученик Эккерсберга.",
+      "Этюд написан во внутреннем дворе монастыря Санта-Сколастика в Субиако."
+    ],
+    "technique": [
+      "Масло на холсте; 21 × 23 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как колонны задают ритм?",
+    "caution": "Не подменять двором Палаццо-дель-Барджелло во Флоренции 1842 года, KMS1490. Даты приобретения и передачи в музей не превращены в год создания.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://nivaagaard.dk/en/the-collection/roed-joergen-6/"
+    },
+    {
+      "title": "Годы жизни",
+      "url": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Roed"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

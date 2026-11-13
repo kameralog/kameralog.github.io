@@ -1,0 +1,45 @@
+{
+  "id": "jean_baptiste_greuze",
+  "name": "Жан-Батист Грёз",
+  "latin": "Jean-Baptiste Greuze",
+  "life": "XVIII век",
+  "tag": "Чувствительность · человек и животное",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-105.js",
+  "existing": {
+    "bio": [
+      "Музей связывает образы молодых женщин с домашними животными у Грёза с сентиментальными и нравоучительными смыслами.",
+      "Такие картины рассматриваются в контексте культа чувствительности XVIII века, связанного в том числе с Руссо."
+    ],
+    "technique": [
+      "Техника и размеры выбранной работы здесь не установлены.",
+      "Положение рук, близость фигур и направление взгляда предлагается проверить; это вопросы, не готовое описание."
+    ],
+    "innovation": "Учебный ракурс — взаимодействие человека и животного как выражение способности чувствовать.",
+    "caution": "«До 1775» — верхняя граница датировки, не точный год. Личность модели и её биографию не придумываем. Общая характеристика искусства Грёза не доказывает каждую интерпретацию этого полотна.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: Девушка с ягнёнком",
+      "url": "https://www.nationalgallery.org.uk/paintings/jean-baptiste-greuze-a-girl-with-a-lamb"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Greuze_(1725-1805)_-_A_Girl_with_a_Lamb_-_NG1154_-_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG1154",
+      "title": "Девушка с ягнёнком",
+      "date": "до 1775",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/jean-baptiste-greuze-a-girl-with-a-lamb"
+    }
+  ],
+  "pendingWorksCount": 0
+}

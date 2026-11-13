@@ -1,0 +1,37 @@
+{
+  "id": "sophie_anderson",
+  "name": "Софи Андерсон",
+  "latin": "Sophie Anderson",
+  "life": "XIX–XX века",
+  "tag": "Британская художественная среда · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-114.js",
+  "existing": {
+    "bio": [
+      "Музей сообщает о размещении картины в каминной облицовке Утренней комнаты.",
+      "Картина написана во время жизни художницы на Капри."
+    ],
+    "technique": [
+      "Масло на холсте; 42 × 52 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение сюжета, материала и композиции без неподтверждённых заявлений о первенстве.",
+    "caution": "Не смешивать с «Продавщицей цветов на Капри» из частного собрания. Снимок Victorian Web CC BY-NC-ND не подключён. У отдельного Commons-кандидата 800 × 646 полная лицензия не прочитана.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Расселл-Коутс, Борнмут: Девушка с Капри с цветами",
+      "url": "https://russellcotes.com/collection-piece/capri-girl-with-flowers/"
+    },
+    {
+      "title": "Размеры, номер и несвободная лицензия снимка",
+      "url": "https://victorianweb.org/painting/anderson/paintings/5.html"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

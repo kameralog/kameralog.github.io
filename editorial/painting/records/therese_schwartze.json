@@ -1,0 +1,45 @@
+{
+  "id": "therese_schwartze",
+  "name": "Тереза Шварце",
+  "latin": "Thérèse Schwartze",
+  "life": "1851–1918",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Нидерландская портретистка, работавшая в Амстердаме и Париже.",
+      "Музей называет модель Фортунатой, профессиональной натурщицей в итальянском костюме."
+    ],
+    "technique": [
+      "Масло на холсте; 144 × 103 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как фигура соотносится с собакой?",
+    "caution": "Описание файла сохраняет около 1879–1885; текущий музей даёт около 1885–1886, текст сообщает начало в Париже в 1884 и показ годом позже. Разные этапы не слиты.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Young-Italian-Woman-with-Puck-the-Dog--861c5e902527fe73ede8706c30a89738"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Portret_van_een_jonge_vrouw_met_de_hond_Puck%2C_SK-A-1703.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "therese_schwartze_selected",
+      "title": "Молодая итальянка с собакой Пак",
+      "date": "около 1885–1886 по текущей карточке музея",
+      "museum": "Rijksmuseum",
+      "source": "https://www.rijksmuseum.nl/en/collection/object/Young-Italian-Woman-with-Puck-the-Dog--861c5e902527fe73ede8706c30a89738"
+    }
+  ],
+  "pendingWorksCount": 0
+}

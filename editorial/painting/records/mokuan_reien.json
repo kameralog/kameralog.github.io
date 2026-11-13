@@ -1,0 +1,43 @@
+{
+  "id": "mokuan_reien",
+  "name": "Мокуан Рэйэн",
+  "latin": "Mokuan Reien",
+  "life": "работал в Китае в первой половине XIV века",
+  "tag": "Намбо-кутё · чаньская и дзэнская живопись",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Японский дзэнский монах Мокуан уехал в Китай и не вернулся. MOA относит Хотэя к периоду его работы при Ляоане Цинъюе около 1333–1343."
+    ],
+    "technique": [
+      "Тушь на бумаге; надпись Ляоаня отделена от авторства живописца. Хотэй указывает вверх, предвещая приход Мироку."
+    ],
+    "innovation": "Памятник показывает передачу художественного опыта между Китаем и Японией, не тождество национальности, места работы и сюжета.",
+    "caution": "Не путай Мокуана Рэйэна с монахом Мокуаном Сёто XVII века. Датировка по надписи приблизительна.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "MOA Museum of Art, Атами: Хотэй",
+      "url": "https://www.moaart.or.jp/en/collections/034/"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Mokuan%20Reien%20-%20HOTEI(BUDAI)%20-%20Google%20Art%20Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide23:mokuan",
+      "title": "Хотэй",
+      "date": "ок. 1333–1343",
+      "museum": "MOA Museum of Art, Атами",
+      "source": "https://www.moaart.or.jp/en/collections/034/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

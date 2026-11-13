@@ -1,0 +1,54 @@
+{
+  "id": "muqi_fachang",
+  "name": "Муци Фачан",
+  "latin": "Muqi Fachang",
+  "life": "1220–1280 по Кливленду",
+  "tag": "Китай · Южная Сун · чаньская живопись",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-22.js",
+  "existing": {
+    "bio": [
+      "Тушевые произведения Фачана Муци на чаньские темы высоко ценились в Японии. Китайское происхождение художника и японская история восприятия — разные сведения."
+    ],
+    "technique": [
+      "В паре Дракон и Тигр светлая голова дракона появляется из тёмных волн и тумана; крупный план тигра подчёркивает массу тела."
+    ],
+    "innovation": "Противоположность двух образов выражает дополнительные силы инь и ян. В чаньском контексте пара, вероятно, окружала центральный священный образ.",
+    "caution": "Дракон и Тигр — две части одной пары, не три произведения вместе с общей записью комплекта. Шёлк потемнел, красноватые оттенки носа и языка тигра поблекли.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Dragon",
+      "url": "https://clevelandart.org/art/1958.427.1"
+    },
+    {
+      "title": "Cleveland Museum of Art: Tiger",
+      "url": "https://clevelandart.org/art/1958.427.2"
+    },
+    {
+      "title": "Кливленд: ансамбль, смысл и сохранность",
+      "url": "https://www.clevelandart.org/art/1958.427"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:135431",
+      "title": "Дракон — часть пары",
+      "date": "c. 1250–79",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1958.427.1"
+    },
+    {
+      "key": "cma:135432",
+      "title": "Тигр — часть пары",
+      "date": "c. 1250–79",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1958.427.2"
+    }
+  ],
+  "pendingWorksCount": 0
+}

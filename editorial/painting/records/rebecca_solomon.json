@@ -1,0 +1,37 @@
+{
+  "id": "rebecca_solomon",
+  "name": "Ребекка Соломон",
+  "latin": "Rebecca Solomon",
+  "life": "1832–1886",
+  "tag": "Британская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-115.js",
+  "existing": {
+    "bio": [
+      "Британская художница, обращавшаяся к социальной тематике и положению работающих женщин.",
+      "В 2023 году Tate и Museum of the Home совместно приобрели эту картину; центральной модели позировала Фанни Итон."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Материал и сюжет сверены по источникам; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как распределены роли учительницы и ученицы?",
+    "caution": "Анонс показа 2023–2024 годов не устанавливает нынешнее место экспонирования. Формулировку о первенстве художницы не принимаем как бесспорную.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе или произведении",
+      "url": "https://www.tate.org.uk/press/press-releases/tate-and-museum-of-the-home-jointly-acquire-rebecca-solomons-a-young-teacher"
+    },
+    {
+      "title": "Музейная карточка",
+      "url": "https://www.tate.org.uk/art/artworks/solomon-a-young-teacher-t16549"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

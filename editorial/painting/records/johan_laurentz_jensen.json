@@ -1,0 +1,37 @@
+{
+  "id": "johan_laurentz_jensen",
+  "name": "Йохан Лауренц Йенсен",
+  "latin": "Johan Laurentz Jensen",
+  "life": "1800–1856",
+  "tag": "Датский золотой век · XIX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-127.js",
+  "existing": {
+    "bio": [
+      "Датский мастер цветочного натюрморта, известный как Blomster-Jensen.",
+      "Развивал наследие нидерландского натюрморта XVII века, сочетая декоративность и символические прочтения."
+    ],
+    "technique": [
+      "Масло на холсте; 84 × 67 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как ваза организует букет?",
+    "caution": "Не подменять En vase med blomster 1834 года, KMS285, или A Still Life with Flowers in a Greek Vase 1848 года. В музейном сообщении дата приблизительная.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.ny-carlsbergfondet.dk/en/say-it-flowers"
+    },
+    {
+      "title": "Биография и различение работ",
+      "url": "https://en.wikipedia.org/wiki/Johan_Laurentz_Jensen"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

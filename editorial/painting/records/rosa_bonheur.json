@@ -1,0 +1,49 @@
+{
+  "id": "rosa_bonheur",
+  "name": "Роза Бонёр",
+  "latin": "Rosa Bonheur",
+  "life": "XIX век",
+  "tag": "Художницы XIX — начала XX века · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-111.js",
+  "existing": {
+    "bio": [
+      "Изображён парижский конный рынок на бульваре Опиталь; слева на заднем плане видна Сальпетриер.",
+      "Картина показана в Салоне 1853 года, а в 1855 году художница внесла изменения."
+    ],
+    "technique": [
+      "Масло на холсте; 244,5 × 506,7 см",
+      "Описание опирается на перечисленные источники; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение жанров, композиции и профессиональной работы; без неподтверждённых заявлений о первенстве.",
+    "caution": "Выбрано большое полотно Метрополитен 87.25, не уменьшенная лондонская версия NG621, эскиз из Буффало или литография. Музейный API предлагает отдельный файл DP-23550-001.jpg с isPublicDomain=true; права и размеры выбранного Commons-файла проверены независимо.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Метрополитен-музей, Нью-Йорк: Конная ярмарка",
+      "url": "https://www.metmuseum.org/art/collection/search/435702"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosa_Bonheur%2C_The_Horse_Fair%2C_1852%E2%80%9355.jpg"
+    },
+    {
+      "title": "Метрополитен: API, отдельный кандидат CC0",
+      "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435702"
+    }
+  ],
+  "works": [
+    {
+      "key": "87.25",
+      "title": "Конная ярмарка",
+      "date": "1852–1855",
+      "museum": "Метрополитен-музей, Нью-Йорк",
+      "source": "https://www.metmuseum.org/art/collection/search/435702"
+    }
+  ],
+  "pendingWorksCount": 0
+}

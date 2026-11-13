@@ -1,0 +1,45 @@
+{
+  "id": "margaretha_roosenboom",
+  "name": "Маргарета Розенбом",
+  "latin": "Margaretha Roosenboom",
+  "life": "1843–1896",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-122.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница цветочных натюрмортов.",
+      "В выбранной работе белые розы положены на гитару; музей фиксирует подпись Margt. Roosenboom."
+    ],
+    "technique": [
+      "Масло на холсте; 60 × 120,5 см по описанию файла",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как венок соотносится с гитарой?",
+    "caution": "Не подменять другим натюрмортом с розами. Подключён файл с добавленным цветовым профилем, а не заявленный необработанный музейный оригинал.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Stilleven-met-gitaar-en-rozen--7fe291b5e472552c5f045cea42dd2b41"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Still_Life_with_Guitar_and_Roses_Rijksmuseum_Amsterdam_SK-A-2740.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "margaretha_roosenboom_selected",
+      "title": "Натюрморт с гитарой и розами",
+      "date": "1880–1896",
+      "museum": "Rijksmuseum",
+      "source": "https://www.rijksmuseum.nl/en/collection/object/Stilleven-met-gitaar-en-rozen--7fe291b5e472552c5f045cea42dd2b41"
+    }
+  ],
+  "pendingWorksCount": 0
+}

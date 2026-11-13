@@ -1,0 +1,49 @@
+{
+  "id": "louise_moillon",
+  "name": "Луиза Муайон",
+  "latin": "Louise Moillon",
+  "life": "XVII век",
+  "tag": "Художницы XVI–XVIII веков · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-110.js",
+  "existing": {
+    "bio": [
+      "Музей связывает иллюзию общей со зрителем поверхности с гранатом, немного выступающим за край.",
+      "Фактуры плодов, листьев, ящика и капель воды участвуют в эффекте trompe-l’œil."
+    ],
+    "technique": [
+      "Масло на доске; 15 3/4 × 24 1/2 дюйма",
+      "Описание основано на источниках; самостоятельный осмотр репродукции не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сравнение материала, композиции и профессионального самопредставления; без неподтверждённых заявлений о первенстве.",
+    "caution": "Не подменять натюрмортом 1634 года из Norton Simon F.1972.38.P или похожей чашей из Толедо 2021.5. Материал — доска, не холст. JPEG 670 × 447 не позволяет глубокого увеличения. Современный музейный кредит фотографа Lee Stalsworth сохраняется без заявления, что автор конкретного старого файла установлен.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Национальный музей женщин в искусстве, Вашингтон: Чаша с лимонами и апельсинами на ящике со стружкой и гранатами",
+      "url": "https://nmwa.org/art/collection/bowl-lemons-and-oranges-box-wood-shavings-and-pomegranates/"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Moillon_louise-bowl_lemons_oranges.jpg"
+    },
+    {
+      "title": "Прочитанное описание файла и PD-Art",
+      "url": "https://en.wikipedia.org/wiki/File:Moillon_louise-bowl_lemons_oranges.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "editorial:110:louise_moillon",
+      "title": "Чаша с лимонами и апельсинами на ящике со стружкой и гранатами",
+      "date": "около 1630-х; музей считает датировку вероятной",
+      "museum": "Национальный музей женщин в искусстве, Вашингтон",
+      "source": "https://nmwa.org/art/collection/bowl-lemons-and-oranges-box-wood-shavings-and-pomegranates/"
+    }
+  ],
+  "pendingWorksCount": 0
+}

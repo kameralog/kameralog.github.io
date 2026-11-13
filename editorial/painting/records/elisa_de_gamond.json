@@ -1,0 +1,37 @@
+{
+  "id": "elisa_de_gamond",
+  "name": "Элиза де Гамонд",
+  "latin": "Élisa de Gamond",
+  "life": "1804–1869",
+  "tag": "Бельгийская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-124.js",
+  "existing": {
+    "bio": [
+      "Бельгийская художница, работавшая с историческими и мифологическими сюжетами.",
+      "За эту картину получила женскую премию Гентского салона 1826 года."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как поза связана с состоянием сна?",
+    "caution": "Описание шкуры, собаки и оружия взято из каталога Салона 1826 года, приведённого музеем. Не путать с сестрой Зоэ, писательницей, или с портретом самой художницы.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.mskgent.be/en/collection/1826-e"
+    },
+    {
+      "title": "Биография",
+      "url": "https://en.wikipedia.org/wiki/%C3%89lisa_de_Gamond"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

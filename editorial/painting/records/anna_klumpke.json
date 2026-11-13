@@ -1,0 +1,33 @@
+{
+  "id": "anna_klumpke",
+  "name": "Анна Клюмпке",
+  "latin": "Anna Klumpke",
+  "life": "1856–1942",
+  "tag": "Парижская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-120.js",
+  "existing": {
+    "bio": [
+      "Американская художница, учившаяся в Париже.",
+      "Работала в портрете и бытовом жанре; PAFA получила эту картину в дар от автора."
+    ],
+    "technique": [
+      "Масло на холсте, монтированном на дерево",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как распределён труд между фигурами?",
+    "caution": "1888 — дата картины; 1890.1 — инвентарный номер. Не подменять портретом Розы Бонёр или копией.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.pafa.org/museum/collection/item/wash-house"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

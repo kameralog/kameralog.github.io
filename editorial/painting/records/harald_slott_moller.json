@@ -1,0 +1,41 @@
+{
+  "id": "harald_slott_moller",
+  "name": "Харальд Слотт-Мёллер",
+  "latin": "Harald Slott-Møller",
+  "life": "1864–1937",
+  "tag": "Датская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-126.js",
+  "existing": {
+    "bio": [
+      "Датский художник и мастер декоративного искусства.",
+      "В этой работе соединял натуралистический пейзаж с рельефом и декоративным обрамлением под влиянием Arts and Crafts."
+    ],
+    "technique": [
+      "Живопись, золотистое покрытие и рельефная основа; 41 × 70 см без рамы",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как рама взаимодействует с полем?",
+    "caution": "Музей называет основу чугунным рельефом, в поисковых метаданных Commons встречается гипс. Материал требует финальной сверки. Рама включена автором в произведение.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://open.smk.dk/en/artwork/image/DEP297"
+    },
+    {
+      "title": "Рама, основа и замысел",
+      "url": "https://www.christies.com/en/lot/lot-6438331"
+    },
+    {
+      "title": "Проверяемый кандидат",
+      "url": "https://commons.wikimedia.org/wiki/File:Dansk_landskab_1891_by_Harald_Slott-M%C3%B8ller.jpg"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

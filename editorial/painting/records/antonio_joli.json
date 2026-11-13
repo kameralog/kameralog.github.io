@@ -1,0 +1,45 @@
+{
+  "id": "antonio_joli",
+  "name": "Антонио Джоли",
+  "latin": "Antonio Joli",
+  "life": "XVIII век",
+  "tag": "Панорама · историческое событие",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-93.js",
+  "existing": {
+    "bio": [
+      "Испанская эскадра покидает Неаполь с будущим испанским королём Карлом III, его семьёй и свитой.",
+      "Корабли движутся влево к морскому горизонту; город и холм с дворцом Каподимонте образуют дальний план."
+    ],
+    "technique": [
+      "Панорама соединяет движение флота с пространством города.",
+      "Надпись называет событие посадки монарха на корабль 6 октября 1759 года и автора."
+    ],
+    "innovation": "Учебный ракурс — отличие исторического панорамного вида от архитектурной фантазии и обобщённой пасторали.",
+    "caution": "Выбран вид с моря, P000233, не парное полотно со стороны гавани P000232. 6 октября — дата события в надписи; 1759 — музейная датировка работы. Другие авторские версии, копии и интерпретации требуют проверки конкретного файла репродукции.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Прадо, Мадрид: Отъезд Карла Бурбонского в Испанию, вид с моря",
+      "url": "https://www.museodelprado.es/en/the-collection/art-work/departure-of-charles-of-bourbon-for-spain-seen/ed767fad-3be6-4f3c-aa44-c9c31c20fec1"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Carlos_III_leaving_the_Port_of_Naples,_as_seen_from_the_Sea.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "P000233",
+      "title": "Отъезд Карла Бурбонского в Испанию, вид с моря",
+      "date": "1759",
+      "museum": "Прадо, Мадрид",
+      "source": "https://www.museodelprado.es/en/the-collection/art-work/departure-of-charles-of-bourbon-for-spain-seen/ed767fad-3be6-4f3c-aa44-c9c31c20fec1"
+    }
+  ],
+  "pendingWorksCount": 0
+}

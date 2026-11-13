@@ -1,0 +1,37 @@
+{
+  "id": "coba_ritsema",
+  "name": "Коба Ритсема",
+  "latin": "Coba Ritsema",
+  "life": "1876–1961",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-122.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, работавшая в портрете, натюрморте и интерьере.",
+      "Музей установил имя натурщицы: Хелена Хендрика ван Бюрен, Лентье, жившая неподалёку от мастерской."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как поза ребёнка связана с креслом?",
+    "caution": "Не путать с Кобой Сюри. Размеры 118,5 × 86,2 × 6 см не перенесены на холст: границы измерения на странице не пояснены.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://franshalsmuseum.nl/en/collection/the-girl-with-the-dangling-legs"
+    },
+    {
+      "title": "Биография",
+      "url": "https://resources.huygens.knaw.nl/vrouwenlexicon/lemmata/data/Ritsema"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

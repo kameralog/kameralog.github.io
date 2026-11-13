@@ -1,0 +1,49 @@
+{
+  "id": "clara_peeters",
+  "name": "Клара Петерс",
+  "latin": "Clara Peeters",
+  "life": "XVII век",
+  "tag": "Художницы XVI–XVIII веков · рабочая карточка",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-109.js",
+  "existing": {
+    "bio": [
+      "Музей отмечает фактуры сыров и масла, отражения и след ножа в масле.",
+      "Подпись находится на ноже, а в крышке кувшина музей распознаёт маленький автопортрет художницы."
+    ],
+    "technique": [
+      "Масло на доске; 34,5 × 49,5 см по описанию файла",
+      "Указанные в тексте наблюдения опираются на перечисленные источники; самостоятельный осмотр изображения не заявлен."
+    ],
+    "innovation": "Учебный ракурс — сопоставление произведений, материалов и самопредставления; заявление о первенстве не делается.",
+    "caution": "Не переносить на музейную загрузку статус CC0: сайт разрешает некоммерческое использование, коммерческое предлагает согласовывать. Для выбранного Commons-файла прочитана отдельная маркировка PD-Art с юрисдикционной оговоркой. EXIF называет фотографа Margareta Svensson; кредит сохраняется. Не смешивать с натюрмортами Прадо.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Маурицхёйс, Гаага: Натюрморт с сырами, миндалём и кренделями",
+      "url": "https://www.mauritshuis.nl/en/our-collection/artworks/1203-still-life-with-cheeses-almonds-and-pretzels"
+    },
+    {
+      "title": "Конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Clara_Peeters_-_Still_Life_with_Cheeses%2C_Almonds_and_Pretzels.jpg"
+    },
+    {
+      "title": "Прочитанное описание файла и PD-Art",
+      "url": "https://en.wikipedia.org/wiki/File:Clara_Peeters_-_Still_Life_with_Cheeses,_Almonds_and_Pretzels.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "1203",
+      "title": "Натюрморт с сырами, миндалём и кренделями",
+      "date": "около 1615",
+      "museum": "Маурицхёйс, Гаага",
+      "source": "https://www.mauritshuis.nl/en/our-collection/artworks/1203-still-life-with-cheeses-almonds-and-pretzels"
+    }
+  ],
+  "pendingWorksCount": 0
+}

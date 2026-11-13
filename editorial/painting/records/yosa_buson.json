@@ -1,0 +1,50 @@
+{
+  "id": "yosa_buson",
+  "name": "Ёса Бусон",
+  "latin": "Yosa Buson",
+  "life": "1716–1783",
+  "tag": "Эдо · поэзия и бундзинга",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-23.js",
+  "existing": {
+    "bio": [
+      "Бусон изучал поэзию в Эдо, путешествовал по следам Басё и преподавал в Киото. Как живописец-самоучка постепенно перешёл от точного письма к более свободному."
+    ],
+    "technique": [
+      "В Снежном пейзаже красноватые подтоны согревают горы и небо. В Крестьянине рассказ строится на взаимодействии вороны, человека и буйвола."
+    ],
+    "innovation": "Поэтическое наблюдение допускает юмор и тонкую атмосферу, а не только возвышенную отстранённость.",
+    "caution": "Не выдаём живопись Госюна, прикреплённую к черновикам Бусона, за картину Бусона. Подписи и роли в совместных предметах проверяем отдельно.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Farmer Returning Home in Autumn",
+      "url": "https://www.clevelandart.org/art/1970.77"
+    },
+    {
+      "title": "Cleveland Museum of Art: Snow Landscape",
+      "url": "https://www.clevelandart.org/art/1997.111"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:145427",
+      "title": "Крестьянин возвращается домой осенью",
+      "date": "1781",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1970.77"
+    },
+    {
+      "key": "cma:159739",
+      "title": "Снежный пейзаж",
+      "date": "середина 1770-х",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://www.clevelandart.org/art/1997.111"
+    }
+  ],
+  "pendingWorksCount": 0
+}

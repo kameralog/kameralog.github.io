@@ -1,0 +1,51 @@
+{
+  "id": "johannes_vermeer",
+  "name": "Ян Вермеер",
+  "latin": "Johannes Vermeer",
+  "life": "1632–1675",
+  "tag": "Нидерланды · Делфт · XVII век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-17.js",
+  "existing": {
+    "bio": [
+      "По Метрополитену Вермеер при жизни был менее известен, чем сегодня, и стал широко признан к концу XIX века. Девушка с кувшином воды — первая его картина в американском собрании."
+    ],
+    "technique": [
+      "Оконный свет просвечивает белую ткань и очерчивает золочёные кувшин и таз. Геометрически уравновешенная композиция сочетает наблюдение с сознательным устройством изображения."
+    ],
+    "innovation": "Обычное домашнее действие приобретает поэтическую значимость благодаря свету и композиционному равновесию. Это не нейтральный снимок быта.",
+    "caution": "Карту и турецкий ковёр музей связывает с внешним миром и торговлей, но это не доказательство единственного тайного смысла. Дата около 1662 условна.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Метрополитен-музей, Нью-Йорк: Young Woman with a Water Pitcher",
+      "url": "https://www.metmuseum.org/art/collection/search/437881"
+    },
+    {
+      "title": "Метрополитен: художник",
+      "url": "https://www.metmuseum.org/essays/johannes-vermeer-1632-1675"
+    },
+    {
+      "title": "Метрополитен: свет и композиция",
+      "url": "https://www.metmuseum.org/audio-guide/127"
+    },
+    {
+      "title": "Commons: репродукция и PD-Art",
+      "url": "https://commons.wikimedia.org/wiki/File:Johannes%20Vermeer%20(Dutch%2C%20Delft%201632%E2%80%931675%20Delft)%20-%20Young%20Woman%20with%20a%20Water%20Pitcher%20-%20Google%20Art%20Project.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "met:437881",
+      "title": "Девушка с кувшином воды",
+      "date": "ок. 1662",
+      "museum": "Метрополитен-музей, Нью-Йорк",
+      "source": "https://www.metmuseum.org/art/collection/search/437881"
+    }
+  ],
+  "pendingWorksCount": 0
+}

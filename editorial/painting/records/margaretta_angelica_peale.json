@@ -1,0 +1,37 @@
+{
+  "id": "margaretta_angelica_peale",
+  "name": "Маргаретта Анжелика Пил",
+  "latin": "Margaretta Angelica Peale",
+  "life": "1795–1882",
+  "tag": "Американская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-116.js",
+  "existing": {
+    "bio": [
+      "Американская художница из семьи Пил.",
+      "Выбранный натюрморт датирован 1836 годом; аукционная запись описывает надпись на обороте до дублирования."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как сопоставлены крупные и мелкие плоды?",
+    "caution": "Веб-ID 312928 не назван инвентарным номером. Коммерческая печать и разрешение для образовательного использования не являются свободной лицензией.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.philamuseum.org/objects/312928"
+    },
+    {
+      "title": "Материал и надпись",
+      "url": "https://www.sothebys.com/en/auctions/ecatalogue/2008/american-paintings-drawings-sculpture-n08449/lot.8.html"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

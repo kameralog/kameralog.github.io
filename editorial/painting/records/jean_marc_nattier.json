@@ -1,0 +1,45 @@
+{
+  "id": "jean_marc_nattier",
+  "name": "Жан-Марк Натье",
+  "latin": "Jean-Marc Nattier",
+  "life": "XVIII век",
+  "tag": "Портрет · повторяемая композиционная схема",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-105.js",
+  "existing": {
+    "bio": [
+      "Музейное название идентифицирует портретируемую как Манон Баллетти.",
+      "Прямой взгляд, полосатая муслиновая вуаль от макушки к плечу, однотонное платье и жемчуг связаны с типом композиции, повторяемым у Натье."
+    ],
+    "technique": [
+      "Масло на холсте; размеры здесь не установлены.",
+      "Музей сопоставляет приём с другими портретами художника."
+    ],
+    "innovation": "Учебный ракурс — индивидуальный портрет может использовать повторяемую схему без превращения в копию.",
+    "caution": "Не переносим имя мадам Дюпле де Баканкур со сравнительного портрета. Биографию Баллетти и обстоятельства заказа неподтверждёнными деталями не дополняем. Повторение схемы не доказывает копирование другой картины.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: Манон Баллетти",
+      "url": "https://www.nationalgallery.org.uk/paintings/jean-marc-nattier-manon-balletti"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Manon_Balletti_(1757)_by_Jean-Marc_Nattier.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG5586",
+      "title": "Манон Баллетти",
+      "date": "1757",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/jean-marc-nattier-manon-balletti"
+    }
+  ],
+  "pendingWorksCount": 0
+}

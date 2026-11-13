@@ -1,0 +1,37 @@
+{
+  "id": "charley_toorop",
+  "name": "Чарли Тороп",
+  "latin": "Charley Toorop",
+  "life": "1891–1955",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, выработавшая выразительную реалистическую манеру.",
+      "Представила себя, сына и отца в пространстве своей мастерской в Бергене."
+    ],
+    "technique": [
+      "Масло на холсте; 200 × 121 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как представлены три поколения?",
+    "caution": "Не путать с Яном Торопом или Эдгаром Фернхаутом. 1951 — покупка музеем, не дата окончания работы.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.boijmans.nl/en/collection/artworks/3665/three-generations"
+    },
+    {
+      "title": "Семейные связи в картине",
+      "url": "https://www.boijmans.nl/en/exhibitions/lost-charley-toorop-painting-comes-home-after-100-years"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

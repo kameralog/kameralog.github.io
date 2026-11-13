@@ -1,0 +1,33 @@
+{
+  "id": "sientje_mesdag_van_houten",
+  "name": "Синтье Месдаг-ван Хаутен",
+  "latin": "Sientje Mesdag-van Houten",
+  "life": "1834–1909",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница, писавшая пейзажи, портреты и натюрморты.",
+      "Работала в окрестностях Схевенингена, Дренте и Велюве."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как закат задаёт освещение?",
+    "caution": "Не подменять акварелью Sheepfold in Drenthe или другой овчарней. Вероятные этюды в Дренте или Велюве — музейная гипотеза. Различаем владельца фонда и музей показа.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://panorama-mesdag.nl/en/see-and-do/exhibitions/highlights-from-the-collection/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

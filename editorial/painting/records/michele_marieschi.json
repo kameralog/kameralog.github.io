@@ -1,0 +1,45 @@
+{
+  "id": "michele_marieschi",
+  "name": "Микеле Мариески",
+  "latin": "Michele Marieschi",
+  "life": "XVIII век",
+  "tag": "Архитектурная фантазия · маршрут по реке",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-93.js",
+  "existing": {
+    "bio": [
+      "Каприччо соединяет реальные и вымышленные элементы. Выбранная сцена не является установленным видом конкретного места.",
+      "Река ведёт от мельницы и стирающих людей к зданиям, разгружаемой лодке и спокойному дальнему пейзажу."
+    ],
+    "technique": [
+      "Солнечные участки чередуются с глубокой тенью.",
+      "Небольшие бытовые эпизоды помогают переходить от одного участка пространства к другому; среди них всадник, подающий деньги нищему."
+    ],
+    "innovation": "Учебный ракурс — как вода, свет и небольшие действия превращают архитектурный пейзаж в маршрут взгляда.",
+    "caution": "В таблице музея 1735–1743; описание парного цикла говорит о середине 1730-х. Не превращаем каприччо в точную топографию. Сомнительное хронологическое утверждение страницы о влиянии Гварди не переносим без отдельной проверки.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Здания и фигуры у реки с судами",
+      "url": "https://www.nationalgallery.org.uk/paintings/michele-marieschi-buildings-and-figures-near-a-river-with-shipping"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Michele_Giovanni_Marieschi_(1710-1743)_-_Buildings_and_Figures_near_a_River_with_Shipping_-_NG2102_-_National_Gallery.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG2102",
+      "title": "Здания и фигуры у реки с судами",
+      "date": "1735–1743",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/michele-marieschi-buildings-and-figures-near-a-river-with-shipping"
+    }
+  ],
+  "pendingWorksCount": 0
+}

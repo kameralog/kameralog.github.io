@@ -1,0 +1,41 @@
+{
+  "id": "anna_de_weert",
+  "name": "Анна де Верт",
+  "latin": "Anna De Weert",
+  "life": "1867–1950",
+  "tag": "Бельгийская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-123.js",
+  "existing": {
+    "bio": [
+      "Бельгийская художница-люминистка, ученица Эмиля Клауса.",
+      "Работала в Хоф-Тер-Нёве у Лиса; музей описывает цветущий сад вокруг её мастерской."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как сад связан с мастерской?",
+    "caution": "На обороте Afsnee: Juni 1909–10 / 8–10 h.; на лицевой стороне подпись с 1910. 1912 — покупка. Не подменять портретом де Верт кисти Клауса.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.mskgent.be/en/collection/1912-b"
+    },
+    {
+      "title": "Нидерландская запись и надписи",
+      "url": "https://www.mskgent.be/collectie/1912-b"
+    },
+    {
+      "title": "Модель и автор портрета — разные лица",
+      "url": "https://www.mskgent.be/en/collection/1950-ag"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

@@ -1,0 +1,37 @@
+{
+  "id": "florence_helena_mcgillivray",
+  "name": "Флоренс Хелена Макгилливрей",
+  "latin": "Florence Helena McGillivray",
+  "life": "1864–1938",
+  "tag": "США и Канада · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-117.js",
+  "existing": {
+    "bio": [
+      "Канадская художница, обучавшаяся в Торонто и работавшая во Франции.",
+      "После возвращения в Канаду её Afterglow приобрела Национальная галерея."
+    ],
+    "technique": [
+      "Масло на бумажном картоне",
+      "Сведения и вопросы основаны на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как устроены цветовые массы?",
+    "caution": "Не подменять Contentment около 1913–1914. Размеры по музейной записи 42 × 57,5 см.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.gallery.ca/collection/artwork/afterglow-0"
+    },
+    {
+      "title": "Автор и работа",
+      "url": "https://artbooks.artcanada.com/ottawa-art-and-artists/key-artists/florence-helena-mcgillivray"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

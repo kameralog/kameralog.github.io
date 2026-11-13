@@ -1,0 +1,51 @@
+{
+  "id": "coppo_di_marcovaldo",
+  "name": "Коппо ди Марковальдо",
+  "latin": "Coppo di Marcovaldo",
+  "life": "XIII век; работа — 1261",
+  "tag": "Италия · дученто",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-15.js",
+  "existing": {
+    "bio": [
+      "Автор Мадонны дель Бордоне 1261 года в сиенской Санта-Мария-деи-Серви. Биографический очерк ограничен проверенным произведением."
+    ],
+    "technique": [
+      "Темпера на дереве. Монументальная Мария с Младенцем соединяет торжественную фронтальность и золотой орнамент."
+    ],
+    "innovation": "Картина позволяет сопоставить иконную традицию, местный заказ и историю поновлений, не приписывая мастеру неподтверждённых изобретений.",
+    "caution": "Лица были переписаны позднее: современная поверхность не является нетронутым образцом 1261 года. Репродукция имеет лишь 650 × 1149 пикселей.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Основной источник",
+      "url": "https://www.visitsiena.it/en/basilica-di-santa-maria-dei-servi"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Coppo%20di%20Marcovaldo%20-%20Madonna%20del%20Bordone%20-%20WGA05221.jpg"
+    },
+    {
+      "title": "WGA: заказ и размеры",
+      "url": "https://www.wga.hu/html/c/coppo/madonna.html"
+    },
+    {
+      "title": "Commons: история поновлений",
+      "url": "https://commons.wikimedia.org/wiki/Category:Madonna_del_Bordone_by_Coppo_di_Marcovaldo"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide:coppo_di_marcovaldo",
+      "title": "Мадонна дель Бордоне",
+      "date": "1261; поздние поновления",
+      "museum": "Санта-Мария-деи-Серви, Сиена",
+      "source": "https://www.visitsiena.it/en/basilica-di-santa-maria-dei-servi"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ernst_ludwig_kirchner",
+  "name": "Эрнст Людвиг Кирхнер",
+  "latin": "Ernst Ludwig Kirchner",
+  "life": "1880–1938",
+  "tag": "Германия · экспрессионизм · Die Brücke",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-21.js",
+  "existing": {
+    "bio": [
+      "В 1905 Кирхнер вместе с Блейлем, Хеккелем и Шмидт-Ротлуфом основал Die Brücke. Группа стремилась к непосредственному личному выражению."
+    ],
+    "technique": [
+      "В Борцах в цирке свободные мазки размывают контуры движущихся тел на ярком ковре. Напряжение возникает из сочетания сцепленной позы и цвета."
+    ],
+    "innovation": "Изменённая форма служит эмоциональному содержанию, а не только оптической записи движения.",
+    "caution": "Одна картина 1909 не исчерпывает творчество Кирхнера. Не называем всякую яркую живопись экспрессионизмом: важно, как цвет и форма выражают состояние.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Wrestlers in a Circus",
+      "url": "https://clevelandart.org/art/1966.49"
+    },
+    {
+      "title": "MoMA: Кирхнер и Die Brücke",
+      "url": "https://www.moma.org/artists/3115-ernst-ludwig-kirchner"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:142792",
+      "title": "Борцы в цирке",
+      "date": "1909",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1966.49"
+    }
+  ],
+  "pendingWorksCount": 0
+}

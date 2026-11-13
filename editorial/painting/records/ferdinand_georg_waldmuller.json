@@ -1,0 +1,50 @@
+{
+  "id": "ferdinand_georg_waldmuller",
+  "name": "Фердинанд Георг Вальдмюллер",
+  "latin": "Ferdinand Georg Waldmüller",
+  "life": "1793–1865",
+  "tag": "Австрия · бидермейер",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-19.js",
+  "existing": {
+    "bio": [
+      "Портретист и пейзажист, Вальдмюллер отстаивал наблюдение природы вместо идеализирующих академических доктрин. Это привело к конфликту с Венской академией."
+    ],
+    "technique": [
+      "В Пратере солнечный свет выделяет подробно написанную листву. В портрете графини горный фон объединяет сходство с романтическим образом родины."
+    ],
+    "innovation": "Бидермейер не исключает интереса к природе и споров о методе: точное наблюдение может противостоять академической идеализации.",
+    "caution": "Образ графини относится к аристократии, поэтому бидермейер нельзя автоматически сводить к портретам среднего класса.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Prater Landscape",
+      "url": "https://clevelandart.org/art/1983.155"
+    },
+    {
+      "title": "Cleveland Museum of Art: Countess Széchenyi",
+      "url": "https://clevelandart.org/art/1988.57"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:151298",
+      "title": "Prater Landscape",
+      "date": "c. 1831",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1983.155"
+    },
+    {
+      "key": "cma:154244",
+      "title": "Графиня Сеченьи",
+      "date": "1828",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1988.57"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jean_simeon_chardin",
+  "name": "Жан-Симеон Шарден",
+  "latin": "Jean-Siméon Chardin",
+  "life": "XVIII век",
+  "tag": "Занятие · сосредоточенность",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-105.js",
+  "existing": {
+    "bio": [
+      "Мальчик у деревянного стола поглощён сооружением карточного домика.",
+      "Полное музейное название идентифицирует его как Жана-Александра Ле Нуара."
+    ],
+    "technique": [
+      "Масло на холсте; 60,2 × 72 см.",
+      "Рассматривание сосредоточено на простом занятии, не на эффектной исторической сцене."
+    ],
+    "innovation": "Учебный ракурс — повседневное действие становится главным событием изображения.",
+    "caution": "Выбрана лондонская NG4078, не версии Лувра, Вашингтона или Уоддесдона. Каталог поддерживает идентификацию с картиной Салона 1741 года; не выдаём её за авторскую надпись. Варианты имени с Jean-Baptiste относятся к тому же художнику.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: Карточный домик",
+      "url": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste-Sim%C3%A9on_Chardin,_The_House_of_Cards,_1736-37.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG4078",
+      "title": "Карточный домик",
+      "date": "около 1740–1741",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+    }
+  ],
+  "pendingWorksCount": 0
+}

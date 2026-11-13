@@ -1,0 +1,41 @@
+{
+  "id": "maria_oakey_dewing",
+  "name": "Мария Оуки Дьюинг",
+  "latin": "Maria Oakey Dewing",
+  "life": "1845–1927",
+  "tag": "США и Канада · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-117.js",
+  "existing": {
+    "bio": [
+      "Училась в Cooper Union и National Academy of Design.",
+      "В Корнише выращивала сад, растения которого становились предметом её живописи."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Сведения и вопросы основаны на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как отсутствие горизонта меняет пространство?",
+    "caution": "Не путать с Томасом Уилмером Дьюингом. Музейное описание композиции не является нашим визуальным осмотром.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://americanart.si.edu/artwork/garden-may-6758"
+    },
+    {
+      "title": "Автор и сад",
+      "url": "https://americanart.si.edu/artist/maria-oakey-dewing-1246"
+    },
+    {
+      "title": "Музейная карточка CC0",
+      "url": "https://www.si.edu/object/garden-may:saam_1929.6.26"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

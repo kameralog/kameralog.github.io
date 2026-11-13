@@ -1,0 +1,41 @@
+{
+  "id": "betzy_akersloot_berg",
+  "name": "Бетси Акерслот-Берг",
+  "latin": "Betzy Akersloot-Berg",
+  "life": "1850–1922",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Норвежская по рождению художница, работавшая в Нидерландах и на норвежском побережье.",
+      "Поддерживала профессиональные связи с Хендриком Виллемом Месдагом и Синтье Месдаг-ван Хаутен."
+    ],
+    "technique": [
+      "Масло на холсте; 46 × 66 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как берег разделяет планы?",
+    "caution": "Музей лишь предполагает побережье Хельгеланда. Панорама Месдага — площадка ретроспективы, не владелец этой картины.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.04368"
+    },
+    {
+      "title": "Музейное аудиоописание",
+      "url": "https://www.nasjonalmuseet.no/en/guide/collection/46/214/"
+    },
+    {
+      "title": "Связи с Месдагами",
+      "url": "https://panorama-mesdag.nl/en/see-and-do/exhibitions/betzy-akersloot-berg/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

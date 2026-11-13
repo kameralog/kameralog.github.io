@@ -1,0 +1,47 @@
+{
+  "id": "giovanni_battista_tiepolo",
+  "name": "Джованни Баттиста Тьеполо",
+  "latin": "Giovanni Battista Tiepolo",
+  "life": "1696–1770",
+  "tag": "Венеция · позднее барокко и рококо",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-18.js",
+  "existing": {
+    "bio": [
+      "Тьеполо создавал монументальные декорации дворцов и монастырей Италии, Германии и Испании. Чикагский цикл Ринальдо и Армиды украшал зеркальный кабинет венецианского палаццо Корнаро."
+    ],
+    "technique": [
+      "Масло на холсте. Музей выделяет свет, цвет и иллюзию, связывающие повествование с пространством роскошного интерьера."
+    ],
+    "innovation": "Литературный эпос становится частью декоративного ансамбля. Сюжет раскрывает столкновение любви и долга, а не просто красивую пару.",
+    "caution": "Это Джованни Баттиста, не Джованни Доменико Тьеполо. Датировка 1742–1745 взята у Чикаго; Commons даёт 1755. Показана вторая из четырёх больших картин.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Художественный институт Чикаго: Ринальдо и Армида в её саду",
+      "url": "https://www.artic.edu/artworks/16485/rinaldo-and-armida-in-her-garden"
+    },
+    {
+      "title": "Репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Giambattista%20Tiepolo%20-%20Rinaldo%20and%20Armida%20in%20Her%20Garden%20-%201925.699%20-%20Art%20Institute%20of%20Chicago.jpg"
+    },
+    {
+      "title": "Чикаго: ансамбль Корнаро",
+      "url": "https://www.artic.edu/artworks/16488/armida-encounters-the-sleeping-rinaldo"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:16485",
+      "title": "Ринальдо и Армида в её саду",
+      "date": "1742–1745",
+      "museum": "Художественный институт Чикаго",
+      "source": "https://www.artic.edu/artworks/16485/rinaldo-and-armida-in-her-garden"
+    }
+  ],
+  "pendingWorksCount": 0
+}

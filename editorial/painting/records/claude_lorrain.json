@@ -1,0 +1,39 @@
+{
+  "id": "claude_lorrain",
+  "name": "Клод Лоррен",
+  "latin": "Claude Lorrain (Claude Gellée)",
+  "life": "1600–1682",
+  "tag": "Франция и Рим · идеальный пейзаж",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-17.js",
+  "existing": {
+    "bio": [
+      "Вид Дельф с процессией написал для кардинала Карло Камилло Массими — образованного римского коллекционера. Французский художник был увлечён античным миром."
+    ],
+    "technique": [
+      "Мягко светящаяся средиземноморская атмосфера соединена с воображаемым восстановлением древнего города. Музей сравнивает мир картины с поэзией Вергилия."
+    ],
+    "innovation": "Свет объединяет идеальный пейзаж: античность переживается как поэтический мир, а не археологическая реконструкция.",
+    "caution": "Это не документальный облик древних Дельф. Музей прямо говорит о восстановлении руин по воображению художника. Не путай Claude Lorrain и Лорана де Ла Ира.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: View of Delphi with a Procession",
+      "url": "https://www.artic.edu/artworks/43145"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:43145",
+      "title": "Вид Дельф с процессией",
+      "date": "1673",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/43145"
+    }
+  ],
+  "pendingWorksCount": 0
+}

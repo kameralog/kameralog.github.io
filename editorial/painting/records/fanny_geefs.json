@@ -1,0 +1,41 @@
+{
+  "id": "fanny_geefs",
+  "name": "Фанни Гефс",
+  "latin": "Fanny Geefs",
+  "life": "1807–1883",
+  "tag": "Бельгийская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-124.js",
+  "existing": {
+    "bio": [
+      "Бельгийская художница ирландского происхождения, ученица Навеза.",
+      "Создавала портреты, бытовые и исторические сцены."
+    ],
+    "technique": [
+      "Техника и основа требуют предметной сверки",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как поза выражает молитву?",
+    "caution": "Не путать со скульпторами Гийомом и Жоржем Гефс. Портрет Гийома в Rijksmuseum — другая работа и рисунок, не выбранная картина.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://fine-arts-museum.be/fr/la-collection/fanny-geefs-nee-corr-femme-en-priere"
+    },
+    {
+      "title": "Коллекционный реестр",
+      "url": "https://fine-arts-museum.be/fr/la-collection/artist/geefs-fanny"
+    },
+    {
+      "title": "Различение с рисунком",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Portret-van-Willem-Geefs--f8da3da47b2726baabfd5b5972500bad"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

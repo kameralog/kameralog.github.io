@@ -1,0 +1,45 @@
+{
+  "id": "giovanni_battista_pittoni",
+  "name": "Джованни Баттиста Питтони",
+  "latin": "Giovanni Battista Pittoni",
+  "life": "XVII–XVIII века",
+  "tag": "Венеция · две Троицы и цветовые уровни",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-92.js",
+  "existing": {
+    "bio": [
+      "В выбранном «Рождестве» Мария, Иосиф и Младенец образуют земную Троицу. Бог Отец, голубь Святого Духа и тот же Младенец — небесную.",
+      "Верхняя часть была скрыта поздней записью XIX века до расчистки 1959 года. История реставрации важна для понимания первоначальной программы."
+    ],
+    "technique": [
+      "Насыщенные синие и серые одежды внизу противопоставлены светлым тонам верхней части.",
+      "Свет связывает два уровня композиции и их богословский смысл."
+    ],
+    "innovation": "Учебный ракурс — один и тот же Младенец соединяет две смысловые группы; цвет и свет делают эту связь видимой.",
+    "caution": "Около 1740 — приблизительная дата. Первоначальная церковь неизвестна; цель поздней записи лишь предполагается. Прежняя атрибуция Тьеполо пересмотрена. В поле life указан только вековой диапазон: точные годы жизни для этой карточки отдельно не проверялись.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея, Лондон: Рождество с Богом Отцом и Святым Духом",
+      "url": "https://www.nationalgallery.org.uk/paintings/giovanni-battista-pittoni-the-nativity-with-god-the-father-and-the-holy-ghost"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Nativity_with_God_the_Father_and_the_Holy_Ghost.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "NG6279",
+      "title": "Рождество с Богом Отцом и Святым Духом",
+      "date": "около 1740",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/giovanni-battista-pittoni-the-nativity-with-god-the-father-and-the-holy-ghost"
+    }
+  ],
+  "pendingWorksCount": 0
+}

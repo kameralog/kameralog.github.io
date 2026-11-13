@@ -1,0 +1,41 @@
+{
+  "id": "christen_kobke",
+  "name": "Кристен Кёбке",
+  "latin": "Christen Købke",
+  "life": "1810–1848",
+  "tag": "Датский золотой век · XIX век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-127.js",
+  "existing": {
+    "bio": [
+      "Датский художник, ученик Эккерсберга.",
+      "Писал портреты и пейзажи мест, близких к своему дому."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как флаг связывает планы?",
+    "caution": "Музей связывает нынешний красноватый оттенок воды со старением красочного слоя. Закат и прощание не объявлены установленным сюжетом.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.smk.dk/en/article/the-collection/"
+    },
+    {
+      "title": "Консервация и интерпретация цвета",
+      "url": "https://artsandculture.google.com/story/10-highlights-from-the-collection-at-smk-statens-museum-for-kunst/1gWR4ajPkOq1Kg?hl=en"
+    },
+    {
+      "title": "Биография",
+      "url": "https://www.nationalgallery.org.uk/artists/christen-kobke"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

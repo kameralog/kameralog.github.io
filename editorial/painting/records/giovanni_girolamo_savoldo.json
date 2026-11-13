@@ -1,0 +1,39 @@
+{
+  "id": "giovanni_girolamo_savoldo",
+  "name": "Джованни Джироламо Савольдо",
+  "latin": "Giovanni Girolamo Savoldo",
+  "life": "работал 1506–1548",
+  "tag": "Италия · Венеция и Ломбардия, XVI век",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-10.js",
+  "existing": {
+    "bio": [
+      "Савольдо жил в Венеции и сохранял связи с Брешией в Ломбардии."
+    ],
+    "technique": [
+      "Трёхчетвертной формат приближает героев. Спокойное принятие смерти святым контрастирует с жестокостью нападающего."
+    ],
+    "innovation": "Музей связывает мрачную поэтичность Савольдо с соединением ломбардского реализма и венецианских фактурных и атмосферных эффектов.",
+    "caution": "1506–1548 — годы активности, не даты рождения и смерти. Пётр Мученик — доминиканец XIII века, не апостол Пётр.",
+    "editorialStatus": ""
+  },
+  "sources": [
+    {
+      "title": "Art Institute of Chicago: The Death of St. Peter Martyr",
+      "url": "https://www.artic.edu/artworks/158137"
+    }
+  ],
+  "works": [
+    {
+      "key": "aic:158137",
+      "title": "Гибель святого Петра Мученика",
+      "date": "1530–35",
+      "museum": "Art Institute of Chicago",
+      "source": "https://www.artic.edu/artworks/158137"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,47 @@
+{
+  "id": "li_tang",
+  "name": "Ли Тан",
+  "latin": "Li Tang",
+  "life": "ок. 1049 — после 1130 по NPM",
+  "tag": "Китай · Северная и Южная Сун",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-22.js",
+  "existing": {
+    "bio": [
+      "Ветер в соснах среди множества долин датирован 1124 и принадлежит северосунскому этапу Ли Тана. Вместе с Фань Куанем и Го Си он входит в музейную тройку монументальных пейзажей."
+    ],
+    "technique": [
+      "Большой вертикальный свиток тушью и цветом по шёлку. Характерные для традиции рубленые мазки фактуры скал NPM сравнивает с более свободным развитием у Ся Гуя."
+    ],
+    "innovation": "Мастер важен как ориентир передачи пейзажного языка между поколениями и дворами, не как неподвижная формула одной манеры.",
+    "caution": "Данная работа 1124 не Южная Сун, хотя Ли Тан связан с обеими эпохами. Имя Тан не означает принадлежность к танской династии. Не подменяем оригинал поздним приписыванием.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальный дворцовый музей, Тайбэй: Wind in Pines Among a Myriad Valleys",
+      "url": "https://www.npm.gov.tw/Exhibition-Content.aspx?sno=04011674&l=2"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Li%20Tang%20-%20Wind%20in%20Pines%20Among%20a%20Myriad%20Valleys.jpg"
+    },
+    {
+      "title": "NPM: сравнение фактуры с Ся Гуем",
+      "url": "https://digitalarchive.npm.gov.tw/Painting/Content?pid=30&Dept=P"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide22:li_tang",
+      "title": "Ветер в соснах среди множества долин",
+      "date": "1124",
+      "museum": "Национальный дворцовый музей, Тайбэй",
+      "source": "https://www.npm.gov.tw/Exhibition-Content.aspx?sno=04011674&l=2"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,39 @@
+{
+  "id": "odilon_redon",
+  "name": "Одилон Редон",
+  "latin": "Odilon Redon",
+  "life": "1840–1916",
+  "tag": "Франция · символизм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-20.js",
+  "existing": {
+    "bio": [
+      "Цветочные натюрморты принесли Редону наибольший коммерческий успех в последние полтора десятилетия карьеры. В юности на него повлиял ботаник Арман Клаво."
+    ],
+    "technique": [
+      "Ботаническое наблюдение становится отправной точкой для природы, увиденной словно во сне."
+    ],
+    "innovation": "Цветочный натюрморт не обязан быть научной фиксацией: он способен выражать воображаемую реальность.",
+    "caution": "Это поздний цветочный Редон, не его ранние чёрные видения. Одной вазой нельзя представить всё творчество.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Cleveland Museum of Art: Vase of Flowers",
+      "url": "https://clevelandart.org/art/1935.233"
+    }
+  ],
+  "works": [
+    {
+      "key": "cma:115067",
+      "title": "Ваза с цветами",
+      "date": "c. 1905",
+      "museum": "Cleveland Museum of Art",
+      "source": "https://clevelandart.org/art/1935.233"
+    }
+  ],
+  "pendingWorksCount": 0
+}

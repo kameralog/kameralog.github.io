@@ -1,0 +1,41 @@
+{
+  "id": "mary_blood_mellen",
+  "name": "Мэри Блад Меллен",
+  "latin": "Mary Blood Mellen",
+  "life": "1819–1886 по выставочной странице музея",
+  "tag": "Американская живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-116.js",
+  "existing": {
+    "bio": [
+      "Ученица и сотрудница Фица Генри Лейна.",
+      "Музей выделяет её самостоятельный вклад, несмотря на близость ряда работ к композициям наставника."
+    ],
+    "technique": [
+      "Масло на холсте, монтированном на жёсткую основу по коллекционной странице",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как соотносятся берег и вода?",
+    "caution": "Музейные страницы расходятся: 1885/1886, около 1850/1850-е, холст/холст на основе, номер 1964/2019.2. 1964 также год дара; противоречие не исправлено догадкой.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://old.capeannmuseum.org/collections/artists/mary-blood-mellen/"
+    },
+    {
+      "title": "Расхождения музейных сведений",
+      "url": "https://www.capeannmuseum.org/exhibition/the-art-of-mary-blood-mellen/"
+    },
+    {
+      "title": "Дополнительная музейная страница",
+      "url": "https://www.capeannmuseum.org/10-women-artists-you-wont-want-to-miss/"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

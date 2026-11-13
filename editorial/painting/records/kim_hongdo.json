@@ -1,0 +1,47 @@
+{
+  "id": "kim_hongdo",
+  "name": "Ким Хондо",
+  "latin": "Kim Hong-do (김홍도)",
+  "life": "1745 — после 1806 по музею",
+  "tag": "Чосон · жанровая живопись",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-24.js",
+  "existing": {
+    "bio": [
+      "Ким Хондо, известный под именем Танвон, создал знаменитый альбом повседневных сцен. Борьба — один лист этого альбома, не вся серия."
+    ],
+    "technique": [
+      "Простые, экономные мазки передают выражения лиц и накал состязания. Зрители образуют две группы, связанные обувью справа и продавцом сладостей слева."
+    ],
+    "innovation": "Повседневное событие получает композиционную ясность и эмоциональную насыщенность без подробной декорации окружающего места.",
+    "caution": "Музей даёт годы жизни 1745 — после 1806, не бесспорный 1814 из старых сводок. Около 1780 для листа — оценка Commons; точной даты текущая музейная запись не указывает.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальный музей Кореи, Сеул: Korean Traditional Wrestling",
+      "url": "https://www.museum.go.kr/ENG/contents/E0403000000.do?searchId=represent&schM=view&relicId=551"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Danwon-Ssireum.jpg"
+    },
+    {
+      "title": "Музей: альбом и годы жизни",
+      "url": "https://www.museum.go.kr/ENG/contents/E0202010000.do?schM=view&menuId=current&exhiSpThemId=542310&listType=gallery"
+    }
+  ],
+  "works": [
+    {
+      "key": "guide24:kim",
+      "title": "Корейская борьба ссирым — лист альбома",
+      "date": "Чосон, XVIII век; ок. 1780 по Commons",
+      "museum": "Национальный музей Кореи, Сеул",
+      "source": "https://www.museum.go.kr/ENG/contents/E0403000000.do?searchId=represent&schM=view&relicId=551"
+    }
+  ],
+  "pendingWorksCount": 0
+}

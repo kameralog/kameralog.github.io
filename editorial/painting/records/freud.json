@@ -1,0 +1,39 @@
+{
+  "id": "freud",
+  "name": "Люсьен Фрейд",
+  "latin": "Lucian Freud",
+  "life": "1922–2011",
+  "tag": "Великобритания · реализм",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-33.js",
+  "existing": {
+    "bio": [
+      "Фрейд — британский художник, внук Зигмунда Фрейда; умер в 2011 году."
+    ],
+    "technique": [
+      "«Смотрительница пособий спит» (1995) — масло по холсту, 151,3 × 219 см, частная коллекция. Модель — Сью Тилли, работница лондонского Jobcentre; фигура написана в натуральную величину и лежит на потрёпанном диване."
+    ],
+    "innovation": "Аукцион Christie’s продал картину в мае 2008 года в Нью-Йорке за 33,6 млн долларов Роману Абрамовичу; тогда это был рекорд для живущего художника. В 2015 году «Бригадир» ушёл за 35,8 млн фунтов (56,2 млн долларов) и вытеснил её с первого места среди работ Фрейда на аукционах.",
+    "caution": "Права на изображение защищены (или статус неясен): репродукцию не подключаю, смотри музейную карточку по ссылке. Фрейд умер в 2011 году.",
+    "editorialStatus": "text_only_rights_protected"
+  },
+  "sources": [
+    {
+      "title": "Википедия: Benefits Supervisor Sleeping",
+      "url": "https://en.wikipedia.org/wiki/Benefits_Supervisor_Sleeping"
+    },
+    {
+      "title": "Christie’s: лот 1997 года",
+      "url": "https://www.christies.com/en/lot/lot-5074074"
+    },
+    {
+      "title": "The Times: рекорд $33 млн",
+      "url": "https://www.thetimes.com/travel/destinations/uk-travel/england/london-travel/lucian-freuds-benefits-supervisor-sleeping-sells-for-record-dollar33m-zh8vc8ljglc"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 0
+}

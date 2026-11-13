@@ -1,0 +1,41 @@
+{
+  "id": "maria_margaretha_van_os",
+  "name": "Мария Маргарета ван Ос",
+  "latin": "Maria Margaretha van Os",
+  "life": "1780–1862",
+  "tag": "Нидерландская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-121.js",
+  "existing": {
+    "bio": [
+      "Нидерландская художница семейства ван Ос.",
+      "Создавала цветочные этюды и натюрморты; выбранная работа подписана M.M. van Os."
+    ],
+    "technique": [
+      "Масло на деревянной основе; 27 × 23 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как лимон связан с бокалом?",
+    "caution": "Английская страница даёт purchase 2015-01-06, нидерландская — aankoop 1826. Расхождение сохранено; глубина 8,2 см не перенесена на панель как её толщина.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и музейные сведения",
+      "url": "https://www.rijksmuseum.nl/en/collection/object/Still-Life-with-Lemon-and-Cut-Glass--4e4a5ef49776f9e9e66cfcfe95b4df1d"
+    },
+    {
+      "title": "Нидерландская версия карточки",
+      "url": "https://www.rijksmuseum.nl/nl/collectie/object/Stilleven-met-citroen-en-geslepen-glas--4e4a5ef49776f9e9e66cfcfe95b4df1d"
+    },
+    {
+      "title": "Имя и годы жизни",
+      "url": "https://www.wikidata.org/wiki/Q2670892"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

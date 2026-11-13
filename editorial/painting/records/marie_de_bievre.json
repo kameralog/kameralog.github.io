@@ -1,0 +1,37 @@
+{
+  "id": "marie_de_bievre",
+  "name": "Мари де Бьевр",
+  "latin": "Marie De Bièvre",
+  "life": "1865–1940",
+  "tag": "Бельгийская художественная среда · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-124.js",
+  "existing": {
+    "bio": [
+      "Бельгийская художница, работавшая маслом и пастелью.",
+      "Писала современные варианты натюрмортов, связанных с нидерландской и фламандской традицией."
+    ],
+    "technique": [
+      "Масло на холсте; 54 × 59,4 см",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как сопоставлены тёплые плоды и холодные цветы?",
+    "caution": "73,7 × 92,1 см — размер с рамой. Рама описана как современное воспроизведение французского образца XIX века, не как исходная авторская рама. Сведения о цвете переданы по продавцу.",
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Произведение и сведения",
+      "url": "https://www.markmitchellpaintings.com/marie-de-bievre-1865-1940-still-life-with-apricots-and-iris-sold/"
+    },
+    {
+      "title": "Имя и годы жизни",
+      "url": "https://en.wikipedia.org/wiki/Marie_de_Bi%C3%A8vre"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

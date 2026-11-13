@@ -1,0 +1,43 @@
+{
+  "id": "jacob_van_ruisdael",
+  "name": "Якоб ван Рёйсдал",
+  "latin": "Jacob van Ruisdael",
+  "life": "1628/1629?–1682",
+  "tag": "Нидерланды · пейзаж XVII века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-17.js",
+  "existing": {
+    "bio": [
+      "Для страницы выбраны Две водяные мельницы и открытый шлюз в Сингравене около 1650–1652. Национальная галерея подчёркивает: местность с такими высокими холмами не могла буквально находиться в Голландии."
+    ],
+    "technique": [
+      "Порывистый свет проходит через бегущие облака и выделяет воду. Художник меняет окружение мельницы, чтобы создать убедительный, но сконструированный пейзаж."
+    ],
+    "innovation": "Наблюдение природы не исключает вымысла: свет и устройство местности выражают художественный замысел, а не точную географию.",
+    "caution": "Пока без встроенной репродукции: карточка выбранного файла недоступна для проверки прав. Даже отождествление самой мельницы обсуждается: Сингравен — не бесспорно установленная локация.",
+    "editorialStatus": "illustrated"
+  },
+  "sources": [
+    {
+      "title": "Национальная галерея: мельницы и шлюз",
+      "url": "https://www.nationalgallery.org.uk/paintings/jacob-van-ruisdael-two-watermills-and-an-open-sluice-at-singraven"
+    },
+    {
+      "title": "Репродукция и сведения о правах",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacob_Isaacksz._van_Ruisdael_-_Two_Watermills_and_an_Open_Sluice_near_Singraven_-_WGA20466.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "audit:jacob_van_ruisdael:744d492c73fc",
+      "title": "Две водяные мельницы и открытый шлюз в Сингравене",
+      "date": "",
+      "museum": "Национальная галерея, Лондон",
+      "source": "https://www.nationalgallery.org.uk/paintings/jacob-van-ruisdael-two-watermills-and-an-open-sluice-at-singraven"
+    }
+  ],
+  "pendingWorksCount": 0
+}
