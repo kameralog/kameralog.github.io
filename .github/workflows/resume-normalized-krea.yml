@@ -1,0 +1,87 @@
+name: Normalize Krea responses and finish Uffizi batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/resume-normalized-krea.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  finish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: museum-reports
+      - uses: actions/checkout@v4
+        with:
+          ref: 068df5e13c889ffa3eecfe2a55bc05944f09a4fe
+          path: reviewed-runner
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Normalize locally and continue existing checkpointed runner
+        env:
+          KREA_API_KEY: ${{ secrets.KREA_API_KEY }}
+        run: |
+          python <<'PY'
+          import ast, json, pathlib, textwrap
+          def normalize_items(items, numbers, request_path, batch, snapshot):
+              assert isinstance(items,list) and len(items)==len(numbers)==10
+              assert all(type(i.get('number')) is int for i in items)
+              reported = [i['number'] for i in items]
+              assert len(set(reported))==10
+              attachments = json.loads(request_path.read_text())['attachments']
+              expected = [{'url':'https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+snapshot+'/'+e['preview'],'name':f'candidate-{e["number"]:02}.jpg','contentType':'image/jpeg'} for e in batch]
+              assert attachments == expected
+              local = sorted(reported)==list(range(1,11)) and sorted(reported)!=numbers
+              assert local or sorted(reported)==numbers, 'Ambiguous numbering; no inference allowed'
+              normalized = []
+              for old in sorted(items,key=lambda i:i['number']):
+                  item = dict(old)
+                  notes = []
+                  if local:
+                      item['reportedNumber'] = old['number']
+                      item['number'] = numbers[old['number']-1]
+                      notes.append('Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.')
+                  details = item.get('visibleDetails')
+                  if isinstance(details,list):
+                      assert len(details)>=2 and all(isinstance(s,str) and s.strip() for s in details)
+                      item['reportedVisibleDetails'] = details
+                      item['visibleDetails'] = '; '.join(details)
+                      notes.append('List of visible details joined for schema compatibility; original list preserved.')
+                  assert isinstance(item.get('visibleDetails'),str) and len(item['visibleDetails'])>=20
+                  assert all(item.get(k) in ['yes','no','uncertain'] for k in ['wholePaintingVisible','frameVisible','watermarkVisible'])
+                  item['normalizationNotes'] = notes
+                  normalized.append(item)
+              assert sorted(i['number'] for i in normalized)==numbers
+              return normalized
+          workflow = pathlib.Path('reviewed-runner/.github/workflows/resume-uffizi-krea.yml').read_text()
+          start_marker = "          python <<'PY'\n"
+          assert workflow.count(start_marker)==1
+          source = textwrap.dedent(workflow.split(start_marker,1)[1].split('\n          PY',1)[0])
+          old = """    assert len(items)==10 and sorted(i['number'] for i in items)==numbers
+              for item in items:
+                  assert isinstance(item.get('visibleDetails'),str) and len(item['visibleDetails'])>=20
+                  assert all(item.get(k) in ['yes','no','uncertain'] for k in ['wholePaintingVisible','frameVisible','watermarkVisible'])"""
+          old = textwrap.dedent(old)
+          assert source.count(textwrap.indent(old,'        '))==1, 'Reviewed validator changed; abort before API calls'
+          source = source.replace(textwrap.indent(old,'        '), "        items = normalize_items(items,numbers,OUT/f'group-{n:02}-request.json',batch,snapshot)")
+          marker = 'group = None\nphase = \'preflight\''
+          assert source.count(marker)==1
+          source = source.replace(marker, "prompt += ' Use the exact numbers in attachment filenames, not local 1-10; visibleDetails must be a single string. '"+'\n'+marker)
+          ast.parse(source)
+          exec(compile(source,'reviewed_cached_runner_with_normalization','exec'),globals())
+          PY
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: uffizi-krea-normalized-${{ github.run_id }}-${{ github.run_attempt }}
+          path: reports/uffizi-krea-50/43579978219-1/resume-v2/
+          if-no-files-found: warn
+          retention-days: 7
