@@ -1,5 +1,30 @@
 [
   {
+    "id": "nicolas_tournier",
+    "name": "Никола Турнье",
+    "path": "records/nicolas_tournier.json"
+  },
+  {
+    "id": "nikolai_astrup",
+    "name": "Николай Аструп",
+    "path": "records/nikolai_astrup.json"
+  },
+  {
+    "id": "nikolai_triik",
+    "name": "Николай Трийк",
+    "path": "records/nikolai_triik.json"
+  },
+  {
+    "id": "nicolaes_berchem",
+    "name": "Николас Берхем",
+    "path": "records/nicolaes_berchem.json"
+  },
+  {
+    "id": "nicolaes_gillis",
+    "name": "Николас Гиллис",
+    "path": "records/nicolaes_gillis.json"
+  },
+  {
     "id": "nicolaes_maes",
     "name": "Николас Мас",
     "path": "records/nicolaes_maes.json"
@@ -415,6 +440,11 @@
     "path": "records/rauschenberg.json"
   },
   {
+    "id": "robert_zund",
+    "name": "Роберт Цюнд",
+    "path": "records/robert_zund.json"
+  },
+  {
     "id": "rose_adelaide_ducreux",
     "name": "Роз-Аделаида Дюкре",
     "path": "records/rose_adelaide_ducreux.json"
@@ -468,35 +498,5 @@
     "id": "dali",
     "name": "Сальвадор Дали",
     "path": "records/dali.json"
-  },
-  {
-    "id": "salvator_rosa",
-    "name": "Сальватор Роза",
-    "path": "records/salvator_rosa.json"
-  },
-  {
-    "id": "samuel_van_hoogstraten",
-    "name": "Самюэл ван Хогстратен",
-    "path": "records/samuel_van_hoogstraten.json"
-  },
-  {
-    "id": "botticelli",
-    "name": "Сандро Боттичелли",
-    "path": "records/botticelli.json"
-  },
-  {
-    "id": "sano_di_pietro",
-    "name": "Сано ди Пьетро",
-    "path": "records/sano_di_pietro.json"
-  },
-  {
-    "id": "santi_di_tito",
-    "name": "Санти ди Тито",
-    "path": "records/santi_di_tito.json"
-  },
-  {
-    "id": "sarah_goodridge",
-    "name": "Сара Гудридж",
-    "path": "records/sarah_goodridge.json"
   }
 ]

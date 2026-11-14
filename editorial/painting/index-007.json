@@ -1,5 +1,35 @@
 [
   {
+    "id": "salvator_rosa",
+    "name": "Сальватор Роза",
+    "path": "records/salvator_rosa.json"
+  },
+  {
+    "id": "samuel_van_hoogstraten",
+    "name": "Самюэл ван Хогстратен",
+    "path": "records/samuel_van_hoogstraten.json"
+  },
+  {
+    "id": "botticelli",
+    "name": "Сандро Боттичелли",
+    "path": "records/botticelli.json"
+  },
+  {
+    "id": "sano_di_pietro",
+    "name": "Сано ди Пьетро",
+    "path": "records/sano_di_pietro.json"
+  },
+  {
+    "id": "santi_di_tito",
+    "name": "Санти ди Тито",
+    "path": "records/santi_di_tito.json"
+  },
+  {
+    "id": "sarah_goodridge",
+    "name": "Сара Гудридж",
+    "path": "records/sarah_goodridge.json"
+  },
+  {
     "id": "sarah_miriam_peale",
     "name": "Сара Мириам Пил",
     "path": "records/sarah_miriam_peale.json"
@@ -270,6 +300,11 @@
     "path": "records/fede_galizia.json"
   },
   {
+    "id": "felix_vallotton",
+    "name": "Феликс Валлоттон",
+    "path": "records/felix_vallotton.json"
+  },
+  {
     "id": "theophanes_the_greek",
     "name": "Феофан Грек",
     "path": "records/theophanes_the_greek.json"
@@ -288,6 +323,11 @@
     "id": "ferdinand_von_wright",
     "name": "Фердинанд фон Вригт",
     "path": "records/ferdinand_von_wright.json"
+  },
+  {
+    "id": "ferdinand_hodler",
+    "name": "Фердинанд Ходлер",
+    "path": "records/ferdinand_hodler.json"
   },
   {
     "id": "ferdinand_engelmuller",
@@ -353,6 +393,11 @@
     "id": "fra_filippo_lippi",
     "name": "Фра Филиппо Липпи",
     "path": "records/fra_filippo_lippi.json"
+  },
+  {
+    "id": "frank_buchser",
+    "name": "Франк Бухзер",
+    "path": "records/frank_buchser.json"
   },
   {
     "id": "frans_van_cuyck_de_myerhop",
@@ -453,50 +498,5 @@
     "id": "francesco_francia",
     "name": "Франческо Франча",
     "path": "records/francesco_francia.json"
-  },
-  {
-    "id": "francesco_furini",
-    "name": "Франческо Фурини",
-    "path": "records/francesco_furini.json"
-  },
-  {
-    "id": "francesco_zuccarelli",
-    "name": "Франческо Цуккарелли",
-    "path": "records/francesco_zuccarelli.json"
-  },
-  {
-    "id": "frederick_de_moucheron",
-    "name": "Фредерик де Мушерон",
-    "path": "records/frederick_de_moucheron.json"
-  },
-  {
-    "id": "frederic_remington",
-    "name": "Фредерик Ремингтон",
-    "path": "records/frederic_remington.json"
-  },
-  {
-    "id": "frederic_edwin_church",
-    "name": "Фредерик Эдвин Чёрч",
-    "path": "records/frederic_edwin_church.json"
-  },
-  {
-    "id": "fredrik_ahlstedt",
-    "name": "Фредрик Альштедт",
-    "path": "records/fredrik_ahlstedt.json"
-  },
-  {
-    "id": "kahlo",
-    "name": "Фрида Кало",
-    "path": "records/kahlo.json"
-  },
-  {
-    "id": "friedrich_amerling",
-    "name": "Фридрих Амерлинг",
-    "path": "records/friedrich_amerling.json"
-  },
-  {
-    "id": "fritz_syberg",
-    "name": "Фриц Сюберг",
-    "path": "records/fritz_syberg.json"
   }
 ]

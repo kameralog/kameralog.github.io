@@ -1,8 +1,58 @@
 [
   {
+    "id": "emil_nolde",
+    "name": "Эмиль Нольде",
+    "path": "records/emil_nolde.json"
+  },
+  {
+    "id": "emil_filla",
+    "name": "Эмиль Филла",
+    "path": "records/emil_filla.json"
+  },
+  {
+    "id": "emma_lambotte",
+    "name": "Эмма Ламботт",
+    "path": "records/emma_lambotte.json"
+  },
+  {
+    "id": "emma_sandys",
+    "name": "Эмма Сэндис",
+    "path": "records/emma_sandys.json"
+  },
+  {
+    "id": "warhol",
+    "name": "Энди Уорхол",
+    "path": "records/warhol.json"
+  },
+  {
+    "id": "wyeth",
+    "name": "Эндрю Уайет",
+    "path": "records/wyeth.json"
+  },
+  {
+    "id": "anne_killigrew",
+    "name": "Энн Киллигрю",
+    "path": "records/anne_killigrew.json"
+  },
+  {
+    "id": "eni",
+    "name": "Энъи",
+    "path": "records/eni.json"
+  },
+  {
+    "id": "erik_werenskiold",
+    "name": "Эрик Вереншёлль",
+    "path": "records/erik_werenskiold.json"
+  },
+  {
     "id": "ercole_de_roberti",
     "name": "Эрколе де Роберти",
     "path": "records/ercole_de_roberti.json"
+  },
+  {
+    "id": "ernest_bieler",
+    "name": "Эрнест Билер",
+    "path": "records/ernest_bieler.json"
   },
   {
     "id": "ernst_ludwig_kirchner",

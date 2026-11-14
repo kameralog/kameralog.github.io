@@ -1,0 +1,46 @@
+{
+  "id": "frank_buchser",
+  "name": "Франк Бухзер",
+  "latin": "Frank Buchser",
+  "life": "1828–1890",
+  "tag": "Швейцарская живопись · реализм, символизм и цвет · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-145.js",
+  "existing": {
+    "bio": [
+      "Швейцарский художник, известный также как Franz Buchser. Провёл в США 1866–1871 годы, в том числе работал в Шарлотсвилле; биографические сведения подтверждены историческим обществом Albemarle Charlottesville.",
+      "Статья Швейцарского национального музея рассматривает «Песню Мэри Блейн» как сцену с чернокожими слушателями и музыкантом, связанную с балладой и послевоенной американской действительностью.",
+      "В тексте статьи процитирована подпись с 1870 годом, но подпись к иллюстрации даёт 1880. SIK-ISEA также связывает картину с 1870 годом. Противоречие отмечено; другую акварель Mary Blaine из Smithsonian не считаем автоматически тем же предметом."
+    ],
+    "technique": [
+      "Живопись; техника, размеры и точная датировка требуют предметной сверки",
+      "Анализ композиции атрибутирован музейным источникам; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Музейная статья показывает, как внешне жанровая сцена может содержать сложное высказывание о социальной ситуации и истории США.",
+    "caution": "Исследовательский черновик. Полный аудит имён/алиасов по репозиторию и браузерная проверка не выполнены.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_ALIAS_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Основной музейный или исследовательский источник",
+      "url": "https://blog.nationalmuseum.ch/en/2025/08/a-swiss-painter-in-america/"
+    },
+    {
+      "title": "SIK-ISEA: 1870",
+      "url": "https://recherche.sik-isea.ch/en/sik:person-4022827/in/sikisea/institution?ui.featured=cms:news_406e3a12-f88a-4569-8a53-ebddd1ae3391"
+    },
+    {
+      "title": "Историческое общество: годы жизни и американская поездка",
+      "url": "https://albemarlehistory.org/collection/correspondence-relating-to-frank-buchser/"
+    },
+    {
+      "title": "Каталог Rijksmuseum: годы жизни",
+      "url": "https://www.rijksmuseum.nl/en/collection/publication/Frank-Buchser-1828-1890-Bilder--57824d613df7d4e3f756e9c3138fcf9e"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

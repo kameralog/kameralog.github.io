@@ -1,5 +1,20 @@
 [
   {
+    "id": "carl_larsson",
+    "name": "Карл Ларссон",
+    "path": "records/carl_larsson.json"
+  },
+  {
+    "id": "karl_madsen",
+    "name": "Карл Мадсен",
+    "path": "records/karl_madsen.json"
+  },
+  {
+    "id": "karl_nordstrom",
+    "name": "Карл Нордстрём",
+    "path": "records/karl_nordstrom.json"
+  },
+  {
     "id": "carl_holsoe",
     "name": "Карл Хольсёе",
     "path": "records/carl_holsoe.json"
@@ -275,6 +290,11 @@
     "path": "records/petrovvodkin.json"
   },
   {
+    "id": "cuno_amiet",
+    "name": "Куно Амье",
+    "path": "records/cuno_amiet.json"
+  },
+  {
     "id": "kuroda_seiki",
     "name": "Курода Сэйки",
     "path": "records/kuroda_seiki.json"
@@ -478,25 +498,5 @@
     "id": "ludek_marold",
     "name": "Людек Маролд",
     "path": "records/ludek_marold.json"
-  },
-  {
-    "id": "ludovico_carracci",
-    "name": "Людовико Карраччи",
-    "path": "records/ludovico_carracci.json"
-  },
-  {
-    "id": "ludovico_mazzolino",
-    "name": "Людовико Маццолино",
-    "path": "records/ludovico_mazzolino.json"
-  },
-  {
-    "id": "ludolf_bakhuizen",
-    "name": "Людолф Бакхёйзен",
-    "path": "records/ludolf_bakhuizen.json"
-  },
-  {
-    "id": "ludolf_de_jongh",
-    "name": "Людолф де Йонг",
-    "path": "records/ludolf_de_jongh.json"
   }
 ]

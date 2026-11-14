@@ -1,5 +1,25 @@
 [
   {
+    "id": "ludovico_carracci",
+    "name": "Людовико Карраччи",
+    "path": "records/ludovico_carracci.json"
+  },
+  {
+    "id": "ludovico_mazzolino",
+    "name": "Людовико Маццолино",
+    "path": "records/ludovico_mazzolino.json"
+  },
+  {
+    "id": "ludolf_bakhuizen",
+    "name": "Людолф Бакхёйзен",
+    "path": "records/ludolf_bakhuizen.json"
+  },
+  {
+    "id": "ludolf_de_jongh",
+    "name": "Людолф де Йонг",
+    "path": "records/ludolf_de_jongh.json"
+  },
+  {
     "id": "lucy_madox_brown",
     "name": "Люси Мэдокс Браун",
     "path": "records/lucy_madox_brown.json"
@@ -33,6 +53,11 @@
     "id": "masaccio",
     "name": "Мазаччо",
     "path": "records/masaccio.json"
+  },
+  {
+    "id": "max_buri",
+    "name": "Макс Бури",
+    "path": "records/max_buri.json"
   },
   {
     "id": "max_svabinsky",
@@ -473,30 +498,5 @@
     "id": "nicolas_regnier",
     "name": "Никола Ренье",
     "path": "records/nicolas_regnier.json"
-  },
-  {
-    "id": "nicolas_tournier",
-    "name": "Никола Турнье",
-    "path": "records/nicolas_tournier.json"
-  },
-  {
-    "id": "nikolai_astrup",
-    "name": "Николай Аструп",
-    "path": "records/nikolai_astrup.json"
-  },
-  {
-    "id": "nikolai_triik",
-    "name": "Николай Трийк",
-    "path": "records/nikolai_triik.json"
-  },
-  {
-    "id": "nicolaes_berchem",
-    "name": "Николас Берхем",
-    "path": "records/nicolaes_berchem.json"
-  },
-  {
-    "id": "nicolaes_gillis",
-    "name": "Николас Гиллис",
-    "path": "records/nicolaes_gillis.json"
   }
 ]

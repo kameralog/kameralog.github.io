@@ -1,5 +1,50 @@
 [
   {
+    "id": "francesco_furini",
+    "name": "Франческо Фурини",
+    "path": "records/francesco_furini.json"
+  },
+  {
+    "id": "francesco_zuccarelli",
+    "name": "Франческо Цуккарелли",
+    "path": "records/francesco_zuccarelli.json"
+  },
+  {
+    "id": "frederick_de_moucheron",
+    "name": "Фредерик де Мушерон",
+    "path": "records/frederick_de_moucheron.json"
+  },
+  {
+    "id": "frederic_remington",
+    "name": "Фредерик Ремингтон",
+    "path": "records/frederic_remington.json"
+  },
+  {
+    "id": "frederic_edwin_church",
+    "name": "Фредерик Эдвин Чёрч",
+    "path": "records/frederic_edwin_church.json"
+  },
+  {
+    "id": "fredrik_ahlstedt",
+    "name": "Фредрик Альштедт",
+    "path": "records/fredrik_ahlstedt.json"
+  },
+  {
+    "id": "kahlo",
+    "name": "Фрида Кало",
+    "path": "records/kahlo.json"
+  },
+  {
+    "id": "friedrich_amerling",
+    "name": "Фридрих Амерлинг",
+    "path": "records/friedrich_amerling.json"
+  },
+  {
+    "id": "fritz_syberg",
+    "name": "Фриц Сюберг",
+    "path": "records/fritz_syberg.json"
+  },
+  {
     "id": "frits_thaulow",
     "name": "Фриц Таулов",
     "path": "records/frits_thaulow.json"
@@ -453,50 +498,5 @@
     "id": "emilie_mundt",
     "name": "Эмилия Мундт",
     "path": "records/emilie_mundt.json"
-  },
-  {
-    "id": "emil_nolde",
-    "name": "Эмиль Нольде",
-    "path": "records/emil_nolde.json"
-  },
-  {
-    "id": "emil_filla",
-    "name": "Эмиль Филла",
-    "path": "records/emil_filla.json"
-  },
-  {
-    "id": "emma_lambotte",
-    "name": "Эмма Ламботт",
-    "path": "records/emma_lambotte.json"
-  },
-  {
-    "id": "emma_sandys",
-    "name": "Эмма Сэндис",
-    "path": "records/emma_sandys.json"
-  },
-  {
-    "id": "warhol",
-    "name": "Энди Уорхол",
-    "path": "records/warhol.json"
-  },
-  {
-    "id": "wyeth",
-    "name": "Эндрю Уайет",
-    "path": "records/wyeth.json"
-  },
-  {
-    "id": "anne_killigrew",
-    "name": "Энн Киллигрю",
-    "path": "records/anne_killigrew.json"
-  },
-  {
-    "id": "eni",
-    "name": "Энъи",
-    "path": "records/eni.json"
-  },
-  {
-    "id": "erik_werenskiold",
-    "name": "Эрик Вереншёлль",
-    "path": "records/erik_werenskiold.json"
   }
 ]

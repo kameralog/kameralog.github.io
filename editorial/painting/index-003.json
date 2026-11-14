@@ -1,5 +1,20 @@
 [
   {
+    "id": "dirck_van_delen",
+    "name": "Дирк ван Делен",
+    "path": "records/dirck_van_delen.json"
+  },
+  {
+    "id": "dirck_hals",
+    "name": "Дирк Халс",
+    "path": "records/dirck_hals.json"
+  },
+  {
+    "id": "domenichino",
+    "name": "Доменикино",
+    "path": "records/domenichino.json"
+  },
+  {
     "id": "domenico_beccafumi",
     "name": "Доменико Беккафуми",
     "path": "records/domenico_beccafumi.json"
@@ -483,20 +498,5 @@
     "id": "karl_isakson",
     "name": "Карл Исаксон",
     "path": "records/karl_isakson.json"
-  },
-  {
-    "id": "carl_larsson",
-    "name": "Карл Ларссон",
-    "path": "records/carl_larsson.json"
-  },
-  {
-    "id": "karl_madsen",
-    "name": "Карл Мадсен",
-    "path": "records/karl_madsen.json"
-  },
-  {
-    "id": "karl_nordstrom",
-    "name": "Карл Нордстрём",
-    "path": "records/karl_nordstrom.json"
   }
 ]

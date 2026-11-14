@@ -145,6 +145,11 @@
     "path": "records/allart_van_everdingen.json"
   },
   {
+    "id": "albert_anker",
+    "name": "Альберт Анкер",
+    "path": "records/albert_anker.json"
+  },
+  {
     "id": "albert_bouts",
     "name": "Альберт Баутс",
     "path": "records/albert_bouts.json"
@@ -493,10 +498,5 @@
     "id": "asta_norregaard",
     "name": "Аста Нёррегор",
     "path": "records/asta_norregaard.json"
-  },
-  {
-    "id": "astrid_holm",
-    "name": "Астрид Хольм",
-    "path": "records/astrid_holm.json"
   }
 ]

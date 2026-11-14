@@ -1,8 +1,18 @@
 [
   {
+    "id": "astrid_holm",
+    "name": "Астрид Хольм",
+    "path": "records/astrid_holm.json"
+  },
+  {
     "id": "atetelco_white_patio",
     "name": "Атетелько: Белый дворик",
     "path": "records/atetelco_white_patio.json"
+  },
+  {
+    "id": "augusto_giacometti",
+    "name": "Аугусто Джакометти",
+    "path": "records/augusto_giacometti.json"
   },
   {
     "id": "aurel_bernath",
@@ -488,15 +498,5 @@
     "id": "gederts_eliass",
     "name": "Гедертс Элиас",
     "path": "records/gederts_eliass.json"
-  },
-  {
-    "id": "geza_vastagh",
-    "name": "Геза Ваштаг",
-    "path": "records/geza_vastagh.json"
-  },
-  {
-    "id": "geza_meszoly",
-    "name": "Геза Месёй",
-    "path": "records/geza_meszoly.json"
   }
 ]
