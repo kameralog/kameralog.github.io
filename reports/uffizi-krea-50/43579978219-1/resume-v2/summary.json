@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "source": "reports/uffizi-krea-50/43579978219-1",
+  "prepared": 50,
+  "modelReviewed": 0,
+  "sendAttempts": 0,
+  "maxSendAttempts": 5,
+  "complete": false,
+  "applyAllowed": false,
+  "humanVisualReviewPerformed": false,
+  "assessmentStatus": "unverified_model_output",
+  "groups": [],
+  "warning": "At most five Agent messages. Internal spending is not hard-capped. Waiting cancellation does not cancel Krea."
+}
