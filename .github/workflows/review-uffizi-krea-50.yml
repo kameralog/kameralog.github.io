@@ -1,0 +1,50 @@
+name: Review all 50 Uffizi images with Krea
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/review-uffizi-krea-50.yml', '.github/scripts/review-uffizi-krea-50.py']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: museum-reports
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          path: runner-source
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow==11.3.0
+      - name: Download all images and send at most five Agent turns
+        env:
+          KREA_API_KEY: ${{ secrets.KREA_API_KEY }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: python runner-source/.github/scripts/review-uffizi-krea-50.py
+      - name: Preserve diagnostics after failure
+        if: always()
+        env:
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          set -euo pipefail
+          destination="reports/uffizi-krea-50/$RUN_ID-$RUN_ATTEMPT"
+          if [ ! -s "$destination/summary.json" ]; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f -- "$destination"
+          if ! git diff --cached --quiet; then
+            git commit -m "Preserve Uffizi Krea diagnostics $RUN_ID"
+            git push origin HEAD:refs/heads/museum-reports
+          fi
