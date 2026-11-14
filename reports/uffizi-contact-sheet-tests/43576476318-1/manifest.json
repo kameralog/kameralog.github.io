@@ -1,0 +1,88 @@
+{
+  "sourceReport": "reports/uffizi-batch-reviews/43472007781-1",
+  "purpose": "Test actual image access, not painting approval",
+  "visualReviewPerformed": false,
+  "applyAllowed": false,
+  "entries": [
+    {
+      "number": 1,
+      "work": "Q3605529",
+      "artist": "Герард Давид",
+      "title": "Adoration of the Magi",
+      "reportFile": "entry-aea8f8c2b70e737dc40d14cd.json",
+      "imageFile": "Gérard David, adorazione dei magi, uffizi.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/G%C3%A9rard_David%2C_adorazione_dei_magi%2C_uffizi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:G%C3%A9rard_David,_adorazione_dei_magi,_uffizi.JPG",
+      "rightsAsRecorded": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Gerard David",
+        "credit": "http://www.abcgallery.com/D/gerardavid/geradavid15.html",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "downloadedBytes": 198183,
+      "dimensions": [
+        518,
+        614
+      ],
+      "sha256": "bfb5e6ff36b9cda96039ec0d2ec84f9b922bd2a95b94708efbbe38d95be1b15c"
+    },
+    {
+      "number": 2,
+      "work": "Q28798129",
+      "artist": "Пьеро делла Франческа",
+      "title": "Portrait of Battista Sforza",
+      "reportFile": "entry-e9bdfcd6ded1df6e6477f2be.json",
+      "imageFile": "Battista sforza.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Battista_sforza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Battista_sforza.jpg",
+      "rightsAsRecorded": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Piero della Francesca",
+        "credit": "(per Virtual Uffizi http://www.virtualuffizi.com/uffizi1/artista.asp?Autore=Piero+della+Francesca",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "downloadedBytes": 7120840,
+      "dimensions": [
+        2407,
+        3390
+      ],
+      "sha256": "1148ce95298d84a98eba00fadef3afcc99d9265b031c666be0769706c05b628e"
+    },
+    {
+      "number": 3,
+      "work": "Q52155602",
+      "artist": "Эглон Хендрик ван дер Нер",
+      "title": "Автопортрет",
+      "reportFile": "entry-4a142d8a8b279305b867df89.json",
+      "imageFile": "Neer, Eglon van der - Self-portrait - 1696.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Neer%2C_Eglon_van_der_-_Self-portrait_-_1696.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Neer,_Eglon_van_der_-_Self-portrait_-_1696.jpg",
+      "rightsAsRecorded": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Eglon van der Neer",
+        "credit": "http://storage.canalblog.com/11/02/119589/34355007.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      },
+      "downloadedBytes": 23219,
+      "dimensions": [
+        295,
+        384
+      ],
+      "sha256": "055e81941ef0bebedca63a1c42ea568dbf32c71694e9cb3357bb28137298f445"
+    }
+  ],
+  "sheet": "reports/uffizi-contact-sheet-tests/43576476318-1/sheet.jpg",
+  "sheetSha256": "7a89bc1f2b4138e576d6ad1b7f3b1ac1ec9903ee43c48d4f6b1e52dacd005e2e"
+}
