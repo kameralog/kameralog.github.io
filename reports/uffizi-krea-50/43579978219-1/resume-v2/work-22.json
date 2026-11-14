@@ -1,0 +1,17 @@
+{
+  "number": 22,
+  "work": "Q3399473",
+  "previewSha256": "19d0282b92c60b46bc8c871a7fde4b0bef697bebc37b7dd7eba6ea6269407ba6",
+  "modelAssessment": {
+    "number": 22,
+    "visibleDetails": "Three-quarter portrait of a young person with shoulder-length dark hair wearing a dark cap and dark garment with light-colored collar.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Shadow details in dark garments are subdued.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

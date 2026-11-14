@@ -1,0 +1,17 @@
+{
+  "number": 26,
+  "work": "Q131490096",
+  "previewSha256": "dea18ca8e2f6f73719787fd987f17a145ffa83a4bc0d79d25c8aec6d4c02bb7e",
+  "modelAssessment": {
+    "number": 26,
+    "visibleDetails": "Portrait of a young man with dark long hair wearing a dark cap and dark tunic with a white collar.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Lower right corner shows a hint of a hand or object partially cropped.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

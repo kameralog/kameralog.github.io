@@ -1,0 +1,17 @@
+{
+  "number": 25,
+  "work": "Q957460",
+  "previewSha256": "ba820e6743c4531592a91430e890168f9a56f6de399ce7069107a76f91dc9284",
+  "modelAssessment": {
+    "number": 25,
+    "visibleDetails": "Profile portrait of a bald monk with a prominent nose in a dark habit against a dark background with inscribed yellow lettering.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Visible craquelure and surface texture on the dark field.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

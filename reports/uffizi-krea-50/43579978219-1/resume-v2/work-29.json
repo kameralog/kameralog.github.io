@@ -1,0 +1,17 @@
+{
+  "number": 29,
+  "work": "Q3997721",
+  "previewSha256": "1491c40dc11a4df8625219cc1126bcc8cf41d44bbf30c4b58c50e2f6872e13b5",
+  "modelAssessment": {
+    "number": 29,
+    "visibleDetails": "Transfiguration scene with Christ glowing in a halo of light flanked by figures on a mountaintop and astonished disciples below.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Some highlights around the central figure are bright.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

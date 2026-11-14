@@ -1,0 +1,17 @@
+{
+  "number": 27,
+  "work": "Q3870403",
+  "previewSha256": "4d5b400f8c8f39533ba6e7c1bb15957567da65f689ec9c456c2fdd1515232685",
+  "modelAssessment": {
+    "number": 27,
+    "visibleDetails": "Profile bust of a figure with auburn hair wearing a laurel wreath in a rocky landscape setting with distant water and boats.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Dark shadows obscure detail in the upper rock formations.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

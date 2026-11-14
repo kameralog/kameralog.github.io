@@ -1,0 +1,17 @@
+{
+  "number": 21,
+  "work": "Q3399418",
+  "previewSha256": "c68cf1fd9c51a75780aa5eecbcc228b4370d7cfef285ec88c14f91f8e68d27e2",
+  "modelAssessment": {
+    "number": 21,
+    "visibleDetails": "Profile portrait of a bald monk in dark brown habit looking upward with inscribed yellow lettering along the upper and right edges.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Slight surface craquelure and graininess across the dark background.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

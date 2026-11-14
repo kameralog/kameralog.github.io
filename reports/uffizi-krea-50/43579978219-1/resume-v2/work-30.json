@@ -1,0 +1,17 @@
+{
+  "number": 30,
+  "work": "Q120379091",
+  "previewSha256": "4a4be4c419854a656cd5db6d6b934e8ac1e326281d90fb0a5431419467088fae",
+  "modelAssessment": {
+    "number": 30,
+    "visibleDetails": "Portrait of a man with dark hair in a red mantle standing beside a table covered with an intricate red and black patterned rug.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Surface craquelure and uneven lighting across the background and right side.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

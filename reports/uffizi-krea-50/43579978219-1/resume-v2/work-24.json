@@ -1,0 +1,17 @@
+{
+  "number": 24,
+  "work": "Q945250",
+  "previewSha256": "baf2be63d9e537b6d61194433cadbec53c0e47df19a17a834f40c8f433e0281a",
+  "modelAssessment": {
+    "number": 24,
+    "visibleDetails": "Portrait of a man with curly hair wearing a dark cap and dark tunic with red front section holding a scroll inscribed TIMETE DEVM.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Slight reflection or gloss on the painted surface.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

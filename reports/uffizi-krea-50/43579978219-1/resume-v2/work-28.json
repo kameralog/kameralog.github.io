@@ -1,0 +1,17 @@
+{
+  "number": 28,
+  "work": "Q50801937",
+  "previewSha256": "edb1660aa2642c9c05c03dfcb75b3003060d861e6320af4316b0897a66a6fd11",
+  "modelAssessment": {
+    "number": 28,
+    "visibleDetails": "Monochrome or sepia wash drawing of numerous sailing ships engaged in a naval encounter on choppy water.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Creased and aged paper texture with discoloration spots across the surface.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

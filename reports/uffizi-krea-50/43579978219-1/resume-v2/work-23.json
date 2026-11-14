@@ -1,0 +1,17 @@
+{
+  "number": 23,
+  "work": "Q368788",
+  "previewSha256": "e679c9c9610f65ff862d23459edb4dbd79e37a1c96da6a12bd5ef784e555fbf0",
+  "modelAssessment": {
+    "number": 23,
+    "visibleDetails": "Lamentation scene with multiple figures surrounding the dead Christ beneath classical architectural arches against a blue sky.",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Some shadowed areas lack fine detail.",
+    "limitations": "Lighting and color rendition are dependent on photographic capture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}
