@@ -69,6 +69,22 @@
       "runId": "8dba8a96-628d-4656-93fc-c785f4503574",
       "sessionUrl": "https://www.krea.ai/agent/3df900a2-ca09-4793-954d-5ddd54f955e7",
       "validated": true
+    },
+    {
+      "group": 4,
+      "numbers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "status": "send_intent"
     }
   ],
   "warning": "At most five Agent messages. Internal spending is not hard-capped. Waiting cancellation does not cancel Krea.",
