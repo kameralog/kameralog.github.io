@@ -3,7 +3,7 @@
   "source": "reports/uffizi-krea-50/43579978219-1",
   "prepared": 50,
   "modelReviewed": 40,
-  "sendAttempts": 4,
+  "sendAttempts": 5,
   "maxSendAttempts": 5,
   "complete": false,
   "applyAllowed": false,
@@ -104,7 +104,10 @@
         49,
         50
       ],
-      "status": "send_intent"
+      "status": "running",
+      "sessionId": "f2efbb94-da04-4c31-b0b3-c730d1007ed2",
+      "runId": "829c2511-8235-4cc4-95b1-0e182617a0d3",
+      "sessionUrl": "https://www.krea.ai/agent/f2efbb94-da04-4c31-b0b3-c730d1007ed2"
     }
   ],
   "warning": "At most five Agent messages. Internal spending is not hard-capped. Waiting cancellation does not cancel Krea.",
