@@ -1,0 +1,17 @@
+{
+  "number": 33,
+  "work": "Q11753618",
+  "previewSha256": "ce69e3ca3c53349f3b55e7fe9c153a18535ca2de949282366bf0987b59f86920",
+  "modelAssessment": {
+    "number": 33,
+    "visibleDetails": "reclining nude woman beside a swan with an attendant woman working near a cage in the left background",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Visible grain and compression noise in dark shadow regions.",
+    "limitations": "Left background elements are somewhat dark and indistinct.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

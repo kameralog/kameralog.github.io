@@ -1,0 +1,17 @@
+{
+  "number": 38,
+  "work": "Q49167869",
+  "previewSha256": "fe0ee26a5136e3b7b0d1790bbbe4ba06ba4f918e4c29f7ce851deb492e7defd9",
+  "modelAssessment": {
+    "number": 38,
+    "visibleDetails": "elderly bald man with white beard holding compasses, with inscription 'IACHOPO TATTI SANSOVINO' above",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Slightly soft edges and compression artifacts on dark areas.",
+    "limitations": "The left side inscription is partially cut off at the edge.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

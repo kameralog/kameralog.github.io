@@ -1,0 +1,17 @@
+{
+  "number": 32,
+  "work": "Q114647547",
+  "previewSha256": "ea810c72fd71182d81e83dc2fdd4fee12bf99f4b989fa6238efc668fd16244e3",
+  "modelAssessment": {
+    "number": 32,
+    "visibleDetails": "reclining nude woman with jeweled tiara and pearl necklace interacting with a large white swan",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Slight softness across the canvas due to photographic source quality.",
+    "limitations": "Curtain folds and background details are moderately shadowed.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 35,
+  "work": "Q131604575",
+  "previewSha256": "3d852c3881a7129a421764c99ddffd7b6ee8a9085576b44c8b2d10f9d748be69",
+  "modelAssessment": {
+    "number": 35,
+    "visibleDetails": "elderly bearded man kneeling and touching an infant's head beside a reclining nude woman under red drapes",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Slight blur in shadow details and highlights.",
+    "limitations": "Background landscape on the upper right is heavily shadowed.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

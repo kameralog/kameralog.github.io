@@ -1,0 +1,17 @@
+{
+  "number": 39,
+  "work": "Q115727218",
+  "previewSha256": "9e7b315c5ac69b29e589b4edb5d5de1cc38e75142aca4412a01184eb972d67d0",
+  "modelAssessment": {
+    "number": 39,
+    "visibleDetails": "coastal harbor scene with large sailing ships, a tall stone tower on the left, and distant figures on the shore",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Moderate compression artifacts in the sky and water gradients.",
+    "limitations": "Distant background buildings lack fine architectural definition.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 31,
+  "work": "Q113006400",
+  "previewSha256": "2ad47632f1638bd3c68fd5b3399f59e14a92b388b77033441da3878466355af5",
+  "modelAssessment": {
+    "number": 31,
+    "visibleDetails": "elderly man with long white beard and mustache, dark monastic robe, holding an object in his right hand",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Low resolution and compression artifacts in darker background areas.",
+    "limitations": "Lighting is very dim, obscuring details in the lower garment.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

@@ -1,0 +1,17 @@
+{
+  "number": 37,
+  "work": "Q3937458",
+  "previewSha256": "01c49691fd7fcdda03d0ed3ae7d51282a256624f9a15548d95a5da2d1ea7396d",
+  "modelAssessment": {
+    "number": 37,
+    "visibleDetails": "elderly bald man with white beard wearing a dark robe, seated in an armchair with a ring on his finger",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "yes",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Soft focus and slight compression artifacts throughout.",
+    "limitations": "Right side of the background is completely dark and unreadable.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

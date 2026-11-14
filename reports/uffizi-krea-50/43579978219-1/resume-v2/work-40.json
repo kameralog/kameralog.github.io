@@ -1,0 +1,17 @@
+{
+  "number": 40,
+  "work": "Q133459806",
+  "previewSha256": "aa272f71f2f4c2a59de226d6e89752299a0e9a2af7c451daa8489c7ed1ce3037",
+  "modelAssessment": {
+    "number": 40,
+    "visibleDetails": "young man in pale yellowish tunic holding a theatrical mask and pointing toward another figure behind him",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Softness in the shadowed areas and slight compression noise.",
+    "limitations": "Architectural column on the left lacks distinct surface texture.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

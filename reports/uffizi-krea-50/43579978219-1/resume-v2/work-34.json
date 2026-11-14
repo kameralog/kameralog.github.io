@@ -1,0 +1,17 @@
+{
+  "number": 34,
+  "work": "Q124246612",
+  "previewSha256": "44d50b1364ed884d0910746970bff554872db5718ae5c1bf85ed14f4eab2602f",
+  "modelAssessment": {
+    "number": 34,
+    "visibleDetails": "bearded man wearing a dark fur stole over a black doublet, extending his right hand outward",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "General softness and moderate compression artifacts.",
+    "limitations": "Dark background merges with clothing details.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

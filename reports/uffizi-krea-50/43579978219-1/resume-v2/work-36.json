@@ -1,0 +1,17 @@
+{
+  "number": 36,
+  "work": "Q131613891",
+  "previewSha256": "14dae45cb1ffaf9cd883cd026c0b5e762ea2ec14bad545e953b3430297613dc2",
+  "modelAssessment": {
+    "number": 36,
+    "visibleDetails": "bearded man with short dark hair in a dark high-collared garment against a dark background",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "yes",
+    "watermarkVisible": "no",
+    "qualityConcerns": "Noticeable digital noise and textured artifacts across the entire surface.",
+    "limitations": "Facial features are partially obscured by strong reddish lighting and low contrast.",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}
