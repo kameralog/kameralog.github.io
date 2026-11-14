@@ -1,5 +1,50 @@
 [
   {
+    "id": "lucy_madox_brown",
+    "name": "Люси Мэдокс Браун",
+    "path": "records/lucy_madox_brown.json"
+  },
+  {
+    "id": "freud",
+    "name": "Люсьен Фрейд",
+    "path": "records/freud.json"
+  },
+  {
+    "id": "ma_yuan",
+    "name": "Ма Юань",
+    "path": "records/ma_yuan.json"
+  },
+  {
+    "id": "magnus_von_wright",
+    "name": "Магнус фон Вригт",
+    "path": "records/magnus_von_wright.json"
+  },
+  {
+    "id": "magnus_enckell",
+    "name": "Магнус Энкель",
+    "path": "records/magnus_enckell.json"
+  },
+  {
+    "id": "madeleine_lemaire",
+    "name": "Мадлен Лемер",
+    "path": "records/madeleine_lemaire.json"
+  },
+  {
+    "id": "masaccio",
+    "name": "Мазаччо",
+    "path": "records/masaccio.json"
+  },
+  {
+    "id": "max_svabinsky",
+    "name": "Макс Швабинский",
+    "path": "records/max_svabinsky.json"
+  },
+  {
+    "id": "ernst",
+    "name": "Макс Эрнст",
+    "path": "records/ernst.json"
+  },
+  {
     "id": "manaku",
     "name": "Манаку",
     "path": "records/manaku.json"
@@ -453,50 +498,5 @@
     "id": "nicolaes_gillis",
     "name": "Николас Гиллис",
     "path": "records/nicolaes_gillis.json"
-  },
-  {
-    "id": "nicolaes_maes",
-    "name": "Николас Мас",
-    "path": "records/nicolaes_maes.json"
-  },
-  {
-    "id": "nicolaes_moeyaert",
-    "name": "Николас Мойарт",
-    "path": "records/nicolaes_moeyaert.json"
-  },
-  {
-    "id": "nicolaes_eliasz_pickenoy",
-    "name": "Николас Элиас Пикеной",
-    "path": "records/nicolaes_eliasz_pickenoy.json"
-  },
-  {
-    "id": "nils_kreuger",
-    "name": "Нильс Крейгер",
-    "path": "records/nils_kreuger.json"
-  },
-  {
-    "id": "niels_skovgaard",
-    "name": "Нильс Сковгор",
-    "path": "records/niels_skovgaard.json"
-  },
-  {
-    "id": "noel_coypel",
-    "name": "Ноэль Куапель",
-    "path": "records/noel_coypel.json"
-  },
-  {
-    "id": "ogata_korin",
-    "name": "Огата Корин",
-    "path": "records/ogata_korin.json"
-  },
-  {
-    "id": "nerdrum",
-    "name": "Одд Нердрум",
-    "path": "records/nerdrum.json"
-  },
-  {
-    "id": "odilon_redon",
-    "name": "Одилон Редон",
-    "path": "records/odilon_redon.json"
   }
 ]

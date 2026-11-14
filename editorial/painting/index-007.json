@@ -1,5 +1,55 @@
 [
   {
+    "id": "sarah_miriam_peale",
+    "name": "Сара Мириам Пил",
+    "path": "records/sarah_miriam_peale.json"
+  },
+  {
+    "id": "sassoferrato",
+    "name": "Сассоферрато",
+    "path": "records/sassoferrato.json"
+  },
+  {
+    "id": "sahibdin",
+    "name": "Сахибдин",
+    "path": "records/sahibdin.json"
+  },
+  {
+    "id": "sebastien_bourdon",
+    "name": "Себастьен Бурдон",
+    "path": "records/sebastien_bourdon.json"
+  },
+  {
+    "id": "sebastiano_del_piombo",
+    "name": "Себастьяно дель Пьомбо",
+    "path": "records/sebastiano_del_piombo.json"
+  },
+  {
+    "id": "sebastiano_conca",
+    "name": "Себастьяно Конка",
+    "path": "records/sebastiano_conca.json"
+  },
+  {
+    "id": "sebastiano_ricci",
+    "name": "Себастьяно Риччи",
+    "path": "records/sebastiano_ricci.json"
+  },
+  {
+    "id": "severin_falkman",
+    "name": "Северин Фалькман",
+    "path": "records/severin_falkman.json"
+  },
+  {
+    "id": "seraphine_louis",
+    "name": "Серафина Луи",
+    "path": "records/seraphine_louis.json"
+  },
+  {
+    "id": "cecilia_beaux",
+    "name": "Сесилия Бо",
+    "path": "records/cecilia_beaux.json"
+  },
+  {
     "id": "cecile_douard",
     "name": "Сесиль Дуар",
     "path": "records/cecile_douard.json"
@@ -448,55 +498,5 @@
     "id": "fritz_syberg",
     "name": "Фриц Сюберг",
     "path": "records/fritz_syberg.json"
-  },
-  {
-    "id": "frits_thaulow",
-    "name": "Фриц Таулов",
-    "path": "records/frits_thaulow.json"
-  },
-  {
-    "id": "bacon",
-    "name": "Фрэнсис Бэкон",
-    "path": "records/bacon.json"
-  },
-  {
-    "id": "frances_hodgkins",
-    "name": "Фрэнсис Ходжкинс",
-    "path": "records/frances_hodgkins.json"
-  },
-  {
-    "id": "fujiwara_nobuzane",
-    "name": "Фудзивара Нобудзанэ",
-    "path": "records/fujiwara_nobuzane.json"
-  },
-  {
-    "id": "fujiwara_takanobu",
-    "name": "Фудзивара Таканобу",
-    "path": "records/fujiwara_takanobu.json"
-  },
-  {
-    "id": "halfdan_egedius",
-    "name": "Хальфдан Эгедиус",
-    "path": "records/halfdan_egedius.json"
-  },
-  {
-    "id": "hanna_pauli",
-    "name": "Ханна Паули",
-    "path": "records/hanna_pauli.json"
-  },
-  {
-    "id": "hans_andersen_brendekilde",
-    "name": "Ханс Андерсен Брендекилле",
-    "path": "records/hans_andersen_brendekilde.json"
-  },
-  {
-    "id": "hans_gude",
-    "name": "Ханс Гуде",
-    "path": "records/hans_gude.json"
-  },
-  {
-    "id": "han_gan",
-    "name": "Хань Гань",
-    "path": "records/han_gan.json"
   }
 ]

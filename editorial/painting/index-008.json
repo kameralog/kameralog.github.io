@@ -1,5 +1,55 @@
 [
   {
+    "id": "frits_thaulow",
+    "name": "Фриц Таулов",
+    "path": "records/frits_thaulow.json"
+  },
+  {
+    "id": "bacon",
+    "name": "Фрэнсис Бэкон",
+    "path": "records/bacon.json"
+  },
+  {
+    "id": "frances_hodgkins",
+    "name": "Фрэнсис Ходжкинс",
+    "path": "records/frances_hodgkins.json"
+  },
+  {
+    "id": "fujiwara_nobuzane",
+    "name": "Фудзивара Нобудзанэ",
+    "path": "records/fujiwara_nobuzane.json"
+  },
+  {
+    "id": "fujiwara_takanobu",
+    "name": "Фудзивара Таканобу",
+    "path": "records/fujiwara_takanobu.json"
+  },
+  {
+    "id": "halfdan_egedius",
+    "name": "Хальфдан Эгедиус",
+    "path": "records/halfdan_egedius.json"
+  },
+  {
+    "id": "hanna_pauli",
+    "name": "Ханна Паули",
+    "path": "records/hanna_pauli.json"
+  },
+  {
+    "id": "hans_andersen_brendekilde",
+    "name": "Ханс Андерсен Брендекилле",
+    "path": "records/hans_andersen_brendekilde.json"
+  },
+  {
+    "id": "hans_gude",
+    "name": "Ханс Гуде",
+    "path": "records/hans_gude.json"
+  },
+  {
+    "id": "han_gan",
+    "name": "Хань Гань",
+    "path": "records/han_gan.json"
+  },
+  {
     "id": "harald_slott_moller",
     "name": "Харальд Слотт-Мёллер",
     "path": "records/harald_slott_moller.json"
@@ -448,55 +498,5 @@
     "id": "erik_werenskiold",
     "name": "Эрик Вереншёлль",
     "path": "records/erik_werenskiold.json"
-  },
-  {
-    "id": "ercole_de_roberti",
-    "name": "Эрколе де Роберти",
-    "path": "records/ercole_de_roberti.json"
-  },
-  {
-    "id": "ernst_ludwig_kirchner",
-    "name": "Эрнст Людвиг Кирхнер",
-    "path": "records/ernst_ludwig_kirchner.json"
-  },
-  {
-    "id": "ernst_josephson",
-    "name": "Эрнст Юсефсон",
-    "path": "records/ernst_josephson.json"
-  },
-  {
-    "id": "esaias_boursse",
-    "name": "Эсайас Бурсе",
-    "path": "records/esaias_boursse.json"
-  },
-  {
-    "id": "esaias_van_de_velde",
-    "name": "Эсайас ван де Велде",
-    "path": "records/esaias_van_de_velde.json"
-  },
-  {
-    "id": "eustache_le_sueur",
-    "name": "Эсташ Лесюэр",
-    "path": "records/eustache_le_sueur.json"
-  },
-  {
-    "id": "ethel_carrick",
-    "name": "Этель Кэррик",
-    "path": "records/ethel_carrick.json"
-  },
-  {
-    "id": "euphrosine_beernaert",
-    "name": "Эфрозина Бернарт",
-    "path": "records/euphrosine_beernaert.json"
-  },
-  {
-    "id": "asher_brown_durand",
-    "name": "Эшер Браун Дюранд",
-    "path": "records/asher_brown_durand.json"
-  },
-  {
-    "id": "eero_jarnefelt",
-    "name": "Ээро Ярнефельт",
-    "path": "records/eero_jarnefelt.json"
   }
 ]

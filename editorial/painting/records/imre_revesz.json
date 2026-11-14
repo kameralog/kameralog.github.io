@@ -1,0 +1,50 @@
+{
+  "id": "imre_revesz",
+  "name": "Имре Ревес",
+  "latin": "Imre Révész",
+  "life": "1859–1945",
+  "tag": "Венгерское искусство · поколения модернизма · XIX–XX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-144.js",
+  "existing": {
+    "bio": [
+      "Венгерский художник, родившийся в Шаторальяуйхее и умерший в Надьсёлёше, ныне Виноградов. Музей указывает годы жизни 1859–1945.",
+      "Для карточки выбрана монументальная композиция Panem 1899 года. Название передано в оригинале и с русским пояснением «Хлеба!».",
+      "Музейная PDF-запись даёт 182 × 255,5 см, а Fine Arts in Hungary — 184 × 225 см. Сохранены музейные размеры и само расхождение; найденные файлы не приняты без сверки версии, прав и полного кредита."
+    ],
+    "technique": [
+      "Масло на холсте; 182 × 255,5 см по музейной PDF-записи",
+      "Материальные сведения и музейные интерпретации отделены от самостоятельного визуального анализа."
+    ],
+    "innovation": "Исследовательский вопрос: Как название направляет прочтение групповой сцены?",
+    "caution": "Исследовательский черновик. Полный глобальный аудит и браузерные тесты не выполнены; репродукция не подключена.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_ALIAS_AND_IMAGE_REVIEW_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Музейная запись",
+      "url": "https://en.mng.hu/artworks/54511/"
+    },
+    {
+      "title": "Музейные размеры и номер — PDF",
+      "url": "https://en.mng.hu/artworks/54511/?pdf"
+    },
+    {
+      "title": "Расходящиеся размеры — Fine Arts in Hungary",
+      "url": "https://www.hung-art.hu/english/r/revesz/muvek/index.html"
+    },
+    {
+      "title": "Файловый кандидат, не подключён",
+      "url": "https://commons.wikimedia.org/wiki/File:Budapest,_Hungarian_National_Gallery,_Imre_R%C3%A9v%C3%A9sz,_Panem.jpg"
+    },
+    {
+      "title": "Файловый кандидат, не подключён",
+      "url": "https://commons.wikimedia.org/wiki/File:Panem!.jpg"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

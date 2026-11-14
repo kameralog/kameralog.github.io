@@ -1,5 +1,45 @@
 [
   {
+    "id": "carl_holsoe",
+    "name": "Карл Хольсёе",
+    "path": "records/carl_holsoe.json"
+  },
+  {
+    "id": "carl_spitzweg",
+    "name": "Карл Шпицвег",
+    "path": "records/carl_spitzweg.json"
+  },
+  {
+    "id": "karlis_padegs",
+    "name": "Карлис Падегс",
+    "path": "records/karlis_padegs.json"
+  },
+  {
+    "id": "carlo_dolci",
+    "name": "Карло Дольчи",
+    "path": "records/carlo_dolci.json"
+  },
+  {
+    "id": "carlo_crivelli",
+    "name": "Карло Кривелли",
+    "path": "records/carlo_crivelli.json"
+  },
+  {
+    "id": "carlo_maratta",
+    "name": "Карло Маратта",
+    "path": "records/carlo_maratta.json"
+  },
+  {
+    "id": "carlo_saraceni",
+    "name": "Карло Сарачени",
+    "path": "records/carlo_saraceni.json"
+  },
+  {
+    "id": "carlo_cignani",
+    "name": "Карло Чиньяни",
+    "path": "records/carlo_cignani.json"
+  },
+  {
     "id": "karoly_kernstok",
     "name": "Карой Керншток",
     "path": "records/karoly_kernstok.json"
@@ -13,6 +53,11 @@
     "id": "karoly_marko_the_elder",
     "name": "Карой Марко Старший",
     "path": "records/karoly_marko_the_elder.json"
+  },
+  {
+    "id": "karoly_patko",
+    "name": "Карой Патко",
+    "path": "records/karoly_patko.json"
   },
   {
     "id": "karoly_ferenczy",
@@ -453,50 +498,5 @@
     "id": "ludolf_de_jongh",
     "name": "Людолф де Йонг",
     "path": "records/ludolf_de_jongh.json"
-  },
-  {
-    "id": "lucy_madox_brown",
-    "name": "Люси Мэдокс Браун",
-    "path": "records/lucy_madox_brown.json"
-  },
-  {
-    "id": "freud",
-    "name": "Люсьен Фрейд",
-    "path": "records/freud.json"
-  },
-  {
-    "id": "ma_yuan",
-    "name": "Ма Юань",
-    "path": "records/ma_yuan.json"
-  },
-  {
-    "id": "magnus_von_wright",
-    "name": "Магнус фон Вригт",
-    "path": "records/magnus_von_wright.json"
-  },
-  {
-    "id": "magnus_enckell",
-    "name": "Магнус Энкель",
-    "path": "records/magnus_enckell.json"
-  },
-  {
-    "id": "madeleine_lemaire",
-    "name": "Мадлен Лемер",
-    "path": "records/madeleine_lemaire.json"
-  },
-  {
-    "id": "masaccio",
-    "name": "Мазаччо",
-    "path": "records/masaccio.json"
-  },
-  {
-    "id": "max_svabinsky",
-    "name": "Макс Швабинский",
-    "path": "records/max_svabinsky.json"
-  },
-  {
-    "id": "ernst",
-    "name": "Макс Эрнст",
-    "path": "records/ernst.json"
   }
 ]

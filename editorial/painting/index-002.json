@@ -1,5 +1,20 @@
 [
   {
+    "id": "henriette_geertruida_knip",
+    "name": "Генриетта Гертрёйда Книп",
+    "path": "records/henriette_geertruida_knip.json"
+  },
+  {
+    "id": "henriette_ronner_knip",
+    "name": "Генриетта Роннер-Книп",
+    "path": "records/henriette_ronner_knip.json"
+  },
+  {
+    "id": "henrietta_rae",
+    "name": "Генриетта Рэй",
+    "path": "records/henrietta_rae.json"
+  },
+  {
     "id": "georg_achen",
     "name": "Георг Ахен",
     "path": "records/georg_achen.json"
@@ -483,20 +498,5 @@
     "id": "domenichino",
     "name": "Доменикино",
     "path": "records/domenichino.json"
-  },
-  {
-    "id": "domenico_beccafumi",
-    "name": "Доменико Беккафуми",
-    "path": "records/domenico_beccafumi.json"
-  },
-  {
-    "id": "domenico_veneziano",
-    "name": "Доменико Венециано",
-    "path": "records/domenico_veneziano.json"
-  },
-  {
-    "id": "domenico_gargiulo",
-    "name": "Доменико Гарджуло",
-    "path": "records/domenico_gargiulo.json"
   }
 ]

@@ -5,6 +5,11 @@
     "path": "records/atetelco_white_patio.json"
   },
   {
+    "id": "aurel_bernath",
+    "name": "Аурел Бернат",
+    "path": "records/aurel_bernath.json"
+  },
+  {
     "id": "aelbert_cuyp",
     "name": "Аэлберт Кёйп",
     "path": "records/aelbert_cuyp.json"
@@ -88,6 +93,11 @@
     "id": "bela_ivanyi_grunwald",
     "name": "Бела Иваньи-Грюнвальд",
     "path": "records/bela_ivanyi_grunwald.json"
+  },
+  {
+    "id": "bela_kadar",
+    "name": "Бела Кадар",
+    "path": "records/bela_kadar.json"
   },
   {
     "id": "bela_uitz",
@@ -370,6 +380,11 @@
     "path": "records/vilhelms_purvitis.json"
   },
   {
+    "id": "vilmos_aba_novak",
+    "name": "Вильмош Аба-Новак",
+    "path": "records/vilmos_aba_novak.json"
+  },
+  {
     "id": "vilmos_perlrott_csaba",
     "name": "Вильмош Перлротт-Чаба",
     "path": "records/vilmos_perlrott_csaba.json"
@@ -483,20 +498,5 @@
     "id": "geza_meszoly",
     "name": "Геза Месёй",
     "path": "records/geza_meszoly.json"
-  },
-  {
-    "id": "henriette_geertruida_knip",
-    "name": "Генриетта Гертрёйда Книп",
-    "path": "records/henriette_geertruida_knip.json"
-  },
-  {
-    "id": "henriette_ronner_knip",
-    "name": "Генриетта Роннер-Книп",
-    "path": "records/henriette_ronner_knip.json"
-  },
-  {
-    "id": "henrietta_rae",
-    "name": "Генриетта Рэй",
-    "path": "records/henrietta_rae.json"
   }
 ]

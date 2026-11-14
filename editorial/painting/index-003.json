@@ -1,5 +1,20 @@
 [
   {
+    "id": "domenico_beccafumi",
+    "name": "Доменико Беккафуми",
+    "path": "records/domenico_beccafumi.json"
+  },
+  {
+    "id": "domenico_veneziano",
+    "name": "Доменико Венециано",
+    "path": "records/domenico_veneziano.json"
+  },
+  {
+    "id": "domenico_gargiulo",
+    "name": "Доменико Гарджуло",
+    "path": "records/domenico_gargiulo.json"
+  },
+  {
     "id": "domenico_ghirlandaio",
     "name": "Доменико Гирландайо",
     "path": "records/domenico_ghirlandaio.json"
@@ -40,6 +55,11 @@
     "path": "records/gyula_benczur.json"
   },
   {
+    "id": "gyula_derkovits",
+    "name": "Дьюла Деркович",
+    "path": "records/gyula_derkovits.json"
+  },
+  {
     "id": "gyula_rudnay",
     "name": "Дьюла Руднаи",
     "path": "records/gyula_rudnay.json"
@@ -73,6 +93,11 @@
     "id": "jeno_barcsay",
     "name": "Енё Барчаи",
     "path": "records/jeno_barcsay.json"
+  },
+  {
+    "id": "jeno_paizs_goebel",
+    "name": "Енё Пайж-Гёбель",
+    "path": "records/jeno_paizs_goebel.json"
   },
   {
     "id": "yosa_buson",
@@ -245,6 +270,11 @@
     "path": "records/imre_amos.json"
   },
   {
+    "id": "imre_revesz",
+    "name": "Имре Ревес",
+    "path": "records/imre_revesz.json"
+  },
+  {
     "id": "johann_koerbecke",
     "name": "Иоганн Кёрбеке",
     "path": "records/johann_koerbecke.json"
@@ -268,6 +298,11 @@
     "id": "istvan_reti",
     "name": "Иштван Рети",
     "path": "records/istvan_reti.json"
+  },
+  {
+    "id": "istvan_szonyi",
+    "name": "Иштван Сёни",
+    "path": "records/istvan_szonyi.json"
   },
   {
     "id": "istvan_csok",
@@ -333,6 +368,11 @@
     "id": "jozsef_rippl_ronai",
     "name": "Йожеф Риппль-Ронаи",
     "path": "records/jozsef_rippl_ronai.json"
+  },
+  {
+    "id": "jozsef_egry",
+    "name": "Йожеф Эгри",
+    "path": "records/jozsef_egry.json"
   },
   {
     "id": "josef_manes",
@@ -458,45 +498,5 @@
     "id": "karl_nordstrom",
     "name": "Карл Нордстрём",
     "path": "records/karl_nordstrom.json"
-  },
-  {
-    "id": "carl_holsoe",
-    "name": "Карл Хольсёе",
-    "path": "records/carl_holsoe.json"
-  },
-  {
-    "id": "carl_spitzweg",
-    "name": "Карл Шпицвег",
-    "path": "records/carl_spitzweg.json"
-  },
-  {
-    "id": "karlis_padegs",
-    "name": "Карлис Падегс",
-    "path": "records/karlis_padegs.json"
-  },
-  {
-    "id": "carlo_dolci",
-    "name": "Карло Дольчи",
-    "path": "records/carlo_dolci.json"
-  },
-  {
-    "id": "carlo_crivelli",
-    "name": "Карло Кривелли",
-    "path": "records/carlo_crivelli.json"
-  },
-  {
-    "id": "carlo_maratta",
-    "name": "Карло Маратта",
-    "path": "records/carlo_maratta.json"
-  },
-  {
-    "id": "carlo_saraceni",
-    "name": "Карло Сарачени",
-    "path": "records/carlo_saraceni.json"
-  },
-  {
-    "id": "carlo_cignani",
-    "name": "Карло Чиньяни",
-    "path": "records/carlo_cignani.json"
   }
 ]

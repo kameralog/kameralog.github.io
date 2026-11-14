@@ -1,5 +1,50 @@
 [
   {
+    "id": "nicolaes_maes",
+    "name": "Николас Мас",
+    "path": "records/nicolaes_maes.json"
+  },
+  {
+    "id": "nicolaes_moeyaert",
+    "name": "Николас Мойарт",
+    "path": "records/nicolaes_moeyaert.json"
+  },
+  {
+    "id": "nicolaes_eliasz_pickenoy",
+    "name": "Николас Элиас Пикеной",
+    "path": "records/nicolaes_eliasz_pickenoy.json"
+  },
+  {
+    "id": "nils_kreuger",
+    "name": "Нильс Крейгер",
+    "path": "records/nils_kreuger.json"
+  },
+  {
+    "id": "niels_skovgaard",
+    "name": "Нильс Сковгор",
+    "path": "records/niels_skovgaard.json"
+  },
+  {
+    "id": "noel_coypel",
+    "name": "Ноэль Куапель",
+    "path": "records/noel_coypel.json"
+  },
+  {
+    "id": "ogata_korin",
+    "name": "Огата Корин",
+    "path": "records/ogata_korin.json"
+  },
+  {
+    "id": "nerdrum",
+    "name": "Одд Нердрум",
+    "path": "records/nerdrum.json"
+  },
+  {
+    "id": "odilon_redon",
+    "name": "Одилон Редон",
+    "path": "records/odilon_redon.json"
+  },
+  {
     "id": "honore_daumier",
     "name": "Оноре Домье",
     "path": "records/honore_daumier.json"
@@ -23,6 +68,11 @@
     "id": "oscar_wergeland",
     "name": "Оскар Вергеланн",
     "path": "records/oscar_wergeland.json"
+  },
+  {
+    "id": "oszkar_glatz",
+    "name": "Оскар Глац",
+    "path": "records/oszkar_glatz.json"
   },
   {
     "id": "oskar_kallis",
@@ -448,55 +498,5 @@
     "id": "sarah_goodridge",
     "name": "Сара Гудридж",
     "path": "records/sarah_goodridge.json"
-  },
-  {
-    "id": "sarah_miriam_peale",
-    "name": "Сара Мириам Пил",
-    "path": "records/sarah_miriam_peale.json"
-  },
-  {
-    "id": "sassoferrato",
-    "name": "Сассоферрато",
-    "path": "records/sassoferrato.json"
-  },
-  {
-    "id": "sahibdin",
-    "name": "Сахибдин",
-    "path": "records/sahibdin.json"
-  },
-  {
-    "id": "sebastien_bourdon",
-    "name": "Себастьен Бурдон",
-    "path": "records/sebastien_bourdon.json"
-  },
-  {
-    "id": "sebastiano_del_piombo",
-    "name": "Себастьяно дель Пьомбо",
-    "path": "records/sebastiano_del_piombo.json"
-  },
-  {
-    "id": "sebastiano_conca",
-    "name": "Себастьяно Конка",
-    "path": "records/sebastiano_conca.json"
-  },
-  {
-    "id": "sebastiano_ricci",
-    "name": "Себастьяно Риччи",
-    "path": "records/sebastiano_ricci.json"
-  },
-  {
-    "id": "severin_falkman",
-    "name": "Северин Фалькман",
-    "path": "records/severin_falkman.json"
-  },
-  {
-    "id": "seraphine_louis",
-    "name": "Серафина Луи",
-    "path": "records/seraphine_louis.json"
-  },
-  {
-    "id": "cecilia_beaux",
-    "name": "Сесилия Бо",
-    "path": "records/cecilia_beaux.json"
   }
 ]
