@@ -1,0 +1,14 @@
+{
+  "sourceReport": "reports/uffizi-batch-reviews/43472007781-1",
+  "expected": 50,
+  "prepared": 50,
+  "modelReviewed": 0,
+  "sendAttempts": 0,
+  "maxSendAttempts": 5,
+  "groups": [],
+  "complete": false,
+  "applyAllowed": false,
+  "humanVisualReviewPerformed": false,
+  "assessmentStatus": "unverified_model_output",
+  "warning": "No hard cost cap. Internal Agent spending is automatic. Stopping this workflow does not cancel Agent turns. Never resend unknown or running turns automatically."
+}

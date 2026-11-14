@@ -1,0 +1,1982 @@
+[
+  {
+    "number": 1,
+    "work": "Q3605529",
+    "artist": "Герард Давид",
+    "title": "Adoration of the Magi",
+    "reportFile": "entry-aea8f8c2b70e737dc40d14cd.json",
+    "originalImage": {
+      "file": "Gérard David, adorazione dei magi, uffizi.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/G%C3%A9rard_David%2C_adorazione_dei_magi%2C_uffizi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:G%C3%A9rard_David,_adorazione_dei_magi,_uffizi.JPG",
+      "width": 518,
+      "height": 614,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Gerard David",
+        "credit": "http://www.abcgallery.com/D/gerardavid/geradavid15.html",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "bfb5e6ff36b9cda96039ec0d2ec84f9b922bd2a95b94708efbbe38d95be1b15c",
+    "downloadedDimensions": [
+      518,
+      614
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/01.jpg",
+    "previewDimensions": [
+      518,
+      614
+    ],
+    "previewSha256": "9a98b5ad929aaa1c0df1f1babc2908316b0a5ed94f2ed4ab7b7a08b5a23d8afa",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [
+      "Short side below 600 pixels; quality warning, not identity rejection"
+    ],
+    "applyAllowed": false
+  },
+  {
+    "number": 2,
+    "work": "Q28798129",
+    "artist": "Пьеро делла Франческа",
+    "title": "Portrait of Battista Sforza",
+    "reportFile": "entry-e9bdfcd6ded1df6e6477f2be.json",
+    "originalImage": {
+      "file": "Battista sforza.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Battista_sforza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Battista_sforza.jpg",
+      "width": 2407,
+      "height": 3390,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Piero della Francesca",
+        "credit": "(per Virtual Uffizi http://www.virtualuffizi.com/uffizi1/artista.asp?Autore=Piero+della+Francesca",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "1148ce95298d84a98eba00fadef3afcc99d9265b031c666be0769706c05b628e",
+    "downloadedDimensions": [
+      2407,
+      3390
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/02.jpg",
+    "previewDimensions": [
+      994,
+      1400
+    ],
+    "previewSha256": "fd3a7a05b8e991abb40ef50fdc1b2fbda4405df904a244b70755bb94a63aa7ed",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 3,
+    "work": "Q52155602",
+    "artist": "Эглон Хендрик ван дер Нер",
+    "title": "Автопортрет",
+    "reportFile": "entry-4a142d8a8b279305b867df89.json",
+    "originalImage": {
+      "file": "Neer, Eglon van der - Self-portrait - 1696.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Neer%2C_Eglon_van_der_-_Self-portrait_-_1696.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Neer,_Eglon_van_der_-_Self-portrait_-_1696.jpg",
+      "width": 295,
+      "height": 384,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Eglon van der Neer",
+        "credit": "http://storage.canalblog.com/11/02/119589/34355007.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "055e81941ef0bebedca63a1c42ea568dbf32c71694e9cb3357bb28137298f445",
+    "downloadedDimensions": [
+      295,
+      384
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/03.jpg",
+    "previewDimensions": [
+      295,
+      384
+    ],
+    "previewSha256": "3883954d7b0a8a2895e6d26dc193f7ca32cee76a60b10e2f270dbd3329c18c07",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [
+      "Short side below 600 pixels; quality warning, not identity rejection"
+    ],
+    "applyAllowed": false
+  },
+  {
+    "number": 4,
+    "work": "Q110896440",
+    "artist": "Марио Баласси",
+    "title": "Portrait of Virginia de' Medici",
+    "reportFile": "entry-38aef963acbee6a880d030c4.json",
+    "originalImage": {
+      "file": "Mario Balassi - The Queen of Armenia - Uffizi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Mario_Balassi_-_The_Queen_of_Armenia_-_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Mario_Balassi_-_The_Queen_of_Armenia_-_Uffizi.jpg",
+      "width": 1218,
+      "height": 1492,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Mario Balassi / Formerly attributed to Jacopo Ligozzi",
+        "credit": "https://www.catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900292813",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "d6b48d62ad1afae74f6f93c153c4e63e710b4a530e1732078396c9a8121bdf3f",
+    "downloadedDimensions": [
+      1218,
+      1492
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/04.jpg",
+    "previewDimensions": [
+      1143,
+      1400
+    ],
+    "previewSha256": "aef483b341deb8c2a8c585a1ec43d444cf4dd1fbba73709d0955089bcfbea204",
+    "existingIdentityIssues": [
+      "Creator name not independently matched in current entity labels"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 5,
+    "work": "Q3863235",
+    "artist": "Себастьяно дель Пьомбо",
+    "title": "Death of Adonis",
+    "reportFile": "entry-0c29223067177d1796f48255.json",
+    "originalImage": {
+      "file": "Sebastiano del Piombo - Morte di Adone - Google Art Project.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sebastiano_del_Piombo_-_Morte_di_Adone_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo_-_Morte_di_Adone_-_Google_Art_Project.jpg",
+      "width": 10488,
+      "height": 6864,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sebastiano del Piombo",
+        "credit": "Google Arts & Culture — JwHDpSxjJK2WJA",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "5b393fa9dbb5b1252ff57307a14361c98607d024c555a5779a011f9a3a10b55c",
+    "downloadedDimensions": [
+      10488,
+      6864
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/05.jpg",
+    "previewDimensions": [
+      1400,
+      916
+    ],
+    "previewSha256": "aa4a58e6689147b935847236c31c52869988883fe633342c9e968ca0122b805a",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 6,
+    "work": "Q3937680",
+    "artist": "Себастьяно дель Пьомбо",
+    "title": "Женский портрет",
+    "reportFile": "entry-a66aea8318b23ea6319221db.json",
+    "originalImage": {
+      "file": "Sebastiano del Piombo - Portrait of a Woman - WGA21119.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sebastiano_del_Piombo_-_Portrait_of_a_Woman_-_WGA21119.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo_-_Portrait_of_a_Woman_-_WGA21119.jpg",
+      "width": 1000,
+      "height": 1210,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sebastiano del Piombo",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"s/sebastia/port_wom\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "8593d2bcfb6cdbced194c028a984eccfd8c45096ed2824a79dc07d73934935dc",
+    "downloadedDimensions": [
+      1000,
+      1210
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/06.jpg",
+    "previewDimensions": [
+      1000,
+      1210
+    ],
+    "previewSha256": "363f1d600b28bfdf8bce63f54dd1e16aac0f735c16548f2817c87803fe25852b",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 7,
+    "work": "Q47530532",
+    "artist": "Себастьяно дель Пьомбо",
+    "title": "Мучения Святой Агаты",
+    "reportFile": "entry-48ce2d7281d98ff5d0efb1b5.json",
+    "originalImage": {
+      "file": "Martirio de Santa Águeda, por Sebastiano del Piombo.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Martirio_de_Santa_%C3%81gueda%2C_por_Sebastiano_del_Piombo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Martirio_de_Santa_%C3%81gueda,_por_Sebastiano_del_Piombo.jpg",
+      "width": 1867,
+      "height": 1416,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Sebastiano del Piombo",
+        "credit": "Uffizi",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "3f326284f4ca709f69822bf77d3df436f0555a11bd10e2ce46c930618188f83d",
+    "downloadedDimensions": [
+      1867,
+      1416
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/07.jpg",
+    "previewDimensions": [
+      1400,
+      1062
+    ],
+    "previewSha256": "1169b84a6e421c5105c8f518b22bcec055aa51877fb9b56069f8a00eaa1df4bf",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 8,
+    "work": "Q114241461",
+    "artist": "Гиацинт Риго",
+    "title": "Portrait of Jacques-Bénigne Bossuet",
+    "reportFile": "entry-3340f1a7feb124510e2fd06d.json",
+    "originalImage": {
+      "file": "1698 - Jacques-Bénigne Bossuet (Florence).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/1698_-_Jacques-B%C3%A9nigne_Bossuet_%28Florence%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:1698_-_Jacques-B%C3%A9nigne_Bossuet_(Florence).jpg",
+      "width": 1611,
+      "height": 2008,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hyacinthe Rigaud",
+        "credit": "Florence, Galerie des Offices",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "0a46961e4942c7948120c2b62ff22827be5d47a3dbebaea95c584d4399c6a6b0",
+    "downloadedDimensions": [
+      1611,
+      2008
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/08.jpg",
+    "previewDimensions": [
+      1123,
+      1400
+    ],
+    "previewSha256": "5ecae90ae17c2b77a0a8217029d58db793d1649bbab9965a2464bf0931fa3a1b",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 9,
+    "work": "Q116912709",
+    "artist": "Гиацинт Риго",
+    "title": "Self-portrait",
+    "reportFile": "entry-c8935befba21d8360203fba5.json",
+    "originalImage": {
+      "file": "Hyacinthe Rigand - Autoportrait dit «à la palette» - A759 - Uffizi Gallery.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hyacinthe_Rigand_-_Autoportrait_dit_%C2%AB%C3%A0_la_palette%C2%BB_-_A759_-_Uffizi_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyacinthe_Rigand_-_Autoportrait_dit_%C2%AB%C3%A0_la_palette%C2%BB_-_A759_-_Uffizi_Gallery.jpg",
+      "width": 782,
+      "height": 984,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Hyacinthe Rigaud",
+        "credit": "https://www.hyacinthe-rigaud.com/catalogue-raisonne-hyacinthe-rigaud/autoportraits/962-rigaud-hyacinthe-8",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "4faf3070dc77c6d55b660f6118f4d0f1ff6df6cafebb0cb121d27f4ec0577c3e",
+    "downloadedDimensions": [
+      782,
+      984
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/09.jpg",
+    "previewDimensions": [
+      782,
+      984
+    ],
+    "previewSha256": "d62d4e15e459b2e5d8f97ad0589ab3a422316793a1b6b5ebc8a912139d1bbfb8",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 10,
+    "work": "Q19361563",
+    "artist": "Тереза Шварце",
+    "title": "Автопортрет",
+    "reportFile": "entry-a5e07133dad7706457506986.json",
+    "originalImage": {
+      "file": "Therese Schwartze Self portrait.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Therese_Schwartze_Self_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Therese_Schwartze_Self_portrait.jpg",
+      "width": 1227,
+      "height": 1816,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Thérèse Schwartze",
+        "credit": "https://www.facebook.com/female.artists.in.history/photos/a.1377694619182090/3104960909788777/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "19353674e57664b9663b95f075cf981938ecfc1f9f52428733c0c15795b8d3e3",
+    "downloadedDimensions": [
+      1227,
+      1816
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/10.jpg",
+    "previewDimensions": [
+      946,
+      1400
+    ],
+    "previewSha256": "417a641f5decb68fff2f2952afc53a3afac33564d961e5b35a9a350a1d3543d0",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 11,
+    "work": "Q1473546",
+    "artist": "Микеланджело Буонарроти",
+    "title": "Мадонна Дони",
+    "reportFile": "entry-e4b75cc3afea6e64a8ac6123.json",
+    "originalImage": {
+      "file": "Tondo Doni 2015.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Tondo_Doni_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tondo_Doni_2015.png",
+      "width": 2318,
+      "height": 2387,
+      "format": "png",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Michelangelo",
+        "credit": "Own work Livioandronico2013 Taken on 6 December 2015",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "792060343eacb8f1ca535b06cd693a7985208b9065d6197e10b082275c272f4b",
+    "downloadedDimensions": [
+      2318,
+      2387
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/11.jpg",
+    "previewDimensions": [
+      1360,
+      1400
+    ],
+    "previewSha256": "d22b6a335e868748b4b16352ebcf9b44723935de62319cc03a0caee0f095a909",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 12,
+    "work": "Q114241452",
+    "artist": "Клод Лоррен",
+    "title": "Q114241452",
+    "reportFile": "entry-171ee3598eda922da1bba747.json",
+    "originalImage": {
+      "file": "Lorrain uffizi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Lorrain_uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorrain_uffizi.jpg",
+      "width": 500,
+      "height": 367,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Claude Lorrain",
+        "credit": "https://www.topofart.com/images/artists/Claude_Lorrain/paintings/lorrain024.jpg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "6c79603f4a8a7e1aeeec7b69d0f945063c184b69b6a9007622809fe336e3ba5d",
+    "downloadedDimensions": [
+      500,
+      367
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/12.jpg",
+    "previewDimensions": [
+      500,
+      367
+    ],
+    "previewSha256": "68054db4af58bb57ac172f6f1def65676aa7ca1fe00ed69f6b357b950573c3d6",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [
+      "Short side below 600 pixels; quality warning, not identity rejection"
+    ],
+    "applyAllowed": false
+  },
+  {
+    "number": 13,
+    "work": "Q51078137",
+    "artist": "Клод Лоррен",
+    "title": "Port Scene with the Villa Medici",
+    "reportFile": "entry-da6a469ac7c90cfb9743b601.json",
+    "originalImage": {
+      "file": "Lorrain.seaport.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Lorrain.seaport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorrain.seaport.jpg",
+      "width": 1089,
+      "height": 818,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Claude Lorrain",
+        "credit": "1. ibiblio.org 2. Web Gallery of Art : Image Info about artwork wga QS:P11807,\"c/claude/1/02medici\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "6a7afea89d25a7aa2a21e0c9a4c11ac06306fdf69a53c1649e95472e7712442a",
+    "downloadedDimensions": [
+      1089,
+      818
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/13.jpg",
+    "previewDimensions": [
+      1089,
+      818
+    ],
+    "previewSha256": "fefe1290a9b777bc788628399817a657431ad8ef7c19258e12720a45eebbb9ea",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 14,
+    "work": "Q3605536",
+    "artist": "Лоренцо Монако",
+    "title": "Поклонение волхвов",
+    "reportFile": "entry-3bc61205ca2a6e0d4ea4e66e.json",
+    "originalImage": {
+      "file": "Lorenzo Monaco Adoratione dei Magi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lorenzo_Monaco_Adoratione_dei_Magi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Monaco_Adoratione_dei_Magi.jpg",
+      "width": 3410,
+      "height": 3033,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo Monaco",
+        "credit": "Own work by Campocorvino",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "212e1b4b8607296c28b9db3f382f0c7277fbf7c1baa7b0afc59ef2a9af525202",
+    "downloadedDimensions": [
+      3410,
+      3033
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/14.jpg",
+    "previewDimensions": [
+      1400,
+      1245
+    ],
+    "previewSha256": "e58ce88c5dfc52892b261f068edd31b4f2d682404e7e33be641499b768192e17",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 15,
+    "work": "Q3797775",
+    "artist": "Лоренцо Монако",
+    "title": "Коронование Богоматери",
+    "reportFile": "entry-e5d70b2670762a5c33a1dacd.json",
+    "originalImage": {
+      "file": "Lorenzo Monaco - Incoronazione della Vergine - Google Art Project.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lorenzo_Monaco_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Monaco_-_Incoronazione_della_Vergine_-_Google_Art_Project.jpg",
+      "width": 2893,
+      "height": 3000,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Lorenzo Monaco",
+        "credit": "Google Arts & Culture — 4wGwIhQqTqCArw",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "95ca42ac5b8c2f7bbba96eb48c97fad9a5ee600700f2fd3a5cf3354529ec710b",
+    "downloadedDimensions": [
+      2893,
+      3000
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/15.jpg",
+    "previewDimensions": [
+      1350,
+      1400
+    ],
+    "previewSha256": "76c481ae718c9a57b2e07069d28f8c1d50c0e9324d18bdc8fd80268802fa0263",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 16,
+    "work": "Q3201606",
+    "artist": "Пьетро Перуджино",
+    "title": "Agony in the Garden",
+    "reportFile": "entry-5a399cd99d60a40ecddc6a1d.json",
+    "originalImage": {
+      "file": "Pietro Perugino cat20.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pietro_Perugino_cat20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat20.jpg",
+      "width": 2354,
+      "height": 2291,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "e8a515a3e5a02b4ce78d6a28afece37b07d0328591b820091420b511525661b1",
+    "downloadedDimensions": [
+      2354,
+      2291
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/16.jpg",
+    "previewDimensions": [
+      1400,
+      1363
+    ],
+    "previewSha256": "bbc63705847f0f300ee217c3668bc21f9d36cfdd7514baea8b27a70c4c48f914",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 17,
+    "work": "Q3207678",
+    "artist": "Пьетро Перуджино",
+    "title": "Lamentation over the Dead Christ",
+    "reportFile": "entry-4abd0be6bf705d33c6578bb7.json",
+    "originalImage": {
+      "file": "Pietro Perugino cat40.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Pietro_Perugino_cat40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat40.jpg",
+      "width": 1696,
+      "height": 1956,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "fdef767ea88db0566a4ded6090f7e65b0cedf2a89010bdef61539dc15441e933",
+    "downloadedDimensions": [
+      1696,
+      1956
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/17.jpg",
+    "previewDimensions": [
+      1214,
+      1400
+    ],
+    "previewSha256": "12eb4873c3638ff295b7767efef270c54ef9f66e3ad54b4604039174268dbfb9",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 18,
+    "work": "Q3213753",
+    "artist": "Пьетро Перуджино",
+    "title": "Madonna with child, Saint John the Baptist, and an angel",
+    "reportFile": "entry-506309627b1bb5f21a890556.json",
+    "originalImage": {
+      "file": "Pietro Perugino cat55.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Pietro_Perugino_cat55.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat55.jpg",
+      "width": 2340,
+      "height": 2405,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "28ca81b6974be75348e07889d244c8cf90df8177d472b66b1e8ac2cac9fe5f66",
+    "downloadedDimensions": [
+      2340,
+      2405
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/18.jpg",
+    "previewDimensions": [
+      1362,
+      1400
+    ],
+    "previewSha256": "5e2c9c0c040157480bd740e97f0689cafa6014dfd4ccf58011c0b11e1cb5b71d",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 19,
+    "work": "Q3213789",
+    "artist": "Пьетро Перуджино",
+    "title": "Madonna and Child Enthroned with Saints John the Baptist and Sebastian",
+    "reportFile": "entry-ec6d2dccba50e123cbc701c9.json",
+    "originalImage": {
+      "file": "Pietro Perugino cat30.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pietro_Perugino_cat30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat30.jpg",
+      "width": 2346,
+      "height": 2550,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "b6d5654edeb536908ff8a6bf32195ac7165e10e8b217a63911662ba4cfac596e",
+    "downloadedDimensions": [
+      2346,
+      2550
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/19.jpg",
+    "previewDimensions": [
+      1288,
+      1400
+    ],
+    "previewSha256": "b3601bc04c6319be65cf9860f26fdf20bc5af1633df329894299a2ed29f91619",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 20,
+    "work": "Q3292105",
+    "artist": "Пьетро Перуджино",
+    "title": "Mary Magdalene",
+    "reportFile": "entry-fe2c15ec5e82c1fe6739188d.json",
+    "originalImage": {
+      "file": "Pietro Perugino - Maria Magdalena.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Pietro_Perugino_-_Maria_Magdalena.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_-_Maria_Magdalena.jpg",
+      "width": 2536,
+      "height": 3471,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "252cf7669ea47f4a740b6c4dfee11e70add0003bd0919b36aa1ad1f0cfbe2876",
+    "downloadedDimensions": [
+      2536,
+      3471
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/20.jpg",
+    "previewDimensions": [
+      1023,
+      1400
+    ],
+    "previewSha256": "90f39512cd0e3b4b3fa7c7912217312ba9ed30b35542b378282201a272b8c2e3",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 21,
+    "work": "Q3399418",
+    "artist": "Пьетро Перуджино",
+    "title": "Biagio Milanesi",
+    "reportFile": "entry-95c4cd3195517a07abfb6c0b.json",
+    "originalImage": {
+      "file": "Pietro Perugino cat58a.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pietro_Perugino_cat58a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat58a.jpg",
+      "width": 2236,
+      "height": 2332,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "908aa104bf6bf9d9e3b32d3d1e1308a34a61bab2f1d1dd19c3f51d4cd37ef732",
+    "downloadedDimensions": [
+      2236,
+      2332
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/21.jpg",
+    "previewDimensions": [
+      1342,
+      1400
+    ],
+    "previewSha256": "c68cf1fd9c51a75780aa5eecbcc228b4370d7cfef285ec88c14f91f8e68d27e2",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 22,
+    "work": "Q3399473",
+    "artist": "Пьетро Перуджино",
+    "title": "Портрет молодого человека",
+    "reportFile": "entry-ce7ea554d2888ad7c85d74bb.json",
+    "originalImage": {
+      "file": "Pietro Perugino catA2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pietro_Perugino_catA2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_catA2.jpg",
+      "width": 2208,
+      "height": 3372,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "3a9c86d7169de70c38194cc0aec07465b3344a40b45a9b73ec491ca64ca51101",
+    "downloadedDimensions": [
+      2208,
+      3372
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/22.jpg",
+    "previewDimensions": [
+      917,
+      1400
+    ],
+    "previewSha256": "19d0282b92c60b46bc8c871a7fde4b0bef697bebc37b7dd7eba6ea6269407ba6",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 23,
+    "work": "Q368788",
+    "artist": "Пьетро Перуджино",
+    "title": "Pietà",
+    "reportFile": "entry-0d1b9160a2c675509a12bf65.json",
+    "originalImage": {
+      "file": "Pietro Perugino cat19.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pietro_Perugino_cat19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat19.jpg",
+      "width": 2351,
+      "height": 2283,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "afe8bb1d73d94765aba85131130740d17b8c030b33052c5aa78d3a340337c39b",
+    "downloadedDimensions": [
+      2351,
+      2283
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/23.jpg",
+    "previewDimensions": [
+      1400,
+      1360
+    ],
+    "previewSha256": "e679c9c9610f65ff862d23459edb4dbd79e37a1c96da6a12bd5ef784e555fbf0",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 24,
+    "work": "Q945250",
+    "artist": "Пьетро Перуджино",
+    "title": "Portrait of Francesco delle Opere",
+    "reportFile": "entry-b2530e6f0104e7d86985d66c.json",
+    "originalImage": {
+      "file": "Perugino - Ritratto di Francesco delle Opere - Google Art Project.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Perugino_-_Ritratto_di_Francesco_delle_Opere_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Perugino_-_Ritratto_di_Francesco_delle_Opere_-_Google_Art_Project.jpg",
+      "width": 3667,
+      "height": 4405,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Google Arts & Culture — 5QGLVFhd_NbMtQ",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "1f936ebbed134e462d6c12b7e4dc9c605ae10f41468cbd658e9de22e8ef1e77c",
+    "downloadedDimensions": [
+      3667,
+      4405
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/24.jpg",
+    "previewDimensions": [
+      1165,
+      1400
+    ],
+    "previewSha256": "baf2be63d9e537b6d61194433cadbec53c0e47df19a17a834f40c8f433e0281a",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 25,
+    "work": "Q957460",
+    "artist": "Пьетро Перуджино",
+    "title": "Don Baldassare di Antonio di Angelo",
+    "reportFile": "entry-308441a29dfc55c4742ee098.json",
+    "originalImage": {
+      "file": "Pietro Perugino cat58b.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pietro_Perugino_cat58b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat58b.jpg",
+      "width": 2235,
+      "height": 2343,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Pietro Perugino",
+        "credit": "Vittoria Garibaldi: Perugino. Silvana, Milano 2004, ISBN 88-8215-813-6",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "695d543325696ec1812c655093e81d4790b96c089d19cd6e3b43370a3fcdfcf8",
+    "downloadedDimensions": [
+      2235,
+      2343
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/25.jpg",
+    "previewDimensions": [
+      1335,
+      1400
+    ],
+    "previewSha256": "ba820e6743c4531592a91430e890168f9a56f6de399ce7069107a76f91dc9284",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 26,
+    "work": "Q131490096",
+    "artist": "Джованни Антонио Больтраффио",
+    "title": "Portrait of a Notable (or Gerolamo Casio)",
+    "reportFile": "entry-4843e912ba991db163b17663.json",
+    "originalImage": {
+      "file": "Giovanni Antonio Boltraffio - Portrait of a Notable - WGA2381.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Giovanni_Antonio_Boltraffio_-_Portrait_of_a_Notable_-_WGA2381.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Antonio_Boltraffio_-_Portrait_of_a_Notable_-_WGA2381.jpg",
+      "width": 704,
+      "height": 1002,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Antonio Boltraffio",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"b/boltraff/casio\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "9a4b9a6748039c8af4e6e44b67d34e49d0170042476848d71957cd565bfce55d",
+    "downloadedDimensions": [
+      704,
+      1002
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/26.jpg",
+    "previewDimensions": [
+      704,
+      1002
+    ],
+    "previewSha256": "dea18ca8e2f6f73719787fd987f17a145ffa83a4bc0d79d25c8aec6d4c02bb7e",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 27,
+    "work": "Q3870403",
+    "artist": "Джованни Антонио Больтраффио",
+    "title": "Narcissus at the Fountain",
+    "reportFile": "entry-40758886948b00a18d5f386f.json",
+    "originalImage": {
+      "file": "Boltraffio, narciso alla fonte.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Boltraffio%2C_narciso_alla_fonte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Boltraffio,_narciso_alla_fonte.jpg",
+      "width": 1600,
+      "height": 988,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Antonio Boltraffio",
+        "credit": "http://www.ilreporter.com/notizie/e-luce-fu-a-goteborg",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "ee3f8bc2210a4e668dde3542f0d952c64dd8c6bfebe609839257d421e14d5976",
+    "downloadedDimensions": [
+      1600,
+      988
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/27.jpg",
+    "previewDimensions": [
+      1400,
+      865
+    ],
+    "previewSha256": "4d5b400f8c8f39533ba6e7c1bb15957567da65f689ec9c456c2fdd1515232685",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 28,
+    "work": "Q50801937",
+    "artist": "Виллем ван де Велде Старший",
+    "title": "Dutch Battleships",
+    "reportFile": "entry-34009c20839d2e850b1ff931.json",
+    "originalImage": {
+      "file": "Dutch battleships.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dutch_battleships.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Dutch_battleships.jpg",
+      "width": 8000,
+      "height": 4400,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Willem van de Velde the Elder",
+        "credit": "http://www.artres.com/c/htm/Home.aspx",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "d69d44e69d81fb9d60186b32c29a66da94c302525881d1b53e72bac7ecee5eac",
+    "downloadedDimensions": [
+      8000,
+      4400
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/28.jpg",
+    "previewDimensions": [
+      1400,
+      770
+    ],
+    "previewSha256": "edb1660aa2642c9c05c03dfcb75b3003060d861e6320af4316b0897a66a6fd11",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 29,
+    "work": "Q3997721",
+    "artist": "Джованни Джироламо Савольдо",
+    "title": "Transfiguration",
+    "reportFile": "entry-55db9b6016add7a4babc92e1.json",
+    "originalImage": {
+      "file": "Savoldo, trasfigurazione 2.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Savoldo%2C_trasfigurazione_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Savoldo,_trasfigurazione_2.jpg",
+      "width": 1152,
+      "height": 1342,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Giovanni Girolamo Savoldo",
+        "credit": "Self-scanned",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "6820a59d165496af165e45d9f4d6d4e608a9e15bc6996e6b1fd765f6f74b4ba8",
+    "downloadedDimensions": [
+      1152,
+      1342
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/29.jpg",
+    "previewDimensions": [
+      1152,
+      1342
+    ],
+    "previewSha256": "1491c40dc11a4df8625219cc1126bcc8cf41d44bbf30c4b58c50e2f6872e13b5",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 30,
+    "work": "Q120379091",
+    "artist": "Санти ди Тито",
+    "title": "Q120379091",
+    "reportFile": "entry-690cab142cfbc503181c06fb.json",
+    "originalImage": {
+      "file": "Ritratto di Giuliano de' Medici.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ritratto_di_Giuliano_de%27_Medici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Ritratto_di_Giuliano_de%27_Medici.jpg",
+      "width": 2418,
+      "height": 2936,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Santi di Tito",
+        "credit": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157114",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "463c90f1a6382d71211d5f48fe8bcaced06243d7dcce5bd404b5d585ac3d44f7",
+    "downloadedDimensions": [
+      2418,
+      2936
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/30.jpg",
+    "previewDimensions": [
+      1153,
+      1400
+    ],
+    "previewSha256": "4a4be4c419854a656cd5db6d6b934e8ac1e326281d90fb0a5431419467088fae",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 31,
+    "work": "Q113006400",
+    "artist": "Тинторетто",
+    "title": "Self-portrait with a Book",
+    "reportFile": "entry-34307bab8108fdab2c283df5.json",
+    "originalImage": {
+      "file": "Jacopo Tintoretto - Self-Portrait with a Book - WGA22701.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jacopo_Tintoretto_-_Self-Portrait_with_a_Book_-_WGA22701.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_-_Self-Portrait_with_a_Book_-_WGA22701.jpg",
+      "width": 850,
+      "height": 1062,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tintoret/8/27selfp\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "55f0f83b19cbd01b8bfca095950fff693bbd347688092946a5e72a82557e6d64",
+    "downloadedDimensions": [
+      850,
+      1062
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/31.jpg",
+    "previewDimensions": [
+      850,
+      1062
+    ],
+    "previewSha256": "2ad47632f1638bd3c68fd5b3399f59e14a92b388b77033441da3878466355af5",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 32,
+    "work": "Q114647547",
+    "artist": "Тинторетто",
+    "title": "Leda and the Swan",
+    "reportFile": "entry-9b78897928ec66dbe913bd05.json",
+    "originalImage": {
+      "file": "Tintoretto - Leda e il cigno, 1187590.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Tintoretto_-_Leda_e_il_cigno%2C_1187590.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Leda_e_il_cigno,_1187590.jpg",
+      "width": 1200,
+      "height": 1224,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "catalogo.uffizi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "670ce7e3ab231abadff752f230e12e84668abb59f174f9af05566a6796b228ed",
+    "downloadedDimensions": [
+      1200,
+      1224
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/32.jpg",
+    "previewDimensions": [
+      1200,
+      1224
+    ],
+    "previewSha256": "ea810c72fd71182d81e83dc2fdd4fee12bf99f4b989fa6238efc668fd16244e3",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 33,
+    "work": "Q11753618",
+    "artist": "Тинторетто",
+    "title": "Леда и лебедь",
+    "reportFile": "entry-7ee82891f3d35725729b6d4d.json",
+    "originalImage": {
+      "file": "Leda mit schwan.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Leda_mit_schwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Leda_mit_schwan.jpg",
+      "width": 550,
+      "height": 409,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "myartprints.com",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "fda37c650a6ec919830f05ccfc7efe7583387628bb6a3ec6b2913dee5ac7d3bb",
+    "downloadedDimensions": [
+      550,
+      409
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/33.jpg",
+    "previewDimensions": [
+      550,
+      409
+    ],
+    "previewSha256": "ce69e3ca3c53349f3b55e7fe9c153a18535ca2de949282366bf0987b59f86920",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [
+      "Short side below 600 pixels; quality warning, not identity rejection"
+    ],
+    "applyAllowed": false
+  },
+  {
+    "number": 34,
+    "work": "Q124246612",
+    "artist": "Тинторетто",
+    "title": "Portrait of a man in a fur coat",
+    "reportFile": "entry-11813ff4da5878d74ebbd4a4.json",
+    "originalImage": {
+      "file": "Portrait of an anonymous man.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Portrait_of_an_anonymous_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_anonymous_man.jpg",
+      "width": 735,
+      "height": 902,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "pl.pinterest.com",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "af1c70d3f4e34e9c0e2ca25580fddd3d73a20d563b9edf302cfa4bf0a8793487",
+    "downloadedDimensions": [
+      735,
+      902
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/34.jpg",
+    "previewDimensions": [
+      735,
+      902
+    ],
+    "previewSha256": "44d50b1364ed884d0910746970bff554872db5718ae5c1bf85ed14f4eab2602f",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 35,
+    "work": "Q131604575",
+    "artist": "Тинторетто",
+    "title": "Venus, Vulcan, and Cupid",
+    "reportFile": "entry-5b1f9412433463a51e1e74dd.json",
+    "originalImage": {
+      "file": "Tintoretto - Venere e Vulcano vezzeggiano Cupido, 1188187, Galleria Palatina.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tintoretto_-_Venere_e_Vulcano_vezzeggiano_Cupido%2C_1188187%2C_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Venere_e_Vulcano_vezzeggiano_Cupido,_1188187,_Galleria_Palatina.jpg",
+      "width": 1200,
+      "height": 475,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "https://catalogo.uffizi.it/it/29/ricerca/detailiccd/1188187/",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "b0f6701b5bf98708431c5352f898ed7caa7a8784015e5b0d782af548191a6537",
+    "downloadedDimensions": [
+      1200,
+      475
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/35.jpg",
+    "previewDimensions": [
+      1200,
+      475
+    ],
+    "previewSha256": "3d852c3881a7129a421764c99ddffd7b6ee8a9085576b44c8b2d10f9d748be69",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [
+      "Short side below 600 pixels; quality warning, not identity rejection"
+    ],
+    "applyAllowed": false
+  },
+  {
+    "number": 36,
+    "work": "Q131613891",
+    "artist": "Тинторетто",
+    "title": "Portrait of a man",
+    "reportFile": "entry-3f1d311976cd58c1f3b1b10a.json",
+    "originalImage": {
+      "file": "Tintoretto - ritratto d'uomo, 1187684.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tintoretto_-_ritratto_d%27uomo%2C_1187684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_ritratto_d%27uomo,_1187684.jpg",
+      "width": 777,
+      "height": 1024,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "https://catalogo.uffizi.it/it/29/ricerca/iccd/?search=Tintoretto&facet%5B0%5D=OGTD_ss%3A%22dipinto%22&paginate_pageNum=1",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "745754eff86fa41ebf78aa389e9c955edac338877b452507fce51e9e1a38547e",
+    "downloadedDimensions": [
+      777,
+      1024
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/36.jpg",
+    "previewDimensions": [
+      777,
+      1024
+    ],
+    "previewSha256": "14dae45cb1ffaf9cd883cd026c0b5e762ea2ec14bad545e953b3430297613dc2",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 37,
+    "work": "Q3937458",
+    "artist": "Тинторетто",
+    "title": "Portrait of Alvise Cornaro",
+    "reportFile": "entry-590d9c9b4eaafaf1955c9062.json",
+    "originalImage": {
+      "file": "Tintoretto - ritratto di Alvise Cornaro, 1188258, Galleria Palatina.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tintoretto_-_ritratto_di_Alvise_Cornaro%2C_1188258%2C_Galleria_Palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_ritratto_di_Alvise_Cornaro,_1188258,_Galleria_Palatina.jpg",
+      "width": 779,
+      "height": 1024,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "https://catalogo.uffizi.it/it/viewer/#/main/viewer?idMetadato=1188258&type=iccd",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "9607b5493a0efe16cca76c3c6af47102a9a15e1d43682a0e14ded7d9c42737b5",
+    "downloadedDimensions": [
+      779,
+      1024
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/37.jpg",
+    "previewDimensions": [
+      779,
+      1024
+    ],
+    "previewSha256": "01c49691fd7fcdda03d0ed3ae7d51282a256624f9a15548d95a5da2d1ea7396d",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 38,
+    "work": "Q49167869",
+    "artist": "Тинторетто",
+    "title": "Portrait of Jacopo Sansovino",
+    "reportFile": "entry-1f70b10f43bceafb28de248d.json",
+    "originalImage": {
+      "file": "Jacopo Tintoretto - Portrait of Jacopo Sansovino - WGA22689.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Jacopo_Tintoretto_-_Portrait_of_Jacopo_Sansovino_-_WGA22689.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Tintoretto_-_Portrait_of_Jacopo_Sansovino_-_WGA22689.jpg",
+      "width": 816,
+      "height": 1019,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Jacopo Tintoretto",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"t/tintoret/8/16sansov\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "3e07c2a196244607a12c4c3e89ddb5f689a9d940ea96929b4ae3eba337f8aea3",
+    "downloadedDimensions": [
+      816,
+      1019
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/38.jpg",
+    "previewDimensions": [
+      816,
+      1019
+    ],
+    "previewSha256": "fe0ee26a5136e3b7b0d1790bbbe4ba06ba4f918e4c29f7ce851deb492e7defd9",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 39,
+    "work": "Q115727218",
+    "artist": "Сальватор Роза",
+    "title": "Marina del Porto",
+    "reportFile": "entry-e50540dd6bc5aca46eeead47.json",
+    "originalImage": {
+      "file": "Salvator rosa, marina del porto, 1641, palatina.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Salvator_rosa%2C_marina_del_porto%2C_1641%2C_palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Salvator_rosa,_marina_del_porto,_1641,_palatina.jpg",
+      "width": 2239,
+      "height": 1287,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "see filename or category",
+        "credit": "scan",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "208c496d82fe0471cc2ccee93024e8db14b7b12406591e8c56bb21aadae3c9e5",
+    "downloadedDimensions": [
+      2239,
+      1287
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/39.jpg",
+    "previewDimensions": [
+      1400,
+      805
+    ],
+    "previewSha256": "9e7b315c5ac69b29e589b4edb5d5de1cc38e75142aca4412a01184eb972d67d0",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 40,
+    "work": "Q133459806",
+    "artist": "Сальватор Роза",
+    "title": "Allegory of lie",
+    "reportFile": "entry-a6814255e9676996a60e4125.json",
+    "originalImage": {
+      "file": "Salvator rosa, menzogna, 1645-48 ca., palatina.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Salvator_rosa%2C_menzogna%2C_1645-48_ca.%2C_palatina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Salvator_rosa,_menzogna,_1645-48_ca.,_palatina.jpg",
+      "width": 2017,
+      "height": 2805,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Salvator Rosa",
+        "credit": "Self-scanned",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "6934bb286de2332a712dcc3d1598cb10ed8176b44f9f7b537c0a26ed0ab2d693",
+    "downloadedDimensions": [
+      2017,
+      2805
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/40.jpg",
+    "previewDimensions": [
+      1007,
+      1400
+    ],
+    "previewSha256": "aa272f71f2f4c2a59de226d6e89752299a0e9a2af7c451daa8489c7ed1ce3037",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 41,
+    "work": "Q3698198",
+    "artist": "Марко Пальмеццано",
+    "title": "Crucifixion",
+    "reportFile": "entry-a7a456550e0d3081ea537f6e.json",
+    "originalImage": {
+      "file": "Marco palmezzano, crocifissione degli Uffizi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Marco_palmezzano%2C_crocifissione_degli_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Marco_palmezzano,_crocifissione_degli_Uffizi.jpg",
+      "width": 370,
+      "height": 455,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Marco Palmezzano",
+        "credit": "http://www.virtualuffizi.com/uffizi1/Uffizi_Pictures.asp?Contatore=173",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "3b3a5260b8e3370fc537d1db13c4f385fc1e6420334151e7d24ff7455ca51b04",
+    "downloadedDimensions": [
+      370,
+      455
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/41.jpg",
+    "previewDimensions": [
+      370,
+      455
+    ],
+    "previewSha256": "e23727ff5565ea57558a47d5488d84f65288d02bc55154e1b33b5c850dcdb4ed",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [
+      "Short side below 600 pixels; quality warning, not identity rejection"
+    ],
+    "applyAllowed": false
+  },
+  {
+    "number": 42,
+    "work": "Q108292260",
+    "artist": "Алессандро Аллори",
+    "title": "Portrait of Isabella de' Medici",
+    "reportFile": "entry-9b04458cfb81800ec39a722d.json",
+    "originalImage": {
+      "file": "Isabella de' Medici 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Isabella_de%27_Medici_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Isabella_de%27_Medici_02.jpg",
+      "width": 1190,
+      "height": 1646,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Attributed to Alessandro Allori / Formerly attributed to Bronzino",
+        "credit": "http://web.archive.org/web/20160306043211/http://www.palazzo-medici.it/mediateca/en/Scheda_Isabella_di_Cosimo_I",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "3d977b01f6940c176acfa8c3df456af95d83c891ba723d6fb9644ff7358bc096",
+    "downloadedDimensions": [
+      1190,
+      1646
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/42.jpg",
+    "previewDimensions": [
+      1012,
+      1400
+    ],
+    "previewSha256": "44ed2e19ac8412af9548e5a5f4b8f6bd5047b270657c4032e2223d5dfbeb038a",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 43,
+    "work": "Q108478249",
+    "artist": "Алессандро Аллори",
+    "title": "Portrait of Isabella de' Medici Orsini (?)",
+    "reportFile": "entry-2d34b4e5bb0d39c1bd09bad4.json",
+    "originalImage": {
+      "file": "Isabella de' Medici Uffizi 02.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Isabella_de%27_Medici_Uffizi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Isabella_de%27_Medici_Uffizi_02.jpg",
+      "width": 753,
+      "height": 1002,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Polo Museale Fiorentino, Inventario 1890: online database: entry 1495 (Italian)",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "a26b48637b2d66cbb114f4397ffe6c705170b2bfc8bb717effbc06bcaf15e5a5",
+    "downloadedDimensions": [
+      753,
+      1002
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/43.jpg",
+    "previewDimensions": [
+      753,
+      1002
+    ],
+    "previewSha256": "b91c5422003dbf5f26d3088181bc6e339ef442ba95ffbd71b44ff251213d81c5",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 44,
+    "work": "Q111304344",
+    "artist": "Алессандро Аллори",
+    "title": "Portrait of Ortensia de Bardi di Montauto, formerly identified as Giulia de' Medici",
+    "reportFile": "entry-f09ce2e1d69b9962b2ad89b0.json",
+    "originalImage": {
+      "file": "Portrait of Ortensia de' Bardi di Montauto by Alessandro Allori - Gallerie degli Uffizi.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg",
+      "width": 1080,
+      "height": 1350,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Facebook",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "1ad7d48ebf84b09452a7883c5bdc5a1025dddb080c23ea0f14f2c7499ba83a5a",
+    "downloadedDimensions": [
+      1080,
+      1350
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/44.jpg",
+    "previewDimensions": [
+      1080,
+      1350
+    ],
+    "previewSha256": "46b10a67ffb5726d89c82d273f83e9cdf32c00d0f74e44a9f85e515566bd8a9d",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 45,
+    "work": "Q117405631",
+    "artist": "Алессандро Аллори",
+    "title": "Portrait of a gentlewoman",
+    "reportFile": "entry-c646ef29223eac7357104c22.json",
+    "originalImage": {
+      "file": "A lady by A.Allori (Palazzo Pitti).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/A_lady_by_A.Allori_%28Palazzo_Pitti%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:A_lady_by_A.Allori_(Palazzo_Pitti).jpg",
+      "width": 845,
+      "height": 1024,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori / Formerly attributed to Bronzino",
+        "credit": "https://www.europeana.eu/portal/en/record/2048011/work_64159.html?q=bianca+cappello",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "d75b23293bc95404cf0a65622981a606709fb760d6215b31912af3ece11f69ee",
+    "downloadedDimensions": [
+      845,
+      1024
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/45.jpg",
+    "previewDimensions": [
+      845,
+      1024
+    ],
+    "previewSha256": "9a79f0c6ba5d0d76f14b426930d12b367f8c80f066565a2c4adf3d593dcb3751",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 46,
+    "work": "Q119164762",
+    "artist": "Алессандро Аллори",
+    "title": "Portrait of Lorenzo di Giovanni de' Medici",
+    "reportFile": "entry-48a1f2262b4725b20af64320.json",
+    "originalImage": {
+      "file": "Portrait of Lorenzo de' Medici il Vecchio.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Portrait_of_Lorenzo_de%27_Medici_il_Vecchio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_de%27_Medici_il_Vecchio.jpg",
+      "width": 3358,
+      "height": 3983,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "palazzomediciriccardi.it",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "99f83ab055fb5a6876a400c7705c15dae6d6f73034628483ded12af5dc00d90d",
+    "downloadedDimensions": [
+      3358,
+      3983
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/46.jpg",
+    "previewDimensions": [
+      1180,
+      1400
+    ],
+    "previewSha256": "f34a7f143eab62a70fc50459a6d9f03427939db11b2258de87f8277f84fc7334",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 47,
+    "work": "Q124518529",
+    "artist": "Алессандро Аллори",
+    "title": "St Peter Walking on the Water",
+    "reportFile": "entry-7b761e74564c00fc6c4d5dfb.json",
+    "originalImage": {
+      "file": "Alessandro Allori - St Peter Walking on the Water - WGA00184.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alessandro_Allori_-_St_Peter_Walking_on_the_Water_-_WGA00184.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_St_Peter_Walking_on_the_Water_-_WGA00184.jpg",
+      "width": 808,
+      "height": 941,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/allori/alessand/st_peter\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "207f4a7564a89918b23133bad1de4c78f2e61e2ec7523ea2a79dbbdbdf5adf2d",
+    "downloadedDimensions": [
+      808,
+      941
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/47.jpg",
+    "previewDimensions": [
+      808,
+      941
+    ],
+    "previewSha256": "03b9455587dbbbecfd8ab237f6b17418fc4ea374a64b73b5dc32aee10fddc8ae",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 48,
+    "work": "Q124518541",
+    "artist": "Алессандро Аллори",
+    "title": "The Preaching of St John the Baptist",
+    "reportFile": "entry-21d41e56b27201b0842c8337.json",
+    "originalImage": {
+      "file": "Alessandro Allori - The Preaching of St John the Baptist - WGA0183.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Alessandro_Allori_-_The_Preaching_of_St_John_the_Baptist_-_WGA0183.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_The_Preaching_of_St_John_the_Baptist_-_WGA0183.jpg",
+      "width": 1081,
+      "height": 900,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/allori/alessand/preachin\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "ff45b323198dff3de2922ac9fefb130292cf59a046e8cc6cf90e35855460d99d",
+    "downloadedDimensions": [
+      1081,
+      900
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/48.jpg",
+    "previewDimensions": [
+      1081,
+      900
+    ],
+    "previewSha256": "a2848f8a5f71a69997a80e30b7ba77c5f5039a232f04ec1a74a8131762d3af26",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 49,
+    "work": "Q124518582",
+    "artist": "Алессандро Аллори",
+    "title": "Allegory of Human Life",
+    "reportFile": "entry-d432fcb134be77cb2ae0dbe9.json",
+    "originalImage": {
+      "file": "Alessandro allori, allegoria della vita umana.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alessandro_allori%2C_allegoria_della_vita_umana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_allegoria_della_vita_umana.jpg",
+      "width": 650,
+      "height": 922,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/a/allori/alessand/allegory\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "5b57db539c5f71629a8da0ec8fdd808e28c661d42955a1e47f7af32b96b5b7c1",
+    "downloadedDimensions": [
+      650,
+      922
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/49.jpg",
+    "previewDimensions": [
+      650,
+      922
+    ],
+    "previewSha256": "909cbac2306aca364c763b6199e3836cd2f90b98bed061c8f10bcd70b36cbda8",
+    "existingIdentityIssues": [
+      "Inventory missing or changed"
+    ],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  },
+  {
+    "number": 50,
+    "work": "Q124736928",
+    "artist": "Алессандро Аллори",
+    "title": "Portrait of Bianca Cappello",
+    "reportFile": "entry-24b30d60363f82cd174c25c3.json",
+    "originalImage": {
+      "file": "Alessandro Allori - Portrait of Bianca Cappello.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg",
+      "width": 812,
+      "height": 1145,
+      "format": "jpeg",
+      "rights": {
+        "status": "documented_open",
+        "name": "Public domain",
+        "url": "",
+        "author": "Alessandro Allori",
+        "credit": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"a/allori/alessand/portra1\"",
+        "restrictions": "",
+        "obligations": [],
+        "note": "Machine-readable source claim; not a legal or visual review."
+      }
+    },
+    "downloadedSha256": "d461fa4d18ed5c3058e63e55bffd12477196243d309d248f658d1bf39980de9f",
+    "downloadedDimensions": [
+      812,
+      1145
+    ],
+    "preview": "reports/uffizi-krea-50/43579978219-1/images/50.jpg",
+    "previewDimensions": [
+      812,
+      1145
+    ],
+    "previewSha256": "40eeeb34ec5165766af050de52a4b5a7204838b4157d2a027bf5111a9f6f5904",
+    "existingIdentityIssues": [],
+    "existingQualityNotes": [],
+    "applyAllowed": false
+  }
+]
