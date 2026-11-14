@@ -1,0 +1,25 @@
+{
+  "provider": "Krea Agent",
+  "purpose": "Image access test only",
+  "source": "reports/uffizi-contact-sheet-tests/43576476318-1/sheet.jpg",
+  "visualReviewPerformed": false,
+  "applyAllowed": false,
+  "sendAttempts": 1,
+  "status": "completed",
+  "sheetSha256": "7a89bc1f2b4138e576d6ad1b7f3b1ac1ec9903ee43c48d4f6b1e52dacd005e2e",
+  "warning": "Never retry a send after a timeout: the turn may still be running. Internal Agent costs are not hard-capped.",
+  "sessionId": "961af811-7964-4aa6-a101-7142452aa7f6",
+  "runId": "68343b47-450f-43e1-9e36-42cb3ad7a36f",
+  "sessionUrl": "https://www.krea.ai/agent/961af811-7964-4aa6-a101-7142452aa7f6",
+  "model": null,
+  "effort": "fast",
+  "response": {
+    "status": "completed",
+    "finished": true,
+    "timedOut": false,
+    "text": "```json\n{\n  \"imageAccessible\": true,\n  \"cells\": [\n    {\n      \"number\": 1,\n      \"visibleSubjectDetails\": \"The Virgin Mary seated in a dark blue robe holding the Christ Child, while a kneeling magus in rich green and gold robes presents an offering.\",\n      \"wholePaintingVisible\": \"yes\",\n      \"frameVisible\": \"no\",\n      \"watermarkVisible\": \"no\",\n      \"qualityConcerns\": \"Slight compression artifacting and low resolution typical of a contact sheet thumbnail, but details remain distinguishable.\"\n    },\n    {\n      \"number\": 2,\n      \"visibleSubjectDetails\": \"A profile portrait of a woman with elaborate braided hair adorned with pearls and a gold cap, wearing a dark dress with patterned gold sleeves and a jeweled choker necklace.\",\n      \"wholePaintingVisible\": \"yes\",\n      \"frameVisible\": \"no\",\n      \"watermarkVisible\": \"no\",\n      \"qualityConcerns\": \"Clear details with good contrast against the landscape background, minor contact sheet downsampling.\"\n    },\n    {\n      \"number\": 3,\n      \"visibleSubjectDetails\": \"A dark, half-length self-portrait of a man with voluminous curly hair wearing a brown garment, holding or displaying a smaller framed landscape painting showing figures in an open field.\",\n      \"wholePaintingVisible\": \"yes\",\n      \"frameVisible\": \"no\",\n      \"watermarkVisible\": \"no\",\n      \"qualityConcerns\": \"Darker composition with lower shadow contrast in the background drapery and hair.\"\n    }\n  ],\n  \"limitations\": \"Analysis based on inspection of the provided contact sheet thumbnail image.\"\n}\n```",
+    "media": [],
+    "url": "https://www.krea.ai/agent/961af811-7964-4aa6-a101-7142452aa7f6"
+  },
+  "assessmentStatus": "unverified_model_output"
+}

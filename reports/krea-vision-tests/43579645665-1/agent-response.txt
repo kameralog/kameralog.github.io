@@ -1,0 +1,32 @@
+```json
+{
+  "imageAccessible": true,
+  "cells": [
+    {
+      "number": 1,
+      "visibleSubjectDetails": "The Virgin Mary seated in a dark blue robe holding the Christ Child, while a kneeling magus in rich green and gold robes presents an offering.",
+      "wholePaintingVisible": "yes",
+      "frameVisible": "no",
+      "watermarkVisible": "no",
+      "qualityConcerns": "Slight compression artifacting and low resolution typical of a contact sheet thumbnail, but details remain distinguishable."
+    },
+    {
+      "number": 2,
+      "visibleSubjectDetails": "A profile portrait of a woman with elaborate braided hair adorned with pearls and a gold cap, wearing a dark dress with patterned gold sleeves and a jeweled choker necklace.",
+      "wholePaintingVisible": "yes",
+      "frameVisible": "no",
+      "watermarkVisible": "no",
+      "qualityConcerns": "Clear details with good contrast against the landscape background, minor contact sheet downsampling."
+    },
+    {
+      "number": 3,
+      "visibleSubjectDetails": "A dark, half-length self-portrait of a man with voluminous curly hair wearing a brown garment, holding or displaying a smaller framed landscape painting showing figures in an open field.",
+      "wholePaintingVisible": "yes",
+      "frameVisible": "no",
+      "watermarkVisible": "no",
+      "qualityConcerns": "Darker composition with lower shadow contrast in the background drapery and hair."
+    }
+  ],
+  "limitations": "Analysis based on inspection of the provided contact sheet thumbnail image."
+}
+```

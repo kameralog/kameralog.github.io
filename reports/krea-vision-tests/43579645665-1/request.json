@@ -1,0 +1,12 @@
+{
+  "prompt": "Inspect the ONE attached contact sheet containing three numbered painting reproductions. ANALYSIS ONLY. Do not generate, edit, enhance, upscale or create any images, videos, audio or other media. Do not browse, buy anything, or run generation tools. Do not infer authorship or licenses. Do not merely copy the printed labels. Return only a compact JSON object with imageAccessible (boolean), cells (three objects with number, visibleSubjectDetails, wholePaintingVisible (yes/no/uncertain), frameVisible (yes/no/uncertain), watermarkVisible (yes/no/uncertain), qualityConcerns), and limitations. Describe two concrete visible details in each painting. Printed contact-sheet labels are not watermarks. If you cannot actually inspect the attachment, set imageAccessible=false and explain; do not guess. This is a diagnostic test, not approval to publish paintings. Keep the response under 1500 words.",
+  "name": "Kameralog three-painting vision test",
+  "effort": "fast",
+  "attachments": [
+    {
+      "url": "https://raw.githubusercontent.com/kameralog/kameralog.github.io/refs/heads/museum-reports/reports/uffizi-contact-sheet-tests/43576476318-1/sheet.jpg",
+      "name": "contact-sheet.jpg",
+      "contentType": "image/jpeg"
+    }
+  ]
+}
