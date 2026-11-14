@@ -1,5 +1,10 @@
 [
   {
+    "id": "atetelco_white_patio",
+    "name": "Атетелько: Белый дворик",
+    "path": "records/atetelco_white_patio.json"
+  },
+  {
     "id": "aelbert_cuyp",
     "name": "Аэлберт Кёйп",
     "path": "records/aelbert_cuyp.json"
@@ -470,6 +475,16 @@
     "path": "records/gederts_eliass.json"
   },
   {
+    "id": "geza_vastagh",
+    "name": "Геза Ваштаг",
+    "path": "records/geza_vastagh.json"
+  },
+  {
+    "id": "geza_meszoly",
+    "name": "Геза Месёй",
+    "path": "records/geza_meszoly.json"
+  },
+  {
     "id": "henriette_geertruida_knip",
     "name": "Генриетта Гертрёйда Книп",
     "path": "records/henriette_geertruida_knip.json"
@@ -483,20 +498,5 @@
     "id": "henrietta_rae",
     "name": "Генриетта Рэй",
     "path": "records/henrietta_rae.json"
-  },
-  {
-    "id": "georg_achen",
-    "name": "Георг Ахен",
-    "path": "records/georg_achen.json"
-  },
-  {
-    "id": "gerard_david",
-    "name": "Герард Давид",
-    "path": "records/gerard_david.json"
-  },
-  {
-    "id": "gerardina_van_de_sande_bakhuyzen",
-    "name": "Герардина Якоба ван де Санде Бакхёйзен",
-    "path": "records/gerardina_van_de_sande_bakhuyzen.json"
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "id": "harald_slott_moller",
+    "name": "Харальд Слотт-Мёллер",
+    "path": "records/harald_slott_moller.json"
+  },
+  {
+    "id": "harald_sohlberg",
+    "name": "Харальд Сульберг",
+    "path": "records/harald_sohlberg.json"
+  },
+  {
+    "id": "harriet_backer",
+    "name": "Харриет Баккер",
+    "path": "records/harriet_backer.json"
+  },
+  {
+    "id": "hashimoto_gaho",
+    "name": "Хасимото Гахо",
+    "path": "records/hashimoto_gaho.json"
+  },
+  {
+    "id": "hasegawa_tohaku",
+    "name": "Хасэгава Тохаку",
+    "path": "records/hasegawa_tohaku.json"
+  },
+  {
+    "id": "helen_mcnicoll",
+    "name": "Хелен Макниколл",
+    "path": "records/helen_mcnicoll.json"
+  },
+  {
+    "id": "helena_westermarck",
+    "name": "Хелена Вестермарк",
+    "path": "records/helena_westermarck.json"
+  },
+  {
+    "id": "helene_schjerfbeck",
+    "name": "Хелена Шерфбек",
+    "path": "records/helene_schjerfbeck.json"
+  },
+  {
     "id": "hendrick_avercamp",
     "name": "Хендрик Аверкамп",
     "path": "records/hendrick_avercamp.json"
@@ -458,45 +498,5 @@
     "id": "eero_jarnefelt",
     "name": "Ээро Ярнефельт",
     "path": "records/eero_jarnefelt.json"
-  },
-  {
-    "id": "hubert_robert",
-    "name": "Юбер Робер",
-    "path": "records/hubert_robert.json"
-  },
-  {
-    "id": "judith_leyster",
-    "name": "Юдит Лейстер",
-    "path": "records/judith_leyster.json"
-  },
-  {
-    "id": "julius_marak",
-    "name": "Юлиус Маржак",
-    "path": "records/julius_marak.json"
-  },
-  {
-    "id": "julius_paulsen",
-    "name": "Юлиус Паульсен",
-    "path": "records/julius_paulsen.json"
-  },
-  {
-    "id": "yrjo_ollila",
-    "name": "Юрьё Оллила",
-    "path": "records/yrjo_ollila.json"
-  },
-  {
-    "id": "juho_makela",
-    "name": "Юхо Мякеля",
-    "path": "records/juho_makela.json"
-  },
-  {
-    "id": "juho_rissanen",
-    "name": "Юхо Риссанен",
-    "path": "records/juho_rissanen.json"
-  },
-  {
-    "id": "jazeps_grosvalds",
-    "name": "Язепс Гросвалдс",
-    "path": "records/jazeps_grosvalds.json"
   }
 ]

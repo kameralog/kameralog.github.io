@@ -1,5 +1,20 @@
 [
   {
+    "id": "georg_achen",
+    "name": "Георг Ахен",
+    "path": "records/georg_achen.json"
+  },
+  {
+    "id": "gerard_david",
+    "name": "Герард Давид",
+    "path": "records/gerard_david.json"
+  },
+  {
+    "id": "gerardina_van_de_sande_bakhuyzen",
+    "name": "Герардина Якоба ван де Санде Бакхёйзен",
+    "path": "records/gerardina_van_de_sande_bakhuyzen.json"
+  },
+  {
     "id": "gerbrand_van_den_eeckhout",
     "name": "Гербранд ван ден Экхаут",
     "path": "records/gerbrand_van_den_eeckhout.json"
@@ -483,20 +498,5 @@
     "id": "domenico_gargiulo",
     "name": "Доменико Гарджуло",
     "path": "records/domenico_gargiulo.json"
-  },
-  {
-    "id": "domenico_ghirlandaio",
-    "name": "Доменико Гирландайо",
-    "path": "records/domenico_ghirlandaio.json"
-  },
-  {
-    "id": "domenico_cresti",
-    "name": "Доменико Крести",
-    "path": "records/domenico_cresti.json"
-  },
-  {
-    "id": "domenico_piola",
-    "name": "Доменико Пиола",
-    "path": "records/domenico_piola.json"
   }
 ]

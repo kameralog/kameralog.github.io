@@ -1,5 +1,45 @@
 [
   {
+    "id": "cecile_douard",
+    "name": "Сесиль Дуар",
+    "path": "records/cecile_douard.json"
+  },
+  {
+    "id": "simon_vouet",
+    "name": "Симон Вуэ",
+    "path": "records/simon_vouet.json"
+  },
+  {
+    "id": "simon_de_vlieger",
+    "name": "Симон де Влигер",
+    "path": "records/simon_de_vlieger.json"
+  },
+  {
+    "id": "simone_martini",
+    "name": "Симоне Мартини",
+    "path": "records/simone_martini.json"
+  },
+  {
+    "id": "simone_pignoni",
+    "name": "Симоне Пиньони",
+    "path": "records/simone_pignoni.json"
+  },
+  {
+    "id": "sinibaldo_scorza",
+    "name": "Синибальдо Скорца",
+    "path": "records/sinibaldo_scorza.json"
+  },
+  {
+    "id": "sientje_mesdag_van_houten",
+    "name": "Синтье Месдаг-ван Хаутен",
+    "path": "records/sientje_mesdag_van_houten.json"
+  },
+  {
+    "id": "sodoma",
+    "name": "Содома",
+    "path": "records/sodoma.json"
+  },
+  {
     "id": "sophie_anderson",
     "name": "Софи Андерсон",
     "path": "records/sophie_anderson.json"
@@ -458,45 +498,5 @@
     "id": "han_gan",
     "name": "Хань Гань",
     "path": "records/han_gan.json"
-  },
-  {
-    "id": "harald_slott_moller",
-    "name": "Харальд Слотт-Мёллер",
-    "path": "records/harald_slott_moller.json"
-  },
-  {
-    "id": "harald_sohlberg",
-    "name": "Харальд Сульберг",
-    "path": "records/harald_sohlberg.json"
-  },
-  {
-    "id": "harriet_backer",
-    "name": "Харриет Баккер",
-    "path": "records/harriet_backer.json"
-  },
-  {
-    "id": "hashimoto_gaho",
-    "name": "Хасимото Гахо",
-    "path": "records/hashimoto_gaho.json"
-  },
-  {
-    "id": "hasegawa_tohaku",
-    "name": "Хасэгава Тохаку",
-    "path": "records/hasegawa_tohaku.json"
-  },
-  {
-    "id": "helen_mcnicoll",
-    "name": "Хелен Макниколл",
-    "path": "records/helen_mcnicoll.json"
-  },
-  {
-    "id": "helena_westermarck",
-    "name": "Хелена Вестермарк",
-    "path": "records/helena_westermarck.json"
-  },
-  {
-    "id": "helene_schjerfbeck",
-    "name": "Хелена Шерфбек",
-    "path": "records/helene_schjerfbeck.json"
   }
 ]

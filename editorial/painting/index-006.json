@@ -1,5 +1,40 @@
 [
   {
+    "id": "honore_daumier",
+    "name": "Оноре Домье",
+    "path": "records/honore_daumier.json"
+  },
+  {
+    "id": "orazio_borgianni",
+    "name": "Орацио Борджанни",
+    "path": "records/orazio_borgianni.json"
+  },
+  {
+    "id": "orazio_de_ferrari",
+    "name": "Орацио де Феррари",
+    "path": "records/orazio_de_ferrari.json"
+  },
+  {
+    "id": "orazio_gentileschi",
+    "name": "Орацио Джентилески",
+    "path": "records/orazio_gentileschi.json"
+  },
+  {
+    "id": "oscar_wergeland",
+    "name": "Оскар Вергеланн",
+    "path": "records/oscar_wergeland.json"
+  },
+  {
+    "id": "oskar_kallis",
+    "name": "Оскар Каллис",
+    "path": "records/oskar_kallis.json"
+  },
+  {
+    "id": "oskar_kleineh",
+    "name": "Оскар Клейне",
+    "path": "records/oskar_kleineh.json"
+  },
+  {
     "id": "kokoschka",
     "name": "Оскар Кокошка",
     "path": "records/kokoschka.json"
@@ -18,6 +53,11 @@
     "id": "filonov",
     "name": "Павел Филонов",
     "path": "records/filonov.json"
+  },
+  {
+    "id": "pal_bohm",
+    "name": "Пал Бём",
+    "path": "records/pal_bohm.json"
   },
   {
     "id": "pal_szinyei_merse",
@@ -458,45 +498,5 @@
     "id": "cecilia_beaux",
     "name": "Сесилия Бо",
     "path": "records/cecilia_beaux.json"
-  },
-  {
-    "id": "cecile_douard",
-    "name": "Сесиль Дуар",
-    "path": "records/cecile_douard.json"
-  },
-  {
-    "id": "simon_vouet",
-    "name": "Симон Вуэ",
-    "path": "records/simon_vouet.json"
-  },
-  {
-    "id": "simon_de_vlieger",
-    "name": "Симон де Влигер",
-    "path": "records/simon_de_vlieger.json"
-  },
-  {
-    "id": "simone_martini",
-    "name": "Симоне Мартини",
-    "path": "records/simone_martini.json"
-  },
-  {
-    "id": "simone_pignoni",
-    "name": "Симоне Пиньони",
-    "path": "records/simone_pignoni.json"
-  },
-  {
-    "id": "sinibaldo_scorza",
-    "name": "Синибальдо Скорца",
-    "path": "records/sinibaldo_scorza.json"
-  },
-  {
-    "id": "sientje_mesdag_van_houten",
-    "name": "Синтье Месдаг-ван Хаутен",
-    "path": "records/sientje_mesdag_van_houten.json"
-  },
-  {
-    "id": "sodoma",
-    "name": "Содома",
-    "path": "records/sodoma.json"
   }
 ]

@@ -55,6 +55,11 @@
     "path": "records/adolph_tidemand.json"
   },
   {
+    "id": "adolf_fenyes",
+    "name": "Адольф Феньеш",
+    "path": "records/adolf_fenyes.json"
+  },
+  {
     "id": "adolf_von_becker",
     "name": "Адольф фон Беккер",
     "path": "records/adolf_von_becker.json"
@@ -493,10 +498,5 @@
     "id": "astrid_holm",
     "name": "Астрид Хольм",
     "path": "records/astrid_holm.json"
-  },
-  {
-    "id": "atetelco_white_patio",
-    "name": "Атетелько: Белый дворик",
-    "path": "records/atetelco_white_patio.json"
   }
 ]

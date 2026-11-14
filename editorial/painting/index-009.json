@@ -1,5 +1,45 @@
 [
   {
+    "id": "hubert_robert",
+    "name": "Юбер Робер",
+    "path": "records/hubert_robert.json"
+  },
+  {
+    "id": "judith_leyster",
+    "name": "Юдит Лейстер",
+    "path": "records/judith_leyster.json"
+  },
+  {
+    "id": "julius_marak",
+    "name": "Юлиус Маржак",
+    "path": "records/julius_marak.json"
+  },
+  {
+    "id": "julius_paulsen",
+    "name": "Юлиус Паульсен",
+    "path": "records/julius_paulsen.json"
+  },
+  {
+    "id": "yrjo_ollila",
+    "name": "Юрьё Оллила",
+    "path": "records/yrjo_ollila.json"
+  },
+  {
+    "id": "juho_makela",
+    "name": "Юхо Мякеля",
+    "path": "records/juho_makela.json"
+  },
+  {
+    "id": "juho_rissanen",
+    "name": "Юхо Риссанен",
+    "path": "records/juho_rissanen.json"
+  },
+  {
+    "id": "jazeps_grosvalds",
+    "name": "Язепс Гросвалдс",
+    "path": "records/jazeps_grosvalds.json"
+  },
+  {
     "id": "jacob_van_ruisdael",
     "name": "Якоб ван Рёйсдал",
     "path": "records/jacob_van_ruisdael.json"
@@ -225,8 +265,18 @@
     "path": "records/janos_vaszary.json"
   },
   {
+    "id": "janos_nagy_balogh",
+    "name": "Янош Надь-Балог",
+    "path": "records/janos_nagy_balogh.json"
+  },
+  {
     "id": "janos_thorma",
     "name": "Янош Торма",
     "path": "records/janos_thorma.json"
+  },
+  {
+    "id": "janos_tornyai",
+    "name": "Янош Торняи",
+    "path": "records/janos_tornyai.json"
   }
 ]

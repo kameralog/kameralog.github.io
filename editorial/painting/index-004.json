@@ -1,5 +1,35 @@
 [
   {
+    "id": "karoly_kernstok",
+    "name": "Карой Керншток",
+    "path": "records/karoly_kernstok.json"
+  },
+  {
+    "id": "karoly_lotz",
+    "name": "Карой Лотц",
+    "path": "records/karoly_lotz.json"
+  },
+  {
+    "id": "karoly_marko_the_elder",
+    "name": "Карой Марко Старший",
+    "path": "records/karoly_marko_the_elder.json"
+  },
+  {
+    "id": "karoly_ferenczy",
+    "name": "Карой Ференци",
+    "path": "records/karoly_ferenczy.json"
+  },
+  {
+    "id": "caroline_bardua",
+    "name": "Каролина Бардуа",
+    "path": "records/caroline_bardua.json"
+  },
+  {
+    "id": "carolino_da_viterbo",
+    "name": "Каролино да Витербо",
+    "path": "records/carolino_da_viterbo.json"
+  },
+  {
     "id": "caspar_david_friedrich",
     "name": "Каспар Давид Фридрих",
     "path": "records/caspar_david_friedrich.json"
@@ -223,6 +253,11 @@
     "id": "lajos_gulacsy",
     "name": "Лайош Гулачи",
     "path": "records/lajos_gulacsy.json"
+  },
+  {
+    "id": "lajos_deak_ebner",
+    "name": "Лайош Деак-Эбнер",
+    "path": "records/lajos_deak_ebner.json"
   },
   {
     "id": "lajos_kassak",
@@ -463,40 +498,5 @@
     "id": "ernst",
     "name": "Макс Эрнст",
     "path": "records/ernst.json"
-  },
-  {
-    "id": "manaku",
-    "name": "Манаку",
-    "path": "records/manaku.json"
-  },
-  {
-    "id": "manuel_panselinos",
-    "name": "Мануил Панселин",
-    "path": "records/manuel_panselinos.json"
-  },
-  {
-    "id": "margaret_stoddart",
-    "name": "Маргарет Стоддарт",
-    "path": "records/margaret_stoddart.json"
-  },
-  {
-    "id": "margaretha_roosenboom",
-    "name": "Маргарета Розенбом",
-    "path": "records/margaretha_roosenboom.json"
-  },
-  {
-    "id": "margaretta_angelica_peale",
-    "name": "Маргаретта Анжелика Пил",
-    "path": "records/margaretta_angelica_peale.json"
-  },
-  {
-    "id": "marguerite_verboeckhoven",
-    "name": "Маргерит Вербукховен",
-    "path": "records/marguerite_verboeckhoven.json"
-  },
-  {
-    "id": "marguerite_gerard",
-    "name": "Маргерит Жерар",
-    "path": "records/marguerite_gerard.json"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "id": "domenico_ghirlandaio",
+    "name": "Доменико Гирландайо",
+    "path": "records/domenico_ghirlandaio.json"
+  },
+  {
+    "id": "domenico_cresti",
+    "name": "Доменико Крести",
+    "path": "records/domenico_cresti.json"
+  },
+  {
+    "id": "domenico_piola",
+    "name": "Доменико Пиола",
+    "path": "records/domenico_piola.json"
+  },
+  {
     "id": "domenico_fiasella",
     "name": "Доменико Фьязелла",
     "path": "records/domenico_fiasella.json"
@@ -23,6 +38,11 @@
     "id": "gyula_benczur",
     "name": "Дьюла Бенцур",
     "path": "records/gyula_benczur.json"
+  },
+  {
+    "id": "gyula_rudnay",
+    "name": "Дьюла Руднаи",
+    "path": "records/gyula_rudnay.json"
   },
   {
     "id": "hockney",
@@ -240,6 +260,11 @@
     "path": "records/isack_van_ostade.json"
   },
   {
+    "id": "istvan_nagy",
+    "name": "Иштван Надь",
+    "path": "records/istvan_nagy.json"
+  },
+  {
     "id": "istvan_reti",
     "name": "Иштван Рети",
     "path": "records/istvan_reti.json"
@@ -293,6 +318,11 @@
     "id": "jozsef_borsos",
     "name": "Йожеф Боршош",
     "path": "records/jozsef_borsos.json"
+  },
+  {
+    "id": "jozsef_koszta",
+    "name": "Йожеф Коста",
+    "path": "records/jozsef_koszta.json"
   },
   {
     "id": "jozsef_nemes_lamperth",
@@ -468,35 +498,5 @@
     "id": "carlo_cignani",
     "name": "Карло Чиньяни",
     "path": "records/carlo_cignani.json"
-  },
-  {
-    "id": "karoly_kernstok",
-    "name": "Карой Керншток",
-    "path": "records/karoly_kernstok.json"
-  },
-  {
-    "id": "karoly_lotz",
-    "name": "Карой Лотц",
-    "path": "records/karoly_lotz.json"
-  },
-  {
-    "id": "karoly_marko_the_elder",
-    "name": "Карой Марко Старший",
-    "path": "records/karoly_marko_the_elder.json"
-  },
-  {
-    "id": "karoly_ferenczy",
-    "name": "Карой Ференци",
-    "path": "records/karoly_ferenczy.json"
-  },
-  {
-    "id": "caroline_bardua",
-    "name": "Каролина Бардуа",
-    "path": "records/caroline_bardua.json"
-  },
-  {
-    "id": "carolino_da_viterbo",
-    "name": "Каролино да Витербо",
-    "path": "records/carolino_da_viterbo.json"
   }
 ]

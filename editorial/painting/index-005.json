@@ -1,5 +1,40 @@
 [
   {
+    "id": "manaku",
+    "name": "Манаку",
+    "path": "records/manaku.json"
+  },
+  {
+    "id": "manuel_panselinos",
+    "name": "Мануил Панселин",
+    "path": "records/manuel_panselinos.json"
+  },
+  {
+    "id": "margaret_stoddart",
+    "name": "Маргарет Стоддарт",
+    "path": "records/margaret_stoddart.json"
+  },
+  {
+    "id": "margaretha_roosenboom",
+    "name": "Маргарета Розенбом",
+    "path": "records/margaretha_roosenboom.json"
+  },
+  {
+    "id": "margaretta_angelica_peale",
+    "name": "Маргаретта Анжелика Пил",
+    "path": "records/margaretta_angelica_peale.json"
+  },
+  {
+    "id": "marguerite_verboeckhoven",
+    "name": "Маргерит Вербукховен",
+    "path": "records/marguerite_verboeckhoven.json"
+  },
+  {
+    "id": "marguerite_gerard",
+    "name": "Маргерит Жерар",
+    "path": "records/marguerite_gerard.json"
+  },
+  {
     "id": "margit_anna",
     "name": "Маргит Анна",
     "path": "records/margit_anna.json"
@@ -463,40 +498,5 @@
     "id": "odilon_redon",
     "name": "Одилон Редон",
     "path": "records/odilon_redon.json"
-  },
-  {
-    "id": "honore_daumier",
-    "name": "Оноре Домье",
-    "path": "records/honore_daumier.json"
-  },
-  {
-    "id": "orazio_borgianni",
-    "name": "Орацио Борджанни",
-    "path": "records/orazio_borgianni.json"
-  },
-  {
-    "id": "orazio_de_ferrari",
-    "name": "Орацио де Феррари",
-    "path": "records/orazio_de_ferrari.json"
-  },
-  {
-    "id": "orazio_gentileschi",
-    "name": "Орацио Джентилески",
-    "path": "records/orazio_gentileschi.json"
-  },
-  {
-    "id": "oscar_wergeland",
-    "name": "Оскар Вергеланн",
-    "path": "records/oscar_wergeland.json"
-  },
-  {
-    "id": "oskar_kallis",
-    "name": "Оскар Каллис",
-    "path": "records/oskar_kallis.json"
-  },
-  {
-    "id": "oskar_kleineh",
-    "name": "Оскар Клейне",
-    "path": "records/oskar_kleineh.json"
   }
 ]
