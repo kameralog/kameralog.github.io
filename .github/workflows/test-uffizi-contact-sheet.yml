@@ -1,0 +1,101 @@
+name: Test Uffizi contact sheet access
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/test-uffizi-contact-sheet.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  contact-sheet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: museum-reports
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image renderer
+        run: python -m pip install Pillow==11.3.0
+      - name: Generate one test sheet without approving paintings
+        env:
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          python <<'PY'
+          import hashlib, io, json, os, pathlib, textwrap, urllib.request
+          from urllib.parse import urlsplit
+          from PIL import Image, ImageDraw, ImageFont, ImageOps
+          base = pathlib.Path('reports/uffizi-batch-reviews/43472007781-1')
+          summary = json.loads((base/'summary.json').read_text())
+          assert summary['batch'] == 1 and summary['complete'] and summary['processed'] == 50
+          rows = [r for p in summary['parts'] for r in json.loads((base/p['file']).read_text())][:3]
+          assert len(rows) == 3
+          dest = pathlib.Path('reports/uffizi-contact-sheet-tests')/(os.environ['RUN_ID']+'-'+os.environ['RUN_ATTEMPT'])
+          dest.mkdir(parents=True, exist_ok=False)
+          font_path = next(p for p in ['/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf','/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf'] if pathlib.Path(p).is_file())
+          font = ImageFont.truetype(font_path, 18)
+          small = ImageFont.truetype(font_path, 14)
+          canvas = Image.new('RGB', (1500, 850), 'white')
+          draw = ImageDraw.Draw(canvas)
+          draw.text((20, 12), 'UFFIZI BATCH 1: IMAGE ACCESS TEST / NOT APPROVED', fill='black', font=font)
+          manifest = {'sourceReport': str(base), 'purpose': 'Test actual image access, not painting approval', 'visualReviewPerformed': False, 'applyAllowed': False, 'entries': []}
+          Image.MAX_IMAGE_PIXELS = 80000000
+          for i, row in enumerate(rows):
+              assert pathlib.PurePosixPath(row['file']).name == row['file']
+              entry = json.loads((base/row['file']).read_text())
+              img = entry['image']
+              url = img['url']
+              parsed = urlsplit(url)
+              assert parsed.scheme == 'https' and parsed.hostname == 'upload.wikimedia.org' and not parsed.username
+              req = urllib.request.Request(url, headers={'User-Agent': 'UffiziContactSheetTest/1.0 (https://github.com/kameralog/kameralog.github.io)'})
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  assert urlsplit(response.geturl()).hostname == 'upload.wikimedia.org'
+                  data = response.read(64*1024*1024+1)
+              assert 0 < len(data) <= 64*1024*1024
+              image = ImageOps.exif_transpose(Image.open(io.BytesIO(data)))
+              image.load()
+              dimensions = list(image.size)
+              if image.mode == 'RGBA':
+                  background = Image.new('RGBA', image.size, 'white')
+                  background.alpha_composite(image)
+                  image = background.convert('RGB')
+              else:
+                  image = image.convert('RGB')
+              image.thumbnail((460, 570), Image.Resampling.LANCZOS)
+              x = i*500
+              canvas.paste(image, (x+20+(460-image.width)//2, 55+(570-image.height)//2))
+              lines = [str(i+1)+'. '+entry['work'], entry['artist'], entry['title'], img['file']]
+              y = 645
+              for line in lines:
+                  for wrapped in textwrap.wrap(line, width=48)[:3]:
+                      draw.text((x+20, y), wrapped, fill='black', font=small)
+                      y += 18
+              manifest['entries'].append({'number': i+1, 'work': entry['work'], 'artist': entry['artist'], 'title': entry['title'], 'reportFile': row['file'], 'imageFile': img['file'], 'url': url, 'source': img['source'], 'rightsAsRecorded': img['rights'], 'downloadedBytes': len(data), 'dimensions': dimensions, 'sha256': hashlib.sha256(data).hexdigest()})
+          sheet = dest/'sheet.jpg'
+          canvas.save(sheet, quality=90, optimize=True)
+          manifest['sheet'] = str(sheet)
+          manifest['sheetSha256'] = hashlib.sha256(sheet.read_bytes()).hexdigest()
+          (dest/'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+              f.write('Test sheet: `'+str(sheet)+'`\n\nNo visual approval; game files unchanged.\n')
+          PY
+      - name: Save test outputs only
+        env:
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          set -euo pipefail
+          destination="reports/uffizi-contact-sheet-tests/$RUN_ID-$RUN_ATTEMPT"
+          test -s "$destination/sheet.jpg"
+          test -s "$destination/manifest.json"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f -- "$destination/sheet.jpg" "$destination/manifest.json"
+          git commit -m "Save Uffizi contact sheet access test $RUN_ID"
+          git push origin HEAD:refs/heads/museum-reports
