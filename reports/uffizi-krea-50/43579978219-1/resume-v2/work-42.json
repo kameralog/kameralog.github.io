@@ -1,0 +1,17 @@
+{
+  "number": 42,
+  "work": "Q108292260",
+  "previewSha256": "44ed2e19ac8412af9548e5a5f4b8f6bd5047b270657c4032e2223d5dfbeb038a",
+  "modelAssessment": {
+    "number": 42,
+    "visibleDetails": "woman in black velvet dress with elaborate pearl embroidery and lace ruff, wearing a pearl necklace and tiara",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "none",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

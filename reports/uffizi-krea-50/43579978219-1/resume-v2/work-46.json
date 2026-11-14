@@ -1,0 +1,17 @@
+{
+  "number": 46,
+  "work": "Q119164762",
+  "previewSha256": "f34a7f143eab62a70fc50459a6d9f03427939db11b2258de87f8277f84fc7334",
+  "modelAssessment": {
+    "number": 46,
+    "visibleDetails": "man in fur-trimmed reddish-purple coat and red hood, standing beside classical columns with a landscape visible in the window",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "none",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

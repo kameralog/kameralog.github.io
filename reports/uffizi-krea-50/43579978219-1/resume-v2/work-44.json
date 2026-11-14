@@ -1,0 +1,17 @@
+{
+  "number": 44,
+  "work": "Q111304344",
+  "previewSha256": "46b10a67ffb5726d89c82d273f83e9cdf32c00d0f74e44a9f85e515566bd8a9d",
+  "modelAssessment": {
+    "number": 44,
+    "visibleDetails": "woman in dark dress with gold-laced sleeves, holding a small object, standing next to a table with a statue and a carved chair",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "none",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

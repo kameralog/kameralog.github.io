@@ -1,0 +1,17 @@
+{
+  "number": 41,
+  "work": "Q3698198",
+  "previewSha256": "e23727ff5565ea57558a47d5488d84f65288d02bc55154e1b33b5c850dcdb4ed",
+  "modelAssessment": {
+    "number": 41,
+    "visibleDetails": "crucifixion scene with Jesus on the cross and mourners below, mountainous background under an overcast sky",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "yes",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "none",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

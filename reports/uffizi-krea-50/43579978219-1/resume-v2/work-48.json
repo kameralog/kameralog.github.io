@@ -1,0 +1,17 @@
+{
+  "number": 48,
+  "work": "Q124518541",
+  "previewSha256": "a2848f8a5f71a69997a80e30b7ba77c5f5039a232f04ec1a74a8131762d3af26",
+  "modelAssessment": {
+    "number": 48,
+    "visibleDetails": "John the Baptist preaching to a large crowd outdoors near palm trees, with a lamb resting near his feet",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "none",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

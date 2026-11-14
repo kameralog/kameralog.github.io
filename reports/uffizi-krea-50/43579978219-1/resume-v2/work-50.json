@@ -1,0 +1,17 @@
+{
+  "number": 50,
+  "work": "Q124736928",
+  "previewSha256": "40eeeb34ec5165766af050de52a4b5a7204838b4157d2a027bf5111a9f6f5904",
+  "modelAssessment": {
+    "number": 50,
+    "visibleDetails": "bust-length portrait of a reddish-haired woman with pearl tiara, pearl earrings, and pearl necklace, wearing an embroidered patterned dress",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "none",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

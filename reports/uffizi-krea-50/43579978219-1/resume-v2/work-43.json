@@ -1,0 +1,17 @@
+{
+  "number": 43,
+  "work": "Q108478249",
+  "previewSha256": "b91c5422003dbf5f26d3088181bc6e339ef442ba95ffbd71b44ff251213d81c5",
+  "modelAssessment": {
+    "number": 43,
+    "visibleDetails": "portrait of a noblewoman with dark hair, sheer veil, pleated ruff collar, and pearl necklace against a dark background",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "none",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

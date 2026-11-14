@@ -1,0 +1,17 @@
+{
+  "number": 45,
+  "work": "Q117405631",
+  "previewSha256": "9a79f0c6ba5d0d76f14b426930d12b367f8c80f066565a2c4adf3d593dcb3751",
+  "modelAssessment": {
+    "number": 45,
+    "visibleDetails": "close-up portrait of a woman wearing an elaborate lace-trimmed veil, pearl-encrusted headdress, ruff, and jeweled pendant",
+    "wholePaintingVisible": "uncertain",
+    "frameVisible": "yes",
+    "watermarkVisible": "no",
+    "qualityConcerns": "none",
+    "limitations": "cropped composition",
+    "normalizationNotes": []
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}
