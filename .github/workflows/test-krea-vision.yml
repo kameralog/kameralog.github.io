@@ -1,0 +1,112 @@
+name: Test Krea vision access
+on:
+  workflow_dispatch:
+    inputs:
+      acknowledge_cost:
+        description: 'Allow ONE Krea Agent turn; workspace compute units are charged, no hard cost cap; stopping the workflow does not cancel the agent.'
+        type: boolean
+        required: true
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: save-museum-reports
+  cancel-in-progress: false
+jobs:
+  test:
+    if: ${{ inputs.acknowledge_cost == true }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: museum-reports
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: One Agent turn, no automatic resubmission
+        env:
+          KREA_API_KEY: ${{ secrets.KREA_API_KEY }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          python <<'PY'
+          import hashlib, json, os, pathlib, time, urllib.request
+          token = os.environ.get('KREA_API_KEY', '').strip()
+          if not token:
+              raise SystemExit('KREA_API_KEY secret is missing or empty; no API request sent')
+          folder = pathlib.Path('reports/krea-vision-tests')/(os.environ['RUN_ID']+'-'+os.environ['RUN_ATTEMPT'])
+          folder.mkdir(parents=True, exist_ok=False)
+          path = folder/'result.json'
+          source = 'reports/uffizi-contact-sheet-tests/43576476318-1/sheet.jpg'
+          image_url = 'https://raw.githubusercontent.com/kameralog/kameralog.github.io/refs/heads/museum-reports/'+source
+          report = {'provider':'Krea Agent','purpose':'Image access test only','source':source,'visualReviewPerformed':False,'applyAllowed':False,'sendAttempts':0,'status':'preflight'}
+          def save():
+              path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
+          def request(url, body=None, authenticated=False, timeout=60):
+              headers = {'User-Agent':'KameralogKreaVisionTest/1.0'}
+              if authenticated:
+                  assert url.startswith('https://api.krea.ai/agent/')
+                  headers['Authorization'] = 'Bearer '+token
+              if body is not None:
+                  headers['Content-Type'] = 'application/json'
+              req = urllib.request.Request(url, data=None if body is None else json.dumps(body).encode(), headers=headers)
+              with urllib.request.urlopen(req, timeout=timeout) as response:
+                  data = response.read(2097153)
+              assert len(data) <= 2097152, 'Response too large'
+              return data
+          save()
+          prompt = 'Inspect the ONE attached contact sheet containing three numbered painting reproductions. ANALYSIS ONLY. Do not generate, edit, enhance, upscale or create any images, videos, audio or other media. Do not browse, buy anything, or run generation tools. Do not infer authorship or licenses. Do not merely copy the printed labels. Return only a compact JSON object with imageAccessible (boolean), cells (three objects with number, visibleSubjectDetails, wholePaintingVisible (yes/no/uncertain), frameVisible (yes/no/uncertain), watermarkVisible (yes/no/uncertain), qualityConcerns), and limitations. Describe two concrete visible details in each painting. Printed contact-sheet labels are not watermarks. If you cannot actually inspect the attachment, set imageAccessible=false and explain; do not guess. This is a diagnostic test, not approval to publish paintings. Keep the response under 1500 words.'
+          try:
+              data = request(image_url)
+              digest = hashlib.sha256(data).hexdigest()
+              assert digest == '7a89bc1f2b4138e576d6ad1b7f3b1ac1ec9903ee43c48d4f6b1e52dacd005e2e', 'Contact sheet hash mismatch'
+              report['sheetSha256'] = digest
+              body = {'prompt':prompt,'name':'Kameralog three-painting vision test','effort':'fast','attachments':[{'url':image_url,'name':'contact-sheet.jpg','contentType':'image/jpeg'}]}
+              (folder/'request.json').write_text(json.dumps(body, ensure_ascii=False, indent=2), encoding='utf-8')
+              report.update(status='submitting',sendAttempts=1,warning='Never retry a send after a timeout: the turn may still be running. Internal Agent costs are not hard-capped.')
+              save()
+              start = json.loads(request('https://api.krea.ai/agent/send-message', body, True))
+              session, run = start['sessionId'], start['runId']
+              report.update(sessionId=session,runId=run,sessionUrl=start.get('url'),model=start.get('model'),effort=start.get('effort'),status='running')
+              save()
+              deadline = time.monotonic()+180
+              while time.monotonic() < deadline-10:
+                  seconds = min(30, int(deadline-time.monotonic())-10)
+                  result = json.loads(request('https://api.krea.ai/agent/wait-for-session', {'sessionId':session,'runId':run,'timeoutSeconds':seconds}, True, seconds+15))
+                  report['response'] = {k:result[k] for k in ['status','finished','timedOut','text','media','error','url','model','effort'] if k in result}
+                  report['status'] = result.get('status','unknown')
+                  text = result.get('text','')
+                  if isinstance(text,str):
+                      (folder/'agent-response.txt').write_text(text[:100000], encoding='utf-8')
+                  save()
+                  if result.get('finished'):
+                      report['assessmentStatus'] = 'unverified_model_output'
+                      save()
+                      assert result.get('status') == 'completed', 'Agent turn did not complete successfully'
+                      break
+              else:
+                  report.update(status='waiting_stopped_agent_may_continue',resumeInstructions='Read the saved sessionId/runId; do NOT send another message automatically.')
+                  save()
+                  raise RuntimeError('Wait budget exhausted; Agent may continue')
+          except Exception as error:
+              report['failure'] = {'type':type(error).__name__,'httpStatus':getattr(error,'code',None)}
+              if report['status'] == 'submitting':
+                  report['status'] = 'send_result_unknown_check_Krea_before_retry'
+              save()
+              raise SystemExit('Test incomplete; see saved result.json. No automatic resubmission performed.')
+          PY
+      - name: Save only diagnostic results, even on API failure
+        if: always()
+        env:
+          RUN_ID: ${{ github.run_id }}
+          RUN_ATTEMPT: ${{ github.run_attempt }}
+        run: |
+          set -euo pipefail
+          destination="reports/krea-vision-tests/$RUN_ID-$RUN_ATTEMPT"
+          if [ ! -s "$destination/result.json" ]; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -f -- "$destination"
+          git commit -m "Save Krea vision diagnostic $RUN_ID"
+          git push origin HEAD:refs/heads/museum-reports
