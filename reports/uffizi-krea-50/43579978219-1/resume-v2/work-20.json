@@ -1,0 +1,25 @@
+{
+  "number": 20,
+  "work": "Q3292105",
+  "previewSha256": "90f39512cd0e3b4b3fa7c7912217312ba9ed30b35542b378282201a272b8c2e3",
+  "modelAssessment": {
+    "number": 20,
+    "visibleDetails": "Portrait of Saint Mary Magdalene against a dark background with a halo; Inscription across the bodice reading 'S MARIA MADALENA' with the figure's hands crossed",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 10,
+    "reportedVisibleDetails": [
+      "Portrait of Saint Mary Magdalene against a dark background with a halo",
+      "Inscription across the bodice reading 'S MARIA MADALENA' with the figure's hands crossed"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

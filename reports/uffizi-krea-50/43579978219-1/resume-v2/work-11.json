@@ -1,0 +1,25 @@
+{
+  "number": 11,
+  "work": "Q1473546",
+  "previewSha256": "d22b6a335e868748b4b16352ebcf9b44723935de62319cc03a0caee0f095a909",
+  "modelAssessment": {
+    "number": 11,
+    "visibleDetails": "Circular panel painting depicting the Holy Family with Saint John the Baptist and naked figures in the background (Michelangelo's Doni Tondo); Virgin Mary seated in the foreground in pink and blue garments looking back towards Saint Joseph",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 1,
+    "reportedVisibleDetails": [
+      "Circular panel painting depicting the Holy Family with Saint John the Baptist and naked figures in the background (Michelangelo's Doni Tondo)",
+      "Virgin Mary seated in the foreground in pink and blue garments looking back towards Saint Joseph"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

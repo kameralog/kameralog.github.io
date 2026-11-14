@@ -1,0 +1,25 @@
+{
+  "number": 12,
+  "work": "Q114241452",
+  "previewSha256": "68054db4af58bb57ac172f6f1def65676aa7ca1fe00ed69f6b357b950573c3d6",
+  "modelAssessment": {
+    "number": 12,
+    "visibleDetails": "Landscape painting with a large dark tree canopy on the left casting deep shadows; Group of small figures gathered in a clearing under an open sky with hills in the distance",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 2,
+    "reportedVisibleDetails": [
+      "Landscape painting with a large dark tree canopy on the left casting deep shadows",
+      "Group of small figures gathered in a clearing under an open sky with hills in the distance"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

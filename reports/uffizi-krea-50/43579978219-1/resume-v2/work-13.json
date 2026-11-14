@@ -1,0 +1,25 @@
+{
+  "number": 13,
+  "work": "Q51078137",
+  "previewSha256": "fefe1290a9b777bc788628399817a657431ad8ef7c19258e12720a45eebbb9ea",
+  "modelAssessment": {
+    "number": 13,
+    "visibleDetails": "Seascape harbor scene at sunset with large sailing vessels and classical architecture on the right; Crowd of figures gathered on the shore in the foreground with sunlight glinting off the water",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 3,
+    "reportedVisibleDetails": [
+      "Seascape harbor scene at sunset with large sailing vessels and classical architecture on the right",
+      "Crowd of figures gathered on the shore in the foreground with sunlight glinting off the water"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

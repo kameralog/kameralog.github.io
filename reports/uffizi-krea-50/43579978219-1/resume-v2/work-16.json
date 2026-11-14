@@ -1,0 +1,25 @@
+{
+  "number": 16,
+  "work": "Q3201606",
+  "previewSha256": "bbc63705847f0f300ee217c3668bc21f9d36cfdd7514baea8b27a70c4c48f914",
+  "modelAssessment": {
+    "number": 16,
+    "visibleDetails": "Agony in the Garden scene with Christ kneeling in prayer on a rocky mound; An angel descending from the upper left holding a chalice, with sleeping apostles below",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 6,
+    "reportedVisibleDetails": [
+      "Agony in the Garden scene with Christ kneeling in prayer on a rocky mound",
+      "An angel descending from the upper left holding a chalice, with sleeping apostles below"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

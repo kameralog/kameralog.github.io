@@ -1,0 +1,25 @@
+{
+  "number": 15,
+  "work": "Q3797775",
+  "previewSha256": "76c481ae718c9a57b2e07069d28f8c1d50c0e9324d18bdc8fd80268802fa0263",
+  "modelAssessment": {
+    "number": 15,
+    "visibleDetails": "Elaborate Gothic polyptych altarpiece with gold ground, pinnacles, and a central Coronation of the Virgin; Numerous saints and angels arranged in registers surrounding the central scene",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "yes",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 5,
+    "reportedVisibleDetails": [
+      "Elaborate Gothic polyptych altarpiece with gold ground, pinnacles, and a central Coronation of the Virgin",
+      "Numerous saints and angels arranged in registers surrounding the central scene"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

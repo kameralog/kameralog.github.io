@@ -1,0 +1,25 @@
+{
+  "number": 17,
+  "work": "Q3207678",
+  "previewSha256": "12eb4873c3638ff295b7767efef270c54ef9f66e3ad54b4604039174268dbfb9",
+  "modelAssessment": {
+    "number": 17,
+    "visibleDetails": "Lamentation scene with Christ's body supported by mourners and the Virgin Mary; Landscape background with a walled town and distant hills under a pale sky",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 7,
+    "reportedVisibleDetails": [
+      "Lamentation scene with Christ's body supported by mourners and the Virgin Mary",
+      "Landscape background with a walled town and distant hills under a pale sky"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

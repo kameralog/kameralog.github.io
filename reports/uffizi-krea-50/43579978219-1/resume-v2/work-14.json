@@ -1,0 +1,25 @@
+{
+  "number": 14,
+  "work": "Q3605536",
+  "previewSha256": "e58ce88c5dfc52892b261f068edd31b4f2d682404e7e33be641499b768192e17",
+  "modelAssessment": {
+    "number": 14,
+    "visibleDetails": "Altarpiece with gold ground and pointed arches showing the Nativity and the Adoration of the Magi; Multiple figures including the Virgin Mary, Joseph, and the Magi kneeling before the Christ child",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "yes",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 4,
+    "reportedVisibleDetails": [
+      "Altarpiece with gold ground and pointed arches showing the Nativity and the Adoration of the Magi",
+      "Multiple figures including the Virgin Mary, Joseph, and the Magi kneeling before the Christ child"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

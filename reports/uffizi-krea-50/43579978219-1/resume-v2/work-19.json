@@ -1,0 +1,25 @@
+{
+  "number": 19,
+  "work": "Q3213789",
+  "previewSha256": "b3601bc04c6319be65cf9860f26fdf20bc5af1633df329894299a2ed29f91619",
+  "modelAssessment": {
+    "number": 19,
+    "visibleDetails": "Madonna and Child enthroned within an architectural arched setting; Saint John the Baptist standing on the left holding a cross and Saint Sebastian on the right pierced by arrows",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 9,
+    "reportedVisibleDetails": [
+      "Madonna and Child enthroned within an architectural arched setting",
+      "Saint John the Baptist standing on the left holding a cross and Saint Sebastian on the right pierced by arrows"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

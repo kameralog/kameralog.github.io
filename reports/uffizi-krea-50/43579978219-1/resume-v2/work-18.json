@@ -1,0 +1,25 @@
+{
+  "number": 18,
+  "work": "Q3213753",
+  "previewSha256": "5e2c9c0c040157480bd740e97f0689cafa6014dfd4ccf58011c0b11e1cb5b71d",
+  "modelAssessment": {
+    "number": 18,
+    "visibleDetails": "Virgin and Child with the young Saint John the Baptist and an angel; Virgin Mary standing in the center with hands clasped in prayer before a landscape background",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "None",
+    "reportedNumber": 8,
+    "reportedVisibleDetails": [
+      "Virgin and Child with the young Saint John the Baptist and an angel",
+      "Virgin Mary standing in the center with hands clasped in prayer before a landscape background"
+    ],
+    "normalizationNotes": [
+      "Local 1-10 mapped to batch numbers by verified attachment order; this does not authenticate image identity.",
+      "List of visible details joined for schema compatibility; original list preserved."
+    ]
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}
