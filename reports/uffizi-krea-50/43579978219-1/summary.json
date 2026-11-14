@@ -20,7 +20,7 @@
         9,
         10
       ],
-      "status": "submitting",
+      "status": "send_result_unknown_check_Krea_before_retry",
       "assessmentStatus": "unverified_model_output"
     }
   ],
@@ -29,5 +29,9 @@
   "humanVisualReviewPerformed": false,
   "assessmentStatus": "unverified_model_output",
   "warning": "No hard cost cap. Internal Agent spending is automatic. Stopping this workflow does not cancel Agent turns. Never resend unknown or running turns automatically.",
-  "imageSnapshot": "ff9f18739a9fc7033590e276819358133349ec17"
+  "imageSnapshot": "ff9f18739a9fc7033590e276819358133349ec17",
+  "failure": {
+    "type": "CalledProcessError",
+    "httpStatus": null
+  }
 }
