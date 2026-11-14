@@ -1,0 +1,16 @@
+{
+  "number": 4,
+  "work": "Q110896440",
+  "previewSha256": "aef483b341deb8c2a8c585a1ec43d444cf4dd1fbba73709d0955089bcfbea204",
+  "modelAssessment": {
+    "number": 4,
+    "visibleDetails": "Ornate crowned woman with jeweled bodice and collar holding a white cloth",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

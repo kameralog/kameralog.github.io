@@ -1,0 +1,16 @@
+{
+  "number": 9,
+  "work": "Q116912709",
+  "previewSha256": "d62d4e15e459b2e5d8f97ad0589ab3a422316793a1b6b5ebc8a912139d1bbfb8",
+  "modelAssessment": {
+    "number": 9,
+    "visibleDetails": "Man holding artist's palette and brushes with a sketch on an easel in the background",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

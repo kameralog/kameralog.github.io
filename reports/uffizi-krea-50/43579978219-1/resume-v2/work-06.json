@@ -1,0 +1,16 @@
+{
+  "number": 6,
+  "work": "Q3937680",
+  "previewSha256": "363f1d600b28bfdf8bce63f54dd1e16aac0f735c16548f2817c87803fe25852b",
+  "modelAssessment": {
+    "number": 6,
+    "visibleDetails": "Portrait of a woman wearing a laurel crown, white blouse, and fur wrap over her shoulder",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

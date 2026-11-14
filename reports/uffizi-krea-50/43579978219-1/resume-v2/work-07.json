@@ -1,0 +1,16 @@
+{
+  "number": 7,
+  "work": "Q47530532",
+  "previewSha256": "1169b84a6e421c5105c8f518b22bcec055aa51877fb9b56069f8a00eaa1df4bf",
+  "modelAssessment": {
+    "number": 7,
+    "visibleDetails": "Torture scene with men using pincers on a woman's chest, architectural background",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

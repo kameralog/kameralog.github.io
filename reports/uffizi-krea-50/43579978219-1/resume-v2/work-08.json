@@ -1,0 +1,16 @@
+{
+  "number": 8,
+  "work": "Q114241461",
+  "previewSha256": "5ecae90ae17c2b77a0a8217029d58db793d1649bbab9965a2464bf0931fa3a1b",
+  "modelAssessment": {
+    "number": 8,
+    "visibleDetails": "Elderly man with white hair, clerical collar, and cross necklace",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

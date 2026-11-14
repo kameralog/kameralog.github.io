@@ -1,0 +1,16 @@
+{
+  "number": 1,
+  "work": "Q3605529",
+  "previewSha256": "9a98b5ad929aaa1c0df1f1babc2908316b0a5ed94f2ed4ab7b7a08b5a23d8afa",
+  "modelAssessment": {
+    "number": 1,
+    "visibleDetails": "Kneeling Magi figures, Virgin Mary holding the infant Jesus",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

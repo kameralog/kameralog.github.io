@@ -1,0 +1,16 @@
+{
+  "number": 2,
+  "work": "Q28798129",
+  "previewSha256": "fd3a7a05b8e991abb40ef50fdc1b2fbda4405df904a244b70755bb94a63aa7ed",
+  "modelAssessment": {
+    "number": 2,
+    "visibleDetails": "Profile portrait of a woman with elaborate headdress and jeweled collar, landscape background",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

@@ -1,0 +1,16 @@
+{
+  "number": 10,
+  "work": "Q19361563",
+  "previewSha256": "417a641f5decb68fff2f2952afc53a3afac33564d961e5b35a9a350a1d3543d0",
+  "modelAssessment": {
+    "number": 10,
+    "visibleDetails": "Artist holding palette and brushes, wearing a black dress and yellow scarf, hand shielding eyes",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}

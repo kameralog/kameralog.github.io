@@ -1,0 +1,16 @@
+{
+  "number": 3,
+  "work": "Q52155602",
+  "previewSha256": "3883954d7b0a8a2895e6d26dc193f7ca32cee76a60b10e2f270dbd3329c18c07",
+  "modelAssessment": {
+    "number": 3,
+    "visibleDetails": "Long-haired man holding a small framed landscape painting in his hand",
+    "wholePaintingVisible": "yes",
+    "frameVisible": "no",
+    "watermarkVisible": "no",
+    "qualityConcerns": "None",
+    "limitations": "Captured rectangle is complete; full original composition visible."
+  },
+  "assessmentStatus": "unverified_model_output",
+  "applyAllowed": false
+}
