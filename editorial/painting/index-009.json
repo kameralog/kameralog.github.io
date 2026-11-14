@@ -1,5 +1,55 @@
 [
   {
+    "id": "jacob_van_ruisdael",
+    "name": "Якоб ван Рёйсдал",
+    "path": "records/jacob_van_ruisdael.json"
+  },
+  {
+    "id": "jacob_duck",
+    "name": "Якоб Дюк",
+    "path": "records/jacob_duck.json"
+  },
+  {
+    "id": "jacob_cornelisz_van_oostsanen",
+    "name": "Якоб Корнелис ван Остсанен",
+    "path": "records/jacob_cornelisz_van_oostsanen.json"
+  },
+  {
+    "id": "jacob_ochtervelt",
+    "name": "Якоб Охтервелт",
+    "path": "records/jacob_ochtervelt.json"
+  },
+  {
+    "id": "jacob_pynas",
+    "name": "Якоб Пейнас",
+    "path": "records/jacob_pynas.json"
+  },
+  {
+    "id": "jacoba_van_heemskerck",
+    "name": "Якоба ван Хемскерк",
+    "path": "records/jacoba_van_heemskerck.json"
+  },
+  {
+    "id": "jacopo_bassano",
+    "name": "Якопо Бассано",
+    "path": "records/jacopo_bassano.json"
+  },
+  {
+    "id": "jacopo_vignali",
+    "name": "Якопо Виньяли",
+    "path": "records/jacopo_vignali.json"
+  },
+  {
+    "id": "jacopo_del_sellaio",
+    "name": "Якопо дель Селлайо",
+    "path": "records/jacopo_del_sellaio.json"
+  },
+  {
+    "id": "jacopo_chimenti",
+    "name": "Якопо Кименти",
+    "path": "records/jacopo_chimenti.json"
+  },
+  {
     "id": "jacopo_ligozzi",
     "name": "Якопо Лигоцци",
     "path": "records/jacopo_ligozzi.json"

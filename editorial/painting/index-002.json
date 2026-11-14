@@ -1,5 +1,10 @@
 [
   {
+    "id": "gerbrand_van_den_eeckhout",
+    "name": "Гербранд ван ден Экхаут",
+    "path": "records/gerbrand_van_den_eeckhout.json"
+  },
+  {
     "id": "gerrit_berckheyde",
     "name": "Геррит Беркхейде",
     "path": "records/gerrit_berckheyde.json"
@@ -123,6 +128,11 @@
     "id": "dante_gabriel_rossetti",
     "name": "Данте Габриэль Россетти",
     "path": "records/dante_gabriel_rossetti.json"
+  },
+  {
+    "id": "dezso_korniss",
+    "name": "Дежё Корниш",
+    "path": "records/dezso_korniss.json"
   },
   {
     "id": "dezso_orban",
@@ -488,15 +498,5 @@
     "id": "domenico_piola",
     "name": "Доменико Пиола",
     "path": "records/domenico_piola.json"
-  },
-  {
-    "id": "domenico_fiasella",
-    "name": "Доменико Фьязелла",
-    "path": "records/domenico_fiasella.json"
-  },
-  {
-    "id": "dora_wahlroos",
-    "name": "Дора Вальрус",
-    "path": "records/dora_wahlroos.json"
   }
 ]

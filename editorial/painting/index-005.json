@@ -1,5 +1,50 @@
 [
   {
+    "id": "margit_anna",
+    "name": "Маргит Анна",
+    "path": "records/margit_anna.json"
+  },
+  {
+    "id": "marie_van_regteren_altena",
+    "name": "Мари ван Регтерен Алтена",
+    "path": "records/marie_van_regteren_altena.json"
+  },
+  {
+    "id": "marie_de_bievre",
+    "name": "Мари де Бьевр",
+    "path": "records/marie_de_bievre.json"
+  },
+  {
+    "id": "marie_cazin",
+    "name": "Мари Казен",
+    "path": "records/marie_cazin.json"
+  },
+  {
+    "id": "marie_collart",
+    "name": "Мари Коллар",
+    "path": "records/marie_collart.json"
+  },
+  {
+    "id": "marie_kroyer",
+    "name": "Мари Крёйер",
+    "path": "records/marie_kroyer.json"
+  },
+  {
+    "id": "marie_luplau",
+    "name": "Мари Луплау",
+    "path": "records/marie_luplau.json"
+  },
+  {
+    "id": "marie_antoinette_marcotte",
+    "name": "Мари-Антуанетта Маркотт",
+    "path": "records/marie_antoinette_marcotte.json"
+  },
+  {
+    "id": "marie_victoire_lemoine",
+    "name": "Мари-Виктуар Лемуан",
+    "path": "records/marie_victoire_lemoine.json"
+  },
+  {
     "id": "marie_gabrielle_capet",
     "name": "Мари-Габриэль Капе",
     "path": "records/marie_gabrielle_capet.json"
@@ -453,50 +498,5 @@
     "id": "oskar_kleineh",
     "name": "Оскар Клейне",
     "path": "records/oskar_kleineh.json"
-  },
-  {
-    "id": "kokoschka",
-    "name": "Оскар Кокошка",
-    "path": "records/kokoschka.json"
-  },
-  {
-    "id": "otakar_lebeda",
-    "name": "Отакар Лебеда",
-    "path": "records/otakar_lebeda.json"
-  },
-  {
-    "id": "pablo_picasso",
-    "name": "Пабло Пикассо",
-    "path": "records/pablo_picasso.json"
-  },
-  {
-    "id": "filonov",
-    "name": "Павел Филонов",
-    "path": "records/filonov.json"
-  },
-  {
-    "id": "pal_szinyei_merse",
-    "name": "Пал Синьеи-Мерше",
-    "path": "records/pal_szinyei_merse.json"
-  },
-  {
-    "id": "paolo_veronese",
-    "name": "Паоло Веронезе",
-    "path": "records/paolo_veronese.json"
-  },
-  {
-    "id": "paolo_porpora",
-    "name": "Паоло Порпора",
-    "path": "records/paolo_porpora.json"
-  },
-  {
-    "id": "paolo_uccello",
-    "name": "Паоло Уччелло",
-    "path": "records/paolo_uccello.json"
-  },
-  {
-    "id": "parmigianino",
-    "name": "Пармиджанино",
-    "path": "records/parmigianino.json"
   }
 ]

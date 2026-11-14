@@ -85,6 +85,11 @@
     "path": "records/bela_ivanyi_grunwald.json"
   },
   {
+    "id": "bela_uitz",
+    "name": "Бела Уиц",
+    "path": "records/bela_uitz.json"
+  },
+  {
     "id": "bela_czobel",
     "name": "Бела Цобель",
     "path": "records/bela_czobel.json"
@@ -493,10 +498,5 @@
     "id": "gerardina_van_de_sande_bakhuyzen",
     "name": "Герардина Якоба ван де Санде Бакхёйзен",
     "path": "records/gerardina_van_de_sande_bakhuyzen.json"
-  },
-  {
-    "id": "gerbrand_van_den_eeckhout",
-    "name": "Гербранд ван ден Экхаут",
-    "path": "records/gerbrand_van_den_eeckhout.json"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": "sophie_anderson",
+    "name": "Софи Андерсон",
+    "path": "records/sophie_anderson.json"
+  },
+  {
+    "id": "sofonisba_anguissola",
+    "name": "Софонисба Ангвиссола",
+    "path": "records/sofonisba_anguissola.json"
+  },
+  {
+    "id": "stefan_lochner",
+    "name": "Стефан Лохнер",
+    "path": "records/stefan_lochner.json"
+  },
+  {
+    "id": "susanna_van_steenwijck",
+    "name": "Сусанна ван Стенвейк",
+    "path": "records/susanna_van_steenwijck.json"
+  },
+  {
+    "id": "susan_watkins",
+    "name": "Сьюзен Уоткинс",
+    "path": "records/susan_watkins.json"
+  },
+  {
+    "id": "susie_moore_barstow",
+    "name": "Сьюзи Мур Барстоу",
+    "path": "records/susie_moore_barstow.json"
+  },
+  {
+    "id": "sesshu_toyo",
+    "name": "Сэссю Тоё",
+    "path": "records/sesshu_toyo.json"
+  },
+  {
+    "id": "suze_robertson",
+    "name": "Сюзе Робертсон",
+    "path": "records/suze_robertson.json"
+  },
+  {
+    "id": "xia_gui",
+    "name": "Ся Гуй",
+    "path": "records/xia_gui.json"
+  },
+  {
     "id": "xiao_yuncong",
     "name": "Сяо Юньцун",
     "path": "records/xiao_yuncong.json"
@@ -453,50 +498,5 @@
     "id": "helene_schjerfbeck",
     "name": "Хелена Шерфбек",
     "path": "records/helene_schjerfbeck.json"
-  },
-  {
-    "id": "hendrick_avercamp",
-    "name": "Хендрик Аверкамп",
-    "path": "records/hendrick_avercamp.json"
-  },
-  {
-    "id": "hendrick_van_steenwyck_the_younger",
-    "name": "Хендрик ван Стенвейк Младший",
-    "path": "records/hendrick_van_steenwyck_the_younger.json"
-  },
-  {
-    "id": "hendrick_van_steenwyck_the_elder",
-    "name": "Хендрик ван Стенвейк Старший",
-    "path": "records/hendrick_van_steenwyck_the_elder.json"
-  },
-  {
-    "id": "hendrick_goltzius",
-    "name": "Хендрик Гольциус",
-    "path": "records/hendrick_goltzius.json"
-  },
-  {
-    "id": "hendrick_dubbels",
-    "name": "Хендрик Дюббелс",
-    "path": "records/hendrick_dubbels.json"
-  },
-  {
-    "id": "hendrick_martensz_sorgh",
-    "name": "Хендрик Мартенс Сорг",
-    "path": "records/hendrick_martensz_sorgh.json"
-  },
-  {
-    "id": "hendrick_ter_brugghen",
-    "name": "Хендрик тер Брюгген",
-    "path": "records/hendrick_ter_brugghen.json"
-  },
-  {
-    "id": "herman_van_swanevelt",
-    "name": "Херман ван Сваневелт",
-    "path": "records/herman_van_swanevelt.json"
-  },
-  {
-    "id": "herman_saftleven",
-    "name": "Херман Сафтлевен",
-    "path": "records/herman_saftleven.json"
   }
 ]

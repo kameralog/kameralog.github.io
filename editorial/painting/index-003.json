@@ -1,5 +1,15 @@
 [
   {
+    "id": "domenico_fiasella",
+    "name": "Доменико Фьязелла",
+    "path": "records/domenico_fiasella.json"
+  },
+  {
+    "id": "dora_wahlroos",
+    "name": "Дора Вальрус",
+    "path": "records/dora_wahlroos.json"
+  },
+  {
     "id": "dorothy_kate_richmond",
     "name": "Дороти Кейт Ричмонд",
     "path": "records/dorothy_kate_richmond.json"
@@ -38,6 +48,11 @@
     "id": "yokoyama_taikan",
     "name": "Ёкояма Тайкан",
     "path": "records/yokoyama_taikan.json"
+  },
+  {
+    "id": "jeno_barcsay",
+    "name": "Енё Барчаи",
+    "path": "records/jeno_barcsay.json"
   },
   {
     "id": "yosa_buson",
@@ -205,6 +220,11 @@
     "path": "records/repin.json"
   },
   {
+    "id": "imre_amos",
+    "name": "Имре Амош",
+    "path": "records/imre_amos.json"
+  },
+  {
     "id": "johann_koerbecke",
     "name": "Иоганн Кёрбеке",
     "path": "records/johann_koerbecke.json"
@@ -273,6 +293,11 @@
     "id": "jozsef_borsos",
     "name": "Йожеф Боршош",
     "path": "records/jozsef_borsos.json"
+  },
+  {
+    "id": "jozsef_nemes_lamperth",
+    "name": "Йожеф Немеш-Ламперт",
+    "path": "records/jozsef_nemes_lamperth.json"
   },
   {
     "id": "jozsef_rippl_ronai",
@@ -473,30 +498,5 @@
     "id": "carolino_da_viterbo",
     "name": "Каролино да Витербо",
     "path": "records/carolino_da_viterbo.json"
-  },
-  {
-    "id": "caspar_david_friedrich",
-    "name": "Каспар Давид Фридрих",
-    "path": "records/caspar_david_friedrich.json"
-  },
-  {
-    "id": "catharina_van_hemessen",
-    "name": "Катарина ван Хемессен",
-    "path": "records/catharina_van_hemessen.json"
-  },
-  {
-    "id": "caterino_veneziano",
-    "name": "Катерино Венециано",
-    "path": "records/caterino_veneziano.json"
-  },
-  {
-    "id": "quinten_massys",
-    "name": "Квентин Массейс",
-    "path": "records/quinten_massys.json"
-  },
-  {
-    "id": "quiringh_van_brekelenkam",
-    "name": "Квирин ван Брекеленкам",
-    "path": "records/quiringh_van_brekelenkam.json"
   }
 ]

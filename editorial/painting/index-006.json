@@ -1,5 +1,50 @@
 [
   {
+    "id": "kokoschka",
+    "name": "Оскар Кокошка",
+    "path": "records/kokoschka.json"
+  },
+  {
+    "id": "otakar_lebeda",
+    "name": "Отакар Лебеда",
+    "path": "records/otakar_lebeda.json"
+  },
+  {
+    "id": "pablo_picasso",
+    "name": "Пабло Пикассо",
+    "path": "records/pablo_picasso.json"
+  },
+  {
+    "id": "filonov",
+    "name": "Павел Филонов",
+    "path": "records/filonov.json"
+  },
+  {
+    "id": "pal_szinyei_merse",
+    "name": "Пал Синьеи-Мерше",
+    "path": "records/pal_szinyei_merse.json"
+  },
+  {
+    "id": "paolo_veronese",
+    "name": "Паоло Веронезе",
+    "path": "records/paolo_veronese.json"
+  },
+  {
+    "id": "paolo_porpora",
+    "name": "Паоло Порпора",
+    "path": "records/paolo_porpora.json"
+  },
+  {
+    "id": "paolo_uccello",
+    "name": "Паоло Уччелло",
+    "path": "records/paolo_uccello.json"
+  },
+  {
+    "id": "parmigianino",
+    "name": "Пармиджанино",
+    "path": "records/parmigianino.json"
+  },
+  {
     "id": "paul_bril",
     "name": "Пауль Бриль",
     "path": "records/paul_bril.json"
@@ -453,50 +498,5 @@
     "id": "sodoma",
     "name": "Содома",
     "path": "records/sodoma.json"
-  },
-  {
-    "id": "sophie_anderson",
-    "name": "Софи Андерсон",
-    "path": "records/sophie_anderson.json"
-  },
-  {
-    "id": "sofonisba_anguissola",
-    "name": "Софонисба Ангвиссола",
-    "path": "records/sofonisba_anguissola.json"
-  },
-  {
-    "id": "stefan_lochner",
-    "name": "Стефан Лохнер",
-    "path": "records/stefan_lochner.json"
-  },
-  {
-    "id": "susanna_van_steenwijck",
-    "name": "Сусанна ван Стенвейк",
-    "path": "records/susanna_van_steenwijck.json"
-  },
-  {
-    "id": "susan_watkins",
-    "name": "Сьюзен Уоткинс",
-    "path": "records/susan_watkins.json"
-  },
-  {
-    "id": "susie_moore_barstow",
-    "name": "Сьюзи Мур Барстоу",
-    "path": "records/susie_moore_barstow.json"
-  },
-  {
-    "id": "sesshu_toyo",
-    "name": "Сэссю Тоё",
-    "path": "records/sesshu_toyo.json"
-  },
-  {
-    "id": "suze_robertson",
-    "name": "Сюзе Робертсон",
-    "path": "records/suze_robertson.json"
-  },
-  {
-    "id": "xia_gui",
-    "name": "Ся Гуй",
-    "path": "records/xia_gui.json"
   }
 ]

@@ -1,5 +1,30 @@
 [
   {
+    "id": "caspar_david_friedrich",
+    "name": "Каспар Давид Фридрих",
+    "path": "records/caspar_david_friedrich.json"
+  },
+  {
+    "id": "catharina_van_hemessen",
+    "name": "Катарина ван Хемессен",
+    "path": "records/catharina_van_hemessen.json"
+  },
+  {
+    "id": "caterino_veneziano",
+    "name": "Катерино Венециано",
+    "path": "records/caterino_veneziano.json"
+  },
+  {
+    "id": "quinten_massys",
+    "name": "Квентин Массейс",
+    "path": "records/quinten_massys.json"
+  },
+  {
+    "id": "quiringh_van_brekelenkam",
+    "name": "Квирин ван Брекеленкам",
+    "path": "records/quiringh_van_brekelenkam.json"
+  },
+  {
     "id": "kate_bunce",
     "name": "Кейт Банс",
     "path": "records/kate_bunce.json"
@@ -188,6 +213,21 @@
     "id": "lavinia_fontana",
     "name": "Лавиния Фонтана",
     "path": "records/lavinia_fontana.json"
+  },
+  {
+    "id": "lajos_vajda",
+    "name": "Лайош Вайда",
+    "path": "records/lajos_vajda.json"
+  },
+  {
+    "id": "lajos_gulacsy",
+    "name": "Лайош Гулачи",
+    "path": "records/lajos_gulacsy.json"
+  },
+  {
+    "id": "lajos_kassak",
+    "name": "Лайош Кашшак",
+    "path": "records/lajos_kassak.json"
   },
   {
     "id": "lajos_tihanyi",
@@ -458,45 +498,5 @@
     "id": "marguerite_gerard",
     "name": "Маргерит Жерар",
     "path": "records/marguerite_gerard.json"
-  },
-  {
-    "id": "marie_van_regteren_altena",
-    "name": "Мари ван Регтерен Алтена",
-    "path": "records/marie_van_regteren_altena.json"
-  },
-  {
-    "id": "marie_de_bievre",
-    "name": "Мари де Бьевр",
-    "path": "records/marie_de_bievre.json"
-  },
-  {
-    "id": "marie_cazin",
-    "name": "Мари Казен",
-    "path": "records/marie_cazin.json"
-  },
-  {
-    "id": "marie_collart",
-    "name": "Мари Коллар",
-    "path": "records/marie_collart.json"
-  },
-  {
-    "id": "marie_kroyer",
-    "name": "Мари Крёйер",
-    "path": "records/marie_kroyer.json"
-  },
-  {
-    "id": "marie_luplau",
-    "name": "Мари Луплау",
-    "path": "records/marie_luplau.json"
-  },
-  {
-    "id": "marie_antoinette_marcotte",
-    "name": "Мари-Антуанетта Маркотт",
-    "path": "records/marie_antoinette_marcotte.json"
-  },
-  {
-    "id": "marie_victoire_lemoine",
-    "name": "Мари-Виктуар Лемуан",
-    "path": "records/marie_victoire_lemoine.json"
   }
 ]
