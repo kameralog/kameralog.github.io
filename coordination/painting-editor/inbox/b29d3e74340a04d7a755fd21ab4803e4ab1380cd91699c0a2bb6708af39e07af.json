@@ -1,0 +1,973 @@
+{
+  "schemaVersion": 1,
+  "kind": "approved-editorial-briefs",
+  "sourceCommit": "6921c77825819331e1315adfee31d12b2368cf22",
+  "submittedAt": "2026-11-14T09:28:30.115Z",
+  "artists": [
+    {
+      "id": "judith_leyster",
+      "name": "Юдит Лейстер",
+      "status": "approved",
+      "mainDirection": "больше про ее биографию и путь женщины в искусстве в ту эпоху",
+      "customDirection": "больше про ее биографию и путь женщины в искусстве в ту эпоху",
+      "selectedDirection": "",
+      "synopsis": "Открыть попойкой и скелетом, которого персонажи не замечают. Через костюм и музейное предположение о вечере перед постом раскрыть тему неумеренности, не назначая личности участникам.",
+      "researchNote": "",
+      "editorRevision": 62,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Philadelphia Museum of Art: The Last Drop",
+          "url": "https://www.philamuseum.org/objects/102220"
+        }
+      ],
+      "facts": [
+        {
+          "text": "«Последняя капля» в Филадельфии датируется около 1629; скелет держит песочные часы и череп.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не заменять текущую датировку старой около 1639. Историю поздней записи и расчистки дополнить отдельным источником."
+      ]
+    },
+    {
+      "id": "jacob_duck",
+      "name": "Якоб Дюк",
+      "status": "approved",
+      "mainDirection": "Солдаты вне боя",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Начать с конюшни и военного снаряжения, затем сопоставить повторяющиеся фигуры в разных композициях. Каталожные наблюдения о переносе контуров отличать от окончательной расшифровки сюжета.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: Soldiers in a Stable",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Soldiers-in-a-Stable--8db1d8ae8db83a55b5c94161336c047d?tab=catalogue"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SK-A-93 датируется около 1655; каталог связывает совпадения контуров с переносом фигур по рисункам.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Общий смысл этой сцены остаётся неясным. Не превращать возможный нравоучительный подтекст в установленную программу."
+      ]
+    },
+    {
+      "id": "jacob_cornelisz_van_oostsanen",
+      "name": "Якоб Корнелис ван Остсанен",
+      "status": "approved",
+      "mainDirection": "Шабаш на первом плане",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать с контраста небольшого Саула в глубине и фантастического шабаша перед зрителем. Показать, как объединены библейское повествование и небиблейские мотивы колдовства.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: Saul and the Witch of Endor",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Saul-and-the-Witch-of-Endor--9b643168e98f68727a117b6ff19d6d9e"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SK-A-668 несёт дату 29 ноября 1526; каталог отделяет библейский рассказ от сцены шабаша.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Исторические представления о колдовстве не подтверждают магию; причина выбора столь точной даты не установлена."
+      ]
+    },
+    {
+      "id": "jacob_ochtervelt",
+      "name": "Якоб Охтервелт",
+      "status": "approved",
+      "mainDirection": "Ножницы вместо события",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Войти через подстригание ногтей: небольшое действие связывает фигуры и роскошные вещи. Проследить повторение серебряной посуды в других интерьерах, сохраняя неопределённость сюжета шпалеры.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG2553",
+          "url": "https://www.nationalgallery.org.uk/paintings/jacob-ochtervelt-a-young-lady-trimming-her-fingernails"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG2553 датируется предположительно 1670–1675; музей не может уверенно определить повествование на шпалере.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не назначать личность модели и сюжет шпалеры. Назначение большого таза музей формулирует предположительно."
+      ]
+    },
+    {
+      "id": "jacob_pynas",
+      "name": "Якоб Пейнас",
+      "status": "approved",
+      "mainDirection": "Миф как пейзаж",
+      "customDirection": "",
+      "selectedDirection": "method",
+      "synopsis": "Начать с Нарцисса у затенённого водоёма. Затем проследить потоки и скалы, в которых музей предлагает видеть присутствие Эхо; природу рассмотреть как часть рассказа, а не фон.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG6460",
+          "url": "https://www.nationalgallery.org.uk/paintings/jacob-pynas-mountain-landscape-with-narcissus"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG6460 подписан и датирован 1628; рельеф у бассейна отсылает к похищению Европы.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не путать с Яном Пейнасом. Эхо в скалах — музейная интерпретация, не различимая человеческая фигура."
+      ]
+    },
+    {
+      "id": "jacoba_van_heemskerck",
+      "name": "Якоба ван Хемскерк",
+      "status": "approved",
+      "mainDirection": "Остров и абстракция",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Отправная точка — «Композиция № 62 — Остров». Поставить вопрос о связи контура и формы; биографию, витражи и отношения с Der Sturm дополнить профильными источниками до полной статьи.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Kunstmuseum: Composition No. 62 (Island)",
+          "url": "https://www.kunstmuseum.nl/en/collection/composition-no-62-island"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Kunstmuseum указывает 1917, масло на холсте, 106 × 207,1 см; место создания — Домбург.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Ограниченное объектное досье: полная страница не загрузилась, использована музейная поисковая выдержка. Не путать с № 6."
+      ]
+    },
+    {
+      "id": "jacopo_ligozzi",
+      "name": "Якопо Лигоцци",
+      "status": "approved",
+      "mainDirection": "Монеты становятся бабочками",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Начать с монет, выходящих бабочками, и равновесия Фортуны на сфере. Связать точность насекомых с натуралистическими занятиями Лигоцци; предполагаемую функцию панели сохранить открытой.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Uffizi: Allegory of Fortune",
+          "url": "https://www.uffizi.it/en/artworks/ligozzi-fortune"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Уффици датируют «Аллегорию Фортуны» 1580–1599; масло на дереве, 44 × 26,5 см.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Спутник может быть Временем или Смертью. Дверца мебели или оборот зеркала — варианты, не установленная единственная функция."
+      ]
+    },
+    {
+      "id": "jakub_schikaneder",
+      "name": "Якуб Шиканедер",
+      "status": "approved",
+      "mainDirection": "Большой формат бытовой сцены",
+      "customDirection": "",
+      "selectedDirection": "method",
+      "synopsis": "Начать с соседей, обнаруживших погибшую женщину во дворе. Через подготовительные рисунки исследовать распределение реакций; не дописывать за художника преступника и мотив.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "NG Prague: Preparatory Work for Murder in the House",
+          "url": "https://www.ngprague.cz/en/event/3717/priprava-na-vrazdu-v-dome-kresebne-studie-jakuba-schikanedera"
+        },
+        {
+          "title": "NG Prague: O 5736",
+          "url": "https://sbirky.ngprague.cz/en/dielo/CZE:NG.O_5736"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG Prague O 5736: масло на холсте, 203 × 321 см, подпись с 1890; музей подтверждает тему обнаружения погибшей женщины.",
+          "refs": [
+            1,
+            2
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Связь с конкретным преступлением не установлена. Подготовительные рисунки известны по музейной выставке, не полному каталогу."
+      ]
+    },
+    {
+      "id": "jan_asselijn",
+      "name": "Ян Асселейн",
+      "status": "approved",
+      "mainDirection": "Поздняя политическая аллегория",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать с защиты гнезда, затем отделить изображённое действие от позднего прочтения лебедя как де Витта. Завершить приобретением картины в 1800 году.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: The Threatened Swan",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/The-Threatened-Swan--22040f90565e730131983a44a85b989f"
+        }
+      ],
+      "facts": [
+        {
+          "text": "«Лебедь под угрозой», около 1650, стал первым приобретением Nationale Kunstgalerij в 1800 году.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Политическую рецепцию не выдавать за доказанный замысел Асселейна."
+      ]
+    },
+    {
+      "id": "jan_both",
+      "name": "Ян Бот",
+      "status": "approved",
+      "mainDirection": "Итальянский опыт",
+      "customDirection": "",
+      "selectedDirection": "method",
+      "synopsis": "Войти через мягкий свет пейзажа около 1645 года. Затем показать усталых погонщиков и нагруженного мула: идеализированная природа не устраняет тяжёлую жизнь.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG956",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-both-a-rocky-italian-landscape-with-herdsmen-and-muleteers"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG956, около 1645: масло на холсте; музей противопоставляет идиллию условиям труда персонажей.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не назначать точный адрес пейзажа и точную продолжительность поездки без отдельной сверки."
+      ]
+    },
+    {
+      "id": "jan_van_goyen",
+      "name": "Ян ван Гойен",
+      "status": "approved",
+      "mainDirection": "Люди на реке",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать с речного движения и постоялого двора в картине 1645 года. Через палитру и прогулочные зарисовки обсудить связь натуры и мастерской, не принимая деревню за точный адрес.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: View of a Town on a River",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/View-of-a-Town-on-a-River--5ab37bae4c68018656833538d8544736"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SK-A-120 подписана и датирована 1645; музей отвергает прежнее отождествление деревни с Оверсхи.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Голубые, серые и охристые тона названы в обзорном тексте; каталог отдельно отмечает преобладание коричневого и зелёного."
+      ]
+    },
+    {
+      "id": "jan_van_de_cappelle",
+      "name": "Ян ван де Каппелле",
+      "status": "approved",
+      "mainDirection": "Небо и отражения",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Войти через штиль и почти неподвижные рабочие суда. Проследить, как отражения и рисунок парусов создают величественную панораму без морской баталии.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG4456",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-van-de-cappelle-a-river-scene-with-dutch-vessels-becalmed"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG4456, около 1650: небо занимает почти две трети картины; изображены небольшие прибрежные суда.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не смешивать с картинами яхт, стреляющих салютом; датировка приблизительная."
+      ]
+    },
+    {
+      "id": "jan_van_den_hecke_the_elder",
+      "name": "Ян ван ден Хекке Старший",
+      "status": "approved",
+      "mainDirection": "Музыка в натюрморте",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Отправная точка — гентский натюрморт с ракообразными, плодами и лютней. Перед статьёй найти каталог: краткая запись подтверждает предмет, но не расшифровывает символику.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "MSK Gent: 1902-I",
+          "url": "https://www.mskgent.be/en/collection/1902-i"
+        }
+      ],
+      "facts": [
+        {
+          "text": "MSK 1902-I отнесён к Яну I ван ден Хекке, XVII век; дар музейных друзей в 1902 году.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Ограниченное досье. Точного года нет; не смешивать Старшего с Яном II и не придумывать символическую программу."
+      ]
+    },
+    {
+      "id": "jan_van_der_heyden",
+      "name": "Ян ван дер Хейден",
+      "status": "approved",
+      "mainDirection": "Архитектурный монтаж",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Открыть точностью кладки, затем раскрыть составной характер города. Сопоставить архитектурное величие и нищего среди прохожих; фигуры музей относит к Адриану ван де Велде.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG992",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-van-der-heyden-an-architectural-fantasy"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG992, вероятно 1665–1670: архитектурная фантазия, а не установленный реальный вид.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не смешивать с одноимённой картиной в Вашингтоне и не приписывать весь стаффаж самому автору архитектуры."
+      ]
+    },
+    {
+      "id": "jan_van_ravesteyn",
+      "name": "Ян ван Равестейн",
+      "status": "approved",
+      "mainDirection": "Автор известен, модель нет",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Начать с надёжной даты 1634 и предположительного имени модели. Разобрать аргументы за Яна Дублета и сомнения в утраченной надписи; затем расширить контекст гаагских заказов.",
+      "researchNote": "",
+      "editorRevision": 3,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: SK-A-1950",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Portrait-of-a-Man-possibly-Jan-Doublet-1580-1650--fec34cac39f24bbad710ad6cb58de055"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SK-A-1950 подписан и датирован 1634; отождествление с Яном Дублетом остаётся предположительным.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не превращать предполагаемую личность в факт. Работа мастерской и авторский оригинал не равнозначны."
+      ]
+    },
+    {
+      "id": "jan_wijnants",
+      "name": "Ян Вейнантс",
+      "status": "approved",
+      "mainDirection": "Масштаб и глубина",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать с рельефа, похожего на горы, и объяснить песчаные дюны. Затем показать разделение труда: фигуры и животные Лингельбаха задают масштаб пейзажа Вейнантса.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG883",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-wijnants-a-landscape-with-a-dead-tree"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG883 датирован 1659 годом; фигуры и животные музей относит к Яну Лингельбаху.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Конкретное место не установлено; это распределение авторства не распространяется на всё наследие."
+      ]
+    },
+    {
+      "id": "jan_verkolje",
+      "name": "Ян Верколье",
+      "status": "approved",
+      "mainDirection": "Игра прервана письмом",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Войти через момент перед броском костей: появление посланника меняет настроение. Сопоставить тревожный взгляд офицера с блеском платья, оставляя содержание письма неизвестным.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Mauritshuis: The Messenger",
+          "url": "https://www.mauritshuis.nl/en/our-collection/artworks/865-the-messenger"
+        }
+      ],
+      "facts": [
+        {
+          "text": "«Вестник», 1674, Маурицхёйс 865: офицер и женщина играют в нарды, посланник приносит письмо.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Плохая весть лишь предполагается по реакции. Не путать Яна с Николасом Верколье."
+      ]
+    },
+    {
+      "id": "jan_victors",
+      "name": "Ян Викторс",
+      "status": "approved",
+      "mainDirection": "Рассказ через уровни",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать с расположения фигур: Иосиф сидит выше закованных собеседников. Показать, как пространство помогает читать библейский рассказ, не подменяя документированное авторство гипотезами об учителе.",
+      "researchNote": "",
+      "editorRevision": 3,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: SK-A-451",
+          "url": "https://www.rijksmuseum.nl/en/collection/SK-A-451"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SK-A-451 подписана Johanes Victors и датирована 1648; Иосиф слева, хлебодар и виночерпий справа в цепях.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не выдавать связь с кругом Рембрандта за доказанное ученичество; не смешивать картину с рисунками на тот же сюжет."
+      ]
+    },
+    {
+      "id": "jan_lievens",
+      "name": "Ян Ливенс",
+      "status": "approved",
+      "mainDirection": "Самостоятельность от Рембрандта",
+      "customDirection": "",
+      "selectedDirection": "method",
+      "synopsis": "Открыть прямым взглядом и дорогим халатом автопортрета. Через современную одежду и усадебный фон обсудить профессиональное самопредставление и опыт придворного портрета.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG2864",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-lievens-self-portrait"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG2864 подписан, но не датирован; начало 1650-х определяют по стилю и моде.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Социальное равенство аристократам — музейное прочтение позы, не авторская декларация."
+      ]
+    },
+    {
+      "id": "jan_lingelbach",
+      "name": "Ян Лингельбах",
+      "status": "approved",
+      "mainDirection": "Игроки в римской улице",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Начать с карточной игры и контрастного света, сразу сохранив «возможно, Лингельбах». Через альтернативные атрибуции обсудить пределы уверенности в имени художника.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG6640",
+          "url": "https://www.nationalgallery.org.uk/paintings/possibly-by-jan-lingelbach-roman-street-scene-with-card-players"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG6640, 1645–1650, обозначена Possibly by Jan Lingelbach; музей обсуждает ван Лара и Мастера малых ремёсел.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не снимать оговорку об авторстве. Полную биографию и самостоятельные надёжные атрибуции дополнить отдельно."
+      ]
+    },
+    {
+      "id": "jan_miense_molenaer",
+      "name": "Ян Минсе Моленар",
+      "status": "approved",
+      "mainDirection": "Два художника в семье",
+      "customDirection": "",
+      "selectedDirection": "method",
+      "synopsis": "Начать с настройки лютни и спокойного взгляда. Объяснить литературную ассоциацию с гармоничной жизнью, затем сопоставить самопредставление Моленара и его жены Юдит Лейстер.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "NGA: Self-Portrait as a Lute Player",
+          "url": "https://www.nga.gov/artworks/118611-self-portrait-lute-player"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NGA 2015.20.1 датируется около 1637–1638; музей отмечает процарапанные концом кисти кудри.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не использовать старые датировки как точный год. Символическое чтение не исключает реального музицирования."
+      ]
+    },
+    {
+      "id": "jan_mostaert",
+      "name": "Ян Мостарт",
+      "status": "approved",
+      "mainDirection": "Кто именно автор?",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Начать с проблемы авторства портрета африканца: текущие метаданные называют Мостарта из Мехелена и отвергают Харлем, тогда как старый каталог описывает харлемского мастера. До статьи разрешить это расхождение.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: SK-A-4986, metadata and catalogue",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/Portrait-of-an-African-Man-Christophle-le-More--a231a419729290607eb2da681ab80ac3"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SK-A-4986: в Creation указаны Jan Jansz Mostaert, Mechelen и отклонённая атрибуция Haarlem; имя Christophle le More дано с вопросом.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Ограниченное досье с атрибуционной проблемой. Не приписывать портрет безоговорочно харлемскому Мостарту и не утверждать личность или статус модели."
+      ]
+    },
+    {
+      "id": "jan_pauwel_gillemans_the_elder",
+      "name": "Ян Паувел Гиллеманс Старший",
+      "status": "approved",
+      "mainDirection": "Делфтская чаша",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать с чаши цитрусовых и сочетания плодов разных сезонов. Через этот несинхронный набор показать искусственно построенную композицию, не превращая каждый плод в однозначный символ.",
+      "researchNote": "",
+      "editorRevision": 3,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "MSK Gent: 1901-A",
+          "url": "https://www.mskgent.be/en/collection/1901-a"
+        }
+      ],
+      "facts": [
+        {
+          "text": "MSK 1901-A: музей связывает разносезонные плоды с составным характером натюрморта; точный год не указан.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не путать с сыном; 1901 — год поступления. Значения отдельных деталей не установлены окончательно."
+      ]
+    },
+    {
+      "id": "jan_pynas",
+      "name": "Ян Пейнас",
+      "status": "approved",
+      "mainDirection": "Казнь египетская",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Войти через противопоставление фигур слева и превращённой реки справа. Затем объяснить изменения цвета неба и рукавов по музейному исследованию состояния; итальянский опыт дополнить отдельно.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Rijksmuseum: SK-A-1626 catalogue",
+          "url": "https://www.rijksmuseum.nl/en/collection/SK-A-1626/catalogue-entry"
+        }
+      ],
+      "facts": [
+        {
+          "text": "SK-A-1626 подписана J. Pynas fe. 1610; каталог отмечает изменение синего неба и окисление зелёного пигмента.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Ян и Якоб — разные мастера. Смальта названа возможной причиной изменения синего, не безусловно установленной."
+      ]
+    },
+    {
+      "id": "jan_porcellis",
+      "name": "Ян Порселлис",
+      "status": "approved",
+      "mainDirection": "о тональной морской живописи как жанре",
+      "customDirection": "о тональной морской живописи как жанре",
+      "selectedDirection": "",
+      "synopsis": "Войти через близкие тона воды и неба. Показать, как тонкий грунт позволяет деревянной основе участвовать в цвете; сведения о скорости производства отделить от документов конкретного заказа.",
+      "researchNote": "",
+      "editorRevision": 39,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "LACMA: Vessels in a Moderate Breeze",
+          "url": "https://collections.lacma.org/object/133071"
+        }
+      ],
+      "facts": [
+        {
+          "text": "M.2009.106.10, около 1629: масло на дереве; берег не идентифицирован, суда не названы.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не придумывать название корабля или берега. Похвала ван Хогстратена известна здесь по музейному пересказу."
+      ]
+    },
+    {
+      "id": "jan_preisler",
+      "name": "Ян Прейслер",
+      "status": "approved",
+      "mainDirection": "От предмета к символизму",
+      "customDirection": "",
+      "selectedDirection": "method",
+      "synopsis": "Войти через «Чёрное озеро» O 2618 и противопоставление тёмной воды светлым формам как вопрос для разбора. Биографию и литературные связи серии исследовать отдельно: объектный паспорт не раскрывает психологию моделей.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "NG Prague: Black Lake, O 2618",
+          "url": "https://sbirky.ngprague.cz/en/dielo/CZE:NG.O_2618"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG Prague O 2618: масло на холсте, 111 × 153 см, надпись J Preisler 904.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Ограниченное объектное досье. Не подменять меньшими версиями и не считать психологическое толкование документированной историей моделей."
+      ]
+    },
+    {
+      "id": "jan_sanders_van_hemessen",
+      "name": "Ян Сандерс ван Хемессен",
+      "status": "approved",
+      "mainDirection": "Мошенник и пациент",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать с мнимого извлечения камня и ожидающих пациентов. Обсудить сатиру на обман и соединение тщательной предметности с крупными фигурами итальянского Возрождения.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "Prado: The Surgeon",
+          "url": "https://www.museodelprado.es/en/the-collection/art-work/the-surgeon-or-the-extraction-of-the-stone-of/2ab4b602-9b75-48ce-b6bb-1d9a5631076e"
+        }
+      ],
+      "facts": [
+        {
+          "text": "Прадо датирует «Хирурга» 1550–1555 годами и трактует врача как мошенника, заинтересованного в деньгах.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не описывать извлечение камня глупости как доказанную лечебную практику и не подменять работу картиной Босха."
+      ]
+    },
+    {
+      "id": "jan_philip_van_thielen",
+      "name": "Ян Филип ван Тилен",
+      "status": "approved",
+      "mainDirection": "Маленький букет",
+      "customDirection": "",
+      "selectedDirection": "focus",
+      "synopsis": "Начать с роз и тюльпана в стеклянной вазе. Через подпись и музейные измерения показать самостоятельный букет и различие первоначальной доски с поздней конструкцией.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "NGA: Roses and a Tulip in a Glass Vase",
+          "url": "https://www.nga.gov/artworks/76210-roses-and-tulip-glass-vase"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NGA 1992.51.4, около 1650–1660, подписана Van. Thielen.; музей различает исходную основу и деревянные добавления.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Толщина 1,5 см дана с укреплением, не как толщина первоначальной доски. Историю гирлянд исследовать отдельно."
+      ]
+    },
+    {
+      "id": "jan_jansz_den_uyl",
+      "name": "Ян Янс ден Эйл",
+      "status": "approved",
+      "mainDirection": "Возможная тема бренности",
+      "customDirection": "",
+      "selectedDirection": "method",
+      "synopsis": "Начать с неустойчивой посуды и вывести взгляд к венецианскому бокалу. Найти сову на ручке кувшина как игру с именем автора; символику часов и свечи сохранить вероятностной.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "MFA Boston: 54.1606",
+          "url": "https://collections.mfa.org/objects/33534/breakfast-still-life-with-glass-and-metalwork"
+        }
+      ],
+      "facts": [
+        {
+          "text": "MFA 54.1606, около 1637–1639: музей отмечает тщательно выстроенную композицию и сову на оловянном кувшине.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не путать с натюрмортами Трека. Часы и потухшая свеча могут означать бренность, но это не единственный смысл."
+      ]
+    },
+    {
+      "id": "jan_jansz_treck",
+      "name": "Ян Янс Трек",
+      "status": "approved",
+      "mainDirection": "Неустойчивая композиция",
+      "customDirection": "",
+      "selectedDirection": "context",
+      "synopsis": "Начать со столкновения дорогих вещей и черепа. Через часы, соломинку для пузырей и трубку раскрыть vanitas; долговечность искусства сохранить музейной интерпретацией.",
+      "researchNote": "",
+      "editorRevision": 2,
+      "dossierRevision": 1,
+      "sources": [
+        {
+          "title": "National Gallery: NG6533",
+          "url": "https://www.nationalgallery.org.uk/paintings/jan-jansz-treck-vanitas-still-life"
+        }
+      ],
+      "facts": [
+        {
+          "text": "NG6533 подписана и датирована 1648 годом; музей связывает предметы с краткостью жизни и тщетой роскоши.",
+          "refs": [
+            1
+          ]
+        }
+      ],
+      "evidence": [
+        "Музейные сведения; первоисточники отдельно не прочитаны."
+      ],
+      "warnings": [
+        "Не выводить из вещей точное вероисповедание автора или конкретный биографический эпизод."
+      ]
+    }
+  ]
+}
