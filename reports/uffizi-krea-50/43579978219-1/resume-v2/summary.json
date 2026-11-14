@@ -50,5 +50,10 @@
       "sessionUrl": "https://www.krea.ai/agent/46702c91-0d93-4ab4-b1ec-654e5ee27187"
     }
   ],
-  "warning": "At most five Agent messages. Internal spending is not hard-capped. Waiting cancellation does not cancel Krea."
+  "warning": "At most five Agent messages. Internal spending is not hard-capped. Waiting cancellation does not cancel Krea.",
+  "failure": {
+    "phase": "validate_saved_response",
+    "type": "AssertionError",
+    "httpStatus": null
+  }
 }
