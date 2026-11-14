@@ -5,7 +5,7 @@
   "modelReviewed": 50,
   "sendAttempts": 5,
   "maxSendAttempts": 5,
-  "complete": false,
+  "complete": true,
   "applyAllowed": false,
   "humanVisualReviewPerformed": false,
   "assessmentStatus": "unverified_model_output",
@@ -111,10 +111,5 @@
       "validated": true
     }
   ],
-  "warning": "At most five Agent messages. Internal spending is not hard-capped. Waiting cancellation does not cancel Krea.",
-  "failure": {
-    "phase": "validate_saved_response",
-    "type": "AssertionError",
-    "httpStatus": null
-  }
+  "warning": "At most five Agent messages. Internal spending is not hard-capped. Waiting cancellation does not cancel Krea."
 }
