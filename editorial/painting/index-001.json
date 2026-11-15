@@ -475,6 +475,11 @@
     "path": "records/vilmos_perlrott_csaba.json"
   },
   {
+    "id": "vilhelm_groth",
+    "name": "Вильхельм Грот",
+    "path": "records/vilhelm_groth.json"
+  },
+  {
     "id": "vilhelm_kyhn",
     "name": "Вильхельм Кюн",
     "path": "records/vilhelm_kyhn.json"
@@ -493,10 +498,5 @@
     "id": "vincenzo_dandini",
     "name": "Винченцо Дандини",
     "path": "records/vincenzo_dandini.json"
-  },
-  {
-    "id": "vincenzo_foppa",
-    "name": "Винченцо Фоппа",
-    "path": "records/vincenzo_foppa.json"
   }
 ]

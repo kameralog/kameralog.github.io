@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Self-portrait_by_Giovanni_Battista_Salvi_da_Sassoferrato.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "1640–1650",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/sassoferrato-the-virgin-in-prayer"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q23305501",
+      "title": "Автопортрет",
+      "date": "около 1650",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_by_Giovanni_Battista_Salvi_da_Sassoferrato.jpg"
     }
   ],
   "pendingWorksCount": 0

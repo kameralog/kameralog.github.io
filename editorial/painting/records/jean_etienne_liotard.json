@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Jean-Etienne_Liotard_-_Le_petit_d%C3%A9jeuner_de_la_famille_Lavergne_%281754%29.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Марии Аделаиды Французской в турецком костюме",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean_Etienne_L%C3%ACotard_-_Ritratto_di_Maria_Adelaide_di_Francia_vestita_alla_turca_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет в турецком костюме",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Etienne_Liotard_-_Self-portrait_in_Turkish_dress.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "1754",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/jean-etienne-liotard-the-lavergne-family-breakfast"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q18686531",
+      "title": "Портрет Марии Аделаиды Французской в турецком костюме",
+      "date": "1753",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean_Etienne_L%C3%ACotard_-_Ritratto_di_Maria_Adelaide_di_Francia_vestita_alla_turca_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q52157900",
+      "title": "Автопортрет в турецком костюме",
+      "date": "1744",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Etienne_Liotard_-_Self-portrait_in_Turkish_dress.jpg"
     }
   ],
   "pendingWorksCount": 0

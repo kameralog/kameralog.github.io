@@ -20,7 +20,7 @@
     ],
     "innovation": "Метрополитен-музей подчёркивает, что Фра Анджелико оставался на переднем крае флорентийских новаций и что его значение для европейской живописи оценили лишь недавно.",
     "caution": "Годы рождения расходятся: Метрополитен-музей называет 1395, часть источников — 1400. Кливленд пишет, что назначение «Коронования» неясно: размер подходит пределле, но сюжет на пределлах почти не встречается, поэтому доска могла быть предметом частного моления.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,14 @@
     {
       "title": "Art Institute of Chicago: Saint Anthony Abbot",
       "url": "https://www.artic.edu/artworks/129756"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelico%2C_madonna_col_bambino%2C_uffizi%2C_1425-1449.jpg"
+    },
+    {
+      "title": "Репродукция: Фиваида — приписывается Фра Анджелико",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Thebaid.jpg"
     }
   ],
   "works": [
@@ -50,6 +58,20 @@
       "date": "1440–41",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/129756"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3842724",
+      "title": "Мадонна с Младенцем",
+      "date": "1425–1449",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelico%2C_madonna_col_bambino%2C_uffizi%2C_1425-1449.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3982381",
+      "title": "Фиваида — приписывается Фра Анджелико",
+      "date": "около 1420",
+      "museum": "Уффици; место показа по музейной карточке — музей Сан-Марко, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_-_Thebaid.jpg"
     }
   ],
   "pendingWorksCount": 0

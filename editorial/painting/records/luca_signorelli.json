@@ -20,7 +20,7 @@
     ],
     "innovation": "Синьорелли связывает фигуры, жесты и перспективу с местом показа картины. Алтарь не просто изображает библейскую сцену: его архитектура продолжает капеллу, а движение взгляда от пола к главной группе делает зрителя участником созерцания.",
     "caution": "Выбран сюжет Обрезания и наречения имени, а не просто Сретения: надписи и присутствие Симеона соединяют разные мотивы. Фигура Христа переписана Содомой; объяснение этого сыростью восходит к Вазари и не доказано. Связь чаши с Евхаристией — интерпретация музея. Карточка подготовлена без репродукции: музейный объект подтверждён, но полную страницу конкретного файла Commons получить не удалось, поэтому статус фотографии не проверен. Сведения о материале приняты по текущему музейному паспорту.",
-    "editorialStatus": "text_only_image_rights_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,8 +30,86 @@
     {
       "title": "Национальная галерея: Обрезание Христа",
       "url": "https://www.nationalgallery.org.uk/paintings/luca-signorelli-the-circumcision"
+    },
+    {
+      "title": "Репродукция: Аллегория плодородия и изобилия",
+      "url": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_Allegoria_della_Fecondit%C3%A0_e_dell%27Abbondanza.jpg"
+    },
+    {
+      "title": "Репродукция: Распятие со святой Марией Магдалиной",
+      "url": "https://commons.wikimedia.org/wiki/File:Signorelli-crucifixion.jpg"
+    },
+    {
+      "title": "Репродукция: Троица, Богоматерь и два святых",
+      "url": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_Trinity%2C_the_Virgin_and_Two_Saints.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем",
+      "url": "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_006.jpg"
+    },
+    {
+      "title": "Репродукция: Святое семейство — версия из Палаццо Питти",
+      "url": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_Holy_Family_with_Saint%2C_pitti.jpg"
+    },
+    {
+      "title": "Репродукция: Святое семейство ди Парте Гвельфа",
+      "url": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_sacra_famiglia_di_parte_guelfa%2C_uffizi%2C_diam._124_cm.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов",
+      "url": "https://commons.wikimedia.org/wiki/File:Signorelli_-_Adoration_of_The_Magi_-_Uffizi.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch4:Q3612416",
+      "title": "Аллегория плодородия и изобилия",
+      "date": "около 1500",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_Allegoria_della_Fecondit%C3%A0_e_dell%27Abbondanza.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3698237",
+      "title": "Распятие со святой Марией Магдалиной",
+      "date": "1502",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli-crucifixion.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3842435",
+      "title": "Троица, Богоматерь и два святых",
+      "date": "1510",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_Trinity%2C_the_Virgin_and_Two_Saints.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3842589",
+      "title": "Мадонна с Младенцем",
+      "date": "первая четверть XVI века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_006.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3944499",
+      "title": "Святое семейство — версия из Палаццо Питти",
+      "date": "1490",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_Holy_Family_with_Saint%2C_pitti.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3944500",
+      "title": "Святое семейство ди Парте Гвельфа",
+      "date": "1487–1488",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli%2C_sacra_famiglia_di_parte_guelfa%2C_uffizi%2C_diam._124_cm.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q72274251",
+      "title": "Поклонение волхвов",
+      "date": "датировка уточняется",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Signorelli_-_Adoration_of_The_Magi_-_Uffizi.jpg"
+    }
+  ],
   "pendingWorksCount": 0
 }

@@ -18,7 +18,7 @@
     ],
     "innovation": "Наблюдение природы соединяется с религиозным переживанием: пейзаж не просто фон, а носитель атмосферы.",
     "caution": "Изображение пока не подключено: музейное авторство проверено, карточка выбранной репродукции недоступна для проверки прав. Портрет отца в Лондоне числится как After Dürer, Мадонна с ирисом — мастерская с Бальдунгом.",
-    "editorialStatus": "text_only_image_rights_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -28,8 +28,97 @@
     {
       "title": "Музей: Отец художника — After Dürer",
       "url": "https://www.nationalgallery.org.uk/paintings/after-albrecht-durer-the-painter-s-father"
+    },
+    {
+      "title": "Репродукция: Свадебный герб семей Дюрер и Хольпер — оборот портрета отца",
+      "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Marriage_Coat_of_Arms_of_the_Families_Duerer_and_Holper.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет отца — Альбрехта Дюрера Старшего",
+      "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портреты родителей Дюрера — составное изображение диптиха",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_Diptych_of_D%C3%BCrer%27s_Parents.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов",
+      "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Филипп",
+      "url": "https://commons.wikimedia.org/wiki/File:Durer%2C_san_filippo.jpg"
+    },
+    {
+      "title": "Репродукция: Апостол Иаков Старший",
+      "url": "https://commons.wikimedia.org/wiki/File:Durer%2C_san_giacomo.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с грушей",
+      "url": "https://commons.wikimedia.org/wiki/File:Durer%2C_vergine_della_pera.jpg"
+    },
+    {
+      "title": "Репродукция: Катарина",
+      "url": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_The_Negress_Katherina_-_WGA07097.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch4:Q124454923",
+      "title": "Свадебный герб семей Дюрер и Хольпер — оборот портрета отца",
+      "date": "1490",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Marriage_Coat_of_Arms_of_the_Families_Duerer_and_Holper.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q18683052",
+      "title": "Портрет отца — Альбрехта Дюрера Старшего",
+      "date": "1490",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Ritratto_del_padre_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q1988057",
+      "title": "Портреты родителей Дюрера — составное изображение диптиха",
+      "date": "около 1490",
+      "museum": "Составное изображение створок из разных собраний",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_Diptych_of_D%C3%BCrer%27s_Parents.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q2628761",
+      "title": "Поклонение волхвов",
+      "date": "1504",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3947062",
+      "title": "Святой Филипп",
+      "date": "1516",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Durer%2C_san_filippo.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3947190",
+      "title": "Апостол Иаков Старший",
+      "date": "1516",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Durer%2C_san_giacomo.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q4009969",
+      "title": "Мадонна с грушей",
+      "date": "1526",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Durer%2C_vergine_della_pera.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q62066600",
+      "title": "Катарина",
+      "date": "1521",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Albrecht_D%C3%BCrer_-_The_Negress_Katherina_-_WGA07097.jpg"
+    }
+  ],
   "pendingWorksCount": 0
 }

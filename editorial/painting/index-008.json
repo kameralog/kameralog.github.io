@@ -1,5 +1,30 @@
 [
   {
+    "id": "thomas_de_keyser",
+    "name": "Томас де Кейзер",
+    "path": "records/thomas_de_keyser.json"
+  },
+  {
+    "id": "thomas_cole",
+    "name": "Томас Коул",
+    "path": "records/thomas_cole.json"
+  },
+  {
+    "id": "thomas_fearnley",
+    "name": "Томас Фернли",
+    "path": "records/thomas_fearnley.json"
+  },
+  {
+    "id": "thomas_ender",
+    "name": "Томас Эндер",
+    "path": "records/thomas_ender.json"
+  },
+  {
+    "id": "thorald_brendstrup",
+    "name": "Торальд Брендструп",
+    "path": "records/thorald_brendstrup.json"
+  },
+  {
     "id": "tensho_shubun",
     "name": "Тэнсё Сюбун",
     "path": "records/tensho_shubun.json"
@@ -295,9 +320,19 @@
     "path": "records/frederick_de_moucheron.json"
   },
   {
+    "id": "frederik_christian_kiaerskou",
+    "name": "Фредерик Кристиан Кьерскоу",
+    "path": "records/frederik_christian_kiaerskou.json"
+  },
+  {
     "id": "frederic_remington",
     "name": "Фредерик Ремингтон",
     "path": "records/frederic_remington.json"
+  },
+  {
+    "id": "frederik_rohde",
+    "name": "Фредерик Роде",
+    "path": "records/frederik_rohde.json"
   },
   {
     "id": "frederik_sodring",
@@ -348,6 +383,11 @@
     "id": "frits_thaulow",
     "name": "Фриц Таулов",
     "path": "records/frits_thaulow.json"
+  },
+  {
+    "id": "fritz_thomsen",
+    "name": "Фриц Томсен",
+    "path": "records/fritz_thomsen.json"
   },
   {
     "id": "bacon",
@@ -458,45 +498,5 @@
     "id": "hendrick_dubbels",
     "name": "Хендрик Дюббелс",
     "path": "records/hendrick_dubbels.json"
-  },
-  {
-    "id": "hendrick_martensz_sorgh",
-    "name": "Хендрик Мартенс Сорг",
-    "path": "records/hendrick_martensz_sorgh.json"
-  },
-  {
-    "id": "hendrick_ter_brugghen",
-    "name": "Хендрик тер Брюгген",
-    "path": "records/hendrick_ter_brugghen.json"
-  },
-  {
-    "id": "herman_van_swanevelt",
-    "name": "Херман ван Сваневелт",
-    "path": "records/herman_van_swanevelt.json"
-  },
-  {
-    "id": "herman_saftleven",
-    "name": "Херман Сафтлевен",
-    "path": "records/herman_saftleven.json"
-  },
-  {
-    "id": "herri_met_de_bles",
-    "name": "Херри мет де Блес",
-    "path": "records/herri_met_de_bles.json"
-  },
-  {
-    "id": "hilma_af_klint",
-    "name": "Хильма аф Клинт",
-    "path": "records/hilma_af_klint.json"
-  },
-  {
-    "id": "holger_drachmann",
-    "name": "Хольгер Дракман",
-    "path": "records/holger_drachmann.json"
-  },
-  {
-    "id": "orozco",
-    "name": "Хосе Клементе Ороско",
-    "path": "records/orozco.json"
   }
 ]

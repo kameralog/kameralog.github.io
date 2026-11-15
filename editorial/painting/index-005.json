@@ -1,5 +1,25 @@
 [
   {
+    "id": "lavinia_fontana",
+    "name": "Лавиния Фонтана",
+    "path": "records/lavinia_fontana.json"
+  },
+  {
+    "id": "lajos_vajda",
+    "name": "Лайош Вайда",
+    "path": "records/lajos_vajda.json"
+  },
+  {
+    "id": "lajos_gulacsy",
+    "name": "Лайош Гулачи",
+    "path": "records/lajos_gulacsy.json"
+  },
+  {
+    "id": "lajos_deak_ebner",
+    "name": "Лайош Деак-Эбнер",
+    "path": "records/lajos_deak_ebner.json"
+  },
+  {
     "id": "lajos_kassak",
     "name": "Лайош Кашшак",
     "path": "records/lajos_kassak.json"
@@ -478,25 +498,5 @@
     "id": "master_of_the_holy_blood",
     "name": "Мастер Святой Крови",
     "path": "records/master_of_the_holy_blood.json"
-  },
-  {
-    "id": "matteo_di_giovanni",
-    "name": "Маттео ди Джованни",
-    "path": "records/matteo_di_giovanni.json"
-  },
-  {
-    "id": "matteo_rosselli",
-    "name": "Маттео Росселли",
-    "path": "records/matteo_rosselli.json"
-  },
-  {
-    "id": "mattia_preti",
-    "name": "Маттиа Прети",
-    "path": "records/mattia_preti.json"
-  },
-  {
-    "id": "matthias_stom",
-    "name": "Маттиас Стом",
-    "path": "records/matthias_stom.json"
   }
 ]

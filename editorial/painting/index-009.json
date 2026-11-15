@@ -1,5 +1,45 @@
 [
   {
+    "id": "hendrick_martensz_sorgh",
+    "name": "Хендрик Мартенс Сорг",
+    "path": "records/hendrick_martensz_sorgh.json"
+  },
+  {
+    "id": "hendrick_ter_brugghen",
+    "name": "Хендрик тер Брюгген",
+    "path": "records/hendrick_ter_brugghen.json"
+  },
+  {
+    "id": "herman_van_swanevelt",
+    "name": "Херман ван Сваневелт",
+    "path": "records/herman_van_swanevelt.json"
+  },
+  {
+    "id": "herman_saftleven",
+    "name": "Херман Сафтлевен",
+    "path": "records/herman_saftleven.json"
+  },
+  {
+    "id": "herri_met_de_bles",
+    "name": "Херри мет де Блес",
+    "path": "records/herri_met_de_bles.json"
+  },
+  {
+    "id": "hilma_af_klint",
+    "name": "Хильма аф Клинт",
+    "path": "records/hilma_af_klint.json"
+  },
+  {
+    "id": "holger_drachmann",
+    "name": "Хольгер Дракман",
+    "path": "records/holger_drachmann.json"
+  },
+  {
+    "id": "orozco",
+    "name": "Хосе Клементе Ороско",
+    "path": "records/orozco.json"
+  },
+  {
     "id": "juan_gris",
     "name": "Хуан Грис",
     "path": "records/juan_gris.json"
@@ -310,6 +350,11 @@
     "path": "records/lissitzky.json"
   },
   {
+    "id": "emanuel_larsen",
+    "name": "Эмануэль Ларсен",
+    "path": "records/emanuel_larsen.json"
+  },
+  {
     "id": "emily_mary_osborn",
     "name": "Эмили Мэри Осборн",
     "path": "records/emily_mary_osborn.json"
@@ -353,6 +398,11 @@
     "id": "emma_sandys",
     "name": "Эмма Сэндис",
     "path": "records/emma_sandys.json"
+  },
+  {
+    "id": "emma_thomsen",
+    "name": "Эмма Томсен",
+    "path": "records/emma_thomsen.json"
   },
   {
     "id": "warhol",
@@ -448,55 +498,5 @@
     "id": "judith_leyster",
     "name": "Юдит Лейстер",
     "path": "records/judith_leyster.json"
-  },
-  {
-    "id": "julius_marak",
-    "name": "Юлиус Маржак",
-    "path": "records/julius_marak.json"
-  },
-  {
-    "id": "julius_paulsen",
-    "name": "Юлиус Паульсен",
-    "path": "records/julius_paulsen.json"
-  },
-  {
-    "id": "julius_exner",
-    "name": "Юлиус Экснер",
-    "path": "records/julius_exner.json"
-  },
-  {
-    "id": "yrjo_ollila",
-    "name": "Юрьё Оллила",
-    "path": "records/yrjo_ollila.json"
-  },
-  {
-    "id": "juho_makela",
-    "name": "Юхо Мякеля",
-    "path": "records/juho_makela.json"
-  },
-  {
-    "id": "juho_rissanen",
-    "name": "Юхо Риссанен",
-    "path": "records/juho_rissanen.json"
-  },
-  {
-    "id": "jazeps_grosvalds",
-    "name": "Язепс Гросвалдс",
-    "path": "records/jazeps_grosvalds.json"
-  },
-  {
-    "id": "jacob_van_ruisdael",
-    "name": "Якоб ван Рёйсдал",
-    "path": "records/jacob_van_ruisdael.json"
-  },
-  {
-    "id": "jacob_duck",
-    "name": "Якоб Дюк",
-    "path": "records/jacob_duck.json"
-  },
-  {
-    "id": "jacob_cornelisz_van_oostsanen",
-    "name": "Якоб Корнелис ван Остсанен",
-    "path": "records/jacob_cornelisz_van_oostsanen.json"
   }
 ]

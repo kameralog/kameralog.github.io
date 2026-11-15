@@ -1,5 +1,15 @@
 [
   {
+    "id": "jozsef_nemes_lamperth",
+    "name": "Йожеф Немеш-Ламперт",
+    "path": "records/jozsef_nemes_lamperth.json"
+  },
+  {
+    "id": "jozsef_rippl_ronai",
+    "name": "Йожеф Риппль-Ронаи",
+    "path": "records/jozsef_rippl_ronai.json"
+  },
+  {
     "id": "jozsef_egry",
     "name": "Йожеф Эгри",
     "path": "records/jozsef_egry.json"
@@ -153,6 +163,11 @@
     "id": "carl_moll",
     "name": "Карл Молль",
     "path": "records/carl_moll.json"
+  },
+  {
+    "id": "carl_neumann",
+    "name": "Карл Нейман",
+    "path": "records/carl_neumann.json"
   },
   {
     "id": "karl_nordstrom",
@@ -410,6 +425,11 @@
     "path": "records/christian_albrecht_jensen.json"
   },
   {
+    "id": "christian_blache",
+    "name": "Кристиан Блаке",
+    "path": "records/christian_blache.json"
+  },
+  {
     "id": "christian_david_gebauer",
     "name": "Кристиан Давид Гебауэр",
     "path": "records/christian_david_gebauer.json"
@@ -478,25 +498,5 @@
     "id": "catherine_madox_brown",
     "name": "Кэтрин Мэдокс Браун",
     "path": "records/catherine_madox_brown.json"
-  },
-  {
-    "id": "lavinia_fontana",
-    "name": "Лавиния Фонтана",
-    "path": "records/lavinia_fontana.json"
-  },
-  {
-    "id": "lajos_vajda",
-    "name": "Лайош Вайда",
-    "path": "records/lajos_vajda.json"
-  },
-  {
-    "id": "lajos_gulacsy",
-    "name": "Лайош Гулачи",
-    "path": "records/lajos_gulacsy.json"
-  },
-  {
-    "id": "lajos_deak_ebner",
-    "name": "Лайош Деак-Эбнер",
-    "path": "records/lajos_deak_ebner.json"
   }
 ]

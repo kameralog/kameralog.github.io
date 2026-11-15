@@ -24,6 +24,30 @@
     {
       "title": "Cleveland Museum of Art: The Crucifixion of Saint Andrew",
       "url": "https://clevelandart.org/art/1976.2"
+    },
+    {
+      "title": "Репродукция: Портрет фра Антонио Мартелли",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Fra_Antonio_Martelli-Caravaggio_%281610%29.jpg"
+    },
+    {
+      "title": "Репродукция: Вакх",
+      "url": "https://commons.wikimedia.org/wiki/File:Baco%2C_por_Caravaggio.jpg"
+    },
+    {
+      "title": "Репродукция: Жертвоприношение Исаака — версия Уффици",
+      "url": "https://commons.wikimedia.org/wiki/File:Sacrifice_of_Isaac-Caravaggio_%28Uffizi%29.jpg"
+    },
+    {
+      "title": "Репродукция: Медуза",
+      "url": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Спящий Амур",
+      "url": "https://commons.wikimedia.org/wiki/File:Sleeping_Cupid-Caravaggio_%281608%29.jpg"
+    },
+    {
+      "title": "Репродукция: Зубодёр — приписывается Караваджо",
+      "url": "https://commons.wikimedia.org/wiki/File:Toothpuller.jpg"
     }
   ],
   "works": [
@@ -33,6 +57,48 @@
       "date": "1606–7",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1976.2"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q1113749",
+      "title": "Портрет фра Антонио Мартелли",
+      "date": "начало XVII века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Fra_Antonio_Martelli-Caravaggio_%281610%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q2011510",
+      "title": "Вакх",
+      "date": "около 1595–1597",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Baco%2C_por_Caravaggio.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q2284829",
+      "title": "Жертвоприношение Исаака — версия Уффици",
+      "date": "около 1603",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sacrifice_of_Isaac-Caravaggio_%28Uffizi%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q2293905",
+      "title": "Медуза",
+      "date": "1597–1598",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q2429754",
+      "title": "Спящий Амур",
+      "date": "1608",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sleeping_Cupid-Caravaggio_%281608%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3202347",
+      "title": "Зубодёр — приписывается Караваджо",
+      "date": "1608–1610",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Toothpuller.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -46,6 +46,10 @@
     {
       "title": "Репродукция: Мученичество святого Себастьяна — лицевая сторона процессионного знамени",
       "url": "https://commons.wikimedia.org/wiki/File:St._Sebastian_by_Sodoma.jpg"
+    },
+    {
+      "title": "Репродукция: Муж скорбей",
+      "url": "https://commons.wikimedia.org/wiki/File:Sodoma%2C_cristo_dolente%2C_uffizi.jpg"
     }
   ],
   "works": [
@@ -61,6 +65,13 @@
       "date": "1525",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://commons.wikimedia.org/wiki/File:St._Sebastian_by_Sodoma.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3697669",
+      "title": "Муж скорбей",
+      "date": "1510-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sodoma%2C_cristo_dolente%2C_uffizi.jpg"
     }
   ],
   "pendingWorksCount": 0

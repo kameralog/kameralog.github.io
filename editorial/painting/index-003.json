@@ -1,5 +1,15 @@
 [
   {
+    "id": "giovanni_francesco_toscani",
+    "name": "Джованни Франческо Тоскани",
+    "path": "records/giovanni_francesco_toscani.json"
+  },
+  {
+    "id": "constable",
+    "name": "Джон Констебл",
+    "path": "records/constable.json"
+  },
+  {
     "id": "john_singer_sargent",
     "name": "Джон Сингер Сарджент",
     "path": "records/john_singer_sargent.json"
@@ -488,15 +498,5 @@
     "id": "jozsef_koszta",
     "name": "Йожеф Коста",
     "path": "records/jozsef_koszta.json"
-  },
-  {
-    "id": "jozsef_nemes_lamperth",
-    "name": "Йожеф Немеш-Ламперт",
-    "path": "records/jozsef_nemes_lamperth.json"
-  },
-  {
-    "id": "jozsef_rippl_ronai",
-    "name": "Йожеф Риппль-Ронаи",
-    "path": "records/jozsef_rippl_ronai.json"
   }
 ]

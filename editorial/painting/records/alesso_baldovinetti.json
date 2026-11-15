@@ -20,7 +20,7 @@
     ],
     "innovation": "Портрет соединяет человеческое сходство, идеал красоты и материальные знаки семейного договора. Одежда и драгоценности, которые обычно предоставляла семья жениха, становятся столь же важными героями изображения, как сама женщина.",
     "caution": "Личность модели и имя семьи не установлены. Брачное назначение и трактовка эмблемы — вероятные объяснения музея, а не подписанные документом факты. Символика чистоты относится к историческим представлениям флорентийской элиты, не к оценке современной женщины. Репродукция Commons содержит раму: она не входит в музейные размеры живописной доски 62,9 × 40,6 см. Визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,10 @@
     {
       "title": "Commons: файл и статус Public Domain",
       "url": "https://commons.wikimedia.org/wiki/File:Alesso_Baldovinetti_002.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и восемью святыми — алтарь Кафаджоло",
+      "url": "https://commons.wikimedia.org/wiki/File:Baldovinetti%2C_Alesso_-_Pala_di_Cafagiolo.jpg"
     }
   ],
   "works": [
@@ -43,6 +47,13 @@
       "date": "около 1465",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/alesso-baldovinetti-portrait-of-a-lady"
+    },
+    {
+      "key": "wiki-uffizi-batch4:Q3889235",
+      "title": "Мадонна с Младенцем и восемью святыми — алтарь Кафаджоло",
+      "date": "1453–1454",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Baldovinetti%2C_Alesso_-_Pala_di_Cafagiolo.jpg"
     }
   ],
   "pendingWorksCount": 0
