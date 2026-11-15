@@ -1,0 +1,63 @@
+name: Publish reviewed second wiki batch
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'games/painting/publish-uffizi-batch2.mjs'
+      - '.github/workflows/publish-uffizi-batch2.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Apply reviewed bindings and verify catalogue preservation
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch2-index.html"
+          node publish-uffizi-batch2.mjs --self-test
+          node publish-uffizi-batch2.mjs
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch2-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{7,10,18,19,30,42,45,49,96,101,102,131}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-002.json
+          git diff --cached --stat
+          git commit -m 'Connect 46 second-batch reproductions and record remaining cases'
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify published catalogue and record verification result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 24); do
+            if curl --fail --silent --show-error --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch2=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch2-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch2-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs"; const p="reports/wiki-batches/batch-002.json"; const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=46;r.renderedPagesVerified=false;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-002.json
+              git commit -m 'Record live catalogue verification for wiki batch two'
+              git push origin HEAD:main
+              echo 'Live catalogue matches repository; 46 reproductions, 13 artist pages. Individual rendered pages have not been verified by this job.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Changes committed; live publication not verified. Report retains pending status.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
