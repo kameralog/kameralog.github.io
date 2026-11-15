@@ -20,7 +20,7 @@
     ],
     "innovation": "Липпи важен как звено между Мазаччо и следующим поколением флорентийцев: весомые фигуры в измеримом пространстве, а не плоские силуэты на золоте. Британская энциклопедия связывает с его школой ученичество Боттичелли.",
     "caution": "В Кливленде есть и «Мадонна с Младенцем и ангелами» около 1460 года, которую музей называет работой одного из многочисленных подражателей Липпи; в игру она не включена. Две створки триптиха учитываются в музее как комплект; в игре показана одна — с Михаилом.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,6 +30,18 @@
     {
       "title": "Cleveland Museum of Art: Panel from a Triptych: The Archangel Michael",
       "url": "https://clevelandart.org/art/1964.150.1"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и двумя ангелами",
+      "url": "https://commons.wikimedia.org/wiki/File:Madonna_and_Child_with_two_Angels_%28by_Filippo_Lippi%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение Младенцу — алтарь Анналены",
+      "url": "https://commons.wikimedia.org/wiki/File:Lippi%2C_adorazione_di_annalena.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение Младенцу — алтарь Камальдоли",
+      "url": "https://commons.wikimedia.org/wiki/File:Lippi%2C_adorazione_di_camaldoli.jpg"
     }
   ],
   "works": [
@@ -39,6 +51,27 @@
       "date": "1458",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1964.150.1"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q1055111",
+      "title": "Мадонна с Младенцем и двумя ангелами",
+      "date": "около 1460–1465",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Madonna_and_Child_with_two_Angels_%28by_Filippo_Lippi%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3605566",
+      "title": "Поклонение Младенцу — алтарь Анналены",
+      "date": "около 1453",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lippi%2C_adorazione_di_annalena.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3605568",
+      "title": "Поклонение Младенцу — алтарь Камальдоли",
+      "date": "около 1463",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lippi%2C_adorazione_di_camaldoli.jpg"
     }
   ],
   "pendingWorksCount": 0

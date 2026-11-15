@@ -32,6 +32,10 @@
     {
       "title": "Прадо: место в неоклассицизме",
       "url": "https://www.museodelprado.es/en/whats-on/exhibition/anton-raphael-mengs-1728-1779/4be2964e-3169-c21d-52ec-9c6caf24cbfb"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Mengs%2C_Selbstbildnis.jpg"
     }
   ],
   "works": [
@@ -41,6 +45,13 @@
       "date": "1770 в поле записи; 1771–1772 в описании",
       "museum": "Музей Прадо, Мадрид",
       "source": "https://www.museodelprado.es/en/the-collection/art-work/the-adoration-of-the-shepherds/bb9e81ba-ff86-4ab0-80de-441d992d4fcd"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q52338215",
+      "title": "Автопортрет",
+      "date": "1773",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Mengs%2C_Selbstbildnis.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -1,5 +1,45 @@
 [
   {
+    "id": "raphael",
+    "name": "Рафаэль Санти",
+    "path": "records/raphael.json"
+  },
+  {
+    "id": "rachel_ruysch",
+    "name": "Рахел Рюйш",
+    "path": "records/rachel_ruysch.json"
+  },
+  {
+    "id": "rebecca_solomon",
+    "name": "Ребекка Соломон",
+    "path": "records/rebecca_solomon.json"
+  },
+  {
+    "id": "ryozen",
+    "name": "Рёдзэн",
+    "path": "records/ryozen.json"
+  },
+  {
+    "id": "reinier_nooms",
+    "name": "Рейнир Номс",
+    "path": "records/reinier_nooms.json"
+  },
+  {
+    "id": "rembrandt",
+    "name": "Рембрандт ван Рейн",
+    "path": "records/rembrandt.json"
+  },
+  {
+    "id": "magritte",
+    "name": "Рене Магритт",
+    "path": "records/magritte.json"
+  },
+  {
+    "id": "richard_bergh",
+    "name": "Рихард Берг",
+    "path": "records/richard_bergh.json"
+  },
+  {
     "id": "richard_gerstl",
     "name": "Рихард Герстль",
     "path": "records/richard_gerstl.json"
@@ -345,6 +385,11 @@
     "path": "records/thomas_fearnley.json"
   },
   {
+    "id": "thomas_ender",
+    "name": "Томас Эндер",
+    "path": "records/thomas_ender.json"
+  },
+  {
     "id": "tensho_shubun",
     "name": "Тэнсё Сюбун",
     "path": "records/tensho_shubun.json"
@@ -453,50 +498,5 @@
     "id": "philippe_de_champaigne",
     "name": "Филипп де Шампень",
     "path": "records/philippe_de_champaigne.json"
-  },
-  {
-    "id": "filippino_lippi",
-    "name": "Филиппино Липпи",
-    "path": "records/filippino_lippi.json"
-  },
-  {
-    "id": "philips_wouwerman",
-    "name": "Филипс Вауверман",
-    "path": "records/philips_wouwerman.json"
-  },
-  {
-    "id": "philips_koninck",
-    "name": "Филипс Конинк",
-    "path": "records/philips_koninck.json"
-  },
-  {
-    "id": "florence_carlyle",
-    "name": "Флоренс Карлайл",
-    "path": "records/florence_carlyle.json"
-  },
-  {
-    "id": "florence_helena_mcgillivray",
-    "name": "Флоренс Хелена Макгилливрей",
-    "path": "records/florence_helena_mcgillivray.json"
-  },
-  {
-    "id": "floris_van_dijck",
-    "name": "Флорис ван Дейк",
-    "path": "records/floris_van_dijck.json"
-  },
-  {
-    "id": "floris_van_schooten",
-    "name": "Флорис ван Схотен",
-    "path": "records/floris_van_schooten.json"
-  },
-  {
-    "id": "fra_angelico",
-    "name": "Фра Анджелико",
-    "path": "records/fra_angelico.json"
-  },
-  {
-    "id": "fra_bartolomeo",
-    "name": "Фра Бартоломео",
-    "path": "records/fra_bartolomeo.json"
   }
 ]

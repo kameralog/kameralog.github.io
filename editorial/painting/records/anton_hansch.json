@@ -1,0 +1,54 @@
+{
+  "id": "anton_hansch",
+  "name": "Антон Ханш",
+  "latin": "Anton Hansch",
+  "life": "1813–1876",
+  "tag": "Австрия · романтический альпийский пейзаж",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-149.js",
+  "existing": {
+    "bio": [
+      "Австрийский пейзажист, родившийся в Вене и умерший в Зальцбурге, 1813–1876. Его альпийские мотивы позволяют продолжить сравнение с Каламом и Диде из швейцарского батча, не объявляя их учениками одной школы.",
+      "Выбран «Ледник Палю», около 1855–1860 годов. Это вертикальный холст 63 × 52,5 см, инвентарь 4716; географическое название сохранено, а не заменено ледником Гриндельвальда.",
+      "Файловая карточка с прямой музейной ссылкой содержит конкретные предметные данные и явную лицензию CC BY-SA 4.0. Современный отпечаток на иной основе не принят за материал картины."
+    ],
+    "technique": [
+      "Масло на холсте; 63 × 52,5 см",
+      "Интерпретации приведены с атрибуцией указанным источникам; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Выбранный пейзаж расширяет сравнение того, как художники разных художественных сред превращали ледник в законченную композицию.",
+    "caution": "Предметные данные сопоставлены по полной файловой записи и вторичному каталогу. Прямую музейную HTML-карточку отдельно не проверял. Фактический файл, кадрирование, редиректы и вывод кредита в браузере не проверены. Полный аудит дублей не завершён: GitHub search вернул incomplete_results=true.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_ALIAS_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Точная файловая запись с музейным источником, предметными данными и лицензией",
+      "url": "https://commons.wikimedia.org/wiki/File:Anton_Hansch_-_Der_Pal%C3%BCgletscher_-_4716_-_%C3%96sterreichische_Galerie_Belvedere.jpg"
+    },
+    {
+      "title": "Музейная предметная ссылка из файла",
+      "url": "https://digital.belvedere.at/objects/3471/der-palugletscher"
+    },
+    {
+      "title": "Art Renewal Center: биография и предметные сведения",
+      "url": "https://www.artrenewal.org/artists/anton-hansch/8810"
+    },
+    {
+      "title": "Точный файл: предметные сведения, версия и лицензия",
+      "url": "https://commons.wikimedia.org/wiki/File:Anton_Hansch_-_Der_Pal%C3%BCgletscher_-_4716_-_%C3%96sterreichische_Galerie_Belvedere.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "anton_hansch_selected",
+      "title": "Ледник Палю",
+      "date": "около 1855–1860",
+      "museum": "Belvedere, Вена",
+      "source": "https://commons.wikimedia.org/wiki/File:Anton_Hansch_-_Der_Pal%C3%BCgletscher_-_4716_-_%C3%96sterreichische_Galerie_Belvedere.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

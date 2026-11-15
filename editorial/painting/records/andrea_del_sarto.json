@@ -18,12 +18,92 @@
     ],
     "innovation": "Незавершённость позволяет увидеть не только результат, но и процесс: перевод рисунка, уточнение контуров и изменения фигур.",
     "caution": "Фигуры связаны музеем с античной скульптурой и Микеланджело. Незавершённость здесь документирована, а не выводится из впечатления зрителя.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Cleveland Museum of Art: The Sacrifice of Isaac",
       "url": "https://clevelandart.org/art/1937.577"
+    },
+    {
+      "title": "Репродукция: Мадонна с гарпиями",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Virgin_and_Child_between_St_Francis_of_Assisi_and_St_John_the_Evangelist_%28%27Madonna_of_the_Harpies%27%29%2C_1517%2C_1890_no.1577.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение Сан-Галло",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_The_Annunciation_-_WGA00359.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение с архангелом Михаилом и святым Годенцо",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Annunciazione_con_San_Michele_Arcangelo_e_San_Godenzo%2C_00228537.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение делла Скала",
+      "url": "https://commons.wikimedia.org/wiki/File:Annunciation_-_Sarto.jpg"
+    },
+    {
+      "title": "Репродукция: Вознесение Богоматери — алтарь Пассерини",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA00400.jpg"
+    },
+    {
+      "title": "Репродукция: Вознесение Богоматери — алтарь Панчиатики",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA0402.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Sarto%2C_Andrea_del_-_Self-portrait_-_Uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Дама с книгой стихов Петрарки",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Dama_col_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Женщина с корзиной веретён",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Portrait_of_a_Woman_with_a_Basket_of_Spindles_-_WGA0377.jpg"
+    },
+    {
+      "title": "Репродукция: Диспут о Троице",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_002.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь Валломброзы — четыре святых",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_sarto%2C_dossale_dei_quattro_santi_o_pala_di_vallombrosa.jpg"
+    },
+    {
+      "title": "Репродукция: Истории Иосифа — вторая панель",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Stories_of_Joseph_-_WGA00387.jpg"
+    },
+    {
+      "title": "Репродукция: Вознесение Богоматери — алтарь Поппи",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Assumption_of_the_Virgin_%28Poppi_Altarpiece%29_-_WGA0416.jpg"
+    },
+    {
+      "title": "Репродукция: Не прикасайся ко мне",
+      "url": "https://commons.wikimedia.org/wiki/File:Sarto%2C_Andrea_del_-_Noli_me_tangere_-_c._1510.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем во славе с шестью святыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg"
+    },
+    {
+      "title": "Репродукция: Пьета со святыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Piet%C3%A0_with_Saints_-_WGA0395.jpg"
+    },
+    {
+      "title": "Репродукция: Святое семейство Браччи",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Holy_Family_-_WGA0385.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем, святой Елизаветой и маленьким Иоанном Крестителем",
+      "url": "https://commons.wikimedia.org/wiki/File:Sarto%2C_Andrea_del_-_Madonna_col_Bambino%2C_Santa_Elisabetta_e_San_Giovannino_-_1529.jpg"
+    },
+    {
+      "title": "Репродукция: Юный Иоанн Креститель",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_St._John_the_Baptist%2C_c._1523%2C_Palatina%2C_n%C2%B0_272.jpg"
+    },
+    {
+      "title": "Репродукция: Истории Иосифа — первая панель",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Stories_of_Joseph_-_WGA00386.jpg"
     }
   ],
   "works": [
@@ -33,6 +113,146 @@
       "date": "c. 1527",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1937.577"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q1235695",
+      "title": "Мадонна с гарпиями",
+      "date": "1517",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Virgin_and_Child_between_St_Francis_of_Assisi_and_St_John_the_Evangelist_%28%27Madonna_of_the_Harpies%27%29%2C_1517%2C_1890_no.1577.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q1241129",
+      "title": "Благовещение Сан-Галло",
+      "date": "около 1512–1514",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_The_Annunciation_-_WGA00359.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q18613323",
+      "title": "Благовещение с архангелом Михаилом и святым Годенцо",
+      "date": "XVI век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Annunciazione_con_San_Michele_Arcangelo_e_San_Godenzo%2C_00228537.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3618188",
+      "title": "Благовещение делла Скала",
+      "date": "1528",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Annunciation_-_Sarto.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3627380",
+      "title": "Вознесение Богоматери — алтарь Пассерини",
+      "date": "1526–1529",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA00400.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3627381",
+      "title": "Вознесение Богоматери — алтарь Панчиатики",
+      "date": "1522–1525",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Assumption_of_the_Virgin_-_WGA0402.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3630715",
+      "title": "Автопортрет",
+      "date": "1528",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sarto%2C_Andrea_del_-_Self-portrait_-_Uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3701197",
+      "title": "Дама с книгой стихов Петрарки",
+      "date": "1528",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Dama_col_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3701199",
+      "title": "Женщина с корзиной веретён",
+      "date": "около 1516",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Portrait_of_a_Woman_with_a_Basket_of_Spindles_-_WGA0377.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3710280",
+      "title": "Диспут о Троице",
+      "date": "1517",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_002.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3714445",
+      "title": "Алтарь Валломброзы — четыре святых",
+      "date": "1520-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_sarto%2C_dossale_dei_quattro_santi_o_pala_di_vallombrosa.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3771677",
+      "title": "Истории Иосифа — вторая панель",
+      "date": "1515–1516",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Stories_of_Joseph_-_WGA00387.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3842749",
+      "title": "Вознесение Богоматери — алтарь Поппи",
+      "date": "1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Assumption_of_the_Virgin_%28Poppi_Altarpiece%29_-_WGA0416.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3877890",
+      "title": "Не прикасайся ко мне",
+      "date": "около 1510",
+      "museum": "Музей Андреа дель Сарто, Сан-Сальви, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sarto%2C_Andrea_del_-_Noli_me_tangere_-_c._1510.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3889243",
+      "title": "Мадонна с Младенцем во славе с шестью святыми",
+      "date": "около 1528",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Virgin_and_Child_in_Glory_with_Six_Saints_-_WGA0406.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3904409",
+      "title": "Пьета со святыми",
+      "date": "1523–1524",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Piet%C3%A0_with_Saints_-_WGA0395.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3944461",
+      "title": "Святое семейство Браччи",
+      "date": "1520",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Holy_Family_-_WGA0385.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3944463",
+      "title": "Мадонна с Младенцем, святой Елизаветой и маленьким Иоанном Крестителем",
+      "date": "1529",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sarto%2C_Andrea_del_-_Madonna_col_Bambino%2C_Santa_Elisabetta_e_San_Giovannino_-_1529.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3947281",
+      "title": "Юный Иоанн Креститель",
+      "date": "около 1523",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_St._John_the_Baptist%2C_c._1523%2C_Palatina%2C_n%C2%B0_272.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3974456",
+      "title": "Истории Иосифа — первая панель",
+      "date": "1515–1516",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Sarto_-_Stories_of_Joseph_-_WGA00386.jpg"
     }
   ],
   "pendingWorksCount": 0

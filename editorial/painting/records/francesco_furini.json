@@ -20,14 +20,48 @@
     ],
     "innovation": "Учебный ракурс — различие между ритмом форм и характером происходящего события.",
     "caution": "Основное поле музейной записи даёт около 1632; отличающийся поисковый заголовок не заменяет его. Не называем похищение добровольным танцем. Дублинский вариант лишь атрибутирован Фурини и имеет другие размеры и номер.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Палатинская галерея, Палаццо Питти, Флоренция: Гилас и нимфы",
       "url": "https://www.uffizi.it/en/artworks/hylas-and-the-nymphs"
+    },
+    {
+      "title": "Репродукция: Аллегория живописи и поэзии",
+      "url": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Allegory_of_Painting_and_Poetry.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет с палитрой",
+      "url": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Self-portrait_holding_a_palette.jpeg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Self-portrait.jpeg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch2:Q104967205",
+      "title": "Аллегория живописи и поэзии",
+      "date": "1626",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Allegory_of_Painting_and_Poetry.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q135210600",
+      "title": "Автопортрет с палитрой",
+      "date": "1630–1646",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Self-portrait_holding_a_palette.jpeg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q52154669",
+      "title": "Автопортрет",
+      "date": "1618–1620",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Self-portrait.jpeg"
+    }
+  ],
   "pendingWorksCount": 1
 }

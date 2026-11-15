@@ -58,6 +58,14 @@
     {
       "title": "Репродукция: Портрет Бьянки Каппелло — лицевая сторона",
       "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg"
+    },
+    {
+      "title": "Репродукция: Жертвоприношение Исаака",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Sacrifice_of_Isaac_-_Alessandro_Allori.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Self-portrait_by_Alessandro_Allori.jpg"
     }
   ],
   "works": [
@@ -109,6 +117,20 @@
       "date": "около 1578",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157165-0"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q50884435",
+      "title": "Жертвоприношение Исаака",
+      "date": "1601",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Sacrifice_of_Isaac_-_Alessandro_Allori.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q52154404",
+      "title": "Автопортрет",
+      "date": "около 1555",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_by_Alessandro_Allori.jpg"
     }
   ],
   "pendingWorksCount": 1

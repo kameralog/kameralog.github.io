@@ -20,7 +20,7 @@
     ],
     "innovation": "Леонардовская традиция превращается в ясную композицию богословского спора. Позднейшие копии центральной фигуры показывают, как часть повествования могла стать отдельным молитвенным образом.",
     "caution": "Музей допускает и сцену с двенадцатилетним Христом, и спор взрослого Христа с фарисеями: едва намеченная борода делает возраст неоднозначным. Возможная связь с замыслом Леонардо не доказывает существование сохранившегося оригинала. NG2088 — поздняя копия центральной фигуры, NG3090 — работа мастерской. Страница файла и PD-Art проверены, визуальное соответствие и браузерная загрузка — нет.",
-    "editorialStatus": "museum_sources_commons_file_rights_checked_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,10 @@
     {
       "title": "Commons: файл NG18 и PD-Art",
       "url": "https://commons.wikimedia.org/wiki/File:Bernardino_Luini,_Christ_among_the_Doctors,_c.1515-30,_oil_on_poplar,_72.4_x_85.7_cm,_National_Gallery,_London.jpg"
+    },
+    {
+      "title": "Репродукция: Саломея с головой Иоанна Крестителя",
+      "url": "https://commons.wikimedia.org/wiki/File:Bernardino_Luini_Herodias.jpg"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "вероятно около 1515–1530",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/bernardino-luini-christ-among-the-doctors"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3945710",
+      "title": "Саломея с головой Иоанна Крестителя",
+      "date": "1527",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bernardino_Luini_Herodias.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -18,12 +18,44 @@
     ],
     "innovation": "Произведение раскрывает рабочую сторону придворного портрета: небольшой этюд служит образцом для последующих версий.",
     "caution": "Это рабочий этюд, не законченный парадный портрет. Подробная биография художника в выбранной записи отсутствует.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Art Institute of Chicago: Alessandro de' Medici",
       "url": "https://www.artic.edu/artworks/110759"
+    },
+    {
+      "title": "Репродукция: Футболист. Рисунок",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_-_Kicking_Player_-_WGA18128.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_011.jpg"
+    },
+    {
+      "title": "Репродукция: Ужин в Эммаусе",
+      "url": "https://commons.wikimedia.org/wiki/File:Pontormo_-_Cena_in_Emmaus_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Рождество Иоанна Крестителя",
+      "url": "https://commons.wikimedia.org/wiki/File:Pontormo%2C_nativit%C3%A0_del_battista_01.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Козимо Медичи Старшего",
+      "url": "https://commons.wikimedia.org/wiki/File:Pontormo_-_Ritratto_di_Cosimo_il_Vecchio_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет музыканта",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_064.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Антоний Аббат",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_041.jpg"
+    },
+    {
+      "title": "Репродукция: Десять тысяч мучеников",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_018.jpg"
     }
   ],
   "works": [
@@ -33,6 +65,62 @@
       "date": "1534–35",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/110759"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q117708177",
+      "title": "Футболист. Рисунок",
+      "date": "1530-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_-_Kicking_Player_-_WGA18128.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3605539",
+      "title": "Поклонение волхвов",
+      "date": "1519–1520",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_011.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3664358",
+      "title": "Ужин в Эммаусе",
+      "date": "1525",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pontormo_-_Cena_in_Emmaus_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3873251",
+      "title": "Рождество Иоанна Крестителя",
+      "date": "около 1526",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pontormo%2C_nativit%C3%A0_del_battista_01.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3937502",
+      "title": "Портрет Козимо Медичи Старшего",
+      "date": "около 1518–1520",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pontormo_-_Ritratto_di_Cosimo_il_Vecchio_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3937765",
+      "title": "Портрет музыканта",
+      "date": "1518–1519",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_064.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3948774",
+      "title": "Святой Антоний Аббат",
+      "date": "1519",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_041.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q4004623",
+      "title": "Десять тысяч мучеников",
+      "date": "1529–1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_Pontormo_018.jpg"
     }
   ],
   "pendingWorksCount": 0

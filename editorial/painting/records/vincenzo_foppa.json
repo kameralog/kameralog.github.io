@@ -20,7 +20,7 @@
     ],
     "innovation": "Композиция сосредоточена на дарах и Младенце, но маленькие наблюдения оживляют торжественный ритуал: сокольничие в свите, юный паж, не достающий до стремян. Великолепие царей противопоставлено обветшавшему хлеву. Это не простая замена готической роскоши ренессансным пространством, а их продуманное сочетание.",
     "caution": "Дата «около 1500» предположительна. Краткий паспорт NG729 называет масло по тополю, но подробное описание и Technical Bulletin подтверждают также темперу; не своди технику к одной строке. Источник композиционных мотивов — Джентиле да Фабриано или доступный в Брешии его вариант — не установлен однозначно. Статус репродукции PD-Art указан в поисковой индексации Commons; полный текст страницы получить не удалось. Изображение и его загрузка в браузере визуально не проверены.",
-    "editorialStatus": "museum_sources_indexed_image_rights_full_file_page_and_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,10 @@
     {
       "title": "Commons: конкретный файл NG729",
       "url": "https://commons.wikimedia.org/wiki/File:Vincenzo_Foppa_001.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и ангелом",
+      "url": "https://commons.wikimedia.org/wiki/File:Vincenzo_foppa%2C_madonna_col_bambino_e_un_angelo%2C_1460_circa_%28da_uffizi%29_02.JPG"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "предположительно около 1500",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/vincenzo-foppa-the-adoration-of-the-kings"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q3842533",
+      "title": "Мадонна с Младенцем и ангелом",
+      "date": "XV век",
+      "museum": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Vincenzo_foppa%2C_madonna_col_bambino_e_un_angelo%2C_1460_circa_%28da_uffizi%29_02.JPG"
     }
   ],
   "pendingWorksCount": 0

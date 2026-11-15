@@ -1,5 +1,15 @@
 [
   {
+    "id": "giuseppe_zais",
+    "name": "Джузеппе Дзаис",
+    "path": "records/giuseppe_zais.json"
+  },
+  {
+    "id": "giuseppe_maria_crespi",
+    "name": "Джузеппе Мария Креспи",
+    "path": "records/giuseppe_maria_crespi.json"
+  },
+  {
     "id": "giuseppe_pellizza_da_volpedo",
     "name": "Джузеппе Пеллицца да Вольпедо",
     "path": "records/giuseppe_pellizza_da_volpedo.json"
@@ -345,6 +355,11 @@
     "path": "records/johann_koerbecke.json"
   },
   {
+    "id": "johann_peter_krafft",
+    "name": "Иоганн Петер Крафт",
+    "path": "records/johann_peter_krafft.json"
+  },
+  {
     "id": "levitan",
     "name": "Исаак Левитан",
     "path": "records/levitan.json"
@@ -440,9 +455,19 @@
     "path": "records/jozsef_egry.json"
   },
   {
+    "id": "josef_danhauser",
+    "name": "Йозеф Данхаузер",
+    "path": "records/josef_danhauser.json"
+  },
+  {
     "id": "josef_manes",
     "name": "Йозеф Манес",
     "path": "records/josef_manes.json"
+  },
+  {
+    "id": "josef_rebell",
+    "name": "Йозеф Ребелль",
+    "path": "records/josef_rebell.json"
   },
   {
     "id": "joos_van_cleve",
@@ -473,30 +498,5 @@
     "id": "johan_fredrik_eckersberg",
     "name": "Йохан Фредрик Эккерсберг",
     "path": "records/johan_fredrik_eckersberg.json"
-  },
-  {
-    "id": "johann_koler",
-    "name": "Йоханн Кёлер",
-    "path": "records/johann_koler.json"
-  },
-  {
-    "id": "johannes_verspronck",
-    "name": "Йоханнес Верспронк",
-    "path": "records/johannes_verspronck.json"
-  },
-  {
-    "id": "johannes_larsen",
-    "name": "Йоханнес Ларсен",
-    "path": "records/johannes_larsen.json"
-  },
-  {
-    "id": "malevich",
-    "name": "Казимир Малевич",
-    "path": "records/malevich.json"
-  },
-  {
-    "id": "kaiho_yusho",
-    "name": "Кайхо Юсё",
-    "path": "records/kaiho_yusho.json"
   }
 ]

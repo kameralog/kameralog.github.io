@@ -455,6 +455,11 @@
     "path": "records/anton_faistauer.json"
   },
   {
+    "id": "anton_hansch",
+    "name": "Антон Ханш",
+    "path": "records/anton_hansch.json"
+  },
+  {
     "id": "antonello_da_messina",
     "name": "Антонелло да Мессина",
     "path": "records/antonello_da_messina.json"
@@ -493,10 +498,5 @@
     "id": "antoine_coypel",
     "name": "Антуан Куапель",
     "path": "records/antoine_coypel.json"
-  },
-  {
-    "id": "aniello_falcone",
-    "name": "Аньелло Фальконе",
-    "path": "records/aniello_falcone.json"
   }
 ]

@@ -19,14 +19,26 @@
     ],
     "innovation": "Название связано с моряцким выражением: девятый вал — самая большая волна в череде нарастающих. Обломки в форме креста читаются как христианская метафора спасения.",
     "caution": "Это одна картина мариниста, а не обзор его творчества. Репродукцию не подключаю: файл ещё не выбран.",
-    "editorialStatus": "text_only_image_rights_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Википедия: Девятый вал",
       "url": "https://en.wikipedia.org/wiki/The_Ninth_Wave"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Self-portrait_1874.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch2:Q52154374",
+      "title": "Автопортрет",
+      "date": "1874",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Aivazovsky_-_Self-portrait_1874.jpg"
+    }
+  ],
   "pendingWorksCount": 0
 }

@@ -1,5 +1,30 @@
 [
   {
+    "id": "johann_koler",
+    "name": "Йоханн Кёлер",
+    "path": "records/johann_koler.json"
+  },
+  {
+    "id": "johannes_verspronck",
+    "name": "Йоханнес Верспронк",
+    "path": "records/johannes_verspronck.json"
+  },
+  {
+    "id": "johannes_larsen",
+    "name": "Йоханнес Ларсен",
+    "path": "records/johannes_larsen.json"
+  },
+  {
+    "id": "malevich",
+    "name": "Казимир Малевич",
+    "path": "records/malevich.json"
+  },
+  {
+    "id": "kaiho_yusho",
+    "name": "Кайхо Юсё",
+    "path": "records/kaiho_yusho.json"
+  },
+  {
     "id": "camille_pissarro",
     "name": "Камиль Писсарро",
     "path": "records/camille_pissarro.json"
@@ -420,6 +445,11 @@
     "path": "records/leonardo_da_vinci.json"
   },
   {
+    "id": "leopold_kupelwieser",
+    "name": "Леопольд Купельвизер",
+    "path": "records/leopold_kupelwieser.json"
+  },
+  {
     "id": "li_tang",
     "name": "Ли Тан",
     "path": "records/li_tang.json"
@@ -468,35 +498,5 @@
     "id": "lorenzo_lippi",
     "name": "Лоренцо Липпи",
     "path": "records/lorenzo_lippi.json"
-  },
-  {
-    "id": "lorenzo_lotto",
-    "name": "Лоренцо Лотто",
-    "path": "records/lorenzo_lotto.json"
-  },
-  {
-    "id": "lorenzo_monaco",
-    "name": "Лоренцо Монако",
-    "path": "records/lorenzo_monaco.json"
-  },
-  {
-    "id": "ludovico_cardi",
-    "name": "Лудовико Карди",
-    "path": "records/ludovico_cardi.json"
-  },
-  {
-    "id": "louise_abbema",
-    "name": "Луиза Аббема",
-    "path": "records/louise_abbema.json"
-  },
-  {
-    "id": "louise_de_hem",
-    "name": "Луиза де Хем",
-    "path": "records/louise_de_hem.json"
-  },
-  {
-    "id": "louise_jopling",
-    "name": "Луиза Джоплинг",
-    "path": "records/louise_jopling.json"
   }
 ]

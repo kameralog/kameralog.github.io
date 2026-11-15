@@ -1,5 +1,35 @@
 [
   {
+    "id": "lorenzo_lotto",
+    "name": "Лоренцо Лотто",
+    "path": "records/lorenzo_lotto.json"
+  },
+  {
+    "id": "lorenzo_monaco",
+    "name": "Лоренцо Монако",
+    "path": "records/lorenzo_monaco.json"
+  },
+  {
+    "id": "ludovico_cardi",
+    "name": "Лудовико Карди",
+    "path": "records/ludovico_cardi.json"
+  },
+  {
+    "id": "louise_abbema",
+    "name": "Луиза Аббема",
+    "path": "records/louise_abbema.json"
+  },
+  {
+    "id": "louise_de_hem",
+    "name": "Луиза де Хем",
+    "path": "records/louise_de_hem.json"
+  },
+  {
+    "id": "louise_jopling",
+    "name": "Луиза Джоплинг",
+    "path": "records/louise_jopling.json"
+  },
+  {
     "id": "louise_catherine_breslau",
     "name": "Луиза Катрин Бреслау",
     "path": "records/louise_catherine_breslau.json"
@@ -468,35 +498,5 @@
     "id": "mokuan_reien",
     "name": "Мокуан Рэйэн",
     "path": "records/mokuan_reien.json"
-  },
-  {
-    "id": "moretto_da_brescia",
-    "name": "Моретто да Брешиа",
-    "path": "records/moretto_da_brescia.json"
-  },
-  {
-    "id": "muqi_fachang",
-    "name": "Муци Фачан",
-    "path": "records/muqi_fachang.json"
-  },
-  {
-    "id": "mary_beale",
-    "name": "Мэри Бил",
-    "path": "records/mary_beale.json"
-  },
-  {
-    "id": "mary_blood_mellen",
-    "name": "Мэри Блад Меллен",
-    "path": "records/mary_blood_mellen.json"
-  },
-  {
-    "id": "mary_cassatt",
-    "name": "Мэри Кассат",
-    "path": "records/mary_cassatt.json"
-  },
-  {
-    "id": "mary_lizzie_macomber",
-    "name": "Мэри Лиззи Макомбер",
-    "path": "records/mary_lizzie_macomber.json"
   }
 ]

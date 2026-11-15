@@ -1,5 +1,50 @@
 [
   {
+    "id": "filippino_lippi",
+    "name": "Филиппино Липпи",
+    "path": "records/filippino_lippi.json"
+  },
+  {
+    "id": "philips_wouwerman",
+    "name": "Филипс Вауверман",
+    "path": "records/philips_wouwerman.json"
+  },
+  {
+    "id": "philips_koninck",
+    "name": "Филипс Конинк",
+    "path": "records/philips_koninck.json"
+  },
+  {
+    "id": "florence_carlyle",
+    "name": "Флоренс Карлайл",
+    "path": "records/florence_carlyle.json"
+  },
+  {
+    "id": "florence_helena_mcgillivray",
+    "name": "Флоренс Хелена Макгилливрей",
+    "path": "records/florence_helena_mcgillivray.json"
+  },
+  {
+    "id": "floris_van_dijck",
+    "name": "Флорис ван Дейк",
+    "path": "records/floris_van_dijck.json"
+  },
+  {
+    "id": "floris_van_schooten",
+    "name": "Флорис ван Схотен",
+    "path": "records/floris_van_schooten.json"
+  },
+  {
+    "id": "fra_angelico",
+    "name": "Фра Анджелико",
+    "path": "records/fra_angelico.json"
+  },
+  {
+    "id": "fra_bartolomeo",
+    "name": "Фра Бартоломео",
+    "path": "records/fra_bartolomeo.json"
+  },
+  {
     "id": "fra_filippo_lippi",
     "name": "Фра Филиппо Липпи",
     "path": "records/fra_filippo_lippi.json"
@@ -163,6 +208,11 @@
     "id": "friedrich_gauermann",
     "name": "Фридрих Гауэрман",
     "path": "records/friedrich_gauermann.json"
+  },
+  {
+    "id": "friedrich_loos",
+    "name": "Фридрих Лоос",
+    "path": "records/friedrich_loos.json"
   },
   {
     "id": "fritz_syberg",
@@ -448,55 +498,5 @@
     "id": "shaikh_zainuddin",
     "name": "Шейх Зайн-уд-Дин",
     "path": "records/shaikh_zainuddin.json"
-  },
-  {
-    "id": "sheikh_taju",
-    "name": "Шейх Таджу",
-    "path": "records/sheikh_taju.json"
-  },
-  {
-    "id": "simon_hollosy",
-    "name": "Шимон Холлоши",
-    "path": "records/simon_hollosy.json"
-  },
-  {
-    "id": "shitao",
-    "name": "Шитао",
-    "path": "records/shitao.json"
-  },
-  {
-    "id": "shen_zhou",
-    "name": "Шэнь Чжоу",
-    "path": "records/shen_zhou.json"
-  },
-  {
-    "id": "evelyn_de_morgan",
-    "name": "Эвелин де Морган",
-    "path": "records/evelyn_de_morgan.json"
-  },
-  {
-    "id": "egbert_van_der_poel",
-    "name": "Эгберт ван дер Пул",
-    "path": "records/egbert_van_der_poel.json"
-  },
-  {
-    "id": "eglon_hendrik_van_der_neer",
-    "name": "Эглон Хендрик ван дер Нер",
-    "path": "records/eglon_hendrik_van_der_neer.json"
-  },
-  {
-    "id": "schiele",
-    "name": "Эгон Шиле",
-    "path": "records/schiele.json"
-  },
-  {
-    "id": "munch",
-    "name": "Эдвард Мунк",
-    "path": "records/munch.json"
-  },
-  {
-    "id": "hopper",
-    "name": "Эдвард Хоппер",
-    "path": "records/hopper.json"
   }
 ]

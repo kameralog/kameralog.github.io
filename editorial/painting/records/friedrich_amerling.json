@@ -18,7 +18,7 @@
     ],
     "innovation": "Официальное сходство и частная семейная идентичность сосуществуют в австрийской портретной культуре.",
     "caution": "Пока без репродукции: сведения о версиях Девушки в соломенной шляпе и выбранных фото не совпали. Не соединяем описание одного варианта с изображением другого.",
-    "editorialStatus": "text_only_image_rights_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -28,8 +28,20 @@
     {
       "title": "Пинакотека: биография",
       "url": "https://www.sammlung.pinakothek.de/de/artist/28eGVPPxWQ"
+    },
+    {
+      "title": "Репродукция: Дремлющая",
+      "url": "https://commons.wikimedia.org/wiki/File:The-Drowsy-One-Friedrich-von-Amerling.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch2:Q137341778",
+      "title": "Дремлющая",
+      "date": "около 1840",
+      "museum": "",
+      "source": "https://commons.wikimedia.org/wiki/File:The-Drowsy-One-Friedrich-von-Amerling.jpg"
+    }
+  ],
   "pendingWorksCount": 0
 }

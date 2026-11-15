@@ -21,7 +21,7 @@
     ],
     "innovation": "Учебный ракурс: Как пары создают движение в глубину?",
     "caution": "Выбрана версия NM 1603, не картина Пушкинского музея и не уменьшенное повторение 1903 года. Размеры указаны как высота × ширина; 1903 — дар, не создание.",
-    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -35,6 +35,10 @@
     {
       "title": "Конкретный файл и права",
       "url": "https://commons.wikimedia.org/wiki/File:Anders_Zorn_-_Midsummer_Dance_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Self_Portrait_by_Anders_Zorn.jpeg"
     }
   ],
   "works": [
@@ -44,6 +48,13 @@
       "date": "1897",
       "museum": "Nationalmuseum, Стокгольм",
       "source": "https://collection.nationalmuseum.se/en/collection/item/18607/"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q123152940",
+      "title": "Автопортрет",
+      "date": "1889",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Self_Portrait_by_Anders_Zorn.jpeg"
     }
   ],
   "pendingWorksCount": 0

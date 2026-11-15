@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Triple_Portrait_of_Cardinal_de_Richelieu_probably_1642%2C_Philippe_de_Champaigne.jpg"
+    },
+    {
+      "title": "Репродукция: Пейзаж с призванием святого Петра",
+      "url": "https://commons.wikimedia.org/wiki/File:Champaigne_Paysage_avec_la_vocation_de_saint_Pierre_Florence.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "вероятно, 1642",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/philippe-de-champaigne-and-studio-triple-portrait-of-cardinal-de-richelieu"
+    },
+    {
+      "key": "wiki-uffizi-batch2:Q114241482",
+      "title": "Пейзаж с призванием святого Петра",
+      "date": "около 1657",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Champaigne_Paysage_avec_la_vocation_de_saint_Pierre_Florence.jpg"
     }
   ],
   "pendingWorksCount": 0

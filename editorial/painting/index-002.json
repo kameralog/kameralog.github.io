@@ -1,5 +1,10 @@
 [
   {
+    "id": "vaino_kunnas",
+    "name": "Вяйнё Куннас",
+    "path": "records/vaino_kunnas.json"
+  },
+  {
     "id": "hans_baldung",
     "name": "Ганс Бальдунг",
     "path": "records/hans_baldung.json"
@@ -8,6 +13,11 @@
     "id": "hans_holbein_the_younger",
     "name": "Ганс Гольбейн Младший",
     "path": "records/hans_holbein_the_younger.json"
+  },
+  {
+    "id": "hans_makart",
+    "name": "Ганс Макарт",
+    "path": "records/hans_makart.json"
   },
   {
     "id": "hans_memling",
@@ -488,15 +498,5 @@
     "id": "giuseppe_bartolomeo_chiari",
     "name": "Джузеппе Бартоломео Кьяри",
     "path": "records/giuseppe_bartolomeo_chiari.json"
-  },
-  {
-    "id": "giuseppe_zais",
-    "name": "Джузеппе Дзаис",
-    "path": "records/giuseppe_zais.json"
-  },
-  {
-    "id": "giuseppe_maria_crespi",
-    "name": "Джузеппе Мария Креспи",
-    "path": "records/giuseppe_maria_crespi.json"
   }
 ]

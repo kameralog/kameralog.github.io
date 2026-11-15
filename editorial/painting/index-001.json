@@ -1,5 +1,10 @@
 [
   {
+    "id": "aniello_falcone",
+    "name": "Аньелло Фальконе",
+    "path": "records/aniello_falcone.json"
+  },
+  {
     "id": "agnolo_bronzino",
     "name": "Аньоло Бронзино",
     "path": "records/agnolo_bronzino.json"
@@ -493,10 +498,5 @@
     "id": "vaino_blomstedt",
     "name": "Вяйнё Блумстедт",
     "path": "records/vaino_blomstedt.json"
-  },
-  {
-    "id": "vaino_kunnas",
-    "name": "Вяйнё Куннас",
-    "path": "records/vaino_kunnas.json"
   }
 ]
