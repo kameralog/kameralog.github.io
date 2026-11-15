@@ -1,0 +1,144 @@
+name: Publish reviewed fifth wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch5.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply reviewed fifth batch and preserve existing data
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch5-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch5-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const raw=`201|Портрет Пьетро Аретино|1545|Portrait of Pietro Aretino (by Titian) - Pitti Palace.jpg|3150|4090
+          202|Венера Урбинская|1538|Tiziano's Venere di Urbino (from The History BLog).jpg|3633|2574
+          203|Моисей защищает дочерей Иофора|1523|Rosso Fiorentino - Moses defending the Daughters of Jethro - Web Gallery of Art.jpg|831|1140
+          204|Алтарь Деи|1522|Rosso, pala dei.jpg|868|1182
+          205|Алтарь Спедалинго|1518|Rosso Fiorentino - Spedalingo Altarpiece - Google Art Project.jpg|2752|3423
+          206|Ангел, играющий на лютне — сохранившийся фрагмент алтаря|1521|Rosso Fiorentino - Madonna dello Spedalingo - Google Art Project.jpg|3342|2665
+          207|Портрет юноши в чёрном|около 1520|Rosso, ritratto di giovane in nero.jpg|2118|2741
+          208|Иоанн Креститель в детстве|1521|Rosso fiorentino, san giovannino, collezione privata firenze.jpg|1719|2517
+          209|Портрет мужчины в чёрном — профиль|около 1520–1522|Rosso, uomo in nero di profilo.jpg|2343|3105
+          210|Бракосочетание Марии Медичи с Генрихом IV — церемония по представительству|1600|Marie de Medici's marriage.jpg|1500|1500
+          211|Благовещение|XVII век|Matthias Stomer - Annunciazione - Google Art Project.jpg|3787|2491
+          212|Распятие Христа|1520-е годы|Luca di leida, cristo croficisso.jpg|304|456
+          213|Лик святого Иеронима|около 1465|San Jerónimo, por Andrea del Verrocchio.jpg|1639|2500
+          214|Мученичество святого Варфоломея|1630–1640|José de Ribera 053.jpg|2048|1395
+          215|Мадонна и святые — центральная панель алтаря|около 1495|Bernardo zenale, madonna e santi, kansas.jpg|2485|5124
+          216|Битва при Сан-Романо — Никколо да Толентино выбивает из седла Бернардино делла Чарда, панель Уффици|XV век|Uccello — the Battle of San Romano.jpg|11305|6351
+          217|Франческо и Катерина Медичи в детстве|1596|Allori Cristofano - iscrizione - ritratti di Francesco e Caterina de' Medici bambini, 1415299 (cropped).jpg|889|1184
+          218|Иоанн Креститель в пустыне|XVII век|Allori C San Giovanni.jpg|997|1361
+          219|Гостеприимство святого Юлиана|1610–1620|Criistofano Allori San Giuliano.jpg|605|800
+          220|Автопортрет|1606|Cristofano Allori-selfportrait.jpg|432|601
+          221|Юдифь с головой Олоферна — версия Палаццо Питти|1610–1612|Judit con la cabeza de Holofernes, por Cristofano Allori.jpg|2006|2500
+          222|Девочка с ракеткой и воланом|1741|Jean-Baptiste Siméon Chardin 002.jpg|2131|2648
+          223|Святой Доминик|около 1475|Cosmè Tura 010.jpg|1576|2793
+          224|Ужин с лютнистом|около 1619–1620|Gerard van Honthorst - Supper Party - WGA11652.jpg|1098|730
+          225|Поклонение Младенцу|1619–1621|Gherardo delle Notti o Gheritt van Hontorst - Adorazione del Bambino - Google Art Project.jpg|3485|2580
+          226|Мадонна с Младенцем — версия Уффици «Мадонны Дориа»|1525|Parmigianino, madonna doria, versione degli Uffizi.jpg|1523|2297
+          227|Мадонна с Младенцем и святыми — Мадонна Святого Захарии|1534–1540|Parmigianino Madonna con Bambino e Santi (Madonna di San Zaccaria), - Google Art Project.jpg|2184|2595
+          228|Мужской портрет|1520-е — 1530-е годы|Parmigianino, ritratto maschile uffizi.jpg|1451|2081
+          229|Мадонна с длинной шеей|1534–1540|Parmigianino - Madonna and Child with Angels, known as the Madonna with the Long Neck.jpg|1490|2336
+          230|Суета — Vanitas|1650–1670|4DPict.jpg|1566|2126
+          231|Автопортрет|1695–1697|Mattia Preti - Self-portrait.jpg|1117|1620
+          232|Благовещение — панель пределлы «Посещения»|1503|Albertinelli, annunciazione.jpg|694|318
+          233|Рождество Христово — панель пределлы «Посещения»|1503|Albertinelli, adorazione del bambino.jpg|764|316
+          234|Сцена пределлы — название уточняется, в исходной записи «Обрезание»|1503|Albertinelli - circoncisione di Gesù Bambino, 1180195.jpg|1200|590
+          235|Посещение Марией Елизаветы|1503|Albertinelli Visitation.jpg|816|1248
+          236|Вид Гранд-канала|1726–1728|Canaletto - Veduta del Canal Grande - Google Art Project.jpg|3720|2331
+          237|Вид Дворца дожей в Венеции|1750-е годы|Canaletto - Veduta del Palazzo Ducale di Venezia - Google Art Project.jpg|3432|2103
+          238|Лагуна с домом и колокольней — атрибуция Бернардо Беллотто|1737–1741|Canaletto (I) 053.jpg|2560|1674
+          239|Святой Себастьян — ретушированный файл, кадрирование не проверено|1652|Guercino - San Sebastiano, 1652 v2.jpg|417|660
+          240|Аполлон и Марсий|1618|Guerchin 60.jpg|625|576
+          241|Портрет богослова Джулио Гальярди|1617|Guerchin 40.jpg|568|576
+          242|Святой Пётр|около 1623–1624|Guerchin stPierre2-uffizi.jpg|423|576
+          243|Сельский концерт|около 1617|Guercino Concerto campestre.jpg|800|596
+          244|Святая Екатерина Александрийская|1530-е годы|Giampietrino, santa caterina d'alessandria.jpg|1169|1476
+          245|Мужчина с обезьяной|XVI век, датировка уточняется|Annibale Carracci Uomo con scimmia Firenze.jpg|709|835
+          246|Христос в славе со святыми и Одоардо Фарнезе|1597|Annibale Carracci - Christ in Glory - WGA4411.jpg|747|941
+          247|Венера с сатиром и двумя амурами|около 1588|Annibale Carracci - Venus with a Satyr and Cupids - WGA4430.jpg|1019|797
+          248|Автопортрет в профиль|около 1590–1600|Annibale Carracci - Self-portrait.jpg|650|821
+          249|Автопортрет|1667–1668|Baciccio Autorretrato Corredor de Vasari. Galería de los Uffizi.jpg|606|800
+          250|Портрет кардинала Леопольдо Медичи|около 1667|Baciccio - Cardinal Leopoldo de' Medici - WGA01115.jpg|900|1068`;
+          const data=raw.split('\n').map(line=>{const[n,title,date,file,w,h]=line.trim().split('|');return {n:+n,title,date,file,width:+w,height:+h};});assert.deepEqual(data.map(r=>r.n),Array.from({length:50},(_,i)=>i+201));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c',queueDirectory='reports/uffizi-packages/43457577858-1',queueFiles=[1,2,3,4,5,6].map(n=>'new_work_candidates-00'+n+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));const originalRecords=lists.flat().slice(200,250).map((r,i)=>({number:i+201,...r}));assert.equal(originalRecords.length,50);
+          const pageBatch={titian:16,rosso_fiorentino:53,jacopo_chimenti:98,matthias_stom:80,lucas_van_leyden:56,andrea_del_verrocchio:37,jusepe_de_ribera:85,bernardo_zenale:49,paolo_uccello:36,cristofano_allori:98,jean_simeon_chardin:105,cosimo_tura:40,gerrit_van_honthorst:80,parmigianino:16,mattia_preti:85,mariotto_albertinelli:53,canaletto:29,guercino:83,giampietrino:49,annibale_carracci:83,giovanni_battista_gaulli:84};
+          const expected={16:'d07d53c10e52b97ac72615da34b7dea72d934864',53:'efbf669659c2cfe70c5464e02a6387ba49bfcf6f',98:'33d7e5ee616a8b624a45a1d194f6ba004961c131',80:'ae44b0667801dcabfa59c143e964a5ec8f9ade01',56:'3f10109a450ea1decc4994bd15237c08c529db3b',37:'c7df371eace31e0fd35c02ba7e1eed39cb55692b',85:'4a6a80238d6fa5e5c98e7adfa2e26d94066ffbf7',49:'ca53afce26efd68d21168e741045a45215309259',36:'c1a03f6af6f7bbf8d42cbfba137449596ba2fc4d',105:'4678f8e71966321ed98a35edf9f13ab832e96aee',40:'dd5a9936e4c816e5e468974f66c08f31db3aa0a3',29:'2720d1497c7b2cddc80a914c6822a428ce16f2ed',83:'0ea7e460a0c5bd2622a250aa1e030e77fc25f258',84:'ce467ae142ff4f65c41222844704576b8a33d674'};
+          const reportPath='reports/wiki-batches/batch-005.json';assert(!fs.existsSync(reportPath));const previous=[1,2,3,4].map(n=>{const path='reports/wiki-batches/batch-00'+n+'.json';return {path,text:fs.readFileSync(path,'utf8')};});
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          const visitation='https://www.uffizi.it/en/artworks/albertinelli-visitation',spencer='https://spencerart.ku.edu/art/collections-online/object/10153',spedalingo='https://www.uffizi.it/en/video/the-disliked-painting-by-rosso-fiorentino';
+          for(const r of data){const candidate=originalRecords[r.n-201],id=candidate.artistId,Q=candidate.work;assert.equal(candidate.number,r.n);assert(/^Q\d+$/.test(Q));const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const baseLicense=r.n===216?'CC0':'Public domain';const entry={number:r.n,workId:Q,originalArtistId:id,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,licenseShortName:baseLicense,originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseTemplatesChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          if(r.n===217){Object.assign(entry,{status:'deferred',reason:'Файл помечен cropped; полнота представления детских портретов не подтверждена.',parentFileFromMetadata:"Allori Cristofano - iscrizione - ritratti di Francesco e Caterina de' Medici bambini, 1415299.jpg",nextAction:'Сопоставить кадрированный файл с исходным, уточнить полный вид и состав портретов; исходник в этой сессии не проверен из-за лимита браузерного сервиса.'});results.push(entry);continue;}
+          if(r.n===234){Object.assign(entry,{status:'deferred',reason:'Исходная запись и имя файла называют сцену Обрезанием; музейная карточка Посещения называет соответствующую правую сцену пределлы Сретением. Привязка конкретного файла и подпись требуют сверки.',museumReference:visitation,nextAction:'Сопоставить Q124449297 и музейный файл 1180195 с конкретной панелью, уточнить связь с алтарём и корректное название; не выбирать подпись автоматически.'});results.push(entry);continue;}
+          if(r.n===238){Object.assign(entry,{status:'deferred',artistId:null,intendedArtistName:'Бернардо Беллотто',intendedArtistWikidata:'Q164688',reason:'В очереди указан Каналетто, но автор в Commons и Wikidata — Бернардо Беллотто. Надёжная привязка к отдельной карточке Беллотто не подтверждена; на страницу Каналетто не добавлять.',nextAction:'Подтвердить существующую карточку Бернардо Беллотто либо отдельно подготовить её в чате создания художников; затем подключить с оговоркой об атрибуции.'});results.push(entry);continue;}
+          if(r.n===239){Object.assign(entry,{status:'deferred',reason:'Указаны перспективная коррекция, кадрирование и цветокоррекция; полнота композиции по сравнению с исходником не проверена.',parentFileFromMetadata:'Guercino - San Sebastiano, 1652.jpg',nextAction:'Сравнить с исходным файлом и музейной карточкой Palatina 490; при возможности выбрать полный некадрированный вариант. Дополнительная браузерная проверка остановлена лимитом сервиса.'});results.push(entry);continue;}
+          if(r.n===235){const old=groups.get('artists-batch-53.js')?.before?.mariotto_albertinelli?.works?.find(w=>w.key==='uffizi:1890-1587');assert(old&&/^https:\/\//.test(old.image));Object.assign(entry,{status:'already_present',existingWorkKey:old.key,existingImageSource:old.imageSource,existingSource:old.source,existingPageImageDeliveryChecked:false,reason:'То же произведение 1503 года, инвентарь Уффици 1890 №1587, уже имеет подключённое изображение в карточке Альбертинелли. Не дублировать и не изменять прежнюю работу.'});results.push(entry);continue;}
+          const bn=pageBatch[id];assert(bn);const filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch5-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch5:'+Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name),original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const license=r.n===230?'PD-Art / Public domain; в карточке также GFDL и CC BY-SA 3.0-migrated':baseLicense;const credit=artist.name+'; '+(r.n===216?'фотография Gleb Simonov; ':'')+'Wikimedia Commons; '+license;let note='Источник репродукции и сведения о правах — в карточке конкретного файла Commons.';
+          if(r.n===205)note+=' Датировка 1518 принята по музею Уффици, а не по ошибочной дате 1521 в метаданных изображения.';if(r.n===206)note+=' Это сохранившийся фрагмент утраченного алтаря, а не искусственно вырезанная нами деталь. Имя файла Madonna dello Spedalingo не перенесено в название произведения.';if(r.n===208)note+=' Старое имя файла содержит указание на частное собрание; история в карточке Commons указывает дар Уффици в 2020 году.';if(r.n===210)note+=' На церемонии Генриха IV представляет Фердинанд I Медичи.';if(r.n===215)note+=' Центральная панель находится в музее Спенсера, боковые связанные панели — в Уффици. По описанию музея Мадонна здесь изображена без Младенца.';if(r.n===216)note+=' Выбрана панель Уффици, не уже имеющаяся в карточке лондонская панель цикла. Современная дата фотографии не использована как датировка картины.';if(r.n===230)note+=' Сюжет также интерпретируется как Сивилла; дополнительные лицензионные шаблоны сохранены в отчёте.';if([232,233].includes(r.n))note+=' Панель пределлы алтаря Посещение; основная картина уже подключена под ключом uffizi:1890-1587. Не представлять как не связанную с алтарём работу.';if(r.n===245)note+=' Современная дата файла 8 июля 2014 не использована как дата создания картины.';if(r.n===247)note+=' Выбрана версия Уффици по файлу WGA4430; другое изображение копии из Chrysler Collection не использовано.';if(Math.min(r.width,r.height)<600)note+=' Небольшой исходный файл не увеличивался искусственно.';
+          const source=r.n===215?spencer:r.n===205?spedalingo:[232,233].includes(r.n)?visitation:imageSource;const work={key,title:r.title,date:r.date,author:artist.name,medium:'',museum:r.n===215?'Музей искусств Спенсера, Лоренс, Канзас':'Галереи Уффици, Флоренция',source,image:sized(960),zoom:sized(1920),imageSource,license,creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n===205)work.metadataSources=[spedalingo,imageSource];if(r.n===206){work.viewType='surviving-fragment';work.metadataSources=['https://en.wikipedia.org/wiki/Cherub_Playing_a_Lute',imageSource];}if(r.n===215)work.metadataSources=[spencer,imageSource];if(r.n===216){work.objectGroup='battle-of-san-romano-cycle';work.viewType='uffizi-panel';work.relatedWorkKeys=['ng:NG583'];work.metadataSources=['https://www.wikidata.org/wiki/Q18564202',imageSource];}if(r.n===230){work.additionalFileLicences=['GFDL','CC BY-SA 3.0-migrated'];entry.licenseTemplates=['PD-Art | PD-old-auto-expired | deathyear=1699','Self | GFDL | Cc-by-sa-3.0-migrated'];}if([232,233].includes(r.n)){work.objectGroup='albertinelli-visitation-altarpiece';work.viewType='predella-panel';work.relatedWorkKeys=['uffizi:1890-1587'];work.metadataSources=[visitation,imageSource];}if(r.n===245)work.metadataSources=['https://www.wikidata.org/wiki/Q126180968',imageSource];group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,14);assert.equal(results.filter(r=>r.work).length,45);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,21);assert.equal(results.filter(r=>r.status==='deferred').length,4);assert.equal(results.filter(r=>r.status==='already_present').length,1);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:5,batchSize:50,range:[201,250],checkedDate:'2026-11-15',status:'connected_publication_pending',total:50,foundReproductions:50,browserImagesDecoded:50,ruOrEnWikipediaArticlesFound:22,newlyConnected:45,alreadyPresentCount:1,alreadyPresent:[235],duplicatesCount:0,deferredConfirmed:4,artistPages:21,sourceFiles:14,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(200,250)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['Все 50 файлов найдены и прошли браузерную загрузку; полный визуальный просмотр не заявляется.','После основных проверок браузерный сервис достиг лимита: дополнительные сравнения исходников №217 и №239 не выполнены.','№235 уже подключён: старый ключ, изображение и текст сохранены.','№238 не добавлен к Каналетто: автор в источниках — Бернардо Беллотто; надёжная привязка к отдельной карточке пока не подтверждена.','№234 отложен из-за расхождения подписи файла с описанием сцены в музейной карточке.','№215: правильное собрание — Spencer Museum of Art; название не дополнено словами с Младенцем.','№205: датировка 1518 по музею. Современные даты файлов №216 и №245 не использованы как даты произведений.','№216: CC0, фотограф Gleb Simonov. Для №230 дополнительно сохранены GFDL и CC BY-SA 3.0-migrated.','45 — число новых привязок репродукций, не утверждение о 45 независимых физических объектах.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of previous)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch5-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{16,29,36,37,40,49,53,56,80,83,84,85,98,105}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-005.json
+          git diff --cached --stat
+          git commit -m 'Connect 45 fifth-batch reproductions and record existing and deferred works'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify published catalogue and record result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch5=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch5-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch5-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-005.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=45;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-005.json
+              git commit -m 'Record live catalogue verification for wiki batch five'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified live catalogue: 45 new bindings, one already present, four deferred. Individual page and full visual reviews remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; live catalogue verification remains pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
