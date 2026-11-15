@@ -1,8 +1,43 @@
 [
   {
+    "id": "rose_adelaide_ducreux",
+    "name": "Роз-Аделаида Дюкре",
+    "path": "records/rose_adelaide_ducreux.json"
+  },
+  {
+    "id": "rosa_bonheur",
+    "name": "Роза Бонёр",
+    "path": "records/rosa_bonheur.json"
+  },
+  {
+    "id": "rosalba_carriera",
+    "name": "Розальба Каррьера",
+    "path": "records/rosalba_carriera.json"
+  },
+  {
+    "id": "lichtenstein",
+    "name": "Рой Лихтенштейн",
+    "path": "records/lichtenstein.json"
+  },
+  {
+    "id": "romans_suta",
+    "name": "Роман Сута",
+    "path": "records/romans_suta.json"
+  },
+  {
+    "id": "rhona_haszard",
+    "name": "Рона Хазард",
+    "path": "records/rhona_haszard.json"
+  },
+  {
     "id": "rosso_fiorentino",
     "name": "Россо Фьорентино",
     "path": "records/rosso_fiorentino.json"
+  },
+  {
+    "id": "rudolf_von_alt",
+    "name": "Рудольф фон Альт",
+    "path": "records/rudolf_von_alt.json"
   },
   {
     "id": "roelant_savery",
@@ -235,6 +270,11 @@
     "path": "records/tivadar_csontvary_kosztka.json"
   },
   {
+    "id": "tina_blau",
+    "name": "Тина Блау",
+    "path": "records/tina_blau.json"
+  },
+  {
     "id": "tintoretto",
     "name": "Тинторетто",
     "path": "records/tintoretto.json"
@@ -458,45 +498,5 @@
     "id": "francois_hubert_drouais",
     "name": "Франсуа-Юбер Друэ",
     "path": "records/francois_hubert_drouais.json"
-  },
-  {
-    "id": "frantisek_zenisek",
-    "name": "Франтишек Женишек",
-    "path": "records/frantisek_zenisek.json"
-  },
-  {
-    "id": "frantisek_kupka",
-    "name": "Франтишек Купка",
-    "path": "records/frantisek_kupka.json"
-  },
-  {
-    "id": "franz_marc",
-    "name": "Франц Марк",
-    "path": "records/franz_marc.json"
-  },
-  {
-    "id": "francesco_bonsignori",
-    "name": "Франческо Бонсиньори",
-    "path": "records/francesco_bonsignori.json"
-  },
-  {
-    "id": "francesco_guardi",
-    "name": "Франческо Гварди",
-    "path": "records/francesco_guardi.json"
-  },
-  {
-    "id": "francesco_de_mura",
-    "name": "Франческо де Мура",
-    "path": "records/francesco_de_mura.json"
-  },
-  {
-    "id": "francesco_del_cossa",
-    "name": "Франческо дель Косса",
-    "path": "records/francesco_del_cossa.json"
-  },
-  {
-    "id": "francesco_curradi",
-    "name": "Франческо Курради",
-    "path": "records/francesco_curradi.json"
   }
 ]

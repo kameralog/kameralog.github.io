@@ -430,6 +430,11 @@
     "path": "records/anton_raphael_mengs.json"
   },
   {
+    "id": "anton_romako",
+    "name": "Антон Ромако",
+    "path": "records/anton_romako.json"
+  },
+  {
     "id": "antonello_da_messina",
     "name": "Антонелло да Мессина",
     "path": "records/antonello_da_messina.json"
@@ -493,10 +498,5 @@
     "id": "arnold_bocklin",
     "name": "Арнольд Бёклин",
     "path": "records/arnold_bocklin.json"
-  },
-  {
-    "id": "aert_van_der_neer",
-    "name": "Арт ван дер Нер",
-    "path": "records/aert_van_der_neer.json"
   }
 ]

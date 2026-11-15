@@ -1,5 +1,25 @@
 [
   {
+    "id": "goncharova",
+    "name": "Наталья Гончарова",
+    "path": "records/goncharova.json"
+  },
+  {
+    "id": "ni_zan",
+    "name": "Ни Цзань",
+    "path": "records/ni_zan.json"
+  },
+  {
+    "id": "niju",
+    "name": "Ниджу",
+    "path": "records/niju.json"
+  },
+  {
+    "id": "niklavs_strunke",
+    "name": "Никлавс Струнке",
+    "path": "records/niklavs_strunke.json"
+  },
+  {
     "id": "nicolas_de_largilliere",
     "name": "Никола де Ларжильер",
     "path": "records/nicolas_de_largilliere.json"
@@ -93,6 +113,11 @@
     "id": "odilon_redon",
     "name": "Одилон Редон",
     "path": "records/odilon_redon.json"
+  },
+  {
+    "id": "olga_wisinger_florian",
+    "name": "Ольга Визингер-Флориан",
+    "path": "records/olga_wisinger_florian.json"
   },
   {
     "id": "honore_daumier",
@@ -445,6 +470,11 @@
     "path": "records/richard_bergh.json"
   },
   {
+    "id": "richard_gerstl",
+    "name": "Рихард Герстль",
+    "path": "records/richard_gerstl.json"
+  },
+  {
     "id": "robert_campin",
     "name": "Робер Кампен",
     "path": "records/robert_campin.json"
@@ -468,35 +498,5 @@
     "id": "robert_zund",
     "name": "Роберт Цюнд",
     "path": "records/robert_zund.json"
-  },
-  {
-    "id": "rose_adelaide_ducreux",
-    "name": "Роз-Аделаида Дюкре",
-    "path": "records/rose_adelaide_ducreux.json"
-  },
-  {
-    "id": "rosa_bonheur",
-    "name": "Роза Бонёр",
-    "path": "records/rosa_bonheur.json"
-  },
-  {
-    "id": "rosalba_carriera",
-    "name": "Розальба Каррьера",
-    "path": "records/rosalba_carriera.json"
-  },
-  {
-    "id": "lichtenstein",
-    "name": "Рой Лихтенштейн",
-    "path": "records/lichtenstein.json"
-  },
-  {
-    "id": "romans_suta",
-    "name": "Роман Сута",
-    "path": "records/romans_suta.json"
-  },
-  {
-    "id": "rhona_haszard",
-    "name": "Рона Хазард",
-    "path": "records/rhona_haszard.json"
   }
 ]

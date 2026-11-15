@@ -1,0 +1,46 @@
+{
+  "id": "emil_jakob_schindler",
+  "name": "Эмиль Якоб Шиндлер",
+  "latin": "Emil Jakob Schindler",
+  "life": "1842–1892",
+  "tag": "Австрия · поэтический реализм и живопись настроения",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-147.js",
+  "existing": {
+    "bio": [
+      "Австрийский пейзажист, годы жизни 1842–1892. Belvedere описывает его собственную живопись настроения как не укладывающуюся полностью в ярлыки импрессионизма, реализма или романтизма.",
+      "Для карточки выбран ручей Тульн у Планкенберга, около 1889–1890 годов. Не подменяем его другой работой «Тополиная аллея близ Планкенберга» из музея Леопольда.",
+      "Музейный разбор аллеи объясняет светлую палитру, атмосферу и путь как направляющий мотив. Эти сведения используются для понимания метода автора, но не выданы за описание композиции выбранной картины с ручьём."
+    ],
+    "technique": [
+      "Масло на холсте; точные размеры требуют предметной сверки",
+      "Анализ метода и композиции атрибутирован указанным источникам; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Шиндлер важен для обсуждения поэтического состояния обыденного пейзажа; музей предостерегает от сведения его метода к одному общему стилю.",
+    "caution": "Дата и материал основаны на индексированном музейном тексте; полная предметная страница не загрузилась. Инвентарь сопоставлен с файловым кандидатом. Размеры и репродукция пока не подтверждены в совокупности. Полный аудит имён/алиасов по репозиторию не выполнен; GitHub code search вернул incomplete_results=true.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_ALIAS_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Belvedere: индексированная предметная запись; прямая загрузка не удалась",
+      "url": "https://sammlung.belvedere.at/objects/2812/am-tullnbach-bei-plankenberg"
+    },
+    {
+      "title": "Belvedere: поэтический реализм и ограничения стилистических ярлыков",
+      "url": "https://sammlung.belvedere.at/exhibitions/1993/emil-jakob-schindler--poetischer-realismus/objects"
+    },
+    {
+      "title": "Leopold Museum / Google Arts & Culture: метод на примере другой работы, аллеи",
+      "url": "https://artsandculture.google.com/asset/pappelallee-bei-plankenberg-emil-jakob-schindler/uQHweel0ErEIKg?hl=de"
+    },
+    {
+      "title": "Commons: кандидат именно для ручья, не аллеи",
+      "url": "https://commons.wikimedia.org/wiki/File:Emil_Jakob_Schindler_-_Am_Tullnbach_bei_Plankenberg_-_4018_-_%C3%96sterreichische_Galerie_Belvedere.jpg"
+    }
+  ],
+  "works": [],
+  "pendingWorksCount": 1
+}

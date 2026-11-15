@@ -1,5 +1,20 @@
 [
   {
+    "id": "luca_giordano",
+    "name": "Лука Джордано",
+    "path": "records/luca_giordano.json"
+  },
+  {
+    "id": "luca_cambiaso",
+    "name": "Лука Камбьязо",
+    "path": "records/luca_cambiaso.json"
+  },
+  {
+    "id": "luca_signorelli",
+    "name": "Лука Синьорелли",
+    "path": "records/luca_signorelli.json"
+  },
+  {
     "id": "lucas_van_leyden",
     "name": "Лукас ван Лейден",
     "path": "records/lucas_van_leyden.json"
@@ -240,6 +255,11 @@
     "path": "records/marie_spartali_stillman.json"
   },
   {
+    "id": "marie_egner",
+    "name": "Мария Эгнер",
+    "path": "records/marie_egner.json"
+  },
+  {
     "id": "marie_ellenrieder",
     "name": "Мария Элленридер",
     "path": "records/marie_ellenrieder.json"
@@ -478,25 +498,5 @@
     "id": "nasiruddin",
     "name": "Насируддин",
     "path": "records/nasiruddin.json"
-  },
-  {
-    "id": "goncharova",
-    "name": "Наталья Гончарова",
-    "path": "records/goncharova.json"
-  },
-  {
-    "id": "ni_zan",
-    "name": "Ни Цзань",
-    "path": "records/ni_zan.json"
-  },
-  {
-    "id": "niju",
-    "name": "Ниджу",
-    "path": "records/niju.json"
-  },
-  {
-    "id": "niklavs_strunke",
-    "name": "Никлавс Струнке",
-    "path": "records/niklavs_strunke.json"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "id": "caravaggio",
+    "name": "Караваджо",
+    "path": "records/caravaggio.json"
+  },
+  {
     "id": "karel_van_mander",
     "name": "Карел ван Мандер",
     "path": "records/karel_van_mander.json"
@@ -28,6 +33,11 @@
     "id": "karl_madsen",
     "name": "Карл Мадсен",
     "path": "records/karl_madsen.json"
+  },
+  {
+    "id": "carl_moll",
+    "name": "Карл Молль",
+    "path": "records/carl_moll.json"
   },
   {
     "id": "karl_nordstrom",
@@ -193,6 +203,11 @@
     "id": "colijn_de_coter",
     "name": "Колейн де Котер",
     "path": "records/colijn_de_coter.json"
+  },
+  {
+    "id": "koloman_moser",
+    "name": "Коломан Мозер",
+    "path": "records/koloman_moser.json"
   },
   {
     "id": "konrad_magi",
@@ -483,20 +498,5 @@
     "id": "louisa_anne_meredith",
     "name": "Луиза Энн Мередит",
     "path": "records/louisa_anne_meredith.json"
-  },
-  {
-    "id": "luca_giordano",
-    "name": "Лука Джордано",
-    "path": "records/luca_giordano.json"
-  },
-  {
-    "id": "luca_cambiaso",
-    "name": "Лука Камбьязо",
-    "path": "records/luca_cambiaso.json"
-  },
-  {
-    "id": "luca_signorelli",
-    "name": "Лука Синьорелли",
-    "path": "records/luca_signorelli.json"
   }
 ]

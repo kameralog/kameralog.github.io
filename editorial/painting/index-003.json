@@ -1,5 +1,10 @@
 [
   {
+    "id": "giulia_lama",
+    "name": "Джулия Лама",
+    "path": "records/giulia_lama.json"
+  },
+  {
     "id": "giunta_pisano",
     "name": "Джунта Пизано",
     "path": "records/giunta_pisano.json"
@@ -493,10 +498,5 @@
     "id": "kao_ninga",
     "name": "Као",
     "path": "records/kao_ninga.json"
-  },
-  {
-    "id": "caravaggio",
-    "name": "Караваджо",
-    "path": "records/caravaggio.json"
   }
 ]

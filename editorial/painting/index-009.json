@@ -1,5 +1,50 @@
 [
   {
+    "id": "eleanor_fortescue_brickdale",
+    "name": "Элеонора Фортескью-Брикдейл",
+    "path": "records/eleanor_fortescue_brickdale.json"
+  },
+  {
+    "id": "elisa_de_gamond",
+    "name": "Элиза де Гамонд",
+    "path": "records/elisa_de_gamond.json"
+  },
+  {
+    "id": "elizabeth_butler",
+    "name": "Элизабет Батлер",
+    "path": "records/elizabeth_butler.json"
+  },
+  {
+    "id": "elizabeth_jane_gardner",
+    "name": "Элизабет Джейн Гарднер",
+    "path": "records/elizabeth_jane_gardner.json"
+  },
+  {
+    "id": "elisabeth_jerichau_baumann",
+    "name": "Элизабет Йерихау-Бауман",
+    "path": "records/elisabeth_jerichau_baumann.json"
+  },
+  {
+    "id": "elisabeth_louise_vigee_le_brun",
+    "name": "Элизабет Луиза Виже-Лебрен",
+    "path": "records/elisabeth_louise_vigee_le_brun.json"
+  },
+  {
+    "id": "elizabeth_nourse",
+    "name": "Элизабет Нурс",
+    "path": "records/elizabeth_nourse.json"
+  },
+  {
+    "id": "elizabeth_forbes",
+    "name": "Элизабет Форбс",
+    "path": "records/elizabeth_forbes.json"
+  },
+  {
+    "id": "elisabeth_sophie_cheron",
+    "name": "Элизабет-Софи Шерон",
+    "path": "records/elisabeth_sophie_cheron.json"
+  },
+  {
     "id": "elisabetta_sirani",
     "name": "Элизабетта Сирани",
     "path": "records/elisabetta_sirani.json"
@@ -58,6 +103,11 @@
     "id": "emil_filla",
     "name": "Эмиль Филла",
     "path": "records/emil_filla.json"
+  },
+  {
+    "id": "emil_jakob_schindler",
+    "name": "Эмиль Якоб Шиндлер",
+    "path": "records/emil_jakob_schindler.json"
   },
   {
     "id": "emma_lambotte",

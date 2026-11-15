@@ -1,5 +1,10 @@
 [
   {
+    "id": "gaspar_peeter_verbruggen_the_elder",
+    "name": "Гаспар Петер Вербрюгген Старший",
+    "path": "records/gaspar_peeter_verbruggen_the_elder.json"
+  },
+  {
     "id": "gaetano_previati",
     "name": "Гаэтано Превиати",
     "path": "records/gaetano_previati.json"
@@ -493,10 +498,5 @@
     "id": "julie_hart_beers",
     "name": "Джули Харт Бирс",
     "path": "records/julie_hart_beers.json"
-  },
-  {
-    "id": "giulia_lama",
-    "name": "Джулия Лама",
-    "path": "records/giulia_lama.json"
   }
 ]

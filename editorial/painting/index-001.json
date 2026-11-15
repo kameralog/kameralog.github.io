@@ -1,5 +1,10 @@
 [
   {
+    "id": "aert_van_der_neer",
+    "name": "Арт ван дер Нер",
+    "path": "records/aert_van_der_neer.json"
+  },
+  {
     "id": "aert_de_gelder",
     "name": "Арт де Гелдер",
     "path": "records/aert_de_gelder.json"
@@ -493,10 +498,5 @@
     "id": "garofalo",
     "name": "Гарофало",
     "path": "records/garofalo.json"
-  },
-  {
-    "id": "gaspar_peeter_verbruggen_the_elder",
-    "name": "Гаспар Петер Вербрюгген Старший",
-    "path": "records/gaspar_peeter_verbruggen_the_elder.json"
   }
 ]
