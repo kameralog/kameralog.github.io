@@ -1,5 +1,30 @@
 [
   {
+    "id": "rosso_fiorentino",
+    "name": "Россо Фьорентино",
+    "path": "records/rosso_fiorentino.json"
+  },
+  {
+    "id": "roelant_savery",
+    "name": "Рулант Саверей",
+    "path": "records/roelant_savery.json"
+  },
+  {
+    "id": "roelof_koets",
+    "name": "Рулоф Кутс",
+    "path": "records/roelof_koets.json"
+  },
+  {
+    "id": "salomon_koninck",
+    "name": "Саломон Конинк",
+    "path": "records/salomon_koninck.json"
+  },
+  {
+    "id": "dali",
+    "name": "Сальвадор Дали",
+    "path": "records/dali.json"
+  },
+  {
     "id": "salvator_rosa",
     "name": "Сальватор Роза",
     "path": "records/salvator_rosa.json"
@@ -425,6 +450,11 @@
     "path": "records/francois_boucher.json"
   },
   {
+    "id": "francois_diday",
+    "name": "Франсуа Диде",
+    "path": "records/francois_diday.json"
+  },
+  {
     "id": "francois_hubert_drouais",
     "name": "Франсуа-Юбер Друэ",
     "path": "records/francois_hubert_drouais.json"
@@ -468,35 +498,5 @@
     "id": "francesco_curradi",
     "name": "Франческо Курради",
     "path": "records/francesco_curradi.json"
-  },
-  {
-    "id": "francesco_melzi",
-    "name": "Франческо Мельци",
-    "path": "records/francesco_melzi.json"
-  },
-  {
-    "id": "francesco_pesellino",
-    "name": "Франческо Пезеллино",
-    "path": "records/francesco_pesellino.json"
-  },
-  {
-    "id": "francesco_salviati",
-    "name": "Франческо Сальвиати",
-    "path": "records/francesco_salviati.json"
-  },
-  {
-    "id": "francesco_solimena",
-    "name": "Франческо Солимена",
-    "path": "records/francesco_solimena.json"
-  },
-  {
-    "id": "francesco_trevisani",
-    "name": "Франческо Тревизани",
-    "path": "records/francesco_trevisani.json"
-  },
-  {
-    "id": "francesco_francia",
-    "name": "Франческо Франча",
-    "path": "records/francesco_francia.json"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "karel_van_mander",
+    "name": "Карел ван Мандер",
+    "path": "records/karel_van_mander.json"
+  },
+  {
+    "id": "karel_dujardin",
+    "name": "Карел Дюжарден",
+    "path": "records/karel_dujardin.json"
+  },
+  {
+    "id": "carel_fabritius",
+    "name": "Карел Фабрициус",
+    "path": "records/carel_fabritius.json"
+  },
+  {
+    "id": "karl_isakson",
+    "name": "Карл Исаксон",
+    "path": "records/karl_isakson.json"
+  },
+  {
     "id": "carl_larsson",
     "name": "Карл Ларссон",
     "path": "records/carl_larsson.json"
@@ -478,25 +498,5 @@
     "id": "luca_signorelli",
     "name": "Лука Синьорелли",
     "path": "records/luca_signorelli.json"
-  },
-  {
-    "id": "lucas_van_leyden",
-    "name": "Лукас ван Лейден",
-    "path": "records/lucas_van_leyden.json"
-  },
-  {
-    "id": "lucas_cranach_the_elder",
-    "name": "Лукас Кранах Старший",
-    "path": "records/lucas_cranach_the_elder.json"
-  },
-  {
-    "id": "ludvig_karsten",
-    "name": "Людвиг Карстен",
-    "path": "records/ludvig_karsten.json"
-  },
-  {
-    "id": "ludek_marold",
-    "name": "Людек Маролд",
-    "path": "records/ludek_marold.json"
   }
 ]

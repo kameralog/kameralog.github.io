@@ -1,5 +1,25 @@
 [
   {
+    "id": "nicolas_de_largilliere",
+    "name": "Никола де Ларжильер",
+    "path": "records/nicolas_de_largilliere.json"
+  },
+  {
+    "id": "nicolas_lancret",
+    "name": "Никола Ланкре",
+    "path": "records/nicolas_lancret.json"
+  },
+  {
+    "id": "nicolas_poussin",
+    "name": "Никола Пуссен",
+    "path": "records/nicolas_poussin.json"
+  },
+  {
+    "id": "nicolas_regnier",
+    "name": "Никола Ренье",
+    "path": "records/nicolas_regnier.json"
+  },
+  {
     "id": "nicolas_tournier",
     "name": "Никола Турнье",
     "path": "records/nicolas_tournier.json"
@@ -58,6 +78,11 @@
     "id": "ogata_korin",
     "name": "Огата Корин",
     "path": "records/ogata_korin.json"
+  },
+  {
+    "id": "auguste_baud_bovy",
+    "name": "Огюст Бод-Бови",
+    "path": "records/auguste_baud_bovy.json"
   },
   {
     "id": "nerdrum",
@@ -473,30 +498,5 @@
     "id": "rhona_haszard",
     "name": "Рона Хазард",
     "path": "records/rhona_haszard.json"
-  },
-  {
-    "id": "rosso_fiorentino",
-    "name": "Россо Фьорентино",
-    "path": "records/rosso_fiorentino.json"
-  },
-  {
-    "id": "roelant_savery",
-    "name": "Рулант Саверей",
-    "path": "records/roelant_savery.json"
-  },
-  {
-    "id": "roelof_koets",
-    "name": "Рулоф Кутс",
-    "path": "records/roelof_koets.json"
-  },
-  {
-    "id": "salomon_koninck",
-    "name": "Саломон Конинк",
-    "path": "records/salomon_koninck.json"
-  },
-  {
-    "id": "dali",
-    "name": "Сальвадор Дали",
-    "path": "records/dali.json"
   }
 ]

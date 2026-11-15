@@ -1,5 +1,35 @@
 [
   {
+    "id": "francesco_melzi",
+    "name": "Франческо Мельци",
+    "path": "records/francesco_melzi.json"
+  },
+  {
+    "id": "francesco_pesellino",
+    "name": "Франческо Пезеллино",
+    "path": "records/francesco_pesellino.json"
+  },
+  {
+    "id": "francesco_salviati",
+    "name": "Франческо Сальвиати",
+    "path": "records/francesco_salviati.json"
+  },
+  {
+    "id": "francesco_solimena",
+    "name": "Франческо Солимена",
+    "path": "records/francesco_solimena.json"
+  },
+  {
+    "id": "francesco_trevisani",
+    "name": "Франческо Тревизани",
+    "path": "records/francesco_trevisani.json"
+  },
+  {
+    "id": "francesco_francia",
+    "name": "Франческо Франча",
+    "path": "records/francesco_francia.json"
+  },
+  {
     "id": "francesco_furini",
     "name": "Франческо Фурини",
     "path": "records/francesco_furini.json"
@@ -300,9 +330,19 @@
     "path": "records/charles_de_la_fosse.json"
   },
   {
+    "id": "charles_giron",
+    "name": "Шарль Жирон",
+    "path": "records/charles_giron.json"
+  },
+  {
     "id": "charles_le_brun",
     "name": "Шарль Лебрен",
     "path": "records/charles_le_brun.json"
+  },
+  {
+    "id": "charles_l_eplattenier",
+    "name": "Шарль Леплатенье",
+    "path": "records/charles_l_eplattenier.json"
   },
   {
     "id": "charles_meynier",
@@ -385,9 +425,19 @@
     "path": "records/edith_hayllar.json"
   },
   {
+    "id": "edouard_vallet",
+    "name": "Эдуар Валле",
+    "path": "records/edouard_vallet.json"
+  },
+  {
     "id": "manet",
     "name": "Эдуар Мане",
     "path": "records/manet.json"
+  },
+  {
+    "id": "eugene_burnand",
+    "name": "Эжен Бюрнан",
+    "path": "records/eugene_burnand.json"
   },
   {
     "id": "eugene_delacroix",
@@ -448,55 +498,5 @@
     "id": "elisabeth_sophie_cheron",
     "name": "Элизабет-Софи Шерон",
     "path": "records/elisabeth_sophie_cheron.json"
-  },
-  {
-    "id": "elisabetta_sirani",
-    "name": "Элизабетта Сирани",
-    "path": "records/elisabetta_sirani.json"
-  },
-  {
-    "id": "elin_danielson_gambogi",
-    "name": "Элин Даниельсон-Гамбоджи",
-    "path": "records/elin_danielson_gambogi.json"
-  },
-  {
-    "id": "alice_chapman",
-    "name": "Элис Чапмен",
-    "path": "records/alice_chapman.json"
-  },
-  {
-    "id": "ellen_day_hale",
-    "name": "Эллен Дэй Хейл",
-    "path": "records/ellen_day_hale.json"
-  },
-  {
-    "id": "ellen_thesleff",
-    "name": "Эллен Теслефф",
-    "path": "records/ellen_thesleff.json"
-  },
-  {
-    "id": "ellis_rowan",
-    "name": "Эллис Роуэн",
-    "path": "records/ellis_rowan.json"
-  },
-  {
-    "id": "el_greco",
-    "name": "Эль Греко",
-    "path": "records/el_greco.json"
-  },
-  {
-    "id": "lissitzky",
-    "name": "Эль Лисицкий",
-    "path": "records/lissitzky.json"
-  },
-  {
-    "id": "emily_mary_osborn",
-    "name": "Эмили Мэри Осборн",
-    "path": "records/emily_mary_osborn.json"
-  },
-  {
-    "id": "emilie_mundt",
-    "name": "Эмилия Мундт",
-    "path": "records/emilie_mundt.json"
   }
 ]

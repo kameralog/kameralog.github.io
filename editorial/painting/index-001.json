@@ -1,5 +1,20 @@
 [
   {
+    "id": "aert_de_gelder",
+    "name": "Арт де Гелдер",
+    "path": "records/aert_de_gelder.json"
+  },
+  {
+    "id": "artemisia_gentileschi",
+    "name": "Артемизия Джентилески",
+    "path": "records/artemisia_gentileschi.json"
+  },
+  {
+    "id": "asta_norregaard",
+    "name": "Аста Нёррегор",
+    "path": "records/asta_norregaard.json"
+  },
+  {
     "id": "astrid_holm",
     "name": "Астрид Хольм",
     "path": "records/astrid_holm.json"
@@ -53,6 +68,11 @@
     "id": "bart_van_der_leck",
     "name": "Барт ван дер Лек",
     "path": "records/bart_van_der_leck.json"
+  },
+  {
+    "id": "barthelemy_menn",
+    "name": "Бартелеми Менн",
+    "path": "records/barthelemy_menn.json"
   },
   {
     "id": "bartolomeo_manfredi",
@@ -478,25 +498,5 @@
     "id": "gaspar_peeter_verbruggen_the_elder",
     "name": "Гаспар Петер Вербрюгген Старший",
     "path": "records/gaspar_peeter_verbruggen_the_elder.json"
-  },
-  {
-    "id": "gaetano_previati",
-    "name": "Гаэтано Превиати",
-    "path": "records/gaetano_previati.json"
-  },
-  {
-    "id": "guercino",
-    "name": "Гверчино",
-    "path": "records/guercino.json"
-  },
-  {
-    "id": "guido_reni",
-    "name": "Гвидо Рени",
-    "path": "records/guido_reni.json"
-  },
-  {
-    "id": "gederts_eliass",
-    "name": "Гедертс Элиас",
-    "path": "records/gederts_eliass.json"
   }
 ]

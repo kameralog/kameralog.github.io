@@ -1,5 +1,25 @@
 [
   {
+    "id": "lucas_van_leyden",
+    "name": "Лукас ван Лейден",
+    "path": "records/lucas_van_leyden.json"
+  },
+  {
+    "id": "lucas_cranach_the_elder",
+    "name": "Лукас Кранах Старший",
+    "path": "records/lucas_cranach_the_elder.json"
+  },
+  {
+    "id": "ludvig_karsten",
+    "name": "Людвиг Карстен",
+    "path": "records/ludvig_karsten.json"
+  },
+  {
+    "id": "ludek_marold",
+    "name": "Людек Маролд",
+    "path": "records/ludek_marold.json"
+  },
+  {
     "id": "ludovico_carracci",
     "name": "Людовико Карраччи",
     "path": "records/ludovico_carracci.json"
@@ -478,25 +498,5 @@
     "id": "niklavs_strunke",
     "name": "Никлавс Струнке",
     "path": "records/niklavs_strunke.json"
-  },
-  {
-    "id": "nicolas_de_largilliere",
-    "name": "Никола де Ларжильер",
-    "path": "records/nicolas_de_largilliere.json"
-  },
-  {
-    "id": "nicolas_lancret",
-    "name": "Никола Ланкре",
-    "path": "records/nicolas_lancret.json"
-  },
-  {
-    "id": "nicolas_poussin",
-    "name": "Никола Пуссен",
-    "path": "records/nicolas_poussin.json"
-  },
-  {
-    "id": "nicolas_regnier",
-    "name": "Никола Ренье",
-    "path": "records/nicolas_regnier.json"
   }
 ]

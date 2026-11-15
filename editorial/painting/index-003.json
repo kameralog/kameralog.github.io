@@ -1,5 +1,25 @@
 [
   {
+    "id": "giunta_pisano",
+    "name": "Джунта Пизано",
+    "path": "records/giunta_pisano.json"
+  },
+  {
+    "id": "diego_velazquez",
+    "name": "Диего Веласкес",
+    "path": "records/diego_velazquez.json"
+  },
+  {
+    "id": "rivera",
+    "name": "Диего Ривера",
+    "path": "records/rivera.json"
+  },
+  {
+    "id": "dirck_van_baburen",
+    "name": "Дирк ван Бабюрен",
+    "path": "records/dirck_van_baburen.json"
+  },
+  {
     "id": "dirck_van_delen",
     "name": "Дирк ван Делен",
     "path": "records/dirck_van_delen.json"
@@ -478,25 +498,5 @@
     "id": "caravaggio",
     "name": "Караваджо",
     "path": "records/caravaggio.json"
-  },
-  {
-    "id": "karel_van_mander",
-    "name": "Карел ван Мандер",
-    "path": "records/karel_van_mander.json"
-  },
-  {
-    "id": "karel_dujardin",
-    "name": "Карел Дюжарден",
-    "path": "records/karel_dujardin.json"
-  },
-  {
-    "id": "carel_fabritius",
-    "name": "Карел Фабрициус",
-    "path": "records/carel_fabritius.json"
-  },
-  {
-    "id": "karl_isakson",
-    "name": "Карл Исаксон",
-    "path": "records/karl_isakson.json"
   }
 ]

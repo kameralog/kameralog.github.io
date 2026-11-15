@@ -95,6 +95,11 @@
     "path": "records/alvar_cawen.json"
   },
   {
+    "id": "alexandre_calame",
+    "name": "Александр Калам",
+    "path": "records/alexandre_calame.json"
+  },
+  {
     "id": "alexander_coosemans",
     "name": "Александр Коземанс",
     "path": "records/alexander_coosemans.json"
@@ -103,6 +108,11 @@
     "id": "alexander_laureus",
     "name": "Александр Лауреус",
     "path": "records/alexander_laureus.json"
+  },
+  {
+    "id": "alexandre_perrier",
+    "name": "Александр Перье",
+    "path": "records/alexandre_perrier.json"
   },
   {
     "id": "rodchenko",
@@ -133,6 +143,11 @@
     "id": "alix_d_anethan",
     "name": "Аликс д’Анетан",
     "path": "records/alix_d_anethan.json"
+  },
+  {
+    "id": "alice_bailly",
+    "name": "Алис Байи",
+    "path": "records/alice_bailly.json"
   },
   {
     "id": "alice_ronner",
@@ -483,20 +498,5 @@
     "id": "aert_van_der_neer",
     "name": "Арт ван дер Нер",
     "path": "records/aert_van_der_neer.json"
-  },
-  {
-    "id": "aert_de_gelder",
-    "name": "Арт де Гелдер",
-    "path": "records/aert_de_gelder.json"
-  },
-  {
-    "id": "artemisia_gentileschi",
-    "name": "Артемизия Джентилески",
-    "path": "records/artemisia_gentileschi.json"
-  },
-  {
-    "id": "asta_norregaard",
-    "name": "Аста Нёррегор",
-    "path": "records/asta_norregaard.json"
   }
 ]

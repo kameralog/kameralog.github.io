@@ -1,5 +1,25 @@
 [
   {
+    "id": "gaetano_previati",
+    "name": "Гаэтано Превиати",
+    "path": "records/gaetano_previati.json"
+  },
+  {
+    "id": "guercino",
+    "name": "Гверчино",
+    "path": "records/guercino.json"
+  },
+  {
+    "id": "guido_reni",
+    "name": "Гвидо Рени",
+    "path": "records/guido_reni.json"
+  },
+  {
+    "id": "gederts_eliass",
+    "name": "Гедертс Элиас",
+    "path": "records/gederts_eliass.json"
+  },
+  {
     "id": "geza_vastagh",
     "name": "Геза Ваштаг",
     "path": "records/geza_vastagh.json"
@@ -478,25 +498,5 @@
     "id": "giulia_lama",
     "name": "Джулия Лама",
     "path": "records/giulia_lama.json"
-  },
-  {
-    "id": "giunta_pisano",
-    "name": "Джунта Пизано",
-    "path": "records/giunta_pisano.json"
-  },
-  {
-    "id": "diego_velazquez",
-    "name": "Диего Веласкес",
-    "path": "records/diego_velazquez.json"
-  },
-  {
-    "id": "rivera",
-    "name": "Диего Ривера",
-    "path": "records/rivera.json"
-  },
-  {
-    "id": "dirck_van_baburen",
-    "name": "Дирк ван Бабюрен",
-    "path": "records/dirck_van_baburen.json"
   }
 ]
