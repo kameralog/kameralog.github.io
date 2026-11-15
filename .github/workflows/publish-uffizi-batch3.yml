@@ -1,0 +1,150 @@
+name: Publish reviewed third wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch3.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply 48 reviewed reproductions and preserve previous batches
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch3-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');
+          assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch3-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));
+          test();
+          const raw=`101|Q3797764|Коронование Богоматери|1441|Fra Filippo Lippi 007.jpg|3238|2441
+          102|Q3889196|Алтарь Барбадори — центральная часть|1437–1438|Pala Barbadori - Fra Filippo Lippi - Musée du Louvre Peintures INV 339.jpg|2880|2445
+          103|Q3889213|Алтарь восьми — Мадонна с Младенцем и четырьмя святыми|1486|Filippino Lippi - Signoria Altarpiece (Pala degli Otto) - WGA13085.jpg|770|1187
+          104|Q3889222|Алтарь Новициато|около 1445|Fra Filippo Lippi - Madonna Enthroned with Saints - WGA13224.jpg|1106|1100
+          105|Q3993020|Мадонна с Младенцем и сценами из жизни святой Анны — Тондо Бартолини|1452|Fra Filippo Lippi 010.jpg|2024|2023
+          106|Q4009966|Благовещение со святыми Антонием Аббатом и Иоанном Крестителем — две створки|около 1452–1453|Lippi, Vergine Annunziata, Angelo Annunziante, sant'Antonio Abate e san Giovanni Battista.jpg|508|390
+          107|Q50617387|Пределла алтаря Барбадори — общий вид|1437–1439|Predella Pala Barbadori- Uffizi.JPG|5160|850
+          108|Q92358261|Святой Фредьяно изменяет русло Серкио — панель пределлы Барбадори|1437–1439|Predella pala barbadori, uffizi, 02.02.jpg|4968|2267
+          109|Q92419779|Возвещение смерти Богоматери и прибытие апостолов — панель пределлы Барбадори|1438|Predella pala barbadori, uffizi, 01.jpg|1626|450
+          110|Q92422327|Видение святого Августина — панель пределлы Барбадори|1438|Predella pala barbadori, uffizi, 03.jpg|1345|600
+          111|Q52155724|Автопортрет|1860|Eugène Ferdinand Victor Delacroix 050.jpg|2024|2464
+          112|Q1109340|Аллегория силы|до 1472|Sandro Botticelli - Fortitudo - Uffizi.jpg|2322|4464
+          113|Q1114823|Святой Августин в келье — версия Уффици|1490–1494|Sandro Botticelli - St Augustin dans son cabinet de travail.jpg|1763|2737
+          114|Q1131263|Коронование Богоматери — алтарь Сан-Марко|1490–1492|Botticelli, incoronazione della vergine.jpg|806|1218
+          115|Q115652286|Поклонение волхвов — незавершённая версия|около 1500|Botticelli, adorazione dei magi uffizi 1490--1500.jpg|1300|803
+          116|Q1217187|Клевета Апеллеса|около 1496–1497|Sandro Botticelli La calumnia de Apeles.jpg|3000|2009
+          117|Q151047|Рождение Венеры|1485|Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg|30000|18840
+          118|Q1761496|Мадонна с Младенцем и шестью святыми — алтарь Сант-Амброджо|около 1470|Sandro Botticelli Madonna and Child with Six Saints 01.jpg|3555|3135
+          119|Q2267509|Возвращение Юдифи в Ветулию|1470|Sandro Botticelli - Retour de Judith 1.JPG|2040|2745
+          120|Q2269291|Мадонна с гранатом|1487|Sandro Botticelli - Madonna della melagrana 1487.jpg|1560|1560
+          121|Q2405771|Портрет молодой женщины|1485|Sandro Botticelli - Portrait de femme.jpg|1783|2758
+          122|Q2426058|Паллада и Кентавр|1482|Pallade col Centauro, Sandro Botticelli (1482).jpg|10598|14960
+          123|Q2551625|Мадонна Маньификат|1483|Sandro Botticelli - Madonna del Magnificat C.jpg|1710|1710
+          124|Q2714237|Благовещение Честелло|1489–1490|Sandro Botticelli - Annunciazione di Cestello.jpg|1736|1643
+          125|Q2717478|Мадонна делла Лоджиа|около 1467|MadonnaLoggiaBotticelli.jpg|800|1108
+          126|Q30310406|Три парящих ангела — рисунок для люнета|1475–1480|Botticelli, disegno, tre angeli.jpg|1162|500
+          127|Q3842521|Мадонна с Младенцем и маленьким Иоанном Крестителем|конец XV — начало XVI века|MadonnaBambinoGiovanninoBotticelli.jpg|2000|2845
+          128|Q3889254|Алтарь Сан-Барнаба|конец 1480-х — около 1490|Sandro Botticelli 003.jpg|2024|1824
+          129|Q488825|Поклонение волхвов — алтарь Дзаноби|около 1474–1476|Zanobi-Altar.jpg|8585|7013
+          130|Q549847|Весна|1480–1485|Sandro Botticelli - La Primavera - Google Art Project.jpg|5084|3377
+          131|Q742801|Портрет молодого человека — Палатинская галерея|около 1479|YoungManBotticelli.jpg|820|1229
+          132|Q7885787|Обнаружение тела Олоферна|1470–1472|Sandro Botticelli - La scoperta del cadavere di Oloferne e Il ritorno di Giuditta - Google Art Project.jpg|2468|3328
+          133|Q2872721|Автопортрет с тремя воротниками|1790–1791|Jacques Louis David auto portrait Florence.jpg|3418|4670
+          134|Q125760078|Давид с головой Голиафа|после 1605|David with the Head of Goliath (by Guido Reni) - Uffizi Gallery, Florence.jpg|2660|4000
+          135|Q23304693|Автопортрет|около 1635|Guido Reni - Self-portrait.jpg|2024|2746
+          136|Q32904731|Милосердие|1604–1607|Guido Reni 015.jpg|2536|3021
+          137|Q32904843|Клеопатра|около 1640|Guido Reni 046FXD.jpg|1000|1371
+          138|Q18226128|Автопортрет|1668–1669|Rembrandt, Self-portrait, 1668–1669, Galleria degli Uffizi, Florence.jpg|792|1024
+          139|Q21469930|Портрет пожилого мужчины — Старый раввин|1665|Rembrandt Harmenszoon van Rijn (Leida 1606 – Amsterdam 1669) - Portrait of an old man (The Old Rabbi) - 16 - Galleria Palatina.jpg|1607|1983
+          140|Q21686804|Портрет Рембрандта — атрибуция требует уточнения|около 1655|Rembrandt - Self-portrait c.1655 Uffizi.jpg|452|600
+          141|Q112580459|Распятие святого Андрея|1646|Dolci Crocifissione Andrea.jpg|650|800
+          142|Q112580569|Портрет Стефано делла Белла|1631|Dolci Stefano Della Bella.jpg|1193|1518
+          143|Q126965536|Портрет Клавдии Фелицитаты Австрийской в образе Галлы Плацидии|1675|Claudia Felicitas of Tirol1.jpg|430|555
+          144|Q130999140|Портрет Виттории делла Ровере во вдовьем одеянии|1675–1680|Carlo Dolci - Portrait of Vittoria della Rovere in Widow's Weeds - WGA6382.jpg|900|1110
+          145|Q131627588|Ваза с цветами и блюдо|около 1662|Carlo Dolci - Vase of Flowers - WGA6374.jpg|700|888
+          146|Q137399945|Моисей|1640–1645|Carlo Dolci - Moses - WGA6379.jpg|750|1063
+          147|Q52155142|Автопортрет|1674|Carlo Dolci - Self-Portrait - WGA6381.jpg|464|600
+          148|Q97933450|Портрет Айнольфо де Барди|1632|Carlo Dolci - Portrait of Ainolfo de' Bardi - WGA6371.jpg|600|778
+          149|Q117775408|Святой Себастьян — повторная репродукция №150|1525|Sodoma 003.jpg|772|1080
+          150|Q131613924|Мученичество святого Себастьяна — лицевая сторона процессионного знамени|1525|St. Sebastian by Sodoma.jpg|1742|2385`;
+          const data=raw.split('\n').map(line=>{const[n,Q,title,date,file,w,h]=line.trim().split('|');return {n:+n,Q,title,date,file,width:+w,height:+h};});
+          assert.deepEqual(data.map(r=>r.n),Array.from({length:50},(_,i)=>i+101));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c';
+          const queueDirectory='reports/uffizi-packages/43457577858-1';
+          const queueFiles=[1,2,3,4].map(n=>'new_work_candidates-00'+n+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));
+          const originalRecords=lists.flat().slice(100,150).map((r,i)=>({number:i+101,...r}));
+          assert.equal(originalRecords.length,50);originalRecords.forEach((r,i)=>assert.equal(r.work,data[i].Q));
+          const idFor=n=>n===103?'filippino_lippi':n<=110?'fra_filippo_lippi':n===111?'eugene_delacroix':n<=132?'botticelli':n===133?'jacques_louis_david':n<=137?'guido_reni':n<=140?'rembrandt':n<=148?'carlo_dolci':'sodoma';
+          const pageBatch={fra_filippo_lippi:7,filippino_lippi:38,eugene_delacroix:19,botticelli:7,jacques_louis_david:18,guido_reni:17,rembrandt:2,carlo_dolci:96,sodoma:52};
+          const expected={2:'eb54c63234fcc60f64b19cf23381d9829ff24428',7:'9a2b33f39ae4ef2bfd8216a7fa6611e5beff179d',17:'d14724b19792a18166598d24a76f751b23bb6796',18:'bec2b52812c22d57150620fab76deab0af3be0df',19:'4745703a67ca27b114f0031e332454979801c937',38:'d370d6318fcf0830ed2055d524f6a148db685950',52:'29d6ef70ad5c3d434d3664390648f299c48a0ae7',96:'f8512da357a0b793797c01974dd993314f53de43'};
+          const reportPath='reports/wiki-batches/batch-003.json';assert(!fs.existsSync(reportPath));
+          const oldReports=[1,2].map(n=>{const p='reports/wiki-batches/batch-00'+n+'.json';return {p,content:fs.readFileSync(p,'utf8')};});
+          const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];
+          const photos={102:'Shonagon',107:'Oursana',108:'Oursana',118:'Spike',122:'Gennadii Saus i Segura'};
+          for(const r of data){const id=idFor(r.n),license=r.n===107?'CC0':'Public domain';const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const entry={number:r.n,workId:r.Q,originalArtistId:originalRecords[r.n-101].artistId,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,license,originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseMetadataChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          if(r.n===140){Object.assign(entry,{status:'deferred',reason:'Найдена атрибуция мастерской Рембрандта, противоречащая названию исходного файла «Автопортрет». Не подключать как бесспорный автограф.',nextAction:'Сверить музейную атрибуцию и RKD 166064 с A Corpus of Rembrandt Paintings, IV, The self-portraits, 2005, p.448; затем выбрать корректную подпись и репродукцию.',alternativeCommonsFile:"Portrait of Rembrandt van Rijn, Rembrandt's studio, c. 1655, Galleria degli Uffizi, Florence.jpg"});results.push(entry);continue;}
+          if(r.n===149){Object.assign(entry,{status:'duplicate',duplicateOfNumber:150,reason:'Одна и та же лицевая сторона знамени Содомы: совпадают инвентарь 1890 n.1590, дата 1525, размеры 206×154 см и категория Commons. Не путать с оборотной стороной.',museumSource:'https://www.uffizi.it/en/artworks/sodoma-st-sebastian'});results.push(entry);continue;}
+          const bn=pageBatch[id],filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch3-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch3:'+r.Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name);const original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const credit=artist.name+'; '+(photos[r.n]?'фотография '+photos[r.n]+'; ':'')+'Wikimedia Commons; '+license;let note='Источник репродукции и условия использования — в карточке файла Commons.';if(r.n===103)note+=' Автор — Филиппино Липпи, не Фра Филиппо Липпи; ошибочная привязка исходной очереди исправлена.';if(r.n>=107&&r.n<=110)note+=' Связанное изображение одного ансамбля: №107 — общий вид пределлы Барбадори; №108–110 — её отдельные панели, не независимые от ансамбля произведения.';if(r.n===118)note+=' Ошибочное описание рисунка «Angel» из карточки Commons не перенесено; используется идентификация алтаря Сант-Амброджо по названию, категории и источникам.';if(r.n===126)note+=' Рисунок, а не живописное полотно.';if(r.n===127)note+=' Точная датировка в источниках различается; приведён общий период.';if(r.n===150)note+=' Лицевая сторона двустороннего знамени; оборот здесь не показан.';if(r.width<600)note+=' Исходный небольшой файл не увеличивался искусственно.';
+          const work={key,title:r.title,date:r.date,author:artist.name,medium:r.n===126?'Рисунок, перо':'',museum:r.n===102?'Лувр, Париж':'Галереи Уффици, Флоренция',source:imageSource,image:sized(960),zoom:sized(1920),imageSource,license,creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, права и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n>=102&&r.n<=110&&r.n!==103&&r.n!==104&&r.n!==105&&r.n!==106){work.objectGroup='barbadori-altarpiece';work.viewType=r.n===102?'main-panel':r.n===107?'predella-ensemble':'predella-panel';}if(r.n===103)work.metadataSources=['https://www.wga.hu/html_m/l/lippi/flippino/2/1palaott.html','https://it.wikipedia.org/wiki/Pala_degli_Otto',imageSource];if(r.n===150)work.metadataSources=['https://www.uffizi.it/en/artworks/sodoma-st-sebastian',imageSource];group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,8);assert.equal(results.filter(r=>r.work).length,48);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,9);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:3,range:[101,150],checkedDate:'2026-11-15',status:'connected_publication_pending',total:50,foundReproductions:50,ruOrEnWikipediaArticlesFound:21,newlyConnected:48,duplicatesCount:1,deferredConfirmed:1,artistPages:9,sourceFiles:8,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(100,150)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['48 — число подключаемых репродукций, не число независимых физических объектов: общий вид пределлы Барбадори и её панели явно связаны.','№103 перенесён с ошибочной страницы Фра Филиппо Липпи на страницу Филиппино Липпи.','№140 отложен из-за противоречия в атрибуции; №149 учтён как дубль №150.','№107: фотография Oursana с лицензией CC0. Остальные выбранные файлы имеют основание Public domain; кредит фотографа сохранён там, где установлен.','Полный визуальный просмотр изображений и отображение каждой страницы не объявляются проверенными.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const old of oldReports)assert.equal(fs.readFileSync(old.p,'utf8'),old.content);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch3-index.html"
+      - name: Commit bindings and report and request Pages publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{2,7,17,18,19,38,52,96}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-003.json
+          git diff --cached --stat
+          git commit -m 'Connect 48 third-batch reproductions and record one deferred work and one duplicate'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify live catalogue and record verification
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch3=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch3-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch3-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-003.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=48;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-003.json
+              git commit -m 'Record live catalogue verification for wiki batch three'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified live catalogue: 48 reproductions, 9 artist pages. Full visual and individual page checks remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; publication verification pending. Do not claim live verification.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
