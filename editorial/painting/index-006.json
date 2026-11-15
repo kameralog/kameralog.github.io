@@ -1,5 +1,35 @@
 [
   {
+    "id": "michaelina_wautier",
+    "name": "Михаэлина Ваутье",
+    "path": "records/michaelina_wautier.json"
+  },
+  {
+    "id": "michael_ancher",
+    "name": "Михаэль Анкер",
+    "path": "records/michael_ancher.json"
+  },
+  {
+    "id": "maude_burge",
+    "name": "Мод Бёрдж",
+    "path": "records/maude_burge.json"
+  },
+  {
+    "id": "maud_sherwood",
+    "name": "Мод Шервуд",
+    "path": "records/maud_sherwood.json"
+  },
+  {
+    "id": "moyses_van_wtenbrouck",
+    "name": "Мозес ван Эйтенбрук",
+    "path": "records/moyses_van_wtenbrouck.json"
+  },
+  {
+    "id": "mokuan_reien",
+    "name": "Мокуан Рэйэн",
+    "path": "records/mokuan_reien.json"
+  },
+  {
     "id": "moretto_da_brescia",
     "name": "Моретто да Брешиа",
     "path": "records/moretto_da_brescia.json"
@@ -143,6 +173,11 @@
     "id": "nils_kreuger",
     "name": "Нильс Крейгер",
     "path": "records/nils_kreuger.json"
+  },
+  {
+    "id": "niels_simonsen",
+    "name": "Нильс Симонсен",
+    "path": "records/niels_simonsen.json"
   },
   {
     "id": "niels_skovgaard",
@@ -463,40 +498,5 @@
     "id": "piero_della_francesca",
     "name": "Пьеро делла Франческа",
     "path": "records/piero_della_francesca.json"
-  },
-  {
-    "id": "piero_del_pollaiuolo",
-    "name": "Пьеро дель Поллайоло",
-    "path": "records/piero_del_pollaiuolo.json"
-  },
-  {
-    "id": "piero_di_cosimo",
-    "name": "Пьеро ди Козимо",
-    "path": "records/piero_di_cosimo.json"
-  },
-  {
-    "id": "pietro_da_cortona",
-    "name": "Пьетро да Кортона",
-    "path": "records/pietro_da_cortona.json"
-  },
-  {
-    "id": "pietro_longhi",
-    "name": "Пьетро Лонги",
-    "path": "records/pietro_longhi.json"
-  },
-  {
-    "id": "pietro_perugino",
-    "name": "Пьетро Перуджино",
-    "path": "records/pietro_perugino.json"
-  },
-  {
-    "id": "pietro_rotari",
-    "name": "Пьетро Ротари",
-    "path": "records/pietro_rotari.json"
-  },
-  {
-    "id": "petras_kalpokas",
-    "name": "Пятрас Калпокас",
-    "path": "records/petras_kalpokas.json"
   }
 ]

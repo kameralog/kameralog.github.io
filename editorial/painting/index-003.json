@@ -1,5 +1,15 @@
 [
   {
+    "id": "giotto",
+    "name": "Джотто ди Бондоне",
+    "path": "records/giotto.json"
+  },
+  {
+    "id": "giuseppe_bartolomeo_chiari",
+    "name": "Джузеппе Бартоломео Кьяри",
+    "path": "records/giuseppe_bartolomeo_chiari.json"
+  },
+  {
     "id": "giuseppe_zais",
     "name": "Джузеппе Дзаис",
     "path": "records/giuseppe_zais.json"
@@ -395,6 +405,16 @@
     "path": "records/jeanna_bauck.json"
   },
   {
+    "id": "jens_juel",
+    "name": "Йенс Юль",
+    "path": "records/jens_juel.json"
+  },
+  {
+    "id": "jorgen_sonne",
+    "name": "Йёрген Зонне",
+    "path": "records/jorgen_sonne.json"
+  },
+  {
     "id": "jorgen_roed",
     "name": "Йёрген Рёд",
     "path": "records/jorgen_roed.json"
@@ -478,25 +498,5 @@
     "id": "joos_de_momper",
     "name": "Йос де Момпер",
     "path": "records/joos_de_momper.json"
-  },
-  {
-    "id": "johan_christian_dahl",
-    "name": "Йохан Кристиан Даль",
-    "path": "records/johan_christian_dahl.json"
-  },
-  {
-    "id": "johan_laurentz_jensen",
-    "name": "Йохан Лауренц Йенсен",
-    "path": "records/johan_laurentz_jensen.json"
-  },
-  {
-    "id": "johan_thomas_lundbye",
-    "name": "Йохан Томас Лундбю",
-    "path": "records/johan_thomas_lundbye.json"
-  },
-  {
-    "id": "johan_fredrik_eckersberg",
-    "name": "Йохан Фредрик Эккерсберг",
-    "path": "records/johan_fredrik_eckersberg.json"
   }
 ]

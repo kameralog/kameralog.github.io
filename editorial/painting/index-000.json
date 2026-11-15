@@ -170,6 +170,11 @@
     "path": "records/albert_bouts.json"
   },
   {
+    "id": "albert_kuchler",
+    "name": "Альберт Кюхлер",
+    "path": "records/albert_kuchler.json"
+  },
+  {
     "id": "albert_paris_gutersloh",
     "name": "Альберт Парис Гютерсло",
     "path": "records/albert_paris_gutersloh.json"
@@ -493,10 +498,5 @@
     "id": "antoine_watteau",
     "name": "Антуан Ватто",
     "path": "records/antoine_watteau.json"
-  },
-  {
-    "id": "antoine_coypel",
-    "name": "Антуан Куапель",
-    "path": "records/antoine_coypel.json"
   }
 ]

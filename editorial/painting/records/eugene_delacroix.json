@@ -32,6 +32,10 @@
     {
       "title": "Метрополитен: реставрация и цвет",
       "url": "https://www.metmuseum.org/perspectives/delacroix-conversation-asher-miller"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Ferdinand_Victor_Delacroix_050.jpg"
     }
   ],
   "works": [
@@ -41,6 +45,13 @@
       "date": "1848–1849",
       "museum": "Метрополитен-музей, Нью-Йорк",
       "source": "https://www.metmuseum.org/art/collection/search/436175"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q52155724",
+      "title": "Автопортрет",
+      "date": "1860",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Ferdinand_Victor_Delacroix_050.jpg"
     }
   ],
   "pendingWorksCount": 0

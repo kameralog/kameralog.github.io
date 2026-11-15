@@ -1,5 +1,40 @@
 [
   {
+    "id": "ferdinand_bol",
+    "name": "Фердинанд Бол",
+    "path": "records/ferdinand_bol.json"
+  },
+  {
+    "id": "ferdinand_georg_waldmuller",
+    "name": "Фердинанд Георг Вальдмюллер",
+    "path": "records/ferdinand_georg_waldmuller.json"
+  },
+  {
+    "id": "ferdinand_von_wright",
+    "name": "Фердинанд фон Вригт",
+    "path": "records/ferdinand_von_wright.json"
+  },
+  {
+    "id": "ferdinand_hodler",
+    "name": "Фердинанд Ходлер",
+    "path": "records/ferdinand_hodler.json"
+  },
+  {
+    "id": "ferdinand_engelmuller",
+    "name": "Фердинанд Энгельмюллер",
+    "path": "records/ferdinand_engelmuller.json"
+  },
+  {
+    "id": "fidelia_bridges",
+    "name": "Фиделия Бриджес",
+    "path": "records/fidelia_bridges.json"
+  },
+  {
+    "id": "philippe_de_champaigne",
+    "name": "Филипп де Шампень",
+    "path": "records/philippe_de_champaigne.json"
+  },
+  {
     "id": "filippino_lippi",
     "name": "Филиппино Липпи",
     "path": "records/filippino_lippi.json"
@@ -175,6 +210,11 @@
     "path": "records/francesco_zuccarelli.json"
   },
   {
+    "id": "frederik_vermehren",
+    "name": "Фредерик Вермерен",
+    "path": "records/frederik_vermehren.json"
+  },
+  {
     "id": "frederick_de_moucheron",
     "name": "Фредерик де Мушерон",
     "path": "records/frederick_de_moucheron.json"
@@ -213,6 +253,11 @@
     "id": "friedrich_loos",
     "name": "Фридрих Лоос",
     "path": "records/friedrich_loos.json"
+  },
+  {
+    "id": "fritz_petzholdt",
+    "name": "Фриц Петцхольдт",
+    "path": "records/fritz_petzholdt.json"
   },
   {
     "id": "fritz_syberg",
@@ -453,50 +498,5 @@
     "id": "jeong_seon",
     "name": "Чон Сон",
     "path": "records/jeong_seon.json"
-  },
-  {
-    "id": "chen_hongshou",
-    "name": "Чэнь Хуншоу",
-    "path": "records/chen_hongshou.json"
-  },
-  {
-    "id": "sandor_bortnyik",
-    "name": "Шандор Бортник",
-    "path": "records/sandor_bortnyik.json"
-  },
-  {
-    "id": "sandor_ziffer",
-    "name": "Шандор Зиффер",
-    "path": "records/sandor_ziffer.json"
-  },
-  {
-    "id": "charles_de_la_fosse",
-    "name": "Шарль де Лафосс",
-    "path": "records/charles_de_la_fosse.json"
-  },
-  {
-    "id": "charles_giron",
-    "name": "Шарль Жирон",
-    "path": "records/charles_giron.json"
-  },
-  {
-    "id": "charles_le_brun",
-    "name": "Шарль Лебрен",
-    "path": "records/charles_le_brun.json"
-  },
-  {
-    "id": "charles_l_eplattenier",
-    "name": "Шарль Леплатенье",
-    "path": "records/charles_l_eplattenier.json"
-  },
-  {
-    "id": "charles_meynier",
-    "name": "Шарль Мейнье",
-    "path": "records/charles_meynier.json"
-  },
-  {
-    "id": "shaikh_zainuddin",
-    "name": "Шейх Зайн-уд-Дин",
-    "path": "records/shaikh_zainuddin.json"
   }
 ]

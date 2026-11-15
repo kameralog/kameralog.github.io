@@ -28,6 +28,10 @@
     {
       "title": "Чикаго: незавершённость портрета",
       "url": "https://www.artic.edu/artworks/27307/madame-de-pastoret-and-her-son"
+    },
+    {
+      "title": "Репродукция: Автопортрет с тремя воротниками",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacques_Louis_David_auto_portrait_Florence.jpg"
     }
   ],
   "works": [
@@ -37,6 +41,13 @@
       "date": "1791–92",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/27307"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2872721",
+      "title": "Автопортрет с тремя воротниками",
+      "date": "1790–1791",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacques_Louis_David_auto_portrait_Florence.jpg"
     }
   ],
   "pendingWorksCount": 0

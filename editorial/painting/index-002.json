@@ -1,5 +1,15 @@
 [
   {
+    "id": "wen_zhengming",
+    "name": "Вэнь Чжэнмин",
+    "path": "records/wen_zhengming.json"
+  },
+  {
+    "id": "vaino_blomstedt",
+    "name": "Вяйнё Блумстедт",
+    "path": "records/vaino_blomstedt.json"
+  },
+  {
     "id": "vaino_kunnas",
     "name": "Вяйнё Куннас",
     "path": "records/vaino_kunnas.json"
@@ -488,15 +498,5 @@
     "id": "giorgio_vasari",
     "name": "Джорджо Вазари",
     "path": "records/giorgio_vasari.json"
-  },
-  {
-    "id": "giotto",
-    "name": "Джотто ди Бондоне",
-    "path": "records/giotto.json"
-  },
-  {
-    "id": "giuseppe_bartolomeo_chiari",
-    "name": "Джузеппе Бартоломео Кьяри",
-    "path": "records/giuseppe_bartolomeo_chiari.json"
   }
 ]

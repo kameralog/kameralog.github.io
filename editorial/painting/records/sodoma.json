@@ -42,6 +42,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Sodoma_(1477-1549)_-_Saint_Jerome_in_Penitence_-_NG3947_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Мученичество святого Себастьяна — лицевая сторона процессионного знамени",
+      "url": "https://commons.wikimedia.org/wiki/File:St._Sebastian_by_Sodoma.jpg"
     }
   ],
   "works": [
@@ -50,6 +54,13 @@
       "title": "Кающийся святой Иероним",
       "date": "вероятно около 1535–1545",
       "source": "https://www.nationalgallery.org.uk/paintings/sodoma-saint-jerome-in-penitence"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q131613924",
+      "title": "Мученичество святого Себастьяна — лицевая сторона процессионного знамени",
+      "date": "1525",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:St._Sebastian_by_Sodoma.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -1,5 +1,35 @@
 [
   {
+    "id": "lilly_martin_spencer",
+    "name": "Лилли Мартин Спенсер",
+    "path": "records/lilly_martin_spencer.json"
+  },
+  {
+    "id": "laura_muntz_lyall",
+    "name": "Лора Мунц Лайалл",
+    "path": "records/laura_muntz_lyall.json"
+  },
+  {
+    "id": "laurent_de_la_hyre",
+    "name": "Лоран де Ла Ир",
+    "path": "records/laurent_de_la_hyre.json"
+  },
+  {
+    "id": "lorenzo_di_credi",
+    "name": "Лоренцо ди Креди",
+    "path": "records/lorenzo_di_credi.json"
+  },
+  {
+    "id": "lorenzo_costa",
+    "name": "Лоренцо Коста",
+    "path": "records/lorenzo_costa.json"
+  },
+  {
+    "id": "lorenzo_lippi",
+    "name": "Лоренцо Липпи",
+    "path": "records/lorenzo_lippi.json"
+  },
+  {
     "id": "lorenzo_lotto",
     "name": "Лоренцо Лотто",
     "path": "records/lorenzo_lotto.json"
@@ -468,35 +498,5 @@
     "id": "mihaly_munkacsy",
     "name": "Михай Мункачи",
     "path": "records/mihaly_munkacsy.json"
-  },
-  {
-    "id": "michaelina_wautier",
-    "name": "Михаэлина Ваутье",
-    "path": "records/michaelina_wautier.json"
-  },
-  {
-    "id": "michael_ancher",
-    "name": "Михаэль Анкер",
-    "path": "records/michael_ancher.json"
-  },
-  {
-    "id": "maude_burge",
-    "name": "Мод Бёрдж",
-    "path": "records/maude_burge.json"
-  },
-  {
-    "id": "maud_sherwood",
-    "name": "Мод Шервуд",
-    "path": "records/maud_sherwood.json"
-  },
-  {
-    "id": "moyses_van_wtenbrouck",
-    "name": "Мозес ван Эйтенбрук",
-    "path": "records/moyses_van_wtenbrouck.json"
-  },
-  {
-    "id": "mokuan_reien",
-    "name": "Мокуан Рэйэн",
-    "path": "records/mokuan_reien.json"
   }
 ]

@@ -20,7 +20,7 @@
     ],
     "innovation": "Британская энциклопедия говорит, что «Рождение Венеры» (около 1485) и «Весну» (около 1477–82) часто считают воплощением духа Ренессанса. Религиозные картины, например Мадонн, выпускала преимущественно его мастерская.",
     "caution": "У чикагской «Мадонны с Младенцем и ангелом» в выбранной записи подробного описания нет. Многие Мадонны Боттичелли выполнены мастерской, поэтому внимательно читай музейную подпись: «Боттичелли», «мастерская» и «круг» — разные утверждения.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,90 @@
     {
       "title": "Art Institute of Chicago: Virgin and Child with an Angel",
       "url": "https://www.artic.edu/artworks/80530"
+    },
+    {
+      "title": "Репродукция: Аллегория силы",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Fortitudo_-_Uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Августин в келье — версия Уффици",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_St_Augustin_dans_son_cabinet_de_travail.jpg"
+    },
+    {
+      "title": "Репродукция: Коронование Богоматери — алтарь Сан-Марко",
+      "url": "https://commons.wikimedia.org/wiki/File:Botticelli%2C_incoronazione_della_vergine.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов — незавершённая версия",
+      "url": "https://commons.wikimedia.org/wiki/File:Botticelli%2C_adorazione_dei_magi_uffizi_1490--1500.jpg"
+    },
+    {
+      "title": "Репродукция: Клевета Апеллеса",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_La_calumnia_de_Apeles.jpg"
+    },
+    {
+      "title": "Репродукция: Рождение Венеры",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и шестью святыми — алтарь Сант-Амброджо",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_Madonna_and_Child_with_Six_Saints_01.jpg"
+    },
+    {
+      "title": "Репродукция: Возвращение Юдифи в Ветулию",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Retour_de_Judith_1.JPG"
+    },
+    {
+      "title": "Репродукция: Мадонна с гранатом",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Madonna_della_melagrana_1487.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет молодой женщины",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Portrait_de_femme.jpg"
+    },
+    {
+      "title": "Репродукция: Паллада и Кентавр",
+      "url": "https://commons.wikimedia.org/wiki/File:Pallade_col_Centauro%2C_Sandro_Botticelli_%281482%29.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна Маньификат",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Madonna_del_Magnificat_C.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение Честелло",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Annunciazione_di_Cestello.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна делла Лоджиа",
+      "url": "https://commons.wikimedia.org/wiki/File:MadonnaLoggiaBotticelli.jpg"
+    },
+    {
+      "title": "Репродукция: Три парящих ангела — рисунок для люнета",
+      "url": "https://commons.wikimedia.org/wiki/File:Botticelli%2C_disegno%2C_tre_angeli.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и маленьким Иоанном Крестителем",
+      "url": "https://commons.wikimedia.org/wiki/File:MadonnaBambinoGiovanninoBotticelli.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь Сан-Барнаба",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_003.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов — алтарь Дзаноби",
+      "url": "https://commons.wikimedia.org/wiki/File:Zanobi-Altar.jpg"
+    },
+    {
+      "title": "Репродукция: Весна",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет молодого человека — Палатинская галерея",
+      "url": "https://commons.wikimedia.org/wiki/File:YoungManBotticelli.jpg"
+    },
+    {
+      "title": "Репродукция: Обнаружение тела Олоферна",
+      "url": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_scoperta_del_cadavere_di_Oloferne_e_Il_ritorno_di_Giuditta_-_Google_Art_Project.jpg"
     }
   ],
   "works": [
@@ -43,6 +127,153 @@
       "date": "1475–85",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/80530"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q1109340",
+      "title": "Аллегория силы",
+      "date": "до 1472",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Fortitudo_-_Uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q1114823",
+      "title": "Святой Августин в келье — версия Уффици",
+      "date": "1490–1494",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_St_Augustin_dans_son_cabinet_de_travail.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q1131263",
+      "title": "Коронование Богоматери — алтарь Сан-Марко",
+      "date": "1490–1492",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Botticelli%2C_incoronazione_della_vergine.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q115652286",
+      "title": "Поклонение волхвов — незавершённая версия",
+      "date": "около 1500",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Botticelli%2C_adorazione_dei_magi_uffizi_1490--1500.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q1217187",
+      "title": "Клевета Апеллеса",
+      "date": "около 1496–1497",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_La_calumnia_de_Apeles.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q151047",
+      "title": "Рождение Венеры",
+      "date": "1485",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q1761496",
+      "title": "Мадонна с Младенцем и шестью святыми — алтарь Сант-Амброджо",
+      "date": "около 1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_Madonna_and_Child_with_Six_Saints_01.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2267509",
+      "title": "Возвращение Юдифи в Ветулию",
+      "date": "1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Retour_de_Judith_1.JPG"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2269291",
+      "title": "Мадонна с гранатом",
+      "date": "1487",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Madonna_della_melagrana_1487.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2405771",
+      "title": "Портрет молодой женщины",
+      "date": "1485",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Portrait_de_femme.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2426058",
+      "title": "Паллада и Кентавр",
+      "date": "1482",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pallade_col_Centauro%2C_Sandro_Botticelli_%281482%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2551625",
+      "title": "Мадонна Маньификат",
+      "date": "1483",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Madonna_del_Magnificat_C.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2714237",
+      "title": "Благовещение Честелло",
+      "date": "1489–1490",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_Annunciazione_di_Cestello.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q2717478",
+      "title": "Мадонна делла Лоджиа",
+      "date": "около 1467",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:MadonnaLoggiaBotticelli.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q30310406",
+      "title": "Три парящих ангела — рисунок для люнета",
+      "date": "1475–1480",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Botticelli%2C_disegno%2C_tre_angeli.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q3842521",
+      "title": "Мадонна с Младенцем и маленьким Иоанном Крестителем",
+      "date": "конец XV — начало XVI века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:MadonnaBambinoGiovanninoBotticelli.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q3889254",
+      "title": "Алтарь Сан-Барнаба",
+      "date": "конец 1480-х — около 1490",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_003.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q488825",
+      "title": "Поклонение волхвов — алтарь Дзаноби",
+      "date": "около 1474–1476",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Zanobi-Altar.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q549847",
+      "title": "Весна",
+      "date": "1480–1485",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Primavera_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q742801",
+      "title": "Портрет молодого человека — Палатинская галерея",
+      "date": "около 1479",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:YoungManBotticelli.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q7885787",
+      "title": "Обнаружение тела Олоферна",
+      "date": "1470–1472",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_scoperta_del_cadavere_di_Oloferne_e_Il_ritorno_di_Giuditta_-_Google_Art_Project.jpg"
     }
   ],
   "pendingWorksCount": 0

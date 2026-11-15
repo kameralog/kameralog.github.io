@@ -1,5 +1,40 @@
 [
   {
+    "id": "piero_del_pollaiuolo",
+    "name": "Пьеро дель Поллайоло",
+    "path": "records/piero_del_pollaiuolo.json"
+  },
+  {
+    "id": "piero_di_cosimo",
+    "name": "Пьеро ди Козимо",
+    "path": "records/piero_di_cosimo.json"
+  },
+  {
+    "id": "pietro_da_cortona",
+    "name": "Пьетро да Кортона",
+    "path": "records/pietro_da_cortona.json"
+  },
+  {
+    "id": "pietro_longhi",
+    "name": "Пьетро Лонги",
+    "path": "records/pietro_longhi.json"
+  },
+  {
+    "id": "pietro_perugino",
+    "name": "Пьетро Перуджино",
+    "path": "records/pietro_perugino.json"
+  },
+  {
+    "id": "pietro_rotari",
+    "name": "Пьетро Ротари",
+    "path": "records/pietro_rotari.json"
+  },
+  {
+    "id": "petras_kalpokas",
+    "name": "Пятрас Калпокас",
+    "path": "records/petras_kalpokas.json"
+  },
+  {
     "id": "raphael",
     "name": "Рафаэль Санти",
     "path": "records/raphael.json"
@@ -463,40 +498,5 @@
     "id": "theophanes_the_greek",
     "name": "Феофан Грек",
     "path": "records/theophanes_the_greek.json"
-  },
-  {
-    "id": "ferdinand_bol",
-    "name": "Фердинанд Бол",
-    "path": "records/ferdinand_bol.json"
-  },
-  {
-    "id": "ferdinand_georg_waldmuller",
-    "name": "Фердинанд Георг Вальдмюллер",
-    "path": "records/ferdinand_georg_waldmuller.json"
-  },
-  {
-    "id": "ferdinand_von_wright",
-    "name": "Фердинанд фон Вригт",
-    "path": "records/ferdinand_von_wright.json"
-  },
-  {
-    "id": "ferdinand_hodler",
-    "name": "Фердинанд Ходлер",
-    "path": "records/ferdinand_hodler.json"
-  },
-  {
-    "id": "ferdinand_engelmuller",
-    "name": "Фердинанд Энгельмюллер",
-    "path": "records/ferdinand_engelmuller.json"
-  },
-  {
-    "id": "fidelia_bridges",
-    "name": "Фиделия Бриджес",
-    "path": "records/fidelia_bridges.json"
-  },
-  {
-    "id": "philippe_de_champaigne",
-    "name": "Филипп де Шампень",
-    "path": "records/philippe_de_champaigne.json"
   }
 ]

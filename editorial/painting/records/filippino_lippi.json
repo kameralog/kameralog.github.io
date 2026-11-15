@@ -20,7 +20,7 @@
     ],
     "innovation": "Тип «святого собеседования» объединяет святых разных времён в общем пространстве. Филиппино связывает устойчивую группу с живым пейзажем, повторяющимися мотивами и небольшими повествовательными эпизодами.",
     "caution": "Не путай Филиппино с его отцом Фра Филиппо Липпи. NG293 происходит из капеллы Ручеллаи в Сан-Панкрацио во Флоренции. Нынешняя сложная рама — воспроизведение XIX века, а не бесспорно первоначальная. Указание на бегство в Египет в дальнем плане музей подаёт как возможность. Размер файла Commons 697 × 800 пикселей: увеличение не добавит деталей. Визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,10 @@
     {
       "title": "Commons: репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi_(c.1457-1504)_-_The_Virgin_and_Child_with_Saints_Jerome_and_Dominic_-_NG293_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь восьми — Мадонна с Младенцем и четырьмя святыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi_-_Signoria_Altarpiece_%28Pala_degli_Otto%29_-_WGA13085.jpg"
     }
   ],
   "works": [
@@ -43,6 +47,13 @@
       "date": "около 1485",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/filippino-lippi-the-virgin-and-child-with-saints-jerome-and-dominic"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q3889213",
+      "title": "Алтарь восьми — Мадонна с Младенцем и четырьмя святыми",
+      "date": "1486",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi_-_Signoria_Altarpiece_%28Pala_degli_Otto%29_-_WGA13085.jpg"
     }
   ],
   "pendingWorksCount": 0

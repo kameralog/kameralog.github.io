@@ -20,7 +20,7 @@
     ],
     "innovation": "В отличие от многих голландских современников, сосредоточенных на городских видах, пейзажах и натюрмортах, Рембрандт часто обращался к библейским сюжетам и человеческому переживанию. Его характеры не сводятся к внешнему сходству: свет, жест и контекст создают психологическую глубину. Он повлиял на художников XVII и XVIII веков и на реалистов XIX столетия.",
     "caution": "Не называй любую тёмную голландскую картину Рембрандтом. У Чикаго и Кливленда сохранены оговорки «мастерская» и «Studio»; «Молодая женщина у открытой полудвери» подписана и датирована, но музей считает плоскостность композиции доводом против авторства самого мастера.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,14 @@
     {
       "title": "The Met: Рембрандт и Библия",
       "url": "https://www.metmuseum.org/met-publications/rembrandt-and-the-bible"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Rembrandt%2C_Self-portrait%2C_1668%E2%80%931669%2C_Galleria_degli_Uffizi%2C_Florence.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет пожилого мужчины — Старый раввин",
+      "url": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmenszoon_van_Rijn_%28Leida_1606_%E2%80%93_Amsterdam_1669%29_-_Portrait_of_an_old_man_%28The_Old_Rabbi%29_-_16_-_Galleria_Palatina.jpg"
     }
   ],
   "works": [
@@ -68,6 +76,20 @@
       "date": "c. 1629 or 1632",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1942.644"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q18226128",
+      "title": "Автопортрет",
+      "date": "1668–1669",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rembrandt%2C_Self-portrait%2C_1668%E2%80%931669%2C_Galleria_degli_Uffizi%2C_Florence.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q21469930",
+      "title": "Портрет пожилого мужчины — Старый раввин",
+      "date": "1665",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmenszoon_van_Rijn_%28Leida_1606_%E2%80%93_Amsterdam_1669%29_-_Portrait_of_an_old_man_%28The_Old_Rabbi%29_-_16_-_Galleria_Palatina.jpg"
     }
   ],
   "pendingWorksCount": 0

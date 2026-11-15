@@ -42,6 +42,42 @@
     {
       "title": "Репродукция: Поклонение Младенцу — алтарь Камальдоли",
       "url": "https://commons.wikimedia.org/wiki/File:Lippi%2C_adorazione_di_camaldoli.jpg"
+    },
+    {
+      "title": "Репродукция: Коронование Богоматери",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_007.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь Барбадори — центральная часть",
+      "url": "https://commons.wikimedia.org/wiki/File:Pala_Barbadori_-_Fra_Filippo_Lippi_-_Mus%C3%A9e_du_Louvre_Peintures_INV_339.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь Новициато",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_-_Madonna_Enthroned_with_Saints_-_WGA13224.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и сценами из жизни святой Анны — Тондо Бартолини",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_010.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение со святыми Антонием Аббатом и Иоанном Крестителем — две створки",
+      "url": "https://commons.wikimedia.org/wiki/File:Lippi%2C_Vergine_Annunziata%2C_Angelo_Annunziante%2C_sant%27Antonio_Abate_e_san_Giovanni_Battista.jpg"
+    },
+    {
+      "title": "Репродукция: Пределла алтаря Барбадори — общий вид",
+      "url": "https://commons.wikimedia.org/wiki/File:Predella_Pala_Barbadori-_Uffizi.JPG"
+    },
+    {
+      "title": "Репродукция: Святой Фредьяно изменяет русло Серкио — панель пределлы Барбадори",
+      "url": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori%2C_uffizi%2C_02.02.jpg"
+    },
+    {
+      "title": "Репродукция: Возвещение смерти Богоматери и прибытие апостолов — панель пределлы Барбадори",
+      "url": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori%2C_uffizi%2C_01.jpg"
+    },
+    {
+      "title": "Репродукция: Видение святого Августина — панель пределлы Барбадори",
+      "url": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori%2C_uffizi%2C_03.jpg"
     }
   ],
   "works": [
@@ -72,6 +108,69 @@
       "date": "около 1463",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://commons.wikimedia.org/wiki/File:Lippi%2C_adorazione_di_camaldoli.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q3797764",
+      "title": "Коронование Богоматери",
+      "date": "1441",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_007.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q3889196",
+      "title": "Алтарь Барбадори — центральная часть",
+      "date": "1437–1438",
+      "museum": "Лувр, Париж",
+      "source": "https://commons.wikimedia.org/wiki/File:Pala_Barbadori_-_Fra_Filippo_Lippi_-_Mus%C3%A9e_du_Louvre_Peintures_INV_339.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q3889222",
+      "title": "Алтарь Новициато",
+      "date": "около 1445",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_-_Madonna_Enthroned_with_Saints_-_WGA13224.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q3993020",
+      "title": "Мадонна с Младенцем и сценами из жизни святой Анны — Тондо Бартолини",
+      "date": "1452",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Filippo_Lippi_010.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q4009966",
+      "title": "Благовещение со святыми Антонием Аббатом и Иоанном Крестителем — две створки",
+      "date": "около 1452–1453",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lippi%2C_Vergine_Annunziata%2C_Angelo_Annunziante%2C_sant%27Antonio_Abate_e_san_Giovanni_Battista.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q50617387",
+      "title": "Пределла алтаря Барбадори — общий вид",
+      "date": "1437–1439",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Predella_Pala_Barbadori-_Uffizi.JPG"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q92358261",
+      "title": "Святой Фредьяно изменяет русло Серкио — панель пределлы Барбадори",
+      "date": "1437–1439",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori%2C_uffizi%2C_02.02.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q92419779",
+      "title": "Возвещение смерти Богоматери и прибытие апостолов — панель пределлы Барбадори",
+      "date": "1438",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori%2C_uffizi%2C_01.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q92422327",
+      "title": "Видение святого Августина — панель пределлы Барбадори",
+      "date": "1438",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Predella_pala_barbadori%2C_uffizi%2C_03.jpg"
     }
   ],
   "pendingWorksCount": 0

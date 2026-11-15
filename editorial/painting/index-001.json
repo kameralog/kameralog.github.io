@@ -1,5 +1,10 @@
 [
   {
+    "id": "antoine_coypel",
+    "name": "Антуан Куапель",
+    "path": "records/antoine_coypel.json"
+  },
+  {
     "id": "aniello_falcone",
     "name": "Аньелло Фальконе",
     "path": "records/aniello_falcone.json"
@@ -435,6 +440,11 @@
     "path": "records/wilhelm_bendz.json"
   },
   {
+    "id": "wilhelm_marstrand",
+    "name": "Вильгельм Марстранн",
+    "path": "records/wilhelm_marstrand.json"
+  },
+  {
     "id": "vilhelms_purvitis",
     "name": "Вильгельм Пурвитис",
     "path": "records/vilhelms_purvitis.json"
@@ -488,15 +498,5 @@
     "id": "vojtech_hynais",
     "name": "Войтех Гинайc",
     "path": "records/vojtech_hynais.json"
-  },
-  {
-    "id": "wen_zhengming",
-    "name": "Вэнь Чжэнмин",
-    "path": "records/wen_zhengming.json"
-  },
-  {
-    "id": "vaino_blomstedt",
-    "name": "Вяйнё Блумстедт",
-    "path": "records/vaino_blomstedt.json"
   }
 ]

@@ -24,6 +24,22 @@
     {
       "title": "Art Institute of Chicago: Salome with the Head of Saint John the Baptist",
       "url": "https://www.artic.edu/artworks/11434"
+    },
+    {
+      "title": "Репродукция: Давид с головой Голиафа",
+      "url": "https://commons.wikimedia.org/wiki/File:David_with_the_Head_of_Goliath_%28by_Guido_Reni%29_-_Uffizi_Gallery%2C_Florence.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Self-portrait.jpg"
+    },
+    {
+      "title": "Репродукция: Милосердие",
+      "url": "https://commons.wikimedia.org/wiki/File:Guido_Reni_015.jpg"
+    },
+    {
+      "title": "Репродукция: Клеопатра",
+      "url": "https://commons.wikimedia.org/wiki/File:Guido_Reni_046FXD.jpg"
     }
   ],
   "works": [
@@ -33,6 +49,34 @@
       "date": "c. 1639–42",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/11434"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q125760078",
+      "title": "Давид с головой Голиафа",
+      "date": "после 1605",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:David_with_the_Head_of_Goliath_%28by_Guido_Reni%29_-_Uffizi_Gallery%2C_Florence.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q23304693",
+      "title": "Автопортрет",
+      "date": "около 1635",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guido_Reni_-_Self-portrait.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q32904731",
+      "title": "Милосердие",
+      "date": "1604–1607",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guido_Reni_015.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch3:Q32904843",
+      "title": "Клеопатра",
+      "date": "около 1640",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guido_Reni_046FXD.jpg"
     }
   ],
   "pendingWorksCount": 0
