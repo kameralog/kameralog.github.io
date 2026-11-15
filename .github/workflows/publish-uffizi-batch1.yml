@@ -1,0 +1,61 @@
+name: Publish forty wiki reproductions
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'games/painting/publish-uffizi-batch1.mjs'
+      - 'games/painting/uffizi-batch1-plan.txt'
+      - '.github/workflows/publish-uffizi-batch1.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install approved images and verify catalogue
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/uffizi-index-before.html"
+          node publish-uffizi-batch1.mjs --self-test
+          node publish-uffizi-batch1.mjs
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/uffizi-index-before.html"
+      - name: Commit approved changes and request Pages publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{7,9,10,14,17,38,53,74,98,99,101,104,121}.js games/painting/artists.js games/painting/wiki-uffizi-batch1-publication.json
+          git diff --cached --stat
+          git commit -m 'Publish 40 wiki reproductions on 15 artist pages'
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+          echo '40 reproductions committed; Pages build requested. Live publication not yet verified.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Verify live catalogue contains all forty bindings
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 24); do
+            if curl --fail --silent --show-error --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch1=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/uffizi-live-artists.js" && cmp -s artists.js "$RUNNER_TEMP/uffizi-live-artists.js"; then
+              echo 'Live artists.js matches the approved compiled catalogue. Individual rendered pages are not browser-tested by this step.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Live publication not verified; committed changes remain saved.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
