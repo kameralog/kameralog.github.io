@@ -1,5 +1,45 @@
 [
   {
+    "id": "funerary_portrait_of_aline",
+    "name": "Портрет Алины (Aline) из Хавары",
+    "path": "records/funerary_portrait_of_aline.json"
+  },
+  {
+    "id": "hermione_grammatike",
+    "name": "Портрет Гермионы Грамматики",
+    "path": "records/hermione_grammatike.json"
+  },
+  {
+    "id": "portrait_of_eutyches",
+    "name": "Портрет мальчика Евтиха",
+    "path": "records/portrait_of_eutyches.json"
+  },
+  {
+    "id": "prince_eugen",
+    "name": "Принц Евгений",
+    "path": "records/prince_eugen.json"
+  },
+  {
+    "id": "purkhu",
+    "name": "Пуркху",
+    "path": "records/purkhu.json"
+  },
+  {
+    "id": "pierre_henri_de_valenciennes",
+    "name": "Пьер Анри де Валансьен",
+    "path": "records/pierre_henri_de_valenciennes.json"
+  },
+  {
+    "id": "renoir",
+    "name": "Пьер Огюст Ренуар",
+    "path": "records/renoir.json"
+  },
+  {
+    "id": "piero_della_francesca",
+    "name": "Пьеро делла Франческа",
+    "path": "records/piero_della_francesca.json"
+  },
+  {
     "id": "piero_del_pollaiuolo",
     "name": "Пьеро дель Поллайоло",
     "path": "records/piero_del_pollaiuolo.json"
@@ -458,45 +498,5 @@
     "id": "william_holman_hunt",
     "name": "Уильям Холман Хант",
     "path": "records/william_holman_hunt.json"
-  },
-  {
-    "id": "fanny_brate",
-    "name": "Фанни Брате",
-    "path": "records/fanny_brate.json"
-  },
-  {
-    "id": "fanny_geefs",
-    "name": "Фанни Гефс",
-    "path": "records/fanny_geefs.json"
-  },
-  {
-    "id": "fanny_churberg",
-    "name": "Фанни Чурберг",
-    "path": "records/fanny_churberg.json"
-  },
-  {
-    "id": "fan_kuan",
-    "name": "Фань Куань",
-    "path": "records/fan_kuan.json"
-  },
-  {
-    "id": "fede_galizia",
-    "name": "Феде Галиция",
-    "path": "records/fede_galizia.json"
-  },
-  {
-    "id": "felix_albrecht_harta",
-    "name": "Феликс Альбрехт Харта",
-    "path": "records/felix_albrecht_harta.json"
-  },
-  {
-    "id": "felix_vallotton",
-    "name": "Феликс Валлоттон",
-    "path": "records/felix_vallotton.json"
-  },
-  {
-    "id": "theophanes_the_greek",
-    "name": "Феофан Грек",
-    "path": "records/theophanes_the_greek.json"
   }
 ]

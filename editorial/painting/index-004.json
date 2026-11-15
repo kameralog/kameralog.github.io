@@ -1,5 +1,20 @@
 [
   {
+    "id": "joos_van_cleve",
+    "name": "Йос ван Клеве",
+    "path": "records/joos_van_cleve.json"
+  },
+  {
+    "id": "joos_de_momper",
+    "name": "Йос де Момпер",
+    "path": "records/joos_de_momper.json"
+  },
+  {
+    "id": "johan_vilhelm_gertner",
+    "name": "Йохан Вильхельм Гертнер",
+    "path": "records/johan_vilhelm_gertner.json"
+  },
+  {
     "id": "johan_christian_dahl",
     "name": "Йохан Кристиан Даль",
     "path": "records/johan_christian_dahl.json"
@@ -8,6 +23,11 @@
     "id": "johan_laurentz_jensen",
     "name": "Йохан Лауренц Йенсен",
     "path": "records/johan_laurentz_jensen.json"
+  },
+  {
+    "id": "johan_ludwig_lund",
+    "name": "Йохан Людвиг Лунд",
+    "path": "records/johan_ludwig_lund.json"
   },
   {
     "id": "johan_thomas_lundbye",
@@ -360,6 +380,21 @@
     "path": "records/christen_kobke.json"
   },
   {
+    "id": "christian_august_lorentzen",
+    "name": "Кристиан Август Лорентцен",
+    "path": "records/christian_august_lorentzen.json"
+  },
+  {
+    "id": "christian_albrecht_jensen",
+    "name": "Кристиан Альбрехт Йенсен",
+    "path": "records/christian_albrecht_jensen.json"
+  },
+  {
+    "id": "christian_david_gebauer",
+    "name": "Кристиан Давид Гебауэр",
+    "path": "records/christian_david_gebauer.json"
+  },
+  {
     "id": "christian_krohg",
     "name": "Кристиан Крог",
     "path": "records/christian_krohg.json"
@@ -463,40 +498,5 @@
     "id": "laurits_andersen_ring",
     "name": "Лауриц Андерсен Ринг",
     "path": "records/laurits_andersen_ring.json"
-  },
-  {
-    "id": "laurits_tuxen",
-    "name": "Лауриц Туксен",
-    "path": "records/laurits_tuxen.json"
-  },
-  {
-    "id": "leonardo_da_vinci",
-    "name": "Леонардо да Винчи",
-    "path": "records/leonardo_da_vinci.json"
-  },
-  {
-    "id": "leopold_kupelwieser",
-    "name": "Леопольд Купельвизер",
-    "path": "records/leopold_kupelwieser.json"
-  },
-  {
-    "id": "li_tang",
-    "name": "Ли Тан",
-    "path": "records/li_tang.json"
-  },
-  {
-    "id": "li_cheng",
-    "name": "Ли Чэн",
-    "path": "records/li_cheng.json"
-  },
-  {
-    "id": "lizzy_ansingh",
-    "name": "Лиззи Ансинг",
-    "path": "records/lizzy_ansingh.json"
-  },
-  {
-    "id": "lilla_cabot_perry",
-    "name": "Лилла Кэбот Перри",
-    "path": "records/lilla_cabot_perry.json"
   }
 ]

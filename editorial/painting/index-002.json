@@ -1,5 +1,15 @@
 [
   {
+    "id": "vittore_carpaccio",
+    "name": "Витторе Карпаччо",
+    "path": "records/vittore_carpaccio.json"
+  },
+  {
+    "id": "vojtech_hynais",
+    "name": "Войтех Гинайc",
+    "path": "records/vojtech_hynais.json"
+  },
+  {
     "id": "wen_zhengming",
     "name": "Вэнь Чжэнмин",
     "path": "records/wen_zhengming.json"
@@ -488,15 +498,5 @@
     "id": "georgiana_mccrae",
     "name": "Джорджиана Маккрей",
     "path": "records/georgiana_mccrae.json"
-  },
-  {
-    "id": "okeeffe",
-    "name": "Джорджия О’Кифф",
-    "path": "records/okeeffe.json"
-  },
-  {
-    "id": "giorgio_vasari",
-    "name": "Джорджо Вазари",
-    "path": "records/giorgio_vasari.json"
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "id": "laurits_tuxen",
+    "name": "Лауриц Туксен",
+    "path": "records/laurits_tuxen.json"
+  },
+  {
+    "id": "leonardo_da_vinci",
+    "name": "Леонардо да Винчи",
+    "path": "records/leonardo_da_vinci.json"
+  },
+  {
+    "id": "leopold_kupelwieser",
+    "name": "Леопольд Купельвизер",
+    "path": "records/leopold_kupelwieser.json"
+  },
+  {
+    "id": "li_tang",
+    "name": "Ли Тан",
+    "path": "records/li_tang.json"
+  },
+  {
+    "id": "li_cheng",
+    "name": "Ли Чэн",
+    "path": "records/li_cheng.json"
+  },
+  {
+    "id": "lizzy_ansingh",
+    "name": "Лиззи Ансинг",
+    "path": "records/lizzy_ansingh.json"
+  },
+  {
+    "id": "lilla_cabot_perry",
+    "name": "Лилла Кэбот Перри",
+    "path": "records/lilla_cabot_perry.json"
+  },
+  {
     "id": "lilly_martin_spencer",
     "name": "Лилли Мартин Спенсер",
     "path": "records/lilly_martin_spencer.json"
@@ -43,6 +78,11 @@
     "id": "ludovico_cardi",
     "name": "Лудовико Карди",
     "path": "records/ludovico_cardi.json"
+  },
+  {
+    "id": "louis_gurlitt",
+    "name": "Луи Гурлитт",
+    "path": "records/louis_gurlitt.json"
   },
   {
     "id": "louise_abbema",
@@ -458,45 +498,5 @@
     "id": "michelangelo",
     "name": "Микеланджело Буонарроти",
     "path": "records/michelangelo.json"
-  },
-  {
-    "id": "michele_marieschi",
-    "name": "Микеле Мариески",
-    "path": "records/michele_marieschi.json"
-  },
-  {
-    "id": "michele_tosini",
-    "name": "Микеле Тозини",
-    "path": "records/michele_tosini.json"
-  },
-  {
-    "id": "miklos_barabas",
-    "name": "Миклош Барабаш",
-    "path": "records/miklos_barabas.json"
-  },
-  {
-    "id": "mikolas_ales",
-    "name": "Миколаш Алеш",
-    "path": "records/mikolas_ales.json"
-  },
-  {
-    "id": "mina_arndt",
-    "name": "Мина Арндт",
-    "path": "records/mina_arndt.json"
-  },
-  {
-    "id": "vrubel",
-    "name": "Михаил Врубель",
-    "path": "records/vrubel.json"
-  },
-  {
-    "id": "larionov",
-    "name": "Михаил Ларионов",
-    "path": "records/larionov.json"
-  },
-  {
-    "id": "mihaly_munkacsy",
-    "name": "Михай Мункачи",
-    "path": "records/mihaly_munkacsy.json"
   }
 ]

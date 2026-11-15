@@ -1,5 +1,45 @@
 [
   {
+    "id": "fanny_brate",
+    "name": "Фанни Брате",
+    "path": "records/fanny_brate.json"
+  },
+  {
+    "id": "fanny_geefs",
+    "name": "Фанни Гефс",
+    "path": "records/fanny_geefs.json"
+  },
+  {
+    "id": "fanny_churberg",
+    "name": "Фанни Чурберг",
+    "path": "records/fanny_churberg.json"
+  },
+  {
+    "id": "fan_kuan",
+    "name": "Фань Куань",
+    "path": "records/fan_kuan.json"
+  },
+  {
+    "id": "fede_galizia",
+    "name": "Феде Галиция",
+    "path": "records/fede_galizia.json"
+  },
+  {
+    "id": "felix_albrecht_harta",
+    "name": "Феликс Альбрехт Харта",
+    "path": "records/felix_albrecht_harta.json"
+  },
+  {
+    "id": "felix_vallotton",
+    "name": "Феликс Валлоттон",
+    "path": "records/felix_vallotton.json"
+  },
+  {
+    "id": "theophanes_the_greek",
+    "name": "Феофан Грек",
+    "path": "records/theophanes_the_greek.json"
+  },
+  {
     "id": "ferdinand_bol",
     "name": "Фердинанд Бол",
     "path": "records/ferdinand_bol.json"
@@ -223,6 +263,11 @@
     "id": "frederic_remington",
     "name": "Фредерик Ремингтон",
     "path": "records/frederic_remington.json"
+  },
+  {
+    "id": "frederik_sodring",
+    "name": "Фредерик Сёдринг",
+    "path": "records/frederik_sodring.json"
   },
   {
     "id": "frederic_edwin_church",
@@ -453,50 +498,5 @@
     "id": "qiu_ying",
     "name": "Цю Ин",
     "path": "records/qiu_ying.json"
-  },
-  {
-    "id": "charley_toorop",
-    "name": "Чарли Тороп",
-    "path": "records/charley_toorop.json"
-  },
-  {
-    "id": "cesare_da_sesto",
-    "name": "Чезаре да Сесто",
-    "path": "records/cesare_da_sesto.json"
-  },
-  {
-    "id": "cesare_dandini",
-    "name": "Чезаре Дандини",
-    "path": "records/cesare_dandini.json"
-  },
-  {
-    "id": "cecco_bravo",
-    "name": "Чекко Браво",
-    "path": "records/cecco_bravo.json"
-  },
-  {
-    "id": "zhao_mengfu",
-    "name": "Чжао Мэнфу",
-    "path": "records/zhao_mengfu.json"
-  },
-  {
-    "id": "zhou_fang",
-    "name": "Чжоу Фан",
-    "path": "records/zhou_fang.json"
-  },
-  {
-    "id": "cima_da_conegliano",
-    "name": "Чима да Конельяно",
-    "path": "records/cima_da_conegliano.json"
-  },
-  {
-    "id": "cimabue",
-    "name": "Чимабуэ",
-    "path": "records/cimabue.json"
-  },
-  {
-    "id": "jeong_seon",
-    "name": "Чон Сон",
-    "path": "records/jeong_seon.json"
   }
 ]

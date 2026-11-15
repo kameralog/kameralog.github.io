@@ -1,5 +1,10 @@
 [
   {
+    "id": "antoine_watteau",
+    "name": "Антуан Ватто",
+    "path": "records/antoine_watteau.json"
+  },
+  {
     "id": "antoine_coypel",
     "name": "Антуан Куапель",
     "path": "records/antoine_coypel.json"
@@ -465,6 +470,11 @@
     "path": "records/vilhelm_kyhn.json"
   },
   {
+    "id": "vilhelm_melbye",
+    "name": "Вильхельм Мельбю",
+    "path": "records/vilhelm_melbye.json"
+  },
+  {
     "id": "van-gogh",
     "name": "Винсент ван Гог",
     "path": "records/van-gogh.json"
@@ -488,15 +498,5 @@
     "id": "vittore_ghislandi",
     "name": "Витторе Гисланди",
     "path": "records/vittore_ghislandi.json"
-  },
-  {
-    "id": "vittore_carpaccio",
-    "name": "Витторе Карпаччо",
-    "path": "records/vittore_carpaccio.json"
-  },
-  {
-    "id": "vojtech_hynais",
-    "name": "Войтех Гинайc",
-    "path": "records/vojtech_hynais.json"
   }
 ]

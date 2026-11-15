@@ -1,5 +1,15 @@
 [
   {
+    "id": "okeeffe",
+    "name": "Джорджия О’Кифф",
+    "path": "records/okeeffe.json"
+  },
+  {
+    "id": "giorgio_vasari",
+    "name": "Джорджо Вазари",
+    "path": "records/giorgio_vasari.json"
+  },
+  {
     "id": "giotto",
     "name": "Джотто ди Бондоне",
     "path": "records/giotto.json"
@@ -488,15 +498,5 @@
     "id": "josef_rebell",
     "name": "Йозеф Ребелль",
     "path": "records/josef_rebell.json"
-  },
-  {
-    "id": "joos_van_cleve",
-    "name": "Йос ван Клеве",
-    "path": "records/joos_van_cleve.json"
-  },
-  {
-    "id": "joos_de_momper",
-    "name": "Йос де Момпер",
-    "path": "records/joos_de_momper.json"
   }
 ]

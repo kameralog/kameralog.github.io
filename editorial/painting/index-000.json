@@ -445,6 +445,11 @@
     "path": "records/anton_mahringer.json"
   },
   {
+    "id": "anton_melbye",
+    "name": "Антон Мельбю",
+    "path": "records/anton_melbye.json"
+  },
+  {
     "id": "anton_raphael_mengs",
     "name": "Антон Рафаэль Менгс",
     "path": "records/anton_raphael_mengs.json"
@@ -493,10 +498,5 @@
     "id": "ants_laikmaa",
     "name": "Антс Лайкмаа",
     "path": "records/ants_laikmaa.json"
-  },
-  {
-    "id": "antoine_watteau",
-    "name": "Антуан Ватто",
-    "path": "records/antoine_watteau.json"
   }
 ]
