@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "batch": 1,
+  "range": [1, 50],
+  "checkedDate": "2026-11-15",
+  "foundReproductions": 50,
+  "newlyConnected": 40,
+  "alreadyPresent": [11],
+  "connectedIncludingExisting": 41,
+  "deferredCount": 9,
+  "publicationWorkflow": "https://github.com/kameralog/kameralog.github.io/actions/runs/43710635735",
+  "publicationWorkflowConclusion": "success",
+  "liveArtistsJsMatchesMain": true,
+  "eachRenderedPageBrowserVerified": false,
+  "publicationDetails": "games/painting/wiki-uffizi-batch1-publication.json",
+  "originalManifest": "museum-reports:reports/uffizi-krea-50/43579978219-1/manifest.json",
+  "deferredColumns": ["number", "workId", "artistId", "commonsFile", "reason", "nextAction"],
+  "deferred": [
+    [3, "Q52155602", "eglon_hendrik_van_der_neer", "Neer, Eglon van der - Self-portrait - 1696.jpg", "Небольшой исходный файл; пригодность не подтверждена", "Быстро поискать более крупную репродукцию или оценить пригодность исходного размера без увеличения"],
+    [12, "Q114241452", "claude_lorrain", "Lorrain uffizi.jpg", "Название в исходной записи не раскрыто; качество и идентификация требуют уточнения", "Определить название и конкретный пейзаж, затем оценить файл"],
+    [26, "Q131490096", "giovanni_antonio_boltraffio", "Giovanni Antonio Boltraffio - Portrait of a Notable - WGA2381.jpg", "Полнота композиции пока не подтверждена", "Быстро сравнить границы картины с другой репродукцией; не считать обрезку доказанной"],
+    [27, "Q3870403", "giovanni_antonio_boltraffio", "Boltraffio, narciso alla fonte.jpg", "Нужно уточнить атрибуцию", "Сверить современную музейную атрибуцию и при необходимости подписать как приписываемую работу"],
+    [31, "Q113006400", "tintoretto", "Jacopo Tintoretto - Self-Portrait with a Book - WGA22701.jpg", "Нужно различить оригинал и копию", "Проверить музейную карточку; не публиковать копию как несомненный автограф"],
+    [38, "Q49167869", "tintoretto", "Jacopo Tintoretto - Portrait of Jacopo Sansovino - WGA22689.jpg", "Полнота композиции пока не подтверждена", "Сравнить границы изображения с другой репродукцией"],
+    [41, "Q3698198", "marco_palmezzano", "Marco palmezzano, crocifissione degli Uffizi.jpg", "Небольшой исходный файл; пригодность не подтверждена", "Быстро поискать более крупный файл или оценить показ в исходном размере"],
+    [42, "Q108292260", "alessandro_allori", "Isabella de' Medici 02.jpg", "Есть вопрос об авторстве/атрибуции", "Точечно сверить музейную карточку и сохранить оговорку, если она нужна"],
+    [45, "Q117405631", "alessandro_allori", "A lady by A.Allori (Palazzo Pitti).jpg", "Полнота композиции пока не подтверждена", "Сравнить края картины; при необходимости выбрать другой файл"]
+  ]
+}
