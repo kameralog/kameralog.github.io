@@ -1,0 +1,27 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
+const file='artists-batch-28.js';
+const source=fs.readFileSync(file,'utf8');
+const marker='/*doni-tondo-2021-approved-v1*/';
+assert(!source.includes(marker),'Already installed; refusing duplicate publication');
+const sha=createHash('sha1').update('blob '+Buffer.byteLength(source)+'\0').update(source).digest('hex');
+assert.equal(sha,'3672553b9adc48a103902858ee0b7425af6c064b','Artist source changed; review before publication');
+const work={key:'uffizi:1890:1456',title:'Святое семейство (Мадонна Дони, Тондо Дони)',originalTitle:'Holy Family, known as the Doni Tondo',date:'1505–1506',medium:'Темпера на дереве (tempera grassa); диаметр 120 см',museum:'Галерея Уффици, Флоренция',accessionNumber:'1890, № 1456',source:'https://www.uffizi.it/en/artworks/holy-family-known-as-the-doni-tondo',image:'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Tondo_Doni_2021.jpg/960px-Tondo_Doni_2021.jpg',zoom:'https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Tondo_Doni_2021.jpg/1920px-Tondo_Doni_2021.jpg',imageSource:'https://commons.wikimedia.org/wiki/File:Tondo_Doni_2021.jpg',license:'CC BY-SA 4.0',licenseURL:'https://creativecommons.org/licenses/by-sa/4.0/',creditLine:'Фотография: Commonists / Wikimedia Commons, CC BY-SA 4.0. Показаны уменьшенные версии Commons; дополнительная обработка не выполнялась.',imageWidth:960,imageHeight:960,originalImageWidth:5142,originalImageHeight:5142,imageVisuallyReviewed:false,imageReviewStatus:'Идентификация файла, отметка Quality image и загрузка в браузере проверены; проверка человеком не заявляется',imageDeliveryStatus:'960×960 и 1920×1920 загружены и декодированы в браузере перед публикацией',look:'Рассмотри поворот Марии к Младенцу и Иосифу, объём фигур и круглую композицию. Репродукция: Commonists / Wikimedia Commons, CC BY-SA 4.0; уменьшенные версии Commons без дополнительной обработки. Источник: https://commons.wikimedia.org/wiki/File:Tondo_Doni_2021.jpg . Лицензия: https://creativecommons.org/licenses/by-sa/4.0/ .'};
+function read(text){let result;const sandbox={window:{registerPaintingArtists:b=>{assert(!result);result=b;}},document:{getElementById:()=>null},MutationObserver:class{observe(){}}};vm.runInNewContext(text,sandbox,{timeout:5000});assert(result);return JSON.parse(JSON.stringify(result));}
+const before=read(source);
+assert(before.michelangelo);
+assert(!Object.values(before).some(a=>(a.works||[]).some(w=>w.key===work.key||/Tondo_Doni_2021/.test(w.image||''))));
+const anchor='window.registerPaintingArtists(B);';
+assert.equal(source.split(anchor).length,2);
+const block=marker+'\n'+`{const a=B.michelangelo;const w=${JSON.stringify(work)};if(!a||a.works.some(x=>x.key===w.key))throw Error('Doni target changed');a.works.push(w);a.sources.push(['Уффици: Святое семейство (Тондо Дони)',w.source],['Фотография Commonists, Wikimedia Commons',w.imageSource],['Лицензия фотографии: CC BY-SA 4.0',w.licenseURL]);a.caution=a.caution.replace('Репродукцию на странице не подключаю: права на конкретный файл не проверены.','Добавлена репродукция Тондо Дони: Commonists / Wikimedia Commons, CC BY-SA 4.0; источник и лицензия указаны у изображения.');a.editorialStatus='illustrated';}\n`;
+const next=source.replace(anchor,()=>block+anchor);
+const after=read(next);
+assert.deepEqual(Object.keys(after),Object.keys(before));
+for(const id of Object.keys(before))if(id!=='michelangelo')assert.deepEqual(after[id],before[id]);
+assert.equal(after.michelangelo.works.length,before.michelangelo.works.length+1);
+assert.deepEqual(after.michelangelo.works.filter(w=>w.key!==work.key),before.michelangelo.works);
+for(const field of Object.keys(before.michelangelo))if(!['works','sources','caution','editorialStatus'].includes(field))assert.deepEqual(after.michelangelo[field],before.michelangelo[field]);
+fs.writeFileSync(file,next);
+console.log('Added exactly one Doni Tondo reproduction; other artists and existing works preserved.');

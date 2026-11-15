@@ -1,0 +1,46 @@
+name: Publish selected Doni Tondo reproduction
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'games/painting/publish-doni-tondo.mjs'
+      - '.github/workflows/publish-doni-tondo.yml'
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Add one reproduction and validate catalogue
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/doni-index-before.html"
+          node publish-doni-tondo.mjs
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/doni-index-before.html"
+      - name: Commit catalogue and request Pages publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-28.js games/painting/artists.js
+          git diff --cached --stat
+          git commit -m 'Publish Commonists Doni Tondo reproduction with CC BY-SA credit'
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+          echo 'Reproduction committed and Pages build requested; live publication is not yet verified.' >> "$GITHUB_STEP_SUMMARY"
