@@ -20,7 +20,7 @@
     ],
     "innovation": "Перспектива становится самостоятельной художественной задачей и способом упорядочить сложное событие. Вместо хаоса боя возникает почти придворное зрелище: геометрическая организация соединена с прославлением флорентийской победы.",
     "caution": "1432 — дата битвы, не написания. Для NG583 принята текущая музейная датировка: предположительно около 1438–1440; на Commons встречается старая датировка 1450-ми. Порядок трёх панелей не установлен с уверенностью. Верх картины переделан. Разбор посвящён одной панели, а не всему творчеству. Изображение проверено по описанию и инвентарному номеру, но не просмотрено визуально.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,10 @@
     {
       "title": "Commons: репродукция лондонской панели",
       "url": "https://commons.wikimedia.org/wiki/File:San_Romano_Battle_(Paolo_Uccello,_London)_01.jpg"
+    },
+    {
+      "title": "Репродукция: Битва при Сан-Романо — Никколо да Толентино выбивает из седла Бернардино делла Чарда, панель Уффици",
+      "url": "https://commons.wikimedia.org/wiki/File:Uccello_%E2%80%94_the_Battle_of_San_Romano.jpg"
     }
   ],
   "works": [
@@ -43,6 +47,13 @@
       "date": "предположительно около 1438–1440",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/paolo-uccello-the-battle-of-san-romano"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q18564202",
+      "title": "Битва при Сан-Романо — Никколо да Толентино выбивает из седла Бернардино делла Чарда, панель Уффици",
+      "date": "XV век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Uccello_%E2%80%94_the_Battle_of_San_Romano.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -32,6 +32,22 @@
     {
       "title": "Monstrance: запись конкретного файла и статус public domain",
       "url": "https://monstrance.app/editions/parmigianino_madonna_and_child_with_saints_the_vision/"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем — версия Уффици «Мадонны Дориа»",
+      "url": "https://commons.wikimedia.org/wiki/File:Parmigianino%2C_madonna_doria%2C_versione_degli_Uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и святыми — Мадонна Святого Захарии",
+      "url": "https://commons.wikimedia.org/wiki/File:Parmigianino_Madonna_con_Bambino_e_Santi_%28Madonna_di_San_Zaccaria%29%2C_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Мужской портрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Parmigianino%2C_ritratto_maschile_uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с длинной шеей",
+      "url": "https://commons.wikimedia.org/wiki/File:Parmigianino_-_Madonna_and_Child_with_Angels%2C_known_as_the_Madonna_with_the_Long_Neck.jpg"
     }
   ],
   "works": [
@@ -41,6 +57,34 @@
       "date": "1526–1527",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/parmigianino-the-madonna-and-child-with-saints"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3842398",
+      "title": "Мадонна с Младенцем — версия Уффици «Мадонны Дориа»",
+      "date": "1525",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmigianino%2C_madonna_doria%2C_versione_degli_Uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3842736",
+      "title": "Мадонна с Младенцем и святыми — Мадонна Святого Захарии",
+      "date": "1534–1540",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmigianino_Madonna_con_Bambino_e_Santi_%28Madonna_di_San_Zaccaria%29%2C_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3937792",
+      "title": "Мужской портрет",
+      "date": "1520-е — 1530-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmigianino%2C_ritratto_maschile_uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q867403",
+      "title": "Мадонна с длинной шеей",
+      "date": "1534–1540",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Parmigianino_-_Madonna_and_Child_with_Angels%2C_known_as_the_Madonna_with_the_Long_Neck.jpg"
     }
   ],
   "pendingWorksCount": 0

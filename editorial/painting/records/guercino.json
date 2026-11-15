@@ -30,6 +30,22 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Guercino_-_Elijah_fed_by_Ravens,_1620.jpg"
+    },
+    {
+      "title": "Репродукция: Аполлон и Марсий",
+      "url": "https://commons.wikimedia.org/wiki/File:Guerchin_60.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет богослова Джулио Гальярди",
+      "url": "https://commons.wikimedia.org/wiki/File:Guerchin_40.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Пётр",
+      "url": "https://commons.wikimedia.org/wiki/File:Guerchin_stPierre2-uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Сельский концерт",
+      "url": "https://commons.wikimedia.org/wiki/File:Guercino_Concerto_campestre.jpg"
     }
   ],
   "works": [
@@ -39,6 +55,34 @@
       "date": "1620",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/guercino-elijah-fed-by-ravens"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q134621376",
+      "title": "Аполлон и Марсий",
+      "date": "1618",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guerchin_60.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q137886266",
+      "title": "Портрет богослова Джулио Гальярди",
+      "date": "1617",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guerchin_40.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q137900405",
+      "title": "Святой Пётр",
+      "date": "около 1623–1624",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guerchin_stPierre2-uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q4231874",
+      "title": "Сельский концерт",
+      "date": "около 1617",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guercino_Concerto_campestre.jpg"
     }
   ],
   "pendingWorksCount": 0

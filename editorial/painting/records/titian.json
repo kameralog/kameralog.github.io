@@ -108,6 +108,14 @@
     {
       "title": "Репродукция: Портрет мальтийского рыцаря",
       "url": "https://commons.wikimedia.org/wiki/File:Titian-_Portrait_of_a_Knight_of_Malta.jpeg"
+    },
+    {
+      "title": "Репродукция: Портрет Пьетро Аретино",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pietro_Aretino_%28by_Titian%29_-_Pitti_Palace.jpg"
+    },
+    {
+      "title": "Репродукция: Венера Урбинская",
+      "url": "https://commons.wikimedia.org/wiki/File:Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg"
     }
   ],
   "works": [
@@ -257,6 +265,20 @@
       "date": "1510–1515",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://commons.wikimedia.org/wiki/File:Titian-_Portrait_of_a_Knight_of_Malta.jpeg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q7232305",
+      "title": "Портрет Пьетро Аретино",
+      "date": "1545",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pietro_Aretino_%28by_Titian%29_-_Pitti_Palace.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q727875",
+      "title": "Венера Урбинская",
+      "date": "1538",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -1,5 +1,55 @@
 [
   {
+    "id": "ernst_josephson",
+    "name": "Эрнст Юсефсон",
+    "path": "records/ernst_josephson.json"
+  },
+  {
+    "id": "esaias_boursse",
+    "name": "Эсайас Бурсе",
+    "path": "records/esaias_boursse.json"
+  },
+  {
+    "id": "esaias_van_de_velde",
+    "name": "Эсайас ван де Велде",
+    "path": "records/esaias_van_de_velde.json"
+  },
+  {
+    "id": "eustache_le_sueur",
+    "name": "Эсташ Лесюэр",
+    "path": "records/eustache_le_sueur.json"
+  },
+  {
+    "id": "ethel_carrick",
+    "name": "Этель Кэррик",
+    "path": "records/ethel_carrick.json"
+  },
+  {
+    "id": "euphrosine_beernaert",
+    "name": "Эфрозина Бернарт",
+    "path": "records/euphrosine_beernaert.json"
+  },
+  {
+    "id": "asher_brown_durand",
+    "name": "Эшер Браун Дюранд",
+    "path": "records/asher_brown_durand.json"
+  },
+  {
+    "id": "eero_jarnefelt",
+    "name": "Ээро Ярнефельт",
+    "path": "records/eero_jarnefelt.json"
+  },
+  {
+    "id": "hubert_robert",
+    "name": "Юбер Робер",
+    "path": "records/hubert_robert.json"
+  },
+  {
+    "id": "judith_leyster",
+    "name": "Юдит Лейстер",
+    "path": "records/judith_leyster.json"
+  },
+  {
     "id": "julius_marak",
     "name": "Юлиус Маржак",
     "path": "records/julius_marak.json"

@@ -1,5 +1,45 @@
 [
   {
+    "id": "petrus_christus",
+    "name": "Петрус Кристус",
+    "path": "records/petrus_christus.json"
+  },
+  {
+    "id": "pisanello",
+    "name": "Пизанелло",
+    "path": "records/pisanello.json"
+  },
+  {
+    "id": "pinturicchio",
+    "name": "Пинтуриккьо",
+    "path": "records/pinturicchio.json"
+  },
+  {
+    "id": "piet_mondrian",
+    "name": "Пит Мондриан",
+    "path": "records/piet_mondrian.json"
+  },
+  {
+    "id": "pieter_aertsen",
+    "name": "Питер Артсен",
+    "path": "records/pieter_aertsen.json"
+  },
+  {
+    "id": "bruegel",
+    "name": "Питер Брейгель Старший",
+    "path": "records/bruegel.json"
+  },
+  {
+    "id": "pieter_boel",
+    "name": "Питер Буль",
+    "path": "records/pieter_boel.json"
+  },
+  {
+    "id": "pieter_van_roestraten",
+    "name": "Питер ван Рустратен",
+    "path": "records/pieter_van_roestraten.json"
+  },
+  {
     "id": "pieter_quast",
     "name": "Питер Кваст",
     "path": "records/pieter_quast.json"
@@ -458,45 +498,5 @@
     "id": "theodor_kittelsen",
     "name": "Теодор Киттельсен",
     "path": "records/theodor_kittelsen.json"
-  },
-  {
-    "id": "tepantitla_tlalocan",
-    "name": "Тепантитла: роспись «Тлалокан»",
-    "path": "records/tepantitla_tlalocan.json"
-  },
-  {
-    "id": "therese_schwartze",
-    "name": "Тереза Шварце",
-    "path": "records/therese_schwartze.json"
-  },
-  {
-    "id": "tetitla_murals",
-    "name": "Тетитла: росписи жилого комплекса",
-    "path": "records/tetitla_murals.json"
-  },
-  {
-    "id": "tivadar_csontvary_kosztka",
-    "name": "Тивадар Чонтвари-Костка",
-    "path": "records/tivadar_csontvary_kosztka.json"
-  },
-  {
-    "id": "tina_blau",
-    "name": "Тина Блау",
-    "path": "records/tina_blau.json"
-  },
-  {
-    "id": "tintoretto",
-    "name": "Тинторетто",
-    "path": "records/tintoretto.json"
-  },
-  {
-    "id": "titian",
-    "name": "Тициан Вечеллио",
-    "path": "records/titian.json"
-  },
-  {
-    "id": "tobias_verhaecht",
-    "name": "Тобиас Верхахт",
-    "path": "records/tobias_verhaecht.json"
   }
 ]

@@ -20,7 +20,7 @@
     ],
     "innovation": "Картина показывает взаимосвязь живописи, скульптуры и ювелирного ремесла, а также устройство мастерской. Разные руки работают внутри согласованной композиции; техническое исследование позволяет различить вклад мастера и ученика, не превращая совместный труд в признак низкого качества.",
     "caution": "NG296 — Верроккьо при участии Лоренцо ди Креди, не бесспорно единоличная работа. «Товия и ангел» в текущем каталоге относится к мастерской, поэтому не включён как собственноручное произведение Верроккьо. Не путай NG296 с другой одноимённой Мадонной около 1467–1469 годов. Предположение о домашней капелле и её освещении — гипотеза музея. Визуальный просмотр репродукции и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,6 +30,10 @@
     {
       "title": "Commons: репродукция и атрибуция NG296",
       "url": "https://commons.wikimedia.org/wiki/File:The_Virgin_and_Child_with_Two_Angels,_Andrea_del_Verrocchio.jpg"
+    },
+    {
+      "title": "Репродукция: Лик святого Иеронима",
+      "url": "https://commons.wikimedia.org/wiki/File:San_Jer%C3%B3nimo%2C_por_Andrea_del_Verrocchio.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "около 1476–1478",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/andrea-del-verrocchio-assisted-by-lorenzo-di-credi-the-virgin-and-child-with-two-angels"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q53997671",
+      "title": "Лик святого Иеронима",
+      "date": "около 1465",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:San_Jer%C3%B3nimo%2C_por_Andrea_del_Verrocchio.jpg"
     }
   ],
   "pendingWorksCount": 0

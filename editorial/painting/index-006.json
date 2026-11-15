@@ -1,5 +1,35 @@
 [
   {
+    "id": "maerten_van_heemskerck",
+    "name": "Мартен ван Хемскерк",
+    "path": "records/maerten_van_heemskerck.json"
+  },
+  {
+    "id": "martinus_rorbye",
+    "name": "Мартинус Рёрбю",
+    "path": "records/martinus_rorbye.json"
+  },
+  {
+    "id": "maruyama_okyo",
+    "name": "Маруяма Окё",
+    "path": "records/maruyama_okyo.json"
+  },
+  {
+    "id": "massimo_stanzione",
+    "name": "Массимо Станционе",
+    "path": "records/massimo_stanzione.json"
+  },
+  {
+    "id": "kota_master_a",
+    "name": "Мастер Кота A",
+    "path": "records/kota_master_a.json"
+  },
+  {
+    "id": "master_of_the_holy_blood",
+    "name": "Мастер Святой Крови",
+    "path": "records/master_of_the_holy_blood.json"
+  },
+  {
     "id": "matteo_di_giovanni",
     "name": "Маттео ди Джованни",
     "path": "records/matteo_di_giovanni.json"
@@ -425,6 +455,11 @@
     "path": "records/peder_balke.json"
   },
   {
+    "id": "peder_monsted",
+    "name": "Педер Мёнстед",
+    "path": "records/peder_monsted.json"
+  },
+  {
     "id": "peder_severin_kroyer",
     "name": "Педер Северин Крёйер",
     "path": "records/peder_severin_kroyer.json"
@@ -433,6 +468,11 @@
     "id": "pekka_halonen",
     "name": "Пекка Халонен",
     "path": "records/pekka_halonen.json"
+  },
+  {
+    "id": "peter_ilsted",
+    "name": "Петер Ильстед",
+    "path": "records/peter_ilsted.json"
   },
   {
     "id": "peter_christian_skovgaard",
@@ -458,45 +498,5 @@
     "id": "konchalovsky",
     "name": "Пётр Кончаловский",
     "path": "records/konchalovsky.json"
-  },
-  {
-    "id": "petrus_christus",
-    "name": "Петрус Кристус",
-    "path": "records/petrus_christus.json"
-  },
-  {
-    "id": "pisanello",
-    "name": "Пизанелло",
-    "path": "records/pisanello.json"
-  },
-  {
-    "id": "pinturicchio",
-    "name": "Пинтуриккьо",
-    "path": "records/pinturicchio.json"
-  },
-  {
-    "id": "piet_mondrian",
-    "name": "Пит Мондриан",
-    "path": "records/piet_mondrian.json"
-  },
-  {
-    "id": "pieter_aertsen",
-    "name": "Питер Артсен",
-    "path": "records/pieter_aertsen.json"
-  },
-  {
-    "id": "bruegel",
-    "name": "Питер Брейгель Старший",
-    "path": "records/bruegel.json"
-  },
-  {
-    "id": "pieter_boel",
-    "name": "Питер Буль",
-    "path": "records/pieter_boel.json"
-  },
-  {
-    "id": "pieter_van_roestraten",
-    "name": "Питер ван Рустратен",
-    "path": "records/pieter_van_roestraten.json"
   }
 ]

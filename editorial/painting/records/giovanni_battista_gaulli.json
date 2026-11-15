@@ -20,14 +20,37 @@
     ],
     "innovation": "Подготовительная живопись передаёт не только расположение фигур, но и общий зрительный напор будущей декорации. Свет, разнонаправленное движение и предполагаемая архитектурная рамка создают иллюзию пространственного прорыва.",
     "caution": "1676–1679 — музейный интервал. Принстонский 2005-34 — не сама фреска и не её фотография. Бумага укреплена на холсте: не сокращаем технику до масла на холсте. Письменная иконографическая программа не сохранилась; связь с Посланием к Филиппийцам объясняет музей. Бачиччо и Гаулли — один автор.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Художественный музей Принстонского университета: Триумф имени Иисуса",
       "url": "https://artmuseum.princeton.edu/art/collections/objects/45004"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Baciccio_Autorretrato_Corredor_de_Vasari._Galer%C3%ADa_de_los_Uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет кардинала Леопольдо Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Baciccio_-_Cardinal_Leopoldo_de%27_Medici_-_WGA01115.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch5:Q52153732",
+      "title": "Автопортрет",
+      "date": "1667–1668",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Baciccio_Autorretrato_Corredor_de_Vasari._Galer%C3%ADa_de_los_Uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q69113709",
+      "title": "Портрет кардинала Леопольдо Медичи",
+      "date": "около 1667",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Baciccio_-_Cardinal_Leopoldo_de%27_Medici_-_WGA01115.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

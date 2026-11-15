@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Preti,_Mattia_-_Wedding_at_Cana_-_c._1655.jpg"
+    },
+    {
+      "title": "Репродукция: Суета — Vanitas",
+      "url": "https://commons.wikimedia.org/wiki/File:4DPict.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Mattia_Preti_-_Self-portrait.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "около 1655–1660",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/mattia-preti-the-marriage-at-cana"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q48917755",
+      "title": "Суета — Vanitas",
+      "date": "1650–1670",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:4DPict.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q52154856",
+      "title": "Автопортрет",
+      "date": "1695–1697",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Mattia_Preti_-_Self-portrait.jpg"
     }
   ],
   "pendingWorksCount": 0

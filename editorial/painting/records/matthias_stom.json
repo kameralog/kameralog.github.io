@@ -34,6 +34,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Salome_Receives_the_Head_of_John_the_Baptist_by_Matthias_Stom.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение",
+      "url": "https://commons.wikimedia.org/wiki/File:Matthias_Stomer_-_Annunciazione_-_Google_Art_Project.jpg"
     }
   ],
   "works": [
@@ -43,6 +47,13 @@
       "date": "предположительно около 1630–1632",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/matthias-stom-salome-receives-the-head-of-john-the-baptist"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q18688172",
+      "title": "Благовещение",
+      "date": "XVII век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Matthias_Stomer_-_Annunciazione_-_Google_Art_Project.jpg"
     }
   ],
   "pendingWorksCount": 0

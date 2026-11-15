@@ -1,5 +1,45 @@
 [
   {
+    "id": "tepantitla_tlalocan",
+    "name": "Тепантитла: роспись «Тлалокан»",
+    "path": "records/tepantitla_tlalocan.json"
+  },
+  {
+    "id": "therese_schwartze",
+    "name": "Тереза Шварце",
+    "path": "records/therese_schwartze.json"
+  },
+  {
+    "id": "tetitla_murals",
+    "name": "Тетитла: росписи жилого комплекса",
+    "path": "records/tetitla_murals.json"
+  },
+  {
+    "id": "tivadar_csontvary_kosztka",
+    "name": "Тивадар Чонтвари-Костка",
+    "path": "records/tivadar_csontvary_kosztka.json"
+  },
+  {
+    "id": "tina_blau",
+    "name": "Тина Блау",
+    "path": "records/tina_blau.json"
+  },
+  {
+    "id": "tintoretto",
+    "name": "Тинторетто",
+    "path": "records/tintoretto.json"
+  },
+  {
+    "id": "titian",
+    "name": "Тициан Вечеллио",
+    "path": "records/titian.json"
+  },
+  {
+    "id": "tobias_verhaecht",
+    "name": "Тобиас Верхахт",
+    "path": "records/tobias_verhaecht.json"
+  },
+  {
     "id": "thomas_de_keyser",
     "name": "Томас де Кейзер",
     "path": "records/thomas_de_keyser.json"
@@ -23,6 +63,11 @@
     "id": "thorald_brendstrup",
     "name": "Торальд Брендструп",
     "path": "records/thorald_brendstrup.json"
+  },
+  {
+    "id": "thorvald_niss",
+    "name": "Торвальд Нисс",
+    "path": "records/thorvald_niss.json"
   },
   {
     "id": "tensho_shubun",
@@ -430,6 +475,11 @@
     "path": "records/hans_gude.json"
   },
   {
+    "id": "hans_smidth",
+    "name": "Ханс Смит",
+    "path": "records/hans_smidth.json"
+  },
+  {
     "id": "han_gan",
     "name": "Хань Гань",
     "path": "records/han_gan.json"
@@ -448,55 +498,5 @@
     "id": "harriet_backer",
     "name": "Харриет Баккер",
     "path": "records/harriet_backer.json"
-  },
-  {
-    "id": "hashimoto_gaho",
-    "name": "Хасимото Гахо",
-    "path": "records/hashimoto_gaho.json"
-  },
-  {
-    "id": "hasegawa_tohaku",
-    "name": "Хасэгава Тохаку",
-    "path": "records/hasegawa_tohaku.json"
-  },
-  {
-    "id": "helen_mcnicoll",
-    "name": "Хелен Макниколл",
-    "path": "records/helen_mcnicoll.json"
-  },
-  {
-    "id": "helena_westermarck",
-    "name": "Хелена Вестермарк",
-    "path": "records/helena_westermarck.json"
-  },
-  {
-    "id": "helene_schjerfbeck",
-    "name": "Хелена Шерфбек",
-    "path": "records/helene_schjerfbeck.json"
-  },
-  {
-    "id": "hendrick_avercamp",
-    "name": "Хендрик Аверкамп",
-    "path": "records/hendrick_avercamp.json"
-  },
-  {
-    "id": "hendrick_van_steenwyck_the_younger",
-    "name": "Хендрик ван Стенвейк Младший",
-    "path": "records/hendrick_van_steenwyck_the_younger.json"
-  },
-  {
-    "id": "hendrick_van_steenwyck_the_elder",
-    "name": "Хендрик ван Стенвейк Старший",
-    "path": "records/hendrick_van_steenwyck_the_elder.json"
-  },
-  {
-    "id": "hendrick_goltzius",
-    "name": "Хендрик Гольциус",
-    "path": "records/hendrick_goltzius.json"
-  },
-  {
-    "id": "hendrick_dubbels",
-    "name": "Хендрик Дюббелс",
-    "path": "records/hendrick_dubbels.json"
   }
 ]

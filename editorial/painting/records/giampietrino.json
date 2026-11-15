@@ -38,6 +38,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Giampietrino_-_Salome.jpg"
+    },
+    {
+      "title": "Репродукция: Святая Екатерина Александрийская",
+      "url": "https://commons.wikimedia.org/wiki/File:Giampietrino%2C_santa_caterina_d%27alessandria.jpg"
     }
   ],
   "works": [
@@ -46,6 +50,13 @@
       "title": "Саломея",
       "date": "вероятно около 1510–1530",
       "source": "https://www.nationalgallery.org.uk/paintings/giampietrino-salome"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3948942",
+      "title": "Святая Екатерина Александрийская",
+      "date": "1530-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giampietrino%2C_santa_caterina_d%27alessandria.jpg"
     }
   ],
   "pendingWorksCount": 0

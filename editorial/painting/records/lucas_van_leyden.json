@@ -34,6 +34,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Lucas_van_Leyden_-_A_Man_aged_38,_about_1521,_NG3604.png"
+    },
+    {
+      "title": "Репродукция: Распятие Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Luca_di_leida%2C_cristo_croficisso.jpg"
     }
   ],
   "works": [
@@ -43,6 +47,13 @@
       "date": "около 1521",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/lucas-van-leyden-a-man-aged-38"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3697614",
+      "title": "Распятие Христа",
+      "date": "1520-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Luca_di_leida%2C_cristo_croficisso.jpg"
     }
   ],
   "pendingWorksCount": 0

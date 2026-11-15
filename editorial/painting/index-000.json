@@ -95,6 +95,11 @@
     "path": "records/axel_haartman.json"
   },
   {
+    "id": "axel_helsted",
+    "name": "Аксель Хельстед",
+    "path": "records/axel_helsted.json"
+  },
+  {
     "id": "alvar_cawen",
     "name": "Алвар Кавен",
     "path": "records/alvar_cawen.json"
@@ -493,10 +498,5 @@
     "id": "antonin_slavicek",
     "name": "Антонин Славичек",
     "path": "records/antonin_slavicek.json"
-  },
-  {
-    "id": "antonin_chittussi",
-    "name": "Антонин Хиттусси",
-    "path": "records/antonin_chittussi.json"
   }
 ]

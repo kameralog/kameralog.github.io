@@ -1,5 +1,30 @@
 [
   {
+    "id": "kristjan_raud",
+    "name": "Кристьян Рауд",
+    "path": "records/kristjan_raud.json"
+  },
+  {
+    "id": "petrovvodkin",
+    "name": "Кузьма Петров-Водкин",
+    "path": "records/petrovvodkin.json"
+  },
+  {
+    "id": "cuno_amiet",
+    "name": "Куно Амье",
+    "path": "records/cuno_amiet.json"
+  },
+  {
+    "id": "kuroda_seiki",
+    "name": "Курода Сэйки",
+    "path": "records/kuroda_seiki.json"
+  },
+  {
+    "id": "catherine_madox_brown",
+    "name": "Кэтрин Мэдокс Браун",
+    "path": "records/catherine_madox_brown.json"
+  },
+  {
     "id": "lavinia_fontana",
     "name": "Лавиния Фонтана",
     "path": "records/lavinia_fontana.json"
@@ -198,6 +223,11 @@
     "id": "ludvig_karsten",
     "name": "Людвиг Карстен",
     "path": "records/ludvig_karsten.json"
+  },
+  {
+    "id": "ludvig_find",
+    "name": "Людвиг Финн",
+    "path": "records/ludvig_find.json"
   },
   {
     "id": "ludek_marold",
@@ -468,35 +498,5 @@
     "id": "marthe_donas",
     "name": "Марта Донас",
     "path": "records/marthe_donas.json"
-  },
-  {
-    "id": "maerten_van_heemskerck",
-    "name": "Мартен ван Хемскерк",
-    "path": "records/maerten_van_heemskerck.json"
-  },
-  {
-    "id": "martinus_rorbye",
-    "name": "Мартинус Рёрбю",
-    "path": "records/martinus_rorbye.json"
-  },
-  {
-    "id": "maruyama_okyo",
-    "name": "Маруяма Окё",
-    "path": "records/maruyama_okyo.json"
-  },
-  {
-    "id": "massimo_stanzione",
-    "name": "Массимо Станционе",
-    "path": "records/massimo_stanzione.json"
-  },
-  {
-    "id": "kota_master_a",
-    "name": "Мастер Кота A",
-    "path": "records/kota_master_a.json"
-  },
-  {
-    "id": "master_of_the_holy_blood",
-    "name": "Мастер Святой Крови",
-    "path": "records/master_of_the_holy_blood.json"
   }
 ]

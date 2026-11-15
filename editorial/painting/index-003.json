@@ -1,5 +1,15 @@
 [
   {
+    "id": "giovanni_segantini",
+    "name": "Джованни Сегантини",
+    "path": "records/giovanni_segantini.json"
+  },
+  {
+    "id": "giovanni_serodine",
+    "name": "Джованни Серодине",
+    "path": "records/giovanni_serodine.json"
+  },
+  {
     "id": "giovanni_francesco_toscani",
     "name": "Джованни Франческо Тоскани",
     "path": "records/giovanni_francesco_toscani.json"
@@ -488,15 +498,5 @@
     "id": "joza_uprka",
     "name": "Йожа Упрка",
     "path": "records/joza_uprka.json"
-  },
-  {
-    "id": "jozsef_borsos",
-    "name": "Йожеф Боршош",
-    "path": "records/jozsef_borsos.json"
-  },
-  {
-    "id": "jozsef_koszta",
-    "name": "Йожеф Коста",
-    "path": "records/jozsef_koszta.json"
   }
 ]

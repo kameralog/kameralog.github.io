@@ -20,14 +20,26 @@
     ],
     "innovation": "Учебный ракурс — натюрморт описывает не только предметы, но и место их хранения.",
     "caution": "Парная кладовая 1621 года имеет номер 1890 № 8442; её дату и состав сюда не переносим. Музей отмечает различия техники и композиции пары. Эмполи — тот же художник, не второй автор.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Уффици, Флоренция: Кладовая с бочкой, дичью, мясом и посудой",
       "url": "https://www.uffizi.it/en/artworks/empoli-still-life"
+    },
+    {
+      "title": "Репродукция: Бракосочетание Марии Медичи с Генрихом IV — церемония по представительству",
+      "url": "https://commons.wikimedia.org/wiki/File:Marie_de_Medici%27s_marriage.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch5:Q93158029",
+      "title": "Бракосочетание Марии Медичи с Генрихом IV — церемония по представительству",
+      "date": "1600",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Marie_de_Medici%27s_marriage.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

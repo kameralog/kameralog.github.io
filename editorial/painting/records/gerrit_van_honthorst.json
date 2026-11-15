@@ -34,6 +34,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Gerard_van_Honthorst_-_Christ_before_the_High_Priest_-_WGA11650.jpg"
+    },
+    {
+      "title": "Репродукция: Ужин с лютнистом",
+      "url": "https://commons.wikimedia.org/wiki/File:Gerard_van_Honthorst_-_Supper_Party_-_WGA11652.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение Младенцу",
+      "url": "https://commons.wikimedia.org/wiki/File:Gherardo_delle_Notti_o_Gheritt_van_Hontorst_-_Adorazione_del_Bambino_-_Google_Art_Project.jpg"
     }
   ],
   "works": [
@@ -43,6 +51,20 @@
       "date": "около 1617",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/gerrit-van-honthorst-christ-before-the-high-priest"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q116912673",
+      "title": "Ужин с лютнистом",
+      "date": "около 1619–1620",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gerard_van_Honthorst_-_Supper_Party_-_WGA11652.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q18685777",
+      "title": "Поклонение Младенцу",
+      "date": "1619–1621",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gherardo_delle_Notti_o_Gheritt_van_Hontorst_-_Adorazione_del_Bambino_-_Google_Art_Project.jpg"
     }
   ],
   "pendingWorksCount": 0

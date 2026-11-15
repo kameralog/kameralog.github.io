@@ -1,5 +1,10 @@
 [
   {
+    "id": "vincenzo_dandini",
+    "name": "Винченцо Дандини",
+    "path": "records/vincenzo_dandini.json"
+  },
+  {
     "id": "vincenzo_foppa",
     "name": "Винченцо Фоппа",
     "path": "records/vincenzo_foppa.json"
@@ -193,6 +198,11 @@
     "id": "godtfred_rump",
     "name": "Годтфред Румп",
     "path": "records/godtfred_rump.json"
+  },
+  {
+    "id": "godfred_christensen",
+    "name": "Годфред Кристенсен",
+    "path": "records/godfred_christensen.json"
   },
   {
     "id": "gregorio_de_ferrari",
@@ -488,15 +498,5 @@
     "id": "giovanni_martinelli",
     "name": "Джованни Мартинелли",
     "path": "records/giovanni_martinelli.json"
-  },
-  {
-    "id": "giovanni_segantini",
-    "name": "Джованни Сегантини",
-    "path": "records/giovanni_segantini.json"
-  },
-  {
-    "id": "giovanni_serodine",
-    "name": "Джованни Серодине",
-    "path": "records/giovanni_serodine.json"
   }
 ]

@@ -28,6 +28,14 @@
     {
       "title": "Метрополитен-музей: Кампо Сант-Анджело (2019.141.5)",
       "url": "https://www.metmuseum.org/art/collection/search/438103"
+    },
+    {
+      "title": "Репродукция: Вид Гранд-канала",
+      "url": "https://commons.wikimedia.org/wiki/File:Canaletto_-_Veduta_del_Canal_Grande_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Вид Дворца дожей в Венеции",
+      "url": "https://commons.wikimedia.org/wiki/File:Canaletto_-_Veduta_del_Palazzo_Ducale_di_Venezia_-_Google_Art_Project.jpg"
     }
   ],
   "works": [
@@ -37,6 +45,20 @@
       "date": "late 1720s",
       "museum": "The Metropolitan Museum of Art",
       "source": "https://www.metmuseum.org/art/collection/search/435839"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q18683500",
+      "title": "Вид Гранд-канала",
+      "date": "1726–1728",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Canaletto_-_Veduta_del_Canal_Grande_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q18683513",
+      "title": "Вид Дворца дожей в Венеции",
+      "date": "1750-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Canaletto_-_Veduta_del_Palazzo_Ducale_di_Venezia_-_Google_Art_Project.jpg"
     }
   ],
   "pendingWorksCount": 0

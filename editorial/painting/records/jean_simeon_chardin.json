@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste-Sim%C3%A9on_Chardin,_The_House_of_Cards,_1736-37.jpg"
+    },
+    {
+      "title": "Репродукция: Девочка с ракеткой и воланом",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Sim%C3%A9on_Chardin_002.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "около 1740–1741",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/jean-simeon-chardin-the-house-of-cards"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q6025666",
+      "title": "Девочка с ракеткой и воланом",
+      "date": "1741",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Sim%C3%A9on_Chardin_002.jpg"
     }
   ],
   "pendingWorksCount": 0

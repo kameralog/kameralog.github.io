@@ -1,5 +1,10 @@
 [
   {
+    "id": "antonin_chittussi",
+    "name": "Антонин Хиттусси",
+    "path": "records/antonin_chittussi.json"
+  },
+  {
     "id": "antonio_joli",
     "name": "Антонио Джоли",
     "path": "records/antonio_joli.json"
@@ -493,10 +498,5 @@
     "id": "van-gogh",
     "name": "Винсент ван Гог",
     "path": "records/van-gogh.json"
-  },
-  {
-    "id": "vincenzo_dandini",
-    "name": "Винченцо Дандини",
-    "path": "records/vincenzo_dandini.json"
   }
 ]

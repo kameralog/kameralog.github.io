@@ -20,14 +20,59 @@
     ],
     "innovation": "Учебный ракурс — пространственная свобода и эмоциональная сосредоточенность внутри одной композиции.",
     "caution": "Первоначальное назначение спорно: Фонтенуова в Монсуммано или Пизанский собор. Пизанская версия принадлежит Дзаноби Рози. Кристофано и его отец Алессандро — разные художники; алиас «Аллори» без имени не используем.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Палатинская галерея, Палаццо Питти, Флоренция: Поклонение волхвов",
       "url": "https://www.uffizi.it/en/artworks/adoration-magi-cristofano-allori"
+    },
+    {
+      "title": "Репродукция: Иоанн Креститель в пустыне",
+      "url": "https://commons.wikimedia.org/wiki/File:Allori_C_San_Giovanni.jpg"
+    },
+    {
+      "title": "Репродукция: Гостеприимство святого Юлиана",
+      "url": "https://commons.wikimedia.org/wiki/File:Criistofano_Allori_San_Giuliano.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Cristofano_Allori-selfportrait.jpg"
+    },
+    {
+      "title": "Репродукция: Юдифь с головой Олоферна — версия Палаццо Питти",
+      "url": "https://commons.wikimedia.org/wiki/File:Judit_con_la_cabeza_de_Holofernes%2C_por_Cristofano_Allori.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch5:Q125022101",
+      "title": "Иоанн Креститель в пустыне",
+      "date": "XVII век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Allori_C_San_Giovanni.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q32905341",
+      "title": "Гостеприимство святого Юлиана",
+      "date": "1610–1620",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Criistofano_Allori_San_Giuliano.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q52155406",
+      "title": "Автопортрет",
+      "date": "1606",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cristofano_Allori-selfportrait.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q99571360",
+      "title": "Юдифь с головой Олоферна — версия Палаццо Питти",
+      "date": "1610–1612",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Judit_con_la_cabeza_de_Holofernes%2C_por_Cristofano_Allori.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

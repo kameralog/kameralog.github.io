@@ -34,6 +34,38 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Rosso_fiorentino,_givane_con_lettera,_londra.jpg"
+    },
+    {
+      "title": "Репродукция: Моисей защищает дочерей Иофора",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosso_Fiorentino_-_Moses_defending_the_Daughters_of_Jethro_-_Web_Gallery_of_Art.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь Деи",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosso%2C_pala_dei.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь Спедалинго",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosso_Fiorentino_-_Spedalingo_Altarpiece_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Источник: Алтарь Спедалинго",
+      "url": "https://www.uffizi.it/en/video/the-disliked-painting-by-rosso-fiorentino"
+    },
+    {
+      "title": "Репродукция: Ангел, играющий на лютне — сохранившийся фрагмент алтаря",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosso_Fiorentino_-_Madonna_dello_Spedalingo_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет юноши в чёрном",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosso%2C_ritratto_di_giovane_in_nero.jpg"
+    },
+    {
+      "title": "Репродукция: Иоанн Креститель в детстве",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosso_fiorentino%2C_san_giovannino%2C_collezione_privata_firenze.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет мужчины в чёрном — профиль",
+      "url": "https://commons.wikimedia.org/wiki/File:Rosso%2C_uomo_in_nero_di_profilo.jpg"
     }
   ],
   "works": [
@@ -42,6 +74,55 @@
       "title": "Портрет молодого человека с письмом",
       "date": "1518",
       "source": "https://www.nationalgallery.org.uk/paintings/rosso-fiorentino-portrait-of-a-young-man-holding-a-letter"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q1863885",
+      "title": "Моисей защищает дочерей Иофора",
+      "date": "1523",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso_Fiorentino_-_Moses_defending_the_Daughters_of_Jethro_-_Web_Gallery_of_Art.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3889199",
+      "title": "Алтарь Деи",
+      "date": "1522",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso%2C_pala_dei.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3889236",
+      "title": "Алтарь Спедалинго",
+      "date": "1518",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/video/the-disliked-painting-by-rosso-fiorentino"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3926028",
+      "title": "Ангел, играющий на лютне — сохранившийся фрагмент алтаря",
+      "date": "1521",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso_Fiorentino_-_Madonna_dello_Spedalingo_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3937723",
+      "title": "Портрет юноши в чёрном",
+      "date": "около 1520",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso%2C_ritratto_di_giovane_in_nero.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q3947283",
+      "title": "Иоанн Креститель в детстве",
+      "date": "1521",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso_fiorentino%2C_san_giovannino%2C_collezione_privata_firenze.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q4006183",
+      "title": "Портрет мужчины в чёрном — профиль",
+      "date": "около 1520–1522",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rosso%2C_uomo_in_nero_di_profilo.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -20,7 +20,7 @@
     ],
     "innovation": "Событие строится не на многочисленных участниках и драматическом движении, а на равновесии двух фигур и архитектуры. Пространственная торжественность и сдержанное чувство показывают иной путь начала XVI века, чем позднейшая маньеристическая напряжённость.",
     "caution": "Это встреча Марии и Елизаветы, не Благовещение: последнее находится в пределле. Слова Вазари о темпераменте художника — историческое свидетельство, не медицинская характеристика. Уффици указывает 232 × 140 см, страница репродукции — 232 × 146; приоритет дан музею, расхождение не скрыто. Файл 816 × 1248 пикселей не позволяет бесконечно увеличивать детали. Права PD-Art проверены; визуальное соответствие и загрузка в браузере — нет.",
-    "editorialStatus": "museum_sources_pd_art_file_checked_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,6 +30,14 @@
     {
       "title": "Страница конкретного файла и PD-Art",
       "url": "https://en.wikipedia.org/wiki/File:Albertinelli_Visitation.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение — панель пределлы «Посещения»",
+      "url": "https://commons.wikimedia.org/wiki/File:Albertinelli%2C_annunciazione.jpg"
+    },
+    {
+      "title": "Репродукция: Рождество Христово — панель пределлы «Посещения»",
+      "url": "https://commons.wikimedia.org/wiki/File:Albertinelli%2C_adorazione_del_bambino.jpg"
     }
   ],
   "works": [
@@ -38,6 +46,20 @@
       "title": "Посещение Марией Елизаветы",
       "date": "1503",
       "museum": "Галерея Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/artworks/albertinelli-visitation"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q124436402",
+      "title": "Благовещение — панель пределлы «Посещения»",
+      "date": "1503",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/artworks/albertinelli-visitation"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q124436675",
+      "title": "Рождество Христово — панель пределлы «Посещения»",
+      "date": "1503",
+      "museum": "Галереи Уффици, Флоренция",
       "source": "https://www.uffizi.it/en/artworks/albertinelli-visitation"
     }
   ],

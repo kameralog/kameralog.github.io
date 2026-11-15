@@ -1,5 +1,15 @@
 [
   {
+    "id": "jozsef_borsos",
+    "name": "Йожеф Боршош",
+    "path": "records/jozsef_borsos.json"
+  },
+  {
+    "id": "jozsef_koszta",
+    "name": "Йожеф Коста",
+    "path": "records/jozsef_koszta.json"
+  },
+  {
     "id": "jozsef_nemes_lamperth",
     "name": "Йожеф Немеш-Ламперт",
     "path": "records/jozsef_nemes_lamperth.json"
@@ -58,6 +68,11 @@
     "id": "johan_ludwig_lund",
     "name": "Йохан Людвиг Лунд",
     "path": "records/johan_ludwig_lund.json"
+  },
+  {
+    "id": "johan_rohde",
+    "name": "Йохан Роде",
+    "path": "records/johan_rohde.json"
   },
   {
     "id": "johan_thomas_lundbye",
@@ -153,6 +168,11 @@
     "id": "carl_larsson",
     "name": "Карл Ларссон",
     "path": "records/carl_larsson.json"
+  },
+  {
+    "id": "carl_locher",
+    "name": "Карл Лохер",
+    "path": "records/carl_locher.json"
   },
   {
     "id": "karl_madsen",
@@ -435,6 +455,11 @@
     "path": "records/christian_david_gebauer.json"
   },
   {
+    "id": "christian_zacho",
+    "name": "Кристиан Зако",
+    "path": "records/christian_zacho.json"
+  },
+  {
     "id": "christian_krohg",
     "name": "Кристиан Крог",
     "path": "records/christian_krohg.json"
@@ -473,30 +498,5 @@
     "id": "christoffer_wilhelm_eckersberg",
     "name": "Кристоффер Вильхельм Эккерсберг",
     "path": "records/christoffer_wilhelm_eckersberg.json"
-  },
-  {
-    "id": "kristjan_raud",
-    "name": "Кристьян Рауд",
-    "path": "records/kristjan_raud.json"
-  },
-  {
-    "id": "petrovvodkin",
-    "name": "Кузьма Петров-Водкин",
-    "path": "records/petrovvodkin.json"
-  },
-  {
-    "id": "cuno_amiet",
-    "name": "Куно Амье",
-    "path": "records/cuno_amiet.json"
-  },
-  {
-    "id": "kuroda_seiki",
-    "name": "Курода Сэйки",
-    "path": "records/kuroda_seiki.json"
-  },
-  {
-    "id": "catherine_madox_brown",
-    "name": "Кэтрин Мэдокс Браун",
-    "path": "records/catherine_madox_brown.json"
   }
 ]

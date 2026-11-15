@@ -30,6 +30,22 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Lamentation_of_Christ_-_WGA4436.jpg"
+    },
+    {
+      "title": "Репродукция: Мужчина с обезьяной",
+      "url": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_Uomo_con_scimmia_Firenze.jpg"
+    },
+    {
+      "title": "Репродукция: Христос в славе со святыми и Одоардо Фарнезе",
+      "url": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Christ_in_Glory_-_WGA4411.jpg"
+    },
+    {
+      "title": "Репродукция: Венера с сатиром и двумя амурами",
+      "url": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет в профиль",
+      "url": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Self-portrait.jpg"
     }
   ],
   "works": [
@@ -39,6 +55,34 @@
       "date": "около 1604",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/annibale-carracci-the-dead-christ-mourned-the-three-maries"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q126180968",
+      "title": "Мужчина с обезьяной",
+      "date": "XVI век, датировка уточняется",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_Uomo_con_scimmia_Firenze.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q18223127",
+      "title": "Христос в славе со святыми и Одоардо Фарнезе",
+      "date": "1597",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Christ_in_Glory_-_WGA4411.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q18420689",
+      "title": "Венера с сатиром и двумя амурами",
+      "date": "около 1588",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Venus_with_a_Satyr_and_Cupids_-_WGA4430.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch5:Q52337780",
+      "title": "Автопортрет в профиль",
+      "date": "около 1590–1600",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_Self-portrait.jpg"
     }
   ],
   "pendingWorksCount": 0
