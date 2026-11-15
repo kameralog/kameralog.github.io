@@ -1,5 +1,15 @@
 [
   {
+    "id": "virginie_demont_breton",
+    "name": "Виржини Демон-Бретон",
+    "path": "records/virginie_demont_breton.json"
+  },
+  {
+    "id": "vittore_ghislandi",
+    "name": "Витторе Гисланди",
+    "path": "records/vittore_ghislandi.json"
+  },
+  {
     "id": "vittore_carpaccio",
     "name": "Витторе Карпаччо",
     "path": "records/vittore_carpaccio.json"
@@ -168,6 +178,11 @@
     "id": "govert_flinck",
     "name": "Говерт Флинк",
     "path": "records/govert_flinck.json"
+  },
+  {
+    "id": "godtfred_rump",
+    "name": "Годтфред Румп",
+    "path": "records/godtfred_rump.json"
   },
   {
     "id": "gregorio_de_ferrari",
@@ -483,20 +498,5 @@
     "id": "constable",
     "name": "Джон Констебл",
     "path": "records/constable.json"
-  },
-  {
-    "id": "john_singer_sargent",
-    "name": "Джон Сингер Сарджент",
-    "path": "records/john_singer_sargent.json"
-  },
-  {
-    "id": "john_everett_millais",
-    "name": "Джон Эверетт Милле",
-    "path": "records/john_everett_millais.json"
-  },
-  {
-    "id": "georgiana_mccrae",
-    "name": "Джорджиана Маккрей",
-    "path": "records/georgiana_mccrae.json"
   }
 ]

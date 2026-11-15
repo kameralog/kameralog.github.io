@@ -1,5 +1,35 @@
 [
   {
+    "id": "cleveland_funerary_portrait_1971_137",
+    "name": "Погребальный портрет из Кливленда (1971.137)",
+    "path": "records/cleveland_funerary_portrait_1971_137.json"
+  },
+  {
+    "id": "pauline_knip",
+    "name": "Полина Книп",
+    "path": "records/pauline_knip.json"
+  },
+  {
+    "id": "gauguin",
+    "name": "Поль Гоген",
+    "path": "records/gauguin.json"
+  },
+  {
+    "id": "cezanne",
+    "name": "Поль Сезанн",
+    "path": "records/cezanne.json"
+  },
+  {
+    "id": "paul_signac",
+    "name": "Поль Синьяк",
+    "path": "records/paul_signac.json"
+  },
+  {
+    "id": "pompeo_batoni",
+    "name": "Помпео Батони",
+    "path": "records/pompeo_batoni.json"
+  },
+  {
     "id": "funerary_portrait_of_aline",
     "name": "Портрет Алины (Aline) из Хавары",
     "path": "records/funerary_portrait_of_aline.json"
@@ -465,38 +495,8 @@
     "path": "records/thomas_ender.json"
   },
   {
-    "id": "tensho_shubun",
-    "name": "Тэнсё Сюбун",
-    "path": "records/tensho_shubun.json"
-  },
-  {
-    "id": "tyko_sallinen",
-    "name": "Тюко Саллинен",
-    "path": "records/tyko_sallinen.json"
-  },
-  {
-    "id": "wu_daozi",
-    "name": "У Даоцзы",
-    "path": "records/wu_daozi.json"
-  },
-  {
-    "id": "ugolino_di_nerio",
-    "name": "Уголино ди Нерио",
-    "path": "records/ugolino_di_nerio.json"
-  },
-  {
-    "id": "blake",
-    "name": "Уильям Блейк",
-    "path": "records/blake.json"
-  },
-  {
-    "id": "william_turner",
-    "name": "Уильям Тёрнер",
-    "path": "records/william_turner.json"
-  },
-  {
-    "id": "william_holman_hunt",
-    "name": "Уильям Холман Хант",
-    "path": "records/william_holman_hunt.json"
+    "id": "thorald_brendstrup",
+    "name": "Торальд Брендструп",
+    "path": "records/thorald_brendstrup.json"
   }
 ]

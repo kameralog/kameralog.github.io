@@ -1,5 +1,50 @@
 [
   {
+    "id": "jacob_ochtervelt",
+    "name": "Якоб Охтервелт",
+    "path": "records/jacob_ochtervelt.json"
+  },
+  {
+    "id": "jacob_pynas",
+    "name": "Якоб Пейнас",
+    "path": "records/jacob_pynas.json"
+  },
+  {
+    "id": "jacoba_van_heemskerck",
+    "name": "Якоба ван Хемскерк",
+    "path": "records/jacoba_van_heemskerck.json"
+  },
+  {
+    "id": "jacopo_bassano",
+    "name": "Якопо Бассано",
+    "path": "records/jacopo_bassano.json"
+  },
+  {
+    "id": "jacopo_vignali",
+    "name": "Якопо Виньяли",
+    "path": "records/jacopo_vignali.json"
+  },
+  {
+    "id": "jacopo_del_sellaio",
+    "name": "Якопо дель Селлайо",
+    "path": "records/jacopo_del_sellaio.json"
+  },
+  {
+    "id": "jacopo_chimenti",
+    "name": "Якопо Кименти",
+    "path": "records/jacopo_chimenti.json"
+  },
+  {
+    "id": "jacopo_ligozzi",
+    "name": "Якопо Лигоцци",
+    "path": "records/jacopo_ligozzi.json"
+  },
+  {
+    "id": "pontormo",
+    "name": "Якопо Понтормо",
+    "path": "records/pontormo.json"
+  },
+  {
     "id": "jakub_schikaneder",
     "name": "Якуб Шиканедер",
     "path": "records/jakub_schikaneder.json"
@@ -178,5 +223,10 @@
     "id": "janos_tornyai",
     "name": "Янош Торняи",
     "path": "records/janos_tornyai.json"
+  },
+  {
+    "id": "janus_la_cour",
+    "name": "Янус ла Кур",
+    "path": "records/janus_la_cour.json"
   }
 ]

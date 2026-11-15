@@ -1,5 +1,30 @@
 [
   {
+    "id": "lajos_kassak",
+    "name": "Лайош Кашшак",
+    "path": "records/lajos_kassak.json"
+  },
+  {
+    "id": "lajos_tihanyi",
+    "name": "Лайош Тиханьи",
+    "path": "records/lajos_tihanyi.json"
+  },
+  {
+    "id": "laszlo_mednyanszky",
+    "name": "Ласло Меднянский",
+    "path": "records/laszlo_mednyanszky.json"
+  },
+  {
+    "id": "laszlo_paal",
+    "name": "Ласло Паал",
+    "path": "records/laszlo_paal.json"
+  },
+  {
+    "id": "laurits_andersen_ring",
+    "name": "Лауриц Андерсен Ринг",
+    "path": "records/laurits_andersen_ring.json"
+  },
+  {
     "id": "laurits_tuxen",
     "name": "Лауриц Туксен",
     "path": "records/laurits_tuxen.json"
@@ -473,30 +498,5 @@
     "id": "matthias_stom",
     "name": "Маттиас Стом",
     "path": "records/matthias_stom.json"
-  },
-  {
-    "id": "matsumura_goshun",
-    "name": "Мацумура Госюн",
-    "path": "records/matsumura_goshun.json"
-  },
-  {
-    "id": "mabel_hill",
-    "name": "Мейбл Хилл",
-    "path": "records/mabel_hill.json"
-  },
-  {
-    "id": "meindert_hobbema",
-    "name": "Мейндерт Хоббема",
-    "path": "records/meindert_hobbema.json"
-  },
-  {
-    "id": "mikalojus_konstantinas_ciurlionis",
-    "name": "Микалоюс Константинас Чюрлёнис",
-    "path": "records/mikalojus_konstantinas_ciurlionis.json"
-  },
-  {
-    "id": "michelangelo",
-    "name": "Микеланджело Буонарроти",
-    "path": "records/michelangelo.json"
   }
 ]

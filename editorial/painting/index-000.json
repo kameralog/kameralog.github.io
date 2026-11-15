@@ -35,6 +35,11 @@
     "path": "records/adam_de_coster.json"
   },
   {
+    "id": "adam_muller",
+    "name": "Адам Мюллер",
+    "path": "records/adam_muller.json"
+  },
+  {
     "id": "adam_elsheimer",
     "name": "Адам Эльсхаймер",
     "path": "records/adam_elsheimer.json"
@@ -470,6 +475,11 @@
     "path": "records/anton_hansch.json"
   },
   {
+    "id": "anton_eduard_kieldrup",
+    "name": "Антон Эдуард Кильдруп",
+    "path": "records/anton_eduard_kieldrup.json"
+  },
+  {
     "id": "antonello_da_messina",
     "name": "Антонелло да Мессина",
     "path": "records/antonello_da_messina.json"
@@ -488,15 +498,5 @@
     "id": "antonin_chittussi",
     "name": "Антонин Хиттусси",
     "path": "records/antonin_chittussi.json"
-  },
-  {
-    "id": "antonio_joli",
-    "name": "Антонио Джоли",
-    "path": "records/antonio_joli.json"
-  },
-  {
-    "id": "ants_laikmaa",
-    "name": "Антс Лайкмаа",
-    "path": "records/ants_laikmaa.json"
   }
 ]

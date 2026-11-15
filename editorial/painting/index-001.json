@@ -1,5 +1,15 @@
 [
   {
+    "id": "antonio_joli",
+    "name": "Антонио Джоли",
+    "path": "records/antonio_joli.json"
+  },
+  {
+    "id": "ants_laikmaa",
+    "name": "Антс Лайкмаа",
+    "path": "records/ants_laikmaa.json"
+  },
+  {
     "id": "antoine_watteau",
     "name": "Антуан Ватто",
     "path": "records/antoine_watteau.json"
@@ -488,15 +498,5 @@
     "id": "vincenzo_foppa",
     "name": "Винченцо Фоппа",
     "path": "records/vincenzo_foppa.json"
-  },
-  {
-    "id": "virginie_demont_breton",
-    "name": "Виржини Демон-Бретон",
-    "path": "records/virginie_demont_breton.json"
-  },
-  {
-    "id": "vittore_ghislandi",
-    "name": "Витторе Гисланди",
-    "path": "records/vittore_ghislandi.json"
   }
 ]

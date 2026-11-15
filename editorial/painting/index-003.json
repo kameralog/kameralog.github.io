@@ -1,5 +1,20 @@
 [
   {
+    "id": "john_singer_sargent",
+    "name": "Джон Сингер Сарджент",
+    "path": "records/john_singer_sargent.json"
+  },
+  {
+    "id": "john_everett_millais",
+    "name": "Джон Эверетт Милле",
+    "path": "records/john_everett_millais.json"
+  },
+  {
+    "id": "georgiana_mccrae",
+    "name": "Джорджиана Маккрей",
+    "path": "records/georgiana_mccrae.json"
+  },
+  {
     "id": "okeeffe",
     "name": "Джорджия О’Кифф",
     "path": "records/okeeffe.json"
@@ -88,6 +103,11 @@
     "id": "dirck_hals",
     "name": "Дирк Халс",
     "path": "records/dirck_hals.json"
+  },
+  {
+    "id": "ditlev_blunck",
+    "name": "Дитлев Блунк",
+    "path": "records/ditlev_blunck.json"
   },
   {
     "id": "domenichino",
@@ -478,25 +498,5 @@
     "id": "jozsef_rippl_ronai",
     "name": "Йожеф Риппль-Ронаи",
     "path": "records/jozsef_rippl_ronai.json"
-  },
-  {
-    "id": "jozsef_egry",
-    "name": "Йожеф Эгри",
-    "path": "records/jozsef_egry.json"
-  },
-  {
-    "id": "josef_danhauser",
-    "name": "Йозеф Данхаузер",
-    "path": "records/josef_danhauser.json"
-  },
-  {
-    "id": "josef_manes",
-    "name": "Йозеф Манес",
-    "path": "records/josef_manes.json"
-  },
-  {
-    "id": "josef_rebell",
-    "name": "Йозеф Ребелль",
-    "path": "records/josef_rebell.json"
   }
 ]
