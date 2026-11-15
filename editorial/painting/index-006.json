@@ -1,5 +1,30 @@
 [
   {
+    "id": "mary_moser",
+    "name": "Мэри Мозер",
+    "path": "records/mary_moser.json"
+  },
+  {
+    "id": "mary_fairchild_macmonnies_low",
+    "name": "Мэри Фэрчайлд Макмоннис Лоу",
+    "path": "records/mary_fairchild_macmonnies_low.json"
+  },
+  {
+    "id": "mary_hiester_reid",
+    "name": "Мэри Хистер Рид",
+    "path": "records/mary_hiester_reid.json"
+  },
+  {
+    "id": "nainsukh",
+    "name": "Найнсукх",
+    "path": "records/nainsukh.json"
+  },
+  {
+    "id": "nasiruddin",
+    "name": "Насируддин",
+    "path": "records/nasiruddin.json"
+  },
+  {
     "id": "goncharova",
     "name": "Наталья Гончарова",
     "path": "records/goncharova.json"
@@ -163,6 +188,11 @@
     "id": "kokoschka",
     "name": "Оскар Кокошка",
     "path": "records/kokoschka.json"
+  },
+  {
+    "id": "oskar_laske",
+    "name": "Оскар Ласке",
+    "path": "records/oskar_laske.json"
   },
   {
     "id": "otakar_lebeda",
@@ -468,35 +498,5 @@
     "id": "richard_bergh",
     "name": "Рихард Берг",
     "path": "records/richard_bergh.json"
-  },
-  {
-    "id": "richard_gerstl",
-    "name": "Рихард Герстль",
-    "path": "records/richard_gerstl.json"
-  },
-  {
-    "id": "robert_campin",
-    "name": "Робер Кампен",
-    "path": "records/robert_campin.json"
-  },
-  {
-    "id": "robert_bereny",
-    "name": "Роберт Берень",
-    "path": "records/robert_bereny.json"
-  },
-  {
-    "id": "robert_wilhelm_ekman",
-    "name": "Роберт Вильгельм Экман",
-    "path": "records/robert_wilhelm_ekman.json"
-  },
-  {
-    "id": "rauschenberg",
-    "name": "Роберт Раушенберг",
-    "path": "records/rauschenberg.json"
-  },
-  {
-    "id": "robert_zund",
-    "name": "Роберт Цюнд",
-    "path": "records/robert_zund.json"
   }
 ]

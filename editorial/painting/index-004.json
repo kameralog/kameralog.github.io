@@ -1,5 +1,30 @@
 [
   {
+    "id": "camille_pissarro",
+    "name": "Камиль Писсарро",
+    "path": "records/camille_pissarro.json"
+  },
+  {
+    "id": "canaletto",
+    "name": "Каналетто",
+    "path": "records/canaletto.json"
+  },
+  {
+    "id": "kano_motonobu",
+    "name": "Кано Мотонобу",
+    "path": "records/kano_motonobu.json"
+  },
+  {
+    "id": "kano_eitoku",
+    "name": "Кано Эйтоку",
+    "path": "records/kano_eitoku.json"
+  },
+  {
+    "id": "kao_ninga",
+    "name": "Као",
+    "path": "records/kao_ninga.json"
+  },
+  {
     "id": "caravaggio",
     "name": "Караваджо",
     "path": "records/caravaggio.json"
@@ -473,30 +498,5 @@
     "id": "louise_jopling",
     "name": "Луиза Джоплинг",
     "path": "records/louise_jopling.json"
-  },
-  {
-    "id": "louise_catherine_breslau",
-    "name": "Луиза Катрин Бреслау",
-    "path": "records/louise_catherine_breslau.json"
-  },
-  {
-    "id": "louise_moillon",
-    "name": "Луиза Муайон",
-    "path": "records/louise_moillon.json"
-  },
-  {
-    "id": "louise_rayner",
-    "name": "Луиза Рейнер",
-    "path": "records/louise_rayner.json"
-  },
-  {
-    "id": "louise_heger",
-    "name": "Луиза Эгер",
-    "path": "records/louise_heger.json"
-  },
-  {
-    "id": "louisa_anne_meredith",
-    "name": "Луиза Энн Мередит",
-    "path": "records/louisa_anne_meredith.json"
   }
 ]

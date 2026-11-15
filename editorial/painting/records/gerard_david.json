@@ -19,7 +19,7 @@
     ],
     "innovation": "Давид превращает большие заказы в рассказ для молящегося: центральная нижняя панель алтаря стояла за престолом, чтобы при благословении евхаристии напоминать о жертве Христа.",
     "caution": "Некоторые учёные видят в голове Иосифа на «Рождестве» портрет заказчика; музей подаёт это как предположение. Даты рождения расходятся: около 1460 (Чикаго) и 1450/60 (Кливленд).",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -29,6 +29,10 @@
     {
       "title": "Art Institute of Chicago: Lamentation over the Body of Christ",
       "url": "https://www.artic.edu/artworks/16261"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов",
+      "url": "https://commons.wikimedia.org/wiki/File:G%C3%A9rard_David,_adorazione_dei_magi,_uffizi.JPG"
     }
   ],
   "works": [
@@ -45,6 +49,13 @@
       "date": "c. 1500",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/16261"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3605529",
+      "title": "Поклонение волхвов",
+      "date": "около 1495",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:G%C3%A9rard_David,_adorazione_dei_magi,_uffizi.JPG"
     }
   ],
   "pendingWorksCount": 0

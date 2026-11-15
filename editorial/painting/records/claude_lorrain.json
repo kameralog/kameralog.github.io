@@ -24,6 +24,10 @@
     {
       "title": "Art Institute of Chicago: View of Delphi with a Procession",
       "url": "https://www.artic.edu/artworks/43145"
+    },
+    {
+      "title": "Репродукция: Портовая сцена с виллой Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Lorrain.seaport.jpg"
     }
   ],
   "works": [
@@ -33,6 +37,13 @@
       "date": "1673",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/43145"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q51078137",
+      "title": "Портовая сцена с виллой Медичи",
+      "date": "1637",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorrain.seaport.jpg"
     }
   ],
   "pendingWorksCount": 0

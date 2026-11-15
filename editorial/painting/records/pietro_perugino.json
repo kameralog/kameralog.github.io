@@ -20,7 +20,7 @@
     ],
     "innovation": "Перуджино соединяет убедительные фактуры с ясной и спокойной организацией религиозного образа. Масляные лессировки и согласованные позы превращают движение в сдержанный ритм; в этой работе главное — не модный костюм, а покровительство архангела мальчику.",
     "caution": "1469 — год, когда художник уже жил, не дата рождения. Учёбу у Пьеро делла Франчески музей считает предположением. NG288.3 — отдельная панель, не весь алтарь; нижний край обрезан в XVIII веке, поэтому от собаки видна только голова. Товия — сын Товита; архангел Рафаил — персонаж сюжета, не художник Рафаэль. Карьера продолжалась после 1500 года. Визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,66 @@
     {
       "title": "Commons: репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat54c.jpg"
+    },
+    {
+      "title": "Репродукция: Моление о чаше",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat20.jpg"
+    },
+    {
+      "title": "Источник: Моление о чаше",
+      "url": "https://www.uffizi.it/opere/perugino-orazione"
+    },
+    {
+      "title": "Репродукция: Оплакивание мёртвого Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat40.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна дель Сакко",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat55.jpg"
+    },
+    {
+      "title": "Источник: Мадонна дель Сакко",
+      "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900193924"
+    },
+    {
+      "title": "Репродукция: Мадонна на троне с Иоанном Крестителем и Себастьяном",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat30.jpg"
+    },
+    {
+      "title": "Репродукция: Мария Магдалина",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_-_Maria_Magdalena.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Бьяджо Миланези",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat58a.jpg"
+    },
+    {
+      "title": "Источник: Портрет Бьяджо Миланези",
+      "url": "https://www.galleriaaccademiafirenze.it/en/artworks/portrait-don-biagio-milanesi/"
+    },
+    {
+      "title": "Репродукция: Портрет молодого человека",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_catA2.jpg"
+    },
+    {
+      "title": "Репродукция: Пьета",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat19.jpg"
+    },
+    {
+      "title": "Источник: Пьета",
+      "url": "https://www.uffizi.it/en/artworks/pieta-perugino-uffizi-en"
+    },
+    {
+      "title": "Репродукция: Портрет Франческо делле Опере",
+      "url": "https://commons.wikimedia.org/wiki/File:Perugino_-_Ritratto_di_Francesco_delle_Opere_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет дона Бальдассарре ди Анджело",
+      "url": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat58b.jpg"
+    },
+    {
+      "title": "Источник: Портрет дона Бальдассарре ди Анджело",
+      "url": "https://www.galleriaaccademiafirenze.it/opere/ritratto-di-don-baldassarre-di-angelo/"
     }
   ],
   "works": [
@@ -43,6 +103,76 @@
       "date": "около 1496–1500",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/pietro-perugino-the-archangel-raphael-with-tobias"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3201606",
+      "title": "Моление о чаше",
+      "date": "около 1493–1496",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/opere/perugino-orazione"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3207678",
+      "title": "Оплакивание мёртвого Христа",
+      "date": "1495",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat40.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3213753",
+      "title": "Мадонна дель Сакко",
+      "date": "около 1495–1500",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900193924"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3213789",
+      "title": "Мадонна на троне с Иоанном Крестителем и Себастьяном",
+      "date": "1493",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_cat30.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3292105",
+      "title": "Мария Магдалина",
+      "date": "около 1500",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_-_Maria_Magdalena.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3399418",
+      "title": "Портрет Бьяджо Миланези",
+      "date": "1500",
+      "museum": "Галерея Академии, Флоренция",
+      "source": "https://www.galleriaaccademiafirenze.it/en/artworks/portrait-don-biagio-milanesi/"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3399473",
+      "title": "Портрет молодого человека",
+      "date": "конец XV века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pietro_Perugino_catA2.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q368788",
+      "title": "Пьета",
+      "date": "около 1493–1496",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/artworks/pieta-perugino-uffizi-en"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q945250",
+      "title": "Портрет Франческо делле Опере",
+      "date": "1494",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Perugino_-_Ritratto_di_Francesco_delle_Opere_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q957460",
+      "title": "Портрет дона Бальдассарре ди Анджело",
+      "date": "около 1500",
+      "museum": "Галерея Академии, Флоренция",
+      "source": "https://www.galleriaaccademiafirenze.it/opere/ritratto-di-don-baldassarre-di-angelo/"
     }
   ],
   "pendingWorksCount": 0

@@ -1,5 +1,25 @@
 [
   {
+    "id": "agnolo_bronzino",
+    "name": "Аньоло Бронзино",
+    "path": "records/agnolo_bronzino.json"
+  },
+  {
+    "id": "arvid_liljelund",
+    "name": "Арвид Лильелунд",
+    "path": "records/arvid_liljelund.json"
+  },
+  {
+    "id": "arent_arentsz",
+    "name": "Арент Арентсз.",
+    "path": "records/arent_arentsz.json"
+  },
+  {
+    "id": "arnold_bocklin",
+    "name": "Арнольд Бёклин",
+    "path": "records/arnold_bocklin.json"
+  },
+  {
     "id": "aert_van_der_neer",
     "name": "Арт ван дер Нер",
     "path": "records/aert_van_der_neer.json"
@@ -478,25 +498,5 @@
     "id": "vaino_kunnas",
     "name": "Вяйнё Куннас",
     "path": "records/vaino_kunnas.json"
-  },
-  {
-    "id": "hans_baldung",
-    "name": "Ганс Бальдунг",
-    "path": "records/hans_baldung.json"
-  },
-  {
-    "id": "hans_holbein_the_younger",
-    "name": "Ганс Гольбейн Младший",
-    "path": "records/hans_holbein_the_younger.json"
-  },
-  {
-    "id": "hans_memling",
-    "name": "Ганс Мемлинг",
-    "path": "records/hans_memling.json"
-  },
-  {
-    "id": "garofalo",
-    "name": "Гарофало",
-    "path": "records/garofalo.json"
   }
 ]

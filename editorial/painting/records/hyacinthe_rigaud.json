@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Louis_XIV_of_France_in_Coronation_Robes_(by_Hyacinthe_Rigaud)_-_Louvre_Museum.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Жака-Бениня Боссюэ",
+      "url": "https://commons.wikimedia.org/wiki/File:1698_-_Jacques-B%C3%A9nigne_Bossuet_(Florence).jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет с палитрой",
+      "url": "https://commons.wikimedia.org/wiki/File:Hyacinthe_Rigand_-_Autoportrait_dit_%C2%AB%C3%A0_la_palette%C2%BB_-_A759_-_Uffizi_Gallery.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "1701; подпись и дата",
       "museum": "Лувр, Париж",
       "source": "https://collections.louvre.fr/en/ark:/53355/cl010066115"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q114241461",
+      "title": "Портрет Жака-Бениня Боссюэ",
+      "date": "1698",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:1698_-_Jacques-B%C3%A9nigne_Bossuet_(Florence).jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q116912709",
+      "title": "Автопортрет с палитрой",
+      "date": "1716",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyacinthe_Rigand_-_Autoportrait_dit_%C2%AB%C3%A0_la_palette%C2%BB_-_A759_-_Uffizi_Gallery.jpg"
     }
   ],
   "pendingWorksCount": 0

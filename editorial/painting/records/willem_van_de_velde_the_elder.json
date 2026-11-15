@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:The_First_Battle_of_Schooneveld,_28_May_1673_van_de_Velde_RMG_BHC0305.jpg"
+    },
+    {
+      "title": "Репродукция: Голландские военные корабли",
+      "url": "https://commons.wikimedia.org/wiki/File:Dutch_battleships.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "1684; изображено сражение 1673 года",
       "museum": "Национальный морской музей, Гринвич",
       "source": "https://www.rmg.co.uk/collections/objects/rmgc-object-11797"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q50801937",
+      "title": "Голландские военные корабли",
+      "date": "1672",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Dutch_battleships.jpg"
     }
   ],
   "pendingWorksCount": 0

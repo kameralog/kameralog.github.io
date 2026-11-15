@@ -1,5 +1,40 @@
 [
   {
+    "id": "richard_gerstl",
+    "name": "Рихард Герстль",
+    "path": "records/richard_gerstl.json"
+  },
+  {
+    "id": "robert_campin",
+    "name": "Робер Кампен",
+    "path": "records/robert_campin.json"
+  },
+  {
+    "id": "robert_bereny",
+    "name": "Роберт Берень",
+    "path": "records/robert_bereny.json"
+  },
+  {
+    "id": "robert_wilhelm_ekman",
+    "name": "Роберт Вильгельм Экман",
+    "path": "records/robert_wilhelm_ekman.json"
+  },
+  {
+    "id": "rauschenberg",
+    "name": "Роберт Раушенберг",
+    "path": "records/rauschenberg.json"
+  },
+  {
+    "id": "robert_zund",
+    "name": "Роберт Цюнд",
+    "path": "records/robert_zund.json"
+  },
+  {
+    "id": "robin_christian_andersen",
+    "name": "Робин Кристиан Андерсен",
+    "path": "records/robin_christian_andersen.json"
+  },
+  {
     "id": "rose_adelaide_ducreux",
     "name": "Роз-Аделаида Дюкре",
     "path": "records/rose_adelaide_ducreux.json"
@@ -108,6 +143,11 @@
     "id": "sebastien_bourdon",
     "name": "Себастьен Бурдон",
     "path": "records/sebastien_bourdon.json"
+  },
+  {
+    "id": "sebastian_isepp",
+    "name": "Себастьян Изепп",
+    "path": "records/sebastian_isepp.json"
   },
   {
     "id": "sebastiano_del_piombo",
@@ -365,6 +405,11 @@
     "path": "records/fede_galizia.json"
   },
   {
+    "id": "felix_albrecht_harta",
+    "name": "Феликс Альбрехт Харта",
+    "path": "records/felix_albrecht_harta.json"
+  },
+  {
     "id": "felix_vallotton",
     "name": "Феликс Валлоттон",
     "path": "records/felix_vallotton.json"
@@ -453,50 +498,5 @@
     "id": "fra_bartolomeo",
     "name": "Фра Бартоломео",
     "path": "records/fra_bartolomeo.json"
-  },
-  {
-    "id": "fra_filippo_lippi",
-    "name": "Фра Филиппо Липпи",
-    "path": "records/fra_filippo_lippi.json"
-  },
-  {
-    "id": "frank_buchser",
-    "name": "Франк Бухзер",
-    "path": "records/frank_buchser.json"
-  },
-  {
-    "id": "frans_van_cuyck_de_myerhop",
-    "name": "Франс ван Кёйк де Мейерхоп",
-    "path": "records/frans_van_cuyck_de_myerhop.json"
-  },
-  {
-    "id": "frans_van_mieris_the_elder",
-    "name": "Франс ван Мирис Старший",
-    "path": "records/frans_van_mieris_the_elder.json"
-  },
-  {
-    "id": "hals",
-    "name": "Франс Халс",
-    "path": "records/hals.json"
-  },
-  {
-    "id": "francisco_goya",
-    "name": "Франсиско Гойя",
-    "path": "records/francisco_goya.json"
-  },
-  {
-    "id": "francois_boucher",
-    "name": "Франсуа Буше",
-    "path": "records/francois_boucher.json"
-  },
-  {
-    "id": "francois_diday",
-    "name": "Франсуа Диде",
-    "path": "records/francois_diday.json"
-  },
-  {
-    "id": "francois_hubert_drouais",
-    "name": "Франсуа-Юбер Друэ",
-    "path": "records/francois_hubert_drouais.json"
   }
 ]

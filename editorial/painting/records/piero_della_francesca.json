@@ -20,7 +20,7 @@
     ],
     "innovation": "Математическое построение пространства становится основой зрительной гармонии. Пейзаж, напоминающий окрестности Сансеполькро, приближает библейское событие к миру первоначальных зрителей.",
     "caution": "Дату вероятно около 1437–1445 берём из текущей записи Национальной галереи. На Commons у той же репродукции указано 1448–1450; это различие источников, не другая картина. Толкование дальних фигур как волхвов остаётся предположением. Не называем Пьеро изобретателем перспективы.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,6 +30,14 @@
     {
       "title": "Commons: репродукция WGA17595 и PD-Art",
       "url": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Баттисты Сфорца",
+      "url": "https://commons.wikimedia.org/wiki/File:Battista_sforza.jpg"
+    },
+    {
+      "title": "Источник: Портрет Баттисты Сфорца",
+      "url": "https://www.uffizi.it/en/artworks/the-duke-and-duchess-of-urbino-federico-da-montefeltro-and-battista-sforza"
     }
   ],
   "works": [
@@ -39,6 +47,13 @@
       "date": "вероятно, ок. 1437–1445",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/piero-della-francesca-the-baptism-of-christ"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q28798129",
+      "title": "Портрет Баттисты Сфорца",
+      "date": "около 1473 или ранее",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/artworks/the-duke-and-duchess-of-urbino-federico-da-montefeltro-and-battista-sforza"
     }
   ],
   "pendingWorksCount": 0

@@ -1,5 +1,25 @@
 [
   {
+    "id": "hans_baldung",
+    "name": "Ганс Бальдунг",
+    "path": "records/hans_baldung.json"
+  },
+  {
+    "id": "hans_holbein_the_younger",
+    "name": "Ганс Гольбейн Младший",
+    "path": "records/hans_holbein_the_younger.json"
+  },
+  {
+    "id": "hans_memling",
+    "name": "Ганс Мемлинг",
+    "path": "records/hans_memling.json"
+  },
+  {
+    "id": "garofalo",
+    "name": "Гарофало",
+    "path": "records/garofalo.json"
+  },
+  {
     "id": "gaspar_peeter_verbruggen_the_elder",
     "name": "Гаспар Петер Вербрюгген Старший",
     "path": "records/gaspar_peeter_verbruggen_the_elder.json"
@@ -63,6 +83,11 @@
     "id": "gerardina_van_de_sande_bakhuyzen",
     "name": "Герардина Якоба ван де Санде Бакхёйзен",
     "path": "records/gerardina_van_de_sande_bakhuyzen.json"
+  },
+  {
+    "id": "herbert_boeckl",
+    "name": "Герберт Бёкль",
+    "path": "records/herbert_boeckl.json"
   },
   {
     "id": "gerbrand_van_den_eeckhout",
@@ -473,30 +498,5 @@
     "id": "giuseppe_maria_crespi",
     "name": "Джузеппе Мария Креспи",
     "path": "records/giuseppe_maria_crespi.json"
-  },
-  {
-    "id": "giuseppe_pellizza_da_volpedo",
-    "name": "Джузеппе Пеллицца да Вольпедо",
-    "path": "records/giuseppe_pellizza_da_volpedo.json"
-  },
-  {
-    "id": "giuseppe_recco",
-    "name": "Джузеппе Рекко",
-    "path": "records/giuseppe_recco.json"
-  },
-  {
-    "id": "giuseppe_ruoppolo",
-    "name": "Джузеппе Руопполо",
-    "path": "records/giuseppe_ruoppolo.json"
-  },
-  {
-    "id": "giuseppe_salviati",
-    "name": "Джузеппе Сальвиати",
-    "path": "records/giuseppe_salviati.json"
-  },
-  {
-    "id": "julie_hart_beers",
-    "name": "Джули Харт Бирс",
-    "path": "records/julie_hart_beers.json"
   }
 ]

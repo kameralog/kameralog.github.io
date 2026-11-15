@@ -1,5 +1,55 @@
 [
   {
+    "id": "degas",
+    "name": "Эдгар Дега",
+    "path": "records/degas.json"
+  },
+  {
+    "id": "odon_marffy",
+    "name": "Эдён Марффи",
+    "path": "records/odon_marffy.json"
+  },
+  {
+    "id": "edith_collier",
+    "name": "Эдит Коллиер",
+    "path": "records/edith_collier.json"
+  },
+  {
+    "id": "edith_hayllar",
+    "name": "Эдит Хейллар",
+    "path": "records/edith_hayllar.json"
+  },
+  {
+    "id": "edouard_vallet",
+    "name": "Эдуар Валле",
+    "path": "records/edouard_vallet.json"
+  },
+  {
+    "id": "manet",
+    "name": "Эдуар Мане",
+    "path": "records/manet.json"
+  },
+  {
+    "id": "eugene_burnand",
+    "name": "Эжен Бюрнан",
+    "path": "records/eugene_burnand.json"
+  },
+  {
+    "id": "eugene_delacroix",
+    "name": "Эжен Делакруа",
+    "path": "records/eugene_delacroix.json"
+  },
+  {
+    "id": "eugene_jansson",
+    "name": "Эжен Янссон",
+    "path": "records/eugene_jansson.json"
+  },
+  {
+    "id": "eilif_peterssen",
+    "name": "Эйлиф Петерссен",
+    "path": "records/eilif_peterssen.json"
+  },
+  {
     "id": "eleanor_fortescue_brickdale",
     "name": "Элеонора Фортескью-Брикдейл",
     "path": "records/eleanor_fortescue_brickdale.json"
@@ -448,35 +498,5 @@
     "id": "janis_valters",
     "name": "Янис Валтерс",
     "path": "records/janis_valters.json"
-  },
-  {
-    "id": "janis_tillbergs",
-    "name": "Янис Робертс Тилбергс",
-    "path": "records/janis_tillbergs.json"
-  },
-  {
-    "id": "janis_rozentals",
-    "name": "Янис Розенталс",
-    "path": "records/janis_rozentals.json"
-  },
-  {
-    "id": "janos_vaszary",
-    "name": "Янош Васари",
-    "path": "records/janos_vaszary.json"
-  },
-  {
-    "id": "janos_nagy_balogh",
-    "name": "Янош Надь-Балог",
-    "path": "records/janos_nagy_balogh.json"
-  },
-  {
-    "id": "janos_thorma",
-    "name": "Янош Торма",
-    "path": "records/janos_thorma.json"
-  },
-  {
-    "id": "janos_tornyai",
-    "name": "Янош Торняи",
-    "path": "records/janos_tornyai.json"
   }
 ]

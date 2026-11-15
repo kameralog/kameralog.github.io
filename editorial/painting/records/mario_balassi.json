@@ -20,14 +20,30 @@
     ],
     "innovation": "Учебный ракурс — распознавать конкретную версию сюжета по каталогу, не только по названию.",
     "caution": "Пять пунктов — вопросы к будущему рассматриванию. Не смешиваем Товита-отца с сыном Товией и две версии Баласси. Дата, точная техника, размеры и инвентарный номер не установлены. № 16 — номер каталога. Изображение второй версии в статье не подставляем к первой.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено: Исцеление Товита",
       "url": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf"
+    },
+    {
+      "title": "Репродукция: Царица Армении",
+      "url": "https://commons.wikimedia.org/wiki/File:Mario_Balassi_-_The_Queen_of_Armenia_-_Uffizi.jpg"
+    },
+    {
+      "title": "Источник: Царица Армении",
+      "url": "https://www.uffizi.it/en/magazine-imagines/imagines-1-english"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch1:Q110896440",
+      "title": "Царица Армении",
+      "date": "дата уточняется",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/magazine-imagines/imagines-1-english"
+    }
+  ],
   "pendingWorksCount": 1
 }

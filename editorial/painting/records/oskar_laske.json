@@ -1,0 +1,66 @@
+{
+  "id": "oskar_laske",
+  "name": "Оскар Ласке",
+  "latin": "Oskar Laske",
+  "life": "1874–1951",
+  "tag": "Австрия · повествовательная фантазия и аллегория",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-148.js",
+  "existing": {
+    "bio": [
+      "Австрийский художник, гравёр и литограф, родившийся в Черновцах и умерший в Вене. Обучался архитектуре; музейная биография отмечает работу с проектированием домов и предметов декоративного искусства.",
+      "Выбран крупный «Корабль дураков» из Belvedere: темпера и сусальное золото на холсте. Музейная дата 1923 подтверждена надписью «Das Narrenschiff / op. XXX 2 1923», опубликованной в путеводителе.",
+      "В Harvard Art Museums есть другая работа с тем же названием: 1949 год, масло на холсте, 136 × 108,2 см. Её техника, дата и частная история происхождения не перенесены на картину Belvedere."
+    ],
+    "technique": [
+      "Темпера и сусальное золото на холсте; 195 × 240 см",
+      "Музейные интерпретации атрибутированы источникам; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Аллегорическая композиция позволяет сопоставить наблюдение повседневной жизни с фантазией и повествованием; конкретная символическая расшифровка каждого персонажа пока не установлена.",
+    "caution": "Дата файла и поле Date дают 1922; музейные источники и надпись указывают 1923 — принята музейная дата с сохранённым расхождением. Не использовать торговые размеры 120 × 160 см и масло или данные гарвардской картины 1949 года. Полный аудит дублей по репозиторию не выполнен: поиск вернул incomplete_results=true.",
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_ALIAS_AND_BROWSER_CHECK_PENDING"
+  },
+  "sources": [
+    {
+      "title": "Belvedere: предметная запись и музейный фотокредит",
+      "url": "https://sammlung.belvedere.at/objects/8187/das-narrenschiff"
+    },
+    {
+      "title": "Belvedere: музейный путеводитель подтверждает материал, дату и надпись",
+      "url": "https://www.belvedere.at/sites/default/files/jart-files/Galeriefuehrer-Belvedere-Span.pdf"
+    },
+    {
+      "title": "Официальный магазин: сведения именно об оригинале",
+      "url": "https://print.belvedere.at/de/p/oskar-laske-das-narrenschiff/"
+    },
+    {
+      "title": "British Museum: биография и образование архитектора",
+      "url": "https://www.britishmuseum.org/collection/term/biog34892"
+    },
+    {
+      "title": "Harvard Art Museums: другое одноимённое произведение, 1949",
+      "url": "https://harvardartmuseums.org/art/222163"
+    },
+    {
+      "title": "Точная файловая карточка и правовое заявление",
+      "url": "https://commons.wikimedia.org/wiki/File:Oskar_Laske_Das_Narrenschiff_1922.jpg"
+    },
+    {
+      "title": "Прочитанная общая файловая карточка, история и PD-Art",
+      "url": "https://fr.wikipedia.org/wiki/Fichier:Oskar_Laske_Das_Narrenschiff_1922.jpg"
+    }
+  ],
+  "works": [
+    {
+      "key": "oskar_laske_selected",
+      "title": "Корабль дураков",
+      "date": "1923",
+      "museum": "Belvedere, Вена",
+      "source": "https://sammlung.belvedere.at/objects/8187/das-narrenschiff"
+    }
+  ],
+  "pendingWorksCount": 0
+}

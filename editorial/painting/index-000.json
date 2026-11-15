@@ -170,6 +170,11 @@
     "path": "records/albert_bouts.json"
   },
   {
+    "id": "albert_paris_gutersloh",
+    "name": "Альберт Парис Гютерсло",
+    "path": "records/albert_paris_gutersloh.json"
+  },
+  {
     "id": "albert_edelfelt",
     "name": "Альберт Эдельфельт",
     "path": "records/albert_edelfelt.json"
@@ -425,6 +430,16 @@
     "path": "records/anton_domenico_gabbiani.json"
   },
   {
+    "id": "anton_kolig",
+    "name": "Антон Колиг",
+    "path": "records/anton_kolig.json"
+  },
+  {
+    "id": "anton_mahringer",
+    "name": "Антон Марингер",
+    "path": "records/anton_mahringer.json"
+  },
+  {
     "id": "anton_raphael_mengs",
     "name": "Антон Рафаэль Менгс",
     "path": "records/anton_raphael_mengs.json"
@@ -433,6 +448,11 @@
     "id": "anton_romako",
     "name": "Антон Ромако",
     "path": "records/anton_romako.json"
+  },
+  {
+    "id": "anton_faistauer",
+    "name": "Антон Файстауэр",
+    "path": "records/anton_faistauer.json"
   },
   {
     "id": "antonello_da_messina",
@@ -478,25 +498,5 @@
     "id": "aniello_falcone",
     "name": "Аньелло Фальконе",
     "path": "records/aniello_falcone.json"
-  },
-  {
-    "id": "agnolo_bronzino",
-    "name": "Аньоло Бронзино",
-    "path": "records/agnolo_bronzino.json"
-  },
-  {
-    "id": "arvid_liljelund",
-    "name": "Арвид Лильелунд",
-    "path": "records/arvid_liljelund.json"
-  },
-  {
-    "id": "arent_arentsz",
-    "name": "Арент Арентсз.",
-    "path": "records/arent_arentsz.json"
-  },
-  {
-    "id": "arnold_bocklin",
-    "name": "Арнольд Бёклин",
-    "path": "records/arnold_bocklin.json"
   }
 ]

@@ -32,6 +32,22 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Salvator_Rosa_Nachfolger,_gemalt_vor_1837,_%22Landschaft_mit_Merkur_und_dem_verlogenen_Holzf%C3%A4ller%22.jpg"
+    },
+    {
+      "title": "Репродукция: Морская гавань",
+      "url": "https://commons.wikimedia.org/wiki/File:Salvator_rosa,_marina_del_porto,_1641,_palatina.jpg"
+    },
+    {
+      "title": "Источник: Морская гавань",
+      "url": "https://www.uffizi.it/opere/salvator-rosa-marina-porto"
+    },
+    {
+      "title": "Репродукция: Аллегория лжи",
+      "url": "https://commons.wikimedia.org/wiki/File:Salvator_rosa,_menzogna,_1645-48_ca.,_palatina.jpg"
+    },
+    {
+      "title": "Источник: Аллегория лжи",
+      "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900021584"
     }
   ],
   "works": [
@@ -41,6 +57,20 @@
       "date": "около 1663",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/salvator-rosa-landscape-with-mercury-and-the-dishonest-woodsman"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q115727218",
+      "title": "Морская гавань",
+      "date": "1641",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/opere/salvator-rosa-marina-porto"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q133459806",
+      "title": "Аллегория лжи",
+      "date": "1640-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900021584"
     }
   ],
   "pendingWorksCount": 0

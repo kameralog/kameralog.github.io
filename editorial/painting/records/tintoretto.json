@@ -18,12 +18,36 @@
     ],
     "innovation": "История Елены показана не мелкой отделкой, а энергией кисти. Это наблюдение относится к данной небольшой картине.",
     "caution": "Связь с большим циклом о Елене музей считает возможной, а не доказанной.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Art Institute of Chicago: Saint Helen Testing the True Cross",
       "url": "https://www.artic.edu/artworks/10509"
+    },
+    {
+      "title": "Репродукция: Леда и лебедь — версия Q114647547",
+      "url": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Leda_e_il_cigno,_1187590.jpg"
+    },
+    {
+      "title": "Репродукция: Леда и лебедь — версия Q11753618",
+      "url": "https://commons.wikimedia.org/wiki/File:Leda_mit_schwan.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет мужчины в меховой одежде",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_anonymous_man.jpg"
+    },
+    {
+      "title": "Репродукция: Венера, Вулкан и Амур",
+      "url": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Venere_e_Vulcano_vezzeggiano_Cupido,_1188187,_Galleria_Palatina.jpg"
+    },
+    {
+      "title": "Репродукция: Мужской портрет, № 1387",
+      "url": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_ritratto_d%27uomo,_1187684.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Альвизе Корнаро",
+      "url": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_ritratto_di_Alvise_Cornaro,_1188258,_Galleria_Palatina.jpg"
     }
   ],
   "works": [
@@ -33,6 +57,48 @@
       "date": "c. 1545",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/10509"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q114647547",
+      "title": "Леда и лебедь — версия Q114647547",
+      "date": "около 1551–1555",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Leda_e_il_cigno,_1187590.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q11753618",
+      "title": "Леда и лебедь — версия Q11753618",
+      "date": "вторая половина XVI века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Leda_mit_schwan.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q124246612",
+      "title": "Портрет мужчины в меховой одежде",
+      "date": "около 1553–1555",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_anonymous_man.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q131604575",
+      "title": "Венера, Вулкан и Амур",
+      "date": "около 1550–1555",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_Venere_e_Vulcano_vezzeggiano_Cupido,_1188187,_Galleria_Palatina.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q131613891",
+      "title": "Мужской портрет, № 1387",
+      "date": "XVI век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_ritratto_d%27uomo,_1187684.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3937458",
+      "title": "Портрет Альвизе Корнаро",
+      "date": "около 1560–1565",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Tintoretto_-_ritratto_di_Alvise_Cornaro,_1188258,_Galleria_Palatina.jpg"
     }
   ],
   "pendingWorksCount": 0

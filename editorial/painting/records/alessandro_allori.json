@@ -20,14 +20,96 @@
     ],
     "innovation": "Учебный ракурс — соединение пластики тела, изящества отделки и аллегорической программы.",
     "caution": "Произведение входит в серию для Франческо I Медичи по разработкам Винченцо Боргини. Алессандро — не Кристофано Аллори из батча 98; алиас «Аллори» без имени не используем. Выбрана работа на меди, не приписываемая мастеру «Венера и Амур». Инвентарный номер не установлен; ключ редакционный.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Уффици: Геркулес, увенчанный музами",
       "url": "https://www.uffizi.it/en/artworks/allori-hercules-muses"
+    },
+    {
+      "title": "Репродукция: Женский портрет; возможно, Изабелла Медичи Орсини",
+      "url": "https://commons.wikimedia.org/wiki/File:Isabella_de%27_Medici_Uffizi_02.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Ортензии де Барди ди Монтауто",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Лоренцо ди Джованни Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_de%27_Medici_il_Vecchio.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Пётр идёт по воде",
+      "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_St_Peter_Walking_on_the_Water_-_WGA00184.jpg"
+    },
+    {
+      "title": "Репродукция: Проповедь Иоанна Крестителя",
+      "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_The_Preaching_of_St_John_the_Baptist_-_WGA0183.jpg"
+    },
+    {
+      "title": "Репродукция: Аллегория человеческой жизни — оборот портрета Бьянки Каппелло",
+      "url": "https://commons.wikimedia.org/wiki/File:Alessandro_allori,_allegoria_della_vita_umana.jpg"
+    },
+    {
+      "title": "Источник: Аллегория человеческой жизни — оборот портрета Бьянки Каппелло",
+      "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157165-0"
+    },
+    {
+      "title": "Репродукция: Портрет Бьянки Каппелло — лицевая сторона",
+      "url": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_Portrait_of_Bianca_Cappello.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch1:Q108478249",
+      "title": "Женский портрет; возможно, Изабелла Медичи Орсини",
+      "date": "1575–1599",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Isabella_de%27_Medici_Uffizi_02.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q111304344",
+      "title": "Портрет Ортензии де Барди ди Монтауто",
+      "date": "1559",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ortensia_de%27_Bardi_di_Montauto_by_Alessandro_Allori_-_Gallerie_degli_Uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q119164762",
+      "title": "Портрет Лоренцо ди Джованни Медичи",
+      "date": "1585",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_de%27_Medici_il_Vecchio.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q124518529",
+      "title": "Святой Пётр идёт по воде",
+      "date": "1590-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_St_Peter_Walking_on_the_Water_-_WGA00184.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q124518541",
+      "title": "Проповедь Иоанна Крестителя",
+      "date": "1601–1603",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_Allori_-_The_Preaching_of_St_John_the_Baptist_-_WGA0183.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q124518582",
+      "title": "Аллегория человеческой жизни — оборот портрета Бьянки Каппелло",
+      "date": "около 1578",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157165-0"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q124736928",
+      "title": "Портрет Бьянки Каппелло — лицевая сторона",
+      "date": "около 1578",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157165-0"
+    }
+  ],
   "pendingWorksCount": 1
 }

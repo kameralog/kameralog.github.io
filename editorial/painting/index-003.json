@@ -1,5 +1,30 @@
 [
   {
+    "id": "giuseppe_pellizza_da_volpedo",
+    "name": "Джузеппе Пеллицца да Вольпедо",
+    "path": "records/giuseppe_pellizza_da_volpedo.json"
+  },
+  {
+    "id": "giuseppe_recco",
+    "name": "Джузеппе Рекко",
+    "path": "records/giuseppe_recco.json"
+  },
+  {
+    "id": "giuseppe_ruoppolo",
+    "name": "Джузеппе Руопполо",
+    "path": "records/giuseppe_ruoppolo.json"
+  },
+  {
+    "id": "giuseppe_salviati",
+    "name": "Джузеппе Сальвиати",
+    "path": "records/giuseppe_salviati.json"
+  },
+  {
+    "id": "julie_hart_beers",
+    "name": "Джули Харт Бирс",
+    "path": "records/julie_hart_beers.json"
+  },
+  {
     "id": "giulia_lama",
     "name": "Джулия Лама",
     "path": "records/giulia_lama.json"
@@ -473,30 +498,5 @@
     "id": "kaiho_yusho",
     "name": "Кайхо Юсё",
     "path": "records/kaiho_yusho.json"
-  },
-  {
-    "id": "camille_pissarro",
-    "name": "Камиль Писсарро",
-    "path": "records/camille_pissarro.json"
-  },
-  {
-    "id": "canaletto",
-    "name": "Каналетто",
-    "path": "records/canaletto.json"
-  },
-  {
-    "id": "kano_motonobu",
-    "name": "Кано Мотонобу",
-    "path": "records/kano_motonobu.json"
-  },
-  {
-    "id": "kano_eitoku",
-    "name": "Кано Эйтоку",
-    "path": "records/kano_eitoku.json"
-  },
-  {
-    "id": "kao_ninga",
-    "name": "Као",
-    "path": "records/kao_ninga.json"
   }
 ]

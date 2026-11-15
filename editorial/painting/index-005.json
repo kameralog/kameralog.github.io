@@ -1,5 +1,30 @@
 [
   {
+    "id": "louise_catherine_breslau",
+    "name": "Луиза Катрин Бреслау",
+    "path": "records/louise_catherine_breslau.json"
+  },
+  {
+    "id": "louise_moillon",
+    "name": "Луиза Муайон",
+    "path": "records/louise_moillon.json"
+  },
+  {
+    "id": "louise_rayner",
+    "name": "Луиза Рейнер",
+    "path": "records/louise_rayner.json"
+  },
+  {
+    "id": "louise_heger",
+    "name": "Луиза Эгер",
+    "path": "records/louise_heger.json"
+  },
+  {
+    "id": "louisa_anne_meredith",
+    "name": "Луиза Энн Мередит",
+    "path": "records/louisa_anne_meredith.json"
+  },
+  {
     "id": "luca_giordano",
     "name": "Лука Джордано",
     "path": "records/luca_giordano.json"
@@ -473,30 +498,5 @@
     "id": "mary_lizzie_macomber",
     "name": "Мэри Лиззи Макомбер",
     "path": "records/mary_lizzie_macomber.json"
-  },
-  {
-    "id": "mary_moser",
-    "name": "Мэри Мозер",
-    "path": "records/mary_moser.json"
-  },
-  {
-    "id": "mary_fairchild_macmonnies_low",
-    "name": "Мэри Фэрчайлд Макмоннис Лоу",
-    "path": "records/mary_fairchild_macmonnies_low.json"
-  },
-  {
-    "id": "mary_hiester_reid",
-    "name": "Мэри Хистер Рид",
-    "path": "records/mary_hiester_reid.json"
-  },
-  {
-    "id": "nainsukh",
-    "name": "Найнсукх",
-    "path": "records/nainsukh.json"
-  },
-  {
-    "id": "nasiruddin",
-    "name": "Насируддин",
-    "path": "records/nasiruddin.json"
   }
 ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": "fra_filippo_lippi",
+    "name": "Фра Филиппо Липпи",
+    "path": "records/fra_filippo_lippi.json"
+  },
+  {
+    "id": "frank_buchser",
+    "name": "Франк Бухзер",
+    "path": "records/frank_buchser.json"
+  },
+  {
+    "id": "frans_van_cuyck_de_myerhop",
+    "name": "Франс ван Кёйк де Мейерхоп",
+    "path": "records/frans_van_cuyck_de_myerhop.json"
+  },
+  {
+    "id": "frans_van_mieris_the_elder",
+    "name": "Франс ван Мирис Старший",
+    "path": "records/frans_van_mieris_the_elder.json"
+  },
+  {
+    "id": "hals",
+    "name": "Франс Халс",
+    "path": "records/hals.json"
+  },
+  {
+    "id": "francisco_goya",
+    "name": "Франсиско Гойя",
+    "path": "records/francisco_goya.json"
+  },
+  {
+    "id": "francois_boucher",
+    "name": "Франсуа Буше",
+    "path": "records/francois_boucher.json"
+  },
+  {
+    "id": "francois_diday",
+    "name": "Франсуа Диде",
+    "path": "records/francois_diday.json"
+  },
+  {
+    "id": "francois_hubert_drouais",
+    "name": "Франсуа-Юбер Друэ",
+    "path": "records/francois_hubert_drouais.json"
+  },
+  {
     "id": "frantisek_zenisek",
     "name": "Франтишек Женишек",
     "path": "records/frantisek_zenisek.json"
@@ -8,6 +53,11 @@
     "id": "frantisek_kupka",
     "name": "Франтишек Купка",
     "path": "records/frantisek_kupka.json"
+  },
+  {
+    "id": "franz_wiegele",
+    "name": "Франц Вигеле",
+    "path": "records/franz_wiegele.json"
   },
   {
     "id": "franz_marc",
@@ -448,55 +498,5 @@
     "id": "hopper",
     "name": "Эдвард Хоппер",
     "path": "records/hopper.json"
-  },
-  {
-    "id": "degas",
-    "name": "Эдгар Дега",
-    "path": "records/degas.json"
-  },
-  {
-    "id": "odon_marffy",
-    "name": "Эдён Марффи",
-    "path": "records/odon_marffy.json"
-  },
-  {
-    "id": "edith_collier",
-    "name": "Эдит Коллиер",
-    "path": "records/edith_collier.json"
-  },
-  {
-    "id": "edith_hayllar",
-    "name": "Эдит Хейллар",
-    "path": "records/edith_hayllar.json"
-  },
-  {
-    "id": "edouard_vallet",
-    "name": "Эдуар Валле",
-    "path": "records/edouard_vallet.json"
-  },
-  {
-    "id": "manet",
-    "name": "Эдуар Мане",
-    "path": "records/manet.json"
-  },
-  {
-    "id": "eugene_burnand",
-    "name": "Эжен Бюрнан",
-    "path": "records/eugene_burnand.json"
-  },
-  {
-    "id": "eugene_delacroix",
-    "name": "Эжен Делакруа",
-    "path": "records/eugene_delacroix.json"
-  },
-  {
-    "id": "eugene_jansson",
-    "name": "Эжен Янссон",
-    "path": "records/eugene_jansson.json"
-  },
-  {
-    "id": "eilif_peterssen",
-    "name": "Эйлиф Петерссен",
-    "path": "records/eilif_peterssen.json"
   }
 ]

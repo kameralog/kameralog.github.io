@@ -20,7 +20,7 @@
     ],
     "innovation": "Произведение соединяет две художественные традиции и реальное сотрудничество мастеров. Множество реакций на чудо вовлекает зрителя в переживание, а вертикальная организация связывает передний план с толпой в глубине. Соперничество с Рафаэлем включало взаимное заимствование решений, не только противостояние.",
     "caution": "Авторство формулируется как Себастьяно с использованием рисунков Микеланджело, не как целиком написанная Микеланджело картина. Подготовительные рисунки к Лазарю сохранились; это не доказывает одинакового участия во всех фигурах. Исходная основа — дерево: подпись старого файла «холст» не заменяет текущий музейный паспорт «композитная основа». Произведение Себастьяно отправили в Нарбонну, оригинал Рафаэля остался в Риме. PD-Art файла проверен; визуальное соответствие и браузерная загрузка — нет.",
-    "editorialStatus": "museum_sources_pd_art_file_checked_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,18 @@
     {
       "title": "Страница файла NG1 и PD-Art",
       "url": "https://en.wikipedia.org/wiki/File:Sebastiano_del_Piombo,_The_Raising_of_Lazarus.jpg"
+    },
+    {
+      "title": "Репродукция: Смерть Адониса",
+      "url": "https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo_-_Morte_di_Adone_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Женский портрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo_-_Portrait_of_a_Woman_-_WGA21119.jpg"
+    },
+    {
+      "title": "Репродукция: Мучения святой Агаты",
+      "url": "https://commons.wikimedia.org/wiki/File:Martirio_de_Santa_%C3%81gueda,_por_Sebastiano_del_Piombo.jpg"
     }
   ],
   "works": [
@@ -47,6 +59,27 @@
       "date": "1517–1519",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/sebastiano-del-piombo-incorporating-designs-by-michelangelo-the-raising-of-lazarus"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3863235",
+      "title": "Смерть Адониса",
+      "date": "1512",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo_-_Morte_di_Adone_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3937680",
+      "title": "Женский портрет",
+      "date": "1512",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sebastiano_del_Piombo_-_Portrait_of_a_Woman_-_WGA21119.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q47530532",
+      "title": "Мучения святой Агаты",
+      "date": "1520",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Martirio_de_Santa_%C3%81gueda,_por_Sebastiano_del_Piombo.jpg"
     }
   ],
   "pendingWorksCount": 0

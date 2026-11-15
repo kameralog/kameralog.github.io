@@ -20,14 +20,30 @@
     ],
     "innovation": "Учебный ракурс — как граница между изображением и переживаемым видением становится темой картины.",
     "caution": "Церковь Сан-Марко и соседний музей не взаимозаменяемы. Рассказ о разговоре со Христом — религиозное предание. Техника, размеры и заказ требуют каталожной проверки. Ключ редакционный, не инвентарный номер.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Церковь Сан-Марко, Флоренция: Видение святого Фомы Аквинского",
       "url": "https://www.worldhistory.org/image/13752/vision-of-st-thomas-aquinas/"
+    },
+    {
+      "title": "Репродукция: Портрет Джулиано ди Пьеро Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Ritratto_di_Giuliano_de%27_Medici.jpg"
+    },
+    {
+      "title": "Источник: Портрет Джулиано ди Пьеро Медичи",
+      "url": "http://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157114"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch1:Q120379091",
+      "title": "Портрет Джулиано ди Пьеро Медичи",
+      "date": "1585",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "http://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/0900157114"
+    }
+  ],
   "pendingWorksCount": 1
 }

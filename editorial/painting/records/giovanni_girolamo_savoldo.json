@@ -18,12 +18,16 @@
     ],
     "innovation": "Музей связывает мрачную поэтичность Савольдо с соединением ломбардского реализма и венецианских фактурных и атмосферных эффектов.",
     "caution": "1506–1548 — годы активности, не даты рождения и смерти. Пётр Мученик — доминиканец XIII века, не апостол Пётр.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Art Institute of Chicago: The Death of St. Peter Martyr",
       "url": "https://www.artic.edu/artworks/158137"
+    },
+    {
+      "title": "Репродукция: Преображение",
+      "url": "https://commons.wikimedia.org/wiki/File:Savoldo,_trasfigurazione_2.jpg"
     }
   ],
   "works": [
@@ -33,6 +37,13 @@
       "date": "1530–35",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/158137"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3997721",
+      "title": "Преображение",
+      "date": "около 1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Savoldo,_trasfigurazione_2.jpg"
     }
   ],
   "pendingWorksCount": 0

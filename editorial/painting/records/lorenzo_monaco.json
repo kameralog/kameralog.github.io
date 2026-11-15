@@ -20,7 +20,7 @@
     ],
     "innovation": "Работа показывает живопись, которая служила обряду, а не стене: процессионный крест существовал в движении, в монастырской литургии. Музей подчёркивает, что нежные цвета и упрощённые формы сохранились исключительно хорошо.",
     "caution": "Это составной литургический предмет, а не обычная самостоятельная картина. Годы жизни даны приблизительно: 1370/75–1425.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,6 +30,22 @@
     {
       "title": "Art Institute of Chicago: Processional Cross",
       "url": "https://www.artic.edu/artworks/16231"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов; поздние дополнения Козимо Росселли",
+      "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Monaco_Adoratione_dei_Magi.jpg"
+    },
+    {
+      "title": "Источник: Поклонение волхвов; поздние дополнения Козимо Росселли",
+      "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/0900187156-0"
+    },
+    {
+      "title": "Репродукция: Коронование Богоматери",
+      "url": "https://commons.wikimedia.org/wiki/File:Monaco_coronation.jpg"
+    },
+    {
+      "title": "Источник: Коронование Богоматери",
+      "url": "https://www.uffizi.it/en/artworks/coronation-of-the-virgin"
     }
   ],
   "works": [
@@ -39,6 +55,20 @@
       "date": "1392–95",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/16231"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3605536",
+      "title": "Поклонение волхвов; поздние дополнения Козимо Росселли",
+      "date": "около 1420–1422; дополнения 1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/0900187156-0"
+    },
+    {
+      "key": "wiki-uffizi-batch1:Q3797775",
+      "title": "Коронование Богоматери",
+      "date": "1414",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/artworks/coronation-of-the-virgin"
     }
   ],
   "pendingWorksCount": 0
