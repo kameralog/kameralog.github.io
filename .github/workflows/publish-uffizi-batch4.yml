@@ -1,0 +1,142 @@
+name: Publish reviewed fourth wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch4.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply reviewed batch of fifty records
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch4-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');
+          assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch4-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const raw=`151|Муж скорбей|1510-е годы|Sodoma, cristo dolente, uffizi.jpg|444|593
+          152|Портрет неизвестного мужчины и его жены|датировка уточняется|Bernaert van Orley - Ritratto di ignoto e di sua moglie 01.jpg|300|418
+          153|Аллегория плодородия и изобилия|около 1500|Signorelli, Allegoria della Fecondità e dell'Abbondanza.jpg|867|474
+          154|Распятие со святой Марией Магдалиной|1502|Signorelli-crucifixion.jpg|623|930
+          155|Троица, Богоматерь и два святых|1510|Signorelli, Trinity, the Virgin and Two Saints.jpg|1761|2549
+          156|Мадонна с Младенцем|первая четверть XVI века|Luca Signorelli 006.jpg|1500|2044
+          157|Святое семейство — версия из Палаццо Питти|1490|Signorelli, Holy Family with Saint, pitti.jpg|548|762
+          158|Святое семейство ди Парте Гвельфа|1487–1488|Signorelli, sacra famiglia di parte guelfa, uffizi, diam. 124 cm.jpg|996|1008
+          159|Поклонение волхвов|датировка уточняется|Signorelli - Adoration of The Magi - Uffizi.jpg|800|208
+          160|Свадебный герб семей Дюрер и Хольпер — оборот портрета отца|1490|Albrecht Dürer - Marriage Coat of Arms of the Families Duerer and Holper.jpg|3451|4195
+          161|Портрет отца — Альбрехта Дюрера Старшего|1490|Albrecht Dürer - Ritratto del padre - Google Art Project.jpg|2556|3113
+          162|Портреты родителей Дюрера — составное изображение диптиха|около 1490|Portrait Diptych of Dürer's Parents.jpg|4929|3113
+          163|Поклонение волхвов|1504|Albrecht Dürer - Adorazione dei Magi - Google Art Project.jpg|3848|3360
+          164|Святой Филипп|1516|Durer, san filippo.jpg|804|985
+          165|Апостол Иаков Старший|1516|Durer, san giacomo.jpg|801|982
+          166|Мадонна с грушей|1526|Durer, vergine della pera.jpg|801|1098
+          167|Катарина|1521|Albrecht Dürer - The Negress Katherina - WGA07097.jpg|701|989
+          168|Мадонна с Младенцем и восемью святыми — алтарь Кафаджоло|1453–1454|Baldovinetti, Alesso - Pala di Cafagiolo.jpg|2715|2840
+          169|Портрет фра Антонио Мартелли|начало XVII века|Portrait of Fra Antonio Martelli-Caravaggio (1610).jpg|5640|6998
+          170|Вакх|около 1595–1597|Baco, por Caravaggio.jpg|2633|3000
+          171|Жертвоприношение Исаака — версия Уффици|около 1603|Sacrifice of Isaac-Caravaggio (Uffizi).jpg|7972|6142
+          172|Медуза|1597–1598|Caravaggio - Medusa - Google Art Project.jpg|3369|3453
+          173|Спящий Амур|1608|Sleeping Cupid-Caravaggio (1608).jpg|6152|4160
+          174|Зубодёр — приписывается Караваджо|1608–1610|Toothpuller.jpg|1170|763
+          175|Автопортрет|около 1650|Self-portrait by Giovanni Battista Salvi da Sassoferrato.jpg|4836|5981
+          176|Портрет Марии Аделаиды Французской в турецком костюме|1753|Jean Etienne Lìotard - Ritratto di Maria Adelaide di Francia vestita alla turca - Google Art Project.jpg|3083|2677
+          177|Автопортрет в турецком костюме|1744|Jean-Etienne Liotard - Self-portrait in Turkish dress.jpg|1624|2019
+          178|Мадонна с Младенцем|1425–1449|Angelico, madonna col bambino, uffizi, 1425-1449.jpg|1096|2449
+          179|Фиваида — приписывается Фра Анджелико|около 1420|Fra Angelico - Thebaid.jpg|10119|3482
+          180|Портрет молодого англичанина|1540|Portrait of a Young Englishman (by Titian).jpg|3161|3688
+          181|Портрет папы Юлия II — по Рафаэлю|1545–1546|Titian - Portrait of Pope Julius II - WGA22961.jpg|1000|1205
+          182|Христос Спаситель|около 1532–1534|Vecellio Tiziano - Cristo Salvatore - 228 - Galleria Palatina.jpg|1007|1280
+          183|Поклонение пастухов|1532–1533|Titian - Adoration of the Shepherds - 423 - Galleria Palatina.jpg|1024|857
+          184|Портрет епископа Людовико Беккаделли|1552|Tiziano Vecellio (1490, Pieve di Cadore - 1576, Venice) - Portrait of Bishop Ludovico Beccadelli - 1457 - Uffizi Gallery.jpg|1412|1700
+          185|Венера с Амуром|1550|Titian - Venus and Cupid (Galleria degli Uffizi) - WGA22903.jpg|1305|886
+          186|Портрет мужчины из семьи Минербетти|около 1541–1550|Titian - Portrait of a Man - WGA22960.jpg|650|1036
+          187|Кающаяся Мария Магдалина|1533|Magdalena penitente, por Tiziano.jpg|1454|1813
+          188|Флора|1515–1517|Tiziano - Flora - Google Art Project.jpg|3317|4423
+          189|Воскресший Христос|1511–1512|Tiziano Vecellio - Cristo Risorto - 10093 - Uffizi Gallery.jpg|2348|3813
+          190|Концерт|1510–1511|Tiziano Vecellio (Pieve di Cadore 1490 ca - Venezia 1576) - Il Concerto - 185 - Galleria Palatina.jpg|3564|2541
+          191|Красавица — La Bella|около 1536–1538|Tiziano Vecellio (Pieve di Cadore 1488-90 - Venezia 1576) - Ritratto di gentildonna (La Bella) - 18 - Galleria Palatina.jpg|5412|7087
+          192|Мадонна с розами|1530|Vecellio, Tiziano - Madonna delle Rose - 952 - Uffizi Gallery.jpg|3000|2142
+          193|Портрет больного мужчины|1514|Titian - The Sick Man - WGA22934.jpg|800|1046
+          194|Портрет Элеоноры Гонзага|1538|Tizian - Porträt der Eleonora Gonzaga.jpg|1093|1202
+          195|Портрет Франческо Марии делла Ровере|1536–1538|Portrait of Francesco Maria della Rovere, Duke of Urbino (by Titian) – Galleria degli Uffizi, Florence.jpg|3560|4090
+          196|Портрет Джулии Варано|около 1545–1547|Titian - Giulia Varano, Duchess of Urbino - WGA22928.jpg|800|1040
+          197|Портрет Ипполито Медичи в венгерском костюме|1532–1533|Portrait of Cardinal Ippolito de' Medici in a Hungarian Costume (by Titian) - Palazzo Pitti, Florence.jpg|3120|4090
+          198|Портрет Томмазо или Винченцо Мости|1520-е годы|Tommaso Mosti Portrait.jpg|1294|1714
+          199|Портрет мальтийского рыцаря|1510–1515|Titian- Portrait of a Knight of Malta.jpeg|3270|4090
+          200|Портрет папы Сикста IV|около 1545–1546|Tizian Portrait Papst Sixtus IV ca. 1545-46 Uffizien Florenz-01 (cropped).jpg|1700|2037`;
+          const data=raw.split('\n').map(line=>{const[n,title,date,file,w,h]=line.trim().split('|');return {n:+n,title,date,file,width:+w,height:+h};});assert.deepEqual(data.map(r=>r.n),Array.from({length:50},(_,i)=>i+151));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c',queueDirectory='reports/uffizi-packages/43457577858-1',queueFiles=[1,2,3,4,5].map(n=>'new_work_candidates-00'+n+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));
+          const originalRecords=lists.flat().slice(150,200).map((r,i)=>({number:i+151,...r}));assert.equal(originalRecords.length,50);
+          const pageBatch={sodoma:52,luca_signorelli:38,albrecht_durer:16,alesso_baldovinetti:43,caravaggio:17,sassoferrato:96,jean_etienne_liotard:106,fra_angelico:7,titian:16};
+          const expected={7:'f65c7d4a200c62e60fd707894e58e88a22471fba',16:'45a3aa7f1df946c06a009085adfc16d7fec6d9a6',17:'2e3c3d83fd876f537052289a8371828e11fbb722',38:'5423ac15570bb6c6a50778c559b7d6a93c155e93',43:'d0d205ced6f1ca7f36a92e1f1e66351711c0fa07',52:'949d70b0137d913ebc67d7c82328af36eab6fff0',96:'3578f93d51434088a5e55b12a73f4c04aeb756c7',106:'6b428b147dfd61832584d743efe9a96b9e96d714'};
+          const reportPath='reports/wiki-batches/batch-004.json';assert(!fs.existsSync(reportPath));const previous=[1,2,3].map(n=>{const path='reports/wiki-batches/batch-00'+n+'.json';return {path,text:fs.readFileSync(path,'utf8')};});
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          for(const r of data){const candidate=originalRecords[r.n-151],id=candidate.artistId,Q=candidate.work;assert.equal(candidate.number,r.n);assert(/^Q\d+$/.test(Q));const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const entry={number:r.n,workId:Q,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,licenseShortName:'Public domain',originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseTemplatesChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          if(r.n===152){Object.assign(entry,{status:'deferred',reason:'Не уточнено соответствие файла 01 заявленному двойному портрету и полнота представления его частей. Размер 300×418 — предупреждение, а не единственная причина отсрочки.',nextAction:'Сопоставить файл с полным двойным портретом либо однозначно подписанной отдельной створкой; при возможности выбрать более читаемую репродукцию.'});results.push(entry);continue;}
+          if(r.n===200){Object.assign(entry,{status:'deferred',reason:'Файл имеет пометку cropped; полнота композиции не подтверждена. Условия конкретной фотографии сохранены отдельно от статуса старого произведения.',photographer:'Rufus46',licenseTemplate:'licensed-PD-art | PD-old-auto-expired | cc-by-sa 3.0 | deathyear=1576 | attribution=Rufus46',parentFileFromMetadata:'Tizian Portrait Papst Sixtus IV ca. 1545-46 Uffizien Florenz-01.jpg',nextAction:'Сравнить кадрированный файл с исходным; после подтверждения полноты композиции сохранить кредит Rufus46 и соответствующие условия использования фотографии.'});results.push(entry);continue;}
+          const bn=pageBatch[id];assert(bn);const filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch4-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch4:'+Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name),original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const author=r.n===174?'Приписывается Караваджо':r.n===179?'Приписывается Фра Анджелико':artist.name;const credit=author+'; '+(r.n===179?'фотография Gleb Simonov; ':r.n===198?"источник репродукции Nina's Photo; ":'')+'Wikimedia Commons; Public domain';let note='Источник изображения и лицензионные сведения — в карточке файла Commons.';
+          if(r.n>=160&&r.n<=162)note+=' Связанные изображения: №160 — оборот портрета отца; №161 — его лицевая сторона; №162 — цифровое сопоставление двух створок диптиха. Это не три независимых физических объекта.';if(r.n===174)note+=' Атрибуция Караваджо не общепринята; работа не представлена как бесспорный автограф.';if(r.n===179)note+=' Атрибуция Фра Анджелико не общепринята. По музейной карточке произведение из собрания Уффици передано для показа в музей Сан-Марко.';if(r.n===181)note+=' Работа Тициана по портрету Рафаэля, не самостоятельная первоначальная композиция.';if(r.n===198)note+=' Имя модели приводится с оговоркой: Томмазо или Винченцо Мости.';if(Math.min(r.width,r.height)<600)note+=' Размер исходного файла не увеличивался искусственно.';
+          const work={key,title:r.title,date:r.date,author,medium:'',museum:r.n===162?'Составное изображение створок из разных собраний':r.n===179?'Уффици; место показа по музейной карточке — музей Сан-Марко, Флоренция':'Галереи Уффици, Флоренция',source:imageSource,image:sized(960),zoom:sized(1920),imageSource,license:'Public domain (по карточке Commons)',creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n>=160&&r.n<=162){work.objectGroup='durer-parents-diptych';work.viewType=r.n===160?'reverse':r.n===161?'father-portrait':'digital-composite';}if(r.n===174){work.attributionStatus='disputed';work.metadataSources=['https://www.wga.hu/html_m/c/caravagg/12/77tooth.html',imageSource];}if(r.n===179){work.attributionStatus='attributed';work.metadataSources=['https://www.uffizi.it/en/artworks/thebaid','https://www.uffizi.it/en/news/the-glorification-of-the-virgin-by-fra-angelico',imageSource];}if(r.n===181)work.metadataSources=['http://www.wga.hu/html/t/tiziano/10/22/01popeju.html',imageSource];if(r.n===198)work.metadataSources=['https://www.wga.hu/html_m/t/tiziano/10/21/07mosti.html',imageSource];group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,8);assert.equal(results.filter(r=>r.work).length,48);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,9);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:4,batchSize:50,range:[151,200],checkedDate:'2026-11-15',status:'connected_publication_pending',total:50,foundReproductions:50,browserImagesDecoded:50,ruOrEnWikipediaArticlesFound:26,newlyConnected:48,duplicatesCount:0,deferredConfirmed:2,artistPages:9,sourceFiles:8,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(150,200)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['Размер батча сохранён: 50 исходных записей.','№152 и №200 отложены; причины и следующие действия сохранены.','№160–162 — связанные виды и составное изображение диптиха, не три независимых физических объекта.','Оговорки об атрибуциях №174 и №179, работе по Рафаэлю №181 и имени модели №198 сохранены.','Два первых сбоя загрузки №153 и №154 не воспроизвелись при повторной проверке; все 50 изображений загрузились.','Полный визуальный просмотр и отображение каждой отдельной страницы не объявляются проверенными.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of previous)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch4-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{7,16,17,38,43,52,96,106}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-004.json
+          git diff --cached --stat
+          git commit -m 'Connect 48 fourth-batch reproductions and record two deferred entries'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify live catalogue and save verification result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch4=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch4-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch4-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-004.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=48;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-004.json
+              git commit -m 'Record live catalogue verification for wiki batch four'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified: 48 reproductions, nine artist pages. Individual rendered pages and full visual review remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; live publication verification remains pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
