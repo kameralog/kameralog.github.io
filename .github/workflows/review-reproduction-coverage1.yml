@@ -1,0 +1,137 @@
+name: Triage coverage-one candidate metadata
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/review-reproduction-coverage1.yml']
+permissions:
+  contents: write
+concurrency:
+  group: painting-reproduction-search
+  cancel-in-progress: false
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Classify saved evidence without promoting readiness
+        run: |
+          set -euo pipefail
+          python <<'PY'
+          import csv, datetime, hashlib, html, json, pathlib, re, subprocess, unicodedata, urllib.parse
+          root=pathlib.Path.cwd()
+          folder=root/'games/painting/reports/reproduction-queue'
+          source_commit='34a74296d3e52faf2eb2d76eb3466834a745dda1'
+          source=folder/'coverage-001-search-001'
+          out=folder/'coverage-001-review-001'
+          assert not out.exists(),'Review output already exists'
+          blob=lambda b:hashlib.sha1(b'blob '+str(len(b)).encode()+b'\0'+b).hexdigest()
+          protected={}
+          def read_pinned(path):
+              raw=path.read_bytes()
+              ref=source_commit+':'+str(path.relative_to(root))
+              assert blob(raw)==subprocess.check_output(['git','rev-parse',ref],text=True).strip(),'Input changed: '+str(path)
+              protected[path]=raw
+              return json.loads(raw)
+          queue=read_pinned(folder/'coverage-001.json')
+          search=read_pinned(source/'summary.json')
+          assert blob(protected[folder/'coverage-001.json'])=='f47a641348fa8efaf2f66cc05a537b69d9cec966'
+          assert blob(protected[source/'summary.json'])=='cb96f57dc5ab020e24bba5a0cb406067672b6409'
+          assert len(queue['records'])==search['resultRecords']==50
+          (out/'records').mkdir(parents=True)
+          def clean(s):return re.sub(r'\s+',' ',html.unescape(re.sub('<[^>]+>',' ',str(s or '')))).strip()
+          def norm(s):
+              s=unicodedata.normalize('NFKD',clean(s).casefold())
+              s=''.join(c for c in s if not unicodedata.combining(c))
+              return ' '.join(re.findall(r'[^\W_]+',s))
+          def letters(s):return ''.join(re.findall(r'[^\W_]+',norm(s)))
+          def contains_name(name,text):
+              tokens=[t for t in norm(name).split() if len(t)>1]
+              return bool(tokens) and set(tokens).issubset(set(norm(text).split()))
+          def urls(text):
+              result=set()
+              for value in re.findall(r'https?://[^\s<>"\[\]{}|]+',html.unescape(text)):
+                  u=urllib.parse.urlsplit(value.rstrip('.,;'))
+                  result.add((u.hostname or '',re.sub('/+','/',urllib.parse.unquote(u.path)).rstrip('/')))
+              return result
+          rejected_ids={120756497,20629033,146497820}
+          summaries=[]
+          for row in queue['records']:
+              n=row['number']
+              saved=read_pinned(source/'records'/(str(n).zfill(3)+'.json'))
+              assert saved['number']==n and saved['queueKey']==row['queueKey']
+              details=[]
+              expected_inventory=(row.get('originalPending') or {}).get('inventoryNumber','')
+              expected_urls=urls(row.get('source',''))
+              for c in saved.get('candidates',[]):
+                  metadata=c.get('rightsMetadata') or {}
+                  field=lambda key:(metadata.get(key) or {}).get('value','')
+                  wiki=c.get('wikitext','')
+                  categories=field('Categories').split('|')
+                  artist=c.get('artistDisplay','')
+                  descriptive=c.get('fileTitle','')+' '+c.get('description','')+' '+clean(field('ObjectName'))
+                  alltext=descriptive+' '+wiki+' '+json.dumps(metadata,ensure_ascii=False)
+                  artist_field=contains_name(row.get('latin') or row['artistName'],artist)
+                  artist_context=contains_name(row.get('latin') or row['artistName'],descriptive)
+                  inventory=bool(expected_inventory and len(letters(expected_inventory))>=5 and letters(expected_inventory) in letters(alltext))
+                  source_url=bool(expected_urls.intersection(urls(alltext)))
+                  boundary=bool(re.search(r'cropped|\bdetail\b|\bfragment\b',c.get('fileTitle',''),re.I) or any(x.lower().startswith('details of ') or x.lower()=='extracted images' for x in categories))
+                  authorship_caution=bool(re.search(r'attributed|workshop|formerly|after |circle of',artist,re.I))
+                  years=lambda text:sorted(set(re.findall(r'(?<!\d)(?:1[0-9]{3}|20[0-9]{2})(?!\d)',str(text))))
+                  qyears=years(row.get('date',''));cyears=years(c.get('dateDisplay',''))
+                  date_difference=bool(len(qyears)==1 and len(cyears)==1 and qyears!=cyears)
+                  mime=c.get('mime') or ''
+                  if mime in ['application/pdf','image/vnd.djvu','image/x-djvu'] or not mime.startswith('image/'):
+                      disposition='document_or_nonimage_reference_only'
+                  elif c.get('commonsPageId') in rejected_ids:
+                      disposition='rejected_unrelated_subject_assistant_review'
+                  elif boundary:
+                      disposition='boundary_or_view_review_required'
+                  elif artist_field or artist_context or inventory or source_url:
+                      disposition='supporting_metadata_final_review_required'
+                  else:
+                      disposition='identity_not_supported_by_these_fields'
+                  templates=re.findall(r'\{\{\s*(?:Licensed-PD-Art|PD-Art|PD-old[^|}]*|self|cc-by[^|}]*|CC0|GFDL)[^{}]*\}\}',wiki,re.I)
+                  item={'pageId':c.get('commonsPageId'),'fileTitle':c.get('fileTitle'),'filePage':c.get('filePage'),'mime':mime,'disposition':disposition,'artistDisplay':artist,'objectTitle':clean(field('ObjectName'))[:500],'description':c.get('description','')[:700],'dateDisplay':c.get('dateDisplay'),'licenseShortName':c.get('licenseShortName'),'licenseURL':c.get('licenseURL'),'licenceTemplates':templates,'creditDisplay':c.get('creditDisplay'),'deliveryStatus':c.get('deliveryStatus'),'decodedWidth':c.get('decodedWidth'),'decodedHeight':c.get('decodedHeight'),'signals':{'artistNameInArtistField':artist_field,'artistNameInTitleOrDescription':artist_context,'inventoryTextMatch':inventory,'museumSourceURLMatch':source_url,'boundaryOrDetailFlag':boundary,'authorshipCaution':authorship_caution,'dateDifferenceNeedsRoleReview':date_difference},'fullEvidenceFile':str((source/'records'/(str(n).zfill(3)+'.json')).relative_to(root)),'identityVerified':False,'licenceFinallyVerified':False,'readyToBind':False}
+                  if n==3 and c.get('commonsPageId')==29841644:
+                      assert 'NG.M.04419' in wiki and 'PD-Art|PD-old-100-1923|deathyear=1876' in wiki
+                      item['assistantSourceReview']={'museumSource':'https://www.nasjonalmuseet.no/en/collection/object/NG.M.04419','artist':'Adolph Tidemand','title':'Low Church Devotion / Haugianerne','date':'1848','inventory':'NG.M.04419','versionNote':'Авторское повторение первой картины; не путать с дюссельдорфским оригиналом и отдельным повторением 1852 года.','identityMetadataCorroborated':True,'fileLicenceTemplateReviewed':'PD-Art | PD-old-100-1923 | deathyear=1876','candidateForFinalGuardedReview':True,'remainingChecks':['current_registry_and_pending_fingerprint','latest_file_revision_and_rights','display_and_caption_checks'],'fullVisualReview':False}
+                  details.append(item)
+              rank={'supporting_metadata_final_review_required':0,'boundary_or_view_review_required':1,'identity_not_supported_by_these_fields':2,'document_or_nonimage_reference_only':3,'rejected_unrelated_subject_assistant_review':4}
+              details.sort(key=lambda c:(rank[c['disposition']],-int(c['signals']['inventoryTextMatch']),-int(c['signals']['museumSourceURLMatch'])))
+              kept=[c for c in details if c['disposition'] not in ['document_or_nonimage_reference_only','rejected_unrelated_subject_assistant_review']]
+              supported=[c for c in details if c['disposition']=='supporting_metadata_final_review_required']
+              status='metadata_candidates_need_final_review' if supported else 'candidates_need_identity_or_boundary_review' if kept else 'needs_targeted_search'
+              result={'number':n,'queueKey':row['queueKey'],'artistId':row['artistId'],'artistName':row['artistName'],'title':row['title'],'originalSource':row['source'],'expectedInventory':expected_inventory,'status':status,'candidates':details,'readyToBind':False,'browserReviewPerformed':False,'fullVisualReview':False,'reviewScope':'Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом.'}
+              target=out/'records'/(str(n).zfill(3)+'.json')
+              target.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+              best=supported[0] if supported else kept[0] if kept else None
+              summaries.append({'number':n,'artistName':row['artistName'],'title':row['title'],'status':status,'originalCandidateCount':len(details),'standaloneCandidateCount':len(kept),'metadataSupportedCandidateCount':len(supported),'referenceDocumentCount':sum(c['disposition']=='document_or_nonimage_reference_only' for c in details),'explicitlyRejectedCount':sum(c['disposition']=='rejected_unrelated_subject_assistant_review' for c in details),'firstRetainedFilePage':best['filePage'] if best else None,'record':'records/'+target.name,'readyToBind':False})
+          counts={}
+          for r in summaries:counts[r['status']]=counts.get(r['status'],0)+1
+          report={'schemaVersion':1,'series':'coverage','batch':1,'reviewPass':1,'sourceSearchCommit':source_commit,'createdAtUTC':datetime.datetime.now(datetime.timezone.utc).isoformat(),'recordsReviewedAutomatically':50,'assistantSourceReviewedNumbers':[3,4,45],'statusCounts':counts,'recordsWithStandaloneCandidates':sum(r['standaloneCandidateCount']>0 for r in summaries),'recordsWithMetadataSupportedCandidates':sum(r['metadataSupportedCandidateCount']>0 for r in summaries),'referenceDocuments':sum(r['referenceDocumentCount'] for r in summaries),'explicitlyRejectedFiles':sum(r['explicitlyRejectedCount'] for r in summaries),'readyToBindCount':0,'records':summaries,'notes':['Совпадения метаданных — сигналы для проверки, не окончательное тождество произведению.','Книги и документы исключены из пула самостоятельных репродукций, но сохранены как возможные источники.','Пометка cropped в other_versions полного изображения не считается пометкой самого файла.','Различие дат требует определения роли даты: произведение, версия или фотография.','Метаданные и полный wikitext лицензий сохранены в исходном поисковом отчёте; краткий Public domain не заменяет проверку фотографии.','№3: подтверждена музейная версия 1848 года NG.M.04419; это авторское повторение.','Исходные отчёты и очередь не изменены; новых запросов к музеям или Commons этот workflow не делает.']}
+          (out/'summary.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          def safe(value):
+              s=str(value if value is not None else '')
+              return chr(39)+s if s.startswith(('=','+','-','@')) else s
+          with (out/'index.csv').open('w',encoding='utf-8-sig',newline='') as f:
+              writer=csv.writer(f,delimiter=';');writer.writerow(['№','Художник','Работа','Предварительный статус','Исходных кандидатов','Осталось изображений','Сигналы соответствия','Документов','Отклонено вручную','Первый оставшийся файл'])
+              for r in summaries:writer.writerow([safe(v) for v in [r['number'],r['artistName'],r['title'],r['status'],r['originalCandidateCount'],r['standaloneCandidateCount'],r['metadataSupportedCandidateCount'],r['referenceDocumentCount'],r['explicitlyRejectedCount'],r['firstRetainedFilePage']]])
+          for path, raw in protected.items():assert path.read_bytes()==raw,'Input changed'
+          PY
+          git diff --exit-code -- games/painting/index.html games/painting/artists.js 'games/painting/artists-batch-*.js' games/painting/reports/wiki-batches games/painting/reports/reproduction-queue/coverage-001.json games/painting/reports/reproduction-queue/coverage-001.csv games/painting/reports/reproduction-queue/coverage-001-search-001
+      - name: Commit only the new preliminary review
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/reports/reproduction-queue/coverage-001-review-001
+          git commit -m 'Record preliminary metadata triage of all fifty coverage-one records'
+          git pull --rebase origin main
+          git push origin HEAD:main
