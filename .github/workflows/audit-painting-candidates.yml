@@ -1,0 +1,86 @@
+name: Audit painting batch candidates
+on:
+  workflow_dispatch:
+    inputs:
+      manifest:
+        description: Artist batch manifest inside tools/painting-browser
+        default: tools/painting-browser/batch-161-candidates.json
+        required: true
+        type: string
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/audit-painting-candidates.yml'
+  workflow_run:
+    workflows: ['Painting browser verification']
+    types: [completed]
+    branches: [main]
+permissions:
+  contents: write
+concurrency:
+  group: painting-candidate-audit
+  cancel-in-progress: false
+jobs:
+  audit:
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.head_branch == 'main' && github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      INPUT_MANIFEST: ${{ inputs.manifest || 'tools/painting-browser/batch-161-candidates.json' }}
+      SOURCE_RUN_ID: ${{ github.event.workflow_run.id || '' }}
+      SOURCE_HEAD: ${{ github.event.workflow_run.head_sha || '' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Audit current catalogue without approving or modifying cards
+        shell: bash
+        run: |
+          set -euo pipefail
+          script="$(mktemp --suffix=.mjs)"
+          cat > "$script" <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          import vm from 'node:vm';
+          import assert from 'node:assert/strict';
+          import {execFileSync} from 'node:child_process';
+          import {createHash} from 'node:crypto';
+          const norm=s=>String(s||'').normalize('NFKD').replace(/\p{M}/gu,'').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+          const hash=b=>createHash('sha256').update(b).digest('hex');
+          const blob=b=>createHash('sha1').update('blob '+b.length+'\0').update(b).digest('hex');
+          function literal(text,prefix){const at=text.indexOf(prefix);if(at<0)throw Error('Missing '+prefix);let start=at+prefix.length;while(start<text.length&&/\s/.test(text[start]))start++;let depth=0,quoted=false,escape=false;for(let i=start;i<text.length;i++){const c=text[i];if(quoted){if(escape)escape=false;else if(c==='\\')escape=true;else if(c==='"')quoted=false;}else if(c==='"')quoted=true;else if(c==='{'||c==='[')depth++;else if((c==='}'||c===']')&&--depth===0)return JSON.parse(text.slice(start,i+1));}throw Error('Unclosed '+prefix);}
+          function fileName(value){if(typeof value!=='string')return null;try{let name;if(value.startsWith('File:'))name=value;else{const u=new URL(value);if(u.hostname==='commons.wikimedia.org'&&u.pathname.startsWith('/wiki/File:'))name=u.pathname.slice(6);else if(['upload.wikimedia.org','thumb.wikimedia.org'].includes(u.hostname)){const p=u.pathname.split('/').filter(Boolean),i=p.indexOf('commons');if(i>=0)name='File:'+p[i+(p[i+1]==='thumb'?4:3)];}}return name?decodeURIComponent(name).replaceAll('_',' ').normalize('NFC').toLowerCase():null;}catch{return null;}}
+          function audit(items,report,registry,cards,batch){const existing=Object.entries(registry),works=[...cards,...existing.flatMap(([owner,a])=>[...(a.works||[]),...(a.pendingWorks||[])].map(w=>({...w,owner})))],keys=new Set(works.map(w=>w.key).filter(Boolean));return items.map(x=>{const browserIndex=report.rows.findIndex(r=>r.id===x.id),r=report.rows[browserIndex],m=r?.metadata||{},names=new Set(x.candidateNames.map(norm)),files=new Set([fileName(x.file),fileName(m.title),fileName(m.descriptionURL)].filter(Boolean)),key=Number.isInteger(m.pageid)?'painting'+batch+'_commons_'+m.pageid:null;const artistMatches=existing.filter(([id,a])=>norm(id)===norm(x.candidateArtistId)||[a.name,a.latin,...(a.aliases||[])].filter(Boolean).some(n=>names.has(norm(n)))).map(([id,a])=>({id,name:a.name,latin:a.latin}));const sourceMatches=works.filter(w=>(m.pageid!=null&&String(w.commonsPageId)===String(m.pageid))||[w.commonsFileName,w.source,w.imageSource,w.image,w.zoom].some(v=>{const f=fileName(v);return f&&files.has(f);})).map(w=>({owner:w.owner||null,key:w.key||null,title:w.title||null}));return {id:x.id,candidateArtistId:x.candidateArtistId,candidateNames:x.candidateNames,inputFile:x.file,canonicalFile:m.title||null,pageid:m.pageid||null,browserIndex,browserStatus:r?.status||'not_selected',proposedWorkKey:key,keyCollision:key?keys.has(key):null,existingArtistMatches:artistMatches,existingSourceMatches:sourceMatches,otherCandidateMatches:items.filter(y=>y.id!==x.id&&(norm(y.candidateArtistId)===norm(x.candidateArtistId)||y.candidateNames.some(n=>names.has(norm(n)))||fileName(y.file)===fileName(x.file)||(m.pageid!=null&&m.pageid===report.rows.find(z=>z.id===y.id)?.metadata?.pageid))).map(y=>y.id),identityReviewed:false,rightsReviewed:false,imageVisuallyReviewed:false,readyToCommit:false};});}
+          if(process.argv.includes('--self-test')){assert.equal(norm('Åström'),norm('Astrom'));assert.equal(literal('const CARDS=[{"key":"x","text":"}"}];','const CARDS=')[0].key,'x');const source='https://commons.wikimedia.org/wiki/File:Test_file.jpg',image='https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Test_file.jpg/1280px-Test_file.jpg';assert.equal(fileName(source),fileName(image));const items=[{id:'sample',candidateArtistId:'sample_artist',candidateNames:['Sample Artist'],file:'File:Test file.jpg'}],r=audit(items,{rows:[{id:'sample',status:'passed',metadata:{pageid:123,descriptionURL:source}}]},{old:{latin:'Sample Artist',works:[{key:'painting161_commons_123',image}]}},[],161)[0];assert.equal(r.existingArtistMatches.length,1);assert.equal(r.existingSourceMatches.length,1);assert.equal(r.keyCollision,true);assert.equal(r.readyToCommit,false);const two=[...items,{id:'second',candidateArtistId:'other_artist',candidateNames:['Other Artist'],file:'File:Other.jpg'}];const duplicate=audit(two,{rows:[{id:'sample',metadata:{pageid:123}},{id:'second',metadata:{pageid:123}}]},{},[],161);assert.equal(duplicate[0].otherCandidateMatches.length,1);console.log(JSON.stringify({selfTest:'passed'}));process.exit(0);}
+          const archives='reports/painting-browser/runs',requestedRun=process.env.SOURCE_RUN_ID||'',requestedHead=process.env.SOURCE_HEAD||'';
+          const summaries=fs.existsSync(archives)?fs.readdirSync(archives).filter(n=>/^\d+-\d+$/.test(n)).map(n=>({folder:archives+'/'+n,data:JSON.parse(fs.readFileSync(archives+'/'+n+'/summary.json','utf8'))})):[];
+          const allowed=/^tools\/painting-browser\/batch-([1-9][0-9]*)-candidates\.json$/;
+          let manifest=process.env.INPUT_MANIFEST||'tools/painting-browser/batch-161-candidates.json';
+          if(requestedRun){assert(/^\d+$/.test(requestedRun));const matching=summaries.filter(s=>s.data.browserRunId===requestedRun);assert(matching.length,'Run archive not available');const eligible=matching.filter(s=>allowed.test(s.data.manifest||''));if(!eligible.length){console.log('Skipped: browser run is not an artist batch manifest');process.exit(0);}manifest=eligible[0].data.manifest;}
+          const matched=manifest.match(allowed);assert(matched,'Invalid candidate manifest path');const batch=matched[1],real=fs.realpathSync(manifest),base=fs.realpathSync('tools/painting-browser')+path.sep;assert(real.startsWith(base),'Manifest outside allowed directory');const rawManifest=fs.readFileSync(real);assert(rawManifest.length<=200000);const input=JSON.parse(rawManifest);assert.equal(input.schemaVersion,1);assert(Array.isArray(input.items)&&input.items.length>=1&&input.items.length<=50);assert.equal(new Set(input.items.map(x=>x.id)).size,input.items.length);for(const x of input.items){assert(typeof x.id==='string'&&/^[a-z0-9][a-z0-9_-]{0,79}$/i.test(x.id));assert(typeof x.candidateArtistId==='string'&&/^[a-z0-9_]+$/.test(x.candidateArtistId));assert(Array.isArray(x.candidateNames)&&x.candidateNames.length&&x.candidateNames.every(n=>typeof n==='string'&&n.length>0&&n.length<=300));assert(typeof x.file==='string'&&x.file.startsWith('File:')&&x.file.length<=300&&!/[|\u0000-\u001f]/.test(x.file));}
+          const matches=summaries.filter(s=>s.data.manifest===manifest&&s.data.manifestSha256===hash(rawManifest)&&(!requestedRun||s.data.browserRunId===requestedRun)).sort((a,b)=>Number(BigInt(b.data.browserRunId)-BigInt(a.data.browserRunId))||Number(b.folder.split('-').at(-1))-Number(a.folder.split('-').at(-1)));assert(matches.length,'No archive matches current manifest hash');const chosen=matches[0],proof=chosen.data;assert(/^[0-9a-f]{40}$/.test(proof.sourceReportCommit));const rawReport=execFileSync('git',['show',proof.sourceReportCommit+':reports/painting-browser/latest.json'],{maxBuffer:20000000});assert.equal(blob(rawReport),proof.sourceReportBlob);const report=JSON.parse(rawReport);assert.equal(report.runId,proof.browserRunId);assert.equal(report.manifest,manifest);assert.equal(report.manifestSha256,hash(rawManifest));assert.equal(report.sourceCommit,proof.sourceCommit);if(requestedHead)assert.equal(report.sourceCommit,requestedHead);
+          const snapshot=execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim(),dir='games/painting',html=fs.readFileSync(dir+'/index.html','utf8'),cards=literal(html,'const CARDS='),registry=literal(html,'const ARTISTS=');assert(Array.isArray(cards));const modules=fs.readdirSync(dir).filter(f=>/^artists-batch-\d+\.js$/.test(f)).sort((a,b)=>+a.match(/\d+/)[0]-+b.match(/\d+/)[0]);for(const f of modules){const sandbox={CARDS:cards,console,document:{getElementById:()=>null},MutationObserver:class{observe(){}}};sandbox.window=sandbox;sandbox.registerPaintingArtists=b=>Object.assign(registry,b);vm.runInNewContext(fs.readFileSync(dir+'/'+f,'utf8'),sandbox,{filename:f,timeout:5000});}
+          const rows=audit(input.items,report,registry,cards,batch),folder='reports/painting-candidate-audits/batch-'+batch,provenance={auditSnapshot:snapshot,auditWorkflowCommit:process.env.GITHUB_SHA||null,auditWorkflowRunId:process.env.GITHUB_RUN_ID||null,manifest,manifestSha256:hash(rawManifest),manifestBlob:blob(rawManifest),browserRunId:report.runId,browserArchive:chosen.folder,sourceReportCommit:proof.sourceReportCommit,sourceReportBlob:proof.sourceReportBlob};const counts={candidates:rows.length,artistMatches:rows.filter(r=>r.existingArtistMatches.length).length,keyCollisions:rows.filter(r=>r.keyCollision).length,sourceMatches:rows.filter(r=>r.existingSourceMatches.length).length,withinCandidateMatches:rows.filter(r=>r.otherCandidateMatches.length).length,missingWorkKeys:rows.filter(r=>r.proposedWorkKey===null).length};const conflict=counts.artistMatches+counts.keyCollisions+counts.sourceMatches+counts.withinCandidateMatches;const summary={schemaVersion:1,status:conflict?'conflicts_found':'no_matches_for_checked_candidates',...provenance,catalogue:{modules:modules.length,registryEntries:Object.keys(registry).length,cards:cards.length},counts,browserCounts:report.counts,browserStatus:report.status,browserSelectionComplete:report.selectionComplete,identityReviewed:false,rightsReviewed:false,imageVisuallyReviewed:false,readyToCommit:false,limitations:['Exact normalized supplied names/aliases and IDs, existing keys, selected Commons page IDs and filenames are checked.','Alternative reproductions of the same artwork and unlisted aliases still require editorial review.'],rows:rows.map((r,i)=>({id:r.id,path:folder+'/candidate-'+String(i).padStart(3,'0')+'.json',artistMatches:r.existingArtistMatches.length,keyCollision:r.keyCollision,sourceMatches:r.existingSourceMatches.length,otherCandidateMatches:r.otherCandidateMatches}))};const inventory={auditSnapshot:snapshot,sources:['index.html',...modules].map(f=>{const b=fs.readFileSync(dir+'/'+f);return {file:dir+'/'+f,blob:blob(b),bytes:b.length};})};const outputs=[['summary.json',summary],['catalogue-sources.json',inventory],...rows.map((r,i)=>['candidate-'+String(i).padStart(3,'0')+'.json',{...provenance,browserEvidencePath:r.browserIndex>=0?chosen.folder+'/row-'+String(r.browserIndex).padStart(3,'0')+'.json':null,...r}])].map(([file,data])=>{const content=JSON.stringify(data,null,2)+'\n';assert(Buffer.byteLength(content)<=28000,'Output exceeds readable size: '+file);return {file,content};});fs.mkdirSync(folder,{recursive:true});for(const x of outputs)fs.writeFileSync(folder+'/'+x.file,x.content);console.log(JSON.stringify({status:summary.status,...counts,auditSnapshot:snapshot,readyToCommit:false}));
+          NODE
+          node --check "$script"
+          node "$script" --self-test
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          saved=false
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            node "$script"
+            git diff --exit-code -- games/painting editorial/painting tools .github
+            if [ -d reports/painting-candidate-audits ]; then git add reports/painting-candidate-audits; fi
+            if git diff --cached --quiet; then saved=true; break; fi
+            git commit -m 'Record painting candidate catalogue audit'
+            if git push origin HEAD:main; then saved=true; break; fi
+            sleep "$((attempt * 2))"
+          done
+          test "$saved" = true
+          echo 'Candidate audit saved when applicable. Identity, rights, visual review and publication remain unapproved.' >> "$GITHUB_STEP_SUMMARY"
