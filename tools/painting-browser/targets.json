@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "label": "Batch 159: candidate files, not approved artwork bindings",
+  "items": [
+    {
+      "id": "mina_carlson_bredberg_self_portrait",
+      "file": "File:Self portrait - Mina Carlson-Bredberg.png"
+    },
+    {
+      "id": "hellqvist_visby",
+      "file": "File:Carl Gustaf Hellqvist - Valdemar Atterdag Holding Visby to Ransom, 1361 - Google Art Project.jpg"
+    },
+    {
+      "id": "kronberg_romeo_juliet",
+      "file": "File:Julius Kronberg - Romeo och Julia på balkongen.jpg"
+    },
+    {
+      "id": "birger_montmartre",
+      "file": "File:A Street in Paris. Study from Montmartre (Hugo Birger) - Nationalmuseum - 18854.tif"
+    },
+    {
+      "id": "backmansson_astrom",
+      "file": "File:Karl Bruno Åström (H Backmansson) - Nationalmuseum - 39049.tif"
+    },
+    {
+      "id": "rosenberg_winter_sunset",
+      "file": "File:Edward Rosenberg-Solnedgång i vinterlandskap.jpg"
+    },
+    {
+      "id": "westman_skagen",
+      "file": "File:Edvard Westman - Autumn in Skagen Plantation - Google Art Project.jpg"
+    },
+    {
+      "id": "cederstrom_charles_xii",
+      "file": "File:Gustaf Cederström - Bringing Home the Body of King Karl XII of Sweden - Google Art Project.jpg"
+    },
+    {
+      "id": "wallander_signhild",
+      "file": "File:Signhild.jpg"
+    },
+    {
+      "id": "troili_self_portrait",
+      "file": "File:Uno Troili - Self-portrait - NM 7545 - Nationalmuseum.jpg"
+    }
+  ]
+}

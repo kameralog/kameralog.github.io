@@ -1,0 +1,98 @@
+name: Painting browser verification
+on:
+  workflow_dispatch:
+    inputs:
+      manifest:
+        description: Repository JSON inside tools/painting-browser
+        default: tools/painting-browser/targets.json
+        required: true
+        type: string
+      limit:
+        description: Maximum selected works (1..50)
+        default: '10'
+        required: true
+        type: string
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/painting-browser.yml'
+      - 'tools/painting-browser/**'
+permissions:
+  contents: read
+concurrency:
+  group: painting-browser-verification
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      INPUT_MANIFEST: ${{ inputs.manifest || 'tools/painting-browser/targets.json' }}
+      INPUT_LIMIT: ${{ inputs.limit || '10' }}
+      REPORT_DIR: ${{ runner.temp }}/painting-browser-output
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Validate verifier and prepare pending report
+        run: |
+          node --check tools/painting-browser/verify.mjs
+          node tools/painting-browser/verify.mjs --self-test
+          node tools/painting-browser/verify.mjs --prepare
+      - name: Install pinned Playwright
+        working-directory: tools/painting-browser
+        run: npm install --no-save --ignore-scripts --omit=optional --no-audit --no-fund --package-lock=false
+      - name: Install Chromium and system dependencies
+        working-directory: tools/painting-browser
+        run: npx --no-install playwright install --with-deps chromium
+      - name: Check selected images in Chromium
+        run: node tools/painting-browser/verify.mjs
+      - name: Confirm application files are unchanged
+        if: always()
+        run: git diff --exit-code -- games/painting editorial/painting
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: painting-browser-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/painting-browser-output/
+          retention-days: 7
+          if-no-files-found: warn
+  save-report:
+    needs: verify
+    if: ${{ always() && needs.verify.result != 'cancelled' && github.repository == 'kameralog/kameralog.github.io' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: painting-browser-${{ github.run_id }}-${{ github.run_attempt }}
+          path: browser-output
+      - name: Save only the JSON report to main
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const raw=fs.readFileSync('browser-output/report.json');
+          if(raw.length>5000000)throw Error('Report too large');
+          const data=JSON.parse(raw);
+          if(data.sourceCommit!==process.env.GITHUB_SHA||data.runId!==process.env.GITHUB_RUN_ID)throw Error('Wrong report snapshot');
+          const endpoint='https://api.github.com/repos/kameralog/kameralog.github.io/contents/reports/painting-browser/latest.json';
+          const headers={Authorization:'Bearer '+process.env.GH_TOKEN,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'};
+          let saved=false;
+          for(let attempt=0;attempt<3;attempt++){
+            const current=await fetch(endpoint+'?ref=main',{headers});
+            if(!current.ok&&current.status!==404)throw Error('Read report: '+current.status);
+            const sha=current.ok?(await current.json()).sha:undefined;
+            const response=await fetch(endpoint,{method:'PUT',headers,body:JSON.stringify({branch:'main',message:'Record painting browser verification (run '+process.env.GITHUB_RUN_ID+')',content:raw.toString('base64'),...(sha?{sha}:{})})});
+            if(response.ok){saved=true;break;}
+            if(![409,422].includes(response.status))throw Error('Save report: '+response.status+' '+await response.text());
+            await new Promise(r=>setTimeout(r,1000));
+          }
+          if(!saved)throw Error('Report save retries exhausted');
+          NODE
