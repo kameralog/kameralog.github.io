@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "status": "no_matches_for_checked_candidates",
+  "auditSnapshot": "af98b0c6f9dd8411a9f17a3c52a8a10090e29df9",
+  "auditWorkflowCommit": "af98b0c6f9dd8411a9f17a3c52a8a10090e29df9",
+  "auditWorkflowRunId": "43949110150",
+  "manifest": "tools/painting-browser/batch-161-candidates.json",
+  "manifestSha256": "9748575e601c11802f686e7347cddf0ebfe24a55abed2db88617736beb060d37",
+  "manifestBlob": "14db3bc4299613aaeac6e2acb2c828a1f3399823",
+  "browserRunId": "43947411903",
+  "browserArchive": "reports/painting-browser/runs/43947411903-1",
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "catalogue": {
+    "modules": 159,
+    "registryEntries": 1126,
+    "cards": 777
+  },
+  "counts": {
+    "candidates": 20,
+    "artistMatches": 0,
+    "keyCollisions": 0,
+    "sourceMatches": 0,
+    "withinCandidateMatches": 0,
+    "missingWorkKeys": 0
+  },
+  "browserCounts": {
+    "selected": 20,
+    "completed": 20,
+    "passed": 20,
+    "failed": 0
+  },
+  "browserStatus": "passed_selected_targets",
+  "browserSelectionComplete": true,
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false,
+  "limitations": [
+    "Exact normalized supplied names/aliases and IDs, existing keys, selected Commons page IDs and filenames are checked.",
+    "Alternative reproductions of the same artwork and unlisted aliases still require editorial review."
+  ],
+  "rows": [
+    {
+      "id": "johan_sevenbom_shipwreck",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-000.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "carl_johan_fahlcrantz_uppsala",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-001.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "marcus_larson_burning_steamer",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-002.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "carl_stefan_bennet_home",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-003.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "per_wickenberg_winter_fishing",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-004.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "gustaf_wilhelm_palm_borghese",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-005.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "carl_wahlbom_lutzen",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-006.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "johan_fredrik_hockert_poster",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-007.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "per_sodermark_eichhorn",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-008.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "olof_johan_sodermark_bygler",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-009.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "johan_gustaf_sandberg_mora",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-010.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "fredric_westin_cupid",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-011.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "carl_gustaf_plagemann_fruit_seller",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-012.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "nils_blommer_meadow_fairies",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-013.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "bengt_nordenberg_communion",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-014.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "carl_fredrik_kiorboe_fox_hunt",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-015.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "gustaf_soderberg_campidoglio",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-016.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "gustaf_brusewitz_hilda",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-017.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "axel_nordgren_moonlight",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-018.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    },
+    {
+      "id": "carl_tragardh_grez",
+      "path": "reports/painting-candidate-audits/batch-161/candidate-019.json",
+      "artistMatches": 0,
+      "keyCollision": false,
+      "sourceMatches": 0,
+      "otherCandidateMatches": []
+    }
+  ]
+}
