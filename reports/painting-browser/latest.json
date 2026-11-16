@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
   "status": "passed_selected_targets",
-  "sourceCommit": "474a927e2496af082d0954a78ebf3889ae3bb243",
-  "runId": "43935234060",
-  "startedAt": "2026-11-16T19:03:41.185Z",
+  "sourceCommit": "eb1c065a5a40e5056a2bd7d26a9a6020513f3e92",
+  "runId": "43936733223",
+  "startedAt": "2026-11-16T19:12:00.641Z",
   "browserSmokePassed": true,
   "identityReviewed": false,
   "rightsReviewed": false,
   "imageVisuallyReviewed": false,
   "rows": [
     {
-      "id": "coverage001_003_adolph_tidemand",
+      "id": "oscar_torna_grez",
       "input": {
-        "id": "coverage001_003_adolph_tidemand",
-        "file": "File:Adolph Tidemand - Low Church Devotion - Google Art Project.jpg"
+        "id": "oscar_torna_grez",
+        "file": "File:Landscape near Grez-sur-Loing (Oscar Törnå) - Nationalmuseum - 19129.tif"
       },
       "status": "passed",
       "checks": [
         {
           "role": "image",
           "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg/1280px-Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg/1280px-Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-1280px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-1280px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
           "width": 1280,
-          "height": 1015,
+          "height": 787,
           "attempt": 1,
           "screenshot": "000-image.png"
         },
         {
           "role": "zoom",
           "ok": true,
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-3840px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-3840px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
-          "width": 3543,
-          "height": 2810,
+          "width": 3840,
+          "height": 2360,
           "attempt": 1
         }
       ],
@@ -45,21 +45,21 @@
       "rightsReviewed": false,
       "imageVisuallyReviewed": false,
       "metadata": {
-        "pageid": 29841644,
-        "title": "File:Adolph Tidemand - Low Church Devotion - Google Art Project.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "mime": "image/jpeg",
-        "width": 3543,
-        "height": 2810,
+        "pageid": 52133172,
+        "title": "File:Landscape near Grez-sur-Loing (Oscar Törnå) - Nationalmuseum - 19129.tif",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Landscape_near_Grez-sur-Loing_(Oscar_T%C3%B6rn%C3%A5)_-_Nationalmuseum_-_19129.tif",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/tiff",
+        "width": 4008,
+        "height": 2463,
         "extmetadata": {
           "DateTime": {
-            "value": "2013-11-25 09:08:05",
+            "value": "2016-10-08 09:14:35",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Low Church Devotion",
+            "value": "Landscape near Grez-sur-Loing",
             "source": "commons-desc-page"
           },
           "CommonsMetadataExtension": {
@@ -68,7 +68,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Low Church Devotion – Haugianerne – (1848-version)|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|Images with extracted images|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Google Art Project works in The National Museum of Art, Architecture and Design, Norway|Google Art Project works by Adolph Tidemand",
+            "value": "PD-Art (PD-old-auto)|Artworks with Wikidata item|Artworks with known accession number|PD-old-100|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Images from the Nationalmuseum Stockholm|1876 oil on canvas paintings in Sweden|Media contributed by Nationalmuseum Stockholm: 2016-10|1876 landscape paintings from Sweden|Grez-sur-Loing in art|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work|1870s paintings in the Nationalmuseum Stockholm|19th-century landscape paintings in the Nationalmuseum Stockholm|Paintings by Oscar Törnå in the Nationalmuseum Stockholm",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -78,16 +78,25 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Adolph_Tidemand\" class=\"extiw\" title=\"w:en:Adolph Tidemand\"><span title=\"Norwegian painter (1814-1876)\">Adolph Tidemand</span></a></bdi>",
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Oscar_T%C3%B6rn%C3%A5\" class=\"extiw\" title=\"w:en:Oscar Törnå\"><span title=\"Swedish painter (1842-1894)\">Oskar Emil Törnå</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "ImageDescription": {
+            "value": "Oscar Törnå went to France in the 1870s and was immediately enthralled by the new plein-air painting. He was one of the first Swedes who joined the artist colony in Grez-sur-Loing. In 1876-1877, he made numerous paintings of the countryside around Grez. This is one of them, signed September 1876. Törnå was also instrumental in spreading the new plein-air painting in Sweden. The link to Sweden is demonstrated in this work – after returning to Sweden, he painted a landscape from Skedevi in the province of Östergötland on the back of the canvas.",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "1848<div style=\"display: none;\">date QS:P571,+1848-00-00T00:00:00Z/9</div>",
+            "value": "1876<div style=\"display: none;\">date QS:P571,+1876-00-00T00:00:00Z/9</div>",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/UQHCast-bcBx5w\">UQHCast-bcBx5w at Google Cultural Institute</a>, zoom level maximum",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=19129&amp;viewType=detailView\">  Hans Thorwid / Nationalmuseum</a>",
             "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<p>The author died in 1894, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+            "source": "commons-desc-page",
+            "hidden": ""
           },
           "LicenseShortName": {
             "value": "Public domain",
@@ -119,44 +128,44 @@
             "hidden": ""
           }
         },
-        "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|wikidata=Q6862834\n|commons:artist={{Creator:Adolph Tidemand}}\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions= \n|commons:institution={{Institution:Nasjonalmuseet for kunst, arkitektur og design}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions={{Image extracted|1=Adolph Tidemand - Low Church Devotion - Google Art Project (cropped).jpg}}\n|commons:zoom=\n\n|core:title = {{en|Low Church Devotion}}\n|core:creator = {{en|Adolph Tidemand}}\n|core:date.dateCreated = 1848\n|core:format = {{en|w122.5 x h98.5 cm}}\n|core:type = {{en|Paintings}}\n|commons:object type=painting\n|core:relation = http://www.digitaltmuseum.no/things/nm/NMK-B/NG.M.04419\n|core:rights = {{en|The National Museum of Art, Architecture and Design}}\n|core:format.medium = {{no|Olje på lerret}}\n|art:artist_birth_place = {{en|Vest-Agder, Mandal (Norge)}}\n|art:artist_nationality = {{en|Norwegian}}\n|art:artist_death_place = {{en|Oslo (fylke), Oslo (Norge)}}\n|art:artist_date = 1814/1876\n|c-0d5f498b:customtext.translated_title = {{no|Haugianerne}}\n|c-0d5f498b:customtext.technique = {{no|Olje}}\n|c-0d5f498b:customtext.latitude/longitude_artist_death_place = {{en|59.9138688, 10.752245399999992}}\n|c-0d5f498b:customtext.latitude/longitude_artist_birth_place = {{en|58.0276808, 7.4533303000000615}}\n|google:display_date = 1848\n|google:is_artproject = TRUE\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:street_view_asset/id = XgECH-vAf3qvUw\n|google:street_view_level/id = 4488346238719433535\n|google:street_view_location = 59.916210174560547.10.737478256225586.0.99000000953674316.5SfTE0MgZtaoqEYpsVvIzg\n|google:partner/id = 000000000d5f498b\n|google:picasa_token = ReH7q5FH0PgyhHUseC3e1YWp4ss\n|special:url_id = UQHCast-bcBx5w\n|google:partner/name = The National Museum of Art, Architecture and Design, Norway\n|special:partner/name_no_lang = The National Museum of Art, Architecture and Design, Norway\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1876}}\n\n[[Category:Low Church Devotion – Haugianerne – (1848-version)]]\n[[Category:Google Art Project works by Adolph Tidemand]]",
+        "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Oskar Emil Törnå}}\n |title                = {{en|Landscape near Grez-sur-Loing}} {{sv|Landskap från Grez-sur-Loing}}\n |wikidata             = Q18599124\n |object_type          = painting\n |description          = {{en|Oscar Törnå went to France in the 1870s and was immediately enthralled by the new plein-air painting. He was one of the first Swedes who joined the artist colony in Grez-sur-Loing. In 1876-1877, he made numerous paintings of the countryside around Grez. This is one of them, signed September 1876. Törnå was also instrumental in spreading the new plein-air painting in Sweden. The link to Sweden is demonstrated in this work – after returning to Sweden, he painted a landscape from Skedevi in the province of Östergötland on the back of the canvas.}} {{sv|Oscar Törnå kom till Frankrike på 1870-talet och tilltalades omedelbart av det nya friluftsmåleriet. Han var en av de första svenskarna som begav sig till konstnärskolonin i Grez-sur-Loing. Under åren 1876–1877 utförde han en rad målningar från trakterna kring Grez. Dit hör det här landskapet, signerat i september 1876. Törnå blev också en viktig förmedlare av det nya friluftsmåleriet i Sverige. Här är denna koppling särskilt tydlig – på dukens baksida har han efter hemkomsten målat ett landskap från Skedevi i Östergötland}}\n |other_fields_2       = {{Information field|name={{original caption/i18n|header}}|value={{en|Oscar Törnå went to France in the 1870s and was immediately enthralled by the new plein-air painting. He was one of the first Swedes who joined the artist colony in Grez-sur-Loing. In 1876-1877, he made numerous paintings of the countryside around Grez. This is one of them, signed September 1876. Törnå was also instrumental in spreading the new plein-air painting in Sweden. The link to Sweden is demonstrated in this work – after returning to Sweden, he painted a landscape from Skedevi in the province of Östergötland on the back of the canvas.}} {{sv|Oscar Törnå kom till Frankrike på 1870-talet och tilltalades omedelbart av det nya friluftsmåleriet. Han var en av de första svenskarna som begav sig till konstnärskolonin i Grez-sur-Loing. Under åren 1876–1877 utförde han en rad målningar från trakterna kring Grez. Dit hör det här landskapet, signerat i september 1876. Törnå blev också en viktig förmedlare av det nya friluftsmåleriet i Sverige. Här är denna koppling särskilt tydlig – på dukens baksida har han efter hemkomsten målat ett landskap från Skedevi i Östergötland}}}}\n |date                 = 1876\n |medium               = {{Oil on canvas}}\n |dimensions           = \n* {{Size|unit=cm|width=77|height=43|depth=}}\n* ''Framed'': {{Size|unit=cm|width=88|height=53|depth=6}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = {{sv|Signerad: Oscar Törnå Sept. 1876. Grez-sur-Loing.}}\n |accession number     = NM 2069 recto\n |place of creation    = \n |source               ={{Nationalmuseum Stockholm link|19129| Hans Thorwid / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1894}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n[[Category:19th-century landscape paintings in the Nationalmuseum Stockholm]]\n<!-- Content categories -->\n[[Category:Paintings by Oscar Törnå in the Nationalmuseum Stockholm]]\n[[Category:1876 landscape paintings from Sweden]]\n[[Category:1876 oil on canvas paintings in Sweden]]\n[[Category:1870s paintings in the Nationalmuseum Stockholm|6]]\n[[Category:Grez-sur-Loing in art]]",
         "normalized": [],
         "redirects": []
       },
       "native": [
-        3543,
-        2810
+        4008,
+        2463
       ]
     },
     {
-      "id": "coverage001_010_alexander_laureus",
+      "id": "axel_borg_jester",
       "input": {
-        "id": "coverage001_010_alexander_laureus",
-        "file": "File:Alexander Lauréus - Party at the Parsonage - A-2002-563 - Finnish National Gallery.jpg"
+        "id": "axel_borg_jester",
+        "file": "File:Axel Borg - Gycklare med apa.jpg"
       },
       "status": "passed",
       "checks": [
         {
           "role": "image",
           "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg/1280px-Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg/1280px-Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Axel_Borg_-_Gycklare_med_apa.jpg/1280px-Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Axel_Borg_-_Gycklare_med_apa.jpg/1280px-Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
           "width": 1280,
-          "height": 976,
+          "height": 1807,
           "attempt": 1,
           "screenshot": "001-image.png"
         },
         {
           "role": "zoom",
           "ok": true,
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "http": 200,
           "mime": "image/jpeg",
-          "width": 1619,
-          "height": 1234,
+          "width": 2530,
+          "height": 3572,
           "attempt": 1
         }
       ],
@@ -164,21 +173,21 @@
       "rightsReviewed": false,
       "imageVisuallyReviewed": false,
       "metadata": {
-        "pageid": 66315325,
-        "title": "File:Alexander Lauréus - Party at the Parsonage - A-2002-563 - Finnish National Gallery.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "pageid": 30094554,
+        "title": "File:Axel Borg - Gycklare med apa.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Axel_Borg_-_Gycklare_med_apa.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
         "mime": "image/jpeg",
-        "width": 1619,
-        "height": 1234,
+        "width": 2530,
+        "height": 3572,
         "extmetadata": {
           "DateTime": {
-            "value": "2018-02-11 00:39:36",
+            "value": "2021-08-12 13:27:04",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "<div class=\"fn\">\nParty at the Parsonage</div>",
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Gycklare med apa</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Gycklare med apa\"</div><div style=\"display: none;\">label QS:Lsv,\"Gycklare med apa\"</div></div>",
             "source": "commons-desc-page"
           },
           "CommonsMetadataExtension": {
@@ -187,7 +196,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|1815 paintings from Finland|CC-PD-Mark|Artworks with Wikidata item missing genre|Paintings in the Finnish National Gallery|Artworks digital representation of 2D work|Paintings by Aleksander Lauréus",
+            "value": "Paintings from Sweden|Axel Borg|Paintings of monkeys|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|CC-PD-Mark|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -197,16 +206,21 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Aleksander_Laur%C3%A9us\" class=\"extiw\" title=\"w:en:Aleksander Lauréus\"><span title=\"Finnish painter (1783-1823)\">Aleksander Lauréus</span></a></bdi>",
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q5582334\" class=\"extiw\" title=\"d:Q5582334\"><span title=\"Swedish artist (1847-1916)\">Axel Borg</span></a></bdi>",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "1815 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q20782605#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "value": "before 1917<div style=\"display: none;\">date QS:P571,+1917-00-00T00:00:00Z/7,P1326,+1917-00-00T00:00:00Z/9</div>",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://kokoelmat.fng.fi/app?si=A-2002-563\">http://kokoelmat.fng.fi/app?si=A-2002-563</a>",
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.bukowskis.com/auctions/571/38-axel-borg-gycklare-med-apa?category%5B%5D=71&amp;page=2\">https://www.bukowskis.com/auctions/571/38-axel-borg-gycklare-med-apa?category%5B%5D=71&amp;page=2</a>",
             "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
           },
           "LicenseShortName": {
             "value": "Public domain",
@@ -238,44 +252,44 @@
             "hidden": ""
           }
         },
-        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Aleksander Lauréus}}\n |author             = \n |title              = Party at the Parsonage\n |description        = \n |object type        = \n |date               = \n |medium             = \n |dimensions         = \n |institution        = {{Institution:Finnish National Gallery}}\n |department         = \n |accession number   = A-2002-563\n |place of creation  =    \n |place of discovery =    \n |object history     = \n |exhibition history =    \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = http://kokoelmat.fng.fi/app?si=A-2002-563\n |permission         = \n |other_versions     = \n |wikidata           = Q20782605 \n |other_fields       =  \n}}\n\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-1923|Cc-zero|deathyear=1823}}\n\n[[Category:1815 paintings from Finland]]\n[[Category:Paintings by Aleksander Lauréus]]\n[[Category:Paintings in the Finnish National Gallery]]",
+        "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |wikidata = Q110154090\n |Title = {{title|lang=sv|Gycklare med apa}}\n |Artist = {{creator:Axel Borg}}\n |Year = {{otherdate|before|1917}}\n |object type = painting \n |Technique = {{Technique|oil|canvas}}\n |Dimensions = {{size|cm|90.5|65}}\n |Gallery = \n |Location = \n |Source = https://www.bukowskis.com/auctions/571/38-axel-borg-gycklare-med-apa?category%5B%5D=71&page=2\n |Permission = Public domain\n |Other versions = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1916}} \n\n[[Category:Paintings from Sweden]]\n[[Category:Axel Borg]]\n[[Category:Paintings of monkeys]]",
         "normalized": [],
         "redirects": []
       },
       "native": [
-        1619,
-        1234
+        2530,
+        3572
       ]
     },
     {
-      "id": "coverage001_017_albert_edelfelt",
+      "id": "axel_kulle_fishergirl",
       "input": {
-        "id": "coverage001_017_albert_edelfelt",
-        "file": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg"
+        "id": "axel_kulle_fishergirl",
+        "file": "File:Fishergirl from Skåne (Henrik Axel Kulle) - Gothenburg Museum of Art - F 63.tif"
       },
       "status": "passed",
       "checks": [
         {
           "role": "image",
           "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/1280px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/1280px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif/lossy-page1-1280px-Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif/lossy-page1-1280px-Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
           "width": 1280,
-          "height": 958,
+          "height": 1589,
           "attempt": 1,
           "screenshot": "002-image.png"
         },
         {
           "role": "zoom",
           "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/3840px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/3840px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif/lossy-page1-3840px-Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif/lossy-page1-3840px-Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
           "width": 3840,
-          "height": 2873,
+          "height": 4768,
           "attempt": 1
         }
       ],
@@ -283,395 +297,21 @@
       "rightsReviewed": false,
       "imageVisuallyReviewed": false,
       "metadata": {
-        "pageid": 47993767,
-        "title": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_The_Luxembourg_Gardens,_Paris.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "mime": "image/jpeg",
-        "width": 8724,
-        "height": 6528,
-        "extmetadata": {
-          "DateTime": {
-            "value": "2016-04-05 10:36:27",
-            "source": "mediawiki-metadata",
-            "hidden": ""
-          },
-          "ObjectName": {
-            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Finnish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"fi\"><i>Pariisin Luxembourgin puistossa <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18346884#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>The Luxembourg Gardens, Paris</i></div></div><div style=\"display: none;\">label QS:Lfi,\"Pariisin Luxembourgin puistossa\"</div><div style=\"display: none;\">label QS:Len,\"The Luxembourg Gardens, Paris\"</div></div>",
-            "source": "commons-desc-page"
-          },
-          "CommonsMetadataExtension": {
-            "value": 1.2,
-            "source": "extension",
-            "hidden": ""
-          },
-          "Categories": {
-            "value": "The Luxembourg Gardens by Albert Edelfelt|PD-old-70-expired|PD-Art (PD-old-70-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Google Art Project works by Albert Edelfelt|Media released by the Finnish National Gallery|Featured pictures of children|Featured pictures of paintings from Finland|Artworks digital representation of 2D work|Featured pictures of history of Paris",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Assessments": {
-            "value": "featured|valued",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "GPSLatitude": {
-            "value": "60.170000",
-            "source": "commons-desc-page"
-          },
-          "GPSLongitude": {
-            "value": "24.944167",
-            "source": "commons-desc-page"
-          },
-          "GPSMapDatum": {
-            "value": "WGS-84",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Albert_Edelfelt\" class=\"extiw\" title=\"w:en:Albert Edelfelt\"><span title=\"Finland Swedish painter and illustrator (1854-1905)\">Albert Edelfelt</span></a></bdi>",
-            "source": "commons-desc-page"
-          },
-          "ImageDescription": {
-            "value": "Scene from a Parisian park with women and children.",
-            "source": "commons-desc-page"
-          },
-          "DateTimeOriginal": {
-            "value": "1887<div style=\"display: none;\">date QS:P571,+1887-00-00T00:00:00Z/9</div>",
-            "source": "commons-desc-page"
-          },
-          "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.kansallisgalleria.fi/en\">The Finnish National Gallery</a> has created and shares this file from the Antell Collections collection. Photograph: Finnish National Gallery / Hannu Aaltonen.",
-            "source": "commons-desc-page"
-          },
-          "LicenseShortName": {
-            "value": "Public domain",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "UsageTerms": {
-            "value": "Public domain",
-            "source": "commons-desc-page"
-          },
-          "AttributionRequired": {
-            "value": "false",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Copyrighted": {
-            "value": "False",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Restrictions": {
-            "value": "",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "License": {
-            "value": "pd",
-            "source": "commons-templates",
-            "hidden": ""
-          }
-        },
-        "wikitext": "\n{{Assessments|featured=1}}\n=={{int:filedesc}}==\n{{Artwork\n |artist             = {{creator:Albert Edelfelt}}\n |author             = \n |title              = {{title|en=The Luxembourg Gardens, Paris|fi=Pariisin Luxembourgin puistossa}}\n |description        =\n  {{en|1=Scene from a Parisian park with women and children.}}\n  {{fr|1=''{{Wf|Au jardin du Luxembourg}}'' (1887), huile sur toile d'{{Wf|Albert Edelfelt}}.}}\n  {{fi|Näkymä pariisilaisesta puistosta, jossa naisia ja lapsia.}}\n |object type        = \n |date               = 1887\n |medium             = {{oil on canvas}}\n |dimensions         = {{size|cm|141.5|186.5}}\n |institution        = {{Institution:Ateneum Art Museum}}\n |department         = \n |accession number   = A II 835\n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = {{Finnish National Gallery|photographer=Hannu Aaltonen|collection=Antell Collections}}\n |permission         = \n |other_versions     = <gallery>File:Albert_Edelfelt_-_The_Luxembourg_Gardens,_Paris_-_Google_Art_Project.jpg|Google Art Project</gallery>\n |wikidata           = Q18346884\n |other_fields       = \n}}\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-70-1923|Cc-by-4.0|deathyear=1905}}\n{{VI|Albert Edelfelt: {{c|The Luxembourg Gardens by Albert Edelfelt|The Luxembourg Gardens, Paris}} (1887) – Ateneum|00:18, 21 October 2024 (UTC)|\nsubpage=Albert Edelfelt - The Luxembourg Gardens, Paris.jpg}}\n\n[[Category:The Luxembourg Gardens by Albert Edelfelt]]\n[[Category:Google Art Project works by Albert Edelfelt]]\n[[Category:Featured pictures of paintings from Finland]]\n[[Category:Featured pictures of history of Paris]]\n[[Category:Featured pictures of children]]\n[[Category:Valued images of paintings in Finland]]",
-        "normalized": [],
-        "redirects": []
-      },
-      "native": [
-        8724,
-        6528
-      ]
-    },
-    {
-      "id": "coverage001_020_amalia_lindegren",
-      "input": {
-        "id": "coverage001_020_amalia_lindegren",
-        "file": "File:Söndagsafton i en dalstuga utan ram.jpg"
-      },
-      "status": "passed",
-      "checks": [
-        {
-          "role": "image",
-          "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg/1280px-S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg/1280px-S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 1280,
-          "height": 959,
-          "attempt": 1,
-          "screenshot": "003-image.png"
-        },
-        {
-          "role": "zoom",
-          "ok": true,
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 2719,
-          "height": 2038,
-          "attempt": 1
-        }
-      ],
-      "identityReviewed": false,
-      "rightsReviewed": false,
-      "imageVisuallyReviewed": false,
-      "metadata": {
-        "pageid": 23189355,
-        "title": "File:Söndagsafton i en dalstuga utan ram.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "mime": "image/jpeg",
-        "width": 2719,
-        "height": 2038,
-        "extmetadata": {
-          "DateTime": {
-            "value": "2012-12-14 09:16:48",
-            "source": "mediawiki-metadata",
-            "hidden": ""
-          },
-          "ObjectName": {
-            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Sunday Evening in a Farmhouse in Dalecarlia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q10689147#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">label QS:Lsv,\"Söndagsafton i en dalstuga\"</div><div style=\"display: none;\">label QS:Len,\"Sunday Evening in a Farmhouse in Dalecarlia\"</div></div>",
-            "source": "commons-desc-page"
-          },
-          "CommonsMetadataExtension": {
-            "value": 1.2,
-            "source": "extension",
-            "hidden": ""
-          },
-          "Categories": {
-            "value": "CC-Zero|PD-old-100-expired|Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Items with VRTS permission confirmed|CC-PD-Mark|Images from the Nationalmuseum Stockholm|Artworks digital representation of 2D work",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Assessments": {
-            "value": "",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amalia_Lindegren\" class=\"extiw\" title=\"w:en:Amalia Lindegren\"><span title=\"Swedish artist (1814-1891)\">Amalia Lindegren</span></a></bdi>",
-            "source": "commons-desc-page"
-          },
-          "DateTimeOriginal": {
-            "value": "1860<div style=\"display: none;\">date QS:P571,+1860-00-00T00:00:00Z/9</div>",
-            "source": "commons-desc-page"
-          },
-          "Credit": {
-            "value": "This file has been provided by the Nationalmuseum Stockholm from its digital collections.<small><br>Any copyright resulting from the digitalisation are owned by the museum and releases these under Creative Commons CC0-license.</small>",
-            "source": "commons-desc-page"
-          },
-          "LicenseShortName": {
-            "value": "Public domain",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "UsageTerms": {
-            "value": "Public domain",
-            "source": "commons-desc-page"
-          },
-          "AttributionRequired": {
-            "value": "false",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Copyrighted": {
-            "value": "False",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Restrictions": {
-            "value": "",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "License": {
-            "value": "pd",
-            "source": "commons-templates",
-            "hidden": ""
-          }
-        },
-        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n | wikidata = Q10689147\n|artist={{creator:Amalia Lindegren}}\n|title={{title|sv=Söndagsafton i en dalstuga|en=Sunday Evening in a Farmhouse in Dalecarlia}}\n|description=\n|date=1860\n|medium={{Oil on canvas}}\n|dimensions={{size|cm|88|117}}\n|institution={{Institution:Nationalmuseum, Stockholm}}\n|location=\n|references=\n|object history=\n|exhibition history=\n|credit line=\n|inscriptions=\n|notes=\n|accession number={{Nationalmuseum Stockholm link|17995|NM 992}}\n|source={{Nationalmuseum Stockholm image}}\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1891}}\n\n\n[[Category:Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|*]]",
-        "normalized": [],
-        "redirects": []
-      },
-      "native": [
-        2719,
-        2038
-      ]
-    },
-    {
-      "id": "coverage001_021_amaldus_nielsen",
-      "input": {
-        "id": "coverage001_021_amaldus_nielsen",
-        "file": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg"
-      },
-      "status": "passed",
-      "checks": [
-        {
-          "role": "image",
-          "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 1280,
-          "height": 738,
-          "attempt": 1,
-          "screenshot": "004-image.png"
-        },
-        {
-          "role": "zoom",
-          "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/3840px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/3840px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 3840,
-          "height": 2215,
-          "attempt": 1
-        }
-      ],
-      "identityReviewed": false,
-      "rightsReviewed": false,
-      "imageVisuallyReviewed": false,
-      "metadata": {
-        "pageid": 98010473,
-        "title": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "mime": "image/jpeg",
-        "width": 4000,
-        "height": 2307,
-        "extmetadata": {
-          "DateTime": {
-            "value": "2020-12-24 08:17:48",
-            "source": "mediawiki-metadata",
-            "hidden": ""
-          },
-          "ObjectName": {
-            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Morning in Ny-Hellesund <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Morning in Ny-Hellesund <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Morning in Ny-Hellesund <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Morgen ved Ny-Hellesund\"</div></div>",
-            "source": "commons-desc-page"
-          },
-          "CommonsMetadataExtension": {
-            "value": 1.2,
-            "source": "extension",
-            "hidden": ""
-          },
-          "Categories": {
-            "value": "Rowing in Norway|Rowboats in Norway|Art 3. Works from the collection 1814-1950|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Clouds in Norway|PD-old-80-expired|CC-PD-Mark|Artworks with accession number from Wikidata|Paintings of mornings|1885 oil on canvas paintings in Norway|1885 landscape paintings from Norway|Paintings of houses in Norway|Artworks digital representation of 2D work|Paintings of clouds|19th-century landscape paintings in the Nasjonalmuseet for kunst, arkitektur og design|Paintings of Norwegian fjords|Paintings of rowboats|Paintings by Amaldus Nielsen in the Nasjonalmuseet for kunst, arkitektur og design|19th-century paintings of mountains of Norway|Ny-Hellesund in art",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Assessments": {
-            "value": "",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amaldus_Nielsen\" class=\"extiw\" title=\"w:en:Amaldus Nielsen\"><span title=\"Norwegian artist (1838-1932)\">Amaldus Nielsen</span></a></bdi>",
-            "source": "commons-desc-page"
-          },
-          "DateTimeOriginal": {
-            "value": "1885 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-            "source": "commons-desc-page"
-          },
-          "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NG.M.00326\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-            "source": "commons-desc-page"
-          },
-          "LicenseShortName": {
-            "value": "Public domain",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "UsageTerms": {
-            "value": "Public domain",
-            "source": "commons-desc-page"
-          },
-          "AttributionRequired": {
-            "value": "false",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Copyrighted": {
-            "value": "False",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Restrictions": {
-            "value": "",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "License": {
-            "value": "pd",
-            "source": "commons-templates",
-            "hidden": ""
-          }
-        },
-        "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1932}}\n\n{{DEFAULTSORT:Nielsen, Amaldus; Morning in Ny-Hellesund}}\n[[Category:Paintings by Amaldus Nielsen in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:19th-century landscape paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Ny-Hellesund in art]]\n[[Category:Paintings of Norwegian fjords]]\n[[Category:19th-century paintings of mountains of Norway]]\n[[Category:Paintings of mornings]]\n[[Category:Paintings of clouds]]\n[[Category:Clouds in Norway]]\n[[Category:Rowing in Norway]]\n[[Category:Rowboats in Norway]]\n[[Category:Paintings of rowboats]]\n[[Category:Paintings of houses in Norway]]\n[[Category:1885 landscape paintings from Norway]]\n[[Category:1885 oil on canvas paintings in Norway]]\n[[Category:Art 3. Works from the collection 1814-1950]]",
-        "normalized": [],
-        "redirects": []
-      },
-      "native": [
-        4000,
-        2307
-      ]
-    },
-    {
-      "id": "coverage001_022_amanda_sidwall",
-      "input": {
-        "id": "coverage001_022_amanda_sidwall",
-        "file": "File:Portrait of a Girl (Amanda Sidvall) - Nationalmuseum - 133153.tif"
-      },
-      "status": "passed",
-      "checks": [
-        {
-          "role": "image",
-          "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif/lossy-page1-1280px-Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif/lossy-page1-1280px-Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 1280,
-          "height": 1493,
-          "attempt": 1,
-          "screenshot": "005-image.png"
-        },
-        {
-          "role": "zoom",
-          "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif/lossy-page1-1920px-Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif/lossy-page1-1920px-Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 1920,
-          "height": 2240,
-          "attempt": 1
-        }
-      ],
-      "identityReviewed": false,
-      "rightsReviewed": false,
-      "imageVisuallyReviewed": false,
-      "metadata": {
-        "pageid": 64096895,
-        "title": "File:Portrait of a Girl (Amanda Sidvall) - Nationalmuseum - 133153.tif",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Girl_(Amanda_Sidvall)_-_Nationalmuseum_-_133153.tif",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Portrait_of_a_Girl_%28Amanda_Sidvall%29_-_Nationalmuseum_-_133153.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "pageid": 112968680,
+        "title": "File:Fishergirl from Skåne (Henrik Axel Kulle) - Gothenburg Museum of Art - F 63.tif",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Fishergirl_from_Sk%C3%A5ne_(Henrik_Axel_Kulle)_-_Gothenburg_Museum_of_Art_-_F_63.tif",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
         "mime": "image/tiff",
-        "width": 2473,
-        "height": 2885,
+        "width": 5197,
+        "height": 6453,
         "extmetadata": {
           "DateTime": {
-            "value": "2017-11-16 02:22:48",
+            "value": "2021-12-01 11:02:46",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "Portrait of a Girl",
+            "value": "Fishergirl from Skåne",
             "source": "commons-desc-page"
           },
           "CommonsMetadataExtension": {
@@ -680,7 +320,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Amanda Sidvall|PD-Art (PD-old-auto)|Artworks with Wikidata item|Artworks with known accession number|PD-old-100|Unknown date|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Portrait paintings in the Nationalmuseum Stockholm|Images from the Nationalmuseum Stockholm|Artworks with Wikidata item missing date|Media contributed by Nationalmuseum Stockholm: 2017-11|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work",
+            "value": "Axel Kulle|Paintings in Göteborgs Konstmuseum|Artworks with Wikidata item|Artworks with known accession number|Fürstenbergska galleriet|Artworks with Wikidata item missing dimensions|Content made available through Wikimedia Sverige partnerships|Media contributed by Göteborgs konstmuseum: 2021-10|Göteborgs museer – 2021 bilder år 2021|Artworks digital representation of 2D work|Media contributed by Göteborgs konstmuseum",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -690,290 +330,43 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amanda_Sidwall\" class=\"extiw\" title=\"w:en:Amanda Sidwall\"><span title=\"Swedish painter (1844-1892)\">Amanda Sidvall</span></a></bdi>",
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Axel_Kulle\" class=\"extiw\" title=\"w:en:Axel Kulle\"><span title=\"Swedish painter (1846-1908)\">Axel Kulle</span></a></bdi>",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "Unknown date",
+            "value": "1884<div style=\"display: none;\">date QS:P571,+1884-00-00T00:00:00Z/9</div>",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=133153&amp;viewType=detailView\">  Linn Ahlgren / Nationalmuseum</a>",
+            "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/120px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"76\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/250px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1441\" data-file-height=\"1675\"></a></span>\n</td>\n<td>This file was provided to Wikimedia Commons by <b>Göteborgs museer och konsthall</b> as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:G%C3%B6teborgs_museer_%E2%80%93_2021_bilder_%C3%A5r_2021\" title=\"Commons:Göteborgs museer – 2021 bilder år 2021\">cooperation project</a> with Wikimedia Sverige.\n</td>\n<td style=\"width:60px\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige/en\" title=\"Wikimedia Sverige\"><img alt=\"Wikimedia Sverige\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"119\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"581\" data-file-height=\"435\"></a></span>\n</td></tr></tbody></table>\n <a rel=\"nofollow\" class=\"external text\" href=\"http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=2139&amp;viewType=detailView\">Göteborgs konstmuseum</a>, foto: Hossein Sehatlou",
             "source": "commons-desc-page"
           },
           "Permission": {
-            "value": "<p>The author died in 1892, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "LicenseShortName": {
-            "value": "Public domain",
+            "value": "CC BY 4.0",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "UsageTerms": {
-            "value": "Public domain",
+            "value": "Creative Commons Attribution 4.0",
             "source": "commons-desc-page"
           },
           "AttributionRequired": {
-            "value": "false",
+            "value": "true",
             "source": "commons-desc-page",
             "hidden": ""
           },
-          "Copyrighted": {
-            "value": "False",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Restrictions": {
-            "value": "",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "License": {
-            "value": "pd",
-            "source": "commons-templates",
-            "hidden": ""
-          }
-        },
-        "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Amanda Sidvall}}\n |title                = {{en|Portrait of a Girl}} {{sv|Flickporträtt}}\n |wikidata             = \n Q43220233|object_type          = \n |description          = \n |other_fields_2       = \n |date                 = {{unknown|date}}\n |medium               = {{en|Oil on wood panel}} {{sv|Olja på pannå}}\n |dimensions           = \n* {{Size|unit=cm|width=18.5|height=23.1|depth=}}\n* ''Framed'': {{Size|unit=cm|width=25.3|height=29.5|depth=}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = {{sv|Signering: A. Sidvall [nedre vänstra hörnet]}}\n |accession number     = NM 7102\n |place of creation    = \n |source               ={{Nationalmuseum Stockholm link|133153| Linn Ahlgren / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1892}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n\n[[Category:Portrait paintings in the Nationalmuseum Stockholm]]\n[[Category:Media contributed by Nationalmuseum Stockholm: 2017-11]]\n\n<!-- Content categories -->\n[[Category:Amanda Sidvall]]",
-        "normalized": [],
-        "redirects": []
-      },
-      "native": [
-        2473,
-        2885
-      ]
-    },
-    {
-      "id": "coverage001_023_amelie_lundahl",
-      "input": {
-        "id": "coverage001_023_amelie_lundahl",
-        "file": "File:Amélie Lundahl - The Garden Girl.jpg"
-      },
-      "status": "passed",
-      "checks": [
-        {
-          "role": "image",
-          "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg/1280px-Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg/1280px-Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 1280,
-          "height": 1904,
-          "attempt": 1,
-          "screenshot": "006-image.png"
-        },
-        {
-          "role": "zoom",
-          "ok": true,
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 2382,
-          "height": 3543,
-          "attempt": 1
-        }
-      ],
-      "identityReviewed": false,
-      "rightsReviewed": false,
-      "imageVisuallyReviewed": false,
-      "metadata": {
-        "pageid": 92844322,
-        "title": "File:Amélie Lundahl - The Garden Girl.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "mime": "image/jpeg",
-        "width": 2382,
-        "height": 3543,
-        "extmetadata": {
-          "DateTime": {
-            "value": "2020-08-03 11:24:22",
-            "source": "mediawiki-metadata",
-            "hidden": ""
-          },
-          "ObjectName": {
-            "value": "The Garden Girl",
-            "source": "commons-desc-page"
-          },
-          "CommonsMetadataExtension": {
-            "value": 1.2,
-            "source": "extension",
-            "hidden": ""
-          },
-          "Categories": {
-            "value": "PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|1885 oil on canvas paintings|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Portrait paintings in the Ateneum|Portrait paintings by Amélie Lundahl|Paintings of Brittany by Amélie Lundahl",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Assessments": {
-            "value": "",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Am%C3%A9lie_Lundahl\" class=\"extiw\" title=\"w:en:Amélie Lundahl\"><span title=\"Finnish artist (1850–1914)\">Amélie Lundahl</span></a></bdi>",
-            "source": "commons-desc-page"
-          },
-          "DateTimeOriginal": {
-            "value": "1885<div style=\"display: none;\">date QS:P571,+1885-00-00T00:00:00Z/9</div>",
-            "source": "commons-desc-page"
-          },
-          "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.kansallisgalleria.fi/fi/object/623797\">https://www.kansallisgalleria.fi/fi/object/623797</a>",
-            "source": "commons-desc-page"
-          },
-          "Permission": {
-            "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1914, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "LicenseShortName": {
-            "value": "Public domain",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "UsageTerms": {
-            "value": "Public domain",
-            "source": "commons-desc-page"
-          },
-          "AttributionRequired": {
-            "value": "false",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Copyrighted": {
-            "value": "False",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "Restrictions": {
-            "value": "",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "License": {
-            "value": "pd",
-            "source": "commons-templates",
-            "hidden": ""
-          }
-        },
-        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|artist = {{Creator:Amélie Lundahl}}\n|title = {{en|1=The Garden Girl}}\n{{fi|1=Puutarhatyttö}}\n|date = 1885\n|object type = painting\n|medium = {{technique|oil|canvas}}\n|dimensions = {{size|unit=cm|height=100|width=67}}\n|institution = {{Institution:Ateneum}}\n|source = https://www.kansallisgalleria.fi/fi/object/623797\n|object history = {{ProvenanceEvent|type=purchase|date=1886}}\n|accession number = A I 224\n|permission = {{PD-Art|PD-old-100-1923|deathyear=1914}}\n|wikidata = Q20787829\n|other versions = <gallery>\nAmélie Lundahl - The Garden Girl - Google Art Project.jpg|Google Art Project\n</gallery>\n}}\n\n[[Category:Portrait paintings by Amélie Lundahl]]\n[[Category:1885 oil on canvas paintings]]\n[[Category:Portrait paintings in the Ateneum]]\n[[Category:Paintings of Brittany by Amélie Lundahl]]",
-        "normalized": [],
-        "redirects": []
-      },
-      "native": [
-        2382,
-        3543
-      ]
-    },
-    {
-      "id": "coverage001_027_anna_de_weert",
-      "input": {
-        "id": "coverage001_027_anna_de_weert",
-        "file": "File:Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B.jpg"
-      },
-      "status": "passed",
-      "checks": [
-        {
-          "role": "image",
-          "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg/1280px-Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg/1280px-Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 1280,
-          "height": 854,
-          "attempt": 1,
-          "screenshot": "007-image.png"
-        },
-        {
-          "role": "zoom",
-          "ok": true,
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "http": 200,
-          "mime": "image/jpeg",
-          "width": 2659,
-          "height": 1774,
-          "attempt": 1
-        }
-      ],
-      "identityReviewed": false,
-      "rightsReviewed": false,
-      "imageVisuallyReviewed": false,
-      "metadata": {
-        "pageid": 99282924,
-        "title": "File:Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Mijn_atelier_in_juni,_Anna_De_Weert,_Museum_voor_Schone_Kunsten_Gent,_1912-B.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "mime": "image/jpeg",
-        "width": 2659,
-        "height": 1774,
-        "extmetadata": {
-          "DateTime": {
-            "value": "2021-01-26 14:40:32",
-            "source": "mediawiki-metadata",
-            "hidden": ""
-          },
-          "ObjectName": {
-            "value": "<div class=\"fn\">\nMijn atelier in juni</div>",
-            "source": "commons-desc-page"
-          },
-          "CommonsMetadataExtension": {
-            "value": 1.2,
-            "source": "extension",
-            "hidden": ""
-          },
-          "Categories": {
-            "value": "CC-Zero|Uploaded with pattypan|Images from the Museum of Fine Arts Ghent|Artworks with Wikidata item|Artworks with known accession number|Media contributed by meemoo|My Studio in June by Anna De Weert|Artworks digital representation of 2D work|Museum of Fine Arts Ghent publicdomainday 2021 upload",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Assessments": {
-            "value": "",
-            "source": "commons-categories",
-            "hidden": ""
-          },
-          "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_De_Weert\" class=\"extiw\" title=\"w:en:Anna De Weert\"><span title=\"Belgian painter (1867–1950)\">Anna De Weert</span></a></bdi>",
-            "source": "commons-desc-page"
-          },
-          "ImageDescription": {
-            "value": "<div class=\"description\">\nMijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B</div>",
-            "source": "commons-desc-page"
-          },
-          "DateTimeOriginal": {
-            "value": "between June 1909 and June 1910<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1909-06-00T00:00:00Z/10,P1326,+1910-06-00T00:00:00Z/10</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q21675333#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
-            "source": "commons-desc-page"
-          },
-          "Credit": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Museum_of_Fine_Arts,_Ghent\" class=\"extiw\" title=\"w:en:Museum of Fine Arts, Ghent\"><span title=\"museum of fine arts in Ghent, Belgium\">Museum of Fine Arts Ghent (MSK)</span></a>\n</bdi>",
-            "source": "commons-desc-page"
-          },
-          "Permission": {
-            "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border: 2px solid var(--border-color-subtle, #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "LicenseShortName": {
-            "value": "CC0",
-            "source": "commons-desc-page",
-            "hidden": ""
-          },
-          "UsageTerms": {
-            "value": "Creative Commons Zero, Public Domain Dedication",
-            "source": "commons-desc-page"
-          },
-          "AttributionRequired": {
-            "value": "false",
+          "Attribution": {
+            "value": "Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou",
             "source": "commons-desc-page",
             "hidden": ""
           },
           "LicenseUrl": {
-            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "value": "https://creativecommons.org/licenses/by/4.0",
             "source": "commons-desc-page"
           },
           "Copyrighted": {
@@ -987,48 +380,48 @@
             "hidden": ""
           },
           "License": {
-            "value": "cc0",
+            "value": "cc-by-4.0",
             "source": "commons-templates",
             "hidden": ""
           }
         },
-        "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |artist =\n |author = \n |title = Mijn atelier in juni\n |description = Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B\n |date = \n |medium = \n |dimensions = \n |institution = {{Institution:Museum of Fine Arts, Ghent}}\n |department = \n |place of discovery = \n |object history = \n |exhibition history = \n |credit line =\n |inscriptions = \n |notes = \n |accession number = 1912-B\n |place of creation = \n |source = {{Institution:Museum of Fine Arts, Ghent}}\n |permission = {{cc-zero}}\n |other_versions = \n |references = \n |wikidata = Q21675333\n}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n[[Category:My Studio in June by Anna De Weert]]\n[[Category:Images from the Museum of Fine Arts Ghent]]\n[[Category:Media contributed by meemoo]]\n[[Category:Museum of Fine Arts Ghent publicdomainday 2021 upload]]\n[[Category:Uploaded with pattypan]]",
+        "wikitext": "{{Artwork\n| title = {{sv|Skånsk fiskarflicka}} {{en|Fishergirl from Skåne}}\n| wikidata = Q131011369\n| date = 1884\n| medium = {{sv|Olja på pannå}} {{en|Oil on panel}}\n| dimensions = 46,00 x 37,50 cmFrame: 74,00 x 65,50 x 9,50 cm\n| institution = {{institution:Göteborgs konstmuseum}}\n| credit line = {{sv| Testamentarisk gåva av Pontus och Göthilda Fürstenberg 1902}} {{en| Bequest of Pontus and Göthilda Fürstenberg, 1902}}\n| inscriptions = {{sv|Signatur: AXEL. KULLE. Arilds läge 1884.}}\n| notes = {{Q|Q10857409}}\n| accession number = F 63\n| object type = painting\n| depicted_people = \n| depicted place = {{Q|Q661162}}\n| place of creation = \n| source = {{Göteborg museums cooperation project}} [http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=2139&viewType=detailView Göteborgs konstmuseum], foto: Hossein Sehatlou\n| permission = {{Cc-by-4.0|Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou}}\n}}\n\n<!-- Content categories -->\n[[Category:Paintings in Göteborgs Konstmuseum]]\n[[Category:Fürstenbergska galleriet]]\n[[Category:Media contributed by Göteborgs konstmuseum: 2021-10]]\n[[Category:Media contributed by Göteborgs konstmuseum]]\n[[Category:Göteborgs museer – 2021 bilder år 2021]]\n[[Category:Axel Kulle]]",
         "normalized": [],
         "redirects": []
       },
       "native": [
-        2659,
-        1774
+        5197,
+        6453
       ]
     },
     {
-      "id": "coverage001_042_asta_norregaard",
+      "id": "ferdinand_fagerlin_bachelorhood",
       "input": {
-        "id": "coverage001_042_asta_norregaard",
-        "file": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg"
+        "id": "ferdinand_fagerlin_bachelorhood",
+        "file": "File:Ferdinand Fagerlin - The Hardships of Bachelorhood - NG.M.00234 - National Museum of Art, Architecture and Design.jpg"
       },
       "status": "passed",
       "checks": [
         {
           "role": "image",
           "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
           "width": 1280,
-          "height": 1829,
+          "height": 1446,
           "attempt": 1,
-          "screenshot": "008-image.png"
+          "screenshot": "003-image.png"
         },
         {
           "role": "zoom",
           "ok": true,
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
           "http": 200,
           "mime": "image/jpeg",
-          "width": 2100,
+          "width": 2655,
           "height": 3000,
           "attempt": 1
         }
@@ -1037,21 +430,21 @@
       "rightsReviewed": false,
       "imageVisuallyReviewed": false,
       "metadata": {
-        "pageid": 98009147,
-        "title": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "pageid": 97995336,
+        "title": "File:Ferdinand Fagerlin - The Hardships of Bachelorhood - NG.M.00234 - National Museum of Art, Architecture and Design.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
         "mime": "image/jpeg",
-        "width": 2100,
+        "width": 2655,
         "height": 3000,
         "extmetadata": {
           "DateTime": {
-            "value": "2020-12-24 07:18:11",
+            "value": "2020-12-23 19:27:04",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Norwegian Bokmål:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"nb\"><i>Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Selvportrett</i></div></div><div style=\"display: none;\">title QS:P1476,nb:\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Selvportrett\"</div></div>",
+            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>The Hardships of Bachelorhood <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"The Hardships of Bachelorhood <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"The Hardships of Bachelorhood <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Ungkarslivets gjenvordigheter\"</div></div>",
             "source": "commons-desc-page"
           },
           "CommonsMetadataExtension": {
@@ -1060,7 +453,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "Asta Nørregaard|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|PD-old-80-expired|Portrait paintings of women of Norway|CC-PD-Mark|1911 paintings in Norway|Artworks with accession number from Wikidata|20th-century oil portraits of women at half length|20th-century self-portrait paintings of women|Self-portrait paintings in Norway|1911 oil on canvas paintings|20th-century oil on canvas portrait paintings in Norway|20th-century women looking at viewer in art|1911 portrait paintings from Norway|1911 portrait paintings of women|20th-century portrait paintings in the Nasjonalmuseet for kunst, arkitektur og design|1910s self-portrait paintings of women|20th-century paintings of women with black dresses|Artworks digital representation of 2D work|20th-century portrait paintings with neutral background|Paintings by Asta Nørregaard in the Nasjonalmuseet for kunst, arkitektur og design|Self-portrait paintings by Asta Nørregaard",
+            "value": "1866 paintings from Sweden|Ferdinand Fagerlin|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|1866 oil on canvas paintings in Norway|Artworks digital representation of 2D work|19th-century genre paintings in the Nasjonalmuseet for kunst, arkitektur og design|Swedish paintings in the Nasjonalmuseet for kunst, arkitektur og design",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -1070,15 +463,15 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Asta_N%C3%B8rregaard\" class=\"extiw\" title=\"w:en:Asta Nørregaard\"><span title=\"Norwegian artist (1853–1933)\">Asta Nørregaard</span></a></bdi>",
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ferdinand_Fagerlin\" class=\"extiw\" title=\"w:en:Ferdinand Fagerlin\"><span title=\"Genre painter (1825-1907)\">Ferdinand Julius Fagerlin</span></a></bdi>",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "1911 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "value": "1866 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NMK.2008.0706\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NG.M.00234\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {
@@ -1111,44 +504,44 @@
             "hidden": ""
           }
         },
-        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |other versions = \n<gallery>\nAsta Nørregaard - Selvportrett - Nasjonalmuseet - NMK.2008.0706.png\n</gallery>\n}}\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1933}}\n\n{{DEFAULTSORT:Nørregaard, Asta; Selvportrett}}\n[[Category:Asta Nørregaard]]\n[[Category:Paintings by Asta Nørregaard in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Self-portrait paintings by Asta Nørregaard]]\n[[Category:20th-century portrait paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Portrait paintings of women of Norway]]\n[[Category:Self-portrait paintings in Norway]]\n[[Category:20th-century self-portrait paintings of women]]\n[[Category:1910s self-portrait paintings of women]]\n[[Category:20th-century women looking at viewer in art]]\n[[Category:20th-century paintings of women with black dresses]]\n[[Category:20th-century oil portraits of women at half length]]\n[[Category:20th-century portrait paintings with neutral background]]\n[[Category:1911 paintings in Norway]]\n[[Category:1911 portrait paintings from Norway]]\n[[Category:1911 portrait paintings of women]]\n[[Category:1911 oil on canvas paintings]]\n[[Category:20th-century oil on canvas portrait paintings in Norway]]",
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1907}}\n\n{{DEFAULTSORT:Fagerlin, Ferdinand; The Hardships of Bachelorhood}}\n[[Category:Ferdinand Fagerlin]]\n[[Category:19th-century genre paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Swedish paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:1866 paintings from Sweden]]\n[[Category:1866 oil on canvas paintings in Norway]]",
         "normalized": [],
         "redirects": []
       },
       "native": [
-        2100,
+        2655,
         3000
       ]
     },
     {
-      "id": "coverage001_043_astrid_holm",
+      "id": "august_hagborg_shore",
       "input": {
-        "id": "coverage001_043_astrid_holm",
-        "file": "File:Astrid Holm, Rose dækker bord, 1914, KMS8558, Statens Museum for Kunst.jpg"
+        "id": "august_hagborg_shore",
+        "file": "File:Shore with Boats (August Hagborg) - Gothenburg Museum of Art - F 32b.tif"
       },
       "status": "passed",
       "checks": [
         {
           "role": "image",
           "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/1280px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/1280px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-1280px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-1280px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
           "width": 1280,
-          "height": 1593,
+          "height": 829,
           "attempt": 1,
-          "screenshot": "009-image.png"
+          "screenshot": "004-image.png"
         },
         {
           "role": "zoom",
           "ok": true,
-          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/3840px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/3840px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-3840px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-3840px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "http": 200,
           "mime": "image/jpeg",
           "width": 3840,
-          "height": 4780,
+          "height": 2486,
           "attempt": 1
         }
       ],
@@ -1156,21 +549,21 @@
       "rightsReviewed": false,
       "imageVisuallyReviewed": false,
       "metadata": {
-        "pageid": 145270834,
-        "title": "File:Astrid Holm, Rose dækker bord, 1914, KMS8558, Statens Museum for Kunst.jpg",
-        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Astrid_Holm,_Rose_d%C3%A6kker_bord,_1914,_KMS8558,_Statens_Museum_for_Kunst.jpg",
-        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "mime": "image/jpeg",
-        "width": 4724,
-        "height": 5881,
+        "pageid": 112975685,
+        "title": "File:Shore with Boats (August Hagborg) - Gothenburg Museum of Art - F 32b.tif",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Shore_with_Boats_(August_Hagborg)_-_Gothenburg_Museum_of_Art_-_F_32b.tif",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/tiff",
+        "width": 7298,
+        "height": 4724,
         "extmetadata": {
           "DateTime": {
-            "value": "2024-02-12 17:38:12",
+            "value": "2021-12-01 16:01:34",
             "source": "mediawiki-metadata",
             "hidden": ""
           },
           "ObjectName": {
-            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Rose dækker bord</div></div>",
+            "value": "Shore with Boats",
             "source": "commons-desc-page"
           },
           "CommonsMetadataExtension": {
@@ -1179,7 +572,7 @@
             "hidden": ""
           },
           "Categories": {
-            "value": "1914 paintings from Denmark|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Images from the partnership with Statens Museum for Kunst|PD-old-80-expired|CC-PD-Mark|Objects with inscriptions (language unspecified)|1914 paintings in Denmark|Images released under the CC0 1.0 Universal license by Statens Museum for Kunst|20th-century paintings of women with pink dresses|Artworks with Wikidata item missing genre|1914 paintings of women|20th-century paintings of people in Statens Museum for Kunst|Paintings by Astrid Holm in Statens Museum for Kunst|Artworks digital representation of 2D work",
+            "value": "Artworks with Wikidata item|Artworks with known accession number|Fürstenbergska galleriet|Artworks with Wikidata item missing dimensions|Content made available through Wikimedia Sverige partnerships|Media contributed by Göteborgs konstmuseum: 2021-10|1881 oil on canvas paintings in Sweden|1881 landscape paintings from Sweden|Göteborgs museer – 2021 bilder år 2021|1881 marine paintings|Artworks digital representation of 2D work|Media contributed by Göteborgs konstmuseum|Paintings by August Hagborg in Göteborgs Konstmuseum|1880s paintings in Göteborgs Konstmuseum",
             "source": "commons-categories",
             "hidden": ""
           },
@@ -1189,19 +582,278 @@
             "hidden": ""
           },
           "Artist": {
-            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Astrid_Holm_(painter)\" class=\"extiw\" title=\"w:en:Astrid Holm (painter)\"><span title=\"Danish painter (1876-1937)\">Astrid Holm</span></a></bdi>",
-            "source": "commons-desc-page"
-          },
-          "ImageDescription": {
-            "value": "<div class=\"description\">\nRose dækker bord</div>",
+            "value": "<div class=\"fn value\">\n<a href=\"https://www.wikidata.org/wiki/Q2870939\" class=\"extiw\" title=\"d:Q2870939\"><span title=\"Swedish artist (1852-1921)\">August Hagborg</span></a></div>",
             "source": "commons-desc-page"
           },
           "DateTimeOriginal": {
-            "value": "1914<div style=\"display: none;\">date QS:P571,+1914-00-00T00:00:00Z/9</div>",
+            "value": "1881<div style=\"display: none;\">date QS:P571,+1881-00-00T00:00:00Z/9</div>",
             "source": "commons-desc-page"
           },
           "Credit": {
-            "value": "image",
+            "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/120px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"76\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/250px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1441\" data-file-height=\"1675\"></a></span>\n</td>\n<td>This file was provided to Wikimedia Commons by <b>Göteborgs museer och konsthall</b> as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:G%C3%B6teborgs_museer_%E2%80%93_2021_bilder_%C3%A5r_2021\" title=\"Commons:Göteborgs museer – 2021 bilder år 2021\">cooperation project</a> with Wikimedia Sverige.\n</td>\n<td style=\"width:60px\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige/en\" title=\"Wikimedia Sverige\"><img alt=\"Wikimedia Sverige\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"119\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"581\" data-file-height=\"435\"></a></span>\n</td></tr></tbody></table>\n <a rel=\"nofollow\" class=\"external text\" href=\"http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=2097&amp;viewType=detailView\">Göteborgs konstmuseum</a>, foto: Hossein Sehatlou",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "{{Artwork\n|wikidata=Q130736704\n| title = {{sv|Strand med båtar}} {{en|Shore with Boats}}\n| artist = {{Q|Q2870939}}\n| date = 1881\n| medium = {{sv|Olja på pannå}} {{en|Oil on panel}}\n| dimensions = 27,00 x 41,00 cm\n| institution = {{institution:Göteborgs konstmuseum}}\n| credit line = {{sv| Testamentarisk gåva av Pontus och Göthilda Fürstenberg 1902}} {{en| Bequest of Pontus and Göthilda Fürstenberg, 1902}}\n| inscriptions = \n| notes = {{Q|Q10857409}}\n| accession number = F 32b\n| object type = painting\n| depicted_people = \n| depicted place = \n| place of creation = {{Q|Q142}}\n| source = {{Göteborg museums cooperation project}} [http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=2097&viewType=detailView Göteborgs konstmuseum], foto: Hossein Sehatlou\n| permission = {{Cc-by-4.0|Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou}}\n}}\n\n<!-- Content categories -->\n[[Category:Paintings by August Hagborg in Göteborgs Konstmuseum]]\n[[Category:Fürstenbergska galleriet]]\n[[Category:Media contributed by Göteborgs konstmuseum: 2021-10]]\n[[Category:Media contributed by Göteborgs konstmuseum]]\n[[Category:Göteborgs museer – 2021 bilder år 2021]]\n[[Category:1881 landscape paintings from Sweden]]\n[[Category:1881 marine paintings]]\n[[Category:1881 oil on canvas paintings in Sweden]]\n[[Category:1880s paintings in Göteborgs Konstmuseum]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        7298,
+        4724
+      ]
+    },
+    {
+      "id": "nils_forsberg_hero_study",
+      "input": {
+        "id": "nils_forsberg_hero_study",
+        "file": "File:Death of a Hero. Study. (Nils Forsberg) - Gothenburg Museum of Art - GKM 2013-114.tif"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif/lossy-page1-1280px-Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif/lossy-page1-1280px-Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 854,
+          "attempt": 1,
+          "screenshot": "005-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif/lossy-page1-3840px-Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif/lossy-page1-3840px-Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 3840,
+          "height": 2561,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 112966950,
+        "title": "File:Death of a Hero. Study. (Nils Forsberg) - Gothenburg Museum of Art - GKM 2013-114.tif",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Death_of_a_Hero._Study._(Nils_Forsberg)_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/tiff",
+        "width": 4724,
+        "height": 3150,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-12-01 09:58:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Death of a Hero. Study.</i></div></div><div style=\"display: none;\">label QS:Len,\"Death of a Hero. Study.\"</div><div style=\"display: none;\">label QS:Lsv,\"En hjältes död. Skiss.\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "1883 paintings from Sweden|Artworks with Wikidata item|Artworks with known accession number|Content made available through Wikimedia Sverige partnerships|Objects with inscriptions (language unspecified)|Media contributed by Göteborgs konstmuseum: 2021-10|Göteborgs museer – 2021 bilder år 2021|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Genre paintings in the Nationalmuseum Stockholm|Media contributed by Göteborgs konstmuseum|Gustaf Werner collection|Paintings by Nils Forsberg in Göteborgs Konstmuseum|1880s paintings in Göteborgs Konstmuseum",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nils_Forsberg\" class=\"extiw\" title=\"w:en:Nils Forsberg\"><span title=\"Swedish painter (1842-1934)\">Nils Forsberg</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1883<div style=\"display: none;\">date QS:P571,+1883-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/120px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"76\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/250px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1441\" data-file-height=\"1675\"></a></span>\n</td>\n<td>This file was provided to Wikimedia Commons by <b>Göteborgs museer och konsthall</b> as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:G%C3%B6teborgs_museer_%E2%80%93_2021_bilder_%C3%A5r_2021\" title=\"Commons:Göteborgs museer – 2021 bilder år 2021\">cooperation project</a> with Wikimedia Sverige.\n</td>\n<td style=\"width:60px\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige/en\" title=\"Wikimedia Sverige\"><img alt=\"Wikimedia Sverige\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"119\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"581\" data-file-height=\"435\"></a></span>\n</td></tr></tbody></table>\n <a rel=\"nofollow\" class=\"external text\" href=\"http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=22220&amp;viewType=detailView\">Göteborgs konstmuseum</a>, Photo: Hossein Sehatlou",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n| title = {{title|sv=En hjältes död. Skiss.|en=Death of a Hero. Study.}}\n| artist = {{creator:Nils Forsberg}}\n| date = 1883\n| medium = {{Oil on canvas}}\n| dimensions = {{size|cm|49.5|74}}, {{Frame dim}}: {{size|cm|72.5|97|8.5}}\n| institution = {{institution:Göteborgs konstmuseum}}\n| credit line = \n*{{provenanceEvent|type=bequest|oldowner=Gustaf Werner (1859–1948)|newowner={{langswitch|sv=Göteborgs stad|en=City of Gothenburg|de=die Stadt Göteburg}} }}\n*{{provenanceEvent|type=transfer|newowner=Gothenburg Museum of Art|date=2013|oldowner={{langswitch|sv=Göteborgs stad|en=City of Gothenburg|de=die Stadt Göteburg}}}}\n| inscriptions = {{inscription|type=signature|N. F. 1883}}\n| notes = \n| accession number = GKM 2013-114\n| object type = painting\n| depicted_people = \n| depicted place = \n| place of creation = \n| source = {{Göteborg museums cooperation project}} [http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=22220&viewType=detailView Göteborgs konstmuseum], Photo: Hossein Sehatlou\n| permission = \n| wikidata = Q111606102\n}}\n\n== {{int:license-header}} ==\n{{Cc-by-4.0|Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou}}\n\n<!-- Content categories -->\n[[Category:Media contributed by Göteborgs konstmuseum: 2021-10]]\n[[Category:Media contributed by Göteborgs konstmuseum]]\n[[Category:Göteborgs museer – 2021 bilder år 2021]]\n[[Category:1883 paintings from Sweden]]\n[[Category:1880s paintings in Göteborgs Konstmuseum]]\n[[Category:Gustaf Werner collection]]\n[[Category:Paintings by Nils Forsberg in Göteborgs Konstmuseum]]\n[[Category:Genre paintings in the Nationalmuseum Stockholm]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        4724,
+        3150
+      ]
+    },
+    {
+      "id": "joseph_magnus_stack_capri",
+      "input": {
+        "id": "joseph_magnus_stack_capri",
+        "file": "File:Joseph Magnus Stäck - View from Capri - NM 6790 - Nationalmuseum.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 853,
+          "attempt": 1,
+          "screenshot": "006-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 853,
+          "attempt": 1,
+          "screenshot": "006-image.png",
+          "reused": true
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 103263388,
+        "title": "File:Joseph Magnus Stäck - View from Capri - NM 6790 - Nationalmuseum.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 1000,
+        "height": 853,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-04-08 01:25:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Motiv från Capri <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Motif from Capri</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Motiv från Capri <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lsv,\"Motiv från Capri <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Motif from Capri\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Capri in art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|1840s landscape paintings from Sweden|Artworks with Wikidata item missing genre|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|19th-century landscape paintings in the Nationalmuseum Stockholm|Framed paintings in the Nationalmuseum|1840s paintings in the Nationalmuseum Stockholm|Paintings by Joseph Magnus Stäck in the Nationalmuseum Stockholm",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Joseph_Magnus_St%C3%A4ck\" class=\"extiw\" title=\"w:en:Joseph Magnus Stäck\"><span title=\"Swedish artist and painter (1812-1868)\">Joseph Magnus Stäck</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "between 1840 and 1849<div style=\"display: none;\">date QS:P,+1840-00-00T00:00:00Z/8,P1319,+1840-00-00T00:00:00Z/9,P1326,+1849-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=23839&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
             "source": "commons-desc-page"
           },
           "LicenseShortName": {
@@ -1234,22 +886,386 @@
             "hidden": ""
           }
         },
-        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = Q16063259\n |author             = \n |title              = {{title|Rose dækker bord}}\n |description        = Rose dækker bord\n |depicted people    = \n |date               = 1914\n |medium             = {{da|Olie på ugrunderet lærred}}\n |dimensions         = {{Size|unit=mm|width=969.0|height=977.0|depth=83.0}}\n |institution        = {{Institution:Statens Museum for Kunst, Copenhagen}}\n |department         = \n |place of discovery = \n |object history     = * {{da|Maleriet blev ca. 1918 udstillet i Aarhus Kunstbygning som \"Privateje\", og det var formodentlig blevet solgt til en privat samler inden da (det var ikke med på kunstnerens mindeudstilling i Kunstforeningen i april 1939). Kunsthandler James Bauerle har angiveligt købt maleriet af \"en gammel kunsthandler\".}}\n* {{ProvenanceEvent|date=2008-04-03|type=acquisition|newowner=[[Statens Museum for Kunst]]}} \n |exhibition history = * {{Temporary Exhibition |name=”Astrid Holm – Den glemte modernist” |institution= |place= Øregaard Museum |begin=2019-09-13 |end=2020-01-25}}\n* {{Temporary Exhibition |name=”Astrid Holm – Den glemte modernist” |institution= |place= Rønnebæksholm |begin=2020-02-28 |end=2020-06-29}}\n* {{Temporary Exhibition |name=Astrid Holm - Den glemte modernist |institution= |place= Øregaard Museum |begin=2019-09-13 |end=2020-01-25}}\n* {{Temporary Exhibition |name=På tværs - nyerhvervelser 2007-2009 |institution= |place= Sølvgade |begin=2009-05-02 |end=2009-08-08}}\n |credit line        = \n |inscriptions       = {{inscription |1=AH (skjult af blændramme)}}\n |notes              = * {{da|Værkdatering: 1914}}\n* {{da|Maleriet er udført under kunstnerens ophold på Skt. Thomas i Dansk Vestindien i 1914.}}\n |accession number   = KMS8558\n |place of creation  = \n |source             = * {{SMK API|KMS8558}}\n* {{SMK Open|KMS8558}}\n* [https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9iYzM4Nm43MzBfa21zODU1OC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TODU1OCIsIm51bSI6IiJ9XQ==/KMS8558.jpg {{en|image}}]\n |other_versions     = \n |references         = *{{citation|title=Ny dansk kunsthistorie|author=Ubekendt|others=Bind 6: Hanne Abildgaard, \"Tidlig modernisme\", 56 (afb.)(Opholdssted ubekendt)|id=D 22097|year=1993-1996}}\n*{{citation|title=Moderne kvinder: Kvindelige malere i Norden 1910-1930|author=Birgitta Flensburg|others=kat. 28 (Privateje)|year=2006}}\n*{{citation|title=Astrid Holm. Jais Nielsen.: Malerier Tegninger|author=Ubekendt|others=Kat. 17 (titel: \"Rose dækker Bord\", ikke dateret)(afb.)|year=1915}}\n*{{citation|title=Efteraars-Udstilling : Aarhusforeningen \"Moderne Kunst\"|author=Ubekendt|others=Kat. 22 (under titlen: \"Rose dækker Bord. St. Thomas\", 1914, Privateje)|year=Ca. 1918}}\n*{{citation|title=Blomsten i kunsten|author=Christian Gether|others=afb. p. 32|year=2021}}\n |depicted place     = \n |object type        = painting\n |location           = \n |other_fields       = \n |wikidata           = Q20354441\n}} \n\n== {{int:license-header}} ==\n{{Licensed-PD-Art|PD-old-auto-expired|deathyear=1937|Cc-zero}}\n{{Statens Museum for Kunst collaboration project}}\n\n{{DEFAULTSORT:Holm, Astrid}}\n[[Category:Paintings by Astrid Holm in Statens Museum for Kunst]]\n[[Category:20th-century paintings of people in Statens Museum for Kunst]]\n[[Category:1914 paintings of women]]\n[[Category:1914 paintings from Denmark]]\n[[Category:1914 paintings in Denmark]]\n[[Category:20th-century paintings of women with pink dresses|1914]]",
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1868}}\n\n[[Category:19th-century landscape paintings in the Nationalmuseum Stockholm]]\n[[Category:Paintings by Joseph Magnus Stäck in the Nationalmuseum Stockholm]]\n[[Category:Framed paintings in the Nationalmuseum]]\n[[Category:Capri in art]]\n[[Category:1840s landscape paintings from Sweden]]\n[[Category:1840s paintings in the Nationalmuseum Stockholm]]",
         "normalized": [],
         "redirects": []
       },
       "native": [
-        4724,
-        5881
+        1000,
+        853
+      ]
+    },
+    {
+      "id": "kilian_zoll_midsummer",
+      "input": {
+        "id": "kilian_zoll_midsummer",
+        "file": "File:Midsummer Dance at Rättvik (Kilian Zoll) - Nationalmuseum - 19489.tif"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1280px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1280px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 977,
+          "attempt": 1,
+          "screenshot": "007-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1920px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1920px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1920,
+          "height": 1465,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 52123357,
+        "title": "File:Midsummer Dance at Rättvik (Kilian Zoll) - Nationalmuseum - 19489.tif",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Midsummer_Dance_at_R%C3%A4ttvik_(Kilian_Zoll)_-_Nationalmuseum_-_19489.tif",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/tiff",
+        "width": 3250,
+        "height": 2480,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-10-07 23:28:00",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Midsummer Dance at Rättvik",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Paintings of Dalarna|PD-Art (PD-old-auto)|Artworks with Wikidata item|Artworks with known accession number|PD-old-100|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Images from the Nationalmuseum Stockholm|1852 oil on canvas paintings in Sweden|Media contributed by Nationalmuseum Stockholm: 2016-10|Artworks with Wikidata item missing genre|1852 genre paintings from Sweden|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work|1850s paintings in the Nationalmuseum Stockholm|19th-century genre paintings in the Nationalmuseum Stockholm|Paintings by Kilian Zoll in the Nationalmuseum Stockholm",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Kilian_Zoll\" class=\"extiw\" title=\"w:en:Kilian Zoll\"><span title=\"Swedish painter (1818-1860)\">Kilian Zoll</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1852<div style=\"display: none;\">date QS:P571,+1852-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=19489&amp;viewType=detailView\"> Nationalmuseum</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<p>The author died in 1860, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Kilian Zoll}}\n |title                = {{en|Midsummer Dance at Rättvik}} {{sv|Midsommardans i Rättvik}}\n |wikidata             = Q18574509\n |object_type          = painting\n |description          = \n |other_fields_2       = \n |date                 = 1852\n |medium               = {{oil on canvas}}\n |dimensions           = \n* {{Size|unit=cm|width=41|height=31.5|depth=}}\n* ''Framed'': {{Size|unit=cm|width=56|height=46|depth=10}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = \n |accession number     = NM 2428\n |place of creation    = \n |source               = {{Nationalmuseum Stockholm link|19489|Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1860}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n[[Category:19th-century genre paintings in the Nationalmuseum Stockholm]]\n\n<!-- Content categories -->\n[[Category:Paintings by Kilian Zoll in the Nationalmuseum Stockholm]]\n[[Category:1850s paintings in the Nationalmuseum Stockholm|2]]\n[[Category:Paintings of Dalarna]]\n[[Category:1852 genre paintings from Sweden]]\n[[Category:1852 oil on canvas paintings in Sweden]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        3250,
+        2480
+      ]
+    },
+    {
+      "id": "egron_lundgren_fruit_sellers",
+      "input": {
+        "id": "egron_lundgren_fruit_sellers",
+        "file": "File:Egron Lundgren - Neapolitan Fruit-Sellers - NM 2255 - Nationalmuseum.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg/1280px-Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg/1280px-Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 919,
+          "attempt": 1,
+          "screenshot": "008-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 3527,
+          "height": 2532,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 103232611,
+        "title": "File:Egron Lundgren - Neapolitan Fruit-Sellers - NM 2255 - Nationalmuseum.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 3527,
+        "height": 2532,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-05-14 06:09:46",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Neapolitanska fruktförsäljare <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18599232#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Neapolitan Fruit-Sellers</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Neapolitanska fruktförsäljare <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18599232#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lsv,\"Neapolitanska fruktförsäljare <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18599232#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Neapolitan Fruit-Sellers\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "PD-old-100-expired|Paintings of Naples|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|1843 oil on canvas paintings in Sweden|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Boats on beaches in art|Italy in art by Egron Seliff Lundgren|1843 genre paintings from Sweden|1840s paintings in the Nationalmuseum Stockholm|19th-century genre paintings in the Nationalmuseum Stockholm|Paintings by Egron Lundgren in the Nationalmuseum Stockholm",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Egron_Lundgren\" class=\"extiw\" title=\"w:en:Egron Lundgren\"><span title=\"Swedish artist (1815-1875)\">Egron Lundgren</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1843 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18599232#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=19315&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1875}}\n\n[[Category:19th-century genre paintings in the Nationalmuseum Stockholm]]\n[[Category:Italy in art by Egron Seliff Lundgren]]\n[[Category:Boats on beaches in art]]\n[[Category:Paintings by Egron Lundgren in the Nationalmuseum Stockholm]]\n[[Category:1840s paintings in the Nationalmuseum Stockholm|3]]\n[[Category:1843 genre paintings from Sweden]]\n[[Category:1843 oil on canvas paintings in Sweden]]\n[[Category:Paintings of Naples]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        3527,
+        2532
+      ]
+    },
+    {
+      "id": "per_daniel_holm_laponian",
+      "input": {
+        "id": "per_daniel_holm_laponian",
+        "file": "File:Per Daniel Holm - Laponian Landscape with Reindeer and Sami - NM 6593 - Nationalmuseum.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/34/Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 657,
+          "attempt": 1,
+          "screenshot": "009-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/34/Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1000,
+          "height": 657,
+          "attempt": 1,
+          "screenshot": "009-image.png",
+          "reused": true
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 103391998,
+        "title": "File:Per Daniel Holm - Laponian Landscape with Reindeer and Sami - NM 6593 - Nationalmuseum.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/34/Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 1000,
+        "height": 657,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-04-10 12:41:42",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Lappländskt fjällandskap med renar och samer <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106365848#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Laponian Landscape with Reindeer and Sami</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Lappländskt fjällandskap med renar och samer <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106365848#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lsv,\"Lappländskt fjällandskap med renar och samer <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106365848#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Laponian Landscape with Reindeer and Sami\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Per Daniel Holm|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Landscape paintings in the Nationalmuseum Stockholm",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Per_Daniel_Holm\" class=\"extiw\" title=\"w:en:Per Daniel Holm\"><span title=\"Swedish painter (1835-1903)\">Per Daniel Holm</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1871 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106365848#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=23642&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1903}}\n\n[[Category:Landscape paintings in the Nationalmuseum Stockholm]]\n[[Category:Per Daniel Holm]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        1000,
+        657
       ]
     }
   ],
   "errors": [],
-  "manifest": "tools/painting-browser/coverage-001-first-10.json",
-  "manifestSha256": "84dd7ff13bc706c3e193324d2fa9b6c108b879b15b1f3e0da911d54cdfe38ad7",
+  "manifest": "tools/painting-browser/batch-160-candidates.json",
+  "manifestSha256": "1a776429856e67a549729e24a5ec74c9da656af025c1c0002ec8024d51dec38b",
   "totalInManifest": 10,
   "selectionComplete": true,
-  "updatedAt": "2026-11-16T19:04:02.034Z",
+  "updatedAt": "2026-11-16T19:12:17.325Z",
   "counts": {
     "selected": 10,
     "completed": 10,
