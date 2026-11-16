@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "label": "Batch 161: 20 candidate artists and files; not approved artwork bindings; full duplicate, identity, rights and visual reviews pending",
+  "items": [
+    {
+      "id": "johan_sevenbom_shipwreck",
+      "file": "File:A Shipwreck (Johan Sevenbom) - Nationalmuseum - 18027.tif",
+      "candidateArtistId": "johan_sevenbom",
+      "candidateNames": [
+        "Johan Sevenbom",
+        "Йохан Севенбом",
+        "Johan Sävenbom",
+        "Johan Sefvenbom"
+      ]
+    },
+    {
+      "id": "carl_johan_fahlcrantz_uppsala",
+      "file": "File:View of Uppsala. Landscape by Moonlight (Carl Johan Fahlcrantz) - Nationalmuseum - 19014.tif",
+      "candidateArtistId": "carl_johan_fahlcrantz",
+      "candidateNames": [
+        "Carl Johan Fahlcrantz",
+        "Карл Йохан Фалькранц"
+      ]
+    },
+    {
+      "id": "marcus_larson_burning_steamer",
+      "file": "File:Burning Steamer (Marcus Larson) - Nationalmuseum - 18217.tif",
+      "candidateArtistId": "marcus_larson",
+      "candidateNames": [
+        "Marcus Larson",
+        "Маркус Ларсон",
+        "Simon Marcus Larson",
+        "Simeon Marcus Larson"
+      ]
+    },
+    {
+      "id": "carl_stefan_bennet_home",
+      "file": "File:Interior of the Painter's Home in Stockholm (Carl Stefan Bennet) - Nationalmuseum - 18335.tif",
+      "candidateArtistId": "carl_stefan_bennet",
+      "candidateNames": [
+        "Carl Stefan Bennet",
+        "Карл Стефан Беннет"
+      ]
+    },
+    {
+      "id": "per_wickenberg_winter_fishing",
+      "file": "File:Per Gabriel Wickenberg - Vinterfiske.jpg",
+      "candidateArtistId": "per_wickenberg",
+      "candidateNames": [
+        "Per Wickenberg",
+        "Пер Викенберг",
+        "Pehr Wickenberg",
+        "Per Gabriel Wickenberg",
+        "Petter Gabriel Wickenberg",
+        "Peter Gabriel Wickenberg"
+      ]
+    },
+    {
+      "id": "gustaf_wilhelm_palm_borghese",
+      "file": "File:From Villa Borghese (Gustaf Wilhelm Palm) - Gothenburg Museum of Art - GKM 0597.tif",
+      "candidateArtistId": "gustaf_wilhelm_palm",
+      "candidateNames": [
+        "Gustaf Wilhelm Palm",
+        "Густаф Вильхельм Пальм",
+        "Gustav Wilhelm Palm"
+      ]
+    },
+    {
+      "id": "carl_wahlbom_lutzen",
+      "file": "File:Death of King Gustav II Adolf of Sweden at the Battle of Lützen (Carl Wahlbom) - Nationalmuseum - 18031.tif",
+      "candidateArtistId": "carl_wahlbom",
+      "candidateNames": [
+        "Carl Wahlbom",
+        "Карл Вальбом",
+        "Johan Wilhelm Carl Wahlbom"
+      ]
+    },
+    {
+      "id": "johan_fredrik_hockert_poster",
+      "file": "File:The Poster (Johan Fredrik Höckert) - Nationalmuseum - 23866.tif",
+      "candidateArtistId": "johan_fredrik_hockert",
+      "candidateNames": [
+        "Johan Fredrik Höckert",
+        "Йохан Фредрик Хёккерт",
+        "Johan Fredrik Hockert"
+      ]
+    },
+    {
+      "id": "per_sodermark_eichhorn",
+      "file": "File:Kristoffer Eichhorn, 1837-1889 (Per Södermark) - Nationalmuseum - 39791.tif",
+      "candidateArtistId": "per_sodermark",
+      "candidateNames": [
+        "Per Södermark",
+        "Пер Сёдермарк",
+        "Per Sodermark",
+        "Johan Per Södermark",
+        "Johan Per Sodermark"
+      ]
+    },
+    {
+      "id": "olof_johan_sodermark_bygler",
+      "file": "File:Olof Johan Södermark - Karolina Bygler. Model to the Sculptor Johan Niclas Byström - NM 1385 - Nationalmuseum.jpg",
+      "candidateArtistId": "olof_johan_sodermark",
+      "candidateNames": [
+        "Olof Johan Södermark",
+        "Олоф Йохан Сёдермарк",
+        "Olof Södermark",
+        "Olof Johan Sodermark",
+        "Olaf Johan Södermark",
+        "Johan Olaf Södermark"
+      ]
+    },
+    {
+      "id": "johan_gustaf_sandberg_mora",
+      "file": "File:King Gustav Vasa of Sweden Addressing Men from Dalarna in Mora (Johan Gustaf Sandberg) - Nationalmuseum - 19512.tif",
+      "candidateArtistId": "johan_gustaf_sandberg",
+      "candidateNames": [
+        "Johan Gustaf Sandberg",
+        "Йохан Густаф Сандберг"
+      ]
+    },
+    {
+      "id": "fredric_westin_cupid",
+      "file": "File:Cupid (Fredric Westin) - Nationalmuseum - 18246.tif",
+      "candidateArtistId": "fredric_westin",
+      "candidateNames": [
+        "Fredric Westin",
+        "Фредрик Вестин",
+        "Fredrik Westin"
+      ]
+    },
+    {
+      "id": "carl_gustaf_plagemann_fruit_seller",
+      "file": "File:Italian Fruit Seller (Carl Gustav Plagemann) - Nationalmuseum - 21730.tif",
+      "candidateArtistId": "carl_gustaf_plagemann",
+      "candidateNames": [
+        "Carl Gustaf Plagemann",
+        "Карл Густаф Плагеман",
+        "Carl Gustav Plagemann",
+        "Carl Plagemann"
+      ]
+    },
+    {
+      "id": "nils_blommer_meadow_fairies",
+      "file": "File:Ängsälvor - Nils Blommér 1850.jpg",
+      "candidateArtistId": "nils_blommer",
+      "candidateNames": [
+        "Nils Blommér",
+        "Нильс Бломмер",
+        "Nils Blommer",
+        "Nils Jakob Blommér",
+        "Nils Johan Olsson Blommér"
+      ]
+    },
+    {
+      "id": "bengt_nordenberg_communion",
+      "file": "File:Bengt Nordenberg - Celebrating Communion in a Swedish Parish Church - NG.M.00216 - National Museum of Art, Architecture and Design.jpg",
+      "candidateArtistId": "bengt_nordenberg",
+      "candidateNames": [
+        "Bengt Nordenberg",
+        "Бенгт Норденберг"
+      ]
+    },
+    {
+      "id": "carl_fredrik_kiorboe_fox_hunt",
+      "file": "File:Carl Fredrik Kiørboe - Revejakt - NG.M.00231 - National Museum of Art, Architecture and Design.jpg",
+      "candidateArtistId": "carl_fredrik_kiorboe",
+      "candidateNames": [
+        "Carl Fredrik Kiörboe",
+        "Карл Фредрик Кьёрбу",
+        "Carl Frederik Kiörboe",
+        "Carl Fredrik Kiørboe",
+        "Carl Friederich Kiørboe"
+      ]
+    },
+    {
+      "id": "gustaf_soderberg_campidoglio",
+      "file": "File:View from Piazza di Campidoglio, Roma (Gustaf Söderberg) - Nationalmuseum - 23819.tif",
+      "candidateArtistId": "gustaf_soderberg",
+      "candidateNames": [
+        "Gustaf Söderberg",
+        "Густаф Сёдерберг",
+        "Gustaf Soderberg",
+        "Gösta Söderberg",
+        "Jens Söderberg"
+      ]
+    },
+    {
+      "id": "gustaf_brusewitz_hilda",
+      "file": "File:Gustaf Henrik Brusewitz - Hilda Amalia Brusewitz (f. 1853) - NMGrh 4835 - Nationalmuseum.jpg",
+      "candidateArtistId": "gustaf_brusewitz",
+      "candidateNames": [
+        "Gustaf Brusewitz",
+        "Густаф Брусевиц",
+        "Gustaf Henrik Brusewitz"
+      ]
+    },
+    {
+      "id": "axel_nordgren_moonlight",
+      "file": "File:Axel Wilhelm Nordgren - Fiskeläge i månsken.jpg",
+      "candidateArtistId": "axel_nordgren",
+      "candidateNames": [
+        "Axel Nordgren",
+        "Аксель Нордгрен",
+        "Axel Wilhelm Nordgren",
+        "Axel Vilhelm Nordgren"
+      ]
+    },
+    {
+      "id": "carl_tragardh_grez",
+      "file": "File:Countryside near Grez-sur-Loing (Carl Trägårdh) - Nationalmuseum - 19544.tif",
+      "candidateArtistId": "carl_tragardh",
+      "candidateNames": [
+        "Carl Trägårdh",
+        "Карл Трегорд",
+        "Carl Tragardh",
+        "Carl Ludvig Trägårdh"
+      ]
+    }
+  ]
+}
