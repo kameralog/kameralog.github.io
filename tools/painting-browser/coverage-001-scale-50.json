@@ -1,0 +1,265 @@
+{
+  "schemaVersion": 1,
+  "label": "Scale to 50: 10 technical retests plus 27 reserve candidates; no automatic artwork bindings",
+  "sourceSnapshot": "c53d3f4ee28ea4431daf6a262c846cb30c72cfd3",
+  "connectionTarget": 50,
+  "candidatePoolTarget": 60,
+  "retryEvidence": {
+    "commit": "c53d3f4ee28ea4431daf6a262c846cb30c72cfd3",
+    "directory": "reports/painting-browser/runs/43943503991-1",
+    "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef"
+  },
+  "reserveSources": {
+    "games/painting/artists-batch-113.js": [
+      "fanny_churberg",
+      "dora_wahlroos"
+    ],
+    "games/painting/artists-batch-134.js": [
+      "gunnar_berndtson",
+      "oskar_kleineh",
+      "yrjo_ollila"
+    ],
+    "games/painting/artists-batch-132.js": [
+      "eero_jarnefelt",
+      "ferdinand_von_wright",
+      "victor_westerholm",
+      "werner_holmberg",
+      "magnus_von_wright",
+      "pekka_halonen"
+    ],
+    "games/painting/artists-batch-131.js": [
+      "karl_nordstrom",
+      "richard_bergh",
+      "ernst_josephson",
+      "gustaf_fjaestad",
+      "nils_kreuger"
+    ],
+    "games/painting/artists-batch-135.js": [
+      "konrad_magi",
+      "paul_raud",
+      "johann_koler",
+      "oskar_kallis",
+      "janis_rozentals",
+      "vilhelms_purvitis",
+      "janis_valters"
+    ],
+    "games/painting/artists-batch-137.js": [
+      "emil_filla",
+      "josef_manes",
+      "jan_preisler",
+      "bohumil_kubista"
+    ]
+  },
+  "notes": [
+    "Previously successful 23 works are excluded from this run.",
+    "Reserves are from existing pendingWorks, separate from the unchanged original coverage-001 queue.",
+    "Retests remove tracking queries from the same original URLs; this is a hypothesis, not a confirmed fix. Omitted zoom uses image, with both roles checked.",
+    "Retry native dimensions and rights evidence come from retryEvidence/row-NNN.json at the pinned commit; explicit URLs do not fetch fresh Commons metadata.",
+    "All reserve artwork/version/rights reviews remain open; Konrad Magi dimensions, Paul Raud study status and Bohumil Kubista US copyright basis need particular attention.",
+    "Technical checks do not approve bindings, visual review, Pages publication or game rounds."
+  ],
+  "items": [
+    {
+      "id": "coverage001_retry_034_ans_van_den_berg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/A.C._van_den_Berg_-_Bloemenstilleven_-_K738_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg",
+      "native": [
+        496,
+        485
+      ],
+      "evidenceRow": 13
+    },
+    {
+      "id": "coverage001_retry_039_antonin_slavicek",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+      "native": [
+        800,
+        688
+      ],
+      "evidenceRow": 14
+    },
+    {
+      "id": "coverage001_retry_040_antonin_chittussi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Chittussi_-_Udoli_Doubravy_%282%29.jpg",
+      "native": [
+        614,
+        345
+      ],
+      "evidenceRow": 15
+    },
+    {
+      "id": "coverage001_retry_041_arvid_liljelund",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg/1280px-Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "native": [
+        2749,
+        2029
+      ],
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg",
+      "evidenceRow": 16
+    },
+    {
+      "id": "coverage001_retry_044_augusto_giacometti",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Augusto_Giacometti_-_Chromatische_Fantasie_-_1954-0030_-_Kunsthaus_Z%C3%BCrich.jpg",
+      "native": [
+        1194,
+        1200
+      ],
+      "evidenceRow": 17
+    },
+    {
+      "id": "coverage001_retry_046_bagta",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg/1280px-Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "native": [
+        1900,
+        1326
+      ],
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg",
+      "evidenceRow": 18
+    },
+    {
+      "id": "coverage001_retry_047_baldassarre_franceschini",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg/1280px-Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "native": [
+        1302,
+        900
+      ],
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg",
+      "evidenceRow": 19
+    },
+    {
+      "id": "coverage001_retry_048_barbara_longhi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Virgin_and_Child_with_Saint%2C_Barbara_Longhi.jpg",
+      "native": [
+        389,
+        463
+      ],
+      "evidenceRow": 20
+    },
+    {
+      "id": "coverage001_retry_049_barthelemy_menn",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Barth%C3%A9lemy_Menn_002.jpg/1280px-Barth%C3%A9lemy_Menn_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "native": [
+        2024,
+        1483
+      ],
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Barth%C3%A9lemy_Menn_002.jpg",
+      "evidenceRow": 21
+    },
+    {
+      "id": "coverage001_retry_050_bela_ivanyi_grunwald",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Drying_Clothes_Grunwald.jpg",
+      "native": [
+        635,
+        800
+      ],
+      "evidenceRow": 22
+    },
+    {
+      "id": "reserve50_fanny_churberg",
+      "file": "File:Fanny Churberg - Talvimaisema, auringon mailleen mentyä - A I 189 - Finnish National Gallery.jpg"
+    },
+    {
+      "id": "reserve50_dora_wahlroos",
+      "file": "File:Dora Wahlroos - Inspiration.jpg"
+    },
+    {
+      "id": "reserve50_gunnar_berndtson",
+      "file": "File:Gunnar Berndtson - Art Connoisseurs in the Louvre.jpg"
+    },
+    {
+      "id": "reserve50_oskar_kleineh",
+      "file": "File:Oscar Kleineh - Maritime Landscape - A II 1349 - Finnish National Gallery.jpg"
+    },
+    {
+      "id": "reserve50_yrjo_ollila",
+      "file": "File:Yrjö Ollila (1887–1932)- Hearing the Homework - Läksyn kuulustelu (29568368121).jpg"
+    },
+    {
+      "id": "reserve50_eero_jarnefelt",
+      "file": "File:Eero Järnefelt - Under the Yoke (Burning the Brushwood) - Google Art Project.jpg"
+    },
+    {
+      "id": "reserve50_ferdinand_von_wright",
+      "file": "File:Ferdinand von Wright - Taistelevat metsot - 1886 - oljymaalaus - Ateneumin taidemuseo.png"
+    },
+    {
+      "id": "reserve50_victor_westerholm",
+      "file": "File:Victor Westerholm - Cows in a Birch Forest.png"
+    },
+    {
+      "id": "reserve50_werner_holmberg",
+      "file": "File:Werner Holmberg (1830–1860)- Road in Häme (A Hot Summer Day) - Maantie Hämeessä (Helteinen kesäpäivä) (29649636045).jpg"
+    },
+    {
+      "id": "reserve50_karl_nordstrom",
+      "file": "File:Karl Nordström - Storm Clouds - Google Art Project.jpg"
+    },
+    {
+      "id": "reserve50_magnus_von_wright",
+      "file": "File:Magnus von Wright - Annankatu on a Cold Winter Morning - Google Art Project.jpg"
+    },
+    {
+      "id": "reserve50_pekka_halonen",
+      "file": "File:Pekka Halonen - Oijustie.jpg"
+    },
+    {
+      "id": "reserve50_richard_bergh",
+      "file": "File:Bergh, Richard - Nordic Summer Evening - Gothenburg Museum of Art - F 7.tif"
+    },
+    {
+      "id": "reserve50_ernst_josephson",
+      "file": "File:Ernst Josephson-Näcken.jpg"
+    },
+    {
+      "id": "reserve50_gustaf_fjaestad",
+      "file": "File:Gustaf Fjæstad - Winter Evening by a River - NM 1703 - Nationalmuseum.jpg"
+    },
+    {
+      "id": "reserve50_nils_kreuger",
+      "file": "File:Nils Kreuger - Spring in Halland. Three Paintings in a Frame Sculpted by the Artist - Google Art Project.jpg"
+    },
+    {
+      "id": "reserve50_konrad_magi",
+      "file": "File:Konrad Mägi - Maastik punase pilvega - õli.JPG"
+    },
+    {
+      "id": "reserve50_paul_raud",
+      "file": "File:Paul raud magav koer.jpg"
+    },
+    {
+      "id": "reserve50_johann_koler",
+      "file": "File:Truu valvur, EKM00534 M01744 K8ler Truu valvur ACE6563.jpg"
+    },
+    {
+      "id": "reserve50_oskar_kallis",
+      "file": "File:Kalevipoeg laudu kandmas, Oskar Kallis, EKM j 190-118 M 553.jpg"
+    },
+    {
+      "id": "reserve50_janis_rozentals",
+      "file": "File:Janis Rozentāls - The Princess and the Monkey - Google Art Project.jpg"
+    },
+    {
+      "id": "reserve50_vilhelms_purvitis",
+      "file": "File:Vilhelms Purvītis - Spring Waters (Maestoso) - Google Art Project.jpg"
+    },
+    {
+      "id": "reserve50_janis_valters",
+      "file": "File:Johans Valters - Boys Bathing - Google Art Project.jpg"
+    },
+    {
+      "id": "reserve50_emil_filla",
+      "file": "File:CtenarDostojevskeho.jpg"
+    },
+    {
+      "id": "reserve50_josef_manes",
+      "file": "File:Josef Mánes - Josefina.jpg"
+    },
+    {
+      "id": "reserve50_jan_preisler",
+      "file": "File:Jan Preisler - Černé jezero (1904).jpg"
+    },
+    {
+      "id": "reserve50_bohumil_kubista",
+      "file": "File:Bohumil Kubišta - Svatý Šebestián (1912).jpg"
+    }
+  ]
+}
