@@ -1,0 +1,1248 @@
+{
+  "schemaVersion": 1,
+  "status": "passed_selected_targets",
+  "sourceCommit": "5ccb4171154a53f3d3252405ad3a630f2f0ceed8",
+  "runId": "43867812458",
+  "startedAt": "2026-11-16T12:35:24.983Z",
+  "browserSmokePassed": true,
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "rows": [
+    {
+      "id": "mina_carlson_bredberg_self_portrait",
+      "input": {
+        "id": "mina_carlson_bredberg_self_portrait",
+        "file": "File:Self portrait - Mina Carlson-Bredberg.png"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/png",
+          "width": 590,
+          "height": 747,
+          "attempt": 1,
+          "screenshot": "000-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/png",
+          "width": 590,
+          "height": 747,
+          "attempt": 1,
+          "screenshot": "000-image.png",
+          "reused": true
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 141813217,
+        "title": "File:Self portrait - Mina Carlson-Bredberg.png",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Self_portrait_-_Mina_Carlson-Bredberg.png",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/png",
+        "width": 590,
+        "height": 747,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-12-06 10:32:55",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Danish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"da\"><i>Selvportræt <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q130216028#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Self-portrait</i></div></div><div style=\"display: none;\">title QS:P1476,da:\"Selvportræt <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q130216028#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lda,\"Selvportræt <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q130216028#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Self-portrait\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "PD-old-70-expired|Artworks with Wikidata item|CC-PD-Mark|1889 oil on canvas paintings in Sweden|Artworks with Wikidata item missing author|1889 portrait paintings from Sweden|Artworks with Wikidata item missing genre|1880s self-portrait paintings of women|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Portrait paintings in Prins Eugens Waldemarsudde|1880s paintings in Prins Eugens Waldemarsudde|Self-portraits by Mina Carlson-Bredberg|Paintings by Mina Carlson-Bredberg in Prins Eugens Waldemarsudde",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Mina_Carlson-Bredberg\" class=\"extiw\" title=\"w:en:Mina Carlson-Bredberg\"><span title=\"Swedish painter (1857–1943)\">Mina Carlson-Bredberg</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "ImageDescription": {
+            "value": "Self portrait - Mina Carlson-Bredberg 1889",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1889<div style=\"display: none;\">date QS:P571,+1889-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.taldiacomohoy.es/post/mina-carlson-bredberg-1857-1943\">https://www.taldiacomohoy.es/post/mina-carlson-bredberg-1857-1943</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|description={{en|1=Self portrait - Mina Carlson-Bredberg 1889}}\n| object_type = painting\n| wikidata = Q130216028\n|date=1889\n|source=https://www.taldiacomohoy.es/post/mina-carlson-bredberg-1857-1943\n|author=Mina Carlson-Bredberg\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-old-70-expired}}\n\n[[Category:Self-portraits by Mina Carlson-Bredberg]]\n[[Category:1889 portrait paintings from Sweden]]\n[[Category:1889 oil on canvas paintings in Sweden]]\n[[Category:1880s paintings in Prins Eugens Waldemarsudde|9]]\n[[Category:Portrait paintings in Prins Eugens Waldemarsudde]]\n[[Category:1880s self-portrait paintings of women]]\n[[Category:Paintings by Mina Carlson-Bredberg in Prins Eugens Waldemarsudde]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        590,
+        747
+      ]
+    },
+    {
+      "id": "hellqvist_visby",
+      "input": {
+        "id": "hellqvist_visby",
+        "file": "File:Carl Gustaf Hellqvist - Valdemar Atterdag Holding Visby to Ransom, 1361 - Google Art Project.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg/1280px-Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg/1280px-Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 789,
+          "attempt": 1,
+          "screenshot": "001-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 3492,
+          "height": 2152,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 22264057,
+        "title": "File:Carl Gustaf Hellqvist - Valdemar Atterdag Holding Visby to Ransom, 1361 - Google Art Project.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom,_1361_-_Google_Art_Project.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 3492,
+        "height": 2152,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-07-17 23:53:20",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Valdemar Atterdag brandskattar Visby 1361</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Valdemar Atterdag brandskattar Visby 1361\"</div><div style=\"display: none;\">label QS:Lsv,\"Valdemar Atterdag brandskattar Visby 1361\"</div> <div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Valdemar Atterdag Holding Visby to Ransom, 1361</i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Valdemar Atterdag Holding Visby to Ransom, 1361\"</div><div style=\"display: none;\">label QS:Len,\"Valdemar Atterdag Holding Visby to Ransom, 1361\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Valdemar Atterdag brandskattar Visby|Google Art Project works in Nationalmuseum Stockholm|PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Google Art Project paintings|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Files from Google Arts & Culture|Google Art Project works by Carl Gustaf Hellqvist",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Carl_Gustaf_Hellqvist\" class=\"extiw\" title=\"w:en:Carl Gustaf Hellqvist\"><span title=\"Swedish artist (1851-1890)\">Carl Gustaf Hellqvist</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1882<div style=\"display: none;\">date QS:P571,+1882-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/rAGxQ58xmMByBg\">rAGxQ58xmMByBg at Google Cultural Institute</a> maximum zoom level",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n| wikidata = Q3425758\n|commons_artist={{Creator:Carl Gustaf Hellqvist}}\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_year = 1851\n|artist_death_place = Munich\n|artist_death_year = 1890\n|artist_first_name = Carl\n|artist_gender = Male\n|artist_id = 464062\n|artist_last_name = Gustaf Hellqvist\n|artist_nationality = Swedish\n|artist_pretty_display_date = (1851 - 1890)\n|absolute_url = /collection/nationalmuseum-stockholm/artwork/valdemar-atterdag-holding-visby-to-ransom-1361-carl-gustaf-hellqvist/460070/\n|artist_display_name = Carl Gustaf Hellqvist\n|canonical_artist_detail_url = /artist/carl-gustaf-hellqvist/4128297/\n|canonical_artist_id = 4128297\n|collection_detail_url = /collection/nationalmuseum-stockholm/\n|collection_display_name = Nationalmuseum Stockholm\n|collection_id = 392279\n|collection_website = http://www.nationalmuseum.se/\n|created = 12/8/2011 2:26:37 PM\n|detail_url = /collection/nationalmuseum-stockholm/artwork/valdemar-atterdag-holding-visby-to-ransom-1361-carl-gustaf-hellqvist/460070/\n|earliest_date = 1882\n|facet_medium = Oil on canvas\n|height = 2000\n|id = 460070\n|in_streetview = False\n|latest_date = 1882\n|measurement_extent = without frame\n|modified = 3/24/2012 2:34:50 AM\n|museum_internal_id = {{Nationalmuseum Stockholm link|18434|NM 1431}}\n|object_rights = Nationalmuseum\n|object_work_type = Painting\n|pivot_earliest_decade = 1880\n|pivot_latest_decade = 1890\n|pretty_dimensions = w3300 x h2000 cm\n|pretty_display_date = 1882\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.62025316455696\n|primary_image_rights = Nationalmuseum\n|record_type = Object\n|slug = valdemar-atterdag-holding-visby-to-ransom-1361-carl-gustaf-hellqvist\n|title = Valdemar Atterdag Holding Visby to Ransom, 1361\n|title_firstletter = v\n|width = 3300\n|Medium = {{technique|oil|canvas}}\n|Signature = C.G. Hellqvist. 1882.\n|Title_in_Swedish = Valdemar Atterdag brandskattar Visby 1361\n|special:url_id = rAGxQ58xmMByBg\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1890}}\n\n[[Category:Google Art Project works by Carl Gustaf Hellqvist]]\n[[Category:Valdemar Atterdag brandskattar Visby]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        3492,
+        2152
+      ]
+    },
+    {
+      "id": "kronberg_romeo_juliet",
+      "input": {
+        "id": "kronberg_romeo_juliet",
+        "file": "File:Julius Kronberg - Romeo och Julia på balkongen.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg/1280px-Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg/1280px-Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 2211,
+          "attempt": 1,
+          "screenshot": "002-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1414,
+          "height": 2442,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 25146682,
+        "title": "File:Julius Kronberg - Romeo och Julia på balkongen.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 1414,
+        "height": 2442,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-03-16 17:40:59",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Romeo and Juliet on the balcony</i></div></div><div style=\"display: none;\">label QS:Len,\"Romeo and Juliet on the balcony\"</div><div style=\"display: none;\">label QS:Lsv,\"Romeo och Julia på balkongen\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "1886 paintings|Julius Kronberg|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Tile flooring|Kisses in paintings|Bordeaux dresses|CC-PD-Mark|Paintings with signatures (lower left)|Paintings with years of production (artist)|Paintings without Wikidata item|Images from Bukowskis|Climbing in art|Plants in balconies|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Balconies in art|Dagging|Paintings of Romeo and Juliet|Balustrades in art|Ivy in paintings",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Julius_Kronberg\" class=\"extiw\" title=\"w:en:Julius Kronberg\"><span title=\"Swedish artist (1850-1921)\">Julius Kronberg</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1886<div style=\"display: none;\">date QS:P571,+1886-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "Bukowskis – Arts &amp; Business, Autumn Classic Sale 559, 7-10 December 2010, lot <a rel=\"nofollow\" class=\"external text\" href=\"https://www.bukowskis.com/en/auctions/559/118-julius-kronberg-romeo-och-julia-pa-balkongen\">118</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{creator:Julius Kronberg}}\n |author             =\n |title              = {{title|sv=Romeo och Julia på balkongen|en=Romeo and Juliet on the balcony}}\n |object type        = painting\n |description        =\n |depicted people    =\n |depicted place     =\n |date               = 1886\n |medium             = {{oil on canvas}}\n |dimensions         = {{size|cm|271.5|160}}\n |institution        =\n |department         =\n |accession number   =\n |place of creation  =\n |place of discovery =\n |object history     =\n*{{ProvenanceEvent|type=purchase|newowner=Johan Edvard Francke (1824-91), {{occupation|wholesaler}} {{and}} {{occupation|art collector}}.}}\n*Thence by descent.\n |exhibition history =\n*Kungl. akademien för de fria konsterna, Stockholm, 1887.\n*Liljevalchs konsthall, Stockholm, \"Julius Kronberg. Minnesutställning\", 11 november – 2 december 1923, kat nr 101 (omnämnd i inledande katalogessä av Karl Asplund samt avbildad helsida, illustration 1).\n |credit line        =\n |inscriptions       = {{inscription|Julius Kronberg / Roma. 1886.|type=signature/place/date|position=lower left|lang=~}}\n |notes              =\n |references         =\n |source             = Bukowskis – Arts & Business, Autumn Classic Sale 559, 7-10 December 2010, lot [https://www.bukowskis.com/en/auctions/559/118-julius-kronberg-romeo-och-julia-pa-balkongen 118]\n |permission         =\n |other_versions     =\n |wikidata           =\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1921}}\n\n[[Category:Julius Kronberg]]\n[[Category:Paintings of Romeo and Juliet]]\n[[Category:Images from Bukowskis]]\n[[Category:Kisses in paintings]]\n[[Category:Balconies in art]]\n[[Category:Balustrades in art]]\n[[Category:Dagging]]\n[[Category:Ivy in paintings]]\n[[Category:Climbing in art]]\n[[Category:Bordeaux dresses]]\n[[Category:Plants in balconies]]\n[[Category:Tile flooring]]\n[[Category:1886 paintings]]\n[[Category:Paintings with signatures (lower left)]]\n[[Category:Paintings with years of production (artist)]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        1414,
+        2442
+      ]
+    },
+    {
+      "id": "birger_montmartre",
+      "input": {
+        "id": "birger_montmartre",
+        "file": "File:A Street in Paris. Study from Montmartre (Hugo Birger) - Nationalmuseum - 18854.tif"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif/lossy-page1-1280px-A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif/lossy-page1-1280px-A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 1493,
+          "attempt": 1,
+          "screenshot": "003-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif/lossy-page1-1920px-A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif/lossy-page1-1920px-A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1920,
+          "height": 2240,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 52114418,
+        "title": "File:A Street in Paris. Study from Montmartre (Hugo Birger) - Nationalmuseum - 18854.tif",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:A_Street_in_Paris._Study_from_Montmartre_(Hugo_Birger)_-_Nationalmuseum_-_18854.tif",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/tiff",
+        "width": 2750,
+        "height": 3208,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-10-07 13:57:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "A Street in Paris. Study from Montmartre",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Paintings of Montmartre|PD-Art (PD-old-auto)|Artworks with Wikidata item|Artworks with known accession number|PD-old-100|Unknown date|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Paintings of Paris streets|Images from the Nationalmuseum Stockholm|Artworks with Wikidata item missing date|Media contributed by Nationalmuseum Stockholm: 2016-10|Unidentified streets in Paris|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work|Framed paintings in the Nationalmuseum|Paintings by Hugo Birger in the Nationalmuseum Stockholm",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Hugo_Birger\" class=\"extiw\" title=\"w:en:Hugo Birger\"><span title=\"Swedish artist (1854-1887)\">Hugo Birger</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "ImageDescription": {
+            "value": "Swedish artists often present Paris to us in small, sketchy excerpts from everyday life. These studies served as souvenirs for the artists themselves, but were also appreciated by collectors. The name of the street in this painting is unknown, but Hugo Birger was renting a studio together with Ernst Josephson on rue Gabrielle in Montmartre at the time.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Unknown date",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=18854&amp;viewType=detailView\">  Hans Thorwid / Nationalmuseum</a>",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<p>The author died in 1887, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Hugo Birger}}\n |title                = {{en|A Street in Paris. Study from Montmartre}} {{sv|Parisgata. Motiv från Montmartre}}\n |wikidata             = Q18573973\n |object_type          = painting\n |description          = {{en|Swedish artists often present Paris to us in small, sketchy excerpts from everyday life. These studies served as souvenirs for the artists themselves, but were also appreciated by collectors. The name of the street in this painting is unknown, but Hugo Birger was renting a studio together with Ernst Josephson on rue Gabrielle in Montmartre at the time.}} {{sv|Svenska konstnärer låter oss ofta möta Paris i små, skissartade brottstycken av vardagen. Dessa studier kunde fungera som souvenirer för konstnären själv, men uppskattades även av samlare. Det är inte känt vilken gata målningen föreställer, men Hugo Birger hyrde under en period en ateljé tillsammans med Ernst Josephson på Rue Gabrielle i Montmartre.}}\n |other_fields_2       = {{Information field|name={{original caption/i18n|header}}|value={{en|Swedish artists often present Paris to us in small, sketchy excerpts from everyday life. These studies served as souvenirs for the artists themselves, but were also appreciated by collectors. The name of the street in this painting is unknown, but Hugo Birger was renting a studio together with Ernst Josephson on rue Gabrielle in Montmartre at the time.}} {{sv|Svenska konstnärer låter oss ofta möta Paris i små, skissartade brottstycken av vardagen. Dessa studier kunde fungera som souvenirer för konstnären själv, men uppskattades även av samlare. Det är inte känt vilken gata målningen föreställer, men Hugo Birger hyrde under en period en ateljé tillsammans med Ernst Josephson på Rue Gabrielle i Montmartre.}}}}\n |date                 = {{unknown|date}}\n |medium               = {{Technique|Oil|on=wood}}\n |dimensions           = \n* {{Size|unit=cm|width=37|height=46|depth=}}\n* ''Framed'': {{Size|unit=cm|width=51|height=60|depth=6}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = \n |accession number     = NM 1850\n |place of creation    = \n |source               ={{Nationalmuseum Stockholm link|18854| Hans Thorwid / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1887}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n[[Category:Paintings by Hugo Birger in the Nationalmuseum Stockholm]]\n\n<!-- Content categories -->\n[[Category:Paintings of Montmartre]]\n[[Category:Framed paintings in the Nationalmuseum]]\n[[Category:Paintings of Paris streets]]\n[[Category:Unidentified streets in Paris]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        2750,
+        3208
+      ]
+    },
+    {
+      "id": "backmansson_astrom",
+      "input": {
+        "id": "backmansson_astrom",
+        "file": "File:Karl Bruno Åström (H Backmansson) - Nationalmuseum - 39049.tif"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif/lossy-page1-1280px-Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif/lossy-page1-1280px-Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 1561,
+          "attempt": 1,
+          "screenshot": "004-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif/lossy-page1-1920px-Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif/lossy-page1-1920px-Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1920,
+          "height": 2342,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 64083757,
+        "title": "File:Karl Bruno Åström (H Backmansson) - Nationalmuseum - 39049.tif",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Karl_Bruno_%C3%85str%C3%B6m_(H_Backmansson)_-_Nationalmuseum_-_39049.tif",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/tiff",
+        "width": 2126,
+        "height": 2593,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-11-15 14:43:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Karl Bruno Åström",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Hugo Backmansson|Branobel|PD-Art (PD-old)|Artworks with Wikidata item|Artworks with known accession number|Information field template with formatting|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Portrait paintings in the Nationalmuseum Stockholm|Images from the Nationalmuseum Stockholm|Portrait paintings in Gripsholms slott|Media contributed by Nationalmuseum Stockholm: 2017-11|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work|Media contributed by Nationalmuseum Stockholm: unlinked depicted|Media contributed by Nationalmuseum Stockholm: improve categories|Media contributed by Nationalmuseum Stockholm: add artist cat and commonscat to artist on wikidata",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q5563696\" class=\"extiw\" title=\"d:Q5563696\"><span title=\"Finnish painter (1860-1953)\">Hugo Backmansson</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1906<div style=\"display: none;\">date QS:P571,+1906-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "Nationalmuseum",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Nationalmuseum_Stockholm\" title=\"Nationalmuseum\"><img alt=\"Nationalmuseum\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/120px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"88\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/250px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2600\" data-file-height=\"2640\"></a></span>\n</td>\n<td>This file was provided to Wikimedia Commons by the <b>Nationalmuseum</b> (Stockholm) as part of a <b><a href=\"//commons.wikimedia.org/wiki/Commons:Nationalmuseum_Stockholm\" title=\"Commons:Nationalmuseum Stockholm\">cooperation project</a></b> with Wikimedia Sverige.\n</td>\n<td style=\"width:60px\"><span class=\"skin-invert\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige/en\" title=\"Wikimedia Sverige\"><img alt=\"Wikimedia Sverige\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"119\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"581\" data-file-height=\"435\"></a></span>\n</td></tr></tbody></table>\n<div lang=\"en\">\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color: var(--background-color-neutral-subtle, #f9f9f9); color: var(--color-base, #202122); border: 2px solid var(--border-color-muted, #dadde3); border-spacing: 8px; box-sizing: border-box; padding: 0;\" lang=\"en\" class=\"layouttemplate\" dir=\"ltr\">\n<tbody><tr>\n<td>\n<p><i>This is a faithful photographic reproduction of an original two-dimensional work of art. The work of art itself is in the <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> for the following reason:</i>\n</p>\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td rowspan=\"2\"><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 70 years or fewer</b>.\n</p>\n<hr>\n<span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"> Note that a few countries have copyright terms longer than 70 years: Mexico has 100 years, Jamaica has 95 years, Colombia has 80 years, and Guatemala and Samoa have 75 years. This image may <i>not</i> be in the public domain in these countries, which moreover do <i>not</i> implement the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a>. Honduras has a general copyright term of 75 years, but it <i>does</i> implement the rule of the shorter term. Copyright may extend on works created by French who died for France in <a href=\"https://en.wikipedia.org/wiki/World_War_II\" class=\"extiw\" title=\"w:World War II\">World War II</a> (<a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/France\" title=\"Commons:Copyright rules by territory/France\">more information</a>), Russians who served in <a href=\"https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)\" class=\"extiw\" title=\"w:Eastern Front (World War II)\">the Eastern Front of World War II</a> (known as the Great Patriotic War in Russia) and posthumously <a href=\"https://en.wikipedia.org/wiki/Rehabilitation_(Soviet)\" class=\"extiw\" title=\"w:Rehabilitation (Soviet)\">rehabilitated</a> victims of Soviet repressions (<a href=\"//commons.wikimedia.org/wiki/Template:PD-Russia\" title=\"Template:PD-Russia\">more information</a>).</div></small>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n<p>This digital reproduction has been released under the following licenses:\n</p>\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:100px\"><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>Nationalmuseum has placed those images in the Public Domain which have been acquired exclusively by digital reproduction of those works of art that are no longer protected by copyright. Nationalmuseum does not consider that a new copyright emerges for the reproduction.\n<p>Nationalmuseum has stated some guidelines below what we consider best practice when using images in the Public Domain. The guidelines below are based on the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.europeana.eu/portal/sv/rights/public-domain.html\">Europeanas Public Domain Usage Guidelines</a>, but there is <b>no legal liability</b> to comply to them. \n</p>\n<ul><li>When you use a public domain work please credit the author or creator.</li>\n<li>Please also credit Nationalmuseum and the photographer, who created the digital reproduction and made it available.</li>\n<li>When you use or modify a public domain work you should not attribute the changes to the creator or the provider of the work.</li></ul>\n<p>You can easily link to the object as a source, otherwise we recommend the following:\n</p>\n<div class=\"center\">\n<p><i>Artist: Title, Date, Nationalmuseum (Photo: photographer’s name), public domain</i>\n</p>\n</div>\n</td>\n<td style=\"width:100px\"><span typeof=\"mw:File\"><span title=\"Nationalmuseum\"><img alt=\"Nationalmuseum\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/120px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"89\" height=\"90\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/250px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2600\" data-file-height=\"2640\"></span></span>\n</td></tr>\n<tr>\n<td colspan=\"3\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n<p>In many jurisdictions, faithful reproductions of two-dimensional public domain works of art are not copyrightable. The Wikimedia Foundation's position is that these works are not copyrightable in the United States (see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Commons:Reuse of PD-Art photographs</a>). In these jurisdictions, this work is actually in the public domain and the requirements of the digital reproduction's license are not compulsory.\n</p>\n</td></tr></tbody></table></div>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "{{Artwork\n |other_fields_1       = {{depicted person|Karl Bruno Åström|style=information field}} \n |artist               = {{Creator:Hugo Backmansson}}\n |title                = {{sv|Karl Bruno Åström}}\n |wikidata             = Q18584382\n |object_type          = painting\n |description          = \n |other_fields_2       = \n |date                 = 1906\n |medium               = {{sv|Olja}}\n |dimensions           = {{Size|unit=cm|width=50|height=64|depth=}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |department           = {{Institution:Gripsholm Castle}}\n |inscriptions         = \n |accession number     = {{Nationalmuseum Stockholm link|39049|NMGrh 3103}}\n |place of creation    = \n |source               = Nationalmuseum\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: add artist cat and commonscat to artist on wikidata]]\n[[Category:Media contributed by Nationalmuseum Stockholm: improve categories]]\n[[Category:Media contributed by Nationalmuseum Stockholm: 2017-11]]\n[[Category:Portrait paintings in Gripsholms slott]]\n[[Category:Media contributed by Nationalmuseum Stockholm: unlinked depicted]]\n[[Category:Portrait paintings in the Nationalmuseum Stockholm]]\n[[Category:Hugo Backmansson]]\n[[Category:Branobel]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        2126,
+        2593
+      ]
+    },
+    {
+      "id": "rosenberg_winter_sunset",
+      "input": {
+        "id": "rosenberg_winter_sunset",
+        "file": "File:Edward Rosenberg-Solnedgång i vinterlandskap.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg/1280px-Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg/1280px-Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 787,
+          "attempt": 1,
+          "screenshot": "005-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 2331,
+          "height": 1434,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 7686585,
+        "title": "File:Edward Rosenberg-Solnedgång i vinterlandskap.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 2331,
+        "height": 1434,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2009-08-29 19:36:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Solnedgång i vinterlandskap</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Solnedgång i vinterlandskap\"</div><div style=\"display: none;\">label QS:Lsv,\"Solnedgång i vinterlandskap\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Edward Rosenberg|1921 paintings|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|PD-old-80-expired|20th-century paintings of sunsets|CC-PD-Mark|Oil paintings of landscapes|Artworks missing digital representation of for 2D work|Artworks with Wikidata item missing genre|Artworks with SDC link missing|1921 landscape paintings",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q6079525\" class=\"extiw\" title=\"d:Q6079525\"><span title=\"Swedish artist (1858–1934)\">Edward Rosenberg</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1921<div style=\"display: none;\">date QS:P571,+1921-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "www.norrkopingsauktionsverk.se",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|wikidata = Q141677388\n|Title = {{title|lang=sv|Solnedgång i vinterlandskap}}\n|Artist = {{Creator:Edward Rosenberg}}\n|Year = 1921\n|object type = painting \n|Technique = {{Technique|oil|canvas}}\n|Dimensions = {{size|cm|58|93}}\n|Gallery = \n|Location = \n|Source = www.norrkopingsauktionsverk.se\n|Permission = Public domain\n|Other versions = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1934}}\n\n[[Category:Edward Rosenberg]]\n[[Category:1921 paintings]]\n[[Category:1921 landscape paintings]]\n[[Category:Oil paintings of landscapes]]\n[[Category:20th-century paintings of sunsets]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        2331,
+        1434
+      ]
+    },
+    {
+      "id": "westman_skagen",
+      "input": {
+        "id": "westman_skagen",
+        "file": "File:Edvard Westman - Autumn in Skagen Plantation - Google Art Project.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 579,
+          "height": 452,
+          "attempt": 1,
+          "screenshot": "006-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 579,
+          "height": 452,
+          "attempt": 1,
+          "screenshot": "006-image.png",
+          "reused": true
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 29868392,
+        "title": "File:Edvard Westman - Autumn in Skagen Plantation - Google Art Project.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 579,
+        "height": 452,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-11-26 18:12:06",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Autumn in Skagen Plantation",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Edvard Westman|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Template Unknown (author)|CC-PD-Mark|Paintings in Skagens Museum|Google Art Project works in Skagens Museum|Google Art Project works by Edvard Westman",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<div class=\"fn value\">\n<p>Unknown author<span style=\"display: none;\">Unknown author</span>\n</p>\n(1865-05-16/1917-09-23)</div>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1888<div style=\"display: none;\">date QS:P571,+1888-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/sgHT4OzKkxd4qw\">sgHT4OzKkxd4qw at Google Cultural Institute</a>, zoom level maximum",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|commons:artist=\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions=\n|commons:institution={{Institution:Skagens Museum}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions=\n|commons:zoom=\n\n|core:title = {{en|1=Autumn in Skagen Plantation}}\n|core:date.dateCreated = 1888\n|core:format = {{en|1=w45 x h35 cm (Without frame)}}\n|core:type = {{en|1=Oil on canvas}}\n|core:rights = {{en|1=Skagens Museum}}\n|art:artist_date = 1865-05-16/1917-09-23\n|art:artist_nationality = {{en|1=Swedish}}\n|c-0d8a08e5:customtext.original_title = {{da|Efterår i Skagen plantage}}\n|c-0d8a08e5:customtext.german_title = {{en|1=Herbst im Skagener Forst}}\n|c-0d8a08e5:creator.painter = {{en|1=Edvard Westman}}\n|google:display_date = 1888\n|google:is_artproject = TRUE\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:street_view_asset/id = EgG8_cSw-IrjfQ\n|google:street_view_level/id = 6291987383502185979\n|google:street_view_location = 57.724655151367188,10.59737491607666,2.4000000953674316,41q4hFRQOI_KDwsq_8nzww\n|google:partner/id = 000000000d8a08e5\n|google:picasa_token = LPyMcbYa5jwNTaJy3trcNkCvEp4\n|special:url_id = sgHT4OzKkxd4qw\n|google:partner/name = Skagens Museum\n|special:partner/name_no_lang = Skagens Museum\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1917}}\n\n[[Category:Edvard Westman]]\n[[Category:Google Art Project works by Edvard Westman]]\n[[Category:Paintings in Skagens Museum]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        579,
+        452
+      ]
+    },
+    {
+      "id": "cederstrom_charles_xii",
+      "input": {
+        "id": "cederstrom_charles_xii",
+        "file": "File:Gustaf Cederström - Bringing Home the Body of King Karl XII of Sweden - Google Art Project.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/1280px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/1280px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 1280,
+          "height": 910,
+          "attempt": 1,
+          "screenshot": "007-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/3840px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/3840px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 3840,
+          "height": 2730,
+          "attempt": 1
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 22007143,
+        "title": "File:Gustaf Cederström - Bringing Home the Body of King Karl XII of Sweden - Google Art Project.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 11077,
+        "height": 7875,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2012-10-10 20:39:12",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Karl XIIs likfärd</i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Bringing Home the Body of King Karl XII of Sweden</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Karl XIIs likfärd\"</div><div style=\"display: none;\">label QS:Lsv,\"Karl XIIs likfärd\"</div> <div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Bringing Home the Body of King Karl XII of Sweden</i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Bringing Home the Body of King Karl XII of Sweden\"</div><div style=\"display: none;\">label QS:Len,\"Bringing Home the Body of King Karl XII of Sweden\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Google Art Project works in Nationalmuseum Stockholm|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Large images|PD-old-80-expired|CC-PD-Mark|Google Art Project paintings|Artworks digital representation of 2D work|Files from Google Arts & Culture|Google Art Project works by Gustaf Cederström|Funeral procession of King Charles XII (Cederström)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Gustaf_Cederstr%C3%B6m\" class=\"extiw\" title=\"w:en:Gustaf Cederström\"><span title=\"Swedish painter (1845-1933)\">Gustaf Cederström</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1884<div style=\"display: none;\">date QS:P571,+1884-00-00T00:00:00Z/9</div>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/YAGDNp0MUOntjA\">YAGDNp0MUOntjA at Google Cultural Institute</a> maximum zoom level",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "{{LargeImage}}\n=={{int:filedesc}}==\n{{Google Art Project\n | wikidata = Q10543734\n|commons_artist=\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_year = 1845\n|artist_death_year = 1933\n|artist_first_name = Gustaf\n|artist_gender = Male\n|artist_id = 467064\n|artist_last_name = Cederström\n|artist_nationality = \n|artist_pretty_display_date = \n|absolute_url = /collection/nationalmuseum-stockholm/artwork/bringing-home-the-body-of-king-karl-xii-of-sweden-gustaf-cederstrom/467065/\n|artist_display_name = {{Creator:Gustaf Cederström}}\n|canonical_artist_detail_url = /artist/gustaf-cederstrom/4130259/\n|canonical_artist_id = 4130259\n|collection_detail_url = /collection/nationalmuseum-stockholm/\n|collection_display_name = Nationalmuseum Stockholm\n|collection_id = 392279\n|collection_website = http://www.nationalmuseum.se/\n|created = 12/8/2011 2:26:56 PM\n|detail_url = /collection/nationalmuseum-stockholm/artwork/bringing-home-the-body-of-king-karl-xii-of-sweden-gustaf-cederstrom/467065/\n|earliest_date = 1884\n|facet_medium = Oil on canvas\n|height = 2650\n|id = 467065\n|in_streetview = False\n|latest_date = 1884\n|measurement_extent = without frame\n|modified = 3/24/2012 2:45:36 AM\n|museum_internal_id = {{Nationalmuseum Stockholm link|18366|NM 1363}}\n|object_rights = Nationalmuseum\n|object_work_type = Painting\n|pivot_earliest_decade = 1880\n|pivot_latest_decade = 1890\n|pretty_dimensions = w3710 x h2650 cm\n|pretty_display_date = 1884\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.40659340659341\n|primary_image_rights = Nationalmuseum\n|record_type = Object\n|slug = bringing-home-the-body-of-king-karl-xii-of-sweden-gustaf-cederstrom\n|title = Bringing Home the Body of King Karl XII of Sweden\n|title_firstletter = b\n|width = 3710\n|Medium = {{technique|oil|canvas}}\n|Signature = G. Cederström Krusenberg 1884.\n|Title_in_Swedish = Karl XIIs likfärd\n|special:url_id = YAGDNp0MUOntjA\n}}\n=={{int:license-header}}==\n{{PD-Art-two-auto|1933}}\n[[Category:Google Art Project works by Gustaf Cederström]]\n\n[[Category:Funeral procession of King Charles XII (Cederström)| ]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        11077,
+        7875
+      ]
+    },
+    {
+      "id": "wallander_signhild",
+      "input": {
+        "id": "wallander_signhild",
+        "file": "File:Signhild.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Signhild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Signhild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 480,
+          "height": 580,
+          "attempt": 1,
+          "screenshot": "008-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Signhild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Signhild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 480,
+          "height": 580,
+          "attempt": 1,
+          "screenshot": "008-image.png",
+          "reused": true
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 6435569,
+        "title": "File:Signhild.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Signhild.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/03/Signhild.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 480,
+        "height": 580,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2009-04-07 08:38:13",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Signild bränner sig inne i sin jungfrubur</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "1861 paintings from Sweden|PD Old|Artworks with Wikidata item|CC-PD-Mark|Artworks digital representation of 2D work|Paintings of Norse mythology from Sweden|Paintings of mythological couples|Paintings by Wilhelm Wallander",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Josef_Wilhelm_Wallander\" class=\"extiw\" title=\"w:en:Josef Wilhelm Wallander\"><span title=\"Swedish artist and painter (1821-1888)\">Josef Wilhelm Wallander</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1861 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q76632157#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "en.wiki",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "=={{int:filedesc}}==\n{{artwork\n|title    = {{title|Signild bränner sig inne i sin jungfrubur}}\n|Source   = en.wiki\n|wikidata = Q76632157\n}}\n\n=={{int:license-header}}==\n{{PD-old}}\n\n[[Category:Paintings by Wilhelm Wallander]]\n[[Category:Paintings of Norse mythology from Sweden]]\n[[Category:Paintings of mythological couples]]\n[[Category:1861 paintings from Sweden]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        480,
+        580
+      ]
+    },
+    {
+      "id": "troili_self_portrait",
+      "input": {
+        "id": "troili_self_portrait",
+        "file": "File:Uno Troili - Self-portrait - NM 7545 - Nationalmuseum.jpg"
+      },
+      "status": "passed",
+      "checks": [
+        {
+          "role": "image",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 884,
+          "height": 1000,
+          "attempt": 1,
+          "screenshot": "009-image.png"
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "finalURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "http": 200,
+          "mime": "image/jpeg",
+          "width": 884,
+          "height": 1000,
+          "attempt": 1,
+          "screenshot": "009-image.png",
+          "reused": true
+        }
+      ],
+      "identityReviewed": false,
+      "rightsReviewed": false,
+      "imageVisuallyReviewed": false,
+      "metadata": {
+        "pageid": 103262247,
+        "title": "File:Uno Troili - Self-portrait - NM 7545 - Nationalmuseum.jpg",
+        "descriptionURL": "https://commons.wikimedia.org/wiki/File:Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg",
+        "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "mime": "image/jpeg",
+        "width": 884,
+        "height": 1000,
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-04-08 00:41:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Self-portrait <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106368471#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Self-portrait <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106368471#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Self-portrait <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106368471#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lsv,\"Självporträtt\"</div><div style=\"display: none;\">label QS:Lfr,\"Autoportrait\"</div></div>",
+            "source": "commons-desc-page"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Uno Troili|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Portrait paintings in the Nationalmuseum Stockholm|Artworks digital representation of 2D work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Artist": {
+            "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Uno_Troili\" class=\"extiw\" title=\"w:en:Uno Troili\"><span title=\"Swedish painter (1815-1875)\">Uno Troili</span></a></bdi>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "between 1848 and 1852<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1848-00-00T00:00:00Z/9,P1326,+1852-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106368471#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=237296&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "Public domain",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Public domain",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Copyrighted": {
+            "value": "False",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "pd",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        },
+        "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1875}}\n\n[[Category:Portrait paintings in the Nationalmuseum Stockholm]]\n[[Category:Uno Troili]]",
+        "normalized": [],
+        "redirects": []
+      },
+      "native": [
+        884,
+        1000
+      ]
+    }
+  ],
+  "errors": [],
+  "manifest": "tools/painting-browser/targets.json",
+  "manifestSha256": "df42603d8729f8df72567053f9c0590df3a47ed57545b5dd9faf3fd084898f9e",
+  "totalInManifest": 10,
+  "selectionComplete": true,
+  "updatedAt": "2026-11-16T12:35:38.588Z",
+  "counts": {
+    "selected": 10,
+    "completed": 10,
+    "passed": 10,
+    "failed": 0
+  },
+  "playwrightVersion": "1.65.1",
+  "browserVersion": "159.0.8154.6"
+}
