@@ -116,6 +116,10 @@
     {
       "title": "Репродукция: Венера Урбинская",
       "url": "https://commons.wikimedia.org/wiki/File:Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет папы Сикста IV",
+      "url": "https://commons.wikimedia.org/wiki/File:Tizian_Portrait_Papst_Sixtus_IV_ca._1545-46_Uffizien_Florenz-01.jpg"
     }
   ],
   "works": [
@@ -279,6 +283,13 @@
       "date": "1538",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://commons.wikimedia.org/wiki/File:Tiziano%27s_Venere_di_Urbino_%28from_The_History_BLog%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-deferred1:Q50422860",
+      "title": "Портрет папы Сикста IV",
+      "date": "около 1545–1546",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Tizian_Portrait_Papst_Sixtus_IV_ca._1545-46_Uffizien_Florenz-01.jpg"
     }
   ],
   "pendingWorksCount": 0

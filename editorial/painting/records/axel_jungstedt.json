@@ -1,0 +1,53 @@
+{
+  "id": "axel_jungstedt",
+  "name": "Аксель Юнгстедт",
+  "latin": "Axel Jungstedt",
+  "life": "1859–1933",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Выбранная работа связана со Швейцарией: иностранное место мотива не меняет авторство.",
+      "Для карточки выбран холст 1886 года из Nationalmuseum. Размеры взяты из текущего музейного паспорта, а не механически перенесены из старой записи Commons."
+    ],
+    "technique": [
+      "Масло на холсте; 115,2 × 137,2 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Для карточки выбран холст 1886 года из Nationalmuseum. Размеры взяты из текущего музейного паспорта, а не механически перенесены из старой записи Commons.",
+    "caution": "Музей: 115,2 × 137,2 см; Commons: 120 × 138 см. Использованы текущие музейные размеры; причина расхождения не установлена. Подпись указывает Unterwalden 1886. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18383/"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:In_the_Quarry._Motif_from_Switzerland_%28Axel_Jungstedt%29_-_Nationalmuseum_-_18383.tif"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52132702"
+    },
+    {
+      "title": "Музейный паспорт",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18383/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_52132702",
+      "title": "В каменоломне. Мотив из Швейцарии",
+      "date": "1886",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:In_the_Quarry._Motif_from_Switzerland_%28Axel_Jungstedt%29_-_Nationalmuseum_-_18383.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

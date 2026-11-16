@@ -46,6 +46,10 @@
     {
       "title": "Репродукция: Сельский концерт",
       "url": "https://commons.wikimedia.org/wiki/File:Guercino_Concerto_campestre.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Себастьян",
+      "url": "https://commons.wikimedia.org/wiki/File:Guercino_-_San_Sebastiano,_1652.jpg"
     }
   ],
   "works": [
@@ -83,6 +87,13 @@
       "date": "около 1617",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://commons.wikimedia.org/wiki/File:Guercino_Concerto_campestre.jpg"
+    },
+    {
+      "key": "wiki-uffizi-deferred1:Q134409392",
+      "title": "Святой Себастьян",
+      "date": "1652",
+      "museum": "Галерея Палатина, Палаццо Питти; Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Guercino_-_San_Sebastiano,_1652.jpg"
     }
   ],
   "pendingWorksCount": 0

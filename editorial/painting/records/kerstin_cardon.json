@@ -1,0 +1,49 @@
+{
+  "id": "kerstin_cardon",
+  "name": "Керстин Кардон",
+  "latin": "Kerstin Cardon",
+  "life": "1843–1924",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведская художница и преподаватель рисунка. В источниках также встречается полное имя Kristina Mathilda Cardon.",
+      "Выбран портрет Клары Лёфгрен, 1891. Автор — Кардон, изображённая художница — Лёфгрен; дата музейной фотографии не меняет дату портрета."
+    ],
+    "technique": [
+      "Масло на деревянной панели; 28 × 23 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран портрет Клары Лёфгрен, 1891. Автор — Кардон, изображённая художница — Лёфгрен; дата музейной фотографии не меняет дату портрета.",
+    "caution": "Gotogo — фотограф, не автор картины. 2026-07-14 — дата фотографии, не живописи. Основа — дерево, не холст. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://commons.wikimedia.org/wiki/Creator:Kerstin_Cardon"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Kerstin_Cardon%2C_Portrait_of_Clara_L%C3%B6fgren_%281891%29.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=196701508"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_196701508",
+      "title": "Портрет Клары Лёфгрен",
+      "date": "1891",
+      "museum": "Östergötlands museum, Linköping",
+      "source": "https://commons.wikimedia.org/wiki/File:Kerstin_Cardon%2C_Portrait_of_Clara_L%C3%B6fgren_%281891%29.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

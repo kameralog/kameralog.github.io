@@ -1,5 +1,40 @@
 [
   {
+    "id": "marie_gabrielle_capet",
+    "name": "Мари-Габриэль Капе",
+    "path": "records/marie_gabrielle_capet.json"
+  },
+  {
+    "id": "marie_guillemine_benoist",
+    "name": "Мари-Гийемин Бенуа",
+    "path": "records/marie_guillemine_benoist.json"
+  },
+  {
+    "id": "marie_denise_villers",
+    "name": "Мари-Дениз Виллер",
+    "path": "records/marie_denise_villers.json"
+  },
+  {
+    "id": "marianne_stokes",
+    "name": "Марианна Стокс",
+    "path": "records/marianne_stokes.json"
+  },
+  {
+    "id": "marinus_van_reymerswale",
+    "name": "Маринус ван Реймерсвале",
+    "path": "records/marinus_van_reymerswale.json"
+  },
+  {
+    "id": "mario_balassi",
+    "name": "Марио Баласси",
+    "path": "records/mario_balassi.json"
+  },
+  {
+    "id": "mariotto_albertinelli",
+    "name": "Мариотто Альбертинелли",
+    "path": "records/mariotto_albertinelli.json"
+  },
+  {
     "id": "marie_bashkirtseff",
     "name": "Мария Башкирцева",
     "path": "records/marie_bashkirtseff.json"
@@ -463,40 +498,5 @@
     "id": "oskar_laske",
     "name": "Оскар Ласке",
     "path": "records/oskar_laske.json"
-  },
-  {
-    "id": "otakar_lebeda",
-    "name": "Отакар Лебеда",
-    "path": "records/otakar_lebeda.json"
-  },
-  {
-    "id": "otto_bache",
-    "name": "Отто Баке",
-    "path": "records/otto_bache.json"
-  },
-  {
-    "id": "pablo_picasso",
-    "name": "Пабло Пикассо",
-    "path": "records/pablo_picasso.json"
-  },
-  {
-    "id": "filonov",
-    "name": "Павел Филонов",
-    "path": "records/filonov.json"
-  },
-  {
-    "id": "pal_bohm",
-    "name": "Пал Бём",
-    "path": "records/pal_bohm.json"
-  },
-  {
-    "id": "pal_szinyei_merse",
-    "name": "Пал Синьеи-Мерше",
-    "path": "records/pal_szinyei_merse.json"
-  },
-  {
-    "id": "paolo_veronese",
-    "name": "Паоло Веронезе",
-    "path": "records/paolo_veronese.json"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "id": "anton_romako",
+    "name": "Антон Ромако",
+    "path": "records/anton_romako.json"
+  },
+  {
+    "id": "anton_faistauer",
+    "name": "Антон Файстауэр",
+    "path": "records/anton_faistauer.json"
+  },
+  {
     "id": "anton_hansch",
     "name": "Антон Ханш",
     "path": "records/anton_hansch.json"
@@ -488,15 +498,5 @@
     "id": "wilhelm_bendz",
     "name": "Вильгельм Бендз",
     "path": "records/wilhelm_bendz.json"
-  },
-  {
-    "id": "wilhelm_marstrand",
-    "name": "Вильгельм Марстранн",
-    "path": "records/wilhelm_marstrand.json"
-  },
-  {
-    "id": "vilhelms_purvitis",
-    "name": "Вильгельм Пурвитис",
-    "path": "records/vilhelms_purvitis.json"
   }
 ]

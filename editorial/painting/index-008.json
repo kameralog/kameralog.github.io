@@ -1,5 +1,45 @@
 [
   {
+    "id": "sebastiano_conca",
+    "name": "Себастьяно Конка",
+    "path": "records/sebastiano_conca.json"
+  },
+  {
+    "id": "sebastiano_ricci",
+    "name": "Себастьяно Риччи",
+    "path": "records/sebastiano_ricci.json"
+  },
+  {
+    "id": "severin_nilsson",
+    "name": "Северин Нильссон",
+    "path": "records/severin_nilsson.json"
+  },
+  {
+    "id": "severin_falkman",
+    "name": "Северин Фалькман",
+    "path": "records/severin_falkman.json"
+  },
+  {
+    "id": "seraphine_louis",
+    "name": "Серафина Луи",
+    "path": "records/seraphine_louis.json"
+  },
+  {
+    "id": "cecilia_beaux",
+    "name": "Сесилия Бо",
+    "path": "records/cecilia_beaux.json"
+  },
+  {
+    "id": "cecile_douard",
+    "name": "Сесиль Дуар",
+    "path": "records/cecile_douard.json"
+  },
+  {
+    "id": "sigrid_granfelt",
+    "name": "Сигрид Гранфельт",
+    "path": "records/sigrid_granfelt.json"
+  },
+  {
     "id": "simon_vouet",
     "name": "Симон Вуэ",
     "path": "records/simon_vouet.json"
@@ -183,6 +223,11 @@
     "id": "tyko_sallinen",
     "name": "Тюко Саллинен",
     "path": "records/tyko_sallinen.json"
+  },
+  {
+    "id": "tyra_kleen",
+    "name": "Тюра Клеен",
+    "path": "records/tyra_kleen.json"
   },
   {
     "id": "wu_daozi",
@@ -453,50 +498,5 @@
     "id": "francesco_francia",
     "name": "Франческо Франча",
     "path": "records/francesco_francia.json"
-  },
-  {
-    "id": "francesco_furini",
-    "name": "Франческо Фурини",
-    "path": "records/francesco_furini.json"
-  },
-  {
-    "id": "francesco_zuccarelli",
-    "name": "Франческо Цуккарелли",
-    "path": "records/francesco_zuccarelli.json"
-  },
-  {
-    "id": "frederik_vermehren",
-    "name": "Фредерик Вермерен",
-    "path": "records/frederik_vermehren.json"
-  },
-  {
-    "id": "frederick_de_moucheron",
-    "name": "Фредерик де Мушерон",
-    "path": "records/frederick_de_moucheron.json"
-  },
-  {
-    "id": "frederik_christian_kiaerskou",
-    "name": "Фредерик Кристиан Кьерскоу",
-    "path": "records/frederik_christian_kiaerskou.json"
-  },
-  {
-    "id": "frederic_remington",
-    "name": "Фредерик Ремингтон",
-    "path": "records/frederic_remington.json"
-  },
-  {
-    "id": "frederik_rohde",
-    "name": "Фредерик Роде",
-    "path": "records/frederik_rohde.json"
-  },
-  {
-    "id": "frederik_sodring",
-    "name": "Фредерик Сёдринг",
-    "path": "records/frederik_sodring.json"
-  },
-  {
-    "id": "frederic_edwin_church",
-    "name": "Фредерик Эдвин Чёрч",
-    "path": "records/frederic_edwin_church.json"
   }
 ]

@@ -105,6 +105,11 @@
     "path": "records/axel_helsted.json"
   },
   {
+    "id": "axel_jungstedt",
+    "name": "Аксель Юнгстедт",
+    "path": "records/axel_jungstedt.json"
+  },
+  {
     "id": "alvar_cawen",
     "name": "Алвар Кавен",
     "path": "records/alvar_cawen.json"
@@ -400,6 +405,11 @@
     "path": "records/anna_lea_merritt.json"
   },
   {
+    "id": "anna_munthe_norstedt",
+    "name": "Анна Мунте-Норстедт",
+    "path": "records/anna_munthe_norstedt.json"
+  },
+  {
     "id": "anna_palm_de_rosa",
     "name": "Анна Пальм де Роса",
     "path": "records/anna_palm_de_rosa.json"
@@ -488,15 +498,5 @@
     "id": "anton_raphael_mengs",
     "name": "Антон Рафаэль Менгс",
     "path": "records/anton_raphael_mengs.json"
-  },
-  {
-    "id": "anton_romako",
-    "name": "Антон Ромако",
-    "path": "records/anton_romako.json"
-  },
-  {
-    "id": "anton_faistauer",
-    "name": "Антон Файстауэр",
-    "path": "records/anton_faistauer.json"
   }
 ]

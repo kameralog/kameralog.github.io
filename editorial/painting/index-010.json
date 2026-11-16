@@ -1,5 +1,50 @@
 [
   {
+    "id": "elizabeth_butler",
+    "name": "Элизабет Батлер",
+    "path": "records/elizabeth_butler.json"
+  },
+  {
+    "id": "elizabeth_jane_gardner",
+    "name": "Элизабет Джейн Гарднер",
+    "path": "records/elizabeth_jane_gardner.json"
+  },
+  {
+    "id": "elisabeth_jerichau_baumann",
+    "name": "Элизабет Йерихау-Бауман",
+    "path": "records/elisabeth_jerichau_baumann.json"
+  },
+  {
+    "id": "elisabeth_keyser",
+    "name": "Элизабет Кейзер",
+    "path": "records/elisabeth_keyser.json"
+  },
+  {
+    "id": "elisabeth_louise_vigee_le_brun",
+    "name": "Элизабет Луиза Виже-Лебрен",
+    "path": "records/elisabeth_louise_vigee_le_brun.json"
+  },
+  {
+    "id": "elizabeth_nourse",
+    "name": "Элизабет Нурс",
+    "path": "records/elizabeth_nourse.json"
+  },
+  {
+    "id": "elizabeth_forbes",
+    "name": "Элизабет Форбс",
+    "path": "records/elizabeth_forbes.json"
+  },
+  {
+    "id": "elisabeth_sophie_cheron",
+    "name": "Элизабет-Софи Шерон",
+    "path": "records/elisabeth_sophie_cheron.json"
+  },
+  {
+    "id": "elisabetta_sirani",
+    "name": "Элизабетта Сирани",
+    "path": "records/elisabetta_sirani.json"
+  },
+  {
     "id": "elin_danielson_gambogi",
     "name": "Элин Даниельсон-Гамбоджи",
     "path": "records/elin_danielson_gambogi.json"
@@ -68,6 +113,11 @@
     "id": "emil_filla",
     "name": "Эмиль Филла",
     "path": "records/emil_filla.json"
+  },
+  {
+    "id": "emil_osterman",
+    "name": "Эмиль Эстерман",
+    "path": "records/emil_osterman.json"
   },
   {
     "id": "emil_jakob_schindler",
@@ -448,35 +498,5 @@
     "id": "janis_tillbergs",
     "name": "Янис Робертс Тилбергс",
     "path": "records/janis_tillbergs.json"
-  },
-  {
-    "id": "janis_rozentals",
-    "name": "Янис Розенталс",
-    "path": "records/janis_rozentals.json"
-  },
-  {
-    "id": "janos_vaszary",
-    "name": "Янош Васари",
-    "path": "records/janos_vaszary.json"
-  },
-  {
-    "id": "janos_nagy_balogh",
-    "name": "Янош Надь-Балог",
-    "path": "records/janos_nagy_balogh.json"
-  },
-  {
-    "id": "janos_thorma",
-    "name": "Янош Торма",
-    "path": "records/janos_thorma.json"
-  },
-  {
-    "id": "janos_tornyai",
-    "name": "Янош Торняи",
-    "path": "records/janos_tornyai.json"
-  },
-  {
-    "id": "janus_la_cour",
-    "name": "Янус ла Кур",
-    "path": "records/janus_la_cour.json"
   }
 ]

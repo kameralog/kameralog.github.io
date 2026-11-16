@@ -1,0 +1,32 @@
+[
+  {
+    "id": "janis_rozentals",
+    "name": "Янис Розенталс",
+    "path": "records/janis_rozentals.json"
+  },
+  {
+    "id": "janos_vaszary",
+    "name": "Янош Васари",
+    "path": "records/janos_vaszary.json"
+  },
+  {
+    "id": "janos_nagy_balogh",
+    "name": "Янош Надь-Балог",
+    "path": "records/janos_nagy_balogh.json"
+  },
+  {
+    "id": "janos_thorma",
+    "name": "Янош Торма",
+    "path": "records/janos_thorma.json"
+  },
+  {
+    "id": "janos_tornyai",
+    "name": "Янош Торняи",
+    "path": "records/janos_tornyai.json"
+  },
+  {
+    "id": "janus_la_cour",
+    "name": "Янус ла Кур",
+    "path": "records/janus_la_cour.json"
+  }
+]

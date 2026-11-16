@@ -1,0 +1,49 @@
+{
+  "id": "johan_axel_gustaf_acke",
+  "name": "Йохан Аксель Густаф Акке",
+  "latin": "Johan Axel Gustaf Acke",
+  "life": "1859–1924",
+  "tag": "Швеция / финские художественные связи · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец, рисовальщик и скульптор, один из ранних участников шведско-финской колонии художников в Оннингебю на Аландских островах.",
+      "Выбрана «Почтовая лодка в паковых льдах», 1889. Небольшой книжный снимок доступен, но его не выдаём за высокодетальную музейную оцифровку."
+    ],
+    "technique": [
+      "Масло; основа и размеры не установлены",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана «Почтовая лодка в паковых льдах», 1889. Небольшой книжный снимок доступен, но его не выдаём за высокодетальную музейную оцифровку.",
+    "caution": "Оригинал 517 × 329 пикселей, без увеличения. Книга-источник не названа; следующее действие — найти более крупную музейную репродукцию той же работы. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://sv.wikipedia.org/wiki/J.A.G._Acke"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Postb%C3%A5t_i_packis_av_JAG_Acke.JPG"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=5968633"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_5968633",
+      "title": "Почтовая лодка в паковых льдах",
+      "date": "1889",
+      "museum": "Собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Postb%C3%A5t_i_packis_av_JAG_Acke.JPG"
+    }
+  ],
+  "pendingWorksCount": 0
+}

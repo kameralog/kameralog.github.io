@@ -1,5 +1,20 @@
 [
   {
+    "id": "wilhelm_marstrand",
+    "name": "Вильгельм Марстранн",
+    "path": "records/wilhelm_marstrand.json"
+  },
+  {
+    "id": "vilhelms_purvitis",
+    "name": "Вильгельм Пурвитис",
+    "path": "records/vilhelms_purvitis.json"
+  },
+  {
+    "id": "wilhelm_smith",
+    "name": "Вильгельм Смит",
+    "path": "records/wilhelm_smith.json"
+  },
+  {
     "id": "vilmos_aba_novak",
     "name": "Вильмош Аба-Новак",
     "path": "records/vilmos_aba_novak.json"
@@ -483,20 +498,5 @@
     "id": "giovanni_battista_recco",
     "name": "Джованни Баттиста Рекко",
     "path": "records/giovanni_battista_recco.json"
-  },
-  {
-    "id": "giovanni_battista_ruoppolo",
-    "name": "Джованни Баттиста Руопполо",
-    "path": "records/giovanni_battista_ruoppolo.json"
-  },
-  {
-    "id": "giovanni_battista_tiepolo",
-    "name": "Джованни Баттиста Тьеполо",
-    "path": "records/giovanni_battista_tiepolo.json"
-  },
-  {
-    "id": "giovanni_bellini",
-    "name": "Джованни Беллини",
-    "path": "records/giovanni_bellini.json"
   }
 ]

@@ -1,5 +1,40 @@
 [
   {
+    "id": "otakar_lebeda",
+    "name": "Отакар Лебеда",
+    "path": "records/otakar_lebeda.json"
+  },
+  {
+    "id": "otto_bache",
+    "name": "Отто Баке",
+    "path": "records/otto_bache.json"
+  },
+  {
+    "id": "pablo_picasso",
+    "name": "Пабло Пикассо",
+    "path": "records/pablo_picasso.json"
+  },
+  {
+    "id": "filonov",
+    "name": "Павел Филонов",
+    "path": "records/filonov.json"
+  },
+  {
+    "id": "pal_bohm",
+    "name": "Пал Бём",
+    "path": "records/pal_bohm.json"
+  },
+  {
+    "id": "pal_szinyei_merse",
+    "name": "Пал Синьеи-Мерше",
+    "path": "records/pal_szinyei_merse.json"
+  },
+  {
+    "id": "paolo_veronese",
+    "name": "Паоло Веронезе",
+    "path": "records/paolo_veronese.json"
+  },
+  {
     "id": "paolo_porpora",
     "name": "Паоло Порпора",
     "path": "records/paolo_porpora.json"
@@ -463,40 +498,5 @@
     "id": "sebastiano_del_piombo",
     "name": "Себастьяно дель Пьомбо",
     "path": "records/sebastiano_del_piombo.json"
-  },
-  {
-    "id": "sebastiano_conca",
-    "name": "Себастьяно Конка",
-    "path": "records/sebastiano_conca.json"
-  },
-  {
-    "id": "sebastiano_ricci",
-    "name": "Себастьяно Риччи",
-    "path": "records/sebastiano_ricci.json"
-  },
-  {
-    "id": "severin_nilsson",
-    "name": "Северин Нильссон",
-    "path": "records/severin_nilsson.json"
-  },
-  {
-    "id": "severin_falkman",
-    "name": "Северин Фалькман",
-    "path": "records/severin_falkman.json"
-  },
-  {
-    "id": "seraphine_louis",
-    "name": "Серафина Луи",
-    "path": "records/seraphine_louis.json"
-  },
-  {
-    "id": "cecilia_beaux",
-    "name": "Сесилия Бо",
-    "path": "records/cecilia_beaux.json"
-  },
-  {
-    "id": "cecile_douard",
-    "name": "Сесиль Дуар",
-    "path": "records/cecile_douard.json"
   }
 ]

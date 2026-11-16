@@ -1,0 +1,53 @@
+{
+  "id": "jenny_nystrom",
+  "name": "Йенни Нюстрём",
+  "latin": "Jenny Nyström",
+  "life": "1854–1946",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведская художница и иллюстратор. В этой карточке её живопись отделена от открыток, печатной иллюстрации и фотографий художницы.",
+      "Выбрана законченная «Выздоравливающая», 1884. По текущему музейному тексту, картину намеревались показать на Салоне в Париже, но она не прошла жюри."
+    ],
+    "technique": [
+      "Живопись; 154 × 115 см; точный материал здесь не уточнён",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана законченная «Выздоравливающая», 1884. По текущему музейному тексту, картину намеревались показать на Салоне в Париже, но она не прошла жюри.",
+    "caution": "Музей пишет, что жюри парижского Салона картину не приняло; старый список Commons упоминает Salon 1884. Участие не утверждается. Это законченная картина, не этюд NM 7135. Zoom пока 1280px. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://collection.nationalmuseum.se/sv/collection/item/177823/"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Konvalescenten_%28Jenny_Nystr%C3%B6m%29_-_Nationalmuseum_-_177823.tif"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52122335"
+    },
+    {
+      "title": "Музейный паспорт",
+      "url": "https://collection.nationalmuseum.se/sv/collection/item/177823/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_52122335",
+      "title": "Выздоравливающая",
+      "date": "1884",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Konvalescenten_%28Jenny_Nystr%C3%B6m%29_-_Nationalmuseum_-_177823.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

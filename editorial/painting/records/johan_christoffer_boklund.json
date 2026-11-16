@@ -1,0 +1,53 @@
+{
+  "id": "johan_christoffer_boklund",
+  "name": "Йохан Кристоффер Боклунд",
+  "latin": "Johan Christoffer Boklund",
+  "life": "1817–1880",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведский художник; его имя уже встречалось в биографической справке Хильдегард Торелль как имя её учителя. Здесь представлена его собственная живопись.",
+      "«Стрелки в Мерано», 1862, хранятся в Nationalmuseum. Подпись в паспорте содержит имя автора, дату и Meran i Tyrolen."
+    ],
+    "technique": [
+      "Масло на холсте; 102 × 96 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: «Стрелки в Мерано», 1862, хранятся в Nationalmuseum. Подпись в паспорте содержит имя автора, дату и Meran i Tyrolen.",
+    "caution": "Выбран исходный музейный файл, не соседняя remastered-color версия. Размеры с рамой 135 × 129 × 7,5 см не подменяют размер холста. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://commons.wikimedia.org/wiki/Category:Johan_Christoffer_Boklund"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Marksmen_in_Merano_%28Johan_Christoffer_Boklund%29_-_Nationalmuseum_-_17942.tif"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52130061"
+    },
+    {
+      "title": "Музейный паспорт",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/17942/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_52130061",
+      "title": "Стрелки в Мерано",
+      "date": "1862",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Marksmen_in_Merano_%28Johan_Christoffer_Boklund%29_-_Nationalmuseum_-_17942.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

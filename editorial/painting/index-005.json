@@ -1,5 +1,40 @@
 [
   {
+    "id": "cornelis_van_poelenburgh",
+    "name": "Корнелис ван Пуленбург",
+    "path": "records/cornelis_van_poelenburgh.json"
+  },
+  {
+    "id": "cornelis_van_haarlem",
+    "name": "Корнелис ван Харлем",
+    "path": "records/cornelis_van_haarlem.json"
+  },
+  {
+    "id": "cornelis_vroom",
+    "name": "Корнелис Вром",
+    "path": "records/cornelis_vroom.json"
+  },
+  {
+    "id": "cornelis_de_man",
+    "name": "Корнелис де Ман",
+    "path": "records/cornelis_de_man.json"
+  },
+  {
+    "id": "cornelis_de_heem",
+    "name": "Корнелис де Хем",
+    "path": "records/cornelis_de_heem.json"
+  },
+  {
+    "id": "cornelis_ketel",
+    "name": "Корнелис Кетел",
+    "path": "records/cornelis_ketel.json"
+  },
+  {
+    "id": "cornelis_engebrechtsz",
+    "name": "Корнелис Энгелбрехтс",
+    "path": "records/cornelis_engebrechtsz.json"
+  },
+  {
     "id": "corrado_giaquinto",
     "name": "Коррадо Джаквинто",
     "path": "records/corrado_giaquinto.json"
@@ -463,40 +498,5 @@
     "id": "marie_victoire_lemoine",
     "name": "Мари-Виктуар Лемуан",
     "path": "records/marie_victoire_lemoine.json"
-  },
-  {
-    "id": "marie_gabrielle_capet",
-    "name": "Мари-Габриэль Капе",
-    "path": "records/marie_gabrielle_capet.json"
-  },
-  {
-    "id": "marie_guillemine_benoist",
-    "name": "Мари-Гийемин Бенуа",
-    "path": "records/marie_guillemine_benoist.json"
-  },
-  {
-    "id": "marie_denise_villers",
-    "name": "Мари-Дениз Виллер",
-    "path": "records/marie_denise_villers.json"
-  },
-  {
-    "id": "marianne_stokes",
-    "name": "Марианна Стокс",
-    "path": "records/marianne_stokes.json"
-  },
-  {
-    "id": "marinus_van_reymerswale",
-    "name": "Маринус ван Реймерсвале",
-    "path": "records/marinus_van_reymerswale.json"
-  },
-  {
-    "id": "mario_balassi",
-    "name": "Марио Баласси",
-    "path": "records/mario_balassi.json"
-  },
-  {
-    "id": "mariotto_albertinelli",
-    "name": "Мариотто Альбертинелли",
-    "path": "records/mariotto_albertinelli.json"
   }
 ]

@@ -1,0 +1,49 @@
+{
+  "id": "wilhelm_smith",
+  "name": "Вильгельм Смит",
+  "latin": "Wilhelm Smith",
+  "life": "1867–1949",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведский жанровый живописец, пейзажист и портретист, учившийся в Стокгольме и Париже. В 1913–1932 годах преподавал живопись в Академии.",
+      "Выбран зимний городской мотив 1896 года. Он дополняет природные пейзажи предыдущих десяток; техника и размер сохранены по конкретной аукционной записи."
+    ],
+    "technique": [
+      "Масло на холсте; 61 × 76 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран зимний городской мотив 1896 года. Он дополняет природные пейзажи предыдущих десяток; техника и размер сохранены по конкретной аукционной записи.",
+    "caution": "Аукционный источник не выдаётся за нынешнее собрание. В паспорте отмечены подпись Wilhelm Smith и дата -96. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://sv.wikipedia.org/wiki/Wilhelm_Smith"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Wilhelm_Smith_-_Winter_scene_from_the_streets_of_Stockholm%2C_1896.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=98058533"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_98058533",
+      "title": "Зимняя сцена на улицах Стокгольма",
+      "date": "1896",
+      "museum": "Собрание не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:Wilhelm_Smith_-_Winter_scene_from_the_streets_of_Stockholm%2C_1896.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -38,6 +38,14 @@
     {
       "title": "Репродукция: Автопортрет",
       "url": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Self-portrait.jpeg"
+    },
+    {
+      "title": "Репродукция: Портрет Виттории делла Ровере",
+      "url": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Portrait_of_Vittoria_della_Rovere.jpg"
+    },
+    {
+      "title": "Источник: Портрет Виттории делла Ровере",
+      "url": "https://www.uffizi.it/opere/ritratto-vittoria-della-rovere"
     }
   ],
   "works": [
@@ -61,6 +69,13 @@
       "date": "1618–1620",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://commons.wikimedia.org/wiki/File:Francesco_Furini_-_Self-portrait.jpeg"
+    },
+    {
+      "key": "wiki-uffizi-deferred1:Q135163749",
+      "title": "Портрет Виттории делла Ровере",
+      "date": "1645",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/opere/ritratto-vittoria-della-rovere"
     }
   ],
   "pendingWorksCount": 1

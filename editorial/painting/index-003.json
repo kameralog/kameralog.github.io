@@ -1,5 +1,20 @@
 [
   {
+    "id": "giovanni_battista_ruoppolo",
+    "name": "Джованни Баттиста Руопполо",
+    "path": "records/giovanni_battista_ruoppolo.json"
+  },
+  {
+    "id": "giovanni_battista_tiepolo",
+    "name": "Джованни Баттиста Тьеполо",
+    "path": "records/giovanni_battista_tiepolo.json"
+  },
+  {
+    "id": "giovanni_bellini",
+    "name": "Джованни Беллини",
+    "path": "records/giovanni_bellini.json"
+  },
+  {
     "id": "giovanni_benedetto_castiglione",
     "name": "Джованни Бенедетто Кастильоне",
     "path": "records/giovanni_benedetto_castiglione.json"
@@ -483,20 +498,5 @@
     "id": "istvan_szonyi",
     "name": "Иштван Сёни",
     "path": "records/istvan_szonyi.json"
-  },
-  {
-    "id": "istvan_csok",
-    "name": "Иштван Чок",
-    "path": "records/istvan_csok.json"
-  },
-  {
-    "id": "jeanna_bauck",
-    "name": "Йенна Баук",
-    "path": "records/jeanna_bauck.json"
-  },
-  {
-    "id": "jens_juel",
-    "name": "Йенс Юль",
-    "path": "records/jens_juel.json"
   }
 ]

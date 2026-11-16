@@ -1,0 +1,53 @@
+{
+  "id": "anna_munthe_norstedt",
+  "name": "Анна Мунте-Норстедт",
+  "latin": "Anna Munthe-Norstedt",
+  "life": "1854–1936",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведская художница, представленная в Nationalmuseum натюрмортами и цветочными работами. Её авторская карточка не объединяется с карточкой Рейнхольда Норстедта.",
+      "Выбран натюрморт 1899 года, небольшой холст 23 × 40 см. Это самостоятельное дополнение к преимущественно пейзажному составу последних десяток."
+    ],
+    "technique": [
+      "Масло на холсте; 23 × 40 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран натюрморт 1899 года, небольшой холст 23 × 40 см. Это самостоятельное дополнение к преимущественно пейзажному составу последних десяток.",
+    "caution": "1899 указан в подписи. Размеры с рамой 47 × 64,8 × 4,5 см не подменяют размер живописи. Zoom пока равен проверенной версии 1280px. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://collection.nationalmuseum.se/en/artists/artist/7511/"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Still_Life_%28Anna_Munthe-Norstedt%29_-_Nationalmuseum_-_18553.tif"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52114155"
+    },
+    {
+      "title": "Музейный паспорт",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18553/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_52114155",
+      "title": "Натюрморт",
+      "date": "1899",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Still_Life_%28Anna_Munthe-Norstedt%29_-_Nationalmuseum_-_18553.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

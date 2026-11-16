@@ -1,0 +1,53 @@
+{
+  "id": "tyra_kleen",
+  "name": "Тюра Клеен",
+  "latin": "Tyra Kleen",
+  "life": "1874–1951",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-158.js",
+  "existing": {
+    "bio": [
+      "Шведская художница Тюра Клеен. Музейная запись связывает выбранную работу с её пребыванием в Этапле летом 1896 года вместе с матерью и сестрой.",
+      "Выбрана живопись маслом из Sörmlands museum. Музей описывает художника, работающего под зонтом на пленэре; это описание источника, не выполненный нами визуальный анализ."
+    ],
+    "technique": [
+      "Масло на холсте; 28 × 39 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана живопись маслом из Sörmlands museum. Музей описывает художника, работающего под зонтом на пленэре; это описание источника, не выполненный нами визуальный анализ.",
+    "caution": "Оригинал 862 × 616 пикселей не увеличивается. Рамка редакционно не добавлялась; визуальный осмотр не выполнен. Личность изображённого художника не установлена. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_DECODE_CHECKED_GLOBAL_KEY_SEARCH_INCOMPLETE_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Сведения об авторе",
+      "url": "https://commons.wikimedia.org/wiki/Category:Tyra_Kleen"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:%E2%80%9CEtaples%2C_Frankrike_1896%E2%80%9D_av_Tyra_Kleen.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=114195896"
+    },
+    {
+      "title": "Музейный паспорт",
+      "url": "https://sokisamlingar.sormlandsmuseum.se/objects/c24-275780/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting158_commons_114195896",
+      "title": "Этапль, Франция",
+      "date": "1896",
+      "museum": "Sörmlands museum",
+      "source": "https://commons.wikimedia.org/wiki/File:%E2%80%9CEtaples%2C_Frankrike_1896%E2%80%9D_av_Tyra_Kleen.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

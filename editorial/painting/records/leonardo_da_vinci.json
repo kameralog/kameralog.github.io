@@ -60,6 +60,14 @@
     {
       "title": "Репродукция: Пейзаж долины Арно",
       "url": "https://commons.wikimedia.org/wiki/File:Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение",
+      "url": "https://commons.wikimedia.org/wiki/File:Annunciation_(Leonardo).jpg"
+    },
+    {
+      "title": "Источник: Благовещение",
+      "url": "https://www.uffizi.it/en/artworks/annunciation"
     }
   ],
   "works": [
@@ -125,6 +133,13 @@
       "date": "1473",
       "museum": "Галереи Уффици, Флоренция",
       "source": "https://commons.wikimedia.org/wiki/File:Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg"
+    },
+    {
+      "key": "wiki-uffizi-deferred1:Q1217213",
+      "title": "Благовещение",
+      "date": "около 1472",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://www.uffizi.it/en/artworks/annunciation"
     }
   ],
   "pendingWorksCount": 0
