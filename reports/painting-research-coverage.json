@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "d72cca78a1786a2885a250cb1a77e93956f0f23a",
+  "sourceCommit": "9f8da0a2557c6faed7402277ec01e3c63c8358d6",
   "catalogueCount": 1116,
-  "connectedPackageCount": 39,
-  "connectedDossierCount": 423,
+  "connectedPackageCount": 40,
+  "connectedDossierCount": 433,
   "connectedIds": [
     "abraham_bloemaert",
     "abraham_brueghel",
@@ -74,6 +74,7 @@
     "andrea_vaccaro",
     "angelica_kauffmann",
     "angelos_akotantos",
+    "aniello_falcone",
     "anna_ancher",
     "anna_boberg",
     "anna_boch",
@@ -93,6 +94,7 @@
     "anshelm_schultzberg",
     "antanas_zmuidzinavicius",
     "anthonie_palamedesz",
+    "antoine_coypel",
     "antoine_watteau",
     "anton_domenico_gabbiani",
     "anton_eduard_kieldrup",
@@ -104,9 +106,17 @@
     "anton_raphael_mengs",
     "anton_romako",
     "antonello_da_messina",
+    "antonin_chittussi",
+    "antonin_slavicek",
+    "antonio_joli",
+    "ants_laikmaa",
+    "arent_arentsz",
     "arnold_bocklin",
     "artemisia_gentileschi",
+    "arvid_liljelund",
+    "arvid_mauritz_lindstrom",
     "asher_brown_durand",
+    "asta_norregaard",
     "august_malmstrom",
     "axel_haartman",
     "axel_helsted",
@@ -431,58 +441,8 @@
   ],
   "unconnectedPackageFiles": [],
   "unconnectedIds": [],
-  "remainingCount": 693,
+  "remainingCount": 683,
   "next50": [
-    {
-      "id": "antonin_slavicek",
-      "name": "Антонин Славичек",
-      "path": "records/antonin_slavicek.json"
-    },
-    {
-      "id": "antonin_chittussi",
-      "name": "Антонин Хиттусси",
-      "path": "records/antonin_chittussi.json"
-    },
-    {
-      "id": "antonio_joli",
-      "name": "Антонио Джоли",
-      "path": "records/antonio_joli.json"
-    },
-    {
-      "id": "ants_laikmaa",
-      "name": "Антс Лайкмаа",
-      "path": "records/ants_laikmaa.json"
-    },
-    {
-      "id": "antoine_coypel",
-      "name": "Антуан Куапель",
-      "path": "records/antoine_coypel.json"
-    },
-    {
-      "id": "aniello_falcone",
-      "name": "Аньелло Фальконе",
-      "path": "records/aniello_falcone.json"
-    },
-    {
-      "id": "arvid_liljelund",
-      "name": "Арвид Лильелунд",
-      "path": "records/arvid_liljelund.json"
-    },
-    {
-      "id": "arvid_mauritz_lindstrom",
-      "name": "Арвид Мауриц Линдстрём",
-      "path": "records/arvid_mauritz_lindstrom.json"
-    },
-    {
-      "id": "arent_arentsz",
-      "name": "Арент Арентсз.",
-      "path": "records/arent_arentsz.json"
-    },
-    {
-      "id": "asta_norregaard",
-      "name": "Аста Нёррегор",
-      "path": "records/asta_norregaard.json"
-    },
     {
       "id": "astrid_holm",
       "name": "Астрид Хольм",
@@ -682,12 +642,62 @@
       "id": "wally_moes",
       "name": "Валли Мус",
       "path": "records/wally_moes.json"
+    },
+    {
+      "id": "king_gongmin",
+      "name": "Ван Конмин",
+      "path": "records/king_gongmin.json"
+    },
+    {
+      "id": "surikov",
+      "name": "Василий Суриков",
+      "path": "records/surikov.json"
+    },
+    {
+      "id": "vaclav_brozik",
+      "name": "Вацлав Брожик",
+      "path": "records/vaclav_brozik.json"
+    },
+    {
+      "id": "vaclav_radimsky",
+      "name": "Вацлав Радимский",
+      "path": "records/vaclav_radimsky.json"
+    },
+    {
+      "id": "venny_soldan_brofeldt",
+      "name": "Венни Сольдан-Бруфельдт",
+      "path": "records/venny_soldan_brofeldt.json"
+    },
+    {
+      "id": "werner_holmberg",
+      "name": "Вернер Хольмберг",
+      "path": "records/werner_holmberg.json"
+    },
+    {
+      "id": "viggo_johansen",
+      "name": "Вигго Йохансен",
+      "path": "records/viggo_johansen.json"
+    },
+    {
+      "id": "victor_westerholm",
+      "name": "Виктор Вестерхольм",
+      "path": "records/victor_westerholm.json"
+    },
+    {
+      "id": "viktor_madarasz",
+      "name": "Виктор Мадарас",
+      "path": "records/viktor_madarasz.json"
+    },
+    {
+      "id": "dekooning",
+      "name": "Виллем де Кунинг",
+      "path": "records/dekooning.json"
     }
   ],
   "inputSHA256": {
     "editorial/painting/manifest.json": "f32592c3d2ee168782eea7372a63a916ad3a36b4edc54ce4a66dc83b85e0c594",
-    "editorial/painting/research/manifest.json": "3dcbd1af91c74c28e946e557064c0567a2163db7681c0c650a01a52ecb7fe820",
-    "editorial/painting/summary.json": "74915adac25aa7a578da3761737632b38d1b72c96fad526e11c7405bd749a41f",
+    "editorial/painting/research/manifest.json": "6b8ad63ae48d10ba5a91cdbf25c762b4e8a5b1d4055ecd710fdf59c0de308b64",
+    "editorial/painting/summary.json": "ab341cf9c9621754e228e5b3684558dbe314bf89cd559a27e86239d1140c088b",
     "editorial/painting/index-000.json": "1e5b3705e300632523bdcb462c9d6294373ec3d303cbc7314e283203dd98e8c5",
     "editorial/painting/index-001.json": "3695e9cbfff33af198bf88e370b63ca9a7d4831ffe81085436ce1a6bdb57a0c4",
     "editorial/painting/index-002.json": "67dd8986bfc852a94595ab16f9b8cd5f32f349c60fcdafefa9fa2a663cd3dc80",
@@ -739,16 +749,7 @@
     "editorial/painting/research/batch-015e.json": "2d6993d76e7524c062a7e7f9b43fb2e03a60682cb0faf212e1dcd95599da23c0",
     "editorial/painting/research/batch-016a.json": "d5511a46c26813d8132de14ddf44b3e4ca43eebbf7217a8a8d66d9536b319044",
     "editorial/painting/research/batch-016b.json": "730c1ce000945af2d746db351a08b27d647f39e395405d93361a909464e53c16",
-    "editorial/painting/records/antonin_slavicek.json": "dccb9a6cb80310ae71293fcaf1ba6e8c097b9a97562ef21aed89840f8393b34e",
-    "editorial/painting/records/antonin_chittussi.json": "9cd37ed8a8c8a84d0cbbbfab8fa8124b0584ad4778e607bba86377d43356e063",
-    "editorial/painting/records/antonio_joli.json": "2da77ccf41dfd39a04f37d986d789bb4810add5520f6fde95a1f762e0bd7736d",
-    "editorial/painting/records/ants_laikmaa.json": "51bc7be7c7e6fb624a3ac1018c92cd021fb1869156c9d5542673ad92380ca21f",
-    "editorial/painting/records/antoine_coypel.json": "4e18a22d5db2e0a997f3f0d28a683bd2ebc7cffa8c240086f6d3de58bd6f28e8",
-    "editorial/painting/records/aniello_falcone.json": "05bf405725c4365b82ad49ce79ff13ed8a49811aebaa1c0a2f279f91d99a2378",
-    "editorial/painting/records/arvid_liljelund.json": "ac30eb3bc447c04f3b1a00e4f4376eb372f74a916a0baa46c0a4bbd2b252604d",
-    "editorial/painting/records/arvid_mauritz_lindstrom.json": "b74d96a35d5cbbc316a0a60929c1cddf612d6ad7c7913e627704d8f6f04e0ab1",
-    "editorial/painting/records/arent_arentsz.json": "c45bba74239a9f9f995bf8c16b1070644fe30a34a6149c03d4d20bfd79f8367d",
-    "editorial/painting/records/asta_norregaard.json": "affcc4197d2760215e3e498a8d8e953caeb405042bcc4ef70b2cc22c86456931",
+    "editorial/painting/research/batch-016c.json": "01b8ed807c434f4fc19c0e27513738b491dcf4608457d1590c4bb87b7f36ac33",
     "editorial/painting/records/astrid_holm.json": "9c332a1b0860456318c3951149eceb68805310b158072a010320274e410d6790",
     "editorial/painting/records/atetelco_white_patio.json": "634b5dfa73fe26d48c53e4033f6d0626744c5df95bbbd8bfa63f3553fecf45c6",
     "editorial/painting/records/augusto_giacometti.json": "dc7798c4adc9bf32e224905a49e97a92047b277b42532a8a2568f45e79e42aed",
@@ -788,7 +789,17 @@
     "editorial/painting/records/violet_teague.json": "8c4741fa44a03047d201e6f730c69f60e4f62cf611f7f6af472d4cd1f39f0ce4",
     "editorial/painting/records/serov.json": "68323b025cc55a4e1d16898400cc16a828ce17802dcd3c3ae76ff8ba10aedf35",
     "editorial/painting/records/valerio_castello.json": "3ecfa26bdac40cfbfcc56bbd6b340557f624bc461377eea30cd8cc2c0438890f",
-    "editorial/painting/records/wally_moes.json": "6a9c6614ca37d618717103b44054e7e73baef0890456f5beae361b182af7b9f7"
+    "editorial/painting/records/wally_moes.json": "6a9c6614ca37d618717103b44054e7e73baef0890456f5beae361b182af7b9f7",
+    "editorial/painting/records/king_gongmin.json": "2032248abbb30dbabdf29f1f465b9c4d1558aee9c700818a35797b8c543339c6",
+    "editorial/painting/records/surikov.json": "23280e7d3f29fc5df217afa3c53d17aafbac38c8ea1dff25112b1c6bd84c01b6",
+    "editorial/painting/records/vaclav_brozik.json": "e1fedf000b83ccccd2e59e525077ae53184bb5b4b796f1c56f27f8804f744246",
+    "editorial/painting/records/vaclav_radimsky.json": "52a5d2cba6951b4e8a12bbc40a350ad487038e1b1a0d8a283c8c962046f69c78",
+    "editorial/painting/records/venny_soldan_brofeldt.json": "3e590071649d8fe266afcd4145b071c022c4848639efae8163612bded6ff0dd2",
+    "editorial/painting/records/werner_holmberg.json": "ece79d01924f85a52ad52e3e9aa317bf80caf199c0f818e87da40727eb034e93",
+    "editorial/painting/records/viggo_johansen.json": "0e99764247b84f1dfc6f05069c80ac36647a9c30ba3bd452000534d05161d73e",
+    "editorial/painting/records/victor_westerholm.json": "bb0eba6f16811568c6532a517744bf48fe5c6c29842dcf51ce25330100ce1f35",
+    "editorial/painting/records/viktor_madarasz.json": "1ef8787f8d83b37f03ed4f14ca39b480e032874080c4ccdbfebd2a58824b8e1d",
+    "editorial/painting/records/dekooning.json": "fa7d476ab445b852dbbec78a58c32ace8098dce31829c52066adaf2c6699ce1b"
   },
   "verificationScope": "ID, path, structure and count checks only; not historical, visual or rights verification"
 }
