@@ -1,0 +1,85 @@
+name: Extract first coverage ten binding evidence
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/extract-coverage-first10.yml']
+permissions:
+  contents: write
+concurrency:
+  group: coverage-first10-binding-evidence
+  cancel-in-progress: false
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Extract pinned evidence and snapshot current cards
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          saved=false
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          import assert from 'node:assert/strict';
+          import {execFileSync} from 'node:child_process';
+          import {createHash} from 'node:crypto';
+          const source='474a927e2496af082d0954a78ebf3889ae3bb243';
+          const archived='ecc96dfdfab29891dbdce1311b416b4fd968a93e';
+          const out='reports/painting-browser/coverage-001-first-10';
+          const show=p=>execFileSync('git',['show',p],{maxBuffer:20000000});
+          const blob=raw=>{const b=Buffer.isBuffer(raw)?raw:Buffer.from(raw);return createHash('sha1').update('blob '+b.length+'\0').update(b).digest('hex');};
+          const input=show(source+':tools/painting-browser/coverage-001-first-10.json');
+          assert.equal(blob(input),'e4c95b3d4f29d1ff829b1f19e6cf632127854e23');
+          const manifest=JSON.parse(input);
+          const raw=show(archived+':reports/painting-browser/latest.json');
+          assert.equal(blob(raw),'ad1665626d8a29002ff5a69b34dc2eba8571cec7');
+          const r=JSON.parse(raw);
+          assert.equal(r.runId,'43935234060');assert.equal(r.sourceCommit,source);
+          assert.equal(r.status,'passed_selected_targets');assert.equal(r.browserSmokePassed,true);
+          assert.equal(r.selectionComplete,true);assert.equal(r.totalInManifest,10);
+          assert.equal(r.manifestSha256,createHash('sha256').update(input).digest('hex'));
+          assert.deepEqual(r.counts,{selected:10,completed:10,passed:10,failed:0});
+          assert.deepEqual(r.rows.map(x=>x.id),manifest.items.map(x=>x.id));
+          for(const row of r.rows){assert.equal(row.status,'passed');assert.deepEqual(row.checks.map(c=>c.role),['image','zoom']);for(const c of row.checks){assert.equal(c.ok,true);assert(c.http>=200&&c.http<300);assert(c.mime.startsWith('image/'));assert(c.width>0&&c.height>0);assert(c.width<=row.native[0]&&c.height<=row.native[1]);}}
+          const original=show(source+':tools/extract-painting-browser-report.mjs');
+          assert.equal(blob(original),'80246b0ab91a3d5f6b78d58b60b7fce077354567');
+          let code=original.toString('utf8');
+          const replace=(a,b)=>{assert.equal(code.split(a).length,2,'Expected one template occurrence: '+a);code=code.replace(a,b);};
+          replace("const REPORT_COMMIT='5f1ceacc059f7f69a4bd36a104da4bceeda23823';",'const REPORT_COMMIT='+JSON.stringify(archived)+';');
+          replace("const REPORT_BLOB='9e27201bc1c764cbf086fd14abbf545c923de7e6';","const REPORT_BLOB='ad1665626d8a29002ff5a69b34dc2eba8571cec7';");
+          const specs=manifest.items.map(x=>{assert(/^coverage001_\d{3}_[a-z0-9_]+$/.test(x.id));return [x.id,x.id.replace(/^coverage001_\d{3}_/,''),[]];});
+          const specBlock=code.match(/const SPECS=\[[\s\S]*?\n\];/g);assert.equal(specBlock?.length,1);
+          replace(specBlock[0],'const SPECS='+JSON.stringify(specs)+';');
+          replace("report.runId!=='43867812458'||report.sourceCommit!=='5ccb4171154a53f3d3252405ad3a630f2f0ceed8'","report.runId!=='43935234060'||report.sourceCommit!=="+JSON.stringify(source));
+          replace("folder='reports/painting-browser/159'",'folder='+JSON.stringify(out));
+          replace("'painting159_commons_'","'coverage001_commons_'");
+          replace('const norm=s=>','const moduleOwners={};\nconst norm=s=>');
+          replace('sandbox.registerPaintingArtists=b=>Object.assign(registry,b);','sandbox.registerPaintingArtists=b=>{Object.assign(registry,b);for(const id of Object.keys(b))moduleOwners[id]=path.join(directory,file);};');
+          replace('return {id:inputId,proposedArtistId:artistId,','return {sourceModule:moduleOwners[artistId]||null,currentArtistFile:'+JSON.stringify(out+'/cards/')+'+artistId+".json",proposedWorkKeyIsDiagnosticOnly:true,id:inputId,proposedArtistId:artistId,');
+          code+='\nfs.mkdirSync('+JSON.stringify(out+'/cards')+',{recursive:true});\n';
+          code+='for(const [,id] of SPECS){const artist=registry[id],file=moduleOwners[id];if(!artist||!file)throw Error("Missing current artist/module: "+id);const bytes=fs.readFileSync(file);const moduleBlob=createHash("sha1").update("blob "+bytes.length+"\\0").update(bytes).digest("hex");const payload=JSON.stringify({auditSnapshot:sourceCommit,sourceModule:file,sourceModuleGitBlob:moduleBlob,artist},null,2)+"\\n";if(Buffer.byteLength(payload)>28000)throw Error("Current card too large: "+id);fs.writeFileSync(path.join('+JSON.stringify(out+'/cards')+',id+".json"),payload);}\n';
+          const temp=path.join(process.env.RUNNER_TEMP,'extract-coverage-first10.mjs');
+          fs.writeFileSync(temp,code);
+          execFileSync(process.execPath,['--check',temp],{stdio:'inherit'});
+          execFileSync(process.execPath,[temp],{stdio:'inherit'});
+          NODE
+            git diff --exit-code -- games/painting editorial/painting tools .github
+            git add reports/painting-browser/coverage-001-first-10
+            if git diff --cached --quiet; then saved=true; break; fi
+            git commit -m 'Archive first coverage ten browser URLs and current card snapshots without binding images'
+            if git push origin HEAD:main; then saved=true; break; fi
+            sleep "$((attempt * 2))"
+          done
+          test "$saved" = true
