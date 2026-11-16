@@ -1,0 +1,141 @@
+name: Publish reviewed seventh wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch7.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply reviewed seventh batch and preserve existing data
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch7-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch7-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const raw=`301|Сусанна и старцы|1517|Lorenzo Lotto 058.jpg|1438|1915
+          302|Портрет Жана-Батиста Руссо|1710|Nicolas de Largillière - Portrait of Jean-Baptiste Rousseau - WGA12477.jpg|1000|1243
+          303|Пейзаж с водопадом|1670-е годы|Jacob van Ruisdael - Paesaggio con cascata.jpg|480|405
+          304|Просёлочная дорога с пастухами и дубом|1660-е годы|Jacob Isaacksz. van Ruisdael - Landscape with Shepherds and Peasants - WGA20501.jpg|1155|1000
+          305|Мадонна Оньиссанти|около 1300–1305|Madonna di Ognissanti by Giotto.jpg|2719|4181
+          306|Портрет Лоренцо Медичи Великолепного|около 1533–1534|Portrait of Lorenzo de' Medici, the Magnificent (1449–1492), by Giorgio Vasari - Uffizi Gallery.jpg|1756|2212
+          307|Аллегория Непорочного зачатия|около 1550|Allégorie de l'immaculée conception (Vasari).png|448|675
+          308|Аллегория Терпения — атрибуция Джорджо Вазари (возможен Гаспар Бесерра)|1551|Allegoria della pazienza - Palazzo Pitti.jpg|439|769
+          309|Кузница Вулкана|около 1540–1560|Giorgio Vasari 002.jpg|3332|4531
+          310|Портрет Алессандро Медичи|1534|Alessandro de Medici Ruestung.jpg|3512|4850
+          311|Пророк Елисей|1566|Giorgio Vasari 001.jpg|2024|2923
+          312|Изысканное общество в интерьере|1675|Frans van Mieris (I) - An Elegant Company in an Interior.jpg|504|650
+          313|Автопортрет|1677|Frans van Mieris (I) - Self-portrait.jpg|522|650
+          314|Шарлатан|1653–1655|MIERIS-Frans-van-Mieris-De-chralatan-Uffizi-Florence.jpg|710|938
+          315|Спящая куртизанка|1669|Frans van Mieris (I) - A Sleeping Courtesan.jpg|445|577
+          316|Старый возлюбленный|около 1673|Frans van Mieris (I) - The Old Lover Uffizi.jpg|196|236
+          317|Пустой бокал|около 1683|Frans van Mieris (I) - The Empty Glass Uffizi.jpg|790|1024
+          318|Мужчина, играющий на теорбе (Автопортрет)|1676|Frans van Mieris (I) - Self-portrait playing a Theorbo Uffizi.jpg|760|1024
+          319|Мужской портрет|1663|Frans van Mieris (I) - Portrait of a Man.jpg|449|620
+          320|Благовещение|1472|Annunciation (Leonardo) (cropped).jpg|4917|2186
+          321|Этюды голов старика и юноши в профиль|1495–1500|Leonardo da vinci, Heads of an old man and a youth.jpg|704|939
+          322|Профиль старика|вторая половина XV века|Leonardo da vinci, Profile of an old man.jpg|701|984
+          323|Женская голова|вторая половина XV века|Leonardo da vinci, Female Head.jpg|850|984
+          324|Женская голова в профиль|конец XV века|Da Vinci - Weiblicher Kopf im Profil.jpg|982|1378
+          325|Перспективный этюд к «Поклонению волхвов»|конец XV — начало XVI века|Leonardo study AdorationofMagi.JPG|2953|1682
+          326|Два профиля и этюды механизмов|XV век|Leonardo da Vinci - Profili affrontati di un giovane e di un vecchio e scritte, in alto ed in basso, di mano di Leonardo.jpg|220|220
+          327|Тавола Дориа — по «Битве при Ангиари» Леонардо|1503–1505 (оригинал)|La Battaglia di Anghiari di Leonardo.jpg|946|701
+          328|Пейзаж долины Арно|1473|Paisagem do Arno - Leonardo da Vinci.jpg|800|553
+          329|Видение Иезекииля|1518|Raffaello - Visione di Ezechiele.jpg|1821|2479
+          330|Мадонна Грандука|1506–1507|Raffaello (1483-1520) - La Madonna del Granduca - 178 - Galleria Palatina.jpg|2219|3268
+          331|Мадонна дель Импанната|1513|Madonna dell’Impannata, by Raphael.jpg|3021|3732
+          332|Донна Гравида|1505–1506|Raphael-LaDonnaGravida(1505-1506).jpg|820|1075
+          333|Мадонна со щеглом|1505–1506|Madonna of the Goldfinch (by Raffaello Sanzio) – Galleria degli Uffizi, Florence.jpg|2147|3000
+          334|Портрет Аньоло Дони|1505–1506|Agnolo Doni's portrait paintings by Raffaello Sanzio.jpg|5366|7674
+          335|Портрет Маддалены Дони|1505–1506|Ritratto di maddalena strozzi.jpg|1723|2500
+          336|Портрет Льва X с кардиналами Джулио Медичи и Луиджи Росси|1518|Portrait of Pope Leo X and his cousins, cardinals Giulio de' Medici and Luigi de' Rossi (by Raphael).jpg|2538|3360
+          337|Портрет юноши с яблоком|1504|Raffaello Sanzio (Urbino 1483 - Roma 1520) - Ritratto di giovane con pomo - 8760 - Uffizi Gallery.jpg|2230|3000
+          338|Портрет Гвидобальдо да Монтефельтро|около 1507|Raffaello Sanzio - Guidobaldo da Montefeltro - WGA18653.jpg|4921|6939
+          339|Портрет кардинала Биббиены|1516|Raffaello Sanzio (Urbino 1483 – Roma 1520) - Ritratto del Cardinale Bibbiena - 158 - Galleria Palatina.jpg|2339|3000
+          340|Мадонна дель Бальдаккино|около 1506–1508|Raffaello (Urbino 1483 – Roma 1520) - Madonna con Bambino in trono e i santi Pietro, Bernardo, Agostino e Ranieri, detta Madonna del Baldacchino - 165 - Galleria Palatina.jpg|2001|2481
+          341|Портрет Томмазо Ингирами (Федра)|около 1510–1511|Portrait of Tommaso Inghirami (by Raphael) - type 2.jpg|2790|4071
+          342|Автопортрет|1504–1506|Raffaello Sanzio.jpg|3898|5315
+          343|Донна Велата|около 1512–1515|La velada, por Rafael.jpg|1279|1648
+          344|Мадонна в кресле|1513–1514|Raphael Madonna della seggiola.jpg|1600|1635
+          345|Портрет Марии Луизы де Бурбон-и-Вальябрига|около 1800|Francisco de Goya - Ritratto di María Luisa de Borbón y Vallabriga - Google Art Project.jpg|2030|3490
+          346|Конный портрет Марии Терезы де Вальябрига|1783|Francisco de Goya y Lucientes - Portrait of María Teresa de Vallabriga on Horseback - WGA9990.jpg|900|1200
+          347|Слёзы святого Петра|1610|El Greco - Tears of Saint Peter, Contini-Bonacossi.jpg|738|1024
+          348|Святой Иоанн Богослов и святой Франциск|около 1600|El Greco - Sts John and Francis - WGA10549.jpg|1000|1274
+          349|Юный святой Бенедикт чудесным образом чинит разбитое решето|1415–1420|13 Nicolo di Pietro. San Benedetto fanciullo ripara miracolosamente il capistero rotto, 1415-20 Uffizi, Florence.jpg|364|640
+          350|Алтарь Санта-Лючия-деи-Маньоли|1445–1447|Domenico Veneziano - Pala di Santa Lucia dei Magnoli - Google Art Project.jpg|2180|2167`;
+          const data=raw.split('\n').map(line=>{const[n,title,date,file,w,h]=line.trim().split('|');return {n:+n,title,date,file,width:+w,height:+h};});assert.deepEqual(data.map(r=>r.n),Array.from({length:50},(_,i)=>i+301));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c',queueDirectory='reports/uffizi-packages/43457577858-1',queueFiles=[1,2,3,4,5,6,7,8].map(n=>'new_work_candidates-00'+n+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));const originalRecords=lists.flat().slice(300,350).map((r,i)=>({number:i+301,...r}));assert.equal(originalRecords.length,50);
+          const pageBatch={lorenzo_lotto:50,nicolas_de_largilliere:104,jacob_van_ruisdael:17,giotto:12,giorgio_vasari:10,frans_van_mieris_the_elder:72,leonardo_da_vinci:16,raphael:16,francisco_goya:18,el_greco:9,domenico_veneziano:39};
+          const expected={9:'7db02f84865a5db7a55f83c20b7e295a088dc144',10:'a288409d8daf44dc2911b63ba0513ae0da6fc986',12:'71ad3a6b2e9d0a55684925fc5c8210d1930bd6ef',16:'d88094f8adcbd5df11fb218df3e9932388b0b40d',17:'89f025f9a97a883c3c2617e62272f404e65f3618',18:'ffc8796f8ab704ba922d5471359f01bbd20f78c2',39:'ddf8b41302a86ce23c3fe62d5dc7769994faeb79',50:'52db490c53d74c09fbbbe0fcfb374a02467ecbe2',72:'399f6803665d5b47373de1e75aafbd617735d78d',104:'2c281fdda919308194ff0bc9665750c1ef6a1682'};
+          const reportPath='reports/wiki-batches/batch-007.json';assert(!fs.existsSync(reportPath));const previous=[1,2,3,4,5,6].map(n=>{const path='reports/wiki-batches/batch-00'+n+'.json';return {path,text:fs.readFileSync(path,'utf8')};});
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          for(const r of data){const candidate=originalRecords[r.n-301],id=candidate.artistId,Q=candidate.work;assert.equal(candidate.number,r.n);assert(/^Q\d+$/.test(Q));const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const baseLicense=r.n===326?'CC BY-SA 4.0':r.n===334?'PD-old-100-expired; фотография CC BY-SA 4.0':'Public domain';const entry={number:r.n,workId:Q,originalArtistId:id,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,licenseShortName:baseLicense,originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseTemplatesChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          if(r.n===320){Object.assign(entry,{status:'deferred',reason:'Файл помечен cropped; полнота композиции без визуального сравнения с исходником не подтверждена.',parentFileFromMetadata:'Annunciation (Leonardo).jpg',nextAction:'Сопоставить кадрированный файл с исходным Annunciation (Leonardo).jpg; при подтверждении полного вида или выборе исходного файла подключить к карточке Леонардо да Винчи.'});results.push(entry);continue;}
+          if(r.n===349){Object.assign(entry,{status:'deferred',artistId:null,intendedArtistName:'Никколо ди Пьетро',intendedArtistWikidata:'Q4320785',reason:'В очереди указан Доменико Венециано, но автор в Commons и Wikidata — Никколо ди Пьетро (Q4320785). На страницу Доменико Венециано не добавлять.',nextAction:'Проверить наличие карточки Никколо ди Пьетро или подготовить её отдельно в чате создания художников.'});results.push(entry);continue;}
+          const bn=pageBatch[id];assert(bn);const filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch7-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch7:'+Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name),original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const credit=artist.name+'; '+(r.n===334?'фотография ThePhotografer; ':r.n===305?'фотография Campocorvino; ':'')+'Wikimedia Commons; '+baseLicense;let note='Источник репродукции и сведения о правах — в карточке конкретного файла Commons.';
+          if(r.n===308)note+=' Атрибуция в источнике предположительная (возможен Джорджо Вазари и Гаспар Бесерра).';if(r.n===327)note+=' Тавола Дориа — работа XVI века по утраченной «Битве при Ангиари» Леонардо.';if(r.n===334)note+=' Сохранена лицензия фотографии CC BY-SA 4.0 (ThePhotografer).';if(Math.min(r.width,r.height)<600)note+=' Небольшой исходный файл не увеличивался искусственно.';
+          const work={key,title:r.title,date:r.date,author:artist.name,medium:'',museum:'Галереи Уффици, Флоренция',source:imageSource,image:sized(960),zoom:sized(1920),imageSource,license:baseLicense,creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n===308||r.n===327)work.attributionStatus='attributed';
+          group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,10);assert.equal(results.filter(r=>r.work).length,48);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,11);assert.equal(results.filter(r=>r.status==='deferred').length,2);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:7,batchSize:50,range:[301,350],checkedDate:'2026-11-16',status:'connected_publication_pending',total:50,foundReproductions:50,browserImagesDecoded:50,ruOrEnWikipediaArticlesFound:24,newlyConnected:48,alreadyPresentCount:0,alreadyPresent:[],duplicatesCount:0,deferredConfirmed:2,artistPages:11,sourceFiles:10,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(300,350)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['Все 50 файлов найдены и прошли браузерную загрузку; полный визуальный просмотр не заявляется.','№320 отложен: файл помечен cropped, требуется сверка с исходным файлом.','№349 отложен: автор в источниках Никколо ди Пьетро (Q4320785), не Доменико Венециано.','№334: сохранены сведения о фотографе ThePhotografer и лицензии CC BY-SA 4.0.','№326: лицензия CC BY-SA 4.0.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of previous)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch7-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{9,10,12,16,17,18,39,50,72,104}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-007.json
+          git diff --cached --stat
+          git commit -m 'Connect 48 seventh-batch reproductions and record deferred works'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify published catalogue and record result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch7=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch7-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch7-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-007.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=48;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-007.json
+              git commit -m 'Record live catalogue verification for wiki batch seven'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified live catalogue: 48 new bindings, two deferred. Individual page and full visual reviews remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; live catalogue verification remains pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
