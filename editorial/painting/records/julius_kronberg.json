@@ -1,0 +1,45 @@
+{
+  "id": "julius_kronberg",
+  "name": "Юлиус Кронберг",
+  "latin": "Julius Kronberg",
+  "life": "1850–1921",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец и профессор. Выбранная работа связывает библиотеку живописи с трагедией Шекспира; это литературный сюжет, не изображение документально установленных моделей.",
+      "Полотно датировано и подписано в Риме в 1886 году. Паспорт перечисляет выставку Академии 1887 года и мемориальную выставку 1923 года; эти даты не подменяют дату создания."
+    ],
+    "technique": [
+      "Масло на холсте; 271,5 × 160 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Полотно датировано и подписано в Риме в 1886 году. Паспорт перечисляет выставку Академии 1887 года и мемориальную выставку 1923 года; эти даты не подменяют дату создания.",
+    "caution": "В паспорте подпись Julius Kronberg / Roma. 1886. Аукцион 2010 года — источник репродукции, не установленное нынешнее место хранения. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=25146682"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_25146682",
+      "title": "Ромео и Джульетта на балконе",
+      "date": "1886",
+      "museum": "Нынешнее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

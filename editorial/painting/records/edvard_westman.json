@@ -1,0 +1,49 @@
+{
+  "id": "edvard_westman",
+  "name": "Эдвард Вестман",
+  "latin": "Edvard Westman",
+  "life": "1865–1917",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Выбранная работа продолжает скагенскую линию библиотеки, соединяя шведское авторство с датским мотивом и собранием.",
+      "Музейные данные дают 1888 год и размеры 35 × 45 см. Авторство сверено по явно указанному имени живописца, а не автоматически взято из ошибочно раскрывающегося поля Artist."
+    ],
+    "technique": [
+      "Масло на холсте; 35 × 45 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Музейные данные дают 1888 год и размеры 35 × 45 см. Авторство сверено по явно указанному имени живописца, а не автоматически взято из ошибочно раскрывающегося поля Artist.",
+    "caution": "extmetadata.Artist содержит Unknown author, но явное музейное поле creator.painter в wikitext и паспорт Google Cultural Institute называют Edvard Westman. Разночтение сохранено, не объявлено визуально проверенным. Оригинал 579 × 452 пикселя. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=29868392"
+    },
+    {
+      "title": "Google Cultural Institute: явное поле Painter",
+      "url": "https://www.google.com/culturalinstitute/asset-viewer/sgHT4OzKkxd4qw"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_29868392",
+      "title": "Осень в скагенской роще",
+      "date": "1888",
+      "museum": "Skagens Museum",
+      "source": "https://commons.wikimedia.org/wiki/File:Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

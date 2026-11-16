@@ -1,0 +1,49 @@
+{
+  "id": "carl_gustaf_hellqvist",
+  "name": "Карл Густаф Хелльквист",
+  "latin": "Carl Gustaf Hellqvist",
+  "life": "1851–1890",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский художник исторической живописи. Музей характеризует выбранное полотно как сочетание исторических подробностей, вымысла и эффектной постановки.",
+      "Nationalmuseum прямо указывает на анахронизмы, включая таксу, и на драматизацию рассказа о Висбю. Картину полезно изучать как образ истории XIX века, а не нейтральный документ XIV столетия."
+    ],
+    "technique": [
+      "Масло на холсте; 200 × 330 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Nationalmuseum прямо указывает на анахронизмы, включая таксу, и на драматизацию рассказа о Висбю. Картину полезно изучать как образ истории XIX века, а не нейтральный документ XIV столетия.",
+    "caution": "1361 — год изображённого события, 1882 — дата живописи. Размеры 200 × 330 см взяты у музея; ошибочная строка w3300 x h2000 cm старого импорта не перенесена. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=22264057"
+    },
+    {
+      "title": "Nationalmuseum: паспорт и интерпретация",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18434/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_22264057",
+      "title": "Вальдемар Аттердаг собирает дань с Висбю, 1361",
+      "date": "1882",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

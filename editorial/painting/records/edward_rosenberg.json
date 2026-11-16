@@ -1,0 +1,45 @@
+{
+  "id": "edward_rosenberg",
+  "name": "Эдвард Розенберг",
+  "latin": "Edward Rosenberg",
+  "life": "1858–1934",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. В батче 158 он представлен как модель портрета Эмиля Эстермана; здесь создаётся отдельная карточка автора собственной живописи.",
+      "Для карточки выбран зимний пейзаж 1921 года. Репродукция происходит из Norrköpings Auktionsverk; аукционный источник не выдаётся за нынешнее собрание."
+    ],
+    "technique": [
+      "Масло на холсте; 58 × 93 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Для карточки выбран зимний пейзаж 1921 года. Репродукция происходит из Norrköpings Auktionsverk; аукционный источник не выдаётся за нынешнее собрание.",
+    "caution": "Дата 1921, материал и размер подтверждены wikitext именно этого файла. Другие аукционные пейзажи 1921 года по похожему названию не подставлялись. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=7686585"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_7686585",
+      "title": "Закат в зимнем пейзаже",
+      "date": "1921",
+      "museum": "Нынешнее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

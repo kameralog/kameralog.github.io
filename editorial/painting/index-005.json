@@ -1,5 +1,20 @@
 [
   {
+    "id": "constance_charpentier",
+    "name": "Констанс Шарпантье",
+    "path": "records/constance_charpentier.json"
+  },
+  {
+    "id": "constantin_hansen",
+    "name": "Константин Хансен",
+    "path": "records/constantin_hansen.json"
+  },
+  {
+    "id": "coppo_di_marcovaldo",
+    "name": "Коппо ди Марковальдо",
+    "path": "records/coppo_di_marcovaldo.json"
+  },
+  {
     "id": "cornelis_van_poelenburgh",
     "name": "Корнелис ван Пуленбург",
     "path": "records/cornelis_van_poelenburgh.json"
@@ -483,20 +498,5 @@
     "id": "marie_kroyer",
     "name": "Мари Крёйер",
     "path": "records/marie_kroyer.json"
-  },
-  {
-    "id": "marie_luplau",
-    "name": "Мари Луплау",
-    "path": "records/marie_luplau.json"
-  },
-  {
-    "id": "marie_antoinette_marcotte",
-    "name": "Мари-Антуанетта Маркотт",
-    "path": "records/marie_antoinette_marcotte.json"
-  },
-  {
-    "id": "marie_victoire_lemoine",
-    "name": "Мари-Виктуар Лемуан",
-    "path": "records/marie_victoire_lemoine.json"
   }
 ]

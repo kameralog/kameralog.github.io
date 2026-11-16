@@ -1,0 +1,49 @@
+{
+  "id": "josef_wilhelm_wallander",
+  "name": "Йозеф Вильгельм Валландер",
+  "latin": "Josef Wilhelm Wallander",
+  "life": "1821–1888",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Формы Josef Wilhelm, Joseph Wilhelm, Wilhelm и Vilhelm Wallander объединены в одной карточке.",
+      "Выбран легендарный скандинавский сюжет. Английское имя Signy and Hagbard относится к тому же файлу Signhild.jpg; шведский заголовок описывает более конкретный эпизод, а не другую выбранную работу."
+    ],
+    "technique": [
+      "Живопись; материал и физические размеры в прочитанном паспорте не уточнены",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран легендарный скандинавский сюжет. Английское имя Signy and Hagbard относится к тому же файлу Signhild.jpg; шведский заголовок описывает более конкретный эпизод, а не другую выбранную работу.",
+    "caution": "Оригинальный заголовок конкретизирует эпизод истории Сигне. Год 1861 получен из развёрнутых метаданных Commons / Wikidata; отдельный музейный паспорт не прочитан. Оригинал 480 × 580 пикселей, без увеличения. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Signhild.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=6435569"
+    },
+    {
+      "title": "Wikidata: связанная запись произведения",
+      "url": "https://www.wikidata.org/wiki/Q76632157"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_6435569",
+      "title": "Сигне и Хагбард",
+      "date": "1861 (по Commons / Wikidata)",
+      "museum": "Нынешнее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Signhild.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

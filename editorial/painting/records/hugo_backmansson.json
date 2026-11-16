@@ -1,0 +1,49 @@
+{
+  "id": "hugo_backmansson",
+  "name": "Хуго Бакманссон",
+  "latin": "Hugo Backmansson",
+  "life": "1860–1953",
+  "tag": "Финляндия · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Финский художник и военный. Его авторская идентичность отделена от шведского собрания, в котором хранится выбранный портрет.",
+      "Изображён Карл Бруно Острём, главный кассир нефтяного товарищества братьев Нобель и участник шведского объединения в Петрограде. Дата портрета 1906, поэтому позднее название города в музейном заголовке не датирует саму сцену."
+    ],
+    "technique": [
+      "Масло; 64 × 50 см; основа в прочитанном паспорте не указана",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Изображён Карл Бруно Острём, главный кассир нефтяного товарищества братьев Нобель и участник шведского объединения в Петрограде. Дата портрета 1906, поэтому позднее название города в музейном заголовке не датирует саму сцену.",
+    "caution": "Финский художник, не шведский. Автор — Бакманссон, изображённый человек — Карл Бруно Острём. Основа не уточнена до холста. В правовом шаблоне не заполнен deathyear; известные годы жизни автора 1860–1953. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=64083757"
+    },
+    {
+      "title": "Nationalmuseum: паспорт портрета",
+      "url": "https://collection.nationalmuseum.se/sv/collection/item/39049/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_64083757",
+      "title": "Карл Бруно Острём",
+      "date": "1906",
+      "museum": "Nationalmuseum / Gripsholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Karl_Bruno_%C3%85str%C3%B6m_%28H_Backmansson%29_-_Nationalmuseum_-_39049.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

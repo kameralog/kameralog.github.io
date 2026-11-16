@@ -1,5 +1,25 @@
 [
   {
+    "id": "sahibdin",
+    "name": "Сахибдин",
+    "path": "records/sahibdin.json"
+  },
+  {
+    "id": "sebastien_bourdon",
+    "name": "Себастьен Бурдон",
+    "path": "records/sebastien_bourdon.json"
+  },
+  {
+    "id": "sebastian_isepp",
+    "name": "Себастьян Изепп",
+    "path": "records/sebastian_isepp.json"
+  },
+  {
+    "id": "sebastiano_del_piombo",
+    "name": "Себастьяно дель Пьомбо",
+    "path": "records/sebastiano_del_piombo.json"
+  },
+  {
     "id": "sebastiano_conca",
     "name": "Себастьяно Конка",
     "path": "records/sebastiano_conca.json"
@@ -260,6 +280,11 @@
     "path": "records/olof_arborelius.json"
   },
   {
+    "id": "uno_troili",
+    "name": "Уно Троили",
+    "path": "records/uno_troili.json"
+  },
+  {
     "id": "fanny_brate",
     "name": "Фанни Брате",
     "path": "records/fanny_brate.json"
@@ -473,30 +498,5 @@
     "id": "francesco_melzi",
     "name": "Франческо Мельци",
     "path": "records/francesco_melzi.json"
-  },
-  {
-    "id": "francesco_pesellino",
-    "name": "Франческо Пезеллино",
-    "path": "records/francesco_pesellino.json"
-  },
-  {
-    "id": "francesco_salviati",
-    "name": "Франческо Сальвиати",
-    "path": "records/francesco_salviati.json"
-  },
-  {
-    "id": "francesco_solimena",
-    "name": "Франческо Солимена",
-    "path": "records/francesco_solimena.json"
-  },
-  {
-    "id": "francesco_trevisani",
-    "name": "Франческо Тревизани",
-    "path": "records/francesco_trevisani.json"
-  },
-  {
-    "id": "francesco_francia",
-    "name": "Франческо Франча",
-    "path": "records/francesco_francia.json"
   }
 ]

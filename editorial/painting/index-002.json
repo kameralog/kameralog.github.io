@@ -295,6 +295,11 @@
     "path": "records/gustaf_rydberg.json"
   },
   {
+    "id": "gustaf_cederstrom",
+    "name": "Густаф Седерстрём",
+    "path": "records/gustaf_cederstrom.json"
+  },
+  {
     "id": "gustave_courbet",
     "name": "Гюстав Курбе",
     "path": "records/gustave_courbet.json"
@@ -493,10 +498,5 @@
     "id": "giovanni_battista_piazzetta",
     "name": "Джованни Баттиста Пьяццетта",
     "path": "records/giovanni_battista_piazzetta.json"
-  },
-  {
-    "id": "giovanni_battista_recco",
-    "name": "Джованни Баттиста Рекко",
-    "path": "records/giovanni_battista_recco.json"
   }
 ]

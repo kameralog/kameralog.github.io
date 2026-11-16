@@ -1,5 +1,20 @@
 [
   {
+    "id": "marie_luplau",
+    "name": "Мари Луплау",
+    "path": "records/marie_luplau.json"
+  },
+  {
+    "id": "marie_antoinette_marcotte",
+    "name": "Мари-Антуанетта Маркотт",
+    "path": "records/marie_antoinette_marcotte.json"
+  },
+  {
+    "id": "marie_victoire_lemoine",
+    "name": "Мари-Виктуар Лемуан",
+    "path": "records/marie_victoire_lemoine.json"
+  },
+  {
     "id": "marie_gabrielle_capet",
     "name": "Мари-Габриэль Капе",
     "path": "records/marie_gabrielle_capet.json"
@@ -213,6 +228,11 @@
     "id": "mina_arndt",
     "name": "Мина Арндт",
     "path": "records/mina_arndt.json"
+  },
+  {
+    "id": "mina_carlson_bredberg",
+    "name": "Мина Карлсон-Бредберг",
+    "path": "records/mina_carlson_bredberg.json"
   },
   {
     "id": "vrubel",
@@ -478,25 +498,5 @@
     "id": "oszkar_glatz",
     "name": "Оскар Глац",
     "path": "records/oszkar_glatz.json"
-  },
-  {
-    "id": "oskar_kallis",
-    "name": "Оскар Каллис",
-    "path": "records/oskar_kallis.json"
-  },
-  {
-    "id": "oskar_kleineh",
-    "name": "Оскар Клейне",
-    "path": "records/oskar_kleineh.json"
-  },
-  {
-    "id": "kokoschka",
-    "name": "Оскар Кокошка",
-    "path": "records/kokoschka.json"
-  },
-  {
-    "id": "oskar_laske",
-    "name": "Оскар Ласке",
-    "path": "records/oskar_laske.json"
   }
 ]

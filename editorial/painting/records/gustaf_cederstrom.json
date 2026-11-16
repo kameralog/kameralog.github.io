@@ -1,0 +1,49 @@
+{
+  "id": "gustaf_cederstrom",
+  "name": "Густаф Седерстрём",
+  "latin": "Gustaf Cederström",
+  "life": "1845–1933",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский художник исторической живописи. Первый вариант этой композиции был написан в Париже в 1877–1878 годах; по общественной инициативе позднее появилась версия для Nationalmuseum.",
+      "Выбрана музейная версия 1884 года. Музей подчёркивает, что Карла XII не несли на открытых носилках: художник объединил разные события в воображаемую историческую сцену."
+    ],
+    "technique": [
+      "Масло на холсте; 265 × 371 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана музейная версия 1884 года. Музей подчёркивает, что Карла XII не несли на открытых носилках: художник объединил разные события в воображаемую историческую сцену.",
+    "caution": "Выбрана версия 1884 года, NM 1363, не оригинал 1877–1878 годов в Гётеборге. Размеры исправлены по музею, не по ошибочной строке старого импорта. Используется конкретный Public Domain файл Google Art Project; CC BY-SA другой фотографии к нему не переносится. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=22007143"
+    },
+    {
+      "title": "Nationalmuseum: версия, инвентарь, размеры и интерпретация",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18366/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_22007143",
+      "title": "Перенесение тела Карла XII",
+      "date": "1884",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

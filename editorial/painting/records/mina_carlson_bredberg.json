@@ -1,0 +1,49 @@
+{
+  "id": "mina_carlson_bredberg",
+  "name": "Мина Карлсон-Бредберг",
+  "latin": "Mina Carlson-Bredberg",
+  "life": "1857–1943",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведская художница и преподаватель. Училась у Керстин Кардон и Аманды Сидваль, затем в Париже; в 1893–1895 годах преподавала в школе Элизабет Кейзер.",
+      "SKBL различает её автопортрет 1886 года и другой автопортрет, отмеченный на Всемирной выставке 1889 года. Для карточки выбран конкретный файл с датой 1889, а не перенесены сведения с более ранней картины."
+    ],
+    "technique": [
+      "Живопись; точная техника и физические размеры в основном паспорте не указаны",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: SKBL различает её автопортрет 1886 года и другой автопортрет, отмеченный на Всемирной выставке 1889 года. Для карточки выбран конкретный файл с датой 1889, а не перенесены сведения с более ранней картины.",
+    "caution": "Не смешивать с автопортретом 1886 года. В SKBL отдельно описаны обе работы и подпись к выбранному изображению даёт 1889 год. Оригинал 590 × 747 пикселей, без увеличения. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Self_portrait_-_Mina_Carlson-Bredberg.png"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=141813217"
+    },
+    {
+      "title": "SKBL: Lisbet Ahnoff, биографическая справка",
+      "url": "https://www.skbl.se/en/article/MinaCarlsonBredberg"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_141813217",
+      "title": "Автопортрет",
+      "date": "1889",
+      "museum": "Prins Eugens Waldemarsudde; по SKBL и категориям Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Self_portrait_-_Mina_Carlson-Bredberg.png"
+    }
+  ],
+  "pendingWorksCount": 0
+}

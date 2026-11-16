@@ -1,5 +1,10 @@
 [
   {
+    "id": "giovanni_battista_recco",
+    "name": "Джованни Баттиста Рекко",
+    "path": "records/giovanni_battista_recco.json"
+  },
+  {
     "id": "giovanni_battista_ruoppolo",
     "name": "Джованни Баттиста Руопполо",
     "path": "records/giovanni_battista_ruoppolo.json"
@@ -493,10 +498,5 @@
     "id": "istvan_reti",
     "name": "Иштван Рети",
     "path": "records/istvan_reti.json"
-  },
-  {
-    "id": "istvan_szonyi",
-    "name": "Иштван Сёни",
-    "path": "records/istvan_szonyi.json"
   }
 ]

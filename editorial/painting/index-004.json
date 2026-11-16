@@ -1,5 +1,10 @@
 [
   {
+    "id": "istvan_szonyi",
+    "name": "Иштван Сёни",
+    "path": "records/istvan_szonyi.json"
+  },
+  {
     "id": "istvan_csok",
     "name": "Иштван Чок",
     "path": "records/istvan_csok.json"
@@ -83,6 +88,11 @@
     "id": "jozsef_egry",
     "name": "Йожеф Эгри",
     "path": "records/jozsef_egry.json"
+  },
+  {
+    "id": "josef_wilhelm_wallander",
+    "name": "Йозеф Вильгельм Валландер",
+    "path": "records/josef_wilhelm_wallander.json"
   },
   {
     "id": "josef_danhauser",
@@ -253,6 +263,11 @@
     "id": "carl_bloch",
     "name": "Карл Блох",
     "path": "records/carl_bloch.json"
+  },
+  {
+    "id": "carl_gustaf_hellqvist",
+    "name": "Карл Густаф Хелльквист",
+    "path": "records/carl_gustaf_hellqvist.json"
   },
   {
     "id": "karl_isakson",
@@ -483,20 +498,5 @@
     "id": "constance_mayer",
     "name": "Констанс Майер",
     "path": "records/constance_mayer.json"
-  },
-  {
-    "id": "constance_charpentier",
-    "name": "Констанс Шарпантье",
-    "path": "records/constance_charpentier.json"
-  },
-  {
-    "id": "constantin_hansen",
-    "name": "Константин Хансен",
-    "path": "records/constantin_hansen.json"
-  },
-  {
-    "id": "coppo_di_marcovaldo",
-    "name": "Коппо ди Марковальдо",
-    "path": "records/coppo_di_marcovaldo.json"
   }
 ]

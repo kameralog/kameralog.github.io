@@ -1,5 +1,30 @@
 [
   {
+    "id": "francesco_pesellino",
+    "name": "Франческо Пезеллино",
+    "path": "records/francesco_pesellino.json"
+  },
+  {
+    "id": "francesco_salviati",
+    "name": "Франческо Сальвиати",
+    "path": "records/francesco_salviati.json"
+  },
+  {
+    "id": "francesco_solimena",
+    "name": "Франческо Солимена",
+    "path": "records/francesco_solimena.json"
+  },
+  {
+    "id": "francesco_trevisani",
+    "name": "Франческо Тревизани",
+    "path": "records/francesco_trevisani.json"
+  },
+  {
+    "id": "francesco_francia",
+    "name": "Франческо Франча",
+    "path": "records/francesco_francia.json"
+  },
+  {
     "id": "francesco_furini",
     "name": "Франческо Фурини",
     "path": "records/francesco_furini.json"
@@ -280,6 +305,16 @@
     "path": "records/juana_romani.json"
   },
   {
+    "id": "hugo_backmansson",
+    "name": "Хуго Бакманссон",
+    "path": "records/hugo_backmansson.json"
+  },
+  {
+    "id": "hugo_birger",
+    "name": "Хуго Биргер",
+    "path": "records/hugo_birger.json"
+  },
+  {
     "id": "hugo_salmson",
     "name": "Хуго Сальмсон",
     "path": "records/hugo_salmson.json"
@@ -430,9 +465,19 @@
     "path": "records/schiele.json"
   },
   {
+    "id": "edvard_westman",
+    "name": "Эдвард Вестман",
+    "path": "records/edvard_westman.json"
+  },
+  {
     "id": "munch",
     "name": "Эдвард Мунк",
     "path": "records/munch.json"
+  },
+  {
+    "id": "edward_rosenberg",
+    "name": "Эдвард Розенберг",
+    "path": "records/edward_rosenberg.json"
   },
   {
     "id": "hopper",
@@ -453,50 +498,5 @@
     "id": "edith_collier",
     "name": "Эдит Коллиер",
     "path": "records/edith_collier.json"
-  },
-  {
-    "id": "edith_hayllar",
-    "name": "Эдит Хейллар",
-    "path": "records/edith_hayllar.json"
-  },
-  {
-    "id": "edouard_vallet",
-    "name": "Эдуар Валле",
-    "path": "records/edouard_vallet.json"
-  },
-  {
-    "id": "manet",
-    "name": "Эдуар Мане",
-    "path": "records/manet.json"
-  },
-  {
-    "id": "eugene_burnand",
-    "name": "Эжен Бюрнан",
-    "path": "records/eugene_burnand.json"
-  },
-  {
-    "id": "eugene_delacroix",
-    "name": "Эжен Делакруа",
-    "path": "records/eugene_delacroix.json"
-  },
-  {
-    "id": "eugene_jansson",
-    "name": "Эжен Янссон",
-    "path": "records/eugene_jansson.json"
-  },
-  {
-    "id": "eilif_peterssen",
-    "name": "Эйлиф Петерссен",
-    "path": "records/eilif_peterssen.json"
-  },
-  {
-    "id": "eleanor_fortescue_brickdale",
-    "name": "Элеонора Фортескью-Брикдейл",
-    "path": "records/eleanor_fortescue_brickdale.json"
-  },
-  {
-    "id": "elisa_de_gamond",
-    "name": "Элиза де Гамонд",
-    "path": "records/elisa_de_gamond.json"
   }
 ]

@@ -1,0 +1,53 @@
+{
+  "id": "hugo_birger",
+  "name": "Хуго Биргер",
+  "latin": "Hugo Birger",
+  "life": "1854–1887",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, учившийся в Стокгольмской академии в 1871–1877 годах и уехавший в Париж в 1877 году. Его биография связана с французской салонной и пленэрной средой.",
+      "Музей связывает небольшие парижские этюды с наблюдением повседневности и интересом коллекционеров. Биргер делил мастерскую с Эрнстом Юсефсоном; название улицы на выбранной картине неизвестно."
+    ],
+    "technique": [
+      "Масло на дереве; 46 × 37 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Музей связывает небольшие парижские этюды с наблюдением повседневности и интересом коллекционеров. Биргер делил мастерскую с Эрнстом Юсефсоном; название улицы на выбранной картине неизвестно.",
+    "caution": "Дата неизвестна. Rue Gabrielle названа в связи с мастерской художника, а не как установленное название изображённой улицы. Основа — дерево, не холст. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52114418"
+    },
+    {
+      "title": "Web Gallery of Art: биография",
+      "url": "https://www.wga.hu/bio_m/b/birger/biograph.html"
+    },
+    {
+      "title": "Nationalmuseum: конкретная работа",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18854/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_52114418",
+      "title": "Улица в Париже. Этюд Монмартра",
+      "date": "Дата не установлена",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Street_in_Paris._Study_from_Montmartre_%28Hugo_Birger%29_-_Nationalmuseum_-_18854.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

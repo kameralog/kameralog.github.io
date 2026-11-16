@@ -1,0 +1,53 @@
+{
+  "id": "uno_troili",
+  "name": "Уно Троили",
+  "latin": "Uno Troili",
+  "life": "1815–1875",
+  "tag": "Швеция · живопись и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-159.js",
+  "existing": {
+    "bio": [
+      "Шведский портретист и музыкант. После военной службы работал как профессиональный художник; позднее учился у Тома Кутюра в Париже.",
+      "Выбран автопортрет NM 7545. Текущий музейный паспорт даёт около 1850 года, масло на картоне и размер 26 × 21,2 см; интервал Commons 1848–1852 сохранён как дополнительное уточнение."
+    ],
+    "technique": [
+      "Масло на картоне; 26 × 21,2 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран автопортрет NM 7545. Текущий музейный паспорт даёт около 1850 года, масло на картоне и размер 26 × 21,2 см; интервал Commons 1848–1852 сохранён как дополнительное уточнение.",
+    "caution": "Музей: около 1850; Commons: 1848–1852. Не подставлять 1846 с другого автопортрета. Основа — картон, не холст. Кредит фотографа на музейной странице не является самостоятельной визуальной идентификацией снимка. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены. Правовой статус указан по конкретному файлу Commons; различия юрисдикций не исключены.",
+    "editorialStatus": "METADATA_FILE_RIGHTS_DECODE_CATALOGUE_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=103262247"
+    },
+    {
+      "title": "Nationalmuseum: паспорт NM 7545",
+      "url": "https://collection.nationalmuseum.se/sv/collection/item/237296/"
+    },
+    {
+      "title": "Биографическая справка",
+      "url": "https://en.wikipedia.org/wiki/Uno_Troili"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting159_commons_103262247",
+      "title": "Автопортрет",
+      "date": "Около 1850",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

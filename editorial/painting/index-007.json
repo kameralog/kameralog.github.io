@@ -1,5 +1,25 @@
 [
   {
+    "id": "oskar_kallis",
+    "name": "Оскар Каллис",
+    "path": "records/oskar_kallis.json"
+  },
+  {
+    "id": "oskar_kleineh",
+    "name": "Оскар Клейне",
+    "path": "records/oskar_kleineh.json"
+  },
+  {
+    "id": "kokoschka",
+    "name": "Оскар Кокошка",
+    "path": "records/kokoschka.json"
+  },
+  {
+    "id": "oskar_laske",
+    "name": "Оскар Ласке",
+    "path": "records/oskar_laske.json"
+  },
+  {
     "id": "otakar_lebeda",
     "name": "Отакар Лебеда",
     "path": "records/otakar_lebeda.json"
@@ -478,25 +498,5 @@
     "id": "sassoferrato",
     "name": "Сассоферрато",
     "path": "records/sassoferrato.json"
-  },
-  {
-    "id": "sahibdin",
-    "name": "Сахибдин",
-    "path": "records/sahibdin.json"
-  },
-  {
-    "id": "sebastien_bourdon",
-    "name": "Себастьен Бурдон",
-    "path": "records/sebastien_bourdon.json"
-  },
-  {
-    "id": "sebastian_isepp",
-    "name": "Себастьян Изепп",
-    "path": "records/sebastian_isepp.json"
-  },
-  {
-    "id": "sebastiano_del_piombo",
-    "name": "Себастьяно дель Пьомбо",
-    "path": "records/sebastiano_del_piombo.json"
   }
 ]
