@@ -1,0 +1,130 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-123.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/anna_de_weert.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_027_anna_de_weert",
+  "proposedArtistId": "anna_de_weert",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_027_anna_de_weert",
+    "file": "File:Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg/1280px-Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg/1280px-Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 854,
+      "attempt": 1,
+      "screenshot": "007-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2659,
+      "height": 1774,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    2659,
+    1774
+  ],
+  "metadata": {
+    "pageid": 99282924,
+    "title": "File:Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Mijn_atelier_in_juni,_Anna_De_Weert,_Museum_voor_Schone_Kunsten_Gent,_1912-B.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Mijn_atelier_in_juni%2C_Anna_De_Weert%2C_Museum_voor_Schone_Kunsten_Gent%2C_1912-B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2659,
+    "height": 1774,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_De_Weert\" class=\"extiw\" title=\"w:en:Anna De Weert\"><span title=\"Belgian painter (1867–1950)\">Anna De Weert</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\nMijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "between June 1909 and June 1910<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1909-06-00T00:00:00Z/10,P1326,+1910-06-00T00:00:00Z/10</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q21675333#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Museum_of_Fine_Arts,_Ghent\" class=\"extiw\" title=\"w:en:Museum of Fine Arts, Ghent\"><span title=\"museum of fine arts in Ghent, Belgium\">Museum of Fine Arts Ghent (MSK)</span></a>\n</bdi>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border: 2px solid var(--border-color-subtle, #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |artist =\n |author = \n |title = Mijn atelier in juni\n |description = Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B\n |date = \n |medium = \n |dimensions = \n |institution = {{Institution:Museum of Fine Arts, Ghent}}\n |department = \n |place of discovery = \n |object history = \n |exhibition history = \n |credit line =\n |inscriptions = \n |notes = \n |accession number = 1912-B\n |place of creation = \n |source = {{Institution:Museum of Fine Arts, Ghent}}\n |permission = {{cc-zero}}\n |other_versions = \n |references = \n |wikidata = Q21675333\n}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n[[Category:My Studio in June by Anna De Weert]]\n[[Category:Images from the Museum of Fine Arts Ghent]]\n[[Category:Media contributed by meemoo]]\n[[Category:Museum of Fine Arts Ghent publicdomainday 2021 upload]]\n[[Category:Uploaded with pattypan]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "anna_de_weert",
+        "name": "Анна де Верт",
+        "latin": "Anna De Weert"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_99282924",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

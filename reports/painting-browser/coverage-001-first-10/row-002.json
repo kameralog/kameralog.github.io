@@ -1,0 +1,134 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-132.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/albert_edelfelt.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_017_albert_edelfelt",
+  "proposedArtistId": "albert_edelfelt",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_017_albert_edelfelt",
+    "file": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/1280px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/1280px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 958,
+      "attempt": 1,
+      "screenshot": "002-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/3840px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg/3840px-Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2873,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    8724,
+    6528
+  ],
+  "metadata": {
+    "pageid": 47993767,
+    "title": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_The_Luxembourg_Gardens,_Paris.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/53/Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 8724,
+    "height": 6528,
+    "extmetadata": {
+      "GPSLatitude": {
+        "value": "60.170000",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "24.944167",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Albert_Edelfelt\" class=\"extiw\" title=\"w:en:Albert Edelfelt\"><span title=\"Finland Swedish painter and illustrator (1854-1905)\">Albert Edelfelt</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "Scene from a Parisian park with women and children.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1887<div style=\"display: none;\">date QS:P571,+1887-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.kansallisgalleria.fi/en\">The Finnish National Gallery</a> has created and shares this file from the Antell Collections collection. Photograph: Finnish National Gallery / Hannu Aaltonen.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "\n{{Assessments|featured=1}}\n=={{int:filedesc}}==\n{{Artwork\n |artist             = {{creator:Albert Edelfelt}}\n |author             = \n |title              = {{title|en=The Luxembourg Gardens, Paris|fi=Pariisin Luxembourgin puistossa}}\n |description        =\n  {{en|1=Scene from a Parisian park with women and children.}}\n  {{fr|1=''{{Wf|Au jardin du Luxembourg}}'' (1887), huile sur toile d'{{Wf|Albert Edelfelt}}.}}\n  {{fi|Näkymä pariisilaisesta puistosta, jossa naisia ja lapsia.}}\n |object type        = \n |date               = 1887\n |medium             = {{oil on canvas}}\n |dimensions         = {{size|cm|141.5|186.5}}\n |institution        = {{Institution:Ateneum Art Museum}}\n |department         = \n |accession number   = A II 835\n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = {{Finnish National Gallery|photographer=Hannu Aaltonen|collection=Antell Collections}}\n |permission         = \n |other_versions     = <gallery>File:Albert_Edelfelt_-_The_Luxembourg_Gardens,_Paris_-_Google_Art_Project.jpg|Google Art Project</gallery>\n |wikidata           = Q18346884\n |other_fields       = \n}}\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-70-1923|Cc-by-4.0|deathyear=1905}}\n{{VI|Albert Edelfelt: {{c|The Luxembourg Gardens by Albert Edelfelt|The Luxembourg Gardens, Paris}} (1887) – Ateneum|00:18, 21 October 2024 (UTC)|\nsubpage=Albert Edelfelt - The Luxembourg Gardens, Paris.jpg}}\n\n[[Category:The Luxembourg Gardens by Albert Edelfelt]]\n[[Category:Google Art Project works by Albert Edelfelt]]\n[[Category:Featured pictures of paintings from Finland]]\n[[Category:Featured pictures of history of Paris]]\n[[Category:Featured pictures of children]]\n[[Category:Valued images of paintings in Finland]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "albert_edelfelt",
+        "name": "Альберт Эдельфельт",
+        "latin": "Albert Edelfelt"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_47993767",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

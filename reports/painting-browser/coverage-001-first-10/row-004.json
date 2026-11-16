@@ -1,0 +1,117 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-130.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/amaldus_nielsen.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_021_amaldus_nielsen",
+  "proposedArtistId": "amaldus_nielsen",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_021_amaldus_nielsen",
+    "file": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 738,
+      "attempt": 1,
+      "screenshot": "004-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/3840px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/3840px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2215,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    4000,
+    2307
+  ],
+  "metadata": {
+    "pageid": 98010473,
+    "title": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4000,
+    "height": 2307,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amaldus_Nielsen\" class=\"extiw\" title=\"w:en:Amaldus Nielsen\"><span title=\"Norwegian artist (1838-1932)\">Amaldus Nielsen</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1885 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NG.M.00326\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1932}}\n\n{{DEFAULTSORT:Nielsen, Amaldus; Morning in Ny-Hellesund}}\n[[Category:Paintings by Amaldus Nielsen in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:19th-century landscape paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Ny-Hellesund in art]]\n[[Category:Paintings of Norwegian fjords]]\n[[Category:19th-century paintings of mountains of Norway]]\n[[Category:Paintings of mornings]]\n[[Category:Paintings of clouds]]\n[[Category:Clouds in Norway]]\n[[Category:Rowing in Norway]]\n[[Category:Rowboats in Norway]]\n[[Category:Paintings of rowboats]]\n[[Category:Paintings of houses in Norway]]\n[[Category:1885 landscape paintings from Norway]]\n[[Category:1885 oil on canvas paintings in Norway]]\n[[Category:Art 3. Works from the collection 1814-1950]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "amaldus_nielsen",
+        "name": "Амальдус Нильсен",
+        "latin": "Amaldus Nielsen"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_98010473",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

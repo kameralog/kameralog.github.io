@@ -1,0 +1,117 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-112.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/asta_norregaard.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_042_asta_norregaard",
+  "proposedArtistId": "asta_norregaard",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_042_asta_norregaard",
+    "file": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1829,
+      "attempt": 1,
+      "screenshot": "008-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2100,
+      "height": 3000,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    2100,
+    3000
+  ],
+  "metadata": {
+    "pageid": 98009147,
+    "title": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2100,
+    "height": 3000,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Asta_N%C3%B8rregaard\" class=\"extiw\" title=\"w:en:Asta Nørregaard\"><span title=\"Norwegian artist (1853–1933)\">Asta Nørregaard</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1911 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NMK.2008.0706\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |other versions = \n<gallery>\nAsta Nørregaard - Selvportrett - Nasjonalmuseet - NMK.2008.0706.png\n</gallery>\n}}\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1933}}\n\n{{DEFAULTSORT:Nørregaard, Asta; Selvportrett}}\n[[Category:Asta Nørregaard]]\n[[Category:Paintings by Asta Nørregaard in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Self-portrait paintings by Asta Nørregaard]]\n[[Category:20th-century portrait paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Portrait paintings of women of Norway]]\n[[Category:Self-portrait paintings in Norway]]\n[[Category:20th-century self-portrait paintings of women]]\n[[Category:1910s self-portrait paintings of women]]\n[[Category:20th-century women looking at viewer in art]]\n[[Category:20th-century paintings of women with black dresses]]\n[[Category:20th-century oil portraits of women at half length]]\n[[Category:20th-century portrait paintings with neutral background]]\n[[Category:1911 paintings in Norway]]\n[[Category:1911 portrait paintings from Norway]]\n[[Category:1911 portrait paintings of women]]\n[[Category:1911 oil on canvas paintings]]\n[[Category:20th-century oil on canvas portrait paintings in Norway]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "asta_norregaard",
+        "name": "Аста Нёррегор",
+        "latin": "Asta Nørregaard"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_98009147",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

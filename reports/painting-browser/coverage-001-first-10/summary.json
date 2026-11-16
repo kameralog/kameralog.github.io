@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "status": "extracted_not_editorially_approved",
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "browserStatus": "passed_selected_targets",
+  "browserSmokePassed": true,
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "modules": 158,
+  "artists": 1116,
+  "cards": 777,
+  "counts": {
+    "selected": 10,
+    "passed": 10,
+    "failed": 0,
+    "pending": 0
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false,
+  "rows": [
+    {
+      "id": "coverage001_003_adolph_tidemand",
+      "path": "reports/painting-browser/coverage-001-first-10/row-000.json",
+      "status": "passed",
+      "proposedArtistId": "adolph_tidemand",
+      "canonicalFile": "File:Adolph Tidemand - Low Church Devotion - Google Art Project.jpg",
+      "pageid": 29841644,
+      "artist": "Adolph Tidemand",
+      "date": "1848",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 1015
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 3543,
+          "height": 2810
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "adolph_tidemand",
+          "name": "Адольф Тидеманд",
+          "latin": "Adolph Tidemand"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_29841644",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_010_alexander_laureus",
+      "path": "reports/painting-browser/coverage-001-first-10/row-001.json",
+      "status": "passed",
+      "proposedArtistId": "alexander_laureus",
+      "canonicalFile": "File:Alexander Lauréus - Party at the Parsonage - A-2002-563 - Finnish National Gallery.jpg",
+      "pageid": 66315325,
+      "artist": "Aleksander Lauréus",
+      "date": "1815",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 976
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 1619,
+          "height": 1234
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "alexander_laureus",
+          "name": "Александр Лауреус",
+          "latin": "Alexander Lauréus"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_66315325",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_017_albert_edelfelt",
+      "path": "reports/painting-browser/coverage-001-first-10/row-002.json",
+      "status": "passed",
+      "proposedArtistId": "albert_edelfelt",
+      "canonicalFile": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg",
+      "pageid": 47993767,
+      "artist": "Albert Edelfelt",
+      "date": "1887",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 958
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 3840,
+          "height": 2873
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "albert_edelfelt",
+          "name": "Альберт Эдельфельт",
+          "latin": "Albert Edelfelt"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_47993767",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_020_amalia_lindegren",
+      "path": "reports/painting-browser/coverage-001-first-10/row-003.json",
+      "status": "passed",
+      "proposedArtistId": "amalia_lindegren",
+      "canonicalFile": "File:Söndagsafton i en dalstuga utan ram.jpg",
+      "pageid": 23189355,
+      "artist": "Amalia Lindegren",
+      "date": "1860",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 959
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 2719,
+          "height": 2038
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "amalia_lindegren",
+          "name": "Амалия Линдегрен",
+          "latin": "Amalia Lindegren"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_23189355",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_021_amaldus_nielsen",
+      "path": "reports/painting-browser/coverage-001-first-10/row-004.json",
+      "status": "passed",
+      "proposedArtistId": "amaldus_nielsen",
+      "canonicalFile": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg",
+      "pageid": 98010473,
+      "artist": "Amaldus Nielsen",
+      "date": "1885",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 738
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 3840,
+          "height": 2215
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "amaldus_nielsen",
+          "name": "Амальдус Нильсен",
+          "latin": "Amaldus Nielsen"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_98010473",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_022_amanda_sidwall",
+      "path": "reports/painting-browser/coverage-001-first-10/row-005.json",
+      "status": "passed",
+      "proposedArtistId": "amanda_sidwall",
+      "canonicalFile": "File:Portrait of a Girl (Amanda Sidvall) - Nationalmuseum - 133153.tif",
+      "pageid": 64096895,
+      "artist": "Amanda Sidvall",
+      "date": "Unknown date",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 1493
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 1920,
+          "height": 2240
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "amanda_sidwall",
+          "name": "Аманда Сидваль",
+          "latin": "Amanda Sidwall"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_64096895",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_023_amelie_lundahl",
+      "path": "reports/painting-browser/coverage-001-first-10/row-006.json",
+      "status": "passed",
+      "proposedArtistId": "amelie_lundahl",
+      "canonicalFile": "File:Amélie Lundahl - The Garden Girl.jpg",
+      "pageid": 92844322,
+      "artist": "Amélie Lundahl",
+      "date": "1885",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 1904
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 2382,
+          "height": 3543
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "amelie_lundahl",
+          "name": "Амели Лундаль",
+          "latin": "Amélie Lundahl"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_92844322",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_027_anna_de_weert",
+      "path": "reports/painting-browser/coverage-001-first-10/row-007.json",
+      "status": "passed",
+      "proposedArtistId": "anna_de_weert",
+      "canonicalFile": "File:Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B.jpg",
+      "pageid": 99282924,
+      "artist": "Anna De Weert",
+      "date": "between June 1909 and June 1910",
+      "licenseDeclared": "CC0",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 854
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 2659,
+          "height": 1774
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "anna_de_weert",
+          "name": "Анна де Верт",
+          "latin": "Anna De Weert"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_99282924",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_042_asta_norregaard",
+      "path": "reports/painting-browser/coverage-001-first-10/row-008.json",
+      "status": "passed",
+      "proposedArtistId": "asta_norregaard",
+      "canonicalFile": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg",
+      "pageid": 98009147,
+      "artist": "Asta Nørregaard",
+      "date": "1911",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 1829
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 2100,
+          "height": 3000
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "asta_norregaard",
+          "name": "Аста Нёррегор",
+          "latin": "Asta Nørregaard"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_98009147",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "coverage001_043_astrid_holm",
+      "path": "reports/painting-browser/coverage-001-first-10/row-009.json",
+      "status": "passed",
+      "proposedArtistId": "astrid_holm",
+      "canonicalFile": "File:Astrid Holm, Rose dækker bord, 1914, KMS8558, Statens Museum for Kunst.jpg",
+      "pageid": 145270834,
+      "artist": "Astrid Holm",
+      "date": "1914",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 1593
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 3840,
+          "height": 4780
+        }
+      ],
+      "existingArtistMatches": [
+        {
+          "id": "astrid_holm",
+          "name": "Астрид Хольм",
+          "latin": "Astrid Holm"
+        }
+      ],
+      "proposedWorkKey": "coverage001_commons_145270834",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    }
+  ]
+}

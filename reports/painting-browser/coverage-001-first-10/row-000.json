@@ -1,0 +1,117 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-129.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/adolph_tidemand.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_003_adolph_tidemand",
+  "proposedArtistId": "adolph_tidemand",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_003_adolph_tidemand",
+    "file": "File:Adolph Tidemand - Low Church Devotion - Google Art Project.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg/1280px-Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg/1280px-Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1015,
+      "attempt": 1,
+      "screenshot": "000-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3543,
+      "height": 2810,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    3543,
+    2810
+  ],
+  "metadata": {
+    "pageid": 29841644,
+    "title": "File:Adolph Tidemand - Low Church Devotion - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/09/Adolph_Tidemand_-_Low_Church_Devotion_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 3543,
+    "height": 2810,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Adolph_Tidemand\" class=\"extiw\" title=\"w:en:Adolph Tidemand\"><span title=\"Norwegian painter (1814-1876)\">Adolph Tidemand</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1848<div style=\"display: none;\">date QS:P571,+1848-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/UQHCast-bcBx5w\">UQHCast-bcBx5w at Google Cultural Institute</a>, zoom level maximum",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|wikidata=Q6862834\n|commons:artist={{Creator:Adolph Tidemand}}\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions= \n|commons:institution={{Institution:Nasjonalmuseet for kunst, arkitektur og design}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions={{Image extracted|1=Adolph Tidemand - Low Church Devotion - Google Art Project (cropped).jpg}}\n|commons:zoom=\n\n|core:title = {{en|Low Church Devotion}}\n|core:creator = {{en|Adolph Tidemand}}\n|core:date.dateCreated = 1848\n|core:format = {{en|w122.5 x h98.5 cm}}\n|core:type = {{en|Paintings}}\n|commons:object type=painting\n|core:relation = http://www.digitaltmuseum.no/things/nm/NMK-B/NG.M.04419\n|core:rights = {{en|The National Museum of Art, Architecture and Design}}\n|core:format.medium = {{no|Olje på lerret}}\n|art:artist_birth_place = {{en|Vest-Agder, Mandal (Norge)}}\n|art:artist_nationality = {{en|Norwegian}}\n|art:artist_death_place = {{en|Oslo (fylke), Oslo (Norge)}}\n|art:artist_date = 1814/1876\n|c-0d5f498b:customtext.translated_title = {{no|Haugianerne}}\n|c-0d5f498b:customtext.technique = {{no|Olje}}\n|c-0d5f498b:customtext.latitude/longitude_artist_death_place = {{en|59.9138688, 10.752245399999992}}\n|c-0d5f498b:customtext.latitude/longitude_artist_birth_place = {{en|58.0276808, 7.4533303000000615}}\n|google:display_date = 1848\n|google:is_artproject = TRUE\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:street_view_asset/id = XgECH-vAf3qvUw\n|google:street_view_level/id = 4488346238719433535\n|google:street_view_location = 59.916210174560547.10.737478256225586.0.99000000953674316.5SfTE0MgZtaoqEYpsVvIzg\n|google:partner/id = 000000000d5f498b\n|google:picasa_token = ReH7q5FH0PgyhHUseC3e1YWp4ss\n|special:url_id = UQHCast-bcBx5w\n|google:partner/name = The National Museum of Art, Architecture and Design, Norway\n|special:partner/name_no_lang = The National Museum of Art, Architecture and Design, Norway\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1876}}\n\n[[Category:Low Church Devotion – Haugianerne – (1848-version)]]\n[[Category:Google Art Project works by Adolph Tidemand]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "adolph_tidemand",
+        "name": "Адольф Тидеманд",
+        "latin": "Adolph Tidemand"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_29841644",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

@@ -1,0 +1,117 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-113.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/amalia_lindegren.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_020_amalia_lindegren",
+  "proposedArtistId": "amalia_lindegren",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_020_amalia_lindegren",
+    "file": "File:Söndagsafton i en dalstuga utan ram.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg/1280px-S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg/1280px-S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 959,
+      "attempt": 1,
+      "screenshot": "003-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2719,
+      "height": 2038,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    2719,
+    2038
+  ],
+  "metadata": {
+    "pageid": 23189355,
+    "title": "File:Söndagsafton i en dalstuga utan ram.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2719,
+    "height": 2038,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amalia_Lindegren\" class=\"extiw\" title=\"w:en:Amalia Lindegren\"><span title=\"Swedish artist (1814-1891)\">Amalia Lindegren</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1860<div style=\"display: none;\">date QS:P571,+1860-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This file has been provided by the Nationalmuseum Stockholm from its digital collections.<small><br>Any copyright resulting from the digitalisation are owned by the museum and releases these under Creative Commons CC0-license.</small>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n | wikidata = Q10689147\n|artist={{creator:Amalia Lindegren}}\n|title={{title|sv=Söndagsafton i en dalstuga|en=Sunday Evening in a Farmhouse in Dalecarlia}}\n|description=\n|date=1860\n|medium={{Oil on canvas}}\n|dimensions={{size|cm|88|117}}\n|institution={{Institution:Nationalmuseum, Stockholm}}\n|location=\n|references=\n|object history=\n|exhibition history=\n|credit line=\n|inscriptions=\n|notes=\n|accession number={{Nationalmuseum Stockholm link|17995|NM 992}}\n|source={{Nationalmuseum Stockholm image}}\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1891}}\n\n\n[[Category:Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|*]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "amalia_lindegren",
+        "name": "Амалия Линдегрен",
+        "latin": "Amalia Lindegren"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_23189355",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

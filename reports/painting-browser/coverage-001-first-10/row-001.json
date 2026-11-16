@@ -1,0 +1,117 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-133.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/alexander_laureus.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_010_alexander_laureus",
+  "proposedArtistId": "alexander_laureus",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_010_alexander_laureus",
+    "file": "File:Alexander Lauréus - Party at the Parsonage - A-2002-563 - Finnish National Gallery.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg/1280px-Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg/1280px-Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 976,
+      "attempt": 1,
+      "screenshot": "001-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1619,
+      "height": 1234,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    1619,
+    1234
+  ],
+  "metadata": {
+    "pageid": 66315325,
+    "title": "File:Alexander Lauréus - Party at the Parsonage - A-2002-563 - Finnish National Gallery.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1619,
+    "height": 1234,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Aleksander_Laur%C3%A9us\" class=\"extiw\" title=\"w:en:Aleksander Lauréus\"><span title=\"Finnish painter (1783-1823)\">Aleksander Lauréus</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1815 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q20782605#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://kokoelmat.fng.fi/app?si=A-2002-563\">http://kokoelmat.fng.fi/app?si=A-2002-563</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Aleksander Lauréus}}\n |author             = \n |title              = Party at the Parsonage\n |description        = \n |object type        = \n |date               = \n |medium             = \n |dimensions         = \n |institution        = {{Institution:Finnish National Gallery}}\n |department         = \n |accession number   = A-2002-563\n |place of creation  =    \n |place of discovery =    \n |object history     = \n |exhibition history =    \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = http://kokoelmat.fng.fi/app?si=A-2002-563\n |permission         = \n |other_versions     = \n |wikidata           = Q20782605 \n |other_fields       =  \n}}\n\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-1923|Cc-zero|deathyear=1823}}\n\n[[Category:1815 paintings from Finland]]\n[[Category:Paintings by Aleksander Lauréus]]\n[[Category:Paintings in the Finnish National Gallery]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "alexander_laureus",
+        "name": "Александр Лауреус",
+        "latin": "Alexander Lauréus"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_66315325",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

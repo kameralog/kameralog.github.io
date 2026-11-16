@@ -1,0 +1,121 @@
+{
+  "sourceReportCommit": "ecc96dfdfab29891dbdce1311b416b4fd968a93e",
+  "sourceReportBlob": "ad1665626d8a29002ff5a69b34dc2eba8571cec7",
+  "browserRunId": "43935234060",
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-125.js",
+  "currentArtistFile": "reports/painting-browser/coverage-001-first-10/cards/astrid_holm.json",
+  "proposedWorkKeyIsDiagnosticOnly": true,
+  "id": "coverage001_043_astrid_holm",
+  "proposedArtistId": "astrid_holm",
+  "checkedNames": [],
+  "status": "passed",
+  "input": {
+    "id": "coverage001_043_astrid_holm",
+    "file": "File:Astrid Holm, Rose dækker bord, 1914, KMS8558, Statens Museum for Kunst.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/1280px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/1280px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1593,
+      "attempt": 1,
+      "screenshot": "009-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/3840px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg/3840px-Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 4780,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    4724,
+    5881
+  ],
+  "metadata": {
+    "pageid": 145270834,
+    "title": "File:Astrid Holm, Rose dækker bord, 1914, KMS8558, Statens Museum for Kunst.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Astrid_Holm,_Rose_d%C3%A6kker_bord,_1914,_KMS8558,_Statens_Museum_for_Kunst.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Astrid_Holm%2C_Rose_d%C3%A6kker_bord%2C_1914%2C_KMS8558%2C_Statens_Museum_for_Kunst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4724,
+    "height": 5881,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Astrid_Holm_(painter)\" class=\"extiw\" title=\"w:en:Astrid Holm (painter)\"><span title=\"Danish painter (1876-1937)\">Astrid Holm</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\nRose dækker bord</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1914<div style=\"display: none;\">date QS:P571,+1914-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "image",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = Q16063259\n |author             = \n |title              = {{title|Rose dækker bord}}\n |description        = Rose dækker bord\n |depicted people    = \n |date               = 1914\n |medium             = {{da|Olie på ugrunderet lærred}}\n |dimensions         = {{Size|unit=mm|width=969.0|height=977.0|depth=83.0}}\n |institution        = {{Institution:Statens Museum for Kunst, Copenhagen}}\n |department         = \n |place of discovery = \n |object history     = * {{da|Maleriet blev ca. 1918 udstillet i Aarhus Kunstbygning som \"Privateje\", og det var formodentlig blevet solgt til en privat samler inden da (det var ikke med på kunstnerens mindeudstilling i Kunstforeningen i april 1939). Kunsthandler James Bauerle har angiveligt købt maleriet af \"en gammel kunsthandler\".}}\n* {{ProvenanceEvent|date=2008-04-03|type=acquisition|newowner=[[Statens Museum for Kunst]]}} \n |exhibition history = * {{Temporary Exhibition |name=”Astrid Holm – Den glemte modernist” |institution= |place= Øregaard Museum |begin=2019-09-13 |end=2020-01-25}}\n* {{Temporary Exhibition |name=”Astrid Holm – Den glemte modernist” |institution= |place= Rønnebæksholm |begin=2020-02-28 |end=2020-06-29}}\n* {{Temporary Exhibition |name=Astrid Holm - Den glemte modernist |institution= |place= Øregaard Museum |begin=2019-09-13 |end=2020-01-25}}\n* {{Temporary Exhibition |name=På tværs - nyerhvervelser 2007-2009 |institution= |place= Sølvgade |begin=2009-05-02 |end=2009-08-08}}\n |credit line        = \n |inscriptions       = {{inscription |1=AH (skjult af blændramme)}}\n |notes              = * {{da|Værkdatering: 1914}}\n* {{da|Maleriet er udført under kunstnerens ophold på Skt. Thomas i Dansk Vestindien i 1914.}}\n |accession number   = KMS8558\n |place of creation  = \n |source             = * {{SMK API|KMS8558}}\n* {{SMK Open|KMS8558}}\n* [https://api.smk.dk/api/v1/download/W3siaW1nX3VybCI6Imh0dHBzOi8vaWlwLnNtay5kay9paWlmL2pwMi9iYzM4Nm43MzBfa21zODU1OC50aWYuanAyL2Z1bGwvZnVsbC8wL25hdGl2ZS5qcGciLCJwdWJsaWNfZG9tYWluIjp0cnVlLCJvYmplY3RfbnVtYmVyIjoiS01TODU1OCIsIm51bSI6IiJ9XQ==/KMS8558.jpg {{en|image}}]\n |other_versions     = \n |references         = *{{citation|title=Ny dansk kunsthistorie|author=Ubekendt|others=Bind 6: Hanne Abildgaard, \"Tidlig modernisme\", 56 (afb.)(Opholdssted ubekendt)|id=D 22097|year=1993-1996}}\n*{{citation|title=Moderne kvinder: Kvindelige malere i Norden 1910-1930|author=Birgitta Flensburg|others=kat. 28 (Privateje)|year=2006}}\n*{{citation|title=Astrid Holm. Jais Nielsen.: Malerier Tegninger|author=Ubekendt|others=Kat. 17 (titel: \"Rose dækker Bord\", ikke dateret)(afb.)|year=1915}}\n*{{citation|title=Efteraars-Udstilling : Aarhusforeningen \"Moderne Kunst\"|author=Ubekendt|others=Kat. 22 (under titlen: \"Rose dækker Bord. St. Thomas\", 1914, Privateje)|year=Ca. 1918}}\n*{{citation|title=Blomsten i kunsten|author=Christian Gether|others=afb. p. 32|year=2021}}\n |depicted place     = \n |object type        = painting\n |location           = \n |other_fields       = \n |wikidata           = Q20354441\n}} \n\n== {{int:license-header}} ==\n{{Licensed-PD-Art|PD-old-auto-expired|deathyear=1937|Cc-zero}}\n{{Statens Museum for Kunst collaboration project}}\n\n{{DEFAULTSORT:Holm, Astrid}}\n[[Category:Paintings by Astrid Holm in Statens Museum for Kunst]]\n[[Category:20th-century paintings of people in Statens Museum for Kunst]]\n[[Category:1914 paintings of women]]\n[[Category:1914 paintings from Denmark]]\n[[Category:1914 paintings in Denmark]]\n[[Category:20th-century paintings of women with pink dresses|1914]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [
+      {
+        "id": "astrid_holm",
+        "name": "Астрид Хольм",
+        "latin": "Astrid Holm"
+      }
+    ],
+    "proposedWorkKey": "coverage001_commons_145270834",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

@@ -1,0 +1,64 @@
+{
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-132.js",
+  "sourceModuleGitBlob": "c4173f6bd7c73d0ec4a264faf4e4f96cc39ff4d2",
+  "artist": {
+    "name": "Альберт Эдельфельт",
+    "latin": "Albert Edelfelt",
+    "aliases": [
+      "Альберт Эдельфельт",
+      "Albert Edelfelt"
+    ],
+    "life": "1854–1905",
+    "tag": "Финское искусство · XIX–XX века",
+    "bio": [
+      "Финский художник, получивший международное признание во Франции и помогавший последующим поколениям финских художников войти в парижскую художественную среду. Сочетал работу в Париже с возвращениями к финским мотивам.",
+      "Писал знакомые места в Порвоо, Хайкко и Хельсинки; в других работах обращался к городской жизни французской столицы. Его творчество позволяет рассматривать финское искусство не изолированно, а в международном контексте.",
+      "В Люксембургском саду в Париже изображены женщины и дети в общественном парке. Картина относится к 1887 году и входит в собрание Антелля; нынешняя известность не отменяет необходимости различать оригинал и разные цифровые репродукции."
+    ],
+    "technique": [
+      "Масло на холсте; 141,5 × 186,5 см",
+      "Описание опирается на источники; самостоятельный визуальный осмотр не выполнен."
+    ],
+    "innovation": "Учебный ракурс: Как группы людей организуют пространство парка?",
+    "features": [
+      "Как группы людей организуют пространство парка?",
+      "Как городская прогулка становится сюжетом большой картины?",
+      "Как связаны освещение, одежда и движение фигур?",
+      "Что подтверждено источником?",
+      "Где начинается интерпретация?"
+    ],
+    "caution": "Точная музейная работа A II 835, не другая садовая сцена или фрагмент. На найденном Commons-файле есть CC BY 4.0, но поле Source/Photographer не заполнено; загрузчик не назван фотографом.",
+    "sources": [
+      [
+        "Произведение и сведения",
+        "https://ateneum.fi/en/touring-exhibitions-archive/albert-edelfelt-2022/"
+      ],
+      [
+        "Финские мотивы",
+        "https://ateneum.fi/en/news/albert-edelfelt-exhibition-returns-home-from-paris-and-gothenburg/"
+      ],
+      [
+        "Конкретный Commons-файл, неполный кредит",
+        "https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_The_Luxembourg_Gardens,_Paris.jpg"
+      ]
+    ],
+    "works": [],
+    "pendingWorks": [
+      {
+        "key": "albert_edelfelt_selected",
+        "title": "В Люксембургском саду в Париже",
+        "originalTitle": "Pariisin Luxembourgin puistossa",
+        "date": "1887",
+        "medium": "Масло на холсте; 141,5 × 186,5 см",
+        "museum": "Finnish National Gallery / Ateneum Art Museum, Antell Collection",
+        "source": "https://ateneum.fi/en/touring-exhibitions-archive/albert-edelfelt-2022/",
+        "look": "Как группы людей организуют пространство парка? Как городская прогулка становится сюжетом большой картины? Как связаны освещение, одежда и движение фигур?",
+        "reason": "Страница конкретного файла прочитана: CC BY 4.0, 8724 × 6528, A II 835. Поле Source/Photographer пусто; полный атрибуционный кредит не установлен, загрузчик не назван фотографом.",
+        "inventoryNumber": "A II 835",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg"
+      }
+    ],
+    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  }
+}

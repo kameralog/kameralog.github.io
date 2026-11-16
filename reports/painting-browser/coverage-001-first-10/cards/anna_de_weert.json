@@ -1,0 +1,64 @@
+{
+  "auditSnapshot": "da68c3e1709d8efe485a20797a793601af3d067a",
+  "sourceModule": "games/painting/artists-batch-123.js",
+  "sourceModuleGitBlob": "2bce1a29d76c64bc4458fc5c2f61c7cd40f6da01",
+  "artist": {
+    "name": "Анна де Верт",
+    "latin": "Anna De Weert",
+    "aliases": [
+      "Анна де Верт",
+      "Anna De Weert",
+      "Anna Cogen",
+      "Anna De Weert-Cogen"
+    ],
+    "life": "1867–1950",
+    "tag": "Бельгийская художественная среда · XIX–XX века",
+    "bio": [
+      "Бельгийская художница-люминистка, ученица Эмиля Клауса.",
+      "Работала в Хоф-Тер-Нёве у Лиса; музей описывает цветущий сад вокруг её мастерской."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "Описание основано на источниках; самостоятельный визуальный осмотр не заявлен."
+    ],
+    "innovation": "Учебный ракурс: Как сад связан с мастерской?",
+    "features": [
+      "Как сад связан с мастерской?",
+      "Как свет различает участки растительности?",
+      "Как чередуются цветовые пятна?",
+      "Как построена глубина?",
+      "Как надписи уточняют сезон и часы работы?"
+    ],
+    "caution": "На обороте Afsnee: Juni 1909–10 / 8–10 h.; на лицевой стороне подпись с 1910. 1912 — покупка. Не подменять портретом де Верт кисти Клауса.",
+    "sources": [
+      [
+        "Произведение и музейные сведения",
+        "https://www.mskgent.be/en/collection/1912-b"
+      ],
+      [
+        "Нидерландская запись и надписи",
+        "https://www.mskgent.be/collectie/1912-b"
+      ],
+      [
+        "Модель и автор портрета — разные лица",
+        "https://www.mskgent.be/en/collection/1950-ag"
+      ]
+    ],
+    "works": [],
+    "pendingWorks": [
+      {
+        "key": "anna_de_weert_selected",
+        "title": "Моя мастерская в июне",
+        "originalTitle": "My Studio in June / Mijn atelier in juni",
+        "date": "1909–1910",
+        "medium": "Масло на холсте",
+        "museum": "Museum voor Schone Kunsten Gent",
+        "source": "https://www.mskgent.be/en/collection/1912-b",
+        "look": "Как сад связан с мастерской? Как свет различает участки растительности? Как чередуются цветовые пятна? Как построена глубина? Как надписи уточняют сезон и часы работы?",
+        "reason": "Музейная репродукция найдена; свободная лицензия конкретного полного файла не установлена.",
+        "inventoryNumber": "1912-B"
+      }
+    ],
+    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_GLOBAL_AND_BROWSER_CHECK_PENDING"
+  }
+}
