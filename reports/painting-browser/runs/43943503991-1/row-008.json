@@ -1,0 +1,107 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_026_anna_boch",
+  "input": {
+    "id": "coverage001_026_anna_boch",
+    "file": "File:Cueillette Anna Boch 1890.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cueillette_Anna_Boch_1890.jpg/1280px-Cueillette_Anna_Boch_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cueillette_Anna_Boch_1890.jpg/1280px-Cueillette_Anna_Boch_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 857,
+      "attempt": 1,
+      "screenshot": "008-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cueillette_Anna_Boch_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cueillette_Anna_Boch_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1600,
+      "height": 1071,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 175798553,
+    "title": "File:Cueillette Anna Boch 1890.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Cueillette_Anna_Boch_1890.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cueillette_Anna_Boch_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1600,
+    "height": 1071,
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "Peinture d'une fillette en robe bleue dans un potager en fleurs",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1890",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Laeti2802&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Laeti2802 (page does not exist)\">Laeti2802</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{fr|1=Peinture d'une fillette en robe bleue dans un potager en fleurs}}\n|date=1890\n|source={{own}}\n|author=[[User:Laeti2802|Laeti2802]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n{{Uncategorized|year=2025|month=September|day=29}}",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    1600,
+    1071
+  ]
+}

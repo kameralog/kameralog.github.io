@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_030_anna_klumpke",
+  "input": {
+    "id": "coverage001_030_anna_klumpke",
+    "file": "File:'In the Wash-house' by Anna Elizabeth Klumpke, 1888.JPG"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke%2C_1888.JPG/1280px-%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke%2C_1888.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke%2C_1888.JPG/1280px-%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke%2C_1888.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1554,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke%2C_1888.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke%2C_1888.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1532,
+      "height": 1860,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 18427356,
+    "title": "File:'In the Wash-house' by Anna Elizabeth Klumpke, 1888.JPG",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke,_1888.JPG",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/%27In_the_Wash-house%27_by_Anna_Elizabeth_Klumpke%2C_1888.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1532,
+    "height": 1860,
+    "extmetadata": {
+      "Artist": {
+        "value": "<div class=\"fn value\">\n<b>Anna Klumpke</b> (1856–1942)</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1888<div style=\"display: none;\">date QS:P571,+1888-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Photograph <span class=\"int-own-work\" lang=\"en\">Own work</span> <a href=\"//commons.wikimedia.org/wiki/User:Wmpearl\" title=\"User:Wmpearl\">Wmpearl</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|wikidata=Q20862136\n |artist            = '''Anna Klumpke''' (1856–1942) \n |title             = {{title|In the Wash-house}} \n |description       = \n |date              = 1888\n |medium            = {{Oil on canvas}}\n |dimensions        = \n |institution       = {{institution:Pennsylvania Academy of the Fine Arts}}\n |department        = \n |accession number  = \n |references        = \n |object history    = \n |credit line       = \n |exhibition history= \n |inscriptions      = {{inscription|A. E. Klumpke / Paris 1888|lang=~|position=lower right|type=signature / place / date}}\n |notes             = \n |source            ={{photo}} {{own}} [[User:Wmpearl|Wmpearl]]\n |permission        = \n |other_versions    = \n}}\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1942}}\n{{DEFAULTSORT:Klumpke, Anna; Genre In the Wash-house, Pennsylvania Academy of the Fine Arts}}\n\n[[Category:Paintings in the Pennsylvania Academy of the Fine Arts|Klumpke]]\n[[Category:Anna Elizabeth Klumpke]]\n[[Category:Paintings of women doing laundry indoors]]\n[[Category:Joseph E. Temple Fund award winners]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    1532,
+    1860
+  ]
+}

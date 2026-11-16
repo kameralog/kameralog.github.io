@@ -1,0 +1,101 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_048_barbara_longhi",
+  "input": {
+    "id": "coverage001_048_barbara_longhi",
+    "file": "File:Virgin and Child with Saint, Barbara Longhi.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Virgin_and_Child_with_Saint%2C_Barbara_Longhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Virgin_and_Child_with_Saint%2C_Barbara_Longhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded.",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 15483137,
+    "title": "File:Virgin and Child with Saint, Barbara Longhi.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Virgin_and_Child_with_Saint,_Barbara_Longhi.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Virgin_and_Child_with_Saint%2C_Barbara_Longhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 389,
+    "height": 463,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Barbara_Longhi\" class=\"extiw\" title=\"w:en:Barbara Longhi\"><span title=\"painter from Italy (1552-1638)\">Barbara Longhi</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\n<a href=\"https://en.wikipedia.org/wiki/Joconde\" class=\"extiw\" title=\"en:Joconde\">Joconde database</a>:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.pop.culture.gouv.fr/notice/joconde/000PE025618\">000PE025618</a></div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "circa 1590<div style=\"display: none;\">date QS:P571,+1590-95-00T00:00:00Z/10,P1480,Q5727902</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&amp;FIELD_1=AUTR&amp;VALUE_1=LONGHI%20Barbara&amp;DOM=All&amp;REL_SPECIFIC=1&amp;IMAGE_ONLY=CHECKED\">http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&amp;FIELD_1=AUTR&amp;VALUE_1=LONGHI%20Barbara&amp;DOM=All&amp;REL_SPECIFIC=1&amp;IMAGE_ONLY=CHECKED</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{artwork\n|description={{Joconde|000PE025618}}\n|title={{title|1={{Virgin and Child}} {{with}} {{langswitch|de=Heiliger|en=Saint}} }}\n|medium = {{oil on canvas}}\n|dimensions = 39 x 32.5 cm\n|Gallery = {{Institution:Louvre}}\n|date= {{circa|1590-95}}\n|ID=MI 614\n|notes=purchased 1861\n|source = http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=AUTR&VALUE_1=LONGHI%20Barbara&DOM=All&REL_SPECIFIC=1&IMAGE_ONLY=CHECKED\n|artist = {{Creator:Barbara Longhi}}\n|permission =\n|other_versions =\n|wikidata = Q19275162\n}}\n\n=={{int:license-header}}==\n{{PD-old-100}}\n\n[[Category:La Vierge et l'Enfant Jésus couronnant une religieuse]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    389,
+    463
+  ]
+}

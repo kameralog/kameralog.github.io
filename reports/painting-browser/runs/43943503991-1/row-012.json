@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_033_henriette_browne",
+  "input": {
+    "id": "coverage001_033_henriette_browne",
+    "file": "File:La Religieuse-Henriette Browne.png"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/La_Religieuse-Henriette_Browne.png/1280px-La_Religieuse-Henriette_Browne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/La_Religieuse-Henriette_Browne.png/1280px-La_Religieuse-Henriette_Browne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/png",
+      "width": 1280,
+      "height": 1556,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/La_Religieuse-Henriette_Browne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/La_Religieuse-Henriette_Browne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/png",
+      "width": 3206,
+      "height": 3898,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 15000636,
+    "title": "File:La Religieuse-Henriette Browne.png",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:La_Religieuse-Henriette_Browne.png",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/La_Religieuse-Henriette_Browne.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/png",
+    "width": 3206,
+    "height": 3898,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Henriette_Browne\" class=\"extiw\" title=\"w:en:Henriette Browne\"><span title=\"French painter (1829-1901)\">Henriette Browne</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1859<div style=\"display: none;\">date QS:P571,+1859-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://www.liverpoolmuseums.org.uk/sudley/collections/entrancehall/nun_henriette_browne.aspx\">[1]</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n\n{{Artwork\n|wikidata=Q99322588\n|artist           = {{creator: Henriette Browne}}\n|title            = {{en|1=''La Religieuse'' (''A Nun'')}}\n|description      = \n|date             = 1859\n|medium           = {{technique|painting}}\n|dimensions       = {{size|cm||}}\n|institution      = \n|location         = <!-- within the institution -->\n|references       = \n|object history   = \n|credit line      = \n|inscriptions     = \n|notes            = \n|accession number = \n|source           = [http://www.liverpoolmuseums.org.uk/sudley/collections/entrancehall/nun_henriette_browne.aspx]\n|permission       = \n|other_versions   = \n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-100-expired}}\n\n[[Category:Henriette Browne]]\n[[Category:Portraits of Christian nuns]]\n[[Category:French paintings in the Walker Art Gallery, Liverpool]]\n[[Category:Portrait paintings in the Walker Art Gallery, Liverpool]]\n[[Category:Salon of 1859]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3206,
+    3898
+  ]
+}

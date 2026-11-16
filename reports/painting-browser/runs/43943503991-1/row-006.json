@@ -1,0 +1,99 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_015_albert_anker",
+  "input": {
+    "id": "coverage001_015_albert_anker",
+    "file": "File:Albert Anker - Das Schulexamen (1862).jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Albert_Anker_-_Das_Schulexamen_%281862%29.jpg/1280px-Albert_Anker_-_Das_Schulexamen_%281862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Albert_Anker_-_Das_Schulexamen_%281862%29.jpg/1280px-Albert_Anker_-_Das_Schulexamen_%281862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 749,
+      "attempt": 1,
+      "screenshot": "006-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Albert_Anker_-_Das_Schulexamen_%281862%29.jpg/3840px-Albert_Anker_-_Das_Schulexamen_%281862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Albert_Anker_-_Das_Schulexamen_%281862%29.jpg/3840px-Albert_Anker_-_Das_Schulexamen_%281862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2248,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 70012646,
+    "title": "File:Albert Anker - Das Schulexamen (1862).jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Albert_Anker_-_Das_Schulexamen_(1862).jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Albert_Anker_-_Das_Schulexamen_%281862%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 7436,
+    "height": 4353,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Albert_Anker\" class=\"extiw\" title=\"w:en:Albert Anker\"><span title=\"Swiss artist (1831-1910)\">Albert Anker</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1862 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q126374618#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.sikart.ch/Werke.aspx?id=6002621\">Schweizerisches Institut für Kunstwissenschaft, SIK-ISEA inventory number 5098</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Albert Anker}}\n |title              = \n |description        = \n |object type        = \n |date               = \n |medium             = \n |dimensions         = {{size|cm|103|175}}\n |institution        = {{Institution:Kunstmuseum Bern}}\n |department         = \n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = {{inscription|Anker 1862|lang=~|position=lower left|type=signature and date}}\n |notes              = \n |references         = \n |source             = [http://www.sikart.ch/Werke.aspx?id=6002621 Schweizerisches Institut für Kunstwissenschaft, SIK-ISEA inventory number 5098]\n |permission         = \n |other_versions     = \n |wikidata           = Q126374618\n}}\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1910}}\n\n{{DEFAULTSORT:Anker, Albert; Genre 1862 school exam; Kunstmuseum Bern}}\n\n[[Category:Genre paintings by Albert Anker]]\n[[Category:Paintings by Albert Anker in Kunstmuseum Bern]]\n[[Category:School children in art]]\n[[Category:Classrooms in art]]\n[[Category:1862 paintings in Switzerland]]\n[[Category:19th-century schoolteaching in painting]]\n[[Category:19th-century childhood in painting]]\n[[Category:People taking examinations in art]]\n[[Category:Images from Sikart]]\n[[Category:1862 oil on canvas paintings]]\n[[Category:Oil on canvas paintings by Albert Anker]]\n[[Category:1862 paintings by Albert Anker]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    7436,
+    4353
+  ]
+}

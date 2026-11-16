@@ -1,0 +1,99 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_006_akseli_gallen_kallela",
+  "input": {
+    "id": "coverage001_006_akseli_gallen_kallela",
+    "file": "File:Akseli Gallen-Kallela - Aino Myth, Triptych - Google Art Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg/1280px-Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg/1280px-Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 641,
+      "attempt": 1,
+      "screenshot": "003-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg/3840px-Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg/3840px-Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 1924,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 29191484,
+    "title": "File:Akseli Gallen-Kallela - Aino Myth, Triptych - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Akseli_Gallen-Kallela_-_Aino_Myth,_Triptych_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 8066,
+    "height": 4042,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Akseli_Gallen-Kallela\" class=\"extiw\" title=\"w:en:Akseli Gallen-Kallela\"><span title=\"Finnish painter (1865-1931)\">Akseli Gallen-Kallela</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1891<div style=\"display: none;\">date QS:P571,+1891-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/JQEYUFgz8XC9TA\">JQEYUFgz8XC9TA at Google Cultural Institute</a>, zoom level maximum",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|commons:artist={{Creator:Akseli Gallen-Kallela}}\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions=\n|commons:institution={{Institution:Ateneum Art Museum}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions=\n|commons:zoom=\n\n|core:title = {{en|Aino Myth, Triptych}}\n|core:creator = {{en|Akseli Gallen-Kallela}}\n|core:date.dateCreated = 1891\n|core:format = {{en|w413 x h200 x d13 cm (with frame)}}\n|core:type = {{en|Paintings}}\n|commons:object type=painting\n|core:rights = {{en|http://www.fng.fi/informationandresearch/photographicservice}}\n|core:format.medium = {{en|Oil on canvas}}\n|art:artist_birth_place = {{en|Pori}}\n|art:artist_nationality = {{en|Finnish}}\n|art:artist_death_place = {{en|Stockholm}}\n|art:artist_date = 1865/1931\n|c-01b036b5:customtext.inventory_number = {{en|A I 518}}\n|c-01b036b5:customtext.dimensions = {{en|200 x 413 cm with frame, middle section canvas 154 x 154 cm, side canvases 154 x 77 cm}}\n|c-01b036b5:customtext.inventory_number_source = {{en|Ateneum}}\n|c-01b036b5:customtext.dimensions_source = {{en|Ateneum}}\n|c-01b036b5:customtext.medium_source = {{en|Ateneum}}\n|google:display_date = 1891\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:street_view_asset/id = dQFaYTtPJoYmWQ\n|google:street_view_level/id = 9329154126859276170\n|google:street_view_location = 60.170108795166016,24.943563461303711,0.38999998569488525,0FipR5GVAScof8QVnGG_mA\n|google:partner/id = 0000000001b036b5\n|google:is_artproject = TRUE\n|google:picasa_token = XkcmJ8R3LJB2_t5FMl01EB4J0bY\n|special:url_id = JQEYUFgz8XC9TA\n|google:partner/name = Ateneum Art Museum\n|special:partner/name_no_lang = Ateneum Art Museum\n}}\n\n=={{int:license-header}}==\n{{PD-Art-two-auto|1931}}\n\n[[Category:Google Art Project works by Akseli Gallen-Kallela]]\n[[Category:Aino Triptych - Gallen-Kallela]]\n[[Category:Paintings by Akseli Gallen-Kallela in the Ateneum]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    8066,
+    4042
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_001_agostino_melissi",
+  "input": {
+    "id": "coverage001_001_agostino_melissi",
+    "file": "File:Agostino melissi, susanna e i vecchioni, 1646, (seminario) 02.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg/1280px-Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg/1280px-Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 942,
+      "attempt": 1,
+      "screenshot": "000-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg/3840px-Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg/3840px-Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2825,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 139571567,
+    "title": "File:Agostino melissi, susanna e i vecchioni, 1646, (seminario) 02.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Agostino_melissi,_susanna_e_i_vecchioni,_1646,_(seminario)_02.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4698,
+    "height": 3456,
+    "extmetadata": {
+      "ImageDescription": {
+        "value": "\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2015-10-22 11:45:48",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)}}\n|date=2015-10-22 11:45:48\n|source={{own}}\n|author=[[User:Sailko|Sailko]]\n|permission=\n|other versions=\n}}\n\n[[Category:Compagnia di San Benedetto Bianco (Florence)]]\n\n=={{int:license-header}}==\n{{self|cc-by-3.0}}\n\n{{Supported by Wikimedia CH|catname=Images by Sailko - Supported by Wikimedia CH}}\n\n[[Category:Paintings in the Seminario Arcivescovile (Florence)]]\n[[Category:Agostino Melissi]]\n[[Category:Photographs by User:Sailko]]\n[[Category:Photographs of paintings by User:Sailko]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4698,
+    3456
+  ]
+}

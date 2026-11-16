@@ -1,0 +1,91 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_024_andrea_di_lione",
+  "input": {
+    "id": "coverage001_024_andrea_di_lione",
+    "file": "File:Lione-elefantes en el circo-prado.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lione-elefantes_en_el_circo-prado.jpg/1280px-Lione-elefantes_en_el_circo-prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lione-elefantes_en_el_circo-prado.jpg/1280px-Lione-elefantes_en_el_circo-prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1271,
+      "attempt": 1,
+      "screenshot": "007-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lione-elefantes_en_el_circo-prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lione-elefantes_en_el_circo-prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3072,
+      "height": 3051,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 27538080,
+    "title": "File:Lione-elefantes en el circo-prado.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Lione-elefantes_en_el_circo-prado.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lione-elefantes_en_el_circo-prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 3072,
+    "height": 3051,
+    "extmetadata": {
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.museodelprado.es/imagen/alta_resolucion/P00091.jpg\">http://www.museodelprado.es/imagen/alta_resolucion/P00091.jpg</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Art Photo\n |artist             = \n |title              = {{title|lang=es|1=Elefantes en un circo}}\n |description        = \n |object type        = painting\n |date               = {{otherdate|c|1635-1640}}\n |medium             = {{oil on canvas}}\n |dimensions         = 229 x 231 cm\n |institution        = {{Institution:Prado}}\n |department         = \n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = http://www.museodelprado.es/imagen/alta_resolucion/P00091.jpg\n |permission         = \n |other_versions     = \n |wikidata           = Q27700987\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1685}}\n\n[[Category:Paintings by Andrea de Lione]]\n[[Category:Italian paintings in the Museo del Prado]]\n[[Category:17th-century paintings of elephants]]\n[[Category:Elephants in history paintings]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3072,
+    3051
+  ]
+}

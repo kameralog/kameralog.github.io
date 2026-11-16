@@ -1,0 +1,97 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_039_antonin_slavicek",
+  "input": {
+    "id": "coverage001_039_antonin_slavicek",
+    "file": "File:Antonín Slavíček - At Kameničky - O 17427 - National Gallery Prague.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded.",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 151973337,
+    "title": "File:Antonín Slavíček - At Kameničky - O 17427 - National Gallery Prague.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 800,
+    "height": 688,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anton%C3%ADn_Slav%C3%AD%C4%8Dek\" class=\"extiw\" title=\"w:en:Antonín Slavíček\"><span title=\"Czech painter (1870–1910)\">Antonín Slavíček</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1904 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q117213480#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://sbirky.ngprague.cz/en/dielo/CZE:NG.O_17427\">National Gallery Prague</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1910}}\n\n[[Category:Paintings in the National Gallery, Prague]]\n[[Category:Paintings by Antonín Slavíček]]\n[[Category:Kameničky]]\n[[Category:1904 landscape paintings]]\n[[Category:1900s landscape paintings from the Czech Republic]]\n[[Category:1900s paintings in the Czech Republic]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    800,
+    688
+  ]
+}

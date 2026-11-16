@@ -1,0 +1,101 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_008_alvar_cawen",
+  "input": {
+    "id": "coverage001_008_alvar_cawen",
+    "file": "File:Alvar Cawén \"Pime\" (blind).jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 461,
+      "height": 720,
+      "attempt": 1,
+      "screenshot": "004-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 461,
+      "height": 720,
+      "attempt": 1,
+      "screenshot": "004-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 11040177,
+    "title": "File:Alvar Cawén \"Pime\" (blind).jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Alvar_Caw%C3%A9n_%22Pime%22_(blind).jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 461,
+    "height": 720,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alvar_Caw%C3%A9n\" class=\"extiw\" title=\"w:en:Alvar Cawén\"><span title=\"Finnish painter (1886-1935)\">Alvar Cawén</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1926<div style=\"display: none;\">date QS:P571,+1926-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://digikogu.ekm.ee/eesti19saj_1940/maal/oid-1051\">Art Museum of Estonia's Digital Archive</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist           = {{Creator:Alvar Cawén}}\n |title            = {{et|„Pime“}}\n{{en|''Blind''}}\n |description      = \n |date             = 1926\n |medium           = {{Technique|Oil|paper}}\n |dimensions       = {{size|cm|64.0|44.2}}\n |institution      = [[:et:Kadrioru kunstimuuseum|Kadrioru kunstimuuseum]]\n |location         = \n |accession number = EKM M251\n |object history   = \n |credit line      = \n |inscriptions     = \n |notes            = \n |references       = \n |source           = [http://digikogu.ekm.ee/eesti19saj_1940/maal/oid-1051 Art Museum of Estonia's Digital Archive]\n |permission       = \n |other_versions   = \n |wikidata         = Q37979907\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1935}}\n\n[[Category:Paintings by Alvar Cawén]]\n[[Category:People with visual impairment in art]]\n[[Category:Paintings of men of Finland]]\n[[Category:1926 portrait paintings of men]]\n[[Category:1920s portrait paintings from Finland]]\n[[Category:Portrait paintings in the Kadriorg Art Museum]]\n[[Category:1926 paintings in Estonia]]\n[[Category:1926 paintings from Finland]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    461,
+    720
+  ]
+}

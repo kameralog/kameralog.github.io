@@ -1,0 +1,97 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_041_arvid_liljelund",
+  "input": {
+    "id": "coverage001_041_arvid_liljelund",
+    "file": "File:Liljelund Kansallispukujen osto Säkylässä.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg/1280px-Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg/1280px-Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 945,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 27535229,
+    "title": "File:Liljelund Kansallispukujen osto Säkylässä.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Liljelund_Kansallispukujen_osto_S%C3%A4kyl%C3%A4ss%C3%A4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2749,
+    "height": 2029,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q5951743\" class=\"extiw\" title=\"d:Q5951743\"><span title=\"Finnish painter (1844-1899)\">Arvid Liljelund</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1878<div style=\"display: none;\">date QS:P571,+1878-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Juhani Mylly: <i>Edustuksellisen kansanvallan läpimurto</i>, p. 49. Edita, Helsinki 2006.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{artwork\n|title    = {{fi|1=  ''Kansallispukujen osto Säkylässä'' }} {{en|1=Buying National Dresses at Säkylä}}\n|wikidata = Q18689639\n|Source         = Juhani Mylly: ''Edustuksellisen kansanvallan läpimurto'', p. 49. Edita, Helsinki 2006.\n|Artist         = {{creator:Arvid Liljelund}}\n|Date           = 1878\n|Permission     = \n|other_versions =\n<gallery>\nFile:Arvid Liljelund Nationaltrachten.jpg\n</gallery>\n}}\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1899}}\n\n[[Category:Paintings by Arvid Liljelund]]\n[[Category:1878 paintings from Finland]]\n[[Category:Traditional clothing of Finland in art]]\n[[Category:Finnish peasants]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    2749,
+    2029
+  ]
+}

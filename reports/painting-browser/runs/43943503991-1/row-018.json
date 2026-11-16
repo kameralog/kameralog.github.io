@@ -1,0 +1,101 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_046_bagta",
+  "input": {
+    "id": "coverage001_046_bagta",
+    "file": "File:Ravat Gokul Das II at Sing Sagar Lake Palace. Devgarh, Mewar, dated 1806, The Ashmolean Museum, Oxford..jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg/1280px-Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg/1280px-Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 893,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 20813710,
+    "title": "File:Ravat Gokul Das II at Sing Sagar Lake Palace. Devgarh, Mewar, dated 1806, The Ashmolean Museum, Oxford..jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh,_Mewar,_dated_1806,_The_Ashmolean_Museum,_Oxford..jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1900,
+    "height": 1326,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q44345220\" class=\"extiw\" title=\"d:Q44345220\"><span title=\"Rajput painter\">Bagta</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "Bagta. Ravat Gokul Das II at Singh Sagar Lake Palace. Devgarh, Mewar, dated 1806. Metropolitan Museum of Art. Howard Hodgkin Collection",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1806 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q50813692#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Metropolitan Museum",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|wikidata=Q50813692\n|description={{en|1=Bagta. Ravat Gokul Das II at Singh Sagar Lake Palace. Devgarh, Mewar, dated 1806. Metropolitan Museum of Art. Howard Hodgkin Collection}}\n|date=\n|source=Metropolitan Museum\n|permission=\n|other_versions=\n|other_fields=\n}}\n\n=={{int:license-header}}==\n{{PD-Art-100}}\n\n[[Category:Bagta]]\n[[Category:Rajput paintings in the Metropolitan Museum of Art]]\n[[Category:Howard Hodgkin collection]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    1900,
+    1326
+  ]
+}

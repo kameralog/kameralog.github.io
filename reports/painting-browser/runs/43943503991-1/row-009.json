@@ -1,0 +1,101 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_028_anna_dorothea_therbusch",
+  "input": {
+    "id": "coverage001_028_anna_dorothea_therbusch",
+    "file": "File:Anna Dorothea Therbusch - Self-Portrait - WGA22209.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 1300,
+      "attempt": 1,
+      "screenshot": "009-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 1300,
+      "attempt": 1,
+      "screenshot": "009-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 15398347,
+    "title": "File:Anna Dorothea Therbusch - Self-Portrait - WGA22209.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1000,
+    "height": 1300,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_Dorothea_Therbusch\" class=\"extiw\" title=\"w:en:Anna Dorothea Therbusch\"><span title=\"painter from Prussia (1721-1782)\">Anna Dorothea Therbusch</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "between 1776 and 1777<div style=\"display: none;\">date QS:P571,+1776-00-00T00:00:00Z/8,P1319,+1776-00-00T00:00:00Z/9,P1326,+1777-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"https://www.wga.hu/art/t/therbusc/1selfpor.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.wga.hu/art/t/therbusc/1selfpor.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"https://www.wga.hu/html/t/therbusc/1selfpor.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.wga.hu/html/t/therbusc/1selfpor.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"/t/therbusc/1selfpor\"</div>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n  |artist           = {{Creator:Anna Dorothea Therbusch}}\n|wikidata = Q23037976\n  |title            =\n{{self-portrait}}\n  |description      =    \n  |date             = {{otherdate|between|1776|1777}}\n  |medium           = {{Oil on canvas}}\n  |dimensions       = {{size|unit=cm|height=151|width=115}}\n  |institution      = {{Institution:Gemäldegalerie Berlin}}\n  |location         = <!--within the institution-->\n  |references       =\n  |object history   =\n  |credit line      =\n  |inscriptions     =\n  |notes            =\n  |accession number =\n  |source           = {{WGA link|ID=22209|pic-url=https://www.wga.hu/art/t/therbusc/1selfpor.jpg|info-url=https://www.wga.hu/html/t/therbusc/1selfpor.html}}\n}}{{PD-Art|PD-old-auto-expired|deathyear=1782}}\n{{WGA tag|painting|portrait|German|1751-1800}}\n\n[[Category:WGA form: painting]]\n[[Category:WGA type: portrait]]\n[[Category:WGA School: German]]\n[[Category:WGA time period: 1751-1800]]\n[[Category:Self-Portrait with Monocle (Anna Dorothea Therbusch - Gemäldegalerie, Berlin)| ]]\n[[Category:Female people with objects in art| ]]\n[[Category:1 woman in art| ]]\n[[Category:18th-century self-portraits]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    1000,
+    1300
+  ]
+}

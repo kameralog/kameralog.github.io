@@ -1,0 +1,101 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_002_adele_kindt",
+  "input": {
+    "id": "coverage001_002_adele_kindt",
+    "file": "File:Adele Kindt Episode La révolution de 1830 (1830).jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1047,
+      "height": 849,
+      "attempt": 1,
+      "screenshot": "001-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1047,
+      "height": 849,
+      "attempt": 1,
+      "screenshot": "001-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 1743688,
+    "title": "File:Adele Kindt Episode La révolution de 1830 (1830).jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_(1830).jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1047,
+    "height": 849,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ad%C3%A8le_Kindt\" class=\"extiw\" title=\"w:en:Adèle Kindt\"><span title=\"Belgian painter (1804-1884)\">Adèle Kindt</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1830<div style=\"display: none;\">date QS:P571,+1830-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://users.skynet.be/pierre.bachy/romantisme-belgique.html\">[1]</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata        = Q124247973\n |artist          = {{creator:Adèle Kindt}}\n |title           = {{title|lang=fr|La révolution de 1830}}\n |description     = \n |date            = 1830\n |object type     = painting  \n |medium          = {{technique|oil|canvas}}\n |dimensions      = {{size|cm||}}\n |gallery         = City Hall of Brussels\n |location        = <!-- within the institution-->\n |references      = \n |object history  = \n |credit line     = \n |notes           = \n |accession number= \n |source          = [http://users.skynet.be/pierre.bachy/romantisme-belgique.html]\n |permission      = \n |other_versions  = https://collections.heritage.brussels/fr/objects/46644\n |other_fields    = \n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1884}}\n\n[[Category:Adèle Kindt]]\n[[Category:Belgian Revolution in art]]\n[[Category:1830s paintings in Belgium]]\n[[Category:1830s paintings from Belgium]]\n[[Category:Romantic history paintings]]\n[[Category:Paintings of people]]\n[[Category:Paintings of children]]\n[[Category:19th-century paintings, location missing]]\n[[Category:Families in art]]\n[[Category:19th-century oil on canvas paintings]]\n[[Category:Flags of Belgium in horizontal layout]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    1047,
+    849
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "id": "coverage001_049_barthelemy_menn",
+  "input": {
+    "id": "coverage001_049_barthelemy_menn",
+    "file": "File:Barthélemy Menn 002.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Barth%C3%A9lemy_Menn_002.jpg/1280px-Barth%C3%A9lemy_Menn_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Barth%C3%A9lemy_Menn_002.jpg/1280px-Barth%C3%A9lemy_Menn_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 938,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Barth%C3%A9lemy_Menn_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 155544,
+    "title": "File:Barthélemy Menn 002.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Barth%C3%A9lemy_Menn_002.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Barth%C3%A9lemy_Menn_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2024,
+    "height": 1483,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Barth%C3%A9lemy_Menn\" class=\"extiw\" title=\"w:en:Barthélemy Menn\"><span title=\"Swiss artist (1815-1893)\">Barthélemy Menn</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "mid 19<sup>th</sup> century<div style=\"display: none;\">date QS:P571,+1850-00-00T00:00:00Z/7</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<cite class=\"book\" style=\"font-style:normal\">The Yorck Project (2002)      <i> 10.000 Meisterwerke der Malerei</i> (DVD-ROM), distributed by <a href=\"//commons.wikimedia.org/wiki/Commons:10,000_paintings_from_Directmedia\" title=\"Commons:10,000 paintings from Directmedia\">DIRECTMEDIA</a> Publishing GmbH.  <small><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/ISBN\" class=\"extiw\" title=\"en:ISBN\"><span lang=\"en\" dir=\"ltr\">ISBN</span></a></span>:  <a href=\"//commons.wikimedia.org/wiki/Special:BookSources/3936122202\" title=\"Special:BookSources/3936122202\">3936122202</a>. </small></cite>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<a class=\"external autonumber\" data-mw-original-href=\"http://mail.wikipedia.org/pipermail/wikide-l/2005-April/012195.html\" href=\"https://mail.wikipedia.org/pipermail/wikide-l/2005-April/012195.html\">[1]</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Barthélemy Menn}}\n |author             = \n |title              = {{title|{{self-portrait}} }}\n |description        = \n |object type        =painting \n |date               = {{otherdate|Mid|{{otherdate|century|19}} }}\n |medium             = {{technique|color|wood}}\n |dimensions         = {{size|cm|42|60}}\n |institution        = {{Institution:Musée d'Art et d'Histoire (Geneva)}}\n |department         = {{city|Genève}}\n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = {{Yorck}}\n |permission         = [http://mail.wikipedia.org/pipermail/wikide-l/2005-April/012195.html]\n |other_versions     = \n |wikidata           =Q106803130\n |other_fields       = \n}}\n\n== {{int:license-header}} ==\n{{PD-old-100}}\n{{PD-Art-YorckProject}}\n\n[[Category:Barthélemy Menn]]\n[[Category:Self-portrait paintings of men]]\n[[Category:Men facing right in art]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    2024,
+    1483
+  ]
+}

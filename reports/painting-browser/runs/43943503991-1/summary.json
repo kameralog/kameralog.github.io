@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "status": "derived_evidence_not_editorially_approved",
+  "sourceReportCommit": "590ee5730f27cc3839e459a0c27b009ed7005760",
+  "sourceReportBlob": "6da074369ce0505bb0f919f7039e48af2cf5fbef",
+  "browserRunId": "43943503991",
+  "sourceCommit": "7a23275d6f5ec82636139822bb8bc79ad9e5c9eb",
+  "manifest": "tools/painting-browser/coverage-001-remaining-candidates.json",
+  "manifestSha256": "8e74451aa3e05e7ff5331b62b83818b01e2a7e08769d03d8892e7c052364201d",
+  "selectionComplete": true,
+  "browserStatus": "failed",
+  "browserSmokePassed": true,
+  "counts": {
+    "selected": 23,
+    "completed": 23,
+    "passed": 13,
+    "failed": 10
+  },
+  "errors": [],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "rows": [
+    {
+      "id": "coverage001_001_agostino_melissi",
+      "status": "passed",
+      "pageid": 139571567,
+      "path": "reports/painting-browser/runs/43943503991-1/row-000.json"
+    },
+    {
+      "id": "coverage001_002_adele_kindt",
+      "status": "passed",
+      "pageid": 1743688,
+      "path": "reports/painting-browser/runs/43943503991-1/row-001.json"
+    },
+    {
+      "id": "coverage001_005_adriana_johanna_haanen",
+      "status": "passed",
+      "pageid": 76753830,
+      "path": "reports/painting-browser/runs/43943503991-1/row-002.json"
+    },
+    {
+      "id": "coverage001_006_akseli_gallen_kallela",
+      "status": "passed",
+      "pageid": 29191484,
+      "path": "reports/painting-browser/runs/43943503991-1/row-003.json"
+    },
+    {
+      "id": "coverage001_008_alvar_cawen",
+      "status": "passed",
+      "pageid": 11040177,
+      "path": "reports/painting-browser/runs/43943503991-1/row-004.json"
+    },
+    {
+      "id": "coverage001_013_alice_bailly",
+      "status": "passed",
+      "pageid": 13468965,
+      "path": "reports/painting-browser/runs/43943503991-1/row-005.json"
+    },
+    {
+      "id": "coverage001_015_albert_anker",
+      "status": "passed",
+      "pageid": 70012646,
+      "path": "reports/painting-browser/runs/43943503991-1/row-006.json"
+    },
+    {
+      "id": "coverage001_024_andrea_di_lione",
+      "status": "passed",
+      "pageid": 27538080,
+      "path": "reports/painting-browser/runs/43943503991-1/row-007.json"
+    },
+    {
+      "id": "coverage001_026_anna_boch",
+      "status": "passed",
+      "pageid": 175798553,
+      "path": "reports/painting-browser/runs/43943503991-1/row-008.json"
+    },
+    {
+      "id": "coverage001_028_anna_dorothea_therbusch",
+      "status": "passed",
+      "pageid": 15398347,
+      "path": "reports/painting-browser/runs/43943503991-1/row-009.json"
+    },
+    {
+      "id": "coverage001_030_anna_klumpke",
+      "status": "passed",
+      "pageid": 18427356,
+      "path": "reports/painting-browser/runs/43943503991-1/row-010.json"
+    },
+    {
+      "id": "coverage001_031_anna_rosina_de_gasc",
+      "status": "passed",
+      "pageid": 73837889,
+      "path": "reports/painting-browser/runs/43943503991-1/row-011.json"
+    },
+    {
+      "id": "coverage001_033_henriette_browne",
+      "status": "passed",
+      "pageid": 15000636,
+      "path": "reports/painting-browser/runs/43943503991-1/row-012.json"
+    },
+    {
+      "id": "coverage001_034_ans_van_den_berg",
+      "status": "failed",
+      "pageid": 104162515,
+      "path": "reports/painting-browser/runs/43943503991-1/row-013.json"
+    },
+    {
+      "id": "coverage001_039_antonin_slavicek",
+      "status": "failed",
+      "pageid": 151973337,
+      "path": "reports/painting-browser/runs/43943503991-1/row-014.json"
+    },
+    {
+      "id": "coverage001_040_antonin_chittussi",
+      "status": "failed",
+      "pageid": 3879505,
+      "path": "reports/painting-browser/runs/43943503991-1/row-015.json"
+    },
+    {
+      "id": "coverage001_041_arvid_liljelund",
+      "status": "failed",
+      "pageid": 27535229,
+      "path": "reports/painting-browser/runs/43943503991-1/row-016.json"
+    },
+    {
+      "id": "coverage001_044_augusto_giacometti",
+      "status": "failed",
+      "pageid": 157446615,
+      "path": "reports/painting-browser/runs/43943503991-1/row-017.json"
+    },
+    {
+      "id": "coverage001_046_bagta",
+      "status": "failed",
+      "pageid": 20813710,
+      "path": "reports/painting-browser/runs/43943503991-1/row-018.json"
+    },
+    {
+      "id": "coverage001_047_baldassarre_franceschini",
+      "status": "failed",
+      "pageid": 15609050,
+      "path": "reports/painting-browser/runs/43943503991-1/row-019.json"
+    },
+    {
+      "id": "coverage001_048_barbara_longhi",
+      "status": "failed",
+      "pageid": 15483137,
+      "path": "reports/painting-browser/runs/43943503991-1/row-020.json"
+    },
+    {
+      "id": "coverage001_049_barthelemy_menn",
+      "status": "failed",
+      "pageid": 155544,
+      "path": "reports/painting-browser/runs/43943503991-1/row-021.json"
+    },
+    {
+      "id": "coverage001_050_bela_ivanyi_grunwald",
+      "status": "failed",
+      "pageid": 12520635,
+      "path": "reports/painting-browser/runs/43943503991-1/row-022.json"
+    }
+  ]
+}
