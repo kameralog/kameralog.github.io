@@ -1,0 +1,178 @@
+name: Search Commons for coverage queue one
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/search-reproduction-coverage1.yml']
+permissions:
+  contents: write
+concurrency:
+  group: painting-reproduction-search
+  cancel-in-progress: false
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image decoder on temporary runner
+        run: python -m pip install Pillow
+      - name: Research candidates without binding images
+        run: |
+          set -euo pipefail
+          python <<'PY'
+          import csv, datetime, hashlib, html, io, json, pathlib, re, subprocess, time, urllib.error, urllib.parse, urllib.request
+          import PIL
+          from PIL import Image
+          Image.MAX_IMAGE_PIXELS = 40000000
+          root=pathlib.Path.cwd()
+          qp=root/'games/painting/reports/reproduction-queue/coverage-001.json'
+          raw=qp.read_bytes()
+          blob=lambda b:hashlib.sha1(b'blob '+str(len(b)).encode()+b'\0'+b).hexdigest()
+          assert blob(raw)=='f47a641348fa8efaf2f66cc05a537b69d9cec966','Queue changed; fresh approval required'
+          queue=json.loads(raw)
+          assert queue['actualBatchSize']==50
+          assert [r['number'] for r in queue['records']]==list(range(1,51))
+          out=root/'games/painting/reports/reproduction-queue/coverage-001-search-001'
+          assert not out.exists(),'Search output already exists; do not overwrite'
+          (out/'records').mkdir(parents=True)
+          commit=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()
+          agent='Kameralog reproduction research/1.0 (https://kameralog.github.io/)'
+          endpoint='https://commons.wikimedia.org/w/api.php'
+          deadline=time.monotonic()+18*60
+          last_api=0.0
+          def api(params):
+              global last_api
+              error=None
+              for attempt in range(3):
+                  if time.monotonic()>deadline:raise TimeoutError('Search time budget exhausted')
+                  time.sleep(max(0,1.0-(time.monotonic()-last_api)))
+                  p=dict(params,action='query',format='json',maxlag='5')
+                  req=urllib.request.Request(endpoint+'?'+urllib.parse.urlencode(p),headers={'User-Agent':agent})
+                  try:
+                      last_api=time.monotonic()
+                      with urllib.request.urlopen(req,timeout=20) as response:j=json.load(response)
+                      if j.get('error'):raise RuntimeError(json.dumps(j['error'],ensure_ascii=False))
+                      return j
+                  except Exception as e:
+                      error=e
+                      if attempt==2:break
+                      delay=min(60,max(3,int(getattr(e,'headers',{}).get('Retry-After','3') or '3'))) if isinstance(e,urllib.error.HTTPError) else 3*(attempt+1)
+                      time.sleep(delay)
+              raise RuntimeError(str(error))
+          props={'prop':'imageinfo|revisions','iiprop':'url|size|mime|thumbmime|sha1|extmetadata','iiurlwidth':'960','rvprop':'ids|content','rvslots':'main','redirects':'1'}
+          def clean(value):return re.sub(r'\s+',' ',html.unescape(re.sub('<[^>]+>',' ',str(value or '')))).strip()
+          def field(ext,key):return (ext.get(key) or {}).get('value','')
+          def candidate(page,origin):
+              ii=(page.get('imageinfo') or [None])[0]
+              if not ii:return None
+              ext=ii.get('extmetadata') or {}
+              revision=(page.get('revisions') or [{}])[0]
+              wiki=revision.get('slots',{}).get('main',{}).get('*','')
+              text=(page.get('title','')+' '+wiki).lower()
+              return {'commonsPageId':page.get('pageid'),'fileTitle':page.get('title'),'filePage':ii.get('descriptionurl'),'origin':origin,'imageURL':ii.get('thumburl') or ii.get('url'),'originalURL':ii.get('url'),'originalWidth':ii.get('width'),'originalHeight':ii.get('height'),'fileSHA1':ii.get('sha1'),'mime':ii.get('mime'),'revisionId':revision.get('revid'),'artistDisplay':clean(field(ext,'Artist')),'description':clean(field(ext,'ImageDescription')),'dateDisplay':clean(field(ext,'DateTimeOriginal')),'licenseShortName':field(ext,'LicenseShortName'),'licenseURL':field(ext,'LicenseUrl'),'creditDisplay':clean(field(ext,'Credit')),'attributionRequired':field(ext,'AttributionRequired'),'rightsMetadata':ext,'wikitext':wiki,'textSignals':[s for s in ['cropped','detail','fragment','workshop','attributed','copy','derived from'] if s in text],'identityReviewRequired':True,'licenceReviewRequired':True,'readyToBind':False,'browserImageDecoded':False,'fullVisualReview':False,'deliveryStatus':'not_checked'}
+          def explicit_titles(row):
+              p=row.get('originalPending') or {}
+              values=[p.get(k) for k in ['candidateFilePage','candidateCommonsFile','imageSource','commonsFile','commonsUrl']]
+              values.append(row.get('source'))
+              titles=[]
+              for v in values:
+                  if not isinstance(v,str):continue
+                  if v.startswith('http'):
+                      u=urllib.parse.urlsplit(v)
+                      if u.hostname not in ['commons.wikimedia.org','en.wikipedia.org','ru.wikipedia.org']:continue
+                      path=urllib.parse.unquote(u.path)
+                      m=re.search(r'/wiki/(?:File|Image):(.+)',path)
+                      if not m:continue
+                      title='File:'+m.group(1).replace('_',' ')
+                  else:
+                      if not re.search(r'\.(?:jpe?g|png|webp|tiff?|svg)$',v,re.I):continue
+                      title=v if v.startswith('File:') else 'File:'+v
+                  if title not in titles:titles.append(title)
+              return titles[:3]
+          def decode(c):
+              url=c.get('imageURL')
+              if not url:return
+              if urllib.parse.urlsplit(url).hostname not in ['upload.wikimedia.org','thumb.wikimedia.org','commons.wikimedia.org']:
+                  c['deliveryStatus']='unsupported_image_host';return
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':agent})
+                  with urllib.request.urlopen(req,timeout=20) as response:
+                      if urllib.parse.urlsplit(response.url).hostname not in ['upload.wikimedia.org','thumb.wikimedia.org','commons.wikimedia.org']:raise ValueError('Unexpected redirect host')
+                      data=response.read(8*1024*1024+1)
+                      c['httpStatus']=response.status
+                  if len(data)>8*1024*1024:raise ValueError('Thumbnail exceeds 8 MiB safety limit')
+                  with Image.open(io.BytesIO(data)) as im:im.verify()
+                  with Image.open(io.BytesIO(data)) as im:
+                      im.load();c['decodedWidth'],c['decodedHeight']=im.size;c['decodedFormat']=im.format
+                  c['deliveryStatus']='downloaded_and_decoded_with_pillow'
+                  c['downloadBytes']=len(data)
+                  c['downloadSHA256']=hashlib.sha256(data).hexdigest()
+              except Exception as e:
+                  c['deliveryStatus']='download_or_decode_failed';c['deliveryError']=str(e)[:1000]
+          summaries=[]
+          for row in queue['records']:
+              result={'number':row['number'],'queueKey':row['queueKey'],'artistId':row['artistId'],'artistName':row['artistName'],'title':row['title'],'originalTitle':row.get('originalPending',{}).get('originalTitle'),'originalSource':row['source'],'queueSnapshot':{'sourceModule':row['sourceModule'],'sourceModuleGitBlob':row['sourceModuleGitBlob'],'pendingWorkFingerprint':row['pendingWorkFingerprint']},'queries':[],'candidates':[],'errors':[],'identityCheckStatus':'manual_review_required','licenceCheckStatus':'manual_review_required','readyToBind':False,'browserReviewPerformed':False,'fullVisualReview':False}
+              module=root/row['sourceModule']
+              result['sourceModuleChangedSinceQueue']=not module.exists() or blob(module.read_bytes())!=row['sourceModuleGitBlob']
+              if time.monotonic()>deadline:
+                  result['status']='not_attempted_time_budget'
+              else:
+                  found={}
+                  def collect(response,origin):
+                      pages=list(response.get('query',{}).get('pages',{}).values())
+                      pages.sort(key=lambda p:p.get('index',0))
+                      for page in pages:
+                          if 'missing' in page:continue
+                          c=candidate(page,origin)
+                          if c and c['fileTitle'] not in found and len(found)<5:found[c['fileTitle']]=c
+                  titles=explicit_titles(row)
+                  if titles:
+                      try:collect(api(dict(props,titles='|'.join(titles))),'explicit_pending_reference')
+                      except Exception as e:result['errors'].append('Explicit file lookup: '+str(e)[:1000])
+                  artist=clean(row.get('latin') or row['artistName']).replace(chr(34),' ')
+                  original=clean(result.get('originalTitle') or row['title']).replace(chr(34),' ')
+                  short=' '.join(re.findall(r'\w+',original)[:6])
+                  russian=' '.join(re.findall(r'\w+',row['title'])[:6])
+                  queries=list(dict.fromkeys(['"'+artist+'" "'+original+'"',artist+' '+short,artist+' '+russian]))
+                  for query in queries[:3]:
+                      if len(found)>=3:break
+                      result['queries'].append(query)
+                      try:collect(api(dict(props,generator='search',gsrsearch=query,gsrnamespace='6',gsrlimit='3')),'commons_search')
+                      except Exception as e:result['errors'].append('Search: '+str(e)[:1000])
+                  result['candidates']=list(found.values())
+                  for c in result['candidates'][:2]:
+                      if time.monotonic()>deadline:break
+                      decode(c)
+                  result['status']='candidates_found_manual_review_required' if found else 'search_error' if result['errors'] else 'no_candidates_in_this_search'
+              target=out/'records'/(str(row['number']).zfill(3)+'.json')
+              target.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+              cs=result['candidates']
+              summaries.append({'number':row['number'],'artistId':row['artistId'],'artistName':row['artistName'],'title':row['title'],'status':result['status'],'candidateCount':len(cs),'decodedCandidateCount':sum(c['deliveryStatus']=='downloaded_and_decoded_with_pillow' for c in cs),'sourceModuleChangedSinceQueue':result['sourceModuleChangedSinceQueue'],'errors':result['errors'],'record':'records/'+target.name,'firstCandidateFilePage':cs[0].get('filePage') if cs else None,'readyToBind':False})
+          counts={}
+          for r in summaries:counts[r['status']]=counts.get(r['status'],0)+1
+          report={'schemaVersion':1,'series':'coverage','batch':1,'searchPass':1,'sourceQueueGitBlob':blob(raw),'sourceCommit':commit,'completedAtUTC':datetime.datetime.now(datetime.timezone.utc).isoformat(),'requestedRecords':50,'resultRecords':len(summaries),'statusCounts':counts,'recordsWithCandidates':sum(r['candidateCount']>0 for r in summaries),'recordsWithDecodedCandidate':sum(r['decodedCandidateCount']>0 for r in summaries),'readyToBindCount':0,'browserReviewPerformed':False,'fullVisualReview':False,'decoder':'Pillow '+PIL.__version__,'records':summaries,'notes':['Автоматический поиск кандидатов, не подтверждение тождества произведению или версии.','Поиск ограничен явными Commons-ссылками и максимум тремя запросами на запись; отсутствие результата не доказывает отсутствие репродукции.','Сведения о лицензии сохранены, но окончательная проверка прав и роли фотографа не выполнена.','Декодирование Pillow не равно просмотру изображения или проверке страницы в браузере.','До подключения проверить автора, инвентарь, версию, полноту изображения, права и дубли.']}
+          (out/'summary.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          def safe(v):
+              s=str(v if v is not None else '')
+              return chr(39)+s if s.startswith(('=','+','-','@')) else s
+          with (out/'index.csv').open('w',encoding='utf-8-sig',newline='') as f:
+              w=csv.writer(f,delimiter=';');w.writerow(['Номер','Художник','Работа','Статус','Кандидатов','Декодировано','Первый кандидат','Карточка изменилась','Ошибки'])
+              for r in summaries:w.writerow([safe(v) for v in [r['number'],r['artistName'],r['title'],r['status'],r['candidateCount'],r['decodedCandidateCount'],r['firstCandidateFilePage'],r['sourceModuleChangedSinceQueue'],' | '.join(r['errors'])]])
+          assert qp.read_bytes()==raw,'Input queue was modified'
+          PY
+          git diff --exit-code -- games/painting/index.html games/painting/artists.js 'games/painting/artists-batch-*.js' games/painting/reports/wiki-batches games/painting/reports/reproduction-queue/coverage-001.json games/painting/reports/reproduction-queue/coverage-001.csv
+      - name: Commit only candidate-search reports
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/reports/reproduction-queue/coverage-001-search-001
+          git commit -m 'Record Commons search candidates for coverage-001 without binding images'
+          git pull --rebase origin main
+          git push origin HEAD:main
