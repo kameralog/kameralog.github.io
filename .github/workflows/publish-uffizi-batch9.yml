@@ -1,0 +1,141 @@
+name: Publish reviewed ninth wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch9.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply reviewed ninth batch and preserve existing data
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch9-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch9-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const raw=`401|Поклонение волхвов|1423|Gentile da Fabriano - Adorazione dei Magi - Google Art Project.jpg|3356|3669
+          402|Поклонение волхвов — правая панель пределлы: Рождество Христово|1423|Gentile da Fabriano 029.jpg|2048|826
+          403|Пантократор (деталь алтаря «Поклонение волхвов»)|1423|Gentile da Fabriano 028.jpg|1576|1602
+          404|Крещение Христа|около 1425|Gentile da Fabriano 076.jpg|2048|1368
+          405|Царь Давид, играющий на арфе (деталь алтаря «Поклонение волхвов»)|1423|Gentile da Fabriano 026.jpg|1256|1132
+          406|Юная Мария в молитве (деталь алтаря «Поклонение волхвов»)|1423|Gentile da Fabriano 033.jpg|1256|1248
+          407|Полиптих Куаратези (реконструкция)|1425|Quaratesi Polyptych.jpg|736|557
+          408|Портрет кардинала Агукки|1604–1605|Domenichino - Portrait of Cardinal Agucchi - WGA06384.jpg|465|650
+          409|Портрет Вирджинио Чезарини|1620|Domenichino Virginio Cesarini.jpg|936|1198
+          410|Автопортрет|1906|Carl Larsson - Self Portrait.png|4095|6389
+          411|Автопортрет в 78 лет|1858|Ingres-autoportrait-1858 Florence.jpg|830|1023
+          412|Поклонение волхвов (тондо Торнабуони)|1477|Ghirlandaio, adorazione tornabuoni.jpg|462|496
+          413|Крышка портрета с гротесками|1506–1510|Ridolfo del Ghirlandaio - The Portrait's Box - WGA08929.jpg|800|1096
+          414|Мадонна на троне с Младенцем и святыми|1484|Domenico Ghirlandaio Madonna and Child enthroned with Saint c 1483.jpg|1016|960
+          415|Мадонна на троне с Младенцем, ангелами и святыми|1483|Domenico Ghirlandaio Madonna and Child enthroned between Angels and Saint c 1486.jpg|1015|860
+          416|Аллегория|1490-е годы|Filippino, Allegoria.jpg|770|1040
+          417|Динарий кесаря|1610–1620|Bartolomeo Manfredi - Il tributo a Cesare - Google Art Project.jpg|2856|1944
+          418|Солдаты, играющие в карты — старинная копия/реконструкция|около 1613–1618|Bartolomeo Manfredi - Soldiers Playing Cards.jpg|1024|688
+          419|Иосиф и жена Потифара|XVII век|Cecco Bravo 001.jpg|283|232
+          420|Пир Артаксеркса (Агасфера)|1490|Jacopo del sellaio, banchetto di assuero, uffizi.jpg|1120|800
+          421|Святое семейство с юным Иоанном Крестителем и ангелами|1520-е годы|Beccafumi, Sacra Famiglia con san Giovannino e l'agnellino tra serafini.jpg|877|999
+          422|Автопортрет|1525–1530|Domenico Beccafumi 064.jpg|2024|2395
+          423|Святое семейство с юным Иоанном Крестителем|около 1530|Domenico Beccafumi - The Holy Family with Young Saint John - WGA1549.png|685|692
+          424|Группа солдат и мужчин в восточных костюмах|около 1515|Carpaccio, gruppo di soldati.jpg|700|1162
+          425|Пророк|около 1510|Carpaccio, profeta.jpg|586|1274
+          426|Сивилла|около 1510|Carpaccio, sibilla.jpg|590|1268
+          427|Мужской портрет в профиль|около 1490–1510|Portrait of a man - Ambrogio de Predis.jpg|745|1000
+          428|Мужской портрет (левая часть двойного портрета)|1520–1525|Joos van cleve, doppio rirtratto (cropped1).jpg|670|950
+          429|Женский портрет с чётками (правая часть двойного портрета)|1527|Joos van cleve, doppio rirtratto (cropped2).jpg|669|950
+          430|Портрет неизвестного мужчины|1520-е годы|Joos van cleve, ritratto di ignoto, uffizi.jpg|549|831
+          431|Двойной портрет мужчины и его жены|1520–1527|Joos van cleve, doppio rirtratto.jpg|1381|950
+          432|Венера и Меркурий представляют Антероса Юпитеру|около 1560–1565|Veronese - Venus and Mercury Presenting Anteros to Jupiter, circa 1560-1565.jpg|900|615
+          433|Крещение Христа|около 1580–1584|Paolo Caliari detto il Veronese - Battesimo di Cristo - 186 - Galleria Palatina.jpg|2091|3000
+          434|Благовещение|1556|Veronese - Annunciazione, 1185100, Uffizi.jpg|1200|593
+          435|Мученичество святой Иустины|1555|Paolo Veronese - Martirio di Santa Giustina - Google Art Project.jpg|8024|7040
+          436|Портрет Изеппо да Порто с сыном Адриано|1555|Count Iseppo da Porto, by Paolo Veronese.jpg|4095|6494
+          437|Святое семейство со святой Екатериной и юным Иоанном Крестителем|1570-е годы|Paolo Veronese - Holy Family with St Barbara and the Infant St John - WGA24826.jpg|1247|1000
+          438|Есфирь перед Артаксерксом — атрибуция Веронезе, мастерской или старинной копии|около 1555|Veronese - Esther before Ahasuerus.jpg|600|438
+          439|Портрет джентльмена в меху|1549–1570|Paolo Veronese 016.jpg|2024|2546
+          440|Автопортрет|около 1542–1543|Hans Holbein the Younger, self-portrait.jpg|2424|3312
+          441|Портрет сэра Ричарда Саутвелла|1536|Hans Holbein d. J. 060.jpg|2024|2538
+          442|Мадонна Казини|около 1426|Masaccio, Madonna-del-Solletico.jpg|338|450
+          443|Джованни Боккаччо (из цикла «Знаменитые люди»)|около 1450|Andrea del Castagno Giovanni Boccaccio c 1450.jpg|766|1200
+          444|Кумская сивилла (из цикла «Знаменитые люди»)|около 1450|Andrea del Castagno - Famous Persons - The Cumean Sibyl - WGA00343.jpg|760|1200
+          445|Мадонна с Младенцем и святыми (Мадонна Каса-Пацци)|около 1445|Andrea del Castagno - Madonna and Child with Saints - WGA00325.jpg|805|1122
+          446|Портрет Джованни II Бентивольо|около 1490–1492|Lorenzo Costa 007.jpg|1157|1363
+          447|Святой Себастьян|1490–1491|Lorenzo Costa - Saint Sebastian.jpg|461|650
+          448|Портрет карлика Нано Морганте|1553|Nano Morgante.jpg|640|480
+          449|Пигмалион и Галатея|1529–1530|Angelo Bronzino 068.jpg|2684|3500
+          450|Портрет Гвидобальдо II делла Ровере|1531–1532|Angelo Bronzino - Portrait of Guidobaldo della Rovere.jpg|2536|3226`;
+          const data=raw.split('\n').map(line=>{const[n,title,date,file,w,h]=line.trim().split('|');return {n:+n,title,date,file,width:+w,height:+h};});assert.deepEqual(data.map(r=>r.n),Array.from({length:50},(_,i)=>i+401));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c',queueDirectory='reports/uffizi-packages/43457577858-1',queueFiles=[1,2,3,4,5,6,7,8,9,10].map(n=>'new_work_candidates-'+String(n).padStart(3,'0')+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));const originalRecords=lists.flat().slice(400,450).map((r,i)=>({number:i+401,...r}));assert.equal(originalRecords.length,50);
+          const pageBatch={gentile_da_fabriano:14,domenichino:83,carl_larsson:131,jean_auguste_dominique_ingres:18,domenico_ghirlandaio:36,bartolomeo_manfredi:82,cecco_bravo:101,jacopo_del_sellaio:8,domenico_beccafumi:52,vittore_carpaccio:41,giovanni_ambrogio_de_predis:48,joos_van_cleve:54,paolo_veronese:10,hans_holbein_the_younger:9,masaccio:14,andrea_del_castagno:39,lorenzo_costa:43,agnolo_bronzino:9};
+          const expected={8:'98047f0fecaf765a13cc788f06992581567ec591',9:'94fcb12a1d5c067a55ba228705ce75af13bd7d53',10:'a5a17545d66eeeb504560989fc6707c9097e2303',14:'bc59f53ee9bb4f2f7b5b26754b0c0a4f8f4ffbae',18:'b17a18970276d0f86d5dffda02d9d760f646d722',36:'58dbbd4c72592fbe6dcbdf6ff110215c6c998aac',39:'f1fac0ad76f62f85ea1cbcfcdcd314e026c79685',41:'30e27a6b64000bd702657dfd118a68ab6c260943',43:'59f49841a0a0ec5d635517115ab0e0abc378d3ee',48:'32c73dcb2a53843da872622e969087810f53ec14',52:'e4129e8059a140bc834794d8f4dd10da665e2eec',54:'40cce68a9ef3f38770cbadb2bb271719d6c4b978',82:'e385bebbe8009cd98e86830a8aa14f93d9430f06',83:'34bd787981290a0ba206f0860d2ee07c0a5ac905',101:'1a1330fd84455986582335eb21c82a5e2e39c0fb',131:'f354c5ac31081a934d2f903f0606be0cb28037f9'};
+          const reportPath='reports/wiki-batches/batch-009.json';assert(!fs.existsSync(reportPath));const previous=[1,2,3,4,5,6,7,8].map(n=>{const path='reports/wiki-batches/batch-00'+n+'.json';return {path,text:fs.readFileSync(path,'utf8')};});
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          for(const r of data){const candidate=originalRecords[r.n-401],id=candidate.artistId,Q=candidate.work;assert.equal(candidate.number,r.n);assert(/^Q\d+$/.test(Q));const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const baseLicense='Public domain';const entry={number:r.n,workId:Q,originalArtistId:id,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,licenseShortName:baseLicense,originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseTemplatesChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          if(r.n===413||r.n===416){Object.assign(entry,{status:'deferred',artistId:null,intendedArtistName:'Ридольфо дель Гирландайо',intendedArtistWikidata:'Q64881',reason:'В очереди указан Доменико Гирландайо, но автор в Commons и Wikidata — Ридольфо дель Гирландайо (Q64881). На страницу Доменико Гирландайо не добавлять.',nextAction:'Проверить наличие карточки Ридольфо дель Гирландайо и при необходимости подключить к ней.'});results.push(entry);continue;}
+          if(r.n===428||r.n===429){Object.assign(entry,{status:'deferred',reason:'Файл помечен cropped и является вырезкой из двойного портрета, который полностью подключается в №431.',parentFileFromMetadata:'Joos van cleve, doppio rirtratto.jpg',nextAction:'Использовать полный двойной портрет (№431) либо отдельно проверить кадрирование.'});results.push(entry);continue;}
+          const bn=pageBatch[id];assert(bn);const filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch9-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch9:'+Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name),original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const credit=artist.name+'; Wikimedia Commons; '+baseLicense;let note='Источник репродукции и сведения о правах — в карточке конкретного файла Commons.';
+          if(r.n===418)note+=' Старинная копия/реконструкция повреждённого оригинала.';if(r.n===438)note+=' Атрибуция в источнике спорная (молодой Веронезе, мастерская или старинная копия).';if([401,402,403,405,406].includes(r.n))note+=' Относится к алтарю «Поклонение волхвов» (1423).';if(Math.min(r.width,r.height)<600)note+=' Небольшой исходный файл не увеличивался искусственно.';
+          const work={key,title:r.title,date:r.date,author:artist.name,medium:'',museum:'Галереи Уффици, Флоренция',source:imageSource,image:sized(960),zoom:sized(1920),imageSource,license:baseLicense,creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n===438)work.attributionStatus='attributed';if([401,402,403,405,406].includes(r.n))work.objectGroup='gentile-adoration-of-the-magi';
+          group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,16);assert.equal(results.filter(r=>r.work).length,46);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,18);assert.equal(results.filter(r=>r.status==='deferred').length,4);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:9,batchSize:50,range:[401,450],checkedDate:'2026-11-16',status:'connected_publication_pending',total:50,foundReproductions:50,browserImagesDecoded:50,ruOrEnWikipediaArticlesFound:18,newlyConnected:46,alreadyPresentCount:0,alreadyPresent:[],duplicatesCount:0,deferredConfirmed:4,artistPages:18,sourceFiles:16,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(400,450)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['Все 50 файлов найдены и прошли браузерную загрузку (№409 подтверждён при повторной проверке); полный визуальный просмотр не заявляется.','№413 и №416 отложены: автор в источниках Ридольфо дель Гирландайо (Q64881), не Доменико Гирландайо.','№428 и №429 отложены: вырезки (cropped) из двойного портрета №431.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of previous)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch9-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{8,9,10,14,18,36,39,41,43,48,52,54,82,83,101,131}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-009.json
+          git diff --cached --stat
+          git commit -m 'Connect 46 ninth-batch reproductions and record deferred works'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify published catalogue and record result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch9=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch9-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch9-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-009.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=46;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-009.json
+              git commit -m 'Record live catalogue verification for wiki batch nine'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified live catalogue: 46 new bindings, four deferred. Individual page and full visual reviews remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; live catalogue verification remains pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
