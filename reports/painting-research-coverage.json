@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "1afa7d13cb3e331faaeacf6e86e21bba63a9dac2",
-  "catalogueCount": 1106,
-  "connectedPackageCount": 37,
-  "connectedDossierCount": 403,
+  "sourceCommit": "0956dfaf5cfe1d9e076f5887f3e982fe5d6f3695",
+  "catalogueCount": 1116,
+  "connectedPackageCount": 38,
+  "connectedDossierCount": 413,
   "connectedIds": [
     "abraham_bloemaert",
     "abraham_brueghel",
@@ -81,8 +81,15 @@
     "anna_de_weert",
     "anna_dorothea_therbusch",
     "anna_klumpke",
+    "anna_lea_merritt",
+    "anna_munthe_norstedt",
+    "anna_palm_de_rosa",
+    "anna_petersen",
+    "anna_rosina_de_gasc",
+    "anna_syberg",
     "anne_vallayer_coster",
     "annibale_carracci",
+    "ans_van_den_berg",
     "anthonie_palamedesz",
     "antoine_watteau",
     "anton_raphael_mengs",
@@ -93,6 +100,7 @@
     "august_malmstrom",
     "axel_haartman",
     "axel_helsted",
+    "axel_jungstedt",
     "bada_shanren",
     "bart_van_der_leck",
     "bartholomeus_breenbergh",
@@ -227,6 +235,7 @@
     "henri_de_toulouse_lautrec",
     "henri_edmond_cross",
     "henri_rousseau",
+    "henriette_browne",
     "herman_saftleven",
     "herman_van_swanevelt",
     "honore_daumier",
@@ -315,6 +324,7 @@
     "mary_cassatt",
     "masaccio",
     "master_of_the_holy_blood",
+    "matisse",
     "matsumura_goshun",
     "matteo_di_giovanni",
     "matthias_stom",
@@ -413,56 +423,6 @@
   "unconnectedIds": [],
   "remainingCount": 703,
   "next50": [
-    {
-      "id": "axel_jungstedt",
-      "name": "Аксель Юнгстедт",
-      "path": "records/axel_jungstedt.json"
-    },
-    {
-      "id": "anna_lea_merritt",
-      "name": "Анна Ли Мерритт",
-      "path": "records/anna_lea_merritt.json"
-    },
-    {
-      "id": "anna_munthe_norstedt",
-      "name": "Анна Мунте-Норстедт",
-      "path": "records/anna_munthe_norstedt.json"
-    },
-    {
-      "id": "anna_palm_de_rosa",
-      "name": "Анна Пальм де Роса",
-      "path": "records/anna_palm_de_rosa.json"
-    },
-    {
-      "id": "anna_petersen",
-      "name": "Анна Петерсен",
-      "path": "records/anna_petersen.json"
-    },
-    {
-      "id": "anna_rosina_de_gasc",
-      "name": "Анна Розина де Гаск",
-      "path": "records/anna_rosina_de_gasc.json"
-    },
-    {
-      "id": "anna_syberg",
-      "name": "Анна Сюберг",
-      "path": "records/anna_syberg.json"
-    },
-    {
-      "id": "matisse",
-      "name": "Анри Матисс",
-      "path": "records/matisse.json"
-    },
-    {
-      "id": "henriette_browne",
-      "name": "Анриетта Браун",
-      "path": "records/henriette_browne.json"
-    },
-    {
-      "id": "ans_van_den_berg",
-      "name": "Анс ван ден Берг",
-      "path": "records/ans_van_den_berg.json"
-    },
     {
       "id": "anshelm_schultzberg",
       "name": "Ансхельм Шульцберг",
@@ -662,24 +622,74 @@
       "id": "bernaert_van_orley",
       "name": "Бернарт ван Орлей",
       "path": "records/bernaert_van_orley.json"
+    },
+    {
+      "id": "berndt_lindholm",
+      "name": "Берндт Линдхольм",
+      "path": "records/berndt_lindholm.json"
+    },
+    {
+      "id": "berthe_art",
+      "name": "Берта Арт",
+      "path": "records/berthe_art.json"
+    },
+    {
+      "id": "bertha_wegmann",
+      "name": "Берта Вегман",
+      "path": "records/bertha_wegmann.json"
+    },
+    {
+      "id": "bertalan_por",
+      "name": "Берталан Пор",
+      "path": "records/bertalan_por.json"
+    },
+    {
+      "id": "bertalan_szekely",
+      "name": "Берталан Секей",
+      "path": "records/bertalan_szekely.json"
+    },
+    {
+      "id": "bessie_davidson",
+      "name": "Бесси Дэвидсон",
+      "path": "records/bessie_davidson.json"
+    },
+    {
+      "id": "betzy_akersloot_berg",
+      "name": "Бетси Акерслот-Берг",
+      "path": "records/betzy_akersloot_berg.json"
+    },
+    {
+      "id": "betsy_westendorp_osieck",
+      "name": "Бетси Вестендорп-Осик",
+      "path": "records/betsy_westendorp_osieck.json"
+    },
+    {
+      "id": "bichitr",
+      "name": "Бичитр",
+      "path": "records/bichitr.json"
+    },
+    {
+      "id": "bohumil_kubista",
+      "name": "Богумил Кубишта",
+      "path": "records/bohumil_kubista.json"
     }
   ],
   "inputSHA256": {
-    "editorial/painting/manifest.json": "19c5b47fafee8c2027eae17e4bcd2341494d3f8718c4919deddf40228efd094f",
-    "editorial/painting/research/manifest.json": "bf721a60b70956a5d1719b0facc34b57d0b7c36bff13c3d3b9b773ec67d0ccf2",
-    "editorial/painting/summary.json": "c4198f1f3c1ea775646f5cf7358200d665ac19a27e419e9a08b92b9db6bf484e",
+    "editorial/painting/manifest.json": "f32592c3d2ee168782eea7372a63a916ad3a36b4edc54ce4a66dc83b85e0c594",
+    "editorial/painting/research/manifest.json": "b68472b1228015ff1ca4aca5791427730d5aaf7b606bf278dd0308b35ea9f409",
+    "editorial/painting/summary.json": "b09db713cb08f90ee22935ef823554e2859b5af59edd2f384c05a922947816cc",
     "editorial/painting/index-000.json": "1e5b3705e300632523bdcb462c9d6294373ec3d303cbc7314e283203dd98e8c5",
     "editorial/painting/index-001.json": "3695e9cbfff33af198bf88e370b63ca9a7d4831ffe81085436ce1a6bdb57a0c4",
-    "editorial/painting/index-002.json": "4e7d6dcfbbe799db0986d3cc1b26f824c2590261e8d6144455b23468decd17ff",
-    "editorial/painting/index-003.json": "2f60114a20231beffe087876f4ac03481605378cb0216466409bf79e7a568954",
-    "editorial/painting/index-004.json": "cbea15bc6559e245e459a2039235cd502cb0549ee5d331e85912034bd0dcc78b",
-    "editorial/painting/index-005.json": "0c9485e8a3f8961d7f34514d4b85938f13373579fb09a593629fb178b3e0b0eb",
-    "editorial/painting/index-006.json": "a4f3e365a4862809938c9e3e135f3735da893f6f9b0d6eccf9e57586be5f4b92",
-    "editorial/painting/index-007.json": "2ae942267f0fef08fbbf56b45eb059738196d465ceb4af0082d6137292522239",
-    "editorial/painting/index-008.json": "de4be86fcd8a4d00c62d394ed73e1008f40d2fe730fa41bb281fb254303114f8",
-    "editorial/painting/index-009.json": "831075a406cf2040f843b81d28d9fcb628a779060bb4d8b5e9a69d235d18d7a5",
-    "editorial/painting/index-010.json": "27ef413400edb687453f26402b569d9d520601526e3021babfae004d4f074029",
-    "editorial/painting/index-011.json": "1a6739f5cc92f32615d9eaa191ef50f4446bbda805e5b9df642d0cc06501d05b",
+    "editorial/painting/index-002.json": "67dd8986bfc852a94595ab16f9b8cd5f32f349c60fcdafefa9fa2a663cd3dc80",
+    "editorial/painting/index-003.json": "1d9bd2710a788df45b1af8113fc8b6d89ed2edfbafb0ba4a014532aa377911ad",
+    "editorial/painting/index-004.json": "fe2cf40929680033a654b9ff577e8f4b571de003f6b259173770076f4b1da3de",
+    "editorial/painting/index-005.json": "2b6299539195fb95ac128a6fcf92f6786dbf4acb99d96b1617ba783e8075ef87",
+    "editorial/painting/index-006.json": "feb001f2b4b2e574b1ea341e60c972c9957ef01ab427f2d70822d264488befed",
+    "editorial/painting/index-007.json": "9494517c414d11e1572fb02bb363178c2968351f0dbee63ff5d53688d4d3310b",
+    "editorial/painting/index-008.json": "890abf61804353e562598efc2877a6014e3053fb42e0abd6db04b410abe7951e",
+    "editorial/painting/index-009.json": "a1d6269e222ed1b7cdd14147bc052f5e294ad008fd4915b2e2dffb096da19c82",
+    "editorial/painting/index-010.json": "8cffc2371f90d0ced00bc72c5d6e116a9d8df56c54d46f26992587fb7f51af4d",
+    "editorial/painting/index-011.json": "144f8a6136d330ac1d8f3f199db020d75f7b6e4f73ad55fac2e923afea3e9e81",
     "editorial/painting/research/batch-001.json": "817675400aa54be39a8c58d0d9b74316005431851156436ba887b7cc1139ca21",
     "editorial/painting/research/batch-002.json": "6695ef04a8f8c1693cb51249026800d5b7297e9252768b4724f9d14f42fdf89a",
     "editorial/painting/research/batch-003.json": "602bc42f10869fb704cb16430878e7af53fed96e8e952fb10bc876309ee24333",
@@ -717,16 +727,7 @@
     "editorial/painting/research/batch-015c.json": "ddcc5440f08ae85a9306d55516678b2459a0c1f645732f180cb45536bd59c64e",
     "editorial/painting/research/batch-015d.json": "9fe99abe2de5e776b04b4bb8b1fa9c3ea9914658be2fd95a54ea7f59954ab5f6",
     "editorial/painting/research/batch-015e.json": "2d6993d76e7524c062a7e7f9b43fb2e03a60682cb0faf212e1dcd95599da23c0",
-    "editorial/painting/records/axel_jungstedt.json": "9af2cdc701b09afeb13361a684a77ee6838c5dfd93d77195df39eb412a5fd514",
-    "editorial/painting/records/anna_lea_merritt.json": "c052dd03ba221916b6a683867434e7a0d4107a8387f127d98490676e94c443a4",
-    "editorial/painting/records/anna_munthe_norstedt.json": "54967198553a35b86a9214f1df33f665bcf4be508b97bf110d105be3f6ab5705",
-    "editorial/painting/records/anna_palm_de_rosa.json": "6d1ef189c7609195cb7405c55b70794c6db62651dfda5266d22278f9b335f7ba",
-    "editorial/painting/records/anna_petersen.json": "d571d0df12c9550720237d9bb679079bb72ffce422e223bdb95491c7ff5d06d2",
-    "editorial/painting/records/anna_rosina_de_gasc.json": "b5bca8f620251593095d5b0be3bf4a7fc5bc908312e05b77b14feb8db650024f",
-    "editorial/painting/records/anna_syberg.json": "8938d20e3973ce460978d9a18817ec6463510339c916dc980c660b90df3560ce",
-    "editorial/painting/records/matisse.json": "dce33391b534eb228f3df7678f620e12682d08edb0de61aec045b4d8d7fecc27",
-    "editorial/painting/records/henriette_browne.json": "53ecbc097cab0df971b5dc3c766e19745469ee2811244fbdc3b944472eb33cc0",
-    "editorial/painting/records/ans_van_den_berg.json": "56981afd441f9bae7e0ba5ccf2c88685b4eae876ee2075bcaec547e03fe2f891",
+    "editorial/painting/research/batch-016a.json": "d5511a46c26813d8132de14ddf44b3e4ca43eebbf7217a8a8d66d9536b319044",
     "editorial/painting/records/anshelm_schultzberg.json": "4a8e350436e0224e3c0b7cdd8d8f542433182eb7608bbe29cfb8e7a32dcbf1d5",
     "editorial/painting/records/antanas_zmuidzinavicius.json": "2249ff42e8112b092d894b331cfc197f6d34ba6f37827fa525a2f2caa275b8dd",
     "editorial/painting/records/anton_domenico_gabbiani.json": "caed6c4b4bdb3b8d749df65549e8fa2dda64cce8b1b7e151cce8948ee2c690b5",
@@ -766,7 +767,17 @@
     "editorial/painting/records/berlinghiero.json": "6475bea5d43e915425aefd11d08c8edf8ba3865b8b5067a0d99f05e0a14ca8ec",
     "editorial/painting/records/bernardo_cavallino.json": "48b5993ad729dcc40332d0450157e56216f0d120c867b457072f554b4a379dd2",
     "editorial/painting/records/bernardo_castello.json": "e039c96f0f6bb801adbd1d4f1797df79ce3deb52922c58737b8e683d9dcaf7e7",
-    "editorial/painting/records/bernaert_van_orley.json": "0569ca2fdcffc5e35f9ad1729d973896fa3749765f4d8d1b386e6b9decd44495"
+    "editorial/painting/records/bernaert_van_orley.json": "0569ca2fdcffc5e35f9ad1729d973896fa3749765f4d8d1b386e6b9decd44495",
+    "editorial/painting/records/berndt_lindholm.json": "193ef2d92836cb4402b193ce8b10e0599b16e93ebb200442876aeafa44ff2688",
+    "editorial/painting/records/berthe_art.json": "e4f06323cd06e1930ca885999cc95f061473d4e68da7cd801d052d07f7f8b42f",
+    "editorial/painting/records/bertha_wegmann.json": "2c4f406ce1a69f3f952331aa8ff1bfc22439676534c034e82c1d79b6991bda5a",
+    "editorial/painting/records/bertalan_por.json": "1c0446f0617398b9f92265ac3fe4927d20ddd294624400f8e4e4fb6d1d7050d9",
+    "editorial/painting/records/bertalan_szekely.json": "ee88596714fc2e7c57ab8a2d55563515b4bc4bd23af6eb869799ce57d593b9e6",
+    "editorial/painting/records/bessie_davidson.json": "fc1bf07a3d42a08ed15672e8066b4fe88ffe63d39b9370a90ded6b5b0c084c73",
+    "editorial/painting/records/betzy_akersloot_berg.json": "33cfc40b0dfea5aa3252070b8c9b4ce1d6e47fd226379760c4a67c7ce62ae8d1",
+    "editorial/painting/records/betsy_westendorp_osieck.json": "5cc69fff082ef552883d515784c768d8a00376b0cd33d7d3b6a82d92dedccb39",
+    "editorial/painting/records/bichitr.json": "f63c3da73453fc988402828e3f56b5e4ba0f0f3c86a6f0cf7fd8a177f94fcc64",
+    "editorial/painting/records/bohumil_kubista.json": "2e8134e099aee732482703c054820aaeea7ddf3100106401b6dcdb7bb1f422db"
   },
   "verificationScope": "ID, path, structure and count checks only; not historical, visual or rights verification"
 }
