@@ -20,7 +20,7 @@
     ],
     "innovation": "Свет связывает чудесное действие, телесную убедительность и реальную благотворительную программу учреждения. Освобождение апостола соотносится с помощью заключённым, а не существует как изолированное зрелище.",
     "caution": "1615 подтверждён записью об оплате. Баттистелло и Джованни Баттиста Караччоло — один художник. Подробности сотрудничества с Караваджо неизвестны. Ключ работы редакционный по названию и году, не вымышленный музейный инвентарь. Полотно находится в алтарной программе Пио-Монте.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
@@ -30,8 +30,20 @@
     {
       "title": "Прадо: биография Караччоло",
       "url": "https://www.museodelprado.es/coleccion/artista/caracciolo-gian-battista/c65fddc4-808f-43d7-ba7a-2d3279d78d5e"
+    },
+    {
+      "title": "Репродукция: Саломея получает голову Иоанна Крестителя",
+      "url": "https://commons.wikimedia.org/wiki/File:BattistelloSalome.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch10:Q131627780",
+      "title": "Саломея получает голову Иоанна Крестителя",
+      "date": "1615–1620",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:BattistelloSalome.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

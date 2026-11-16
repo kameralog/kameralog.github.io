@@ -42,6 +42,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Joos_van_Cleve_-_Self-Portrait_-_WGA5048.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет неизвестного мужчины",
+      "url": "https://commons.wikimedia.org/wiki/File:Joos_van_cleve%2C_ritratto_di_ignoto%2C_uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Двойной портрет мужчины и его жены",
+      "url": "https://commons.wikimedia.org/wiki/File:Joos_van_cleve%2C_doppio_rirtratto.jpg"
     }
   ],
   "works": [
@@ -51,6 +59,20 @@
       "date": "около 1519",
       "museum": "Музей Тиссена-Борнемисы, Мадрид",
       "source": "https://www.museothyssen.org/en/collection/artists/cleve-joos-van/self-portrait"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3937739",
+      "title": "Портрет неизвестного мужчины",
+      "date": "1520-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Joos_van_cleve%2C_ritratto_di_ignoto%2C_uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3937743",
+      "title": "Двойной портрет мужчины и его жены",
+      "date": "1520–1527",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Joos_van_cleve%2C_doppio_rirtratto.jpg"
     }
   ],
   "pendingWorksCount": 0

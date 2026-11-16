@@ -38,6 +38,34 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Fra_Bartolommeo_(1472-1517)_-_The_Virgin_adoring_the_Child_with_Saint_Joseph_-_NG3914_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Видение святого Бернарда",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Benedict_and_John_the_Evangelist.jpg"
+    },
+    {
+      "title": "Репродукция: Оплакивание Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_Bartolomeo_-_Lamentation_-_WGA1369.jpg"
+    },
+    {
+      "title": "Репродукция: Мистическое обручение святой Екатерины Сиенской",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_08_Mystic_Marriage_of_St_Catherine.jpg"
+    },
+    {
+      "title": "Репродукция: Порция",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo%2C_porzia.jpg"
+    },
+    {
+      "title": "Репродукция: Христос с четырьмя евангелистами",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_03_Christ_with_the_Four_Evangelists.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Марк",
+      "url": "https://commons.wikimedia.org/wiki/File:San_marco%2C_fra_bartolomeo.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение, Обрезание и Рождество Христово (Табернакль дель Пульезе)",
+      "url": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo%2C_tabernacolo_del_pugliese_chiuso_e_aperto.jpg"
     }
   ],
   "works": [
@@ -46,6 +74,55 @@
       "title": "Богоматерь, поклоняющаяся Младенцу, со святым Иосифом",
       "date": "до 1511; в описании — 1508–1510",
       "source": "https://www.nationalgallery.org.uk/paintings/fra-bartolommeo-the-virgin-adoring-the-child-with-saint-joseph"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3620829",
+      "title": "Видение святого Бернарда",
+      "date": "1504",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_02_Vision_of_St_Bernard_with_Sts_Benedict_and_John_the_Evangelist.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3685123",
+      "title": "Оплакивание Христа",
+      "date": "1511",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_Bartolomeo_-_Lamentation_-_WGA1369.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3889205",
+      "title": "Мистическое обручение святой Екатерины Сиенской",
+      "date": "1512",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_08_Mystic_Marriage_of_St_Catherine.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3909363",
+      "title": "Порция",
+      "date": "1510-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo%2C_porzia.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3945921",
+      "title": "Христос с четырьмя евангелистами",
+      "date": "1516",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo_03_Christ_with_the_Four_Evangelists.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3947582",
+      "title": "Святой Марк",
+      "date": "1515",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:San_marco%2C_fra_bartolomeo.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3979942",
+      "title": "Благовещение, Обрезание и Рождество Христово (Табернакль дель Пульезе)",
+      "date": "около 1500",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Fra_bartolomeo%2C_tabernacolo_del_pugliese_chiuso_e_aperto.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -20,7 +20,7 @@
     ],
     "innovation": "Мантенья соединяет античную пластическую ясность с ракурсом и повествованием. Дорога от города к Христу превращает пейзаж в рассказ о приближении ареста: устройство пространства помогает передать течение времени и напряжение.",
     "caution": "Мантенья жил и после 1500 года: кватроченто здесь описывает традицию и выбранную раннюю работу, а не календарные границы всего творчества. Лондонская картина NG1417 — не композиция Джованни Беллини и не пределла алтаря Сан-Дзено. Приведены музейные размеры 62,9 × 80 см; Commons округляет высоту до 63 см. Визуальный просмотр файла и загрузка в браузере ещё не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,22 @@
     {
       "title": "Commons: репродукция NG1417",
       "url": "https://commons.wikimedia.org/wiki/File:Mantegna,_Andrea_-_Agony_in_the_Garden_-_National_Gallery,_London.jpg"
+    },
+    {
+      "title": "Репродукция: Обрезание Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_002.jpg"
+    },
+    {
+      "title": "Репродукция: Триптих (Уффици)",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_-_Trittico_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_001.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Карло Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_110.jpg"
     }
   ],
   "works": [
@@ -43,6 +59,34 @@
       "date": "около 1455–1456",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/andrea-mantegna-the-agony-in-the-garden"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q111821771",
+      "title": "Обрезание Христа",
+      "date": "около 1461",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_002.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q18683109",
+      "title": "Триптих (Уффици)",
+      "date": "около 1463–1464",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_-_Trittico_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q2405395",
+      "title": "Поклонение волхвов",
+      "date": "около 1461",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_001.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3937495",
+      "title": "Портрет Карло Медичи",
+      "date": "1466",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_Mantegna_110.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -18,12 +18,44 @@
     ],
     "innovation": "Портрет превращает военную биографию в образ доблести. Стрела в руке напоминает о гибели Барбариго в битве при Лепанто 7 октября 1571 года.",
     "caution": "Дата «после около 1571» относится к портрету, а 1528–1588 — годы художника. Биографию модели не следует принимать за биографию автора.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Cleveland Museum of Art: Portrait of Agostino Barbarigo",
       "url": "https://clevelandart.org/art/1928.16"
+    },
+    {
+      "title": "Репродукция: Венера и Меркурий представляют Антероса Юпитеру",
+      "url": "https://commons.wikimedia.org/wiki/File:Veronese_-_Venus_and_Mercury_Presenting_Anteros_to_Jupiter%2C_circa_1560-1565.jpg"
+    },
+    {
+      "title": "Репродукция: Крещение Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Paolo_Caliari_detto_il_Veronese_-_Battesimo_di_Cristo_-_186_-_Galleria_Palatina.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение",
+      "url": "https://commons.wikimedia.org/wiki/File:Veronese_-_Annunciazione%2C_1185100%2C_Uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Мученичество святой Иустины",
+      "url": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Martirio_di_Santa_Giustina_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Изеппо да Порто с сыном Адриано",
+      "url": "https://commons.wikimedia.org/wiki/File:Count_Iseppo_da_Porto%2C_by_Paolo_Veronese.jpg"
+    },
+    {
+      "title": "Репродукция: Святое семейство со святой Екатериной и юным Иоанном Крестителем",
+      "url": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Holy_Family_with_St_Barbara_and_the_Infant_St_John_-_WGA24826.jpg"
+    },
+    {
+      "title": "Репродукция: Есфирь перед Артаксерксом — атрибуция Веронезе, мастерской или старинной копии",
+      "url": "https://commons.wikimedia.org/wiki/File:Veronese_-_Esther_before_Ahasuerus.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет джентльмена в меху",
+      "url": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_016.jpg"
     }
   ],
   "works": [
@@ -33,6 +65,62 @@
       "date": "after c. 1571",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1928.16"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q117774616",
+      "title": "Венера и Меркурий представляют Антероса Юпитеру",
+      "date": "около 1560–1565",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Veronese_-_Venus_and_Mercury_Presenting_Anteros_to_Jupiter%2C_circa_1560-1565.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q130515982",
+      "title": "Крещение Христа",
+      "date": "около 1580–1584",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Paolo_Caliari_detto_il_Veronese_-_Battesimo_di_Cristo_-_186_-_Galleria_Palatina.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q15974329",
+      "title": "Благовещение",
+      "date": "1556",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Veronese_-_Annunciazione%2C_1185100%2C_Uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q15974345",
+      "title": "Мученичество святой Иустины",
+      "date": "1555",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Martirio_di_Santa_Giustina_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q15974356",
+      "title": "Портрет Изеппо да Порто с сыном Адриано",
+      "date": "1555",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Count_Iseppo_da_Porto%2C_by_Paolo_Veronese.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q15974361",
+      "title": "Святое семейство со святой Екатериной и юным Иоанном Крестителем",
+      "date": "1570-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_-_Holy_Family_with_St_Barbara_and_the_Infant_St_John_-_WGA24826.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q27978428",
+      "title": "Есфирь перед Артаксерксом — атрибуция Веронезе, мастерской или старинной копии",
+      "date": "около 1555",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Veronese_-_Esther_before_Ahasuerus.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3937768",
+      "title": "Портрет джентльмена в меху",
+      "date": "1549–1570",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Paolo_Veronese_016.jpg"
     }
   ],
   "pendingWorksCount": 0

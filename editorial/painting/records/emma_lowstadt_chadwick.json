@@ -1,0 +1,49 @@
+{
+  "id": "emma_lowstadt_chadwick",
+  "name": "Эмма Лёвстедт-Чедвик",
+  "latin": "Emma Löwstädt-Chadwick",
+  "life": "1855–1932",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведская художница, специализировавшаяся на жанровых сценах и портретах. Emma Chadwick и Emma Löwstädt-Chadwick — имена одного автора.",
+      "Выбрана работа «Спящий ребёнок» из Nationalmuseum, NM 3236, датированная 1880-ми. Это её собственная картина, не портрет самой художницы."
+    ],
+    "technique": [
+      "Техника и физические размеры здесь не утверждаются",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана работа «Спящий ребёнок» из Nationalmuseum, NM 3236, датированная 1880-ми. Это её собственная картина, не портрет самой художницы.",
+    "caution": "Файл 1000 × 1000 пикселей не увеличивается. Квадратный цифровой формат не доказывает ни обрезку, ни полноту композиции. Дата сохранена как десятилетие. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Emma_Chadwick"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Emma_L%C3%B6wst%C3%A4dt-Chadwick_-_A_Sleeping_Child_-_NM_3236_-_Nationalmuseum.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=103233106"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_103233106",
+      "title": "Спящий ребёнок",
+      "date": "1880-е",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Emma_L%C3%B6wst%C3%A4dt-Chadwick_-_A_Sleeping_Child_-_NM_3236_-_Nationalmuseum.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

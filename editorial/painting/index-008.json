@@ -1,5 +1,30 @@
 [
   {
+    "id": "sophie_anderson",
+    "name": "Софи Андерсон",
+    "path": "records/sophie_anderson.json"
+  },
+  {
+    "id": "sofonisba_anguissola",
+    "name": "Софонисба Ангвиссола",
+    "path": "records/sofonisba_anguissola.json"
+  },
+  {
+    "id": "stefan_lochner",
+    "name": "Стефан Лохнер",
+    "path": "records/stefan_lochner.json"
+  },
+  {
+    "id": "susanna_van_steenwijck",
+    "name": "Сусанна ван Стенвейк",
+    "path": "records/susanna_van_steenwijck.json"
+  },
+  {
+    "id": "susan_watkins",
+    "name": "Сьюзен Уоткинс",
+    "path": "records/susan_watkins.json"
+  },
+  {
     "id": "susie_moore_barstow",
     "name": "Сьюзи Мур Барстоу",
     "path": "records/susie_moore_barstow.json"
@@ -148,6 +173,11 @@
     "id": "william_holman_hunt",
     "name": "Уильям Холман Хант",
     "path": "records/william_holman_hunt.json"
+  },
+  {
+    "id": "olof_arborelius",
+    "name": "Улоф Арборелиус",
+    "path": "records/olof_arborelius.json"
   },
   {
     "id": "fanny_brate",
@@ -468,35 +498,5 @@
     "id": "fritz_syberg",
     "name": "Фриц Сюберг",
     "path": "records/fritz_syberg.json"
-  },
-  {
-    "id": "frits_thaulow",
-    "name": "Фриц Таулов",
-    "path": "records/frits_thaulow.json"
-  },
-  {
-    "id": "fritz_thomsen",
-    "name": "Фриц Томсен",
-    "path": "records/fritz_thomsen.json"
-  },
-  {
-    "id": "bacon",
-    "name": "Фрэнсис Бэкон",
-    "path": "records/bacon.json"
-  },
-  {
-    "id": "frances_hodgkins",
-    "name": "Фрэнсис Ходжкинс",
-    "path": "records/frances_hodgkins.json"
-  },
-  {
-    "id": "fujiwara_nobuzane",
-    "name": "Фудзивара Нобудзанэ",
-    "path": "records/fujiwara_nobuzane.json"
-  },
-  {
-    "id": "fujiwara_takanobu",
-    "name": "Фудзивара Таканобу",
-    "path": "records/fujiwara_takanobu.json"
   }
 ]

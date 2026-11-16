@@ -20,7 +20,7 @@
     ],
     "innovation": "Отдельная картина оказывается частью взаимодействия живописи, скульптуры и архитектуры. Два музыканта, вероятно, обрамляли статую Богоматери, расположенную выше «Мадонны в скалах» Леонардо. Направление взгляда и музыкальный жест были рассчитаны на целое, а не на нынешнее музейное соседство панелей.",
     "caution": "Договор 1483 года не равен дате исполнения этой панели: паспорт даёт около 1495–1499. Точная первоначальная расстановка утраченного ансамбля реконструируется, а не известна во всех деталях. Ангела в зелёном NG1661 музей относит к сотруднику Леонардо, возможно Франческо Наполетано, а не уверенно к де Предису. Профильный женский портрет NG5752 также имеет оговорку «вероятно». Годы жизни взяты из справочника Национальной галереи; в других справочниках встречаются иные конечные даты. Commons помечает выбранную репродукцию PD-Art и предупреждает о возможных ограничениях вне США. Визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_file_rights_checked_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,10 @@
     {
       "title": "Commons: файл NG1662 и полный текст PD-Art",
       "url": "https://commons.wikimedia.org/wiki/File:Ambrogio_de_predis,_angelo_di_dx_della_vergine_delle_rocce_di_londra.jpg"
+    },
+    {
+      "title": "Репродукция: Мужской портрет в профиль",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_man_-_Ambrogio_de_Predis.jpg"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "около 1495–1499",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/giovanni-ambrogio-de-predis-an-angel-in-red-with-a-lute"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3937786",
+      "title": "Мужской портрет в профиль",
+      "date": "около 1490–1510",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_man_-_Ambrogio_de_Predis.jpg"
     }
   ],
   "pendingWorksCount": 0

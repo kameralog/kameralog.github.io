@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Andrea_belvedere-prado.jpg"
+    },
+    {
+      "title": "Репродукция: Цветы и утки",
+      "url": "https://commons.wikimedia.org/wiki/File:Abate_Andrea_Belvedere_-_Flowers_and_Ducks_-_WGA01850.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "1694–1700",
       "museum": "Прадо, Мадрид",
       "source": "https://www.museodelprado.es/en/the-collection/art-work/vase-of-flowers/c1fe28dc-7453-45c5-b1a1-983155a7ac9b"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q54075117",
+      "title": "Цветы и утки",
+      "date": "до 1674",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Abate_Andrea_Belvedere_-_Flowers_and_Ducks_-_WGA01850.jpg"
     }
   ],
   "pendingWorksCount": 0

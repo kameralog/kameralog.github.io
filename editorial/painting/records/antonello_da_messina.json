@@ -20,7 +20,7 @@
     ],
     "innovation": "Антонелло соединяет нидерландскую подробность и работу маслом с построением сложного пространства. В портретах он использует трёхчетвертной поворот, тёмный фон и направленный свет; в религиозной картине материальная убедительность вещей помогает представить внутренний мир учёного.",
     "caution": "1456 — документированный год работы, не рождения. Легенду о личном обучении у Яна ван Эйка музей считает крайне маловероятной; Антонелло не изобрёл масло и не был первым, кто применил его в Северной Италии. Для NG1418 используем музейную дату около 1475 года, а не около 1474 на Commons. Кардинальская одежда Иеронима — поздний почётный атрибут, не исторический костюм его времени. Изображение сопоставлено по метаданным; визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,18 @@
     {
       "title": "Commons: репродукция NG1418",
       "url": "https://commons.wikimedia.org/wiki/File:Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем, святым Иоанном Богословом и святым Бенедиктом",
+      "url": "https://commons.wikimedia.org/wiki/File:Antonello_da_Messina%2C_Madonna_col_Bambino%2C_San_Giovanni_Evangelista_e_San_Benedetto%2C_circa_1470-75_-FG.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем (створка полиптиха Уффици)",
+      "url": "https://commons.wikimedia.org/wiki/File:Antonello_da_messina%2C_madonna_uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Иоанн Богослов (створка полиптиха Уффици)",
+      "url": "https://commons.wikimedia.org/wiki/File:Antonello_da_messina%2C_san_giovanni_uffizi.jpg"
     }
   ],
   "works": [
@@ -47,6 +59,27 @@
       "date": "около 1475",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/antonello-da-messina-saint-jerome-in-his-study"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q131690602",
+      "title": "Мадонна с Младенцем, святым Иоанном Богословом и святым Бенедиктом",
+      "date": "около 1470–1475",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Antonello_da_Messina%2C_Madonna_col_Bambino%2C_San_Giovanni_Evangelista_e_San_Benedetto%2C_circa_1470-75_-FG.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3842503",
+      "title": "Мадонна с Младенцем (створка полиптиха Уффици)",
+      "date": "около 1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Antonello_da_messina%2C_madonna_uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3947253",
+      "title": "Святой Иоанн Богослов (створка полиптиха Уффици)",
+      "date": "1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Antonello_da_messina%2C_san_giovanni_uffizi.jpg"
     }
   ],
   "pendingWorksCount": 0

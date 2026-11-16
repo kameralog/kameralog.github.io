@@ -20,7 +20,7 @@
     ],
     "innovation": "Значение Джентиле не сводится к отсутствию перспективы: он превращает священную историю в богатое деталями зрелище, соединяя придворную культуру, наблюдение за вещами и престиж заказчика. Это иной художественный выбор, чем монументальная телесность Мазаччо.",
     "caution": "Показана репродукция фрагмента, а не весь алтарь. Нельзя оценивать по ней полную композицию, раму и пределлу. Полную фотографию Google Art Project не используем: Commons относит её к изображениям с потенциально несвободными рамами. Для отдельного фрагмента Commons указывает public domain. Одна из сцен пределлы в Уффици — копия 1903 года; оригинал находится в Лувре.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,34 @@
     {
       "title": "Commons: отдельный фрагмент Поклонения волхвов",
       "url": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_-_Adorazione_dei_Magi_-_Google_Art_Project_(detail).jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов",
+      "url": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов — правая панель пределлы: Рождество Христово",
+      "url": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_029.jpg"
+    },
+    {
+      "title": "Репродукция: Пантократор (деталь алтаря «Поклонение волхвов»)",
+      "url": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_028.jpg"
+    },
+    {
+      "title": "Репродукция: Крещение Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_076.jpg"
+    },
+    {
+      "title": "Репродукция: Царь Давид, играющий на арфе (деталь алтаря «Поклонение волхвов»)",
+      "url": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_026.jpg"
+    },
+    {
+      "title": "Репродукция: Юная Мария в молитве (деталь алтаря «Поклонение волхвов»)",
+      "url": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_033.jpg"
+    },
+    {
+      "title": "Репродукция: Полиптих Куаратези (реконструкция)",
+      "url": "https://commons.wikimedia.org/wiki/File:Quaratesi_Polyptych.jpg"
     }
   ],
   "works": [
@@ -43,6 +71,55 @@
       "date": "1423",
       "museum": "Галерея Уффици, Флоренция",
       "source": "https://www.uffizi.it/en/online-exhibitions/nativity-2018"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q1055117",
+      "title": "Поклонение волхвов",
+      "date": "1423",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_-_Adorazione_dei_Magi_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q111821582",
+      "title": "Поклонение волхвов — правая панель пределлы: Рождество Христово",
+      "date": "1423",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_029.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q111821584",
+      "title": "Пантократор (деталь алтаря «Поклонение волхвов»)",
+      "date": "1423",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_028.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q111821652",
+      "title": "Крещение Христа",
+      "date": "около 1425",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_076.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q111821958",
+      "title": "Царь Давид, играющий на арфе (деталь алтаря «Поклонение волхвов»)",
+      "date": "1423",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_026.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q111822206",
+      "title": "Юная Мария в молитве (деталь алтаря «Поклонение волхвов»)",
+      "date": "1423",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gentile_da_Fabriano_033.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3907477",
+      "title": "Полиптих Куаратези (реконструкция)",
+      "date": "1425",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Quaratesi_Polyptych.jpg"
     }
   ],
   "pendingWorksCount": 0

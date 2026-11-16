@@ -21,7 +21,7 @@
     ],
     "innovation": "Учебный ракурс: Как стол объединяет участников?",
     "caution": "Дату 1895 сохраняем по NMB 279 с явной оговоркой о 1896 у дома-музея. Не подменять Завтраком на открытом воздухе 1910 года или книжной репродукцией вместо полного оригинального листа.",
-    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
@@ -31,8 +31,20 @@
     {
       "title": "Другая датировка и семейный контекст",
       "url": "https://carllarsson.se/en/carl-larsson/art/"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Larsson_-_Self_Portrait.png"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch9:Q52157977",
+      "title": "Автопортрет",
+      "date": "1906",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Larsson_-_Self_Portrait.png"
+    }
+  ],
   "pendingWorksCount": 1
 }

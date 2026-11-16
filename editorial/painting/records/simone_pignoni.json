@@ -20,14 +20,26 @@
     ],
     "innovation": "Учебный ракурс — отделять подтверждённую каталожную запись от вопросов к изображению.",
     "caution": "Пять пунктов — вопросы, не установленный визуальный анализ. Дата, размеры, точная техника и инвентарный номер не установлены. № 15 — номер каталога, не музейный инвентарь. Временная выставка 2015–2016 годов не доказывает нынешнее местонахождение. Автобиографическое прочтение цикла — интерпретация исследователя.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено: Лот и его дочери",
       "url": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf"
+    },
+    {
+      "title": "Репродукция: Автопортрет с палитрой и кистью",
+      "url": "https://commons.wikimedia.org/wiki/File:Simone_Pignoni_-_Self-portrait_with_palette_and_brush.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch10:Q135913315",
+      "title": "Автопортрет с палитрой и кистью",
+      "date": "1680–1682",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Simone_Pignoni_-_Self-portrait_with_palette_and_brush.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

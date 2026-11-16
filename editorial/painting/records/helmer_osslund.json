@@ -1,0 +1,49 @@
+{
+  "id": "helmer_osslund",
+  "name": "Хельмер Осслунд",
+  "latin": "Helmer Osslund",
+  "life": "1866–1938",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, первоначально носивший фамилию Åslund. Специализировался на лапландских мотивах и часто писал на жиронепроницаемой бумаге.",
+      "Для карточки выбран зимний шведский вид из Museum Boijmans Van Beuningen. Дата дана интервалом 1898–1899; общие сведения о технике художника не подменяют паспорт этой картины."
+    ],
+    "technique": [
+      "Точная техника и размеры выбранной работы здесь не утверждаются",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Для карточки выбран зимний шведский вид из Museum Boijmans Van Beuningen. Дата дана интервалом 1898–1899; общие сведения о технике художника не подменяют паспорт этой картины.",
+    "caution": "Интервал 1898–1899 сохранён. Биографическое использование жиронепроницаемой бумаги не доказывает основу именно этой работы. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Helmer_Osslund"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Helmer_Osslund_-_Winter_Landscape%2C_Sweden_%28Winterlandschap%2C_Zweden%29_-_4250_%28MK%29_-_Museum_Boijmans_Van_Beuningen.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=124589965"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_124589965",
+      "title": "Зимний пейзаж. Швеция",
+      "date": "1898–1899",
+      "museum": "Museum Boijmans Van Beuningen",
+      "source": "https://commons.wikimedia.org/wiki/File:Helmer_Osslund_-_Winter_Landscape%2C_Sweden_%28Winterlandschap%2C_Zweden%29_-_4250_%28MK%29_-_Museum_Boijmans_Van_Beuningen.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

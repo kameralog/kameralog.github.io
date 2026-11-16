@@ -38,6 +38,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Saul_bij_de_heks_van_Endor_Rijksmuseum_SK-A-668.jpeg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Self-portrait_Jacob_Cornelisz_van_Oostsaanen.png"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "1526",
       "museum": "Рейксмюсеум, Амстердам",
       "source": "https://www.rijksmuseum.nl/en/collection/object/Saul-and-the-Witch-of-Endor--9b643168e98f68727a117b6ff19d6d9e"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q23304560",
+      "title": "Автопортрет",
+      "date": "около 1510",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_Jacob_Cornelisz_van_Oostsaanen.png"
     }
   ],
   "pendingWorksCount": 0

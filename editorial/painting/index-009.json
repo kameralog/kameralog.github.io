@@ -1,5 +1,35 @@
 [
   {
+    "id": "frits_thaulow",
+    "name": "Фриц Таулов",
+    "path": "records/frits_thaulow.json"
+  },
+  {
+    "id": "fritz_thomsen",
+    "name": "Фриц Томсен",
+    "path": "records/fritz_thomsen.json"
+  },
+  {
+    "id": "bacon",
+    "name": "Фрэнсис Бэкон",
+    "path": "records/bacon.json"
+  },
+  {
+    "id": "frances_hodgkins",
+    "name": "Фрэнсис Ходжкинс",
+    "path": "records/frances_hodgkins.json"
+  },
+  {
+    "id": "fujiwara_nobuzane",
+    "name": "Фудзивара Нобудзанэ",
+    "path": "records/fujiwara_nobuzane.json"
+  },
+  {
+    "id": "fujiwara_takanobu",
+    "name": "Фудзивара Таканобу",
+    "path": "records/fujiwara_takanobu.json"
+  },
+  {
     "id": "halfdan_egedius",
     "name": "Хальфдан Эгедиус",
     "path": "records/halfdan_egedius.json"
@@ -68,6 +98,11 @@
     "id": "helene_schjerfbeck",
     "name": "Хелена Шерфбек",
     "path": "records/helene_schjerfbeck.json"
+  },
+  {
+    "id": "helmer_osslund",
+    "name": "Хельмер Осслунд",
+    "path": "records/helmer_osslund.json"
   },
   {
     "id": "hendrick_avercamp",
@@ -463,40 +498,5 @@
     "id": "emilie_mundt",
     "name": "Эмилия Мундт",
     "path": "records/emilie_mundt.json"
-  },
-  {
-    "id": "emil_ditlev_baerentzen",
-    "name": "Эмиль Дитлев Берентцен",
-    "path": "records/emil_ditlev_baerentzen.json"
-  },
-  {
-    "id": "emil_nolde",
-    "name": "Эмиль Нольде",
-    "path": "records/emil_nolde.json"
-  },
-  {
-    "id": "emil_normann",
-    "name": "Эмиль Норманн",
-    "path": "records/emil_normann.json"
-  },
-  {
-    "id": "emil_filla",
-    "name": "Эмиль Филла",
-    "path": "records/emil_filla.json"
-  },
-  {
-    "id": "emil_jakob_schindler",
-    "name": "Эмиль Якоб Шиндлер",
-    "path": "records/emil_jakob_schindler.json"
-  },
-  {
-    "id": "emma_lambotte",
-    "name": "Эмма Ламботт",
-    "path": "records/emma_lambotte.json"
-  },
-  {
-    "id": "emma_sandys",
-    "name": "Эмма Сэндис",
-    "path": "records/emma_sandys.json"
   }
 ]

@@ -42,6 +42,18 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Domenico_Beccafumi_-_The_story_of_Papirius.jpg"
+    },
+    {
+      "title": "Репродукция: Святое семейство с юным Иоанном Крестителем и ангелами",
+      "url": "https://commons.wikimedia.org/wiki/File:Beccafumi%2C_Sacra_Famiglia_con_san_Giovannino_e_l%27agnellino_tra_serafini.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Domenico_Beccafumi_064.jpg"
+    },
+    {
+      "title": "Репродукция: Святое семейство с юным Иоанном Крестителем",
+      "url": "https://commons.wikimedia.org/wiki/File:Domenico_Beccafumi_-_The_Holy_Family_with_Young_Saint_John_-_WGA1549.png"
     }
   ],
   "works": [
@@ -51,6 +63,27 @@
       "date": "середина 1520-х по паспорту; обсуждается 1520–1521",
       "museum": "",
       "source": "https://www.nationalgallery.org.uk/paintings/domenico-beccafumi-the-story-of-papirius"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q15974364",
+      "title": "Святое семейство с юным Иоанном Крестителем и ангелами",
+      "date": "1520-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Beccafumi%2C_Sacra_Famiglia_con_san_Giovannino_e_l%27agnellino_tra_serafini.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3630716",
+      "title": "Автопортрет",
+      "date": "1525–1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Domenico_Beccafumi_064.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3944481",
+      "title": "Святое семейство с юным Иоанном Крестителем",
+      "date": "около 1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Domenico_Beccafumi_-_The_Holy_Family_with_Young_Saint_John_-_WGA1549.png"
     }
   ],
   "pendingWorksCount": 0

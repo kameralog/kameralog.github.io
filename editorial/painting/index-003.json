@@ -1,5 +1,15 @@
 [
   {
+    "id": "giovanni_girolamo_savoldo",
+    "name": "Джованни Джироламо Савольдо",
+    "path": "records/giovanni_girolamo_savoldo.json"
+  },
+  {
+    "id": "giovanni_di_paolo",
+    "name": "Джованни ди Паоло",
+    "path": "records/giovanni_di_paolo.json"
+  },
+  {
     "id": "giovanni_lanfranco",
     "name": "Джованни Ланфранко",
     "path": "records/giovanni_lanfranco.json"
@@ -488,15 +498,5 @@
     "id": "joachim_beuckelaer",
     "name": "Йоахим Бейкелар",
     "path": "records/joachim_beuckelaer.json"
-  },
-  {
-    "id": "joachim_patinir",
-    "name": "Йоахим Патинир",
-    "path": "records/joachim_patinir.json"
-  },
-  {
-    "id": "joachim_wtewael",
-    "name": "Йоахим Эйтевал",
-    "path": "records/joachim_wtewael.json"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "paul_raud",
+    "name": "Пауль Рауд",
+    "path": "records/paul_raud.json"
+  },
+  {
+    "id": "paulus_potter",
+    "name": "Паулюс Поттер",
+    "path": "records/paulus_potter.json"
+  },
+  {
+    "id": "peder_balke",
+    "name": "Педер Балке",
+    "path": "records/peder_balke.json"
+  },
+  {
+    "id": "peder_monsted",
+    "name": "Педер Мёнстед",
+    "path": "records/peder_monsted.json"
+  },
+  {
     "id": "peder_severin_kroyer",
     "name": "Педер Северин Крёйер",
     "path": "records/peder_severin_kroyer.json"
@@ -8,6 +28,11 @@
     "id": "pekka_halonen",
     "name": "Пекка Халонен",
     "path": "records/pekka_halonen.json"
+  },
+  {
+    "id": "per_ekstrom",
+    "name": "Пер Экстрём",
+    "path": "records/per_ekstrom.json"
   },
   {
     "id": "peter_ilsted",
@@ -473,30 +498,5 @@
     "id": "sodoma",
     "name": "Содома",
     "path": "records/sodoma.json"
-  },
-  {
-    "id": "sophie_anderson",
-    "name": "Софи Андерсон",
-    "path": "records/sophie_anderson.json"
-  },
-  {
-    "id": "sofonisba_anguissola",
-    "name": "Софонисба Ангвиссола",
-    "path": "records/sofonisba_anguissola.json"
-  },
-  {
-    "id": "stefan_lochner",
-    "name": "Стефан Лохнер",
-    "path": "records/stefan_lochner.json"
-  },
-  {
-    "id": "susanna_van_steenwijck",
-    "name": "Сусанна ван Стенвейк",
-    "path": "records/susanna_van_steenwijck.json"
-  },
-  {
-    "id": "susan_watkins",
-    "name": "Сьюзен Уоткинс",
-    "path": "records/susan_watkins.json"
   }
 ]

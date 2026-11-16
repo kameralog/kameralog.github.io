@@ -20,7 +20,7 @@
     ],
     "innovation": "Учебный ракурс — сопоставление произведений, материалов и самопредставления; заявление о первенстве не делается.",
     "caution": "Не утверждать, что Ангвиссола знала автопортрет Катарины ван Хемессен: WGA прямо отмечает неопределённость. Не подменять другими автопортретами художницы.",
-    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,10 @@
     {
       "title": "Прочитанное описание файла",
       "url": "https://en.wikipedia.org/wiki/File:Sofonisba_Anguissola,_Selvportr%C3%A6t_ved_staffeliet,_1556,_Museum_Castle_in_%C5%81a%C5%84cut.jpg"
+    },
+    {
+      "title": "Репродукция: Старуха, изучающая азбуку, над которой смеётся девочка",
+      "url": "https://commons.wikimedia.org/wiki/File:Sofonisba_Anguissola_-_Old_Woman_Studying_the_Alphabet_with_a_Laughing_Girl_-_WGA00699.jpg"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "1556",
       "museum": "Музей-замок, Ланьцут",
       "source": "https://nmwa.org/blog/artist-spotlight/5-fast-facts-sofonisba-anguissola/"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q29343479",
+      "title": "Старуха, изучающая азбуку, над которой смеётся девочка",
+      "date": "1550-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sofonisba_Anguissola_-_Old_Woman_Studying_the_Alphabet_with_a_Laughing_Girl_-_WGA00699.jpg"
     }
   ],
   "pendingWorksCount": 0

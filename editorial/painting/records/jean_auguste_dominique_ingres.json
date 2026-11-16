@@ -32,6 +32,10 @@
     {
       "title": "Национальная галерея: художник",
       "url": "https://www.nationalgallery.org.uk/artists/jean-auguste-dominique-ingres"
+    },
+    {
+      "title": "Репродукция: Автопортрет в 78 лет",
+      "url": "https://commons.wikimedia.org/wiki/File:Ingres-autoportrait-1858_Florence.jpg"
     }
   ],
   "works": [
@@ -41,6 +45,13 @@
       "date": "1856",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/jean-auguste-dominique-ingres-madame-moitessier"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q52156262",
+      "title": "Автопортрет в 78 лет",
+      "date": "1858",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Ingres-autoportrait-1858_Florence.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -28,6 +28,62 @@
     {
       "title": "Art Institute of Chicago: The Adoration of the Eucharist",
       "url": "https://www.artic.edu/artworks/25790"
+    },
+    {
+      "title": "Репродукция: Портрет Каспара Шоппе",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Portrait_of_Kaspar_Scioppius_-_WGA20354.jpg"
+    },
+    {
+      "title": "Репродукция: Три грации",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Three_Graces_-_WGA20440.jpg"
+    },
+    {
+      "title": "Репродукция: Триумфальный въезд Генриха IV в Париж",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Triumphal_Entry_ofHenry_IV_into_Paris.jpg"
+    },
+    {
+      "title": "Репродукция: Четыре философа",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_118.jpg"
+    },
+    {
+      "title": "Репродукция: Последствия войны",
+      "url": "https://commons.wikimedia.org/wiki/File:Los_horrores_de_la_guerra.jpg"
+    },
+    {
+      "title": "Репродукция: Генрих IV в битве при Иври",
+      "url": "https://commons.wikimedia.org/wiki/File:Ivryrubens.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с корзиной",
+      "url": "https://commons.wikimedia.org/wiki/File:Rubens%2C_sacra_famiglia%2C_pitti.jpg"
+    },
+    {
+      "title": "Репродукция: Воскресение Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Rubens%2C_resurrezione%2C_pitti.jpg"
+    },
+    {
+      "title": "Репродукция: Крестьяне, возвращающиеся с полей",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Return_from_the_Fields_-_WGA20412.jpg"
+    },
+    {
+      "title": "Репродукция: Одиссей на острове феаков",
+      "url": "https://commons.wikimedia.org/wiki/File:Rubens%2C_Ulisse_nell%27isola_dei_Feaci.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Self-Portrait_%28Uffizi%29.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет в шляпе",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Self-Portrait_with_a_Hat_-_WGA20373.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Изабеллы Брант",
+      "url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Portrait_of_Isabella_Brant_%28Uffizi%29.jpg"
+    },
+    {
+      "title": "Репродукция: Юдифь с головой Олоферна",
+      "url": "https://commons.wikimedia.org/wiki/File:Rubens72.jpg"
     }
   ],
   "works": [
@@ -44,6 +100,104 @@
       "date": "c. 1626",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/25790"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q109320432",
+      "title": "Портрет Каспара Шоппе",
+      "date": "около 1606",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Portrait_of_Kaspar_Scioppius_-_WGA20354.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q12955980",
+      "title": "Три грации",
+      "date": "1620–1623",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Three_Graces_-_WGA20440.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q16938315",
+      "title": "Триумфальный въезд Генриха IV в Париж",
+      "date": "1627",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Triumphal_Entry_ofHenry_IV_into_Paris.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q2894005",
+      "title": "Четыре философа",
+      "date": "1611",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_118.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3687201",
+      "title": "Последствия войны",
+      "date": "1637–1638",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Los_horrores_de_la_guerra.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3725832",
+      "title": "Генрих IV в битве при Иври",
+      "date": "около 1627–1630",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Ivryrubens.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3842661",
+      "title": "Мадонна с корзиной",
+      "date": "около 1615",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubens%2C_sacra_famiglia%2C_pitti.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3933573",
+      "title": "Воскресение Христа",
+      "date": "около 1616",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubens%2C_resurrezione%2C_pitti.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3937365",
+      "title": "Крестьяне, возвращающиеся с полей",
+      "date": "около 1640",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Return_from_the_Fields_-_WGA20412.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q4003067",
+      "title": "Одиссей на острове феаков",
+      "date": "1630-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubens%2C_Ulisse_nell%27isola_dei_Feaci.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q52331037",
+      "title": "Автопортрет",
+      "date": "1618",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Self-Portrait_%28Uffizi%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q52333696",
+      "title": "Автопортрет в шляпе",
+      "date": "около 1623–1625",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Self-Portrait_with_a_Hat_-_WGA20373.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q65971659",
+      "title": "Портрет Изабеллы Брант",
+      "date": "около 1626",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Portrait_of_Isabella_Brant_%28Uffizi%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q65971920",
+      "title": "Юдифь с головой Олоферна",
+      "date": "1620–1622",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rubens72.jpg"
     }
   ],
   "pendingWorksCount": 0

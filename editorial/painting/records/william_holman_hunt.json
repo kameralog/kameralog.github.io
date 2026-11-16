@@ -24,6 +24,10 @@
     {
       "title": "Cleveland Museum of Art: Mary Walker Waugh",
       "url": "https://clevelandart.org/art/1984.41"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_Selfportrait.jpg"
     }
   ],
   "works": [
@@ -33,6 +37,13 @@
       "date": "1868",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1984.41"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q52329846",
+      "title": "Автопортрет",
+      "date": "1867",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:William_Holman_Hunt_-_Selfportrait.jpg"
     }
   ],
   "pendingWorksCount": 0

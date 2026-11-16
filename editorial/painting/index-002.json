@@ -1,5 +1,15 @@
 [
   {
+    "id": "vilhelm_kyhn",
+    "name": "Вильхельм Кюн",
+    "path": "records/vilhelm_kyhn.json"
+  },
+  {
+    "id": "vilhelm_melbye",
+    "name": "Вильхельм Мельбю",
+    "path": "records/vilhelm_melbye.json"
+  },
+  {
     "id": "van-gogh",
     "name": "Винсент ван Гог",
     "path": "records/van-gogh.json"
@@ -488,15 +498,5 @@
     "id": "giovanni_giacometti",
     "name": "Джованни Джакометти",
     "path": "records/giovanni_giacometti.json"
-  },
-  {
-    "id": "giovanni_girolamo_savoldo",
-    "name": "Джованни Джироламо Савольдо",
-    "path": "records/giovanni_girolamo_savoldo.json"
-  },
-  {
-    "id": "giovanni_di_paolo",
-    "name": "Джованни ди Паоло",
-    "path": "records/giovanni_di_paolo.json"
   }
 ]

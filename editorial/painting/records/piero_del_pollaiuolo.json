@@ -20,7 +20,7 @@
     ],
     "innovation": "Мифологическая картина соединяет красоту фигур, динамику и культуру образованного заказчика. Лавр связывает Овидия с поэзией Петрарки и его Лаурой; одежда Аполлона переносит античного бога в мир придворной изысканности XV века.",
     "caution": "Не путай Пьеро с Антонио дель Поллайоло: в старых подписях и именах файлов встречается имя брата. За основу взята текущая атрибуция NG928. Версию о панели кассоне музей теперь считает менее вероятной: скорее это самостоятельная картина. Заказ Лоренцо Медичи — предположение, не установленный факт. Миф изображает преследование и отказ, а не взаимную любовь. Визуальный просмотр репродукции и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,34 @@
     {
       "title": "Commons: репродукция NG928",
       "url": "https://commons.wikimedia.org/wiki/File:Pollaiolo,_Piero_del_-_Apollo_and_Daphne.jpg"
+    },
+    {
+      "title": "Репродукция: Милосердие (из цикла добродетелей)",
+      "url": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_charity.jpg"
+    },
+    {
+      "title": "Репродукция: Вера (из цикла добродетелей)",
+      "url": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_faith.jpg"
+    },
+    {
+      "title": "Репродукция: Правосудие (из цикла добродетелей)",
+      "url": "https://commons.wikimedia.org/wiki/File:Pollaiolo%2C_giustizia.jpg"
+    },
+    {
+      "title": "Репродукция: Благоразумие (из цикла добродетелей)",
+      "url": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_prudence.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Галеаццо Марии Сфорца",
+      "url": "https://commons.wikimedia.org/wiki/File:Pollaiuolo%2C_Piero_-Portrait_of_Galeazzo_Maria_Sforza_-_inv._1890_1492.jpeg"
+    },
+    {
+      "title": "Репродукция: Надежда (из цикла добродетелей)",
+      "url": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_hope.jpg"
+    },
+    {
+      "title": "Репродукция: Умеренность (из цикла добродетелей)",
+      "url": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_-_Temperance_-_Uffizi.jpeg"
     }
   ],
   "works": [
@@ -43,6 +71,55 @@
       "date": "предположительно 1470–1480",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/piero-del-pollaiuolo-apollo-and-daphne"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3658722",
+      "title": "Милосердие (из цикла добродетелей)",
+      "date": "1469–1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_charity.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3740793",
+      "title": "Вера (из цикла добродетелей)",
+      "date": "1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_faith.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3771744",
+      "title": "Правосудие (из цикла добродетелей)",
+      "date": "1469–1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pollaiolo%2C_giustizia.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3924777",
+      "title": "Благоразумие (из цикла добродетелей)",
+      "date": "1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_prudence.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3937539",
+      "title": "Портрет Галеаццо Марии Сфорца",
+      "date": "1471",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pollaiuolo%2C_Piero_-Portrait_of_Galeazzo_Maria_Sforza_-_inv._1890_1492.jpeg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3966500",
+      "title": "Надежда (из цикла добродетелей)",
+      "date": "1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_hope.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3983114",
+      "title": "Умеренность (из цикла добродетелей)",
+      "date": "1470",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_del_Pollaiolo_-_Temperance_-_Uffizi.jpeg"
     }
   ],
   "pendingWorksCount": 0

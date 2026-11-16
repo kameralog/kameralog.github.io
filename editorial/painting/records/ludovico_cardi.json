@@ -20,14 +20,26 @@
     ],
     "innovation": "Учебный ракурс — свет может быть носителем смысла, а не только освещать предметы.",
     "caution": "Эпизод передаётся в контексте францисканского предания. Нищий паломник как модель — легенда у Бальдинуччи, не установленный факт. 1596 — XVI век; Чиголи и Карди — один автор.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Уффици, Флоренция: Святой Франциск получает стигматы",
       "url": "https://www.uffizi.it/en/artworks/cigoli-francis-stigmata"
+    },
+    {
+      "title": "Репродукция: Жертвоприношение Исаака",
+      "url": "https://commons.wikimedia.org/wiki/File:Isaac_Cigoli.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch10:Q111822118",
+      "title": "Жертвоприношение Исаака",
+      "date": "около 1607",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Isaac_Cigoli.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

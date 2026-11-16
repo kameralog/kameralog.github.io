@@ -1,5 +1,15 @@
 [
   {
+    "id": "joachim_patinir",
+    "name": "Йоахим Патинир",
+    "path": "records/joachim_patinir.json"
+  },
+  {
+    "id": "joachim_wtewael",
+    "name": "Йоахим Эйтевал",
+    "path": "records/joachim_wtewael.json"
+  },
+  {
     "id": "job_berckheyde",
     "name": "Йоб Беркхейде",
     "path": "records/job_berckheyde.json"
@@ -108,6 +118,11 @@
     "id": "johan_fredrik_eckersberg",
     "name": "Йохан Фредрик Эккерсберг",
     "path": "records/johan_fredrik_eckersberg.json"
+  },
+  {
+    "id": "johan_edvard_bergh",
+    "name": "Йохан Эдвард Берг",
+    "path": "records/johan_edvard_bergh.json"
   },
   {
     "id": "johann_koler",
@@ -223,6 +238,11 @@
     "id": "carl_skanberg",
     "name": "Карл Сконберг",
     "path": "records/carl_skanberg.json"
+  },
+  {
+    "id": "carl_fredrik_hill",
+    "name": "Карл Фредрик Хилл",
+    "path": "records/carl_fredrik_hill.json"
   },
   {
     "id": "carl_holsoe",
@@ -478,25 +498,5 @@
     "id": "christian_albrecht_jensen",
     "name": "Кристиан Альбрехт Йенсен",
     "path": "records/christian_albrecht_jensen.json"
-  },
-  {
-    "id": "christian_blache",
-    "name": "Кристиан Блаке",
-    "path": "records/christian_blache.json"
-  },
-  {
-    "id": "christian_david_gebauer",
-    "name": "Кристиан Давид Гебауэр",
-    "path": "records/christian_david_gebauer.json"
-  },
-  {
-    "id": "christian_zacho",
-    "name": "Кристиан Зако",
-    "path": "records/christian_zacho.json"
-  },
-  {
-    "id": "christian_krohg",
-    "name": "Кристиан Крог",
-    "path": "records/christian_krohg.json"
   }
 ]

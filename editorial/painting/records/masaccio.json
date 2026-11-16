@@ -20,7 +20,7 @@
     ],
     "innovation": "Священные фигуры получают физическое присутствие: тела занимают место, отбрасывают тени и соотносятся с архитектурой. Перспектива и светотень работают вместе, а не остаются отдельными эффектами.",
     "caution": "Это центральная панель разобранного Пизанского алтаря, не весь полиптих. Не путай Мазаччо с Мазолино и не переноси их совместное авторство на эту панель. Золотой фон здесь сохраняется, несмотря на пространственные новшества. Для размера и датировки приоритет отдан музейной записи, а не старым данным Commons.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,6 +30,10 @@
     {
       "title": "Commons: Masaccio 031, сведения о репродукции",
       "url": "https://commons.wikimedia.org/wiki/File:Masaccio_031.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна Казини",
+      "url": "https://commons.wikimedia.org/wiki/File:Masaccio%2C_Madonna-del-Solletico.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "1426",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/masaccio-the-virgin-and-child"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3842642",
+      "title": "Мадонна Казини",
+      "date": "около 1426",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Masaccio%2C_Madonna-del-Solletico.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -1,5 +1,25 @@
 [
   {
+    "id": "maria_sibylla_merian",
+    "name": "Мария Сибилла Мериан",
+    "path": "records/maria_sibylla_merian.json"
+  },
+  {
+    "id": "marie_spartali_stillman",
+    "name": "Мария Спартали Стиллман",
+    "path": "records/marie_spartali_stillman.json"
+  },
+  {
+    "id": "marie_egner",
+    "name": "Мария Эгнер",
+    "path": "records/marie_egner.json"
+  },
+  {
+    "id": "marie_ellenrieder",
+    "name": "Мария Элленридер",
+    "path": "records/marie_ellenrieder.json"
+  },
+  {
     "id": "rothko",
     "name": "Марк Ротко",
     "path": "records/rothko.json"
@@ -478,25 +498,5 @@
     "id": "klee",
     "name": "Пауль Клее",
     "path": "records/klee.json"
-  },
-  {
-    "id": "paul_raud",
-    "name": "Пауль Рауд",
-    "path": "records/paul_raud.json"
-  },
-  {
-    "id": "paulus_potter",
-    "name": "Паулюс Поттер",
-    "path": "records/paulus_potter.json"
-  },
-  {
-    "id": "peder_balke",
-    "name": "Педер Балке",
-    "path": "records/peder_balke.json"
-  },
-  {
-    "id": "peder_monsted",
-    "name": "Педер Мёнстед",
-    "path": "records/peder_monsted.json"
   }
 ]

@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Self-portrait_in_a_Straw_Hat_by_Elisabeth-Louise_Vig%C3%A9e-Lebrun.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Self-portrait_%28by_Elisabeth_Vig%C3%A9e-Lebrun%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "1782 по карточке; повторение, вероятно, того же года",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/elisabeth-louise-vigee-le-brun-self-portrait-in-a-straw-hat"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q19361572",
+      "title": "Автопортрет",
+      "date": "1790",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_%28by_Elisabeth_Vig%C3%A9e-Lebrun%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Pompeo_Girolamo_Batoni_-_Time_orders_Old_Age_to_destroy_Beauty.jpg"
+    },
+    {
+      "title": "Репродукция: Ахилл и кентавр Хирон",
+      "url": "https://commons.wikimedia.org/wiki/File:Pompeo_Batoni_-_Achilles_and_the_Centaur_Chiron_-_WGA1498.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Pompeo-batoni-painting-self-portrait.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "1746",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/pompeo-girolamo-batoni-time-orders-old-age-to-destroy-beauty"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q20486507",
+      "title": "Ахилл и кентавр Хирон",
+      "date": "1746",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pompeo_Batoni_-_Achilles_and_the_Centaur_Chiron_-_WGA1498.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q52153899",
+      "title": "Автопортрет",
+      "date": "1773–1774",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Pompeo-batoni-painting-self-portrait.jpg"
     }
   ],
   "pendingWorksCount": 0

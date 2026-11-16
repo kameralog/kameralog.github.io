@@ -20,6 +20,11 @@
     "path": "records/abul_hasan.json"
   },
   {
+    "id": "august_malmstrom",
+    "name": "Август Мальмстрём",
+    "path": "records/august_malmstrom.json"
+  },
+  {
     "id": "agostino_carracci",
     "name": "Агостино Карраччи",
     "path": "records/agostino_carracci.json"
@@ -493,10 +498,5 @@
     "id": "antonello_da_messina",
     "name": "Антонелло да Мессина",
     "path": "records/antonello_da_messina.json"
-  },
-  {
-    "id": "anthonie_palamedesz",
-    "name": "Антони Паламедес",
-    "path": "records/anthonie_palamedesz.json"
   }
 ]

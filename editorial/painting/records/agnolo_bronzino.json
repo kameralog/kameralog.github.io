@@ -19,12 +19,88 @@
     ],
     "innovation": "Как и в большинстве придворных портретов, Бронзино подчёркивает богатство, положение и придворную утончённость сильнее, чем личность и индивидуальное выражение.",
     "caution": "Личность модели достоверно не установлена; музей говорит только, что она, вероятно, связана с двором Медичи. Чикагская «Мадонна» круга Бронзино в игру не включена: её авторство оспаривается.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Cleveland Museum of Art: Portrait of a Woman",
       "url": "https://clevelandart.org/art/1972.121"
+    },
+    {
+      "title": "Репродукция: Портрет карлика Нано Морганте",
+      "url": "https://commons.wikimedia.org/wiki/File:Nano_Morgante.jpg"
+    },
+    {
+      "title": "Репродукция: Пигмалион и Галатея",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_068.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Гвидобальдо II делла Ровере",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Portrait_of_Guidobaldo_della_Rovere.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Алессандро Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Alessandro_de%27_Medici_-_WGA3243.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Лукреции ди Козимо Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Lucrezia_di_Cosimo_-_WGA3256.jpg"
+    },
+    {
+      "title": "Репродукция: Фердинандо I Медичи в детстве",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Ferdinando_de%27_Medici_-_WGA3252.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Луки Мартини",
+      "url": "https://commons.wikimedia.org/wiki/File:Agnolo_Tori_detto_Bronzino_%28Firenze%2C_1503-1572%29_-_Ritratto_di_Luca_Martini_-_434_-_Galleria_Palatina.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Элеоноры Толедской с сыном Джованни",
+      "url": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Eleonora_di_Toledo_col_figlio_Giovanni_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Лукреции Панчатики",
+      "url": "https://commons.wikimedia.org/wiki/File:Agnolo_di_Cosimo_Tori_detto_Bronzino_%28Firenze%2C_1503-1572%29_-_Ritratto_di_Lucrezia_Panciatichi_-_736_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Козимо I Медичи в доспехах",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Cosimo_I_de%27_Medici_in_armour%2C_by_Agnolo_Bronzino_%28Uffizi_Gallery%2C_Florence%29.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Джованни Медичи в детстве",
+      "url": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Portrait_of_Giovanni_de%E2%80%99_Medici_-_1475_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Бии Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Bia_di_Cosimo_de%E2%80%98_Medici%2C_by_Agnolo_Bronzino.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Бартоломео Панчатики",
+      "url": "https://commons.wikimedia.org/wiki/File:Painting_-_Portrait_of_Bartolomeo_Panciatichi_by_Bronzino.jpg"
+    },
+    {
+      "title": "Репродукция: Святое семейство Панчатики",
+      "url": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Sacra_famiglia_Panciatichi_or_Madonna_Panciatichi_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет девушки с книгой",
+      "url": "https://commons.wikimedia.org/wiki/File:Bronzino%2C_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg"
+    },
+    {
+      "title": "Репродукция: Портрет Франческо I Медичи в детстве",
+      "url": "https://commons.wikimedia.org/wiki/File:FrancescodeMedici.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Марии ди Козимо I Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Agnolo_Bronzino_-_Maria_%28di_Cosimo_I%29_de%27_Medici.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет юноши с лютней",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_064.jpg"
+    },
+    {
+      "title": "Репродукция: Пьета со святой Марией Магдалиной",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Piet%C3%A0_-_WGA3284.jpg"
     }
   ],
   "works": [
@@ -34,6 +110,139 @@
       "date": "c. 1550",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1972.121"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q108314527",
+      "title": "Портрет карлика Нано Морганте",
+      "date": "1553",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Nano_Morgante.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q111577849",
+      "title": "Пигмалион и Галатея",
+      "date": "1529–1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_068.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q113825024",
+      "title": "Портрет Гвидобальдо II делла Ровере",
+      "date": "1531–1532",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Portrait_of_Guidobaldo_della_Rovere.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q125964860",
+      "title": "Портрет Алессандро Медичи",
+      "date": "1555–1565",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Alessandro_de%27_Medici_-_WGA3243.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q126727913",
+      "title": "Портрет Лукреции ди Козимо Медичи",
+      "date": "1555–1565",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Lucrezia_di_Cosimo_-_WGA3256.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q128610363",
+      "title": "Фердинандо I Медичи в детстве",
+      "date": "1555–1565",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Ferdinando_de%27_Medici_-_WGA3252.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q131463514",
+      "title": "Портрет Луки Мартини",
+      "date": "около 1555–1556",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Agnolo_Tori_detto_Bronzino_%28Firenze%2C_1503-1572%29_-_Ritratto_di_Luca_Martini_-_434_-_Galleria_Palatina.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q1328065",
+      "title": "Портрет Элеоноры Толедской с сыном Джованни",
+      "date": "1544–1545",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Eleonora_di_Toledo_col_figlio_Giovanni_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q1990128",
+      "title": "Портрет Лукреции Панчатики",
+      "date": "1545",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Agnolo_di_Cosimo_Tori_detto_Bronzino_%28Firenze%2C_1503-1572%29_-_Ritratto_di_Lucrezia_Panciatichi_-_736_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3625842",
+      "title": "Портрет Козимо I Медичи в доспехах",
+      "date": "1543–1545",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Cosimo_I_de%27_Medici_in_armour%2C_by_Agnolo_Bronzino_%28Uffizi_Gallery%2C_Florence%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3784272",
+      "title": "Портрет Джованни Медичи в детстве",
+      "date": "1545",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Portrait_of_Giovanni_de%E2%80%99_Medici_-_1475_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3937472",
+      "title": "Портрет Бии Медичи",
+      "date": "1542–1545",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bia_di_Cosimo_de%E2%80%98_Medici%2C_by_Agnolo_Bronzino.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3937473",
+      "title": "Портрет Бартоломео Панчатики",
+      "date": "около 1540",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Painting_-_Portrait_of_Bartolomeo_Panciatichi_by_Bronzino.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3944462",
+      "title": "Святое семейство Панчатики",
+      "date": "1539–1540",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Sacra_famiglia_Panciatichi_or_Madonna_Panciatichi_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q48814933",
+      "title": "Портрет девушки с книгой",
+      "date": "1545",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bronzino%2C_Agnolo_-_Portrait_of_a_Young_Girl_with_a_book.jpeg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q50378007",
+      "title": "Портрет Франческо I Медичи в детстве",
+      "date": "1551",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:FrancescodeMedici.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q50378015",
+      "title": "Портрет Марии ди Козимо I Медичи",
+      "date": "1551",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Agnolo_Bronzino_-_Maria_%28di_Cosimo_I%29_de%27_Medici.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q50384906",
+      "title": "Портрет юноши с лютней",
+      "date": "1530–1532",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_064.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q83295755",
+      "title": "Пьета со святой Марией Магдалиной",
+      "date": "1529",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Piet%C3%A0_-_WGA3284.jpg"
     }
   ],
   "pendingWorksCount": 0

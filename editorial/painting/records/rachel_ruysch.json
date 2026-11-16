@@ -20,14 +20,59 @@
     ],
     "innovation": "Учебный ракурс — сопоставление произведений, материалов и самопредставления; заявление о первенстве не делается.",
     "caution": "Выбран NG6425, не L1208 1716 года и не L1317 1710 года. Найденный Commons-файл имеет только 603 × 800 пикселей; права конкретного файла пока не прочитаны полностью.",
-    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_CHECK_PENDING"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Национальная галерея, Лондон: Цветы в вазе",
       "url": "https://www.nationalgallery.org.uk/paintings/rachel-ruysch-flowers-in-a-vase"
+    },
+    {
+      "title": "Репродукция: Натюрморт с фруктами и насекомыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Still-Life_with_Fruit_and_Insects_-_WGA20557.jpg"
+    },
+    {
+      "title": "Репродукция: Корзина с цветами",
+      "url": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Basket_of_Flowers_-_WGA20551.jpg"
+    },
+    {
+      "title": "Репродукция: Цветы, фрукты, рептилии и насекомые на опушке леса",
+      "url": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Flowers%2C_Fruit%2C_and_Insects_-_WGA20554.jpg"
+    },
+    {
+      "title": "Репродукция: Цветы в стеклянной вазе с гранатами на мраморной балюстраде",
+      "url": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Still-Life_with_Flowers_-_WGA20555.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch10:Q19271833",
+      "title": "Натюрморт с фруктами и насекомыми",
+      "date": "1711",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Still-Life_with_Fruit_and_Insects_-_WGA20557.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q19287936",
+      "title": "Корзина с цветами",
+      "date": "1711",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Basket_of_Flowers_-_WGA20551.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q19294688",
+      "title": "Цветы, фрукты, рептилии и насекомые на опушке леса",
+      "date": "1716",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Flowers%2C_Fruit%2C_and_Insects_-_WGA20554.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q19295363",
+      "title": "Цветы в стеклянной вазе с гранатами на мраморной балюстраде",
+      "date": "1716",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Rachel_Ruysch_-_Still-Life_with_Flowers_-_WGA20555.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

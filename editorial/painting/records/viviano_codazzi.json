@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Viviano_Codazzi_and_Domenico_Gargiulo_-_Perspectival_View_of_a_Roman_Amphitheatre.jpg"
+    },
+    {
+      "title": "Репродукция: Архитектурный вид",
+      "url": "https://commons.wikimedia.org/wiki/File:Viviano_Codazzi_-_Architectural_View_-_WGA5104.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "около 1638",
       "museum": "Прадо, Мадрид",
       "source": "https://www.museodelprado.es/en/the-collection/art-work/perspective-view-of-a-roman-amphitheatre/bd4264e9-07f5-4728-b491-bdfdaaa28c21"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q120290938",
+      "title": "Архитектурный вид",
+      "date": "1627",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Viviano_Codazzi_-_Architectural_View_-_WGA5104.jpg"
     }
   ],
   "pendingWorksCount": 0

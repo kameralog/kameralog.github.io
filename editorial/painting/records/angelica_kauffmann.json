@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Achilles_discovered_among_the_Daughters_of_Lycomedes_-_Angelica_Kauffmann_%28National_Gallery_NG6710%29.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет в традиционном костюме Брегенцского леса у мольберта",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelica_Kauffman_-_Self-Portrait_in_the_Traditional_Costume_of_the_Bregenz_Forest%2C_Seated_at_her_Easel.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет в образе Музы живописи",
+      "url": "https://commons.wikimedia.org/wiki/File:Angelica_Kauffmann_Self_Portrait_as_the_Muse_of_Painting.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "около 1788",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/angelica-kauffmann-achilles-discovered-among-the-daughters-of-lycomedes"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q23008412",
+      "title": "Автопортрет в традиционном костюме Брегенцского леса у мольберта",
+      "date": "около 1757–1759",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelica_Kauffman_-_Self-Portrait_in_the_Traditional_Costume_of_the_Bregenz_Forest%2C_Seated_at_her_Easel.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q23008414",
+      "title": "Автопортрет в образе Музы живописи",
+      "date": "1787",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Angelica_Kauffmann_Self_Portrait_as_the_Muse_of_Painting.jpg"
     }
   ],
   "pendingWorksCount": 0

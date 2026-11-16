@@ -38,6 +38,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Moroni_-_The_Tailor_(%27Il_Tagliapanni%27)_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Пьетро Секко Суардо",
+      "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Moroni_023.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет учёного",
+      "url": "https://commons.wikimedia.org/wiki/File:Giovanni_battista_moroni%2C_ritratto_di_un_dotto%2C_1560_ca.jpg"
     }
   ],
   "works": [
@@ -47,6 +55,20 @@
       "date": "1565–1570",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/giovanni-battista-moroni-the-tailor-il-tagliapanni"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q3937429",
+      "title": "Портрет Пьетро Секко Суардо",
+      "date": "1563",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Moroni_023.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q50840293",
+      "title": "Портрет учёного",
+      "date": "1560-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_battista_moroni%2C_ritratto_di_un_dotto%2C_1560_ca.jpg"
     }
   ],
   "pendingWorksCount": 0

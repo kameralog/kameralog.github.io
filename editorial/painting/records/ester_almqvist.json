@@ -1,0 +1,53 @@
+{
+  "id": "ester_almqvist",
+  "name": "Эстер Альмквист",
+  "latin": "Ester Almqvist",
+  "life": "1869–1934",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведская художница, одна из ранних представительниц экспрессионистической живописи в Швеции. Её включение расширяет временной диапазон десятки до конца 1920-х.",
+      "Выбрано «Собрание», 1929, из Nationalmuseum. Паспорт указывает масло на картоне и размер 30 × 33 см; размеры с рамой не подменяют размеры живописи."
+    ],
+    "technique": [
+      "Масло на картоне; 30 × 33 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрано «Собрание», 1929, из Nationalmuseum. Паспорт указывает масло на картоне и размер 30 × 33 см; размеры с рамой не подменяют размеры живописи.",
+    "caution": "Основа — картон, не холст. Размер 30 × 33 см относится к работе; 44 × 47 × 5 см — с рамой. TIFF показывается через JPEG-производные. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Ester_Almqvist"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Meeting_%28Ester_Almqvist%29_-_Nationalmuseum_-_20382.tif"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52115217"
+    },
+    {
+      "title": "Nationalmuseum: музейный паспорт",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/20382/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_52115217",
+      "title": "Собрание",
+      "date": "1929",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Meeting_%28Ester_Almqvist%29_-_Nationalmuseum_-_20382.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

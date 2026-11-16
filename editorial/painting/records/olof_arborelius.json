@@ -1,0 +1,49 @@
+{
+  "id": "olof_arborelius",
+  "name": "Улоф Арборелиус",
+  "latin": "Olof Arborelius",
+  "life": "1842–1915",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведский пейзажист и жанровый живописец. В 1902–1909 годах преподавал как профессор Королевской академии художеств.",
+      "Для карточки выбран шведский мотив с финским музейным названием «Летняя ночь в Бергслагене», из Finnish National Gallery. Собрание, язык названия и национальность автора различаются."
+    ],
+    "technique": [
+      "Техника и размеры в прочитанном wikitext не заполнены",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Для карточки выбран шведский мотив с финским музейным названием «Летняя ночь в Бергслагене», из Finnish National Gallery. Собрание, язык названия и национальность автора различаются.",
+    "caution": "1899 получен из развёрнутых метаданных Commons; поле date в wikitext пусто. Финское название не указывает на финскую национальность автора. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Olof_Arborelius"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Olof_Arborelius_-_Kes%C3%A4y%C3%B6_Bergslagenissa_-_A_I_731_-_Finnish_National_Gallery.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=66816357"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_66816357",
+      "title": "Летняя ночь в Бергслагене",
+      "date": "1899",
+      "museum": "Finnish National Gallery",
+      "source": "https://commons.wikimedia.org/wiki/File:Olof_Arborelius_-_Kes%C3%A4y%C3%B6_Bergslagenissa_-_A_I_731_-_Finnish_National_Gallery.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

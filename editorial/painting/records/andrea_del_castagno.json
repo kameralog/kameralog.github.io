@@ -20,7 +20,7 @@
     ],
     "innovation": "Религиозный сюжет становится публичным гражданским знаком. Давид ещё замахивается пращой, но голова Голиафа уже лежит у его ног: действие и итог объединены ради ясного образа победы слабого над сильным.",
     "caution": "Не называй вещь боевым щитом: музей рассматривает её как церемониальный предмет. Это редкий, но не объявленный здесь единственным пример живописного парадного щита. Даты приняты по текущему каталогу NGA; во вторичных источниках они отличаются. Сюжет включает отсечённую голову. Визуальный просмотр файла и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,18 @@
     {
       "title": "Репродукция: сведения о файле",
       "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno,_David_with_the_Head_of_Goliath,_c._1450-1455,_NGA_1145.jpg"
+    },
+    {
+      "title": "Репродукция: Джованни Боккаччо (из цикла «Знаменитые люди»)",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_Giovanni_Boccaccio_c_1450.jpg"
+    },
+    {
+      "title": "Репродукция: Кумская сивилла (из цикла «Знаменитые люди»)",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_-_Famous_Persons_-_The_Cumean_Sibyl_-_WGA00343.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и святыми (Мадонна Каса-Пацци)",
+      "url": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_-_Madonna_and_Child_with_Saints_-_WGA00325.jpg"
     }
   ],
   "works": [
@@ -43,6 +55,27 @@
       "date": "около 1450–1455",
       "museum": "Национальная галерея искусства, Вашингтон",
       "source": "https://www.nga.gov/artworks/1145-david-head-goliath"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q103231881",
+      "title": "Джованни Боккаччо (из цикла «Знаменитые люди»)",
+      "date": "около 1450",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_Giovanni_Boccaccio_c_1450.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q127500037",
+      "title": "Кумская сивилла (из цикла «Знаменитые люди»)",
+      "date": "около 1450",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_-_Famous_Persons_-_The_Cumean_Sibyl_-_WGA00343.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3842742",
+      "title": "Мадонна с Младенцем и святыми (Мадонна Каса-Пацци)",
+      "date": "около 1445",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrea_del_Castagno_-_Madonna_and_Child_with_Saints_-_WGA00325.jpg"
     }
   ],
   "pendingWorksCount": 0

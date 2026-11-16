@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "523609d3febfff520fbb3a77515041dadfcef134",
-  "artists": 1076,
-  "batches": 154,
+  "sourceCommit": "bce70bdb56ac359c561dd616f79aa114137fd197",
+  "artists": 1086,
+  "batches": 155,
   "baselineArtists": 3,
-  "works": 974,
+  "works": 1122,
   "researchDossiersGenerated": 0,
   "researchDossiersAvailable": 353
 }

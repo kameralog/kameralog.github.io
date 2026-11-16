@@ -1,0 +1,49 @@
+{
+  "id": "per_ekstrom",
+  "name": "Пер Экстрём",
+  "latin": "Per Ekström",
+  "life": "1844–1935",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведский пейзажист, известный атмосферными сценами заката в безлюдных или пустынных местах. Варианты Per, Pehr и Peter объединены в одной карточке.",
+      "Выбранный осенний пейзаж хранится в Nationalmuseum. Подтверждены материал и размеры, но год создания неизвестен; эта неопределённость сохранена."
+    ],
+    "technique": [
+      "Масло на холсте; 80 × 116 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбранный осенний пейзаж хранится в Nationalmuseum. Подтверждены материал и размеры, но год создания неизвестен; эта неопределённость сохранена.",
+    "caution": "В паспорте явно указана неизвестная дата: не восстанавливать год по стилю. TIFF показывается через JPEG-производные. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Per_Ekstr%C3%B6m"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Autumn_Landscape_in_the_Glow_of_Sunset_%28Per_Ekstr%C3%B6m%29_-_Nationalmuseum_-_21817.tif"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52114847"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_52114847",
+      "title": "Осенний пейзаж в вечернем свете",
+      "date": "Дата не установлена",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Autumn_Landscape_in_the_Glow_of_Sunset_%28Per_Ekstr%C3%B6m%29_-_Nationalmuseum_-_21817.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

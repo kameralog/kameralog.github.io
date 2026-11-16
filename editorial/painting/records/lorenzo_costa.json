@@ -20,7 +20,7 @@
     ],
     "innovation": "Вместо парадного группового портрета художник показывает совместное действие, требующее внимания и согласования. Музыкальная культура становится самостоятельной темой живописи: видимые жесты предлагают зрителю вообразить звук и ритм.",
     "caution": "Название «Концерт» не доказывает публичное выступление: вероятнее показано частное музицирование. Конкретная пьеса не установлена; фроттола и аллегория Гармонии — предложенные трактовки. Имена исполнителей неизвестны. Текущая карточка музея даёт 95,3 × 75,6 см, подробный каталог — 96,8 × 77,6 см; различие здесь сохранено, а не скрыто. Не путай с анонимным венецианским «Концертом» NG2903. Репродукция не подключена: название файла найдено, но его полную страницу и статус фотографии проверить не удалось.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,8 +34,31 @@
     {
       "title": "Подробный музейный каталог: Концерт",
       "url": "https://www.nationalgallery.org.uk/paintings/catalogues/mancini-and-penny-2016/a-concert"
+    },
+    {
+      "title": "Репродукция: Портрет Джованни II Бентивольо",
+      "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Costa_007.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Себастьян",
+      "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Costa_-_Saint_Sebastian.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch9:Q3937548",
+      "title": "Портрет Джованни II Бентивольо",
+      "date": "около 1490–1492",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Costa_007.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3947944",
+      "title": "Святой Себастьян",
+      "date": "1490–1491",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Costa_-_Saint_Sebastian.jpg"
+    }
+  ],
   "pendingWorksCount": 0
 }

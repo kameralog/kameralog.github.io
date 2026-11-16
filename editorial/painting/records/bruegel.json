@@ -25,6 +25,10 @@
     {
       "title": "Метрополитен-музей: Жатва (19.164)",
       "url": "https://www.metmuseum.org/art/collection/search/435809"
+    },
+    {
+      "title": "Репродукция: Свадебный танец на открытом воздухе — версия Уффици (приписывается Брейгелям)",
+      "url": "https://commons.wikimedia.org/wiki/File:Bruegel_-_De_bruiloft_dans_%28Firenze%29.jpg"
     }
   ],
   "works": [
@@ -34,6 +38,13 @@
       "date": "1565",
       "museum": "Метрополитен-музей, Нью-Йорк",
       "source": "https://www.metmuseum.org/art/collection/search/435809"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q121508938",
+      "title": "Свадебный танец на открытом воздухе — версия Уффици (приписывается Брейгелям)",
+      "date": "около 1564–1565",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bruegel_-_De_bruiloft_dans_%28Firenze%29.jpg"
     }
   ],
   "pendingWorksCount": 0

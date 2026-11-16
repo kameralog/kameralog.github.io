@@ -38,6 +38,22 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Lodovico_Mazzolino_(c.1480-c.1530)_-_The_Holy_Family_with_Saint_Francis_-_NG82_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Обрезание Христа",
+      "url": "https://commons.wikimedia.org/wiki/File:Mazzolino%2C_circoncisione%2C_uffizi.jpeg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и святыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Ludovico_Mazzolino%2C_Madonna_col_Bambino_santi%2C_1522_circa_-FG2.jpg"
+    },
+    {
+      "title": "Репродукция: Избиение младенцев — спорная атрибуция (Маццолино или феррарский мастер круга Баттисты Досси)",
+      "url": "https://commons.wikimedia.org/wiki/File:Mazzolino_%28attr.%29%2C_strage_degli_innocenti%2C_ante_1525%2C_uffizi_2.jpeg"
+    },
+    {
+      "title": "Репродукция: Поклонение пастухов",
+      "url": "https://commons.wikimedia.org/wiki/File:Ludovico_Mazzolino_-_Adoration_of_the_Shepherds_-_WGA14713.jpg"
     }
   ],
   "works": [
@@ -46,6 +62,34 @@
       "title": "Святое семейство со святыми Елизаветой, Франциском и Иоанном Крестителем",
       "date": "около 1514–1516",
       "source": "https://www.nationalgallery.org.uk/paintings/ludovico-mazzolino-the-holy-family-with-saints"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q15974335",
+      "title": "Обрезание Христа",
+      "date": "до 1525",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Mazzolino%2C_circoncisione%2C_uffizi.jpeg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3842530",
+      "title": "Мадонна с Младенцем и святыми",
+      "date": "около 1522",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Ludovico_Mazzolino%2C_Madonna_col_Bambino_santi%2C_1522_circa_-FG2.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3975686",
+      "title": "Избиение младенцев — спорная атрибуция (Маццолино или феррарский мастер круга Баттисты Досси)",
+      "date": "до 1525 (около 1528–1530)",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Mazzolino_%28attr.%29%2C_strage_degli_innocenti%2C_ante_1525%2C_uffizi_2.jpeg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q4680810",
+      "title": "Поклонение пастухов",
+      "date": "1520",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Ludovico_Mazzolino_-_Adoration_of_the_Shepherds_-_WGA14713.jpg"
     }
   ],
   "pendingWorksCount": 0

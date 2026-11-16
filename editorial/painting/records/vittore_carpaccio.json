@@ -20,7 +20,7 @@
     ],
     "innovation": "Живопись превращает предмет обстановки в зрительную иллюзию: открытая створка обещает вид на лагуну, а оборот обманывает глаз изображением писем. Современное разделение фрагментов меняет смысл и масштаб деталей, поэтому реконструкция вещи важна не меньше анализа стиля.",
     "caution": "Getty описывает охоту на бакланов глиняными шариками, а не стрелами: это не установленная сцена рыбной ловли с прирученными птицами. Створка окна или дверца шкафа — вероятные функции, не окончательный вывод. В works показана только лицевая сторона «Охота в лагуне», не оборот и не совмещение с панелью Коррер. Точный момент распила неизвестен; вероятно, он произошёл до XIX века. Оригинал файла Commons около 90 МБ: ссылки ведут только на уменьшенные версии. Визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,18 @@
     {
       "title": "Commons: репродукция и права",
       "url": "https://commons.wikimedia.org/wiki/File:Vittore_Carpaccio_-_Hunting_on_the_Lagoon_(recto)%2C_Letter_Rack_(verso)_-_79.PB.72_-_J._Paul_Getty_Museum.jpg"
+    },
+    {
+      "title": "Репродукция: Группа солдат и мужчин в восточных костюмах",
+      "url": "https://commons.wikimedia.org/wiki/File:Carpaccio%2C_gruppo_di_soldati.jpg"
+    },
+    {
+      "title": "Репродукция: Пророк",
+      "url": "https://commons.wikimedia.org/wiki/File:Carpaccio%2C_profeta.jpg"
+    },
+    {
+      "title": "Репродукция: Сивилла",
+      "url": "https://commons.wikimedia.org/wiki/File:Carpaccio%2C_sibilla.jpg"
     }
   ],
   "works": [
@@ -47,6 +59,27 @@
       "date": "около 1490–1495",
       "museum": "Музей Дж. Пола Гетти, Лос-Анджелес",
       "source": "https://www.getty.edu/art/collection/object/103REK"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3607620",
+      "title": "Группа солдат и мужчин в восточных костюмах",
+      "date": "около 1515",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Carpaccio%2C_gruppo_di_soldati.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3922600",
+      "title": "Пророк",
+      "date": "около 1510",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Carpaccio%2C_profeta.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3959997",
+      "title": "Сивилла",
+      "date": "около 1510",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Carpaccio%2C_sibilla.jpg"
     }
   ],
   "pendingWorksCount": 0

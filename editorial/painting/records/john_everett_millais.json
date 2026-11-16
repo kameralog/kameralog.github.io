@@ -28,6 +28,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Millais%20-%20Ophelia.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Millais_-_Self-Portrait.jpg"
     }
   ],
   "works": [
@@ -37,6 +41,13 @@
       "date": "1851–1852",
       "museum": "Tate Britain, Лондон",
       "source": "https://www.tate.org.uk/art/artworks/millais-ophelia-n01506/story-ophelia"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q52154301",
+      "title": "Автопортрет",
+      "date": "1880",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Millais_-_Self-Portrait.jpg"
     }
   ],
   "pendingWorksCount": 0

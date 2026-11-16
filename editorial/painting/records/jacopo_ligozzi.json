@@ -20,14 +20,26 @@
     ],
     "innovation": "Учебный ракурс — соединение наблюдения за предметами с музейно обоснованным чтением аллегории.",
     "caution": "Крылатая фигура может означать Время или Смерть — музей не выбирает однозначно. Первоначальная функция панели: дверца мебели или оборот зеркала. Связь стеклянного сосуда с интересами Франческо I предположительна. Атрибуция Лигоцци в прошлом оспаривалась.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Уффици, Флоренция: Аллегория Фортуны",
       "url": "https://www.uffizi.it/en/artworks/ligozzi-fortune"
+    },
+    {
+      "title": "Репродукция: Портрет Леопольдо Медичи в пелёнках",
+      "url": "https://commons.wikimedia.org/wiki/File:Tiberio_di_Tito_-_Prince_Leopoldo_de%27_Medici_in_a_Cradle_-_WGA22723.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch8:Q103884105",
+      "title": "Портрет Леопольдо Медичи в пелёнках",
+      "date": "1618",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiberio_di_Tito_-_Prince_Leopoldo_de%27_Medici_in_a_Cradle_-_WGA22723.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

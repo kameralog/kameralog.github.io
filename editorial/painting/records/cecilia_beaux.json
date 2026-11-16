@@ -20,7 +20,7 @@
     ],
     "innovation": "Учебный ракурс — сравнение жанров, композиции и профессиональной работы; без неподтверждённых заявлений о первенстве.",
     "caution": "Оценка уверенности модели — музейная интерпретация, не доказательство характера. На музейной странице стоит Free to use, но для подключаемого Google Art Project файла отдельно прочитана PD-Art; условия одного файла не переносятся автоматически на другой.",
-    "editorialStatus": "RESEARCH_DRAFT_REPRODUCTION_ATTACHED_DELIVERY_AND_GLOBAL_CHECK_PENDING"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -30,6 +30,10 @@
     {
       "title": "Конкретный файл и права",
       "url": "https://commons.wikimedia.org/wiki/File:Cecilia_Beaux_-_Man_with_the_Cat_(Henry_Sturgis_Drinker)_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "1898",
       "museum": "Смитсоновский музей американского искусства, Вашингтон",
       "source": "https://americanart.si.edu/artwork/man-cat-henry-sturgis-drinker-1635"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q23010022",
+      "title": "Автопортрет",
+      "date": "1925",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg"
     }
   ],
   "pendingWorksCount": 0

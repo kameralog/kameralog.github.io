@@ -1,0 +1,53 @@
+{
+  "id": "johan_edvard_bergh",
+  "name": "Йохан Эдвард Берг",
+  "latin": "Johan Edvard Bergh",
+  "life": "1828–1880",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведский юрист и пейзажист, связанный с дюссельдорфской школой. В источниках встречаются формы Johan Edvard, Johan Edward и Edward Bergh.",
+      "Музейный паспорт выбранной «Берёзовой рощи» указывает покупку у художника в 1876 году. Это конкретная история произведения, а не характеристика всего творчества."
+    ],
+    "technique": [
+      "Масло на холсте; 149 × 110,5 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Музейный паспорт выбранной «Берёзовой рощи» указывает покупку у художника в 1876 году. Это конкретная история произведения, а не характеристика всего творчества.",
+    "caution": "Не путать с Рихардом Бергом. 1876 — год создания и покупки у автора; физические размеры — высота × ширина. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Edward_Bergh"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Edvard_Bergh_-_Birch_Wood_-_NG.M.00268_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=97993759"
+    },
+    {
+      "title": "Nasjonalmuseet: музейный паспорт и фотограф",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00268"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_97993759",
+      "title": "Берёзовая роща",
+      "date": "1876",
+      "museum": "Nasjonalmuseet, Oslo",
+      "source": "https://commons.wikimedia.org/wiki/File:Edvard_Bergh_-_Birch_Wood_-_NG.M.00268_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

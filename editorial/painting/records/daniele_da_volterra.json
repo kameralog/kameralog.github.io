@@ -20,14 +20,26 @@
     ],
     "innovation": "Учебный ракурс — как ракурс и цветовая моделировка превращают расположение фигур в пространство.",
     "caution": "Башня связана с житием Варвары; рассказ обозначаем как легендарную традицию. Даниеле Риччарелли и Даниеле да Вольтерра — один автор. Около 1545–1547 — музейная датировка, не точная дата подписи. Сравнение с Сальвиати — музейная характеристика, не универсальное правило.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Уффици: Мадонна с Младенцем, маленьким Иоанном Крестителем и святой Варварой",
       "url": "https://www.uffizi.it/en/artworks/madonna-child-st-john-st-barbara-daniele-da-volterra"
+    },
+    {
+      "title": "Репродукция: Избиение младенцев",
+      "url": "https://commons.wikimedia.org/wiki/File:Daniele_da_Volterra_-_The_Massacre_of_the_Innocents_-_WGA05910.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch8:Q28466203",
+      "title": "Избиение младенцев",
+      "date": "1557",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Daniele_da_Volterra_-_The_Massacre_of_the_Innocents_-_WGA05910.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

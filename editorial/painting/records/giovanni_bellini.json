@@ -20,7 +20,7 @@
     ],
     "innovation": "Пейзаж становится носителем настроения и религиозного смысла. Свет объединяет отдельные предметы в общую среду; он не просто делает фигуры видимыми, а помогает выразить духовное присутствие и напряжение евангельской сцены.",
     "caution": "Не путай Джованни с Джентиле Беллини; общий алиас «Беллини» намеренно не добавлен. NG726 — не «Моление о чаше» Мантеньи NG1417. Выбранная картина написана темперой, хотя позднее художник работал и маслом. Музей датирует её около 1458–1460 и даёт высоту 80,4 см; на Commons есть иные округления и старые даты. Карьера продолжалась в XVI веке. Визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,22 @@
     {
       "title": "Commons: репродукция и права",
       "url": "https://commons.wikimedia.org/wiki/File:Bellini%2CGiovanni_-_Agony_in_the_Garden_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Священная аллегория",
+      "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_%E2%80%94_Holy_Allegory.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет молодого человека",
+      "url": "https://commons.wikimedia.org/wiki/File:BELLINI%2C_Giovanni.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Иероним в пустыне",
+      "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_%E2%80%94_Saint_Jerome_Reading_in_the_Desert.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна, поклоняющаяся спящему Младенцу Христу",
+      "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_-_Madonna_in_Adoration_of_the_Sleeping_Child_-_WGA01671.jpg"
     }
   ],
   "works": [
@@ -43,6 +59,34 @@
       "date": "около 1458–1460",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/giovanni-bellini-the-agony-in-the-garden"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q1629015",
+      "title": "Священная аллегория",
+      "date": "около 1490–1500",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_%E2%80%94_Holy_Allegory.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3937398",
+      "title": "Портрет молодого человека",
+      "date": "1490–1510",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:BELLINI%2C_Giovanni.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3947292",
+      "title": "Святой Иероним в пустыне",
+      "date": "1477–1478",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_%E2%80%94_Saint_Jerome_Reading_in_the_Desert.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q47871637",
+      "title": "Мадонна, поклоняющаяся спящему Младенцу Христу",
+      "date": "около 1475",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_-_Madonna_in_Adoration_of_the_Sleeping_Child_-_WGA01671.jpg"
     }
   ],
   "pendingWorksCount": 0

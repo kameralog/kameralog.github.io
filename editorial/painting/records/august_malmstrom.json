@@ -1,0 +1,49 @@
+{
+  "id": "august_malmstrom",
+  "name": "Август Мальмстрём",
+  "latin": "August Malmström",
+  "life": "1829–1901",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец, иллюстратор и преподаватель Академии. Работал с сельскими сюжетами, часто с детьми, а также со скандинавскими мифологическими мотивами.",
+      "Выбрана «Старая и молодая Швеция», 1894. Репродукция происходит из монографии Томаса Бьёрка; книгу-источник не следует выдавать за место хранения оригинала."
+    ],
+    "technique": [
+      "Масло на холсте; 68 × 100 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана «Старая и молодая Швеция», 1894. Репродукция происходит из монографии Томаса Бьёрка; книгу-источник не следует выдавать за место хранения оригинала.",
+    "caution": "Используется исходный файл картины, не найденная учебная версия с добавленными подписями. 1894 указан в развёрнутых метаданных; поле Year в wikitext пусто. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/August_Malmstr%C3%B6m"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:August_Malmstr%C3%B6m-Det_gamla_och_det_unga_Sverige.JPG"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=10608982"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_10608982",
+      "title": "Старая и молодая Швеция",
+      "date": "1894",
+      "museum": "Собрание в прочитанной записи не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:August_Malmstr%C3%B6m-Det_gamla_och_det_unga_Sverige.JPG"
+    }
+  ],
+  "pendingWorksCount": 0
+}

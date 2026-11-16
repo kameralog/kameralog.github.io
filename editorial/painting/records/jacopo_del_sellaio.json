@@ -20,12 +20,16 @@
     ],
     "innovation": "Селлайо показывает, как античная история входила в домашний быт: триумфальные шествия, близкие к античным саркофагам, были популярным сюжетом для сундуков невесты. Танаквиль здесь — образец заботливой, преданной жены.",
     "caution": "Картина первоначально была частью мебели, а не станковым произведением. Сюжет античный, но сама работа относится к итальянскому XV веку.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Cleveland Museum of Art: Tarquinius Priscus Entering Rome",
       "url": "https://clevelandart.org/art/1942.646"
+    },
+    {
+      "title": "Репродукция: Пир Артаксеркса (Агасфера)",
+      "url": "https://commons.wikimedia.org/wiki/File:Jacopo_del_sellaio%2C_banchetto_di_assuero%2C_uffizi.jpg"
     }
   ],
   "works": [
@@ -35,6 +39,13 @@
       "date": "c. 1470",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1942.646"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3748926",
+      "title": "Пир Артаксеркса (Агасфера)",
+      "date": "1490",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jacopo_del_sellaio%2C_banchetto_di_assuero%2C_uffizi.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -20,7 +20,7 @@
     ],
     "innovation": "Античная история превращается в эмоциональный образ, который не сводится к иллюстрации литературного текста. Вместо героического действия художник выбирает остановку и сострадание; широкий формат связывает мифологическую сцену с пространством повседневного домашнего интерьера.",
     "caution": "NG698 традиционно называли «Смертью Прокриды», но это не бесспорно установленный сюжет. В тексте Овидия сатира нет; объяснение его появления через переработку Никколо да Корреджо — гипотеза. Вероятное назначение — спинка скамьи, сундука или часть стеновой панели, а не доказанный конкретный предмет. Картина изображает смерть и раны. Даты жизни приняты по текущей Национальной галерее: 1462–1522. Репродукция не подключена: конкретный файл, его соответствие и права не проверены достаточно надёжно; поиск картинок не считается такой проверкой.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,8 +34,31 @@
     {
       "title": "Национальная галерея: реставрация и отпечатки пальцев",
       "url": "https://www.nationalgallery.org.uk/behind-the-scenes/behind-the-scenes-in-conservation-a-sky-of-500-year-old-fingerprints"
+    },
+    {
+      "title": "Репродукция: Воплощение Христа (Непорочное зачатие со святыми)",
+      "url": "https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_Incarnation_of_Jesus_01.jpg"
+    },
+    {
+      "title": "Репродукция: Персей, освобождающий Андромеду",
+      "url": "https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch10:Q3204084",
+      "title": "Воплощение Христа (Непорочное зачатие со святыми)",
+      "date": "1485–1505",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_Incarnation_of_Jesus_01.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q3558043",
+      "title": "Персей, освобождающий Андромеду",
+      "date": "1510–1515",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg"
+    }
+  ],
   "pendingWorksCount": 0
 }

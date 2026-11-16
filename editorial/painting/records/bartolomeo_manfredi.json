@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:ManfrediMarsCupid.jpg"
+    },
+    {
+      "title": "Репродукция: Динарий кесаря",
+      "url": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Manfredi_-_Il_tributo_a_Cesare_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Солдаты, играющие в карты — старинная копия/реконструкция",
+      "url": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Manfredi_-_Soldiers_Playing_Cards.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "1613",
       "museum": "Художественный институт Чикаго",
       "source": "https://www.artic.edu/artworks/59847/cupid-chastised"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q18683395",
+      "title": "Динарий кесаря",
+      "date": "1610–1620",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Manfredi_-_Il_tributo_a_Cesare_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q28054804",
+      "title": "Солдаты, играющие в карты — старинная копия/реконструкция",
+      "date": "около 1613–1618",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Bartolomeo_Manfredi_-_Soldiers_Playing_Cards.jpg"
     }
   ],
   "pendingWorksCount": 0

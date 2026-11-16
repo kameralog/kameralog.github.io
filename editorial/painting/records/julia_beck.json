@@ -1,0 +1,49 @@
+{
+  "id": "julia_beck",
+  "name": "Юлия Бек",
+  "latin": "Julia Beck",
+  "life": "1853–1935",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведская художница и каллиграф. В этой карточке её собственная живопись отделена от портретов Юлии Бек, написанных другими авторами.",
+      "Выбран французский пейзаж 1885 года, масло на холсте 67 × 123 см. Оригинальное название сохранено по записи Commons; русский заголовок — редакционный перевод."
+    ],
+    "technique": [
+      "Масло на холсте; 67 × 123 см",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран французский пейзаж 1885 года, масло на холсте 67 × 123 см. Оригинальное название сохранено по записи Commons; русский заголовок — редакционный перевод.",
+    "caution": "Первый запрос оригинала не декодировался; повторный адрес с параметром batch156=20261116 декодирован. Аукционный источник не выдаётся за нынешнее собрание. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Julia_Beck"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Julia_Beck_-_GR%C3%89Z_PAR_NEMOURS_%28SEINE_ET_MARNE%29.jpg"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=7607253"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_7607253",
+      "title": "Гре близ Немура",
+      "date": "1885",
+      "museum": "Собрание не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:Julia_Beck_-_GR%C3%89Z_PAR_NEMOURS_%28SEINE_ET_MARNE%29.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

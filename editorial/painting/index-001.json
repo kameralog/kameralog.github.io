@@ -1,5 +1,10 @@
 [
   {
+    "id": "anthonie_palamedesz",
+    "name": "Антони Паламедес",
+    "path": "records/anthonie_palamedesz.json"
+  },
+  {
     "id": "antonin_slavicek",
     "name": "Антонин Славичек",
     "path": "records/antonin_slavicek.json"
@@ -43,6 +48,11 @@
     "id": "arvid_liljelund",
     "name": "Арвид Лильелунд",
     "path": "records/arvid_liljelund.json"
+  },
+  {
+    "id": "arvid_mauritz_lindstrom",
+    "name": "Арвид Мауриц Линдстрём",
+    "path": "records/arvid_mauritz_lindstrom.json"
   },
   {
     "id": "arent_arentsz",
@@ -488,15 +498,5 @@
     "id": "vilhelm_groth",
     "name": "Вильхельм Грот",
     "path": "records/vilhelm_groth.json"
-  },
-  {
-    "id": "vilhelm_kyhn",
-    "name": "Вильхельм Кюн",
-    "path": "records/vilhelm_kyhn.json"
-  },
-  {
-    "id": "vilhelm_melbye",
-    "name": "Вильхельм Мельбю",
-    "path": "records/vilhelm_melbye.json"
   }
 ]

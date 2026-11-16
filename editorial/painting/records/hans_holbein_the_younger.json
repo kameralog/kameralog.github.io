@@ -19,12 +19,20 @@
     ],
     "innovation": "Работа показывает гуманизм в картине: Гольбейн сливает портретные черты учёного и античный образ, чтобы выразить идею, а не просто сходство.",
     "caution": "Это не обычный портрет Эразма: музей говорит, что Гольбейн «смешивает» его черты с Терминусом. Не принимай изображение за документальное сходство.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Cleveland Museum of Art: Terminus, the Device of Erasmus",
       "url": "https://clevelandart.org/art/1971.166"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger%2C_self-portrait.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет сэра Ричарда Саутвелла",
+      "url": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_d._J._060.jpg"
     }
   ],
   "works": [
@@ -34,6 +42,20 @@
       "date": "c. 1532",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1971.166"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3630726",
+      "title": "Автопортрет",
+      "date": "около 1542–1543",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger%2C_self-portrait.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3937666",
+      "title": "Портрет сэра Ричарда Саутвелла",
+      "date": "1536",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_d._J._060.jpg"
     }
   ],
   "pendingWorksCount": 0

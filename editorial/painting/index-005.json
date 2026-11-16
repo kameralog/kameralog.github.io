@@ -1,5 +1,25 @@
 [
   {
+    "id": "christian_blache",
+    "name": "Кристиан Блаке",
+    "path": "records/christian_blache.json"
+  },
+  {
+    "id": "christian_david_gebauer",
+    "name": "Кристиан Давид Гебауэр",
+    "path": "records/christian_david_gebauer.json"
+  },
+  {
+    "id": "christian_zacho",
+    "name": "Кристиан Зако",
+    "path": "records/christian_zacho.json"
+  },
+  {
+    "id": "christian_krohg",
+    "name": "Кристиан Крог",
+    "path": "records/christian_krohg.json"
+  },
+  {
     "id": "christian_skredsvig",
     "name": "Кристиан Скредсвиг",
     "path": "records/christian_skredsvig.json"
@@ -478,25 +498,5 @@
     "id": "maria_oakey_dewing",
     "name": "Мария Оуки Дьюинг",
     "path": "records/maria_oakey_dewing.json"
-  },
-  {
-    "id": "maria_sibylla_merian",
-    "name": "Мария Сибилла Мериан",
-    "path": "records/maria_sibylla_merian.json"
-  },
-  {
-    "id": "marie_spartali_stillman",
-    "name": "Мария Спартали Стиллман",
-    "path": "records/marie_spartali_stillman.json"
-  },
-  {
-    "id": "marie_egner",
-    "name": "Мария Эгнер",
-    "path": "records/marie_egner.json"
-  },
-  {
-    "id": "marie_ellenrieder",
-    "name": "Мария Элленридер",
-    "path": "records/marie_ellenrieder.json"
   }
 ]

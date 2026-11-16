@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Jouvenet_-_Descent_from_the_Cross_-_WGA12030.jpg"
+    },
+    {
+      "title": "Репродукция: Воспитание Богоматери",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Jouvenet_-_The_Education_of_the_Virgin_-_WGA12032.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "1697; подписано и датировано",
       "museum": "Лувр, Париж",
       "source": "https://collections.louvre.fr/ark:/53355/cl010060703"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q114241464",
+      "title": "Воспитание Богоматери",
+      "date": "1700",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Jouvenet_-_The_Education_of_the_Virgin_-_WGA12032.jpg"
     }
   ],
   "pendingWorksCount": 0

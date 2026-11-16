@@ -20,7 +20,7 @@
     ],
     "innovation": "Живопись соединяет убедительную телесность с пространством, открытым за фигурами. Домашний молитвенный образ действует и как окно в пейзаж, а трёхчетвертной портрет делает присутствие модели более непосредственным, чем традиционный профиль.",
     "caution": "«Мадонну с Младенцем» NG3937 прежде относили к мастерской, но после расчистки музей признал собственноручной работой Гирландайо. Это не основание приписывать ему все картины мастерской: «Портрет девушки» и «Костанца Каэтани» имеют другие оговорки. Арочный верх NG3937 восстановлен позднее; азурит плаща изменился, и первоначально он был синее. Файл на Commons — только 508 × 800 пикселей: увеличение не добавит деталей. Визуальный просмотр и загрузка в браузере ещё не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,18 @@
     {
       "title": "Commons: репродукция NG3937",
       "url": "https://commons.wikimedia.org/wiki/File:Domenico_Ghirlandaio_(1449-1494)_-_The_Virgin_and_Child_-_NG3937_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Поклонение волхвов (тондо Торнабуони)",
+      "url": "https://commons.wikimedia.org/wiki/File:Ghirlandaio%2C_adorazione_tornabuoni.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна на троне с Младенцем и святыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Domenico_Ghirlandaio_Madonna_and_Child_enthroned_with_Saint_c_1483.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна на троне с Младенцем, ангелами и святыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Domenico_Ghirlandaio_Madonna_and_Child_enthroned_between_Angels_and_Saint_c_1486.jpg"
     }
   ],
   "works": [
@@ -47,6 +59,27 @@
       "date": "предположительно около 1480–1490",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/domenico-ghirlandaio-the-virgin-and-child"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3605541",
+      "title": "Поклонение волхвов (тондо Торнабуони)",
+      "date": "1477",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Ghirlandaio%2C_adorazione_tornabuoni.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3944518",
+      "title": "Мадонна на троне с Младенцем и святыми",
+      "date": "1484",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Domenico_Ghirlandaio_Madonna_and_Child_enthroned_with_Saint_c_1483.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch9:Q3944520",
+      "title": "Мадонна на троне с Младенцем, ангелами и святыми",
+      "date": "1483",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Domenico_Ghirlandaio_Madonna_and_Child_enthroned_between_Angels_and_Saint_c_1486.jpg"
     }
   ],
   "pendingWorksCount": 0

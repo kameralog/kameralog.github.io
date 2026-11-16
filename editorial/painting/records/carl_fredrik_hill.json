@@ -1,0 +1,49 @@
+{
+  "id": "carl_fredrik_hill",
+  "name": "Карл Фредрик Хилл",
+  "latin": "Carl Fredrik Hill",
+  "life": "1849–1911",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-156.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец и рисовальщик. Биографическая справка различает ранние атмосферные пейзажи и поздние фантастические рисунки.",
+      "Для карточки выбрана Route de Paris II, 1877, из Thielska Galleriet. Французский мотив не меняет шведского авторства; поздние рисунки не подменяют выбранную живопись."
+    ],
+    "technique": [
+      "Живопись; точные техника и размеры здесь не утверждаются",
+      "Размеры живописи: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Для карточки выбрана Route de Paris II, 1877, из Thielska Galleriet. Французский мотив не меняет шведского авторства; поздние рисунки не подменяют выбранную живопись.",
+    "caution": "124a есть в имени файла, но не перенесено как независимо проверенный инвентарь. Не путать с Мейбл Хилл. TIFF показывается через JPEG-производные. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Carl_Fredrik_Hill"
+    },
+    {
+      "title": "Commons: конкретный файл и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Fredrik_Hill_Route_de_Paris_II_Thielska_124a.tif"
+    },
+    {
+      "title": "Commons API: паспорт и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=87526203"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting156_commons_87526203",
+      "title": "Дорога в Париж II",
+      "date": "1877",
+      "museum": "Thielska Galleriet, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Fredrik_Hill_Route_de_Paris_II_Thielska_124a.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

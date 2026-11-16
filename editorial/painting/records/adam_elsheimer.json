@@ -20,7 +20,7 @@
     ],
     "innovation": "Камерная картина получает драматизм большого исторического полотна. Свет не просто моделирует объём: он направляет внимание и связывает множество персонажей с центральным событием.",
     "caution": "Это рассказ Деяний 28:1–6, не наблюдение реального художника за событием I века. По сюжету Павел остаётся невредим после укуса; не переносить чудо на свойства змей вообще. «Товия и Рафаил» в Лондоне — поздняя копия по Эльсхаймеру, не данный оригинал. PD-Art файла проверен; визуальный просмотр и браузерная загрузка — нет.",
-    "editorialStatus": "museum_sources_pd_art_file_checked_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,10 @@
     {
       "title": "Конкретный файл NG3535 и PD-Art",
       "url": "https://commons.wikimedia.org/wiki/File:Adam_Elsheimer_-_St._Paulus_auf_Malta.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Elsheimer%2C_Adam_-_Self-portrait.jpg"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "около 1600",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/adam-elsheimer-saint-paul-on-malta"
+    },
+    {
+      "key": "wiki-uffizi-batch8:Q28127947",
+      "title": "Автопортрет",
+      "date": "1606–1607",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Elsheimer%2C_Adam_-_Self-portrait.jpg"
     }
   ],
   "pendingWorksCount": 0

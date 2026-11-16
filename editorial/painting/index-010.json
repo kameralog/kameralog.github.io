@@ -1,5 +1,45 @@
 [
   {
+    "id": "emil_ditlev_baerentzen",
+    "name": "Эмиль Дитлев Берентцен",
+    "path": "records/emil_ditlev_baerentzen.json"
+  },
+  {
+    "id": "emil_nolde",
+    "name": "Эмиль Нольде",
+    "path": "records/emil_nolde.json"
+  },
+  {
+    "id": "emil_normann",
+    "name": "Эмиль Норманн",
+    "path": "records/emil_normann.json"
+  },
+  {
+    "id": "emil_filla",
+    "name": "Эмиль Филла",
+    "path": "records/emil_filla.json"
+  },
+  {
+    "id": "emil_jakob_schindler",
+    "name": "Эмиль Якоб Шиндлер",
+    "path": "records/emil_jakob_schindler.json"
+  },
+  {
+    "id": "emma_lambotte",
+    "name": "Эмма Ламботт",
+    "path": "records/emma_lambotte.json"
+  },
+  {
+    "id": "emma_lowstadt_chadwick",
+    "name": "Эмма Лёвстедт-Чедвик",
+    "path": "records/emma_lowstadt_chadwick.json"
+  },
+  {
+    "id": "emma_sandys",
+    "name": "Эмма Сэндис",
+    "path": "records/emma_sandys.json"
+  },
+  {
     "id": "emma_thomsen",
     "name": "Эмма Томсен",
     "path": "records/emma_thomsen.json"
@@ -70,6 +110,11 @@
     "path": "records/eustache_le_sueur.json"
   },
   {
+    "id": "ester_almqvist",
+    "name": "Эстер Альмквист",
+    "path": "records/ester_almqvist.json"
+  },
+  {
     "id": "ethel_carrick",
     "name": "Этель Кэррик",
     "path": "records/ethel_carrick.json"
@@ -113,6 +158,11 @@
     "id": "julius_exner",
     "name": "Юлиус Экснер",
     "path": "records/julius_exner.json"
+  },
+  {
+    "id": "julia_beck",
+    "name": "Юлия Бек",
+    "path": "records/julia_beck.json"
   },
   {
     "id": "yrjo_ollila",

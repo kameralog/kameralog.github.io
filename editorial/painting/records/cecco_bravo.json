@@ -20,14 +20,26 @@
     ],
     "innovation": "Учебный ракурс — как материал и свет передают литературное видение, а состояние холста ограничивает анализ.",
     "caution": "Источник сюжета — «Освобождённый Иерусалим» Тассо, не Ариосто. Холст обрезан слева; содержание утраченного участка предположительно, его не восстанавливаем как установленное. Чекко Браво и Франческо Монтелатичи — один автор. Около 1650 — приблизительная дата.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Уффици: Армида",
       "url": "https://www.uffizi.it/en/artworks/armida-cecco-bravo"
+    },
+    {
+      "title": "Репродукция: Иосиф и жена Потифара",
+      "url": "https://commons.wikimedia.org/wiki/File:Cecco_Bravo_001.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch9:Q114362159",
+      "title": "Иосиф и жена Потифара",
+      "date": "XVII век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cecco_Bravo_001.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

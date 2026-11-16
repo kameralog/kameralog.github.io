@@ -28,6 +28,10 @@
     {
       "title": "Art Institute of Chicago: Mrs. George Swinton (Elizabeth Ebsworth)",
       "url": "https://www.artic.edu/artworks/4749"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Sargent%2C_John_SInger_%281856-1925%29_-_Self-Portrait_1907_b.jpg"
     }
   ],
   "works": [
@@ -44,6 +48,13 @@
       "date": "1897",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/4749"
+    },
+    {
+      "key": "wiki-uffizi-batch10:Q52157937",
+      "title": "Автопортрет",
+      "date": "1907",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sargent%2C_John_SInger_%281856-1925%29_-_Self-Portrait_1907_b.jpg"
     }
   ],
   "pendingWorksCount": 0
