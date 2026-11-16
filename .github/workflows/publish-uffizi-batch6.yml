@@ -1,0 +1,139 @@
+name: Publish reviewed sixth wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch6.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply reviewed sixth batch and preserve existing data
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch6-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch6-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const raw=`251|Ваза с цветами|1670-е годы|Maria van Oosterwijk - Blumen und Fruechte 1670er.jpg|1122|1368
+          252|Автопортрет рядом с бюстом Геркулеса|1661|Philips Koninck - Self Portrait - Uffizi Gallery.jpg|943|1254
+          253|Адам и Ева|1528|Cranach, adamo ed eva, uffizi.jpg|1100|1525
+          254|Мадонна с Младенцем и юным Иоанном Крестителем|1514|Cranach, madonna col bambino e san giovannino.jpg|1000|1313
+          255|Женский портрет — Лукас Кранах Старший и мастерская|около 1530|Cranach, ritratto di donna, uffizi.jpg|700|1086
+          256|Святая Екатерина Александрийская|1615 или 1618–1619|Artemisia Gentileschi - St Catherine of Alexandria - WGA8560.jpg|1641|2126
+          257|Минерва (Мудрость)|около 1615 или 1640-е годы|Artemisia Gentileschi - Minerva - WGA8568.jpg|909|1080
+          258|Давид и Вирсавия|около 1645–1650|Gentileschi palatina betsabe.jpg|800|1080
+          259|Обращение Марии Магдалины|1620|Artemisia Gentileschi Mary Magdalene Pitti.jpg|1115|1500
+          260|Юдифь, обезглавливающая Олоферна|1614–1620|Artemisia Gentileschi - Giuditta decapita Oloferne - Google Art Project-Adjust.jpg|2685|3301
+          261|Юдифь и её служанка|1618–1619|Gentileschi judith1.jpg|1400|1755
+          262|Ратуша в Амстердаме|1667|The Town Hall of Amsterdam 1667 Jan van der Heyden.jpg|901|834
+          263|Большой рынок (Гроте-Маркт) в Харлеме|1693|Gerrit Adriaensz. Berckheyde - The Great Market in Haarlem - WGA1928.jpg|1020|850
+          264|Портрет Анны Марии Луизы Медичи в юности|1685|Anton Domenico Gabbiani - Portrait of Anna Maria Luisa de' Medici as a Young Woman - WGA8363.jpg|824|990
+          265|Похищение Ганимеда|1700|AD Gabbiani Rapto de Ganímedes Uffizi.jpg|700|451
+          266|Автопортрет|1685|AD Gabbiani Autorretrato.jpg|500|600
+          267|Мадонна с Младенцем|около 1504|Cima da conegliano, madonna col bambino, uffizi.jpg|870|1043
+          268|Святой Иероним|1510–1520|Cima da Conegliano, San Girolamo Palazzo Pitti, Firenze.jpg|1578|1875
+          269|Портрет Пьеро ди Лоренцо Медичи|XVI век|Ritratto di Piero de' Medici.jpg|4219|5219
+          270|Автопортрет с портретом сестры|1715|Rosalba Carriera - Self-Portrait Holding a Portrait of Her Sister - WGA4502.jpg|1000|1213
+          271|Мадонна с Младенцем и святыми|около 1445|Giovanni di paolo, madonna col bambino e santi.jpg|565|495
+          272|Портрет Эванджелисты Скаппи|1500–1505|Francesco Francia 004.jpg|357|450
+          273|Благовещение|1528–1535|Garofalo, Benvenuto Tisi — Annuntiatio Domini — 1528.jpg|2048|1515
+          274|Римские руины|около 1620|Cornelis van Poelenburch - Roman Ruins - WGA18013.jpg|1125|850
+          275|Автопортрет|1912|Kustodiev self portrait.jpg|839|1000
+          276|Автопортрет|около 1670|Luca Giordano Fapresto.jpg|1289|1417
+          277|Колдовство (Аллегория Геркулеса)|около 1535|Dosso Dossi 004.jpg|1181|1198
+          278|Явление Богоматери святым Иоанну Крестителю и Иоанну Богослову|1520-е — 1530|Dosso Dossi 034.jpg|720|1030
+          279|Отдых Святого Семейства на пути в Египет|первая половина XVI века|Dosso, riposo.jpg|593|750
+          280|Портрет воина|1530-е годы|Dosso Dossi 01.jpg|750|929
+          281|Автопортрет|1616|Giovanni da San Giovanni003.jpg|346|480
+          282|Автопортрет|1888|Self-portrait of Pedar Severin Kroyer in the Vasari Corridor 2016-05-06.jpg|2528|2806
+          283|Автопортрет|1682|Maratta, Carlo - Autoritratto - 1686 - Uffizi Gallery.jpg|809|1024
+          284|Явление Богоматери святому Филиппу Нери|1675|Carlo Maratta - The Virgin Appearing to St Philip Neri - WGA14052.jpg|900|1550
+          285|Юпитер и Семела|около 1695|Sebastiano Ricci - Dionysus (1695).jpg|365|470
+          286|Аллегория Тосканы|1706|Sebastiano Ricci 003.jpg|2536|3237
+          287|Мадонна на троне с Младенцем и двумя музицирующими ангелами|1480|Hans Memling - Virgin enthroned with child and two angels making music.jpg|2121|2874
+          288|Портрет Фолько Портинари|около 1490|Hans Memling - L'uomo con la lettera - Google Art Project.jpg|2662|3715
+          289|Портрет неизвестного мужчины на фоне пейзажа|1480-е годы|Hans memling, ritratto d'ignoto, uffizi.jpg|627|961
+          290|Триптих Бенедетто Портинари: правая створка — Портрет молящегося мужчины|1487|Memling, trittico di Benedetto Portinari, ritratto, parte destra.jpg|850|1171
+          291|Портрет неизвестного мужчины с письмом|1480-е годы|Hans memling, uomo con la lettera, uffizi.jpg|801|1164
+          292|Триптих Бенедетто Портинари: левая створка — Святой Бенедикт|1487|Memling, Trittico di Benedetto Portinari, San Benedetto.jpg|725|1013
+          293|Триптих Бенедетто Портинари|1487|Memling TrípticPortinari.jpg|2600|1184
+          294|Цыганка|1504|Boccaccino, zingarella.jpg|800|1100
+          295|Портрет Федерико Цуккаро|1604|Fede Galizia - Portrait of Federico Zuccaro.jpg|1419|1827
+          296|Портрет Марии Зефирины Французской|1751|Marie Zéphirine de France par Nattier.jpg|700|564
+          297|Мария Аделаида Французская в образе Дианы|1745|Jean-Marc Nattier.jpg|1100|802
+          298|Генриетта Французская в образе Флоры|1742|Jean-Marc Nattier - Henriette of France as Flora - WGA16455.jpg|1803|1295
+          299|Портрет молодого человека|около 1505|Lorenzo Lotto- Portrait of a Young Man.JPG|478|650
+          300|Святое семейство со святыми Иеронимом и Анной|1534|Lorenzo Lotto (Venezia, 1480 - Loreto, 1556) - Sacra Famiglia con San Girolamo - 893 - Uffizi Gallery.jpg|3851|3022`;
+          const data=raw.split('\n').map(line=>{const[n,title,date,file,w,h]=line.trim().split('|');return {n:+n,title,date,file,width:+w,height:+h};});assert.deepEqual(data.map(r=>r.n),Array.from({length:50},(_,i)=>i+251));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c',queueDirectory='reports/uffizi-packages/43457577858-1',queueFiles=[1,2,3,4,5,6,7].map(n=>'new_work_candidates-00'+n+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));const originalRecords=lists.flat().slice(250,300).map((r,i)=>({number:i+251,...r}));assert.equal(originalRecords.length,50);
+          const pageBatch={maria_van_oosterwijck:110,philips_koninck:77,lucas_cranach_the_elder:9,artemisia_gentileschi:17,jan_van_der_heyden:66,gerrit_berckheyde:66,anton_domenico_gabbiani:100,cima_da_conegliano:50,giovanni_battista_paggi:91,rosalba_carriera:109,giovanni_di_paolo:7,francesco_francia:50,garofalo:52,cornelis_van_poelenburgh:59,kustodiev:30,luca_giordano:86,dosso_dossi:51,giovanni_da_san_giovanni:97,peder_severin_kroyer:128,carlo_maratta:84,sebastiano_ricci:92,hans_memling:9,boccaccio_boccaccino:44,fede_galizia:109,jean_marc_nattier:105,lorenzo_lotto:50};
+          const expected={7:'3c89a02c534c2c38511baedaab475618a24649ec',9:'5a541762acc4520a468084cf80eb0c276e3f3db6',17:'bdc27af1ddebe4fe0f825d71bb30d62f548eb25c',30:'150b8d8067ac18f24c510425c57a6d6eb7ec5cd2',44:'19dc4df898a81331c364f39861884000350e71ff',50:'e9466ab71b48f24beb3144446bf7f632007eb086',51:'49165584d1ebe7a49bcca830191f32d01bfcff17',52:'0cb3e368fb9c2b0d2eb067fad8e02e2ee1170616',59:'fc359d650dbfc9932a81e64d1d96635a0e68c5fc',66:'c771f6004ad1265d16e00c9990b37a75d4a3e592',77:'61689557829fef336bba712290c9d0e197f08eb8',84:'9a9ebd5458cecdc1ccd6138efeb95eb18e6b1d73',86:'5e467f8983551fe5ef748c9d704fd1556ec17a8d',91:'95677edf80bf29f1472d9c08c76451354963520c',92:'6182c7c1433e7316643384b81bef3b93e329bf1e',97:'ed3a6d73023744c74f064630a0195a150d1f68ea',100:'a616ed173b64b9c6e00a193658895158353ca81b',105:'f468fd38d27fb034ff91f04b2064fedf21f6287f',109:'20f4abf78cf62e1e5a440b6498bfdda3e5093a89',110:'42d7db44718b39bb337cae6eef86d23ec9a17aa9',128:'d053671aa4043cf317ddbd2dfbef655da5d0b290'};
+          const reportPath='reports/wiki-batches/batch-006.json';assert(!fs.existsSync(reportPath));const previous=[1,2,3,4,5].map(n=>{const path='reports/wiki-batches/batch-00'+n+'.json';return {path,text:fs.readFileSync(path,'utf8')};});
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          for(const r of data){const candidate=originalRecords[r.n-251],id=candidate.artistId,Q=candidate.work;assert.equal(candidate.number,r.n);assert(/^Q\d+$/.test(Q));const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const baseLicense='Public domain';const entry={number:r.n,workId:Q,originalArtistId:id,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,licenseShortName:baseLicense,originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseTemplatesChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          const bn=pageBatch[id];assert(bn);const filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch6-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch6:'+Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name),original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const credit=(r.n===255?'Лукас Кранах Старший и мастерская':artist.name)+'; '+(r.n===282?'фотография Szilas; ':'')+'Wikimedia Commons; '+baseLicense;let note='Источник репродукции и сведения о правах — в карточке конкретного файла Commons.';
+          if(r.n===255)note+=' Атрибуция включает участие мастерской Лукаса Кранаха Старшего.';if(r.n===282)note+=' Выбран снимок из Коридора Вазари (Уффици, инв. 1890 №1945), а не аукционный лот Dorotheum.';if([290,292,293].includes(r.n))note+=' Часть триптиха Бенедетто Портинари (1487).';if(Math.min(r.width,r.height)<600)note+=' Небольшой исходный файл не увеличивался искусственно.';
+          const work={key,title:r.title,date:r.date,author:r.n===255?'Лукас Кранах Старший и мастерская':artist.name,medium:'',museum:'Галереи Уффици, Флоренция',source:imageSource,image:sized(960),zoom:sized(1920),imageSource,license:baseLicense,creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n===255)work.attributionStatus='attributed';if([290,292,293].includes(r.n)){work.objectGroup='benedetto-portinari-triptych';work.viewType=r.n===293?'triptych-composite':r.n===292?'left-wing':'right-wing';work.relatedWorkKeys=['Q3999120','Q43283983','Q43284760'].filter(q=>q!==Q).map(q=>'wiki-uffizi-batch6:'+q);}
+          group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,21);assert.equal(results.filter(r=>r.work).length,50);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,26);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:6,batchSize:50,range:[251,300],checkedDate:'2026-11-16',status:'connected_publication_pending',total:50,foundReproductions:50,browserImagesDecoded:50,ruOrEnWikipediaArticlesFound:15,newlyConnected:50,alreadyPresentCount:0,alreadyPresent:[],duplicatesCount:0,deferredConfirmed:0,artistPages:26,sourceFiles:21,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(250,300)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['Все 50 файлов найдены и прошли браузерную загрузку; полный визуальный просмотр не заявляется.','№255: указано участие мастерской Лукаса Кранаха Старшего.','№282: выбран снимок из Коридора Вазари (Уффици, инв. 1890 №1945), а не аукционный лот Dorotheum.','№290, 292, 293: связаны в ансамбль триптиха Бенедетто Портинари.','50 — число новых привязок репродукций, не утверждение о 50 независимых физических объектах.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of previous)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch6-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{7,9,17,30,44,50,51,52,59,66,77,84,86,91,92,97,100,105,109,110,128}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-006.json
+          git diff --cached --stat
+          git commit -m 'Connect 50 sixth-batch reproductions and record batch report'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify published catalogue and record result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch6=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch6-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch6-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-006.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=50;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-006.json
+              git commit -m 'Record live catalogue verification for wiki batch six'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified live catalogue: 50 new bindings. Individual page and full visual reviews remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; live catalogue verification remains pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
