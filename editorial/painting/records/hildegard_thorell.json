@@ -1,0 +1,49 @@
+{
+  "id": "hildegard_thorell",
+  "name": "Хильдегард Торелль",
+  "latin": "Hildegard Thorell",
+  "life": "1850–1930",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведская художница, учившаяся в Стокгольмской академии и в Париже; среди её учителей названы Георг фон Розен и Берта Вегман.",
+      "Выбран портрет скрипачки Сигрид Линдберг, 1890. Автор — Торелль, изображённая музыкантша — Линдберг; эти роли не смешиваются."
+    ],
+    "technique": [
+      "Масло на холсте; физические размеры не установлены",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран портрет скрипачки Сигрид Линдберг, 1890. Автор — Торелль, изображённая музыкантша — Линдберг; эти роли не смешиваются.",
+    "caution": "Низкое разрешение 453 × 640 пикселей, без увеличения. Инвентарный номер не установлен; принадлежность Nationalmuseum указана в описании файла, отдельный музейный паспорт не прочитан. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Hildegard_Thorell"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sigrid_Lindberg_by_Hildegard_Thorell%2C_1890.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=95497242"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_95497242",
+      "title": "Портрет Сигрид Линдберг",
+      "date": "1890",
+      "museum": "Nationalmuseum, Stockholm; по описанию Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sigrid_Lindberg_by_Hildegard_Thorell%2C_1890.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

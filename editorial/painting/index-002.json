@@ -1,5 +1,20 @@
 [
   {
+    "id": "vilmos_aba_novak",
+    "name": "Вильмош Аба-Новак",
+    "path": "records/vilmos_aba_novak.json"
+  },
+  {
+    "id": "vilmos_perlrott_csaba",
+    "name": "Вильмош Перлротт-Чаба",
+    "path": "records/vilmos_perlrott_csaba.json"
+  },
+  {
+    "id": "vilhelm_groth",
+    "name": "Вильхельм Грот",
+    "path": "records/vilhelm_groth.json"
+  },
+  {
     "id": "vilhelm_kyhn",
     "name": "Вильхельм Кюн",
     "path": "records/vilhelm_kyhn.json"
@@ -138,6 +153,11 @@
     "id": "georg_achen",
     "name": "Георг Ахен",
     "path": "records/georg_achen.json"
+  },
+  {
+    "id": "georg_pauli",
+    "name": "Георг Паули",
+    "path": "records/georg_pauli.json"
   },
   {
     "id": "georg_emil_libert",
@@ -478,25 +498,5 @@
     "id": "giovanni_bellini",
     "name": "Джованни Беллини",
     "path": "records/giovanni_bellini.json"
-  },
-  {
-    "id": "giovanni_benedetto_castiglione",
-    "name": "Джованни Бенедетто Кастильоне",
-    "path": "records/giovanni_benedetto_castiglione.json"
-  },
-  {
-    "id": "giovanni_bilivert",
-    "name": "Джованни Биливерт",
-    "path": "records/giovanni_bilivert.json"
-  },
-  {
-    "id": "giovanni_da_san_giovanni",
-    "name": "Джованни да Сан-Джованни",
-    "path": "records/giovanni_da_san_giovanni.json"
-  },
-  {
-    "id": "giovanni_giacometti",
-    "name": "Джованни Джакометти",
-    "path": "records/giovanni_giacometti.json"
   }
 ]

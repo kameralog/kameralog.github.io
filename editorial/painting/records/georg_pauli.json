@@ -1,0 +1,49 @@
+{
+  "id": "georg_pauli",
+  "name": "Георг Паули",
+  "latin": "Georg Pauli",
+  "life": "1855–1935",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, известный портретами и фигуративными композициями, а также автор книг об искусстве. Полное имя — Georg Vilhelm Pauli.",
+      "Для карточки выбрано «Вечернее чтение», 1884, из Finnish National Gallery. Камерная сцена уравновешивает пейзажную часть десятки."
+    ],
+    "technique": [
+      "Техника и размеры здесь не утверждаются: в прочитанном wikitext не заполнены",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Для карточки выбрано «Вечернее чтение», 1884, из Finnish National Gallery. Камерная сцена уравновешивает пейзажную часть десятки.",
+    "caution": "1884 дан в развёрнутых метаданных Commons. Полные физические параметры, упомянутые в превью, не перенесены без отдельного музейного чтения. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Georg_Pauli"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Georg_Pauli_-_Evening_Reading_-_A_I_519_-_Finnish_National_Gallery.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=80541859"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_80541859",
+      "title": "Вечернее чтение",
+      "date": "1884",
+      "museum": "Finnish National Gallery",
+      "source": "https://commons.wikimedia.org/wiki/File:Georg_Pauli_-_Evening_Reading_-_A_I_519_-_Finnish_National_Gallery.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

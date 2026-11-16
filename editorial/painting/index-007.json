@@ -1,5 +1,30 @@
 [
   {
+    "id": "paolo_porpora",
+    "name": "Паоло Порпора",
+    "path": "records/paolo_porpora.json"
+  },
+  {
+    "id": "paolo_uccello",
+    "name": "Паоло Уччелло",
+    "path": "records/paolo_uccello.json"
+  },
+  {
+    "id": "parmigianino",
+    "name": "Пармиджанино",
+    "path": "records/parmigianino.json"
+  },
+  {
+    "id": "paul_bril",
+    "name": "Пауль Бриль",
+    "path": "records/paul_bril.json"
+  },
+  {
+    "id": "klee",
+    "name": "Пауль Клее",
+    "path": "records/klee.json"
+  },
+  {
     "id": "paul_raud",
     "name": "Пауль Рауд",
     "path": "records/paul_raud.json"
@@ -260,6 +285,11 @@
     "path": "records/reinier_nooms.json"
   },
   {
+    "id": "reinhold_norstedt",
+    "name": "Рейнхольд Норстедт",
+    "path": "records/reinhold_norstedt.json"
+  },
+  {
     "id": "rembrandt",
     "name": "Рембрандт ван Рейн",
     "path": "records/rembrandt.json"
@@ -298,6 +328,11 @@
     "id": "rauschenberg",
     "name": "Роберт Раушенберг",
     "path": "records/rauschenberg.json"
+  },
+  {
+    "id": "robert_thegerstrom",
+    "name": "Роберт Тегерстрём",
+    "path": "records/robert_thegerstrom.json"
   },
   {
     "id": "robert_zund",
@@ -463,40 +498,5 @@
     "id": "cecile_douard",
     "name": "Сесиль Дуар",
     "path": "records/cecile_douard.json"
-  },
-  {
-    "id": "simon_vouet",
-    "name": "Симон Вуэ",
-    "path": "records/simon_vouet.json"
-  },
-  {
-    "id": "simon_de_vlieger",
-    "name": "Симон де Влигер",
-    "path": "records/simon_de_vlieger.json"
-  },
-  {
-    "id": "simone_martini",
-    "name": "Симоне Мартини",
-    "path": "records/simone_martini.json"
-  },
-  {
-    "id": "simone_pignoni",
-    "name": "Симоне Пиньони",
-    "path": "records/simone_pignoni.json"
-  },
-  {
-    "id": "sinibaldo_scorza",
-    "name": "Синибальдо Скорца",
-    "path": "records/sinibaldo_scorza.json"
-  },
-  {
-    "id": "sientje_mesdag_van_houten",
-    "name": "Синтье Месдаг-ван Хаутен",
-    "path": "records/sientje_mesdag_van_houten.json"
-  },
-  {
-    "id": "sodoma",
-    "name": "Содома",
-    "path": "records/sodoma.json"
   }
 ]

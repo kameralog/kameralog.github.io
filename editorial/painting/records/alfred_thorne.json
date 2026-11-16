@@ -1,0 +1,49 @@
+{
+  "id": "alfred_thorne",
+  "name": "Альфред Тёрне",
+  "latin": "Alfred Thörne",
+  "life": "1850–1916",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведский пейзажист Свен Альфред Тёрне. Для карточки выбрана живопись, а не найденные рядом фотография художника и его портрет работы Вильхельма Йенссона.",
+      "Выбран озёрный вид с усадьбой, 1886, масло на холсте 45 × 69 см. В библиотеке он продолжает тему воды и человеческого присутствия в пейзаже."
+    ],
+    "technique": [
+      "Масло на холсте; 45 × 69 см",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран озёрный вид с усадьбой, 1886, масло на холсте 45 × 69 см. В библиотеке он продолжает тему воды и человеческого присутствия в пейзаже.",
+    "caution": "Аукционный источник не выдаётся за нынешнее собрание. Подпись Alf. Thörne указана в паспорте внизу слева. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Alfred_Th%C3%B6rne"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Alfred_Th%C3%B6rne-Insj%C3%B6landskap_med_g%C3%A5rd.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=7614260"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_7614260",
+      "title": "Озёрный пейзаж с усадьбой",
+      "date": "1886",
+      "museum": "Собрание не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:Alfred_Th%C3%B6rne-Insj%C3%B6landskap_med_g%C3%A5rd.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

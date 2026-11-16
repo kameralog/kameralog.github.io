@@ -1,0 +1,49 @@
+{
+  "id": "robert_thegerstrom",
+  "name": "Роберт Тегерстрём",
+  "latin": "Robert Thegerström",
+  "life": "1857–1919",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец и график. Для карточки выбрана работа маслом, а не графический лист или портрет художника, написанный другим автором.",
+      "«Мотив из Сандхамна», 1915, продолжает географию шведских береговых видов. Материал и размер 46 × 61 см сохранены по паспорту конкретного файла."
+    ],
+    "technique": [
+      "Масло на холсте; 46 × 61 см",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: «Мотив из Сандхамна», 1915, продолжает географию шведских береговых видов. Материал и размер 46 × 61 см сохранены по паспорту конкретного файла.",
+    "caution": "Аукционная запись — источник изображения, не установленное нынешнее собрание. Подпись и дата отмечены внизу справа. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Robert_Thegerstr%C3%B6m"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Robert_Thegerstr%C3%B6m_-_Motiv_fr%C3%A5n_Sandhamn%2C_1915.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=21937356"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_21937356",
+      "title": "Мотив из Сандхамна",
+      "date": "1915",
+      "museum": "Собрание не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:Robert_Thegerstr%C3%B6m_-_Motiv_fr%C3%A5n_Sandhamn%2C_1915.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

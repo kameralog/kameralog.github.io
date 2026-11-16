@@ -1,0 +1,49 @@
+{
+  "id": "reinhold_norstedt",
+  "name": "Рейнхольд Норстедт",
+  "latin": "Reinhold Norstedt",
+  "life": "1843–1911",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведский пейзажист и портретист. Полное имя — Johan Reinhold Norstedt; варианты имени объединены в одной карточке.",
+      "Выбрана «Деревенская улица в лунном свете», 1883. Ночной мотив даёт учебное сопоставление с вечерними видами предыдущих десяток без утверждения о прямом влиянии."
+    ],
+    "technique": [
+      "Точная техника и размеры в прочитанной записи не указаны",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана «Деревенская улица в лунном свете», 1883. Ночной мотив даёт учебное сопоставление с вечерними видами предыдущих десяток без утверждения о прямом влиянии.",
+    "caution": "Оригинал 486 × 336 пикселей: низкая детализация, без увеличения. ArtNet — источник репродукции, не место хранения. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Reinhold_Norstedt"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Norstedt-Moonlight.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=57492880"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_57492880",
+      "title": "Деревенская улица в лунном свете",
+      "date": "1883",
+      "museum": "Нынешнее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Norstedt-Moonlight.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

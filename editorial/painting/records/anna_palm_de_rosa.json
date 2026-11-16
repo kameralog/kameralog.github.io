@@ -1,0 +1,53 @@
+{
+  "id": "anna_palm_de_rosa",
+  "name": "Анна Пальм де Роса",
+  "latin": "Anna Palm de Rosa",
+  "life": "1859–1924",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведская художница, известная акварелями со шведскими судами и видами Стокгольма. Во время пребывания в Скагене написала сцену карточной игры в отеле Брёндума.",
+      "Для карточки выбрана эта работа 1885 года из Skagens Museum. В музейном паспорте конкретной работы указана гуашь на бумаге, наклеенной на холст; общая известность как акварелиста не подменяет технику."
+    ],
+    "technique": [
+      "Гуашь на бумаге, наклеенной на холст",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Для карточки выбрана эта работа 1885 года из Skagens Museum. В музейном паспорте конкретной работы указана гуашь на бумаге, наклеенной на холст; общая известность как акварелиста не подменяет технику.",
+    "caution": "Техника взята из музейной записи Google Cultural Institute: не масло и не автоматически акварель. Датское место изображения не меняет шведского авторства. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Anna_Palm_de_Rosa"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=29867783"
+    },
+    {
+      "title": "Google Arts & Culture: музейный паспорт",
+      "url": "https://artsandculture.google.com/asset/a-game-of-l-hombre-in-br%C3%B8ndum-s-hotel/PgGB34Or82p_fw"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_29867783",
+      "title": "Игра в ломбер в отеле Брёндума",
+      "date": "1885",
+      "museum": "Skagens Museum",
+      "source": "https://commons.wikimedia.org/wiki/File:Anna_Palm_-_A_game_of_L%27hombre_in_Br%C3%B8ndum%27s_Hotel_-_Google_Art_Project.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

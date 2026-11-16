@@ -1,5 +1,30 @@
 [
   {
+    "id": "corrado_giaquinto",
+    "name": "Коррадо Джаквинто",
+    "path": "records/corrado_giaquinto.json"
+  },
+  {
+    "id": "christen_dalsgaard",
+    "name": "Кристен Дальсгор",
+    "path": "records/christen_dalsgaard.json"
+  },
+  {
+    "id": "christen_kobke",
+    "name": "Кристен Кёбке",
+    "path": "records/christen_kobke.json"
+  },
+  {
+    "id": "christian_august_lorentzen",
+    "name": "Кристиан Август Лорентцен",
+    "path": "records/christian_august_lorentzen.json"
+  },
+  {
+    "id": "christian_albrecht_jensen",
+    "name": "Кристиан Альбрехт Йенсен",
+    "path": "records/christian_albrecht_jensen.json"
+  },
+  {
     "id": "christian_blache",
     "name": "Кристиан Блаке",
     "path": "records/christian_blache.json"
@@ -473,30 +498,5 @@
     "id": "mariotto_albertinelli",
     "name": "Мариотто Альбертинелли",
     "path": "records/mariotto_albertinelli.json"
-  },
-  {
-    "id": "marie_bashkirtseff",
-    "name": "Мария Башкирцева",
-    "path": "records/marie_bashkirtseff.json"
-  },
-  {
-    "id": "maria_van_oosterwijck",
-    "name": "Мария ван Остервейк",
-    "path": "records/maria_van_oosterwijck.json"
-  },
-  {
-    "id": "maria_wiik",
-    "name": "Мария Виик",
-    "path": "records/maria_wiik.json"
-  },
-  {
-    "id": "maria_margaretha_van_os",
-    "name": "Мария Маргарета ван Ос",
-    "path": "records/maria_margaretha_van_os.json"
-  },
-  {
-    "id": "maria_oakey_dewing",
-    "name": "Мария Оуки Дьюинг",
-    "path": "records/maria_oakey_dewing.json"
   }
 ]

@@ -1,0 +1,53 @@
+{
+  "id": "anshelm_schultzberg",
+  "name": "Ансхельм Шульцберг",
+  "latin": "Anshelm Schultzberg",
+  "life": "1862–1945",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведский художник Ансхельм Леонард Шульцберг. Варианты Anshelm и Anselm сведены к одной авторской карточке.",
+      "Выбран большой зимний пейзаж 1893 года из Nationalmuseum, NM 1452. Он позволяет сравнить зимний мотив с Осслундом из батча 156, не объявляя их манеру одинаковой."
+    ],
+    "technique": [
+      "Масло на холсте; 180 × 236 см",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбран большой зимний пейзаж 1893 года из Nationalmuseum, NM 1452. Он позволяет сравнить зимний мотив с Осслундом из батча 156, не объявляя их манеру одинаковой.",
+    "caution": "Подпись и дата в паспорте: SCHULTZBERG 1893 GRANGÄRDE. TIFF показывается через JPEG-производные. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Anshelm_Schultzberg"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:A_Winter_Morning_after_a_Snowfall_in_Dalarna_%28Anshelm_Schultzberg%29_-_Nationalmuseum_-_18455.tif"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=52122114"
+    },
+    {
+      "title": "Nationalmuseum: паспорт работы",
+      "url": "https://collection.nationalmuseum.se/sv/collection/item/18455/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_52122114",
+      "title": "Зимнее утро после снегопада в Даларне",
+      "date": "1893",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Winter_Morning_after_a_Snowfall_in_Dalarna_%28Anshelm_Schultzberg%29_-_Nationalmuseum_-_18455.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

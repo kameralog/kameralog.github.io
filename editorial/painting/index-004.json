@@ -1,5 +1,25 @@
 [
   {
+    "id": "jorgen_sonne",
+    "name": "Йёрген Зонне",
+    "path": "records/jorgen_sonne.json"
+  },
+  {
+    "id": "jorgen_roed",
+    "name": "Йёрген Рёд",
+    "path": "records/jorgen_roed.json"
+  },
+  {
+    "id": "joakim_skovgaard",
+    "name": "Йоаким Сковгор",
+    "path": "records/joakim_skovgaard.json"
+  },
+  {
+    "id": "joachim_beuckelaer",
+    "name": "Йоахим Бейкелар",
+    "path": "records/joachim_beuckelaer.json"
+  },
+  {
     "id": "joachim_patinir",
     "name": "Йоахим Патинир",
     "path": "records/joachim_patinir.json"
@@ -123,6 +143,11 @@
     "id": "johan_edvard_bergh",
     "name": "Йохан Эдвард Берг",
     "path": "records/johan_edvard_bergh.json"
+  },
+  {
+    "id": "johan_ericson",
+    "name": "Йохан Эриксон",
+    "path": "records/johan_ericson.json"
   },
   {
     "id": "johann_koler",
@@ -473,30 +498,5 @@
     "id": "cornelis_engebrechtsz",
     "name": "Корнелис Энгелбрехтс",
     "path": "records/cornelis_engebrechtsz.json"
-  },
-  {
-    "id": "corrado_giaquinto",
-    "name": "Коррадо Джаквинто",
-    "path": "records/corrado_giaquinto.json"
-  },
-  {
-    "id": "christen_dalsgaard",
-    "name": "Кристен Дальсгор",
-    "path": "records/christen_dalsgaard.json"
-  },
-  {
-    "id": "christen_kobke",
-    "name": "Кристен Кёбке",
-    "path": "records/christen_kobke.json"
-  },
-  {
-    "id": "christian_august_lorentzen",
-    "name": "Кристиан Август Лорентцен",
-    "path": "records/christian_august_lorentzen.json"
-  },
-  {
-    "id": "christian_albrecht_jensen",
-    "name": "Кристиан Альбрехт Йенсен",
-    "path": "records/christian_albrecht_jensen.json"
   }
 ]

@@ -1,0 +1,53 @@
+{
+  "id": "herman_norrman",
+  "name": "Херман Норрман",
+  "latin": "Herman Norrman",
+  "life": "1864–1906",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведский художник Херман Норрман, представленный в Nationalmuseum. Идентичность автора и годы 1864–1906 сверены с музейными записями.",
+      "Выбраны «Тени облаков», NM 2917. Музей указывает интервал 1899–1902 и размер 117 × 117 см; категория изображения не заменяет этот паспорт."
+    ],
+    "technique": [
+      "Масло на холсте; 117 × 117 см",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбраны «Тени облаков», NM 2917. Музей указывает интервал 1899–1902 и размер 117 × 117 см; категория изображения не заменяет этот паспорт.",
+    "caution": "1899–1902 подтверждено музеем; категория Commons с 1902 годом не сужает датировку. Цифровой файл 988 × 1000 отличается пропорциями от квадратного холста; причина визуально не установлена. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://collection.nationalmuseum.se/en/artists/artist/7621/"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Herman_Norrman_-_Cloud_Shadows_-_NM_2917_-_Nationalmuseum.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=103232339"
+    },
+    {
+      "title": "Nationalmuseum: паспорт работы",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/19971/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_103232339",
+      "title": "Тени облаков",
+      "date": "1899–1902",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Herman_Norrman_-_Cloud_Shadows_-_NM_2917_-_Nationalmuseum.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

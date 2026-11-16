@@ -1,5 +1,20 @@
 [
   {
+    "id": "anton_hansch",
+    "name": "Антон Ханш",
+    "path": "records/anton_hansch.json"
+  },
+  {
+    "id": "anton_eduard_kieldrup",
+    "name": "Антон Эдуард Кильдруп",
+    "path": "records/anton_eduard_kieldrup.json"
+  },
+  {
+    "id": "antonello_da_messina",
+    "name": "Антонелло да Мессина",
+    "path": "records/antonello_da_messina.json"
+  },
+  {
     "id": "anthonie_palamedesz",
     "name": "Антони Паламедес",
     "path": "records/anthonie_palamedesz.json"
@@ -483,20 +498,5 @@
     "id": "vilhelms_purvitis",
     "name": "Вильгельм Пурвитис",
     "path": "records/vilhelms_purvitis.json"
-  },
-  {
-    "id": "vilmos_aba_novak",
-    "name": "Вильмош Аба-Новак",
-    "path": "records/vilmos_aba_novak.json"
-  },
-  {
-    "id": "vilmos_perlrott_csaba",
-    "name": "Вильмош Перлротт-Чаба",
-    "path": "records/vilmos_perlrott_csaba.json"
-  },
-  {
-    "id": "vilhelm_groth",
-    "name": "Вильхельм Грот",
-    "path": "records/vilhelm_groth.json"
   }
 ]

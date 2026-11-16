@@ -225,6 +225,11 @@
     "path": "records/alfred_sisley.json"
   },
   {
+    "id": "alfred_thorne",
+    "name": "Альфред Тёрне",
+    "path": "records/alfred_thorne.json"
+  },
+  {
     "id": "alfred_william_finch",
     "name": "Альфред Уильям Финч",
     "path": "records/alfred_william_finch.json"
@@ -395,6 +400,11 @@
     "path": "records/anna_lea_merritt.json"
   },
   {
+    "id": "anna_palm_de_rosa",
+    "name": "Анна Пальм де Роса",
+    "path": "records/anna_palm_de_rosa.json"
+  },
+  {
     "id": "anna_petersen",
     "name": "Анна Петерсен",
     "path": "records/anna_petersen.json"
@@ -445,6 +455,11 @@
     "path": "records/ans_van_den_berg.json"
   },
   {
+    "id": "anshelm_schultzberg",
+    "name": "Ансхельм Шульцберг",
+    "path": "records/anshelm_schultzberg.json"
+  },
+  {
     "id": "antanas_zmuidzinavicius",
     "name": "Антанас Жмуйдзинавичюс",
     "path": "records/antanas_zmuidzinavicius.json"
@@ -483,20 +498,5 @@
     "id": "anton_faistauer",
     "name": "Антон Файстауэр",
     "path": "records/anton_faistauer.json"
-  },
-  {
-    "id": "anton_hansch",
-    "name": "Антон Ханш",
-    "path": "records/anton_hansch.json"
-  },
-  {
-    "id": "anton_eduard_kieldrup",
-    "name": "Антон Эдуард Кильдруп",
-    "path": "records/anton_eduard_kieldrup.json"
-  },
-  {
-    "id": "antonello_da_messina",
-    "name": "Антонелло да Мессина",
-    "path": "records/antonello_da_messina.json"
   }
 ]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "giovanni_benedetto_castiglione",
+    "name": "Джованни Бенедетто Кастильоне",
+    "path": "records/giovanni_benedetto_castiglione.json"
+  },
+  {
+    "id": "giovanni_bilivert",
+    "name": "Джованни Биливерт",
+    "path": "records/giovanni_bilivert.json"
+  },
+  {
+    "id": "giovanni_da_san_giovanni",
+    "name": "Джованни да Сан-Джованни",
+    "path": "records/giovanni_da_san_giovanni.json"
+  },
+  {
+    "id": "giovanni_giacometti",
+    "name": "Джованни Джакометти",
+    "path": "records/giovanni_giacometti.json"
+  },
+  {
     "id": "giovanni_girolamo_savoldo",
     "name": "Джованни Джироламо Савольдо",
     "path": "records/giovanni_girolamo_savoldo.json"
@@ -478,25 +498,5 @@
     "id": "jens_juel",
     "name": "Йенс Юль",
     "path": "records/jens_juel.json"
-  },
-  {
-    "id": "jorgen_sonne",
-    "name": "Йёрген Зонне",
-    "path": "records/jorgen_sonne.json"
-  },
-  {
-    "id": "jorgen_roed",
-    "name": "Йёрген Рёд",
-    "path": "records/jorgen_roed.json"
-  },
-  {
-    "id": "joakim_skovgaard",
-    "name": "Йоаким Сковгор",
-    "path": "records/joakim_skovgaard.json"
-  },
-  {
-    "id": "joachim_beuckelaer",
-    "name": "Йоахим Бейкелар",
-    "path": "records/joachim_beuckelaer.json"
   }
 ]

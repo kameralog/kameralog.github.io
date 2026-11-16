@@ -1,0 +1,49 @@
+{
+  "id": "elisabeth_keyser",
+  "name": "Элизабет Кейзер",
+  "latin": "Elisabeth Keyser",
+  "life": "1851–1898",
+  "tag": "Швеция · пейзаж, портрет и жанровая сцена",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-157.js",
+  "existing": {
+    "bio": [
+      "Шведская художница Хильда Элизабет Кейзер. Полное и сокращённое имя объединены в одной карточке.",
+      "Выбрана «Выгрузка улова. Арильд», 1889, масло на холсте 36 × 44,5 см. Береговой жанровый мотив связывает десятку с Лохером и Бьёрком без утверждения о прямом влиянии."
+    ],
+    "technique": [
+      "Масло на холсте; 36 × 44,5 см",
+      "Физические размеры: высота × ширина; исключения отмечены."
+    ],
+    "innovation": "Учебная связь: Выбрана «Выгрузка улова. Арильд», 1889, масло на холсте 36 × 44,5 см. Береговой жанровый мотив связывает десятку с Лохером и Бьёрком без утверждения о прямом влиянии.",
+    "caution": "Размеры даны как высота × ширина. Аукционный источник не выдаётся за нынешнее место хранения. Русское название — редакционный перевод. Независимый визуальный осмотр и полнота композиции не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Биографическая справка об авторе",
+      "url": "https://en.wikipedia.org/wiki/Elisabeth_Keyser"
+    },
+    {
+      "title": "Commons: конкретная репродукция и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Elisabeth_Keyser-F%C3%A5ngsten_b%C3%A4rgas.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=7642631"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting157_commons_7642631",
+      "title": "Выгрузка улова. Арильд",
+      "date": "1889",
+      "museum": "Собрание не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:Elisabeth_Keyser-F%C3%A5ngsten_b%C3%A4rgas.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

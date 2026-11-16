@@ -1,5 +1,30 @@
 [
   {
+    "id": "marie_bashkirtseff",
+    "name": "Мария Башкирцева",
+    "path": "records/marie_bashkirtseff.json"
+  },
+  {
+    "id": "maria_van_oosterwijck",
+    "name": "Мария ван Остервейк",
+    "path": "records/maria_van_oosterwijck.json"
+  },
+  {
+    "id": "maria_wiik",
+    "name": "Мария Виик",
+    "path": "records/maria_wiik.json"
+  },
+  {
+    "id": "maria_margaretha_van_os",
+    "name": "Мария Маргарета ван Ос",
+    "path": "records/maria_margaretha_van_os.json"
+  },
+  {
+    "id": "maria_oakey_dewing",
+    "name": "Мария Оуки Дьюинг",
+    "path": "records/maria_oakey_dewing.json"
+  },
+  {
     "id": "maria_sibylla_merian",
     "name": "Мария Сибилла Мериан",
     "path": "records/maria_sibylla_merian.json"
@@ -473,30 +498,5 @@
     "id": "paolo_veronese",
     "name": "Паоло Веронезе",
     "path": "records/paolo_veronese.json"
-  },
-  {
-    "id": "paolo_porpora",
-    "name": "Паоло Порпора",
-    "path": "records/paolo_porpora.json"
-  },
-  {
-    "id": "paolo_uccello",
-    "name": "Паоло Уччелло",
-    "path": "records/paolo_uccello.json"
-  },
-  {
-    "id": "parmigianino",
-    "name": "Пармиджанино",
-    "path": "records/parmigianino.json"
-  },
-  {
-    "id": "paul_bril",
-    "name": "Пауль Бриль",
-    "path": "records/paul_bril.json"
-  },
-  {
-    "id": "klee",
-    "name": "Пауль Клее",
-    "path": "records/klee.json"
   }
 ]
