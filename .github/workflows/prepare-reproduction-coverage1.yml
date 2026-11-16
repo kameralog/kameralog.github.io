@@ -1,0 +1,74 @@
+name: Prepare first reproduction coverage research queue
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/prepare-reproduction-coverage1.yml']
+permissions:
+  contents: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Select research candidates without modifying artist cards
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          import {execFileSync} from 'node:child_process';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const sha256=s=>createHash('sha256').update(s).digest('hex');
+          const jsonPath='reports/reproduction-queue/coverage-001.json',csvPath='reports/reproduction-queue/coverage-001.csv';
+          assert(!fs.existsSync(jsonPath)&&!fs.existsSync(csvPath),'Queue already exists; do not overwrite');
+          const sourceCommit=execFileSync('git',['rev-parse','HEAD'],{encoding:'utf8'}).trim();
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0];
+          const {read,getCards}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,getCards};').toString('base64'));
+          const index=fs.readFileSync('index.html','utf8'),cards=getCards(index),artists={},owners={},sourceFiles=[];
+          const files=fs.readdirSync('.').filter(f=>/^artists-batch-\d+\.js$/.test(f)).sort((a,b)=>Number(a.match(/\d+/)[0])-Number(b.match(/\d+/)[0]));
+          for(const file of files){const source=fs.readFileSync(file,'utf8');const entries=read(source,cards);sourceFiles.push({file,gitBlob:blob(source)});for(const[id,a]of Object.entries(entries)){artists[id]=a;owners[id]={file,gitBlob:blob(source)};}}
+          assert(Object.keys(artists).length>0,'Registry is empty');
+          const historical=[],protectedFiles=[];
+          for(let n=1;n<=10;n++){const path='reports/wiki-batches/batch-'+String(n).padStart(3,'0')+'.json';const bytes=fs.readFileSync(path);protectedFiles.push({path,hash:sha256(bytes)});const j=JSON.parse(bytes);if(n===1)for(const r of j.deferred||[])historical.push({number:r[0],artistId:r[2],workId:r[1]});else for(const r of j.reviewResults||[])if(r.status==='deferred')historical.push(r);}
+          const resolved=new Set();
+          for(const file of fs.readdirSync('reports/wiki-batches').filter(f=>/^deferred-.*\.json$/.test(f))){const path='reports/wiki-batches/'+file,bytes=fs.readFileSync(path),j=JSON.parse(bytes);protectedFiles.push({path,hash:sha256(bytes)});for(const r of j.reviewResults||[])if(['connected_pending_site_verification','published_catalogue_verified'].includes(r.status)&&r.work)resolved.add(r.sourceNumber);}
+          const paused=historical.filter(r=>!resolved.has(r.number));
+          const excluded=new Set(paused.map(r=>r.artistId||r.originalArtistId).filter(Boolean));
+          const eligible=[];let emptyWorksArtists=0,excludedEmptyArtists=0;
+          for(const[id,a]of Object.entries(artists)){if(!a||typeof a.name!=='string'||(a.works||[]).length!==0)continue;emptyWorksArtists++;if(excluded.has(id)){excludedEmptyArtists++;continue;}
+          const seen=new Set();const pending=(a.pendingWorks||[]).filter(w=>{if(!w||typeof w.title!=='string'||!w.title.trim()||typeof w.source!=='string'||!/^https?:\/\//.test(w.source)||w.image)return false;if(/подобрать|избранные произведения|произведение не выбрано/i.test(w.title))return false;const key=w.source+'|'+w.title;if(seen.has(key))return false;seen.add(key);return true;});
+          if(pending.length)eligible.push({id,a,pending,owner:owners[id]});}
+          const collator=new Intl.Collator('ru');eligible.sort((a,b)=>collator.compare(a.a.name,b.a.name)||a.id.localeCompare(b.id));
+          const selected=[];for(let round=0;selected.length<50;round++){let added=0;for(const c of eligible){const w=c.pending[round];if(!w)continue;const fingerprint=sha256(JSON.stringify(w));selected.push({number:selected.length+1,queueKey:c.id+':'+fingerprint.slice(0,16),artistId:c.id,artistName:c.a.name,latin:c.a.latin||'',sourceModule:'games/painting/'+c.owner.file,sourceModuleGitBlob:c.owner.gitBlob,existingWorksCount:0,originalPendingKey:w.key||null,pendingWorkFingerprint:fingerprint,title:w.title,date:w.date||'',museum:w.museum||'',source:w.source,originalPending:w,status:'research_pending',imageSearchStatus:'not_started',identityCheckStatus:'not_started',licenceCheckStatus:'not_started',imageDeliveryStatus:'not_started',readyToBind:false});added++;if(selected.length===50)break;}if(!added)break;}
+          assert(new Set(selected.map(r=>r.queueKey)).size===selected.length);assert(selected.every(r=>!excluded.has(r.artistId)));
+          const report={schemaVersion:1,series:'coverage',batch:1,requestedBatchSize:50,actualBatchSize:selected.length,status:selected.length===50?'research_queue_prepared':'insufficient_pending_candidates',sourceCommit,createdAtUTC:new Date().toISOString(),moduleArtistCount:Object.keys(artists).length,sourceModules:sourceFiles,emptyWorksArtists,excludedEmptyArtists,eligibleArtists:eligible.length,eligiblePendingWorks:eligible.reduce((s,c)=>s+c.pending.length,0),selectedArtistCount:new Set(selected.map(r=>r.artistId)).size,shortfall:50-selected.length,pausedDeferredSourceNumbers:paused.map(r=>r.number).sort((a,b)=>a-b),imagesVerifiedCount:null,readyToBindCount:0,records:selected,notes:['Новая очередь исследования, не продолжение нумерации 495 записей Уффици.','Отобраны только карточки исходных artists-batch-модулей с пустым works и конкретными pendingWorks. Отдельные базовые карточки index.html не отбираются этим проходом.','unresearched в редакторском экспорте не использован как признак отсутствия изображений.','Сначала одна работа на художника, затем следующие работы при нехватке разных художников; порядок художников по русскому имени.','Карточки, связанные с оставшимися отложенными записями, исключены из этого прохода.','Изображения не искались, права не проверялись, привязки не создавались.','Количество работ в очереди не является числом найденных или готовых репродукций.']};
+          fs.mkdirSync('reports/reproduction-queue',{recursive:true});fs.writeFileSync(jsonPath,JSON.stringify(report,null,2)+'\n');
+          const cell=v=>{let s=String(v??'');if(/^[=+@-]/.test(s))s="'"+s;return '"'+s.replace(/"/g,'""')+'"';};
+          const table=[['Номер','ID художника','Художник','Работа','Датировка','Собрание','Исходный источник','Модуль','Статус поиска'],...selected.map(r=>[r.number,r.artistId,r.artistName,r.title,r.date,r.museum,r.source,r.sourceModule,r.imageSearchStatus])];
+          fs.writeFileSync(csvPath,'\ufeff'+table.map(row=>row.map(cell).join(';')).join('\n')+'\n');
+          assert.equal(fs.readFileSync('index.html','utf8'),index);for(const s of sourceFiles)assert.equal(blob(fs.readFileSync(s.file)),s.gitBlob);for(const p of protectedFiles)assert.equal(sha256(fs.readFileSync(p.path)),p.hash);
+          const summary={sourceCommit,moduleArtistCount:report.moduleArtistCount,emptyWorksArtists,eligibleArtists:eligible.length,selectedRecords:selected.length,selectedArtists:report.selectedArtistCount,shortfall:report.shortfall,pausedDeferred:paused.length};
+          fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY,'```json\n'+JSON.stringify(summary,null,2)+'\n```\n');
+          NODE
+          git diff --exit-code -- index.html artists.js 'artists-batch-*.js' reports/wiki-batches
+      - name: Commit only the new research queue
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/reports/reproduction-queue/coverage-001.json games/painting/reports/reproduction-queue/coverage-001.csv
+          git commit -m 'Record first research queue for unillustrated artist cards'
+          git push origin HEAD:main
