@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "0956dfaf5cfe1d9e076f5887f3e982fe5d6f3695",
+  "sourceCommit": "d72cca78a1786a2885a250cb1a77e93956f0f23a",
   "catalogueCount": 1116,
-  "connectedPackageCount": 38,
-  "connectedDossierCount": 413,
+  "connectedPackageCount": 39,
+  "connectedDossierCount": 423,
   "connectedIds": [
     "abraham_bloemaert",
     "abraham_brueghel",
@@ -90,9 +90,19 @@
     "anne_vallayer_coster",
     "annibale_carracci",
     "ans_van_den_berg",
+    "anshelm_schultzberg",
+    "antanas_zmuidzinavicius",
     "anthonie_palamedesz",
     "antoine_watteau",
+    "anton_domenico_gabbiani",
+    "anton_eduard_kieldrup",
+    "anton_faistauer",
+    "anton_hansch",
+    "anton_kolig",
+    "anton_mahringer",
+    "anton_melbye",
     "anton_raphael_mengs",
+    "anton_romako",
     "antonello_da_messina",
     "arnold_bocklin",
     "artemisia_gentileschi",
@@ -421,58 +431,8 @@
   ],
   "unconnectedPackageFiles": [],
   "unconnectedIds": [],
-  "remainingCount": 703,
+  "remainingCount": 693,
   "next50": [
-    {
-      "id": "anshelm_schultzberg",
-      "name": "Ансхельм Шульцберг",
-      "path": "records/anshelm_schultzberg.json"
-    },
-    {
-      "id": "antanas_zmuidzinavicius",
-      "name": "Антанас Жмуйдзинавичюс",
-      "path": "records/antanas_zmuidzinavicius.json"
-    },
-    {
-      "id": "anton_domenico_gabbiani",
-      "name": "Антон Доменико Габбиани",
-      "path": "records/anton_domenico_gabbiani.json"
-    },
-    {
-      "id": "anton_kolig",
-      "name": "Антон Колиг",
-      "path": "records/anton_kolig.json"
-    },
-    {
-      "id": "anton_mahringer",
-      "name": "Антон Марингер",
-      "path": "records/anton_mahringer.json"
-    },
-    {
-      "id": "anton_melbye",
-      "name": "Антон Мельбю",
-      "path": "records/anton_melbye.json"
-    },
-    {
-      "id": "anton_romako",
-      "name": "Антон Ромако",
-      "path": "records/anton_romako.json"
-    },
-    {
-      "id": "anton_faistauer",
-      "name": "Антон Файстауэр",
-      "path": "records/anton_faistauer.json"
-    },
-    {
-      "id": "anton_hansch",
-      "name": "Антон Ханш",
-      "path": "records/anton_hansch.json"
-    },
-    {
-      "id": "anton_eduard_kieldrup",
-      "name": "Антон Эдуард Кильдруп",
-      "path": "records/anton_eduard_kieldrup.json"
-    },
     {
       "id": "antonin_slavicek",
       "name": "Антонин Славичек",
@@ -672,12 +632,62 @@
       "id": "bohumil_kubista",
       "name": "Богумил Кубишта",
       "path": "records/bohumil_kubista.json"
+    },
+    {
+      "id": "bon_boullogne",
+      "name": "Бон Булонь",
+      "path": "records/bon_boullogne.json"
+    },
+    {
+      "id": "bonaventura_peeters_the_elder",
+      "name": "Бонавентура Петерс Старший",
+      "path": "records/bonaventura_peeters_the_elder.json"
+    },
+    {
+      "id": "kustodiev",
+      "name": "Борис Кустодиев",
+      "path": "records/kustodiev.json"
+    },
+    {
+      "id": "bruno_liljefors",
+      "name": "Бруно Лильефорс",
+      "path": "records/bruno_liljefors.json"
+    },
+    {
+      "id": "bhawani_das",
+      "name": "Бхавани Дас",
+      "path": "records/bhawani_das.json"
+    },
+    {
+      "id": "banksy",
+      "name": "Бэнкси",
+      "path": "records/banksy.json"
+    },
+    {
+      "id": "violet_teague",
+      "name": "Вайолет Тиг",
+      "path": "records/violet_teague.json"
+    },
+    {
+      "id": "serov",
+      "name": "Валентин Серов",
+      "path": "records/serov.json"
+    },
+    {
+      "id": "valerio_castello",
+      "name": "Валерио Кастелло",
+      "path": "records/valerio_castello.json"
+    },
+    {
+      "id": "wally_moes",
+      "name": "Валли Мус",
+      "path": "records/wally_moes.json"
     }
   ],
   "inputSHA256": {
     "editorial/painting/manifest.json": "f32592c3d2ee168782eea7372a63a916ad3a36b4edc54ce4a66dc83b85e0c594",
-    "editorial/painting/research/manifest.json": "b68472b1228015ff1ca4aca5791427730d5aaf7b606bf278dd0308b35ea9f409",
-    "editorial/painting/summary.json": "b09db713cb08f90ee22935ef823554e2859b5af59edd2f384c05a922947816cc",
+    "editorial/painting/research/manifest.json": "3dcbd1af91c74c28e946e557064c0567a2163db7681c0c650a01a52ecb7fe820",
+    "editorial/painting/summary.json": "74915adac25aa7a578da3761737632b38d1b72c96fad526e11c7405bd749a41f",
     "editorial/painting/index-000.json": "1e5b3705e300632523bdcb462c9d6294373ec3d303cbc7314e283203dd98e8c5",
     "editorial/painting/index-001.json": "3695e9cbfff33af198bf88e370b63ca9a7d4831ffe81085436ce1a6bdb57a0c4",
     "editorial/painting/index-002.json": "67dd8986bfc852a94595ab16f9b8cd5f32f349c60fcdafefa9fa2a663cd3dc80",
@@ -728,16 +738,7 @@
     "editorial/painting/research/batch-015d.json": "9fe99abe2de5e776b04b4bb8b1fa9c3ea9914658be2fd95a54ea7f59954ab5f6",
     "editorial/painting/research/batch-015e.json": "2d6993d76e7524c062a7e7f9b43fb2e03a60682cb0faf212e1dcd95599da23c0",
     "editorial/painting/research/batch-016a.json": "d5511a46c26813d8132de14ddf44b3e4ca43eebbf7217a8a8d66d9536b319044",
-    "editorial/painting/records/anshelm_schultzberg.json": "4a8e350436e0224e3c0b7cdd8d8f542433182eb7608bbe29cfb8e7a32dcbf1d5",
-    "editorial/painting/records/antanas_zmuidzinavicius.json": "2249ff42e8112b092d894b331cfc197f6d34ba6f37827fa525a2f2caa275b8dd",
-    "editorial/painting/records/anton_domenico_gabbiani.json": "caed6c4b4bdb3b8d749df65549e8fa2dda64cce8b1b7e151cce8948ee2c690b5",
-    "editorial/painting/records/anton_kolig.json": "635ab0309290eb867a7cb2aa346ab941dc5ae877174c37c5a9e78e73074e80d7",
-    "editorial/painting/records/anton_mahringer.json": "e7cb993ba4963e21832124d13ab90d4c71320152eb87afa43dedfa280ab0aca1",
-    "editorial/painting/records/anton_melbye.json": "fbf9e1d77a83a3df7e95d23368a34be66280c1acc475763a4f96fdb664efb44b",
-    "editorial/painting/records/anton_romako.json": "0bad7c51c102cefb18cc270fc465e1c05d5446ce7d444c818e42feec08687e45",
-    "editorial/painting/records/anton_faistauer.json": "8522c1dc72d75556ad59e8f37c9c72c9e64ceb67e60fe82e0542224409828eaa",
-    "editorial/painting/records/anton_hansch.json": "2c76fab92001664a06ab19c6de3d26004ee40046ec7287f35a0801bb6cad58a1",
-    "editorial/painting/records/anton_eduard_kieldrup.json": "5c642381b32f00ffd60be69526342a9b6e8a74af632030ef5168787a426b9305",
+    "editorial/painting/research/batch-016b.json": "730c1ce000945af2d746db351a08b27d647f39e395405d93361a909464e53c16",
     "editorial/painting/records/antonin_slavicek.json": "dccb9a6cb80310ae71293fcaf1ba6e8c097b9a97562ef21aed89840f8393b34e",
     "editorial/painting/records/antonin_chittussi.json": "9cd37ed8a8c8a84d0cbbbfab8fa8124b0584ad4778e607bba86377d43356e063",
     "editorial/painting/records/antonio_joli.json": "2da77ccf41dfd39a04f37d986d789bb4810add5520f6fde95a1f762e0bd7736d",
@@ -777,7 +778,17 @@
     "editorial/painting/records/betzy_akersloot_berg.json": "33cfc40b0dfea5aa3252070b8c9b4ce1d6e47fd226379760c4a67c7ce62ae8d1",
     "editorial/painting/records/betsy_westendorp_osieck.json": "5cc69fff082ef552883d515784c768d8a00376b0cd33d7d3b6a82d92dedccb39",
     "editorial/painting/records/bichitr.json": "f63c3da73453fc988402828e3f56b5e4ba0f0f3c86a6f0cf7fd8a177f94fcc64",
-    "editorial/painting/records/bohumil_kubista.json": "2e8134e099aee732482703c054820aaeea7ddf3100106401b6dcdb7bb1f422db"
+    "editorial/painting/records/bohumil_kubista.json": "2e8134e099aee732482703c054820aaeea7ddf3100106401b6dcdb7bb1f422db",
+    "editorial/painting/records/bon_boullogne.json": "03744be4e3dc12c8f7e6b5edcddea295552b77c848fde9688e067b16a3946af8",
+    "editorial/painting/records/bonaventura_peeters_the_elder.json": "0147044bb3257272944fb687902e569ef0c7dd22a9198607bec0e73e254298ba",
+    "editorial/painting/records/kustodiev.json": "f874b5719307b09d25401105f21dafe7e581739c4fc05d5ee98c9ad3241b15e5",
+    "editorial/painting/records/bruno_liljefors.json": "4fd9133a96dadf95017ed9fc6d6716ebdab861b7d24cfd3159db5df1621df1ff",
+    "editorial/painting/records/bhawani_das.json": "0101e334df27e6a73bf74e47a8fc4f15e4958cfe385ed874300cf7741dd1863d",
+    "editorial/painting/records/banksy.json": "cab7eb3858805e0fc73f348d33ad280e20614197c726e834924ae5d7466650f2",
+    "editorial/painting/records/violet_teague.json": "8c4741fa44a03047d201e6f730c69f60e4f62cf611f7f6af472d4cd1f39f0ce4",
+    "editorial/painting/records/serov.json": "68323b025cc55a4e1d16898400cc16a828ce17802dcd3c3ae76ff8ba10aedf35",
+    "editorial/painting/records/valerio_castello.json": "3ecfa26bdac40cfbfcc56bbd6b340557f624bc461377eea30cd8cc2c0438890f",
+    "editorial/painting/records/wally_moes.json": "6a9c6614ca37d618717103b44054e7e73baef0890456f5beae361b182af7b9f7"
   },
   "verificationScope": "ID, path, structure and count checks only; not historical, visual or rights verification"
 }
