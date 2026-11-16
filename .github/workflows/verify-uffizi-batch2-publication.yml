@@ -1,0 +1,93 @@
+name: Verify publication of wiki batch two
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/verify-uffizi-batch2-publication.yml']
+permissions:
+  contents: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Recheck live catalogue and update only batch-two report
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import datetime
+          import hashlib
+          import json
+          import os
+          import pathlib
+          import subprocess
+          import time
+          root = pathlib.Path.cwd()
+          p = root / 'games/painting/reports/wiki-batches/batch-002.json'
+          original = p.read_bytes()
+          blob = lambda data: hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest()
+          assert blob(original) == 'eb22235c010a6866ba1e35c22a9f3a241e382b21', 'Report changed; review again'
+          report = json.loads(original)
+          assert report['status'] == 'connected_publication_pending'
+          selected = [r for r in report['reviewResults'] if r.get('work')]
+          assert len(selected) == report['newlyConnected'] == 46
+          assert len({r['work']['key'] for r in selected}) == 46
+          catalogue = root / 'games/painting/artists.js'
+          expected = catalogue.read_bytes()
+          reviewed_blob = subprocess.check_output(['git','rev-parse','f174921bc5a38f6be3f823dbd1d14ad809c38e86:games/painting/artists.js'],text=True).strip()
+          assert blob(expected) == reviewed_blob, 'Catalogue changed since review'
+          protected = {x:x.read_bytes() for x in (root/'games/painting/reports/wiki-batches').glob('batch-*.json') if x != p}
+          index = root / 'games/painting/index.html'
+          index_before = index.read_bytes()
+          live_path = pathlib.Path(os.environ['RUNNER_TEMP']) / 'batch2-publication-live.js'
+          matched = False
+          for attempt in range(12):
+              url = 'https://kameralog.github.io/games/painting/artists.js?verify-batch2='+os.environ['GITHUB_RUN_ID']+'-'+str(attempt)
+              result = subprocess.run(['curl','--fail','--silent','--show-error','--compressed','--location','--connect-timeout','5','--max-time','20',url,'-o',str(live_path)])
+              if result.returncode == 0 and live_path.read_bytes() == expected:
+                  matched = True
+                  break
+              time.sleep(10)
+          assert matched, 'Live catalogue did not match; report not changed'
+          live_text = live_path.read_text(encoding='utf-8')
+          for row in selected:
+              literal = json.dumps(row['work'],ensure_ascii=False,separators=(',',':'))
+              assert literal in live_text, 'Work record differs or is missing: '+row['work']['key']
+          previous = report['status']
+          report['status'] = 'published_catalogue_verified_rendered_pages_pending'
+          report['liveArtistsJsMatchesMain'] = True
+          report['livePublishedRecords'] = 46
+          report['renderedPagesVerified'] = False
+          report['fullVisualReview'] = False
+          report['remainingChecks'] = [x for x in report.get('remainingChecks',[]) if x != 'live_publication']
+          if 'rendered_artist_pages' not in report['remainingChecks']:
+              report['remainingChecks'].append('rendered_artist_pages')
+          for row in selected:
+              row['status'] = 'published_catalogue_verified'
+          report['publicationRecheck'] = {
+              'previousStatus':previous,
+              'verifiedAtUTC':datetime.datetime.now(datetime.timezone.utc).isoformat(),
+              'verifiedCommit':subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip(),
+              'catalogueGitBlob':blob(expected),
+              'catalogueSHA256':hashlib.sha256(expected).hexdigest(),
+              'matchingEmbeddedWorkRecords':46,
+              'method':'Byte equality of live and checked-out catalogue plus exact embedded work records; no rendered-page review',
+              'workflowRun':'https://github.com/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']
+          }
+          assert p.read_bytes() == original
+          p.write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+          assert catalogue.read_bytes() == expected and index.read_bytes() == index_before
+          for path, content in protected.items():
+              assert path.read_bytes() == content, 'Another batch report changed'
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/reports/wiki-batches/batch-002.json
+          git commit -m 'Record rechecked publication of all 46 wiki batch-two bindings'
+          git push origin HEAD:main
