@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "label": "coverage-001 first ten: candidate files for technical checks, not approved bindings",
+  "items": [
+    {
+      "id": "coverage001_003_adolph_tidemand",
+      "file": "File:Adolph Tidemand - Low Church Devotion - Google Art Project.jpg"
+    },
+    {
+      "id": "coverage001_010_alexander_laureus",
+      "file": "File:Alexander Lauréus - Party at the Parsonage - A-2002-563 - Finnish National Gallery.jpg"
+    },
+    {
+      "id": "coverage001_017_albert_edelfelt",
+      "file": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg"
+    },
+    {
+      "id": "coverage001_020_amalia_lindegren",
+      "file": "File:Söndagsafton i en dalstuga utan ram.jpg"
+    },
+    {
+      "id": "coverage001_021_amaldus_nielsen",
+      "file": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg"
+    },
+    {
+      "id": "coverage001_022_amanda_sidwall",
+      "file": "File:Portrait of a Girl (Amanda Sidvall) - Nationalmuseum - 133153.tif"
+    },
+    {
+      "id": "coverage001_023_amelie_lundahl",
+      "file": "File:Amélie Lundahl - The Garden Girl.jpg"
+    },
+    {
+      "id": "coverage001_027_anna_de_weert",
+      "file": "File:Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B.jpg"
+    },
+    {
+      "id": "coverage001_042_asta_norregaard",
+      "file": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg"
+    },
+    {
+      "id": "coverage001_043_astrid_holm",
+      "file": "File:Astrid Holm, Rose dækker bord, 1914, KMS8558, Statens Museum for Kunst.jpg"
+    }
+  ]
+}

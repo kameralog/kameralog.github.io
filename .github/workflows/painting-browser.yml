@@ -33,9 +33,29 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+      - name: Select changed manifest for push runs
+        if: github.event_name == 'push'
+        env:
+          PUSH_BEFORE: ${{ github.event.before }}
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import {execFileSync} from 'node:child_process';
+          const before=process.env.PUSH_BEFORE;
+          if(!/^[0-9a-f]{40}$/.test(before||'')||/^0+$/.test(before))throw Error('Cannot determine push base; dispatch with an explicit manifest');
+          const changed=execFileSync('git',['diff','--name-only','-z','--diff-filter=AM',before,process.env.GITHUB_SHA],{encoding:'utf8'}).split('\0');
+          const manifests=changed.filter(p=>p.startsWith('tools/painting-browser/')&&p.endsWith('.json')&&!['package.json','package-lock.json'].includes(p.split('/').at(-1)));
+          if(manifests.length>1)throw Error('Multiple changed manifests; dispatch with an explicit manifest');
+          if(manifests.length===1){
+            if(/[\r\n]/.test(manifests[0]))throw Error('Unsafe manifest path');
+            fs.appendFileSync(process.env.GITHUB_ENV,'INPUT_MANIFEST='+manifests[0]+'\n');
+            console.log('Selected push manifest: '+manifests[0]);
+          }
+          NODE
       - name: Validate verifier and prepare pending report
         run: |
           export REPORT_DIR="$RUNNER_TEMP/painting-browser-output"
