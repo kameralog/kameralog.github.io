@@ -29,7 +29,6 @@ jobs:
     env:
       INPUT_MANIFEST: ${{ inputs.manifest || 'tools/painting-browser/targets.json' }}
       INPUT_LIMIT: ${{ inputs.limit || '10' }}
-      REPORT_DIR: ${{ runner.temp }}/painting-browser-output
     steps:
       - uses: actions/checkout@v4
         with:
@@ -39,6 +38,8 @@ jobs:
           node-version: '24'
       - name: Validate verifier and prepare pending report
         run: |
+          export REPORT_DIR="$RUNNER_TEMP/painting-browser-output"
+          echo "REPORT_DIR=$REPORT_DIR" >> "$GITHUB_ENV"
           node --check tools/painting-browser/verify.mjs
           node tools/painting-browser/verify.mjs --self-test
           node tools/painting-browser/verify.mjs --prepare
