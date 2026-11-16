@@ -1,0 +1,130 @@
+name: Recover wiki batches nine and ten sequentially
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/recover-uffizi-batches9-10.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate baseline and recover nine then ten without disabling preservation checks
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import hashlib
+          import json
+          import pathlib
+          import re
+          import subprocess
+          root = pathlib.Path.cwd()
+          painting = root / 'games/painting'
+          reports = painting / 'reports/wiki-batches'
+          baseline = 'f405a368288ff85f2230c402622827d09e5df3c6'
+          applied8 = '067c9e1375ae70eeabe78e27e82cbfd4c193e01d'
+          pins = {9:'352edea7082f3b10f6dfdaf0537b0952a7a4386e',10:'d06c94c5a35a7ae192fdf79ca4e227eb756f30e5'}
+          def blob(raw):
+              return hashlib.sha1(b'blob ' + str(len(raw)).encode() + b'\0' + raw).hexdigest()
+          def git_blob(ref, path):
+              return subprocess.check_output(['git','rev-parse',ref+':'+path],cwd=root,text=True).strip()
+          def artist_path(bn):
+              return 'games/painting/artists-batch-'+str(bn)+'.js'
+          originals = {}
+          expected_maps = {}
+          for n in (9,10):
+              assert not (reports / ('batch-'+str(n).zfill(3)+'.json')).exists(), 'Batch already has a report; do not duplicate'
+              path = root / ('.github/workflows/publish-uffizi-batch'+str(n)+'.yml')
+              raw = path.read_bytes()
+              assert blob(raw) == pins[n], 'Workflow changed; fresh review required'
+              text = raw.decode('utf-8')
+              matches = list(re.finditer(r'const expected=(\{[^\n]+\});',text))
+              assert len(matches) == 1
+              expected = {int(k):v for k,v in re.findall(r"(\d+):'([0-9a-f]{40})'",matches[0].group(1))}
+              assert len(expected) == (16 if n == 9 else 13)
+              originals[n] = (path,raw,text)
+              expected_maps[n] = expected
+          trusted = {}
+          for expected in expected_maps.values():
+              for bn, old in expected.items():
+                  path = artist_path(bn)
+                  reviewed = git_blob(baseline,path)
+                  if old != reviewed:
+                      assert git_blob(applied8,path) == reviewed, 'Change is not the reviewed batch-eight result'
+                      assert git_blob(applied8+'^',path) == old, 'Old workflow hash is not the parent of batch eight'
+                  assert blob((root / path).read_bytes()) == reviewed, 'Artist file changed after reviewed baseline: '+path
+                  trusted[bn] = reviewed
+          protected = {}
+          for n in range(1,9):
+              path = reports / ('batch-'+str(n).zfill(3)+'.json')
+              raw = path.read_bytes()
+              assert blob(raw) == git_blob(baseline,str(path.relative_to(root))), 'Previous report changed'
+              protected[path] = raw
+          eight = json.loads((reports / 'batch-008.json').read_text())
+          assert eight.get('liveArtistsJsMatchesMain') is True and eight.get('newlyConnected') == 48
+          for n, word, count in ((9,'ninth',46),(10,'tenth',44)):
+              path, raw, text = originals[n]
+              assert path.read_bytes() == raw, 'Original workflow changed during recovery'
+              for bn, sha in trusted.items():
+                  assert blob((root / artist_path(bn)).read_bytes()) == sha, 'Unexpected concurrent source change'
+              for p, content in protected.items():
+                  assert p.read_bytes() == content, 'A protected report changed'
+              pattern = r'const expected=(\{[^\n]+\});'
+              match = re.search(pattern,text)
+              replacement = '{'+','.join(str(bn)+":'"+trusted[bn]+"'" for bn in expected_maps[n])+'}'
+              fixed = text[:match.start(1)] + replacement + text[match.end(1):]
+              chunks = re.split(r'(?m)^      - name: ',fixed)[1:]
+              names = ['Apply reviewed '+word+' batch and preserve existing data','Commit catalogue and report and request Pages build','Verify published catalogue and record result']
+              assert [chunk.splitlines()[0] for chunk in chunks] == names, 'Unexpected step layout'
+              scripts = []
+              for chunk in chunks:
+                  assert chunk.count('        run: |\n') == 1
+                  metadata, body = chunk.split('        run: |\n',1)
+                  lines = body.splitlines()
+                  assert all(not line.strip() or line.startswith('          ') for line in lines)
+                  command = '\n'.join(line[10:] if line else '' for line in lines)+'\n'
+                  directory = painting if '        working-directory: games/painting\n' in metadata else root
+                  scripts.append((chunk.splitlines()[0],directory,command))
+              for index, (name,directory,command) in enumerate(scripts):
+                  print('::group::Batch '+str(n)+': '+name,flush=True)
+                  subprocess.run(['bash','-e','-o','pipefail','-c',command],cwd=directory,check=True)
+                  print('::endgroup::',flush=True)
+                  for bn, sha in list(trusted.items()):
+                      source = (root / artist_path(bn)).read_bytes()
+                      actual = blob(source)
+                      if index == 0 and bn in expected_maps[n]:
+                          assert actual != sha, 'Expected binding file did not change'
+                          marker = ('/*wiki-uffizi-batch'+str(n)+'-v1*/').encode()
+                          assert source.count(marker) == 1, 'Missing or duplicate wrapper'
+                          trusted[bn] = actual
+                      else:
+                          assert actual == sha, 'Unexpected source modification: '+artist_path(bn)
+                  for p, content in protected.items():
+                      assert p.read_bytes() == content, 'Protected report changed'
+              report_path = reports / ('batch-'+str(n).zfill(3)+'.json')
+              report = json.loads(report_path.read_text())
+              assert report.get('newlyConnected') == count
+              assert report.get('liveArtistsJsMatchesMain') is True
+              assert report.get('livePublishedRecords') == count
+              assert report.get('deferredConfirmed') == (4 if n == 9 else 1)
+              assert report.get('artistPages') == (18 if n == 9 else 13)
+              assert report.get('sourceFiles') == (16 if n == 9 else 13)
+              assert report.get('renderedPagesVerified') is False
+              assert report.get('fullVisualReview') is False
+              protected[report_path] = report_path.read_bytes()
+              assert path.read_bytes() == raw, 'Original workflow must remain unchanged'
+          PY
