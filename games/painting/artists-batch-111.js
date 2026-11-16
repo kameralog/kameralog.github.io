@@ -1,3 +1,5 @@
+/*wiki-uffizi-batch8-v1*/
+(()=>{const previous=window.registerPaintingArtists;window.registerPaintingArtists=function(batch){for(const p of [{"number":389,"artistId":"cecilia_beaux","work":{"key":"wiki-uffizi-batch8:Q23010022","title":"Автопортрет","date":"1925","author":"Сесилия Бо","medium":"","museum":"Галереи Уффици, Флоренция","source":"https://commons.wikimedia.org/wiki/File:Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg","image":"https://upload.wikimedia.org/wikipedia/commons/1/11/Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg","zoom":"https://upload.wikimedia.org/wikipedia/commons/1/11/Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg","imageSource":"https://commons.wikimedia.org/wiki/File:Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg","license":"Public domain","creditLine":"Сесилия Бо; Wikimedia Commons; Public domain","imageWidth":508,"imageHeight":800,"originalImageWidth":508,"originalImageHeight":800,"imageVisuallyReviewed":false,"imageReviewStatus":"Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён","look":"Источник репродукции и сведения о правах — в карточке конкретного файла Commons. Небольшой исходный файл не увеличивался искусственно. Репродукция: Сесилия Бо; Wikimedia Commons; Public domain. https://commons.wikimedia.org/wiki/File:Cecilia_Beaux_-_Self-portrait_in_Uffizi_Gallery.jpg"}}]){const a=batch[p.artistId];if(!a)continue;a.works=a.works||[];if(a.works.some(w=>w.key===p.work.key))throw Error('Duplicate');a.works.push(p.work);a.sources=a.sources||[];for(const link of [['Репродукция: '+p.work.title,p.work.imageSource],['Источник: '+p.work.title,p.work.source]])if(!a.sources.some(x=>x[1]===link[1]))a.sources.push(link);a.editorialStatus=(a.pendingWorks||[]).length?'partially_illustrated':'illustrated';}return previous.call(window,batch);};try{
 /* Batch 111 research draft: 10 artists, 6 reproductions, 4 pending.
  * Combined registry execution and browser delivery not tested.
  */
@@ -69,3 +71,5 @@ Object.assign(B.rosa_bonheur.works[0],{candidateMuseumImage:'https://images.metm
 if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');
 window.registerPaintingArtists(B);
 })();
+
+}finally{window.registerPaintingArtists=previous;}})();
