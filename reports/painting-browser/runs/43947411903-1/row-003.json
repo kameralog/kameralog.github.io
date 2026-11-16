@@ -1,0 +1,113 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "carl_stefan_bennet_home",
+  "input": {
+    "id": "carl_stefan_bennet_home",
+    "file": "File:Interior of the Painter's Home in Stockholm (Carl Stefan Bennet) - Nationalmuseum - 18335.tif",
+    "candidateArtistId": "carl_stefan_bennet",
+    "candidateNames": [
+      "Carl Stefan Bennet",
+      "Карл Стефан Беннет"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif/lossy-page1-1280px-Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif/lossy-page1-1280px-Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1891,
+      "attempt": 1,
+      "screenshot": "003-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif/lossy-page1-1920px-Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif/lossy-page1-1920px-Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1920,
+      "height": 2837,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 52133481,
+    "title": "File:Interior of the Painter's Home in Stockholm (Carl Stefan Bennet) - Nationalmuseum - 18335.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Painter%27s_Home_in_Stockholm_(Carl_Stefan_Bennet)_-_Nationalmuseum_-_18335.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Interior_of_the_Painter%27s_Home_in_Stockholm_%28Carl_Stefan_Bennet%29_-_Nationalmuseum_-_18335.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 2120,
+    "height": 3132,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q5570566\" class=\"extiw\" title=\"d:Q5570566\"><span title=\"Swedish painter (1800-1878)\">Carl Stefan Bennet</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "This painting shows a room in the artist’s home at the Arvfurstens Palats at Gustav Adolfs torg in Stockholm. Bennet moved around the building repeatedly over the years. The apartment is filled with a fascinating mixture of furniture and art from different eras. Several of the works adorning the walls are by the artist himself. They appear like private mementoes, but also contribute – both in the painting and in the actual home – to stressing his artist role.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1867<div style=\"display: none;\">date QS:P571,+1867-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=18335&amp;viewType=detailView\"> Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p>The author died in 1878, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Carl Stefan Bennet}}\n |title                = {{en|Interior of the Painter's Home in Stockholm}} {{sv|Interiör från konstnärens bostad i Arvfurstens palats, Stockholm}}\n |wikidata             = Q18573318\n |object_type          = painting\n |description          = {{en|This painting shows a room in the artist’s home at the Arvfurstens Palats at Gustav Adolfs torg in Stockholm. Bennet moved around the building repeatedly over the years. The apartment is filled with a fascinating mixture of furniture and art from different eras. Several of the works adorning the walls are by the artist himself. They appear like private mementoes, but also contribute – both in the painting and in the actual home – to stressing his artist role.}} {{sv|Målningen föreställer ett rum i konstnärens bostad som låg i Arvfurstens palats på Gustav Adolfs torg i Stockholm. Bennet bytte bostad inom huset flera gånger genom åren. Det är en spännande blandning av möbler och konstverk från olika epoker som fyller våningen. Flera av målningarna som pryder väggarna i rummet är arbeten av konstnären själv. De framträder här som personliga minnen, men bidrar också– i såväl bilden som i det verkliga hemmet – till att framhålla hans konstnärsroll.}}\n |other_fields_2       = {{Information field|name={{original caption/i18n|header}}|value={{en|This painting shows a room in the artist’s home at the Arvfurstens Palats at Gustav Adolfs torg in Stockholm. Bennet moved around the building repeatedly over the years. The apartment is filled with a fascinating mixture of furniture and art from different eras. Several of the works adorning the walls are by the artist himself. They appear like private mementoes, but also contribute – both in the painting and in the actual home – to stressing his artist role.}} {{sv|Målningen föreställer ett rum i konstnärens bostad som låg i Arvfurstens palats på Gustav Adolfs torg i Stockholm. Bennet bytte bostad inom huset flera gånger genom åren. Det är en spännande blandning av möbler och konstverk från olika epoker som fyller våningen. Flera av målningarna som pryder väggarna i rummet är arbeten av konstnären själv. De framträder här som personliga minnen, men bidrar också– i såväl bilden som i det verkliga hemmet – till att framhålla hans konstnärsroll.}}}}\n |date                 = 1867\n |medium               = {{sv|Olja på duk monterad på masonit}}\n |dimensions           = \n* {{Size|unit=cm|width=43|height=62|depth=}}\n* ''Framed'': {{Size|unit=cm|width=57|height=77|depth=5}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = {{sv|Signerad: C S Bennet 1867}}\n |accession number     = NM 1332\n |place of creation    = \n |source               = {{Nationalmuseum Stockholm link|18335|Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1878}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n\n<!-- Content categories -->\n[[Category:Carl Stefan Bennet]]\n[[Category:Swedish paintings in the Nationalmuseum Stockholm]]\n[[Category:Building interiors in Stockholm]]\n[[Category:Arvfurstens palats]]\n[[Category:Interior paintings in the Nationalmuseum Stockholm]]\n[[Category:1867 paintings in Sweden]]\n[[Category:1867 paintings from Sweden]]\n[[Category:1860s paintings in the Nationalmuseum Stockholm]]\n[[Category:1860s interiors in art]]\n[[Category:Paintings of artist's studio interiors]]\n[[Category:Interiors of apartment buildings in Sweden]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    2120,
+    3132
+  ]
+}

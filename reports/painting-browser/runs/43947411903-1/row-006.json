@@ -1,0 +1,109 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "carl_wahlbom_lutzen",
+  "input": {
+    "id": "carl_wahlbom_lutzen",
+    "file": "File:Death of King Gustav II Adolf of Sweden at the Battle of Lützen (Carl Wahlbom) - Nationalmuseum - 18031.tif",
+    "candidateArtistId": "carl_wahlbom",
+    "candidateNames": [
+      "Carl Wahlbom",
+      "Карл Вальбом",
+      "Johan Wilhelm Carl Wahlbom"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif/lossy-page1-1280px-Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif/lossy-page1-1280px-Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 869,
+      "attempt": 1,
+      "screenshot": "006-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif/lossy-page1-3840px-Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif/lossy-page1-3840px-Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2607,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 52125011,
+    "title": "File:Death of King Gustav II Adolf of Sweden at the Battle of Lützen (Carl Wahlbom) - Nationalmuseum - 18031.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_(Carl_Wahlbom)_-_Nationalmuseum_-_18031.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Death_of_King_Gustav_II_Adolf_of_Sweden_at_the_Battle_of_L%C3%BCtzen_%28Carl_Wahlbom%29_-_Nationalmuseum_-_18031.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 5779,
+    "height": 3923,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Carl_Wahlbom\" class=\"extiw\" title=\"w:en:Carl Wahlbom\"><span title=\"Swedish artist (1810-1858)\">Carl Wahlbom</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "This painting shows the moment when the Swedish King Gustav II Adolf is killed on the battlefield at Lützen on 6 November, 1632. The brightly illuminated body of the dead king appears to be sliding off his horse, only to be caught by a horrified Swedish soldier. The king is portrayed as a hero and a martyr, a figure distinctly reminiscent of renditions of the dead Christ. But Wahlbom has also utilised the potential of the scene to show off his strongest technical skill – that of painting horses in various movements and light.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1855<div style=\"display: none;\">date QS:P571,+1855-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Nationalmuseum_Stockholm\" title=\"Nationalmuseum\"><img alt=\"Nationalmuseum\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/120px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"88\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/250px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2600\" data-file-height=\"2640\"></a></span>\n</td>\n<td>This file was provided to Wikimedia Commons by the <b>Nationalmuseum</b> (Stockholm) as part of a <b><a href=\"//commons.wikimedia.org/wiki/Commons:Nationalmuseum_Stockholm\" title=\"Commons:Nationalmuseum Stockholm\">cooperation project</a></b> with Wikimedia Sverige.\n</td>\n<td style=\"width:60px\"><span class=\"skin-invert\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige/en\" title=\"Wikimedia Sverige\"><img alt=\"Wikimedia Sverige\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"119\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"581\" data-file-height=\"435\"></a></span>\n</td></tr></tbody></table> <a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=18031&amp;viewType=detailView\"> Erik Cornelius, Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |artist               = {{Creator:Carl Wahlbom}}\n |title                = {{en|Death of King Gustav II Adolf of Sweden at the [[:en:Battle of Lützen (1632)|Battle of Lützen]]}} {{sv|Gustav II Adolfs död i [[:sv:Slaget vid Lützen|slaget vid Lützen]]}} {{de|Tod von Gustav II. Adolf von Schweden in der [[:de:Schlacht bei Lützen|Schlacht bei Lützen]]}}\n |wikidata             = Q18573550\n |object_type          = painting\n |description          = {{en|This painting shows the moment when the Swedish King Gustav II Adolf is killed on the battlefield at Lützen on 6 November, 1632. The brightly illuminated body of the dead king appears to be sliding off his horse, only to be caught by a horrified Swedish soldier. The king is portrayed as a hero and a martyr, a figure distinctly reminiscent of renditions of the dead Christ. But Wahlbom has also utilised the potential of the scene to show off his strongest technical skill – that of painting horses in various movements and light.}} {{sv|Målningen skildrar det ögonblick då Gustav II Adolf dödas på slagfältet vid Lützen den 6 november 1632. Den döde kungen, starkt belyst, tycks glida ned från hästryggen för att strax fångas upp av en förfärad svensk soldat. Kungen framställs som hjälte och martyr, en gestalt som påminner starkt om skildringar av den döde Kristus. Samtidigt har Wahlbom utnyttjat scenens möjligheter}}\n |date                 = 1855\n |medium               = {{Oil on canvas}}\n |dimensions           = {{Size|unit=cm|width=151|height=101|depth=}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = {{inscription|C. Wahlbom. Roma. 1855.|type=signature|side=|position=|description=|comment=}}\n |accession number     = NM 1028\n |depicted place       = {{city|Lützen}}\n |place of creation    = {{city|Rome}}\n |source               = {{Nationalmuseum Stockholm cooperation project}} {{Nationalmuseum Stockholm link|18031|Erik Cornelius, Nationalmuseum}}\n |permission           = \n |other_versions       =\n}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|1=PD-old-100-expired|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1858}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n<!-- Content categories -->\n[[Category:Death of Gustavus Adolphus of Sweden (Carl Wahlbom)]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    5779,
+    3923
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "bengt_nordenberg_communion",
+  "input": {
+    "id": "bengt_nordenberg_communion",
+    "file": "File:Bengt Nordenberg - Celebrating Communion in a Swedish Parish Church - NG.M.00216 - National Museum of Art, Architecture and Design.jpg",
+    "candidateArtistId": "bengt_nordenberg",
+    "candidateNames": [
+      "Bengt Nordenberg",
+      "Бенгт Норденберг"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 994,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/3840px-Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/3840px-Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2981,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 98001213,
+    "title": "File:Bengt Nordenberg - Celebrating Communion in a Swedish Parish Church - NG.M.00216 - National Museum of Art, Architecture and Design.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4000,
+    "height": 3105,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Bengt_Nordenberg\" class=\"extiw\" title=\"w:en:Bengt Nordenberg\"><span title=\"Swedish painter (1822–1902)\">Bengt Nordenberg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1856 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55429764#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NG.M.00216\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1902}}\n\n{{DEFAULTSORT:Nordenberg, Bengt; Celebrating Communion in a Swedish Parish Church}}\n[[Category:Bengt Nordenberg]]\n[[Category:19th-century genre paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Swedish paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Communion in art]]\n[[Category:Paintings of church interiors]]\n[[Category:Interiors of churches in Sweden]]\n[[Category:1850s genre paintings]]\n[[Category:Genre paintings from Sweden]]\n[[Category:1856 paintings from Sweden]]\n[[Category:1856 oil on canvas paintings in Norway]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4000,
+    3105
+  ]
+}

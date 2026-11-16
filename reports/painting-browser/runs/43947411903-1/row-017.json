@@ -1,0 +1,105 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "gustaf_brusewitz_hilda",
+  "input": {
+    "id": "gustaf_brusewitz_hilda",
+    "file": "File:Gustaf Henrik Brusewitz - Hilda Amalia Brusewitz (f. 1853) - NMGrh 4835 - Nationalmuseum.jpg",
+    "candidateArtistId": "gustaf_brusewitz",
+    "candidateNames": [
+      "Gustaf Brusewitz",
+      "Густаф Брусевиц",
+      "Gustaf Henrik Brusewitz"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gustaf_Henrik_Brusewitz_-_Hilda_Amalia_Brusewitz_%28f._1853%29_-_NMGrh_4835_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gustaf_Henrik_Brusewitz_-_Hilda_Amalia_Brusewitz_%28f._1853%29_-_NMGrh_4835_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 854,
+      "height": 1000,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gustaf_Henrik_Brusewitz_-_Hilda_Amalia_Brusewitz_%28f._1853%29_-_NMGrh_4835_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gustaf_Henrik_Brusewitz_-_Hilda_Amalia_Brusewitz_%28f._1853%29_-_NMGrh_4835_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 854,
+      "height": 1000,
+      "attempt": 1,
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 103453209,
+    "title": "File:Gustaf Henrik Brusewitz - Hilda Amalia Brusewitz (f. 1853) - NMGrh 4835 - Nationalmuseum.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Gustaf_Henrik_Brusewitz_-_Hilda_Amalia_Brusewitz_(f._1853)_-_NMGrh_4835_-_Nationalmuseum.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Gustaf_Henrik_Brusewitz_-_Hilda_Amalia_Brusewitz_%28f._1853%29_-_NMGrh_4835_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 854,
+    "height": 1000,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q5588562\" class=\"extiw\" title=\"d:Q5588562\"><span title=\"Swedish painter (1812-1899)\">Gustaf Brusewitz</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "between 1850 and 1859<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/8,P1319,+1850-00-00T00:00:00Z/9,P1326,+1859-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106378078#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=159550&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1899}}\n\n[[Category:Portrait paintings in the Nationalmuseum Stockholm]]\n[[Category:Gustaf Brusewitz]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    854,
+    1000
+  ]
+}

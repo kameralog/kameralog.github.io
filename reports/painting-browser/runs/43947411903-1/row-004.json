@@ -1,0 +1,108 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "per_wickenberg_winter_fishing",
+  "input": {
+    "id": "per_wickenberg_winter_fishing",
+    "file": "File:Per Gabriel Wickenberg - Vinterfiske.jpg",
+    "candidateArtistId": "per_wickenberg",
+    "candidateNames": [
+      "Per Wickenberg",
+      "Пер Викенберг",
+      "Pehr Wickenberg",
+      "Per Gabriel Wickenberg",
+      "Petter Gabriel Wickenberg",
+      "Peter Gabriel Wickenberg"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Per_Gabriel_Wickenberg_-_Vinterfiske.jpg/1280px-Per_Gabriel_Wickenberg_-_Vinterfiske.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Per_Gabriel_Wickenberg_-_Vinterfiske.jpg/1280px-Per_Gabriel_Wickenberg_-_Vinterfiske.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 885,
+      "attempt": 1,
+      "screenshot": "004-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Per_Gabriel_Wickenberg_-_Vinterfiske.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Per_Gabriel_Wickenberg_-_Vinterfiske.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2683,
+      "height": 1856,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 20267774,
+    "title": "File:Per Gabriel Wickenberg - Vinterfiske.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Per_Gabriel_Wickenberg_-_Vinterfiske.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Per_Gabriel_Wickenberg_-_Vinterfiske.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2683,
+    "height": 1856,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Per_Wickenberg\" class=\"extiw\" title=\"w:en:Per Wickenberg\"><span title=\"Swedish painter (1812-1846)\">Per Wickenberg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Unknown date",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.bukowskis.com/auctions/S193/150-per-wickenberg-vinterfiske?locale=en\">Bukowskis</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|Artist = {{creator:Per Wickenberg}}\n|Title = {{title|en=Fishing in winter|sv=Vinterfiske}}\n|Year = {{other date|?}}\n|medium= {{Technique|oil|canvas|mounted=panel}}\n|dimensions={{Size|cm|22|31}}\n|institution=\n|location=\n|references=\n|object history=Former in the Family Bonde's collections at Segersjö.\n|credit line=\n|inscriptions=\n|notes=\n|accession number=\n|Source = [http://www.bukowskis.com/auctions/S193/150-per-wickenberg-vinterfiske?locale=en Bukowskis]\n|Permission = \n|Notes = \n|Other versions = \n}}\n\n=={{int:license-header}}==\n{{PD-Art-100}}\n\n[[Category:Per Wickenberg]]\n[[Category:19th-century landscape paintings]]\n[[Category:Landscape paintings of Sweden]]\n[[Category:Ice fishing in art]]\n[[Category:Paintings of winter]]\n[[Category:Images from Bukowskis]]\n[[Category:Taken with Sinarback 43]]\n[[Category:Paintings of fishing]]\n[[Category:Fishing in art in Sweden]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    2683,
+    1856
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "carl_fredrik_kiorboe_fox_hunt",
+  "input": {
+    "id": "carl_fredrik_kiorboe_fox_hunt",
+    "file": "File:Carl Fredrik Kiørboe - Revejakt - NG.M.00231 - National Museum of Art, Architecture and Design.jpg",
+    "candidateArtistId": "carl_fredrik_kiorboe",
+    "candidateNames": [
+      "Carl Fredrik Kiörboe",
+      "Карл Фредрик Кьёрбу",
+      "Carl Frederik Kiörboe",
+      "Carl Fredrik Kiørboe",
+      "Carl Friederich Kiørboe"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1654,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3096,
+      "height": 4000,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 97998022,
+    "title": "File:Carl Fredrik Kiørboe - Revejakt - NG.M.00231 - National Museum of Art, Architecture and Design.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 3096,
+    "height": 4000,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Carl_Fredrik_Ki%C3%B6rboe\" class=\"extiw\" title=\"w:en:Carl Fredrik Kiörboe\"><span title=\"Swedish painter (1799-1876)\">Carl Fredrik Kiörboe</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1863",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NG.M.00231\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1876}}\n\n{{DEFAULTSORT:Kiørboe, Carl Fredrik; Revejakt}}\n[[Category:Carl Fredrik Kiörboe]]\n[[Category:19th-century paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:1860s paintings of fox hunting]]\n[[Category:1863 oil on canvas paintings in Norway]]\n[[Category:Paintings with signatures (lower left)]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3096,
+    4000
+  ]
+}

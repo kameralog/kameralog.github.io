@@ -1,0 +1,112 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "nils_blommer_meadow_fairies",
+  "input": {
+    "id": "nils_blommer_meadow_fairies",
+    "file": "File:Ängsälvor - Nils Blommér 1850.jpg",
+    "candidateArtistId": "nils_blommer",
+    "candidateNames": [
+      "Nils Blommér",
+      "Нильс Бломмер",
+      "Nils Blommer",
+      "Nils Jakob Blommér",
+      "Nils Johan Olsson Blommér"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 920,
+      "height": 713,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 920,
+      "height": 713,
+      "attempt": 1,
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 398138,
+    "title": "File:Ängsälvor - Nils Blommér 1850.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 920,
+    "height": 713,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nils_Blomm%C3%A9r\" class=\"extiw\" title=\"w:en:Nils Blommér\"><span title=\"Swedish painter (1816–1853)\">Nils Blommér</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1850<div style=\"display: none;\">date QS:P571,+1850-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Nationalmuseum, Inventory number: NM 2162",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|wikidata=Q18599185\n|Artist = {{Creator:Nils Blommér}}\n|Title = {{title|en=Meadow Elves|sv=Ängsälvor|ru=Нильс Бломмер. Луговые феи|uk=Нільс Бломмер. Лугові феї}}\n|Year = 1850\n|Technique = {{Oil on canvas}}\n|Dimensions = 115 × 143 cm\n|institution = {{Institution:Nationalmuseum Stockholm}}\n|id = NM 2162\n|Location = \n|Notes = {{langswitch|en=Blommér were one among the Swedish artists who in the mid 1800's wanted to create a national Swedish art. He incorporated themes from [[w:Norse mythology|Norse mythology]] and [[w:Scandinavian folklore|folklore]]. In 1847 he traveled to Paris via Germany. In Germany he was inspired by the German painter [[Moritz von Schwind]], whose images often depicted fairies and other nature spirits. In ''Ängsälvor'' Blommér depicted fairies dancing in a meadow in the twilight. In the background of the romantic landscape glimpses of Gripsholm Castle can be seen.\n\nThe painting, which was created in Paris in 1850, was meant to be part of a series of four paintings, each painting would symbolize a season. ''Ängsälvor'' represented spring. After having spent some years in Paris, Blommér traveled on to Italy where he died of pneumonia in 1853, barely 37 years old.\n|sv=Blommér var en av de konstnärer som vid mitten av 1800-talet ville skapa en nationell svensk konst genom att hämta motiv ur nordisk mytologi och folktro. År 1847 reste han till Paris via Tyskland. I Tyskland inspirerades han av den tyske målaren Moritz von Schwind, vars bilder ofta föreställde älvor och andra naturväsen. Här har Blommér skildrat älvornas dans på en äng i skymningsljus. I bakgrunden av det romantiska landskapet skymtar Gripsholms slott.\n\nMålningen, som tillkom i Paris 1850, var tänkt att ingå i en serie om fyra målningar där varje målning skulle symbolisera en årstid. Ängsälvor representerade våren. Efter att ha tillbringat några år i Paris reste Blommér vidare till Italien där han avled i lunginflammation 1853, knappt 37 år gammal.}}\n|Source = Nationalmuseum, Inventory number: NM 2162\n|Permission = {{PD-Art|PD-old-100-1923}}\n|Other versions = \n}}\n\n[[Category:Nils Blommér]]\n[[Category:Paintings of fairies]]\n[[Category:Fairy rings in art]]\n[[Category:Oil paintings of people]]\n[[Category:Paintings of Norse mythology from Sweden]]\n[[Category:Paintings of people in nature]]\n[[Category:Paintings of women dancing outdoors]]\n[[Category:1850 oil on canvas paintings]]\n[[Category:1850 paintings of people]]\n[[Category:1850 paintings from Sweden]]\n[[Category:1850 paintings in Sweden]]\n[[Category:Swedish paintings in Sweden]]\n[[Category:1850s paintings in the Nationalmuseum Stockholm]]\n[[Category:Swedish paintings in the Nationalmuseum Stockholm]]\n[[Category:Mythological paintings in the Nationalmuseum Stockholm]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    920,
+    713
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "olof_johan_sodermark_bygler",
+  "input": {
+    "id": "olof_johan_sodermark_bygler",
+    "file": "File:Olof Johan Södermark - Karolina Bygler. Model to the Sculptor Johan Niclas Byström - NM 1385 - Nationalmuseum.jpg",
+    "candidateArtistId": "olof_johan_sodermark",
+    "candidateNames": [
+      "Olof Johan Södermark",
+      "Олоф Йохан Сёдермарк",
+      "Olof Södermark",
+      "Olof Johan Sodermark",
+      "Olaf Johan Södermark",
+      "Johan Olaf Södermark"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 810,
+      "height": 1000,
+      "attempt": 1,
+      "screenshot": "009-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 810,
+      "height": 1000,
+      "attempt": 1,
+      "screenshot": "009-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 103211932,
+    "title": "File:Olof Johan Södermark - Karolina Bygler. Model to the Sculptor Johan Niclas Byström - NM 1385 - Nationalmuseum.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 810,
+    "height": 1000,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Olof_Johan_S%C3%B6dermark\" class=\"extiw\" title=\"w:en:Olof Johan Södermark\"><span title=\"Swedish sculptor, painter and officer (1790-1848)\">Olof Johan Södermark</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1835 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106358218#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=18388&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1848}}\n\n[[Category:Portrait paintings in the Nationalmuseum Stockholm]]\n[[Category:Olof Johan Södermark]]\n[[Category:1835 portrait paintings of women]]\n[[Category:19th-century oil portraits of sitting women at three-quarter length]]\n[[Category:Portrait paintings of women with white lace veils]]\n[[Category:Portrait paintings of sitting women with right hand holding fans]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    810,
+    1000
+  ]
+}

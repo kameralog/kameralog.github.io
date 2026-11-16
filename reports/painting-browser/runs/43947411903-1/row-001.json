@@ -1,0 +1,109 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "carl_johan_fahlcrantz_uppsala",
+  "input": {
+    "id": "carl_johan_fahlcrantz_uppsala",
+    "file": "File:View of Uppsala. Landscape by Moonlight (Carl Johan Fahlcrantz) - Nationalmuseum - 19014.tif",
+    "candidateArtistId": "carl_johan_fahlcrantz",
+    "candidateNames": [
+      "Carl Johan Fahlcrantz",
+      "Карл Йохан Фалькранц"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif/lossy-page1-1280px-View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif/lossy-page1-1280px-View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 974,
+      "attempt": 1,
+      "screenshot": "001-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif/lossy-page1-1920px-View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif/lossy-page1-1920px-View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1920,
+      "height": 1462,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 52128987,
+    "title": "File:View of Uppsala. Landscape by Moonlight (Carl Johan Fahlcrantz) - Nationalmuseum - 19014.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:View_of_Uppsala._Landscape_by_Moonlight_(Carl_Johan_Fahlcrantz)_-_Nationalmuseum_-_19014.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/View_of_Uppsala._Landscape_by_Moonlight_%28Carl_Johan_Fahlcrantz%29_-_Nationalmuseum_-_19014.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 3527,
+    "height": 2685,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Carl_Johan_Fahlcrantz\" class=\"extiw\" title=\"w:en:Carl Johan Fahlcrantz\"><span title=\"painter (1774-1861)\">Carl Johan Fahlcrantz</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1820<div style=\"display: none;\">date QS:P571,+1820-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=19014&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p>The author died in 1861, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Carl Johan Fahlcrantz}}\n |title                = {{en|View of Uppsala. Landscape by Moonlight}} {{sv|Utsikt från Uppsala. Månskenslandskap}}\n |wikidata             = Q18599104\n |object_type          = painting\n |description          = \n |other_fields_2       = \n |date                 = 1820\n |medium               = {{Oil on canvas}}\n |dimensions           = \n* {{Size|unit=cm|width=45|height=34|depth=}}\n* ''Framed'': {{Size|unit=cm|width=|height=48|depth=}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = {{sv|Sign: C Fahlcrantz 1820}}\n |accession number     = NM 2010\n |place of creation    = \n |source               ={{Nationalmuseum Stockholm link|19014| Erik Cornelius / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1861}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n[[Category:Paintings in the Nationalmuseum Stockholm]]\n\n<!-- Content categories -->\n[[Category:Carl Johan Fahlcrantz (painter)]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3527,
+    2685
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "status": "derived_evidence_not_editorially_approved",
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "manifest": "tools/painting-browser/batch-161-candidates.json",
+  "manifestSha256": "9748575e601c11802f686e7347cddf0ebfe24a55abed2db88617736beb060d37",
+  "selectionComplete": true,
+  "browserStatus": "passed_selected_targets",
+  "browserSmokePassed": true,
+  "counts": {
+    "selected": 20,
+    "completed": 20,
+    "passed": 20,
+    "failed": 0
+  },
+  "errors": [],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "rows": [
+    {
+      "id": "johan_sevenbom_shipwreck",
+      "status": "passed",
+      "pageid": 52114255,
+      "path": "reports/painting-browser/runs/43947411903-1/row-000.json"
+    },
+    {
+      "id": "carl_johan_fahlcrantz_uppsala",
+      "status": "passed",
+      "pageid": 52128987,
+      "path": "reports/painting-browser/runs/43947411903-1/row-001.json"
+    },
+    {
+      "id": "marcus_larson_burning_steamer",
+      "status": "passed",
+      "pageid": 52132087,
+      "path": "reports/painting-browser/runs/43947411903-1/row-002.json"
+    },
+    {
+      "id": "carl_stefan_bennet_home",
+      "status": "passed",
+      "pageid": 52133481,
+      "path": "reports/painting-browser/runs/43947411903-1/row-003.json"
+    },
+    {
+      "id": "per_wickenberg_winter_fishing",
+      "status": "passed",
+      "pageid": 20267774,
+      "path": "reports/painting-browser/runs/43947411903-1/row-004.json"
+    },
+    {
+      "id": "gustaf_wilhelm_palm_borghese",
+      "status": "passed",
+      "pageid": 112975789,
+      "path": "reports/painting-browser/runs/43947411903-1/row-005.json"
+    },
+    {
+      "id": "carl_wahlbom_lutzen",
+      "status": "passed",
+      "pageid": 52125011,
+      "path": "reports/painting-browser/runs/43947411903-1/row-006.json"
+    },
+    {
+      "id": "johan_fredrik_hockert_poster",
+      "status": "passed",
+      "pageid": 52115799,
+      "path": "reports/painting-browser/runs/43947411903-1/row-007.json"
+    },
+    {
+      "id": "per_sodermark_eichhorn",
+      "status": "passed",
+      "pageid": 64077159,
+      "path": "reports/painting-browser/runs/43947411903-1/row-008.json"
+    },
+    {
+      "id": "olof_johan_sodermark_bygler",
+      "status": "passed",
+      "pageid": 103211932,
+      "path": "reports/painting-browser/runs/43947411903-1/row-009.json"
+    },
+    {
+      "id": "johan_gustaf_sandberg_mora",
+      "status": "passed",
+      "pageid": 52125696,
+      "path": "reports/painting-browser/runs/43947411903-1/row-010.json"
+    },
+    {
+      "id": "fredric_westin_cupid",
+      "status": "passed",
+      "pageid": 52118807,
+      "path": "reports/painting-browser/runs/43947411903-1/row-011.json"
+    },
+    {
+      "id": "carl_gustaf_plagemann_fruit_seller",
+      "status": "passed",
+      "pageid": 52128422,
+      "path": "reports/painting-browser/runs/43947411903-1/row-012.json"
+    },
+    {
+      "id": "nils_blommer_meadow_fairies",
+      "status": "passed",
+      "pageid": 398138,
+      "path": "reports/painting-browser/runs/43947411903-1/row-013.json"
+    },
+    {
+      "id": "bengt_nordenberg_communion",
+      "status": "passed",
+      "pageid": 98001213,
+      "path": "reports/painting-browser/runs/43947411903-1/row-014.json"
+    },
+    {
+      "id": "carl_fredrik_kiorboe_fox_hunt",
+      "status": "passed",
+      "pageid": 97998022,
+      "path": "reports/painting-browser/runs/43947411903-1/row-015.json"
+    },
+    {
+      "id": "gustaf_soderberg_campidoglio",
+      "status": "passed",
+      "pageid": 52135015,
+      "path": "reports/painting-browser/runs/43947411903-1/row-016.json"
+    },
+    {
+      "id": "gustaf_brusewitz_hilda",
+      "status": "passed",
+      "pageid": 103453209,
+      "path": "reports/painting-browser/runs/43947411903-1/row-017.json"
+    },
+    {
+      "id": "axel_nordgren_moonlight",
+      "status": "passed",
+      "pageid": 39151420,
+      "path": "reports/painting-browser/runs/43947411903-1/row-018.json"
+    },
+    {
+      "id": "carl_tragardh_grez",
+      "status": "passed",
+      "pageid": 52118549,
+      "path": "reports/painting-browser/runs/43947411903-1/row-019.json"
+    }
+  ]
+}

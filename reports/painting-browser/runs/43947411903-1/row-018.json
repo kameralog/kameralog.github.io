@@ -1,0 +1,110 @@
+{
+  "sourceReportCommit": "3ba14b5a2591cddee8b826b10df288da762e6552",
+  "sourceReportBlob": "99a0894fc364bc000cbdde362b46b1da31eb5291",
+  "browserRunId": "43947411903",
+  "sourceCommit": "4069ef65674e025ab98759cafb73b3b54774202b",
+  "id": "axel_nordgren_moonlight",
+  "input": {
+    "id": "axel_nordgren_moonlight",
+    "file": "File:Axel Wilhelm Nordgren - Fiskeläge i månsken.jpg",
+    "candidateArtistId": "axel_nordgren",
+    "candidateNames": [
+      "Axel Nordgren",
+      "Аксель Нордгрен",
+      "Axel Wilhelm Nordgren",
+      "Axel Vilhelm Nordgren"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg/1280px-Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg/1280px-Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 967,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2773,
+      "height": 2094,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 39151420,
+    "title": "File:Axel Wilhelm Nordgren - Fiskeläge i månsken.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2773,
+    "height": 2094,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Axel_Nordgren\" class=\"extiw\" title=\"w:en:Axel Nordgren\"><span title=\"Swedish painter (1828-1888)\">Axel Nordgren</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "before 1879<div style=\"display: none;\">date QS:P571,+1879-00-00T00:00:00Z/7,P1326,+1879-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.uppsalaauktion.se/a:20150120/o:664/axel_wilhelm_nordgren#.VQ8o8FWG_x4\">https://www.uppsalaauktion.se/a:20150120/o:664/axel_wilhelm_nordgren#.VQ8o8FWG_x4</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|wikidata = Q110825175\n|Title = {{title|lang=sv|Fiskeläge i månsken}}\n|Artist = {{Creator:Axel Nordgren}}\n|Year = {{otherdate|before|1879}}\n|object type = painting \n|Technique = {{Technique|oil|canvas}}\n|Dimensions = {{size|cm|81|108}}\n|Gallery = \n|Location = \n|inscriptions=\n|Source = https://www.uppsalaauktion.se/a:20150120/o:664/axel_wilhelm_nordgren#.VQ8o8FWG_x4\n|Permission = Public domain\n|Other versions = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1888}} \n\n[[Category:Axel Nordgren]]\n[[Category:Fishing boats in art]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    2773,
+    2094
+  ]
+}
