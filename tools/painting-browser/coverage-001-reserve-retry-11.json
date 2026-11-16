@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "label": "Only 11 failed reserves: retest exact original URLs without tracking; keep successful previews; no artwork bindings",
+  "connectionTarget": 50,
+  "previouslyPassedWorks": 49,
+  "metadataEvidence": {
+    "runId": "43947533124",
+    "reportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+    "reportPath": "reports/painting-browser/latest.json",
+    "reportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c"
+  },
+  "notes": [
+    "The 49 previously successful works are not selected again.",
+    "Omitted zoom uses image; both roles remain checked. Native dimensions are from the pinned metadata evidence.",
+    "Explicit URL checks do not fetch fresh Commons metadata: join metadataEvidence.rows[evidenceRow] for identity and rights review.",
+    "Removing the tracking query passed for ten prior retests, but is not proven to be the sole cause of the previous failures.",
+    "A technical pass is not identity, rights, visual, publication or game-round approval.",
+    "Bohumil Kubista US copyright basis, Paul Raud work identity, and image cropping/provenance still require editorial review."
+  ],
+  "items": [
+    {
+      "id": "reserve50_retry_dora_wahlroos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dora_Wahlroos_-_Inspiration.jpg",
+      "native": [
+        1194,
+        1600
+      ],
+      "evidenceRow": 11
+    },
+    {
+      "id": "reserve50_retry_victor_westerholm",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Victor_Westerholm_-_Cows_in_a_Birch_Forest.png",
+      "native": [
+        724,
+        969
+      ],
+      "evidenceRow": 17
+    },
+    {
+      "id": "reserve50_retry_karl_nordstrom",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg/1280px-Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "native": [
+        3488,
+        3114
+      ],
+      "evidenceRow": 19,
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg"
+    },
+    {
+      "id": "reserve50_retry_ernst_josephson",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ernst_Josephson-N%C3%A4cken.jpg/1280px-Ernst_Josephson-N%C3%A4cken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "native": [
+        2813,
+        3535
+      ],
+      "evidenceRow": 23,
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ernst_Josephson-N%C3%A4cken.jpg"
+    },
+    {
+      "id": "reserve50_retry_gustaf_fjaestad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gustaf_Fj%C3%A6stad_-_Winter_Evening_by_a_River_-_NM_1703_-_Nationalmuseum.jpg",
+      "native": [
+        1000,
+        813
+      ],
+      "evidenceRow": 24
+    },
+    {
+      "id": "reserve50_retry_paul_raud",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_raud_magav_koer.jpg",
+      "native": [
+        500,
+        338
+      ],
+      "evidenceRow": 27
+    },
+    {
+      "id": "reserve50_retry_johann_koler",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Truu_valvur%2C_EKM00534_M01744_K8ler_Truu_valvur_ACE6563.jpg",
+      "native": [
+        1163,
+        1600
+      ],
+      "evidenceRow": 28
+    },
+    {
+      "id": "reserve50_retry_oskar_kallis",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kalevipoeg_laudu_kandmas%2C_Oskar_Kallis%2C_EKM_j_190-118_M_553.jpg",
+      "native": [
+        757,
+        800
+      ],
+      "evidenceRow": 29
+    },
+    {
+      "id": "reserve50_retry_emil_filla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/CtenarDostojevskeho.jpg",
+      "native": [
+        718,
+        894
+      ],
+      "evidenceRow": 33
+    },
+    {
+      "id": "reserve50_retry_josef_manes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Josef_M%C3%A1nes_-_Josefina.jpg",
+      "native": [
+        333,
+        400
+      ],
+      "evidenceRow": 34
+    },
+    {
+      "id": "reserve50_retry_bohumil_kubista",
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg/1280px-Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "native": [
+        3018,
+        4000
+      ],
+      "evidenceRow": 36,
+      "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg"
+    }
+  ]
+}
