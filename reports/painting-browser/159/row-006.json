@@ -1,0 +1,113 @@
+{
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "id": "westman_skagen",
+  "proposedArtistId": "edvard_westman",
+  "checkedNames": [
+    "Edvard Westman",
+    "Gustaf Edvard Westman"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "westman_skagen",
+    "file": "File:Edvard Westman - Autumn in Skagen Plantation - Google Art Project.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 579,
+      "height": 452,
+      "attempt": 1,
+      "screenshot": "006-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 579,
+      "height": 452,
+      "attempt": 1,
+      "screenshot": "006-image.png",
+      "reused": true
+    }
+  ],
+  "native": [
+    579,
+    452
+  ],
+  "metadata": {
+    "pageid": 29868392,
+    "title": "File:Edvard Westman - Autumn in Skagen Plantation - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Edvard_Westman_-_Autumn_in_Skagen_Plantation_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 579,
+    "height": 452,
+    "extmetadata": {
+      "Artist": {
+        "value": "<div class=\"fn value\">\n<p>Unknown author<span style=\"display: none;\">Unknown author</span>\n</p>\n(1865-05-16/1917-09-23)</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1888<div style=\"display: none;\">date QS:P571,+1888-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/sgHT4OzKkxd4qw\">sgHT4OzKkxd4qw at Google Cultural Institute</a>, zoom level maximum",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|commons:artist=\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions=\n|commons:institution={{Institution:Skagens Museum}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions=\n|commons:zoom=\n\n|core:title = {{en|1=Autumn in Skagen Plantation}}\n|core:date.dateCreated = 1888\n|core:format = {{en|1=w45 x h35 cm (Without frame)}}\n|core:type = {{en|1=Oil on canvas}}\n|core:rights = {{en|1=Skagens Museum}}\n|art:artist_date = 1865-05-16/1917-09-23\n|art:artist_nationality = {{en|1=Swedish}}\n|c-0d8a08e5:customtext.original_title = {{da|Efterår i Skagen plantage}}\n|c-0d8a08e5:customtext.german_title = {{en|1=Herbst im Skagener Forst}}\n|c-0d8a08e5:creator.painter = {{en|1=Edvard Westman}}\n|google:display_date = 1888\n|google:is_artproject = TRUE\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:street_view_asset/id = EgG8_cSw-IrjfQ\n|google:street_view_level/id = 6291987383502185979\n|google:street_view_location = 57.724655151367188,10.59737491607666,2.4000000953674316,41q4hFRQOI_KDwsq_8nzww\n|google:partner/id = 000000000d8a08e5\n|google:picasa_token = LPyMcbYa5jwNTaJy3trcNkCvEp4\n|special:url_id = sgHT4OzKkxd4qw\n|google:partner/name = Skagens Museum\n|special:partner/name_no_lang = Skagens Museum\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1917}}\n\n[[Category:Edvard Westman]]\n[[Category:Google Art Project works by Edvard Westman]]\n[[Category:Paintings in Skagens Museum]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting159_commons_29868392",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

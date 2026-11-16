@@ -1,0 +1,118 @@
+{
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "id": "rosenberg_winter_sunset",
+  "proposedArtistId": "edward_rosenberg",
+  "checkedNames": [
+    "Edward Rosenberg",
+    "Edvard Rosenberg",
+    "Axel Edward Johan Rosenberg",
+    "Axel Edvard Johan Rosenberg"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "rosenberg_winter_sunset",
+    "file": "File:Edward Rosenberg-Solnedgång i vinterlandskap.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg/1280px-Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg/1280px-Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 787,
+      "attempt": 1,
+      "screenshot": "005-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2331,
+      "height": 1434,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    2331,
+    1434
+  ],
+  "metadata": {
+    "pageid": 7686585,
+    "title": "File:Edward Rosenberg-Solnedgång i vinterlandskap.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/62/Edward_Rosenberg-Solnedg%C3%A5ng_i_vinterlandskap.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2331,
+    "height": 1434,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q6079525\" class=\"extiw\" title=\"d:Q6079525\"><span title=\"Swedish artist (1858–1934)\">Edward Rosenberg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1921<div style=\"display: none;\">date QS:P571,+1921-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "www.norrkopingsauktionsverk.se",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|wikidata = Q141677388\n|Title = {{title|lang=sv|Solnedgång i vinterlandskap}}\n|Artist = {{Creator:Edward Rosenberg}}\n|Year = 1921\n|object type = painting \n|Technique = {{Technique|oil|canvas}}\n|Dimensions = {{size|cm|58|93}}\n|Gallery = \n|Location = \n|Source = www.norrkopingsauktionsverk.se\n|Permission = Public domain\n|Other versions = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1934}}\n\n[[Category:Edward Rosenberg]]\n[[Category:1921 paintings]]\n[[Category:1921 landscape paintings]]\n[[Category:Oil paintings of landscapes]]\n[[Category:20th-century paintings of sunsets]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting159_commons_7686585",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

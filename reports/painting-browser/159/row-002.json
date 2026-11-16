@@ -1,0 +1,111 @@
+{
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "id": "kronberg_romeo_juliet",
+  "proposedArtistId": "julius_kronberg",
+  "checkedNames": [
+    "Julius Kronberg",
+    "Johan Julius Ferdinand Kronberg"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "kronberg_romeo_juliet",
+    "file": "File:Julius Kronberg - Romeo och Julia på balkongen.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg/1280px-Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg/1280px-Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 2211,
+      "attempt": 1,
+      "screenshot": "002-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1414,
+      "height": 2442,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    1414,
+    2442
+  ],
+  "metadata": {
+    "pageid": 25146682,
+    "title": "File:Julius Kronberg - Romeo och Julia på balkongen.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Julius_Kronberg_-_Romeo_och_Julia_p%C3%A5_balkongen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1414,
+    "height": 2442,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Julius_Kronberg\" class=\"extiw\" title=\"w:en:Julius Kronberg\"><span title=\"Swedish artist (1850-1921)\">Julius Kronberg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1886<div style=\"display: none;\">date QS:P571,+1886-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Bukowskis – Arts &amp; Business, Autumn Classic Sale 559, 7-10 December 2010, lot <a rel=\"nofollow\" class=\"external text\" href=\"https://www.bukowskis.com/en/auctions/559/118-julius-kronberg-romeo-och-julia-pa-balkongen\">118</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{creator:Julius Kronberg}}\n |author             =\n |title              = {{title|sv=Romeo och Julia på balkongen|en=Romeo and Juliet on the balcony}}\n |object type        = painting\n |description        =\n |depicted people    =\n |depicted place     =\n |date               = 1886\n |medium             = {{oil on canvas}}\n |dimensions         = {{size|cm|271.5|160}}\n |institution        =\n |department         =\n |accession number   =\n |place of creation  =\n |place of discovery =\n |object history     =\n*{{ProvenanceEvent|type=purchase|newowner=Johan Edvard Francke (1824-91), {{occupation|wholesaler}} {{and}} {{occupation|art collector}}.}}\n*Thence by descent.\n |exhibition history =\n*Kungl. akademien för de fria konsterna, Stockholm, 1887.\n*Liljevalchs konsthall, Stockholm, \"Julius Kronberg. Minnesutställning\", 11 november – 2 december 1923, kat nr 101 (omnämnd i inledande katalogessä av Karl Asplund samt avbildad helsida, illustration 1).\n |credit line        =\n |inscriptions       = {{inscription|Julius Kronberg / Roma. 1886.|type=signature/place/date|position=lower left|lang=~}}\n |notes              =\n |references         =\n |source             = Bukowskis – Arts & Business, Autumn Classic Sale 559, 7-10 December 2010, lot [https://www.bukowskis.com/en/auctions/559/118-julius-kronberg-romeo-och-julia-pa-balkongen 118]\n |permission         =\n |other_versions     =\n |wikidata           =\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1921}}\n\n[[Category:Julius Kronberg]]\n[[Category:Paintings of Romeo and Juliet]]\n[[Category:Images from Bukowskis]]\n[[Category:Kisses in paintings]]\n[[Category:Balconies in art]]\n[[Category:Balustrades in art]]\n[[Category:Dagging]]\n[[Category:Ivy in paintings]]\n[[Category:Climbing in art]]\n[[Category:Bordeaux dresses]]\n[[Category:Plants in balconies]]\n[[Category:Tile flooring]]\n[[Category:1886 paintings]]\n[[Category:Paintings with signatures (lower left)]]\n[[Category:Paintings with years of production (artist)]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting159_commons_25146682",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

@@ -1,0 +1,118 @@
+{
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "id": "mina_carlson_bredberg_self_portrait",
+  "proposedArtistId": "mina_carlson_bredberg",
+  "checkedNames": [
+    "Mina Carlson-Bredberg",
+    "Wilhelmina Bredberg",
+    "Wilhelmina Carlson-Bredberg"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "mina_carlson_bredberg_self_portrait",
+    "file": "File:Self portrait - Mina Carlson-Bredberg.png"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/png",
+      "width": 590,
+      "height": 747,
+      "attempt": 1,
+      "screenshot": "000-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/png",
+      "width": 590,
+      "height": 747,
+      "attempt": 1,
+      "screenshot": "000-image.png",
+      "reused": true
+    }
+  ],
+  "native": [
+    590,
+    747
+  ],
+  "metadata": {
+    "pageid": 141813217,
+    "title": "File:Self portrait - Mina Carlson-Bredberg.png",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Self_portrait_-_Mina_Carlson-Bredberg.png",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Self_portrait_-_Mina_Carlson-Bredberg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/png",
+    "width": 590,
+    "height": 747,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Mina_Carlson-Bredberg\" class=\"extiw\" title=\"w:en:Mina Carlson-Bredberg\"><span title=\"Swedish painter (1857–1943)\">Mina Carlson-Bredberg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "Self portrait - Mina Carlson-Bredberg 1889",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1889<div style=\"display: none;\">date QS:P571,+1889-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.taldiacomohoy.es/post/mina-carlson-bredberg-1857-1943\">https://www.taldiacomohoy.es/post/mina-carlson-bredberg-1857-1943</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|description={{en|1=Self portrait - Mina Carlson-Bredberg 1889}}\n| object_type = painting\n| wikidata = Q130216028\n|date=1889\n|source=https://www.taldiacomohoy.es/post/mina-carlson-bredberg-1857-1943\n|author=Mina Carlson-Bredberg\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-old-70-expired}}\n\n[[Category:Self-portraits by Mina Carlson-Bredberg]]\n[[Category:1889 portrait paintings from Sweden]]\n[[Category:1889 oil on canvas paintings in Sweden]]\n[[Category:1880s paintings in Prins Eugens Waldemarsudde|9]]\n[[Category:Portrait paintings in Prins Eugens Waldemarsudde]]\n[[Category:1880s self-portrait paintings of women]]\n[[Category:Paintings by Mina Carlson-Bredberg in Prins Eugens Waldemarsudde]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting159_commons_141813217",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

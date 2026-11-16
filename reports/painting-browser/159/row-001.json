@@ -1,0 +1,111 @@
+{
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "id": "hellqvist_visby",
+  "proposedArtistId": "carl_gustaf_hellqvist",
+  "checkedNames": [
+    "Carl Gustaf Hellqvist",
+    "Karl Gustaf Hellqvist"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "hellqvist_visby",
+    "file": "File:Carl Gustaf Hellqvist - Valdemar Atterdag Holding Visby to Ransom, 1361 - Google Art Project.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg/1280px-Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg/1280px-Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 789,
+      "attempt": 1,
+      "screenshot": "001-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3492,
+      "height": 2152,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    3492,
+    2152
+  ],
+  "metadata": {
+    "pageid": 22264057,
+    "title": "File:Carl Gustaf Hellqvist - Valdemar Atterdag Holding Visby to Ransom, 1361 - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom,_1361_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Carl_Gustaf_Hellqvist_-_Valdemar_Atterdag_Holding_Visby_to_Ransom%2C_1361_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 3492,
+    "height": 2152,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Carl_Gustaf_Hellqvist\" class=\"extiw\" title=\"w:en:Carl Gustaf Hellqvist\"><span title=\"Swedish artist (1851-1890)\">Carl Gustaf Hellqvist</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1882<div style=\"display: none;\">date QS:P571,+1882-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/rAGxQ58xmMByBg\">rAGxQ58xmMByBg at Google Cultural Institute</a> maximum zoom level",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n| wikidata = Q3425758\n|commons_artist={{Creator:Carl Gustaf Hellqvist}}\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_year = 1851\n|artist_death_place = Munich\n|artist_death_year = 1890\n|artist_first_name = Carl\n|artist_gender = Male\n|artist_id = 464062\n|artist_last_name = Gustaf Hellqvist\n|artist_nationality = Swedish\n|artist_pretty_display_date = (1851 - 1890)\n|absolute_url = /collection/nationalmuseum-stockholm/artwork/valdemar-atterdag-holding-visby-to-ransom-1361-carl-gustaf-hellqvist/460070/\n|artist_display_name = Carl Gustaf Hellqvist\n|canonical_artist_detail_url = /artist/carl-gustaf-hellqvist/4128297/\n|canonical_artist_id = 4128297\n|collection_detail_url = /collection/nationalmuseum-stockholm/\n|collection_display_name = Nationalmuseum Stockholm\n|collection_id = 392279\n|collection_website = http://www.nationalmuseum.se/\n|created = 12/8/2011 2:26:37 PM\n|detail_url = /collection/nationalmuseum-stockholm/artwork/valdemar-atterdag-holding-visby-to-ransom-1361-carl-gustaf-hellqvist/460070/\n|earliest_date = 1882\n|facet_medium = Oil on canvas\n|height = 2000\n|id = 460070\n|in_streetview = False\n|latest_date = 1882\n|measurement_extent = without frame\n|modified = 3/24/2012 2:34:50 AM\n|museum_internal_id = {{Nationalmuseum Stockholm link|18434|NM 1431}}\n|object_rights = Nationalmuseum\n|object_work_type = Painting\n|pivot_earliest_decade = 1880\n|pivot_latest_decade = 1890\n|pretty_dimensions = w3300 x h2000 cm\n|pretty_display_date = 1882\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.62025316455696\n|primary_image_rights = Nationalmuseum\n|record_type = Object\n|slug = valdemar-atterdag-holding-visby-to-ransom-1361-carl-gustaf-hellqvist\n|title = Valdemar Atterdag Holding Visby to Ransom, 1361\n|title_firstletter = v\n|width = 3300\n|Medium = {{technique|oil|canvas}}\n|Signature = C.G. Hellqvist. 1882.\n|Title_in_Swedish = Valdemar Atterdag brandskattar Visby 1361\n|special:url_id = rAGxQ58xmMByBg\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1890}}\n\n[[Category:Google Art Project works by Carl Gustaf Hellqvist]]\n[[Category:Valdemar Atterdag brandskattar Visby]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting159_commons_22264057",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

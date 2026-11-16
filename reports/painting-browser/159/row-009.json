@@ -1,0 +1,114 @@
+{
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "id": "troili_self_portrait",
+  "proposedArtistId": "uno_troili",
+  "checkedNames": [
+    "Uno Troili",
+    "Gustaf Uno Troili",
+    "Gustav Uno Troili"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "troili_self_portrait",
+    "file": "File:Uno Troili - Self-portrait - NM 7545 - Nationalmuseum.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 884,
+      "height": 1000,
+      "attempt": 1,
+      "screenshot": "009-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 884,
+      "height": 1000,
+      "attempt": 1,
+      "screenshot": "009-image.png",
+      "reused": true
+    }
+  ],
+  "native": [
+    884,
+    1000
+  ],
+  "metadata": {
+    "pageid": 103262247,
+    "title": "File:Uno Troili - Self-portrait - NM 7545 - Nationalmuseum.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Uno_Troili_-_Self-portrait_-_NM_7545_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 884,
+    "height": 1000,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Uno_Troili\" class=\"extiw\" title=\"w:en:Uno Troili\"><span title=\"Swedish painter (1815-1875)\">Uno Troili</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "between 1848 and 1852<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1848-00-00T00:00:00Z/9,P1326,+1852-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q106368471#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=237296&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1875}}\n\n[[Category:Portrait paintings in the Nationalmuseum Stockholm]]\n[[Category:Uno Troili]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting159_commons_103262247",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

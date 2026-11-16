@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "status": "extracted_not_editorially_approved",
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "browserStatus": "passed_selected_targets",
+  "browserSmokePassed": true,
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "modules": 157,
+  "artists": 1106,
+  "cards": 777,
+  "counts": {
+    "selected": 10,
+    "passed": 10,
+    "failed": 0,
+    "pending": 0
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false,
+  "rows": [
+    {
+      "id": "mina_carlson_bredberg_self_portrait",
+      "path": "reports/painting-browser/159/row-000.json",
+      "status": "passed",
+      "proposedArtistId": "mina_carlson_bredberg",
+      "canonicalFile": "File:Self portrait - Mina Carlson-Bredberg.png",
+      "pageid": 141813217,
+      "artist": "Mina Carlson-Bredberg",
+      "date": "1889",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 590,
+          "height": 747
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 590,
+          "height": 747
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_141813217",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "hellqvist_visby",
+      "path": "reports/painting-browser/159/row-001.json",
+      "status": "passed",
+      "proposedArtistId": "carl_gustaf_hellqvist",
+      "canonicalFile": "File:Carl Gustaf Hellqvist - Valdemar Atterdag Holding Visby to Ransom, 1361 - Google Art Project.jpg",
+      "pageid": 22264057,
+      "artist": "Carl Gustaf Hellqvist",
+      "date": "1882",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 789
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 3492,
+          "height": 2152
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_22264057",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "kronberg_romeo_juliet",
+      "path": "reports/painting-browser/159/row-002.json",
+      "status": "passed",
+      "proposedArtistId": "julius_kronberg",
+      "canonicalFile": "File:Julius Kronberg - Romeo och Julia på balkongen.jpg",
+      "pageid": 25146682,
+      "artist": "Julius Kronberg",
+      "date": "1886",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 2211
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 1414,
+          "height": 2442
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_25146682",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "birger_montmartre",
+      "path": "reports/painting-browser/159/row-003.json",
+      "status": "passed",
+      "proposedArtistId": "hugo_birger",
+      "canonicalFile": "File:A Street in Paris. Study from Montmartre (Hugo Birger) - Nationalmuseum - 18854.tif",
+      "pageid": 52114418,
+      "artist": "Hugo Birger",
+      "date": "Unknown date",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 1493
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 1920,
+          "height": 2240
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_52114418",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "backmansson_astrom",
+      "path": "reports/painting-browser/159/row-004.json",
+      "status": "passed",
+      "proposedArtistId": "hugo_backmansson",
+      "canonicalFile": "File:Karl Bruno Åström (H Backmansson) - Nationalmuseum - 39049.tif",
+      "pageid": 64083757,
+      "artist": "Hugo Backmansson",
+      "date": "1906",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 1561
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 1920,
+          "height": 2342
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_64083757",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "rosenberg_winter_sunset",
+      "path": "reports/painting-browser/159/row-005.json",
+      "status": "passed",
+      "proposedArtistId": "edward_rosenberg",
+      "canonicalFile": "File:Edward Rosenberg-Solnedgång i vinterlandskap.jpg",
+      "pageid": 7686585,
+      "artist": "Edward Rosenberg",
+      "date": "1921",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 787
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 2331,
+          "height": 1434
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_7686585",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "westman_skagen",
+      "path": "reports/painting-browser/159/row-006.json",
+      "status": "passed",
+      "proposedArtistId": "edvard_westman",
+      "canonicalFile": "File:Edvard Westman - Autumn in Skagen Plantation - Google Art Project.jpg",
+      "pageid": 29868392,
+      "artist": "Unknown author Unknown author (1865-05-16/1917-09-23)",
+      "date": "1888",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 579,
+          "height": 452
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 579,
+          "height": 452
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_29868392",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "cederstrom_charles_xii",
+      "path": "reports/painting-browser/159/row-007.json",
+      "status": "passed",
+      "proposedArtistId": "gustaf_cederstrom",
+      "canonicalFile": "File:Gustaf Cederström - Bringing Home the Body of King Karl XII of Sweden - Google Art Project.jpg",
+      "pageid": 22007143,
+      "artist": "Gustaf Cederström",
+      "date": "1884",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 1280,
+          "height": 910
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 3840,
+          "height": 2730
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_22007143",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "wallander_signhild",
+      "path": "reports/painting-browser/159/row-008.json",
+      "status": "passed",
+      "proposedArtistId": "josef_wilhelm_wallander",
+      "canonicalFile": "File:Signhild.jpg",
+      "pageid": 6435569,
+      "artist": "Josef Wilhelm Wallander",
+      "date": "1861",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 480,
+          "height": 580
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 480,
+          "height": 580
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_6435569",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "troili_self_portrait",
+      "path": "reports/painting-browser/159/row-009.json",
+      "status": "passed",
+      "proposedArtistId": "uno_troili",
+      "canonicalFile": "File:Uno Troili - Self-portrait - NM 7545 - Nationalmuseum.jpg",
+      "pageid": 103262247,
+      "artist": "Uno Troili",
+      "date": "between 1848 and 1852",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "width": 884,
+          "height": 1000
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "width": 884,
+          "height": 1000
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting159_commons_103262247",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    }
+  ]
+}

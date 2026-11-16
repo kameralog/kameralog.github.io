@@ -1,0 +1,111 @@
+{
+  "sourceReportCommit": "5f1ceacc059f7f69a4bd36a104da4bceeda23823",
+  "sourceReportBlob": "9e27201bc1c764cbf086fd14abbf545c923de7e6",
+  "browserRunId": "43867812458",
+  "auditSnapshot": "64076b43a35ea6b55c7dead1017f31d9008342ab",
+  "id": "cederstrom_charles_xii",
+  "proposedArtistId": "gustaf_cederstrom",
+  "checkedNames": [
+    "Gustaf Cederström",
+    "Gustaf Olof Cederström"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "cederstrom_charles_xii",
+    "file": "File:Gustaf Cederström - Bringing Home the Body of King Karl XII of Sweden - Google Art Project.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/1280px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/1280px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 910,
+      "attempt": 1,
+      "screenshot": "007-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/3840px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg/3840px-Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2730,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    11077,
+    7875
+  ],
+  "metadata": {
+    "pageid": 22007143,
+    "title": "File:Gustaf Cederström - Bringing Home the Body of King Karl XII of Sweden - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gustaf_Cederstr%C3%B6m_-_Bringing_Home_the_Body_of_King_Karl_XII_of_Sweden_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 11077,
+    "height": 7875,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Gustaf_Cederstr%C3%B6m\" class=\"extiw\" title=\"w:en:Gustaf Cederström\"><span title=\"Swedish painter (1845-1933)\">Gustaf Cederström</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1884<div style=\"display: none;\">date QS:P571,+1884-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/YAGDNp0MUOntjA\">YAGDNp0MUOntjA at Google Cultural Institute</a> maximum zoom level",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{LargeImage}}\n=={{int:filedesc}}==\n{{Google Art Project\n | wikidata = Q10543734\n|commons_artist=\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_year = 1845\n|artist_death_year = 1933\n|artist_first_name = Gustaf\n|artist_gender = Male\n|artist_id = 467064\n|artist_last_name = Cederström\n|artist_nationality = \n|artist_pretty_display_date = \n|absolute_url = /collection/nationalmuseum-stockholm/artwork/bringing-home-the-body-of-king-karl-xii-of-sweden-gustaf-cederstrom/467065/\n|artist_display_name = {{Creator:Gustaf Cederström}}\n|canonical_artist_detail_url = /artist/gustaf-cederstrom/4130259/\n|canonical_artist_id = 4130259\n|collection_detail_url = /collection/nationalmuseum-stockholm/\n|collection_display_name = Nationalmuseum Stockholm\n|collection_id = 392279\n|collection_website = http://www.nationalmuseum.se/\n|created = 12/8/2011 2:26:56 PM\n|detail_url = /collection/nationalmuseum-stockholm/artwork/bringing-home-the-body-of-king-karl-xii-of-sweden-gustaf-cederstrom/467065/\n|earliest_date = 1884\n|facet_medium = Oil on canvas\n|height = 2650\n|id = 467065\n|in_streetview = False\n|latest_date = 1884\n|measurement_extent = without frame\n|modified = 3/24/2012 2:45:36 AM\n|museum_internal_id = {{Nationalmuseum Stockholm link|18366|NM 1363}}\n|object_rights = Nationalmuseum\n|object_work_type = Painting\n|pivot_earliest_decade = 1880\n|pivot_latest_decade = 1890\n|pretty_dimensions = w3710 x h2650 cm\n|pretty_display_date = 1884\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.40659340659341\n|primary_image_rights = Nationalmuseum\n|record_type = Object\n|slug = bringing-home-the-body-of-king-karl-xii-of-sweden-gustaf-cederstrom\n|title = Bringing Home the Body of King Karl XII of Sweden\n|title_firstletter = b\n|width = 3710\n|Medium = {{technique|oil|canvas}}\n|Signature = G. Cederström Krusenberg 1884.\n|Title_in_Swedish = Karl XIIs likfärd\n|special:url_id = YAGDNp0MUOntjA\n}}\n=={{int:license-header}}==\n{{PD-Art-two-auto|1933}}\n[[Category:Google Art Project works by Gustaf Cederström]]\n\n[[Category:Funeral procession of King Charles XII (Cederström)| ]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting159_commons_22007143",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}
