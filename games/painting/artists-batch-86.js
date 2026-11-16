@@ -1,3 +1,5 @@
+/*wiki-uffizi-batch6-v1*/
+(()=>{const previous=window.registerPaintingArtists;window.registerPaintingArtists=function(batch){for(const p of [{"number":276,"artistId":"luca_giordano","work":{"key":"wiki-uffizi-batch6:Q52157997","title":"Автопортрет","date":"около 1670","author":"Лука Джордано","medium":"","museum":"Галереи Уффици, Флоренция","source":"https://commons.wikimedia.org/wiki/File:Luca_Giordano_Fapresto.jpg","image":"https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Luca_Giordano_Fapresto.jpg/960px-Luca_Giordano_Fapresto.jpg","zoom":"https://upload.wikimedia.org/wikipedia/commons/0/02/Luca_Giordano_Fapresto.jpg","imageSource":"https://commons.wikimedia.org/wiki/File:Luca_Giordano_Fapresto.jpg","license":"Public domain","creditLine":"Лука Джордано; Wikimedia Commons; Public domain","imageWidth":960,"imageHeight":1055,"originalImageWidth":1289,"originalImageHeight":1417,"imageVisuallyReviewed":false,"imageReviewStatus":"Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён","look":"Источник репродукции и сведения о правах — в карточке конкретного файла Commons. Репродукция: Лука Джордано; Wikimedia Commons; Public domain. https://commons.wikimedia.org/wiki/File:Luca_Giordano_Fapresto.jpg"}}]){const a=batch[p.artistId];if(!a)continue;a.works=a.works||[];if(a.works.some(w=>w.key===p.work.key))throw Error('Duplicate');a.works.push(p.work);a.sources=a.sources||[];for(const link of [['Репродукция: '+p.work.title,p.work.imageSource],['Источник: '+p.work.title,p.work.source]])if(!a.sources.some(x=>x[1]===link[1]))a.sources.push(link);a.editorialStatus=(a.pendingWorks||[]).length?'partially_illustrated':'illustrated';}return previous.call(window,batch);};try{
 /*museum-wikidata-bindings-v2*/
 (()=>{const previous=window.registerPaintingArtists;window.registerPaintingArtists=function(batch){(function patch(batch,patches){for(const p of patches){const a=batch[p.artistId];if(!a)continue;a.works=a.works||[];a.pendingWorks=a.pendingWorks||[];if(a.works.some(w=>w.key===p.key)){if(!a.works.some(w=>w.key===p.key&&w.image===p.image))throw Error('Installed binding differs');continue;}
 let old={};if(p.mode==='promote_pending'){const matches=a.pendingWorks.filter(w=>p.pendingKey?w.key===p.pendingKey:w.source===p.source);if(matches.length!==1||matches[0].source!==p.source)throw Error('Pending target changed');old=matches[0];if(old.image)throw Error('Existing image must not be overwritten');a.pendingWorks=a.pendingWorks.filter(w=>w!==old);}else if(p.mode!=='create_work')throw Error('Unknown mode');
@@ -58,6 +60,8 @@ B.paolo_porpora.sources.push(['Национальный музей Швеции:
 if(typeof window.registerPaintingArtists!=='function')throw Error('Painting artist registry unavailable');
 window.registerPaintingArtists(B);
 })();
+
+}finally{window.registerPaintingArtists=previous;}})();
 
 }finally{window.registerPaintingArtists=previous;}})();
 
