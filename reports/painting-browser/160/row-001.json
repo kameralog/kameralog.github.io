@@ -1,0 +1,140 @@
+{
+  "sourceReportCommit": "930866e787599e13090795a8f94390d146658386",
+  "sourceReportBlob": "4efb11d23d7333c5dd7a3e77c8d0262db5f8dab8",
+  "browserRunId": "43936733223",
+  "auditSnapshot": "21860a1665837958b373886910d795b8611cf3e7",
+  "id": "axel_borg_jester",
+  "proposedArtistId": "axel_borg",
+  "checkedNames": [
+    "Axel Borg",
+    "Аксель Борг"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "axel_borg_jester",
+    "file": "File:Axel Borg - Gycklare med apa.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Axel_Borg_-_Gycklare_med_apa.jpg/1280px-Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Axel_Borg_-_Gycklare_med_apa.jpg/1280px-Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1807,
+      "attempt": 1,
+      "screenshot": "001-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2530,
+      "height": 3572,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    2530,
+    3572
+  ],
+  "metadata": {
+    "pageid": 30094554,
+    "title": "File:Axel Borg - Gycklare med apa.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Axel_Borg_-_Gycklare_med_apa.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Axel_Borg_-_Gycklare_med_apa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2530,
+    "height": 3572,
+    "extmetadata": {
+      "DateTime": {
+        "value": "2021-08-12 13:27:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Gycklare med apa</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Gycklare med apa\"</div><div style=\"display: none;\">label QS:Lsv,\"Gycklare med apa\"</div></div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Paintings from Sweden|Axel Borg|Paintings of monkeys|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|CC-PD-Mark|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q5582334\" class=\"extiw\" title=\"d:Q5582334\"><span title=\"Swedish artist (1847-1916)\">Axel Borg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "before 1917<div style=\"display: none;\">date QS:P571,+1917-00-00T00:00:00Z/7,P1326,+1917-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.bukowskis.com/auctions/571/38-axel-borg-gycklare-med-apa?category%5B%5D=71&amp;page=2\">https://www.bukowskis.com/auctions/571/38-axel-borg-gycklare-med-apa?category%5B%5D=71&amp;page=2</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |wikidata = Q110154090\n |Title = {{title|lang=sv|Gycklare med apa}}\n |Artist = {{creator:Axel Borg}}\n |Year = {{otherdate|before|1917}}\n |object type = painting \n |Technique = {{Technique|oil|canvas}}\n |Dimensions = {{size|cm|90.5|65}}\n |Gallery = \n |Location = \n |Source = https://www.bukowskis.com/auctions/571/38-axel-borg-gycklare-med-apa?category%5B%5D=71&page=2\n |Permission = Public domain\n |Other versions = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1916}} \n\n[[Category:Paintings from Sweden]]\n[[Category:Axel Borg]]\n[[Category:Paintings of monkeys]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting160_commons_30094554",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

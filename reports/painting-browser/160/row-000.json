@@ -1,0 +1,148 @@
+{
+  "sourceReportCommit": "930866e787599e13090795a8f94390d146658386",
+  "sourceReportBlob": "4efb11d23d7333c5dd7a3e77c8d0262db5f8dab8",
+  "browserRunId": "43936733223",
+  "auditSnapshot": "21860a1665837958b373886910d795b8611cf3e7",
+  "id": "oscar_torna_grez",
+  "proposedArtistId": "oscar_torna",
+  "checkedNames": [
+    "Oscar Törnå",
+    "Oskar Törnå",
+    "Oskar Emil Törnå",
+    "Oscar Emil Törnå",
+    "Оскар Тёрно",
+    "Оскар Тёрна"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "oscar_torna_grez",
+    "file": "File:Landscape near Grez-sur-Loing (Oscar Törnå) - Nationalmuseum - 19129.tif"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-1280px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-1280px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 787,
+      "attempt": 1,
+      "screenshot": "000-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-3840px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif/lossy-page1-3840px-Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2360,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    4008,
+    2463
+  ],
+  "metadata": {
+    "pageid": 52133172,
+    "title": "File:Landscape near Grez-sur-Loing (Oscar Törnå) - Nationalmuseum - 19129.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Landscape_near_Grez-sur-Loing_(Oscar_T%C3%B6rn%C3%A5)_-_Nationalmuseum_-_19129.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/79/Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 4008,
+    "height": 2463,
+    "extmetadata": {
+      "DateTime": {
+        "value": "2016-10-08 09:14:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Landscape near Grez-sur-Loing",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "PD-Art (PD-old-auto)|Artworks with Wikidata item|Artworks with known accession number|PD-old-100|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Images from the Nationalmuseum Stockholm|1876 oil on canvas paintings in Sweden|Media contributed by Nationalmuseum Stockholm: 2016-10|1876 landscape paintings from Sweden|Grez-sur-Loing in art|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work|1870s paintings in the Nationalmuseum Stockholm|19th-century landscape paintings in the Nationalmuseum Stockholm|Paintings by Oscar Törnå in the Nationalmuseum Stockholm",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Oscar_T%C3%B6rn%C3%A5\" class=\"extiw\" title=\"w:en:Oscar Törnå\"><span title=\"Swedish painter (1842-1894)\">Oskar Emil Törnå</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "Oscar Törnå went to France in the 1870s and was immediately enthralled by the new plein-air painting. He was one of the first Swedes who joined the artist colony in Grez-sur-Loing. In 1876-1877, he made numerous paintings of the countryside around Grez. This is one of them, signed September 1876. Törnå was also instrumental in spreading the new plein-air painting in Sweden. The link to Sweden is demonstrated in this work – after returning to Sweden, he painted a landscape from Skedevi in the province of Östergötland on the back of the canvas.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1876<div style=\"display: none;\">date QS:P571,+1876-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=19129&amp;viewType=detailView\">  Hans Thorwid / Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p>The author died in 1894, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Oskar Emil Törnå}}\n |title                = {{en|Landscape near Grez-sur-Loing}} {{sv|Landskap från Grez-sur-Loing}}\n |wikidata             = Q18599124\n |object_type          = painting\n |description          = {{en|Oscar Törnå went to France in the 1870s and was immediately enthralled by the new plein-air painting. He was one of the first Swedes who joined the artist colony in Grez-sur-Loing. In 1876-1877, he made numerous paintings of the countryside around Grez. This is one of them, signed September 1876. Törnå was also instrumental in spreading the new plein-air painting in Sweden. The link to Sweden is demonstrated in this work – after returning to Sweden, he painted a landscape from Skedevi in the province of Östergötland on the back of the canvas.}} {{sv|Oscar Törnå kom till Frankrike på 1870-talet och tilltalades omedelbart av det nya friluftsmåleriet. Han var en av de första svenskarna som begav sig till konstnärskolonin i Grez-sur-Loing. Under åren 1876–1877 utförde han en rad målningar från trakterna kring Grez. Dit hör det här landskapet, signerat i september 1876. Törnå blev också en viktig förmedlare av det nya friluftsmåleriet i Sverige. Här är denna koppling särskilt tydlig – på dukens baksida har han efter hemkomsten målat ett landskap från Skedevi i Östergötland}}\n |other_fields_2       = {{Information field|name={{original caption/i18n|header}}|value={{en|Oscar Törnå went to France in the 1870s and was immediately enthralled by the new plein-air painting. He was one of the first Swedes who joined the artist colony in Grez-sur-Loing. In 1876-1877, he made numerous paintings of the countryside around Grez. This is one of them, signed September 1876. Törnå was also instrumental in spreading the new plein-air painting in Sweden. The link to Sweden is demonstrated in this work – after returning to Sweden, he painted a landscape from Skedevi in the province of Östergötland on the back of the canvas.}} {{sv|Oscar Törnå kom till Frankrike på 1870-talet och tilltalades omedelbart av det nya friluftsmåleriet. Han var en av de första svenskarna som begav sig till konstnärskolonin i Grez-sur-Loing. Under åren 1876–1877 utförde han en rad målningar från trakterna kring Grez. Dit hör det här landskapet, signerat i september 1876. Törnå blev också en viktig förmedlare av det nya friluftsmåleriet i Sverige. Här är denna koppling särskilt tydlig – på dukens baksida har han efter hemkomsten målat ett landskap från Skedevi i Östergötland}}}}\n |date                 = 1876\n |medium               = {{Oil on canvas}}\n |dimensions           = \n* {{Size|unit=cm|width=77|height=43|depth=}}\n* ''Framed'': {{Size|unit=cm|width=88|height=53|depth=6}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = {{sv|Signerad: Oscar Törnå Sept. 1876. Grez-sur-Loing.}}\n |accession number     = NM 2069 recto\n |place of creation    = \n |source               ={{Nationalmuseum Stockholm link|19129| Hans Thorwid / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1894}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n[[Category:19th-century landscape paintings in the Nationalmuseum Stockholm]]\n<!-- Content categories -->\n[[Category:Paintings by Oscar Törnå in the Nationalmuseum Stockholm]]\n[[Category:1876 landscape paintings from Sweden]]\n[[Category:1876 oil on canvas paintings in Sweden]]\n[[Category:1870s paintings in the Nationalmuseum Stockholm|6]]\n[[Category:Grez-sur-Loing in art]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting160_commons_52133172",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

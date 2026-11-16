@@ -1,0 +1,140 @@
+{
+  "sourceReportCommit": "930866e787599e13090795a8f94390d146658386",
+  "sourceReportBlob": "4efb11d23d7333c5dd7a3e77c8d0262db5f8dab8",
+  "browserRunId": "43936733223",
+  "auditSnapshot": "21860a1665837958b373886910d795b8611cf3e7",
+  "id": "joseph_magnus_stack_capri",
+  "proposedArtistId": "joseph_magnus_stack",
+  "checkedNames": [
+    "Joseph Magnus Stäck",
+    "Josef Magnus Stäck",
+    "Joseph Magnus Stack",
+    "Josef Magnus Stack",
+    "Йозеф Магнус Стэк"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "joseph_magnus_stack_capri",
+    "file": "File:Joseph Magnus Stäck - View from Capri - NM 6790 - Nationalmuseum.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 853,
+      "attempt": 1,
+      "screenshot": "006-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 853,
+      "attempt": 1,
+      "screenshot": "006-image.png",
+      "reused": true
+    }
+  ],
+  "native": [
+    1000,
+    853
+  ],
+  "metadata": {
+    "pageid": 103263388,
+    "title": "File:Joseph Magnus Stäck - View from Capri - NM 6790 - Nationalmuseum.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1000,
+    "height": 853,
+    "extmetadata": {
+      "DateTime": {
+        "value": "2021-04-08 01:25:48",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Motiv från Capri <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Motif from Capri</i></div></div><div style=\"display: none;\">title QS:P1476,sv:\"Motiv från Capri <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lsv,\"Motiv från Capri <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Motif from Capri\"</div></div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Capri in art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|1840s landscape paintings from Sweden|Artworks with Wikidata item missing genre|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|19th-century landscape paintings in the Nationalmuseum Stockholm|Framed paintings in the Nationalmuseum|1840s paintings in the Nationalmuseum Stockholm|Paintings by Joseph Magnus Stäck in the Nationalmuseum Stockholm",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Joseph_Magnus_St%C3%A4ck\" class=\"extiw\" title=\"w:en:Joseph Magnus Stäck\"><span title=\"Swedish artist and painter (1812-1868)\">Joseph Magnus Stäck</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "between 1840 and 1849<div style=\"display: none;\">date QS:P,+1840-00-00T00:00:00Z/8,P1319,+1840-00-00T00:00:00Z/9,P1326,+1849-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18601502#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=23839&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1868}}\n\n[[Category:19th-century landscape paintings in the Nationalmuseum Stockholm]]\n[[Category:Paintings by Joseph Magnus Stäck in the Nationalmuseum Stockholm]]\n[[Category:Framed paintings in the Nationalmuseum]]\n[[Category:Capri in art]]\n[[Category:1840s landscape paintings from Sweden]]\n[[Category:1840s paintings in the Nationalmuseum Stockholm]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting160_commons_103263388",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

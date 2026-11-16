@@ -1,0 +1,149 @@
+{
+  "sourceReportCommit": "930866e787599e13090795a8f94390d146658386",
+  "sourceReportBlob": "4efb11d23d7333c5dd7a3e77c8d0262db5f8dab8",
+  "browserRunId": "43936733223",
+  "auditSnapshot": "21860a1665837958b373886910d795b8611cf3e7",
+  "id": "august_hagborg_shore",
+  "proposedArtistId": "august_hagborg",
+  "checkedNames": [
+    "August Hagborg",
+    "Август Хагборг"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "august_hagborg_shore",
+    "file": "File:Shore with Boats (August Hagborg) - Gothenburg Museum of Art - F 32b.tif"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-1280px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-1280px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 829,
+      "attempt": 1,
+      "screenshot": "004-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-3840px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif/lossy-page1-3840px-Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2486,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    7298,
+    4724
+  ],
+  "metadata": {
+    "pageid": 112975685,
+    "title": "File:Shore with Boats (August Hagborg) - Gothenburg Museum of Art - F 32b.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Shore_with_Boats_(August_Hagborg)_-_Gothenburg_Museum_of_Art_-_F_32b.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Shore_with_Boats_%28August_Hagborg%29_-_Gothenburg_Museum_of_Art_-_F_32b.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 7298,
+    "height": 4724,
+    "extmetadata": {
+      "DateTime": {
+        "value": "2021-12-01 16:01:34",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Shore with Boats",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Artworks with Wikidata item|Artworks with known accession number|Fürstenbergska galleriet|Artworks with Wikidata item missing dimensions|Content made available through Wikimedia Sverige partnerships|Media contributed by Göteborgs konstmuseum: 2021-10|1881 oil on canvas paintings in Sweden|1881 landscape paintings from Sweden|Göteborgs museer – 2021 bilder år 2021|1881 marine paintings|Artworks digital representation of 2D work|Media contributed by Göteborgs konstmuseum|Paintings by August Hagborg in Göteborgs Konstmuseum|1880s paintings in Göteborgs Konstmuseum",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<div class=\"fn value\">\n<a href=\"https://www.wikidata.org/wiki/Q2870939\" class=\"extiw\" title=\"d:Q2870939\"><span title=\"Swedish artist (1852-1921)\">August Hagborg</span></a></div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1881<div style=\"display: none;\">date QS:P571,+1881-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/120px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"76\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png/250px-G%C3%B6teborg_kommunvapen_-_Riksarkivet_Sverige.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1441\" data-file-height=\"1675\"></a></span>\n</td>\n<td>This file was provided to Wikimedia Commons by <b>Göteborgs museer och konsthall</b> as part of a <a href=\"//commons.wikimedia.org/wiki/Commons:G%C3%B6teborgs_museer_%E2%80%93_2021_bilder_%C3%A5r_2021\" title=\"Commons:Göteborgs museer – 2021 bilder år 2021\">cooperation project</a> with Wikimedia Sverige.\n</td>\n<td style=\"width:60px\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige/en\" title=\"Wikimedia Sverige\"><img alt=\"Wikimedia Sverige\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"119\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"581\" data-file-height=\"435\"></a></span>\n</td></tr></tbody></table>\n <a rel=\"nofollow\" class=\"external text\" href=\"http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=2097&amp;viewType=detailView\">Göteborgs konstmuseum</a>, foto: Hossein Sehatlou",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n|wikidata=Q130736704\n| title = {{sv|Strand med båtar}} {{en|Shore with Boats}}\n| artist = {{Q|Q2870939}}\n| date = 1881\n| medium = {{sv|Olja på pannå}} {{en|Oil on panel}}\n| dimensions = 27,00 x 41,00 cm\n| institution = {{institution:Göteborgs konstmuseum}}\n| credit line = {{sv| Testamentarisk gåva av Pontus och Göthilda Fürstenberg 1902}} {{en| Bequest of Pontus and Göthilda Fürstenberg, 1902}}\n| inscriptions = \n| notes = {{Q|Q10857409}}\n| accession number = F 32b\n| object type = painting\n| depicted_people = \n| depicted place = \n| place of creation = {{Q|Q142}}\n| source = {{Göteborg museums cooperation project}} [http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=2097&viewType=detailView Göteborgs konstmuseum], foto: Hossein Sehatlou\n| permission = {{Cc-by-4.0|Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou}}\n}}\n\n<!-- Content categories -->\n[[Category:Paintings by August Hagborg in Göteborgs Konstmuseum]]\n[[Category:Fürstenbergska galleriet]]\n[[Category:Media contributed by Göteborgs konstmuseum: 2021-10]]\n[[Category:Media contributed by Göteborgs konstmuseum]]\n[[Category:Göteborgs museer – 2021 bilder år 2021]]\n[[Category:1881 landscape paintings from Sweden]]\n[[Category:1881 marine paintings]]\n[[Category:1881 oil on canvas paintings in Sweden]]\n[[Category:1880s paintings in Göteborgs Konstmuseum]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting160_commons_112975685",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

@@ -1,0 +1,142 @@
+{
+  "sourceReportCommit": "930866e787599e13090795a8f94390d146658386",
+  "sourceReportBlob": "4efb11d23d7333c5dd7a3e77c8d0262db5f8dab8",
+  "browserRunId": "43936733223",
+  "auditSnapshot": "21860a1665837958b373886910d795b8611cf3e7",
+  "id": "kilian_zoll_midsummer",
+  "proposedArtistId": "kilian_zoll",
+  "checkedNames": [
+    "Kilian Zoll",
+    "Kilian Christoffer Zoll",
+    "Killian Zoll",
+    "Килиан Цолль"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "kilian_zoll_midsummer",
+    "file": "File:Midsummer Dance at Rättvik (Kilian Zoll) - Nationalmuseum - 19489.tif"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1280px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1280px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 977,
+      "attempt": 1,
+      "screenshot": "007-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1920px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif/lossy-page1-1920px-Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1920,
+      "height": 1465,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    3250,
+    2480
+  ],
+  "metadata": {
+    "pageid": 52123357,
+    "title": "File:Midsummer Dance at Rättvik (Kilian Zoll) - Nationalmuseum - 19489.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Midsummer_Dance_at_R%C3%A4ttvik_(Kilian_Zoll)_-_Nationalmuseum_-_19489.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 3250,
+    "height": 2480,
+    "extmetadata": {
+      "DateTime": {
+        "value": "2016-10-07 23:28:00",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Midsummer Dance at Rättvik",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Paintings of Dalarna|PD-Art (PD-old-auto)|Artworks with Wikidata item|Artworks with known accession number|PD-old-100|Content made available through Wikimedia Sverige partnerships|CC-PD-Mark|Images from the Nationalmuseum Stockholm|1852 oil on canvas paintings in Sweden|Media contributed by Nationalmuseum Stockholm: 2016-10|Artworks with Wikidata item missing genre|1852 genre paintings from Sweden|Licensed-PD-Art missing SDC copyright license|Artworks digital representation of 2D work|1850s paintings in the Nationalmuseum Stockholm|19th-century genre paintings in the Nationalmuseum Stockholm|Paintings by Kilian Zoll in the Nationalmuseum Stockholm",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Kilian_Zoll\" class=\"extiw\" title=\"w:en:Kilian Zoll\"><span title=\"Swedish painter (1818-1860)\">Kilian Zoll</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1852<div style=\"display: none;\">date QS:P571,+1852-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=19489&amp;viewType=detailView\"> Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p>The author died in 1860, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:Kilian Zoll}}\n |title                = {{en|Midsummer Dance at Rättvik}} {{sv|Midsommardans i Rättvik}}\n |wikidata             = Q18574509\n |object_type          = painting\n |description          = \n |other_fields_2       = \n |date                 = 1852\n |medium               = {{oil on canvas}}\n |dimensions           = \n* {{Size|unit=cm|width=41|height=31.5|depth=}}\n* ''Framed'': {{Size|unit=cm|width=56|height=46|depth=10}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = \n |accession number     = NM 2428\n |place of creation    = \n |source               = {{Nationalmuseum Stockholm link|19489|Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1860}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n[[Category:19th-century genre paintings in the Nationalmuseum Stockholm]]\n\n<!-- Content categories -->\n[[Category:Paintings by Kilian Zoll in the Nationalmuseum Stockholm]]\n[[Category:1850s paintings in the Nationalmuseum Stockholm|2]]\n[[Category:Paintings of Dalarna]]\n[[Category:1852 genre paintings from Sweden]]\n[[Category:1852 oil on canvas paintings in Sweden]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting160_commons_52123357",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

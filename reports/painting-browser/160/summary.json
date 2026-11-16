@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "status": "extracted_not_editorially_approved",
+  "sourceReportCommit": "930866e787599e13090795a8f94390d146658386",
+  "sourceReportBlob": "4efb11d23d7333c5dd7a3e77c8d0262db5f8dab8",
+  "browserRunId": "43936733223",
+  "auditSnapshot": "21860a1665837958b373886910d795b8611cf3e7",
+  "browserStatus": "passed_selected_targets",
+  "browserSmokePassed": true,
+  "manifest": "tools/painting-browser/batch-160-candidates.json",
+  "selectionComplete": true,
+  "errors": [],
+  "modules": 158,
+  "artists": 1116,
+  "cards": 777,
+  "counts": {
+    "selected": 10,
+    "completed": 10,
+    "passed": 10,
+    "failed": 0
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false,
+  "rows": [
+    {
+      "id": "oscar_torna_grez",
+      "path": "reports/painting-browser/160/row-000.json",
+      "status": "passed",
+      "proposedArtistId": "oscar_torna",
+      "canonicalFile": "File:Landscape near Grez-sur-Loing (Oscar Törnå) - Nationalmuseum - 19129.tif",
+      "pageid": 52133172,
+      "artist": "Oskar Emil Törnå",
+      "date": "1876",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 787
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 3840,
+          "height": 2360
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_52133172",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "axel_borg_jester",
+      "path": "reports/painting-browser/160/row-001.json",
+      "status": "passed",
+      "proposedArtistId": "axel_borg",
+      "canonicalFile": "File:Axel Borg - Gycklare med apa.jpg",
+      "pageid": 30094554,
+      "artist": "Axel Borg",
+      "date": "before 1917",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 1807
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 2530,
+          "height": 3572
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_30094554",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "axel_kulle_fishergirl",
+      "path": "reports/painting-browser/160/row-002.json",
+      "status": "passed",
+      "proposedArtistId": "axel_kulle",
+      "canonicalFile": "File:Fishergirl from Skåne (Henrik Axel Kulle) - Gothenburg Museum of Art - F 63.tif",
+      "pageid": 112968680,
+      "artist": "Axel Kulle",
+      "date": "1884",
+      "licenseDeclared": "CC BY 4.0",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 1589
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 3840,
+          "height": 4768
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_112968680",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "ferdinand_fagerlin_bachelorhood",
+      "path": "reports/painting-browser/160/row-003.json",
+      "status": "passed",
+      "proposedArtistId": "ferdinand_fagerlin",
+      "canonicalFile": "File:Ferdinand Fagerlin - The Hardships of Bachelorhood - NG.M.00234 - National Museum of Art, Architecture and Design.jpg",
+      "pageid": 97995336,
+      "artist": "Ferdinand Julius Fagerlin",
+      "date": "1866",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 1446
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 2655,
+          "height": 3000
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_97995336",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "august_hagborg_shore",
+      "path": "reports/painting-browser/160/row-004.json",
+      "status": "passed",
+      "proposedArtistId": "august_hagborg",
+      "canonicalFile": "File:Shore with Boats (August Hagborg) - Gothenburg Museum of Art - F 32b.tif",
+      "pageid": 112975685,
+      "artist": "August Hagborg",
+      "date": "1881",
+      "licenseDeclared": "CC BY 4.0",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 829
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 3840,
+          "height": 2486
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_112975685",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "nils_forsberg_hero_study",
+      "path": "reports/painting-browser/160/row-005.json",
+      "status": "passed",
+      "proposedArtistId": "nils_forsberg",
+      "canonicalFile": "File:Death of a Hero. Study. (Nils Forsberg) - Gothenburg Museum of Art - GKM 2013-114.tif",
+      "pageid": 112966950,
+      "artist": "Nils Forsberg",
+      "date": "1883",
+      "licenseDeclared": "CC BY 4.0",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 854
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 3840,
+          "height": 2561
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_112966950",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "joseph_magnus_stack_capri",
+      "path": "reports/painting-browser/160/row-006.json",
+      "status": "passed",
+      "proposedArtistId": "joseph_magnus_stack",
+      "canonicalFile": "File:Joseph Magnus Stäck - View from Capri - NM 6790 - Nationalmuseum.jpg",
+      "pageid": 103263388,
+      "artist": "Joseph Magnus Stäck",
+      "date": "between 1840 and 1849",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1000,
+          "height": 853
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 1000,
+          "height": 853
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_103263388",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "kilian_zoll_midsummer",
+      "path": "reports/painting-browser/160/row-007.json",
+      "status": "passed",
+      "proposedArtistId": "kilian_zoll",
+      "canonicalFile": "File:Midsummer Dance at Rättvik (Kilian Zoll) - Nationalmuseum - 19489.tif",
+      "pageid": 52123357,
+      "artist": "Kilian Zoll",
+      "date": "1852",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 977
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 1920,
+          "height": 1465
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_52123357",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "egron_lundgren_fruit_sellers",
+      "path": "reports/painting-browser/160/row-008.json",
+      "status": "passed",
+      "proposedArtistId": "egron_lundgren",
+      "canonicalFile": "File:Egron Lundgren - Neapolitan Fruit-Sellers - NM 2255 - Nationalmuseum.jpg",
+      "pageid": 103232611,
+      "artist": "Egron Lundgren",
+      "date": "1843",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1280,
+          "height": 919
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 3527,
+          "height": 2532
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_103232611",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    },
+    {
+      "id": "per_daniel_holm_laponian",
+      "path": "reports/painting-browser/160/row-009.json",
+      "status": "passed",
+      "proposedArtistId": "per_daniel_holm",
+      "canonicalFile": "File:Per Daniel Holm - Laponian Landscape with Reindeer and Sami - NM 6593 - Nationalmuseum.jpg",
+      "pageid": 103391998,
+      "artist": "Per Daniel Holm",
+      "date": "1871",
+      "licenseDeclared": "Public domain",
+      "dimensions": [
+        {
+          "role": "image",
+          "ok": true,
+          "http": 200,
+          "width": 1000,
+          "height": 657
+        },
+        {
+          "role": "zoom",
+          "ok": true,
+          "http": 200,
+          "width": 1000,
+          "height": 657
+        }
+      ],
+      "existingArtistMatches": [],
+      "proposedWorkKey": "painting160_commons_103391998",
+      "keyCollision": false,
+      "existingSourceMatches": []
+    }
+  ]
+}

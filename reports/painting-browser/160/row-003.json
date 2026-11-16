@@ -1,0 +1,136 @@
+{
+  "sourceReportCommit": "930866e787599e13090795a8f94390d146658386",
+  "sourceReportBlob": "4efb11d23d7333c5dd7a3e77c8d0262db5f8dab8",
+  "browserRunId": "43936733223",
+  "auditSnapshot": "21860a1665837958b373886910d795b8611cf3e7",
+  "id": "ferdinand_fagerlin_bachelorhood",
+  "proposedArtistId": "ferdinand_fagerlin",
+  "checkedNames": [
+    "Ferdinand Fagerlin",
+    "Ferdinand Julius Fagerlin",
+    "Фердинанд Фагерлин"
+  ],
+  "status": "passed",
+  "input": {
+    "id": "ferdinand_fagerlin_bachelorhood",
+    "file": "File:Ferdinand Fagerlin - The Hardships of Bachelorhood - NG.M.00234 - National Museum of Art, Architecture and Design.jpg"
+  },
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1446,
+      "attempt": 1,
+      "screenshot": "003-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2655,
+      "height": 3000,
+      "attempt": 1
+    }
+  ],
+  "native": [
+    2655,
+    3000
+  ],
+  "metadata": {
+    "pageid": 97995336,
+    "title": "File:Ferdinand Fagerlin - The Hardships of Bachelorhood - NG.M.00234 - National Museum of Art, Architecture and Design.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 2655,
+    "height": 3000,
+    "extmetadata": {
+      "DateTime": {
+        "value": "2020-12-23 19:27:04",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>The Hardships of Bachelorhood <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"The Hardships of Bachelorhood <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"The Hardships of Bachelorhood <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Ungkarslivets gjenvordigheter\"</div></div>",
+        "source": "commons-desc-page"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "1866 paintings from Sweden|Ferdinand Fagerlin|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|1866 oil on canvas paintings in Norway|Artworks digital representation of 2D work|19th-century genre paintings in the Nasjonalmuseet for kunst, arkitektur og design|Swedish paintings in the Nasjonalmuseet for kunst, arkitektur og design",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ferdinand_Fagerlin\" class=\"extiw\" title=\"w:en:Ferdinand Fagerlin\"><span title=\"Genre painter (1825-1907)\">Ferdinand Julius Fagerlin</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1866 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55428805#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NG.M.00234\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1907}}\n\n{{DEFAULTSORT:Fagerlin, Ferdinand; The Hardships of Bachelorhood}}\n[[Category:Ferdinand Fagerlin]]\n[[Category:19th-century genre paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Swedish paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:1866 paintings from Sweden]]\n[[Category:1866 oil on canvas paintings in Norway]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "audit": {
+    "existingArtistMatches": [],
+    "proposedWorkKey": "painting160_commons_97995336",
+    "keyCollision": false,
+    "existingSourceMatches": []
+  },
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}
