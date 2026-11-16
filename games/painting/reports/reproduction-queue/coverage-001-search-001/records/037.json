@@ -1,0 +1,28 @@
+{
+  "number": 37,
+  "queueKey": "anton_mahringer:d8d1572ba15a064f",
+  "artistId": "anton_mahringer",
+  "artistName": "Антон Марингер",
+  "title": "Синий пейзаж",
+  "originalTitle": "Blaue Landschaft",
+  "originalSource": "https://www.leopoldmuseum.org/de/presse/news/1366/Leopold-Museum-Wertvolle-Schenkung-aus-bedeutender-oesterreichischer-Privatsammlung",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-148.js",
+    "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+    "pendingWorkFingerprint": "d8d1572ba15a064f631b1a4bab61a7c643fe218210ad0ba884c0d5e2c67ae318"
+  },
+  "queries": [
+    "\"Anton Mahringer\" \"Blaue Landschaft\"",
+    "Anton Mahringer Blaue Landschaft",
+    "Anton Mahringer Синий пейзаж"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

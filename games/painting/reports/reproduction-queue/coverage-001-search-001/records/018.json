@@ -1,0 +1,130 @@
+{
+  "number": 18,
+  "queueKey": "alfred_william_finch:385e32fbfa90f386",
+  "artistId": "alfred_william_finch",
+  "artistName": "Альфред Уильям Финч",
+  "title": "Лейндон-Хилл II",
+  "originalTitle": "Laindon Hill II",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/586905",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-134.js",
+    "sourceModuleGitBlob": "d5ecfd5fd792b67db8f9cfe14feff0c2931e8ee1",
+    "pendingWorkFingerprint": "385e32fbfa90f38642f9063ddee0be2d260b344973917c1c5b7bb4faf8473ece"
+  },
+  "queries": [
+    "\"Alfred William Finch\" \"Laindon Hill II\"",
+    "Alfred William Finch Laindon Hill II",
+    "Alfred William Finch Лейндон Хилл II"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 96913863,
+      "fileTitle": "File:A treatise on the law of master and servant, including therein masters and workmen, in every description of trade and occupation; with an appendix of statutes (IA treatiseonlawofm00smit).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A_treatise_on_the_law_of_master_and_servant,_including_therein_masters_and_workmen,_in_every_description_of_trade_and_occupation;_with_an_appendix_of_statutes_(IA_treatiseonlawofm00smit).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/A_treatise_on_the_law_of_master_and_servant%2C_including_therein_masters_and_workmen%2C_in_every_description_of_trade_and_occupation%3B_with_an_appendix_of_statutes_%28IA_treatiseonlawofm00smit%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/d/d9/A_treatise_on_the_law_of_master_and_servant%2C_including_therein_masters_and_workmen%2C_in_every_description_of_trade_and_occupation%3B_with_an_appendix_of_statutes_%28IA_treatiseonlawofm00smit%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 677,
+      "originalHeight": 1195,
+      "fileSHA1": "a22b848d965da47497970da33adb262c543066dc",
+      "mime": "application/pdf",
+      "revisionId": 779020463,
+      "artistDisplay": "Smith, Charles Manley, 1819-1902",
+      "description": "Subjects:",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: treatiseonlawofm00smit https://archive.org/download/treatiseonlawofm00smit/treatiseonlawofm00smit.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-11-26 03:05:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nA treatise on the law of master and servant, including therein masters and workmen, in every description of trade and occupation; with an appendix of statutes</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nSmith, Charles Manley, 1819-1902</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/treatiseonlawofm00smit\" class=\"extiw\" title=\"iarchive:treatiseonlawofm00smit\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> treatiseonlawofm00smit</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/treatiseonlawofm00smit/treatiseonlawofm00smit.pdf\">https://archive.org/download/treatiseonlawofm00smit/treatiseonlawofm00smit.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Smith, Charles Manley, 1819-1902\n|illustrator = \n|title = A treatise on the law of master and servant, including therein masters and workmen, in every description of trade and occupation; with an appendix of statutes\n|volume = \n|publisher = London : H. Sweet\n|source = \n:{{Internet Archive link|treatiseonlawofm00smit}}\n:https://archive.org/download/treatiseonlawofm00smit/treatiseonlawofm00smit.pdf\n|accession number = treatiseonlawofm00smit\n|series title = \n|language = {{language|1=en}}\n|description = Subjects: \n|permission = \n|OCLC = 1157924436\n|publication date = 1860\n|notes = \n|department = IA Collections: cdl; americana\n|noimage = 1\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:treatiseonlawofm00smit}}\n[[Category:Books published in London]]\n[[Category:California Digital Library]]\n[[Category:Books uploaded by Fæ]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 883,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 126736,
+      "downloadSHA256": "951b8067f6a3af3afe49b86b2f6a2f8c4f30ea909a11eff54f6eed40823bb37e"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

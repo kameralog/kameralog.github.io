@@ -1,0 +1,28 @@
+{
+  "number": 7,
+  "queueKey": "axel_haartman:d54437951e80c4fc",
+  "artistId": "axel_haartman",
+  "artistName": "Аксель Хаартман",
+  "title": "Мюнхенский пейзаж",
+  "originalTitle": "Maisema Münchenista",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/416417",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-134.js",
+    "sourceModuleGitBlob": "d5ecfd5fd792b67db8f9cfe14feff0c2931e8ee1",
+    "pendingWorkFingerprint": "d54437951e80c4fcca3fe68b1aad95b8df1a1b22796578cc5cfbf165c851a5bc"
+  },
+  "queries": [
+    "\"Axel Haartman\" \"Maisema Münchenista\"",
+    "Axel Haartman Maisema Münchenista",
+    "Axel Haartman Мюнхенский пейзаж"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

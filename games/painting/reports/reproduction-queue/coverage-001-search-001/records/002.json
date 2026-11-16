@@ -1,0 +1,130 @@
+{
+  "number": 2,
+  "queueKey": "adele_kindt:be1bb69a42ca9757",
+  "artistId": "adele_kindt",
+  "artistName": "Адель Киндт",
+  "title": "Аллегория революции 1830 года",
+  "originalTitle": "Allégorie de la révolution de 1830",
+  "originalSource": "https://collections.heritage.brussels/fr/objects/46644",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-124.js",
+    "sourceModuleGitBlob": "f7b008bbfff315daad1957121d4ca3ea0b3c6f32",
+    "pendingWorkFingerprint": "be1bb69a42ca9757919a0ccb983abc4a3bf86a6bca44acb0f09c3c1d228f1843"
+  },
+  "queries": [
+    "\"Adèle Kindt\" \"Allégorie de la révolution de 1830\"",
+    "Adèle Kindt Allégorie de la révolution de 1830",
+    "Adèle Kindt Аллегория революции 1830 года"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 1743688,
+      "fileTitle": "File:Adele Kindt Episode La révolution de 1830 (1830).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_(1830).jpg",
+      "origin": "explicit_pending_reference",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg/960px-Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_%281830%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1047,
+      "originalHeight": 849,
+      "fileSHA1": "54f44c4925563c295fb034c57202fc89751def87",
+      "mime": "image/jpeg",
+      "revisionId": 1083706677,
+      "artistDisplay": "Adèle Kindt",
+      "description": "",
+      "dateDisplay": "1830 date QS:P571,+1830-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "[1]",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2022-04-11 13:04:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">French:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"fr\"><i>La révolution de 1830</i></div></div><div style=\"display: none;\">title QS:P1476,fr:\"La révolution de 1830\"</div><div style=\"display: none;\">label QS:Lfr,\"La révolution de 1830\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1830s paintings in Belgium|Paintings of people|Paintings of children|Adèle Kindt|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|19th-century paintings, location missing|CC-PD-Mark|Artworks with accession number from Wikidata|19th-century oil on canvas paintings|1830s paintings from Belgium|Artworks digital representation of 2D work|Families in art|Romantic history paintings|Belgian Revolution in art|Flags of Belgium in horizontal layout",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ad%C3%A8le_Kindt\" class=\"extiw\" title=\"w:en:Adèle Kindt\"><span title=\"Belgian painter (1804-1884)\">Adèle Kindt</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1830<div style=\"display: none;\">date QS:P571,+1830-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external autonumber\" href=\"http://users.skynet.be/pierre.bachy/romantisme-belgique.html\">[1]</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata        = Q124247973\n |artist          = {{creator:Adèle Kindt}}\n |title           = {{title|lang=fr|La révolution de 1830}}\n |description     = \n |date            = 1830\n |object type     = painting  \n |medium          = {{technique|oil|canvas}}\n |dimensions      = {{size|cm||}}\n |gallery         = City Hall of Brussels\n |location        = <!-- within the institution-->\n |references      = \n |object history  = \n |credit line     = \n |notes           = \n |accession number= \n |source          = [http://users.skynet.be/pierre.bachy/romantisme-belgique.html]\n |permission      = \n |other_versions  = https://collections.heritage.brussels/fr/objects/46644\n |other_fields    = \n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1884}}\n\n[[Category:Adèle Kindt]]\n[[Category:Belgian Revolution in art]]\n[[Category:1830s paintings in Belgium]]\n[[Category:1830s paintings from Belgium]]\n[[Category:Romantic history paintings]]\n[[Category:Paintings of people]]\n[[Category:Paintings of children]]\n[[Category:19th-century paintings, location missing]]\n[[Category:Families in art]]\n[[Category:19th-century oil on canvas paintings]]\n[[Category:Flags of Belgium in horizontal layout]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 778,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 114762,
+      "downloadSHA256": "e6affb6963cddbd0b3c192a91125c675f9d40bf6cf9272880575659550000cc0"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

@@ -1,0 +1,325 @@
+{
+  "number": 12,
+  "queueKey": "alix_d_anethan:a0eaf26cf6f61010",
+  "artistId": "alix_d_anethan",
+  "artistName": "Аликс д’Анетан",
+  "title": "Святые жёны у гробницы",
+  "originalTitle": "Les saintes femmes au tombeau",
+  "originalSource": "https://fine-arts-museum.be/fr/la-collection/alix-d-anethan-les-saintes-femmes-au-tombeau",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-124.js",
+    "sourceModuleGitBlob": "f7b008bbfff315daad1957121d4ca3ea0b3c6f32",
+    "pendingWorkFingerprint": "a0eaf26cf6f61010bca28c49e63d7a9f50e1bb8b2c0e697c3cc888bc2a614884"
+  },
+  "queries": [
+    "\"Alix d’Anethan\" \"Les saintes femmes au tombeau\"",
+    "Alix d’Anethan Les saintes femmes au tombeau"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 95501932,
+      "fileTitle": "File:Paris-Salon (IA parissalon1893pt2enau).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Paris-Salon_(IA_parissalon1893pt2enau).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Paris-Salon_%28IA_parissalon1893pt2enau%29.pdf/page1-960px-Paris-Salon_%28IA_parissalon1893pt2enau%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Paris-Salon_%28IA_parissalon1893pt2enau%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1027,
+      "originalHeight": 1712,
+      "fileSHA1": "0c55b8ad01bfa9889e7889db99be740a3cb76d02",
+      "mime": "application/pdf",
+      "revisionId": 1122859241,
+      "artistDisplay": "Enault, Louis, 1824-1900 Société nationale des beaux-arts (France). Salon Société des artistes français. Salon",
+      "description": "Plates with descriptive text by various authors \"A partir de 1890, l'un des volumes annuels est consacré au Salon des Champs-Elysées, l'autre au Salon de Champ-de-mars.\" Cf. Bibliothèque nationale 1889- also called 2e série Subjects: Art; Art, French",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: parissalon1893pt2enau https://archive.org/download/parissalon1893pt2enau/parissalon1893pt2enau.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-26 20:12:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nParis-Salon</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Louis Énault|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|French-language books",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<dl><dd>Enault, Louis, 1824-1900</dd>\n<dd>Société nationale des beaux-arts (France). Salon</dd>\n<dd>Société des artistes français. Salon</dd></dl></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>Plates with descriptive text by various authors</dd>\n<dd>\"A partir de 1890, l'un des volumes annuels est consacré au Salon des Champs-Elysées, l'autre au Salon de Champ-de-mars.\" Cf. Bibliothèque nationale</dd>\n<dd>1889- also called 2e série</dd></dl>\n<br>Subjects: Art; Art, French</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/parissalon1893pt2enau\" class=\"extiw\" title=\"iarchive:parissalon1893pt2enau\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> parissalon1893pt2enau</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/parissalon1893pt2enau/parissalon1893pt2enau.pdf\">https://archive.org/download/parissalon1893pt2enau/parissalon1893pt2enau.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = \n:Enault, Louis, 1824-1900\n:Société nationale des beaux-arts (France). Salon\n:Société des artistes français. Salon\n|illustrator = \n|title = Paris-Salon\n|volume = 1893 pt 2\n|publisher = Paris : E. Bernard & Cie\n|source = \n:{{Internet Archive link|parissalon1893pt2enau}}\n:https://archive.org/download/parissalon1893pt2enau/parissalon1893pt2enau.pdf\n|accession number = parissalon1893pt2enau\n|series title = \n|language = {{language|1=fr}}\n|description = \n:Plates with descriptive text by various authors\n:\"A partir de 1890, l'un des volumes annuels est consacré au Salon des Champs-Elysées, l'autre au Salon de Champ-de-mars.\" Cf. Bibliothèque nationale\n:1889- also called 2e série\n<br>Subjects: Art; Art, French\n|permission = \n|OCLC = 656737450\n|publication date = 1881\n|notes = \n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:parissalon1893pt2enau}}[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:French-language books]]\n[[Category:Louis Énault]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1601,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 437565,
+      "downloadSHA256": "2f41132de35849f6e9c540280d1b3c65ff3d2d2fadc175261787691d0192d7e1"
+    },
+    {
+      "commonsPageId": 95597170,
+      "fileTitle": "File:Société des beaux-arts - septième exposition - Bruxelles 1900 (IA socitdesbeau00soci).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Soci%C3%A9t%C3%A9_des_beaux-arts_-_septi%C3%A8me_exposition_-_Bruxelles_1900_(IA_socitdesbeau00soci).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Soci%C3%A9t%C3%A9_des_beaux-arts_-_septi%C3%A8me_exposition_-_Bruxelles_1900_%28IA_socitdesbeau00soci%29.pdf/page1-500px-Soci%C3%A9t%C3%A9_des_beaux-arts_-_septi%C3%A8me_exposition_-_Bruxelles_1900_%28IA_socitdesbeau00soci%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Soci%C3%A9t%C3%A9_des_beaux-arts_-_septi%C3%A8me_exposition_-_Bruxelles_1900_%28IA_socitdesbeau00soci%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 600,
+      "originalHeight": 1093,
+      "fileSHA1": "1c6b10d2b00848b2d71b5d0b9da629c9a42fb2c4",
+      "mime": "application/pdf",
+      "revisionId": 1125557430,
+      "artistDisplay": "Société des beaux-arts (Brussels, Belgium) Musée d'art moderne (Musées royaux des beaux-arts de Belgique) Exposition de la Société des beaux-arts (7th : 1900 : Brussels, Belgium)",
+      "description": "On cover: Le salon 1900 Bruxelles Catalogue of an exhibition held at the Musée d'art moderne from Apr. 7-June 14, 1900 Subjects:",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: socitdesbeau00soci https://archive.org/download/socitdesbeau00soci/socitdesbeau00soci.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-29 10:53:41",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nSociété des beaux-arts : septième exposition : Bruxelles 1900</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|French-language books|Books published in Brussels",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<dl><dd>Société des beaux-arts (Brussels, Belgium)</dd>\n<dd>Musée d'art moderne (Musées royaux des beaux-arts de Belgique)</dd>\n<dd>Exposition de la Société des beaux-arts (7th : 1900 : Brussels, Belgium)</dd></dl></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>On cover: Le salon 1900 Bruxelles</dd>\n<dd>Catalogue of an exhibition held at the Musée d'art moderne from Apr. 7-June 14, 1900</dd></dl>\n<br>Subjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/socitdesbeau00soci\" class=\"extiw\" title=\"iarchive:socitdesbeau00soci\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> socitdesbeau00soci</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/socitdesbeau00soci/socitdesbeau00soci.pdf\">https://archive.org/download/socitdesbeau00soci/socitdesbeau00soci.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = \n:Société des beaux-arts (Brussels, Belgium)\n:Musée d'art moderne (Musées royaux des beaux-arts de Belgique)\n:Exposition de la Société des beaux-arts (7th : 1900 : Brussels, Belgium)\n|illustrator = \n|title = Société des beaux-arts : septième exposition : Bruxelles 1900\n|volume = \n|publisher = [Bruxelles : La Société\n|source = \n:{{Internet Archive link|socitdesbeau00soci}}\n:https://archive.org/download/socitdesbeau00soci/socitdesbeau00soci.pdf\n|accession number = socitdesbeau00soci\n|series title = \n|language = {{language|1=fr}}\n|description = \n:On cover: Le salon 1900 Bruxelles\n:Catalogue of an exhibition held at the Musée d'art moderne from Apr. 7-June 14, 1900\n<br>Subjects: \n|permission = \n|OCLC = 1157221541\n|publication date = 1900\n|notes = No table of contents. \n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:socitdesbeau00soci}}\n[[Category:Books published in Brussels]]\n[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:French-language books]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 912,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 43703,
+      "downloadSHA256": "c03bfb930aa144b077de83a694a8d5203efdff36cd2b1fa4706e2ae0c0e42018"
+    },
+    {
+      "commonsPageId": 95025170,
+      "fileTitle": "File:Exposition internationale de Bruxelles 1897 - beaux-arts - catalogue général (IA expositionintern00cong).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_(IA_expositionintern00cong).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_%28IA_expositionintern00cong%29.pdf/page1-500px-Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_%28IA_expositionintern00cong%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/02/Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_%28IA_expositionintern00cong%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 685,
+      "originalHeight": 1222,
+      "fileSHA1": "5d62eb2cde66a14cc1c23268eabd4e2776da996e",
+      "mime": "application/pdf",
+      "revisionId": 1123887740,
+      "artistDisplay": "Congrès international colonial (1897 : Brussels, Belgium)",
+      "description": "Subjects:",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: expositionintern00cong https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-13 14:47:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nExposition internationale de Bruxelles 1897 : beaux-arts : catalogue général</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|French-language books|Books published in Brussels",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nCongrès international colonial (1897 : Brussels, Belgium)</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/expositionintern00cong\" class=\"extiw\" title=\"iarchive:expositionintern00cong\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> expositionintern00cong</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf\">https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Congrès international colonial (1897 : Brussels, Belgium)\n|illustrator = \n|title = Exposition internationale de Bruxelles 1897 : beaux-arts : catalogue général\n|volume = \n|publisher = Bruxelles : Ed. Lyon-Claesen\n|source = \n:{{Internet Archive link|expositionintern00cong}}\n:https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf\n|accession number = expositionintern00cong\n|series title = \n|language = {{language|1=fr}}\n|description = Subjects: \n|permission = \n|OCLC = 1045413816\n|publication date = 1897\n|notes = No TOC.  \n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:expositionintern00cong}}\n[[Category:Books published in Brussels]]\n[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:French-language books]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

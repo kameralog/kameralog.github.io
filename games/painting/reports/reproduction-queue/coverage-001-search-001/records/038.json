@@ -1,0 +1,28 @@
+{
+  "number": 38,
+  "queueKey": "anton_faistauer:26c04c97e08bcf28",
+  "artistId": "anton_faistauer",
+  "artistName": "Антон Файстауэр",
+  "title": "Портрет дамы",
+  "originalTitle": "Portrait of a Lady",
+  "originalSource": "https://onlinecollection.leopoldmuseum.org/en/object/39869-portrait-of-a-lady/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-148.js",
+    "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+    "pendingWorkFingerprint": "26c04c97e08bcf283068c57ecdca01c1e68c2a72cf3cf35f2e3c0c5c7f375778"
+  },
+  "queries": [
+    "\"Anton Faistauer\" \"Portrait of a Lady\"",
+    "Anton Faistauer Portrait of a Lady",
+    "Anton Faistauer Портрет дамы"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

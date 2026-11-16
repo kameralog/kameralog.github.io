@@ -1,0 +1,130 @@
+{
+  "number": 47,
+  "queueKey": "baldassarre_franceschini:1ae1c712f4158c7b",
+  "artistId": "baldassarre_franceschini",
+  "artistName": "Бальдассарре Франческини",
+  "title": "Шутка священника Арлотто",
+  "originalTitle": "One of Father Arlotto’s Tricks",
+  "originalSource": "https://www.uffizi.it/en/artworks/volterrano-one-of-father-arlotto-s-tricks",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-97.js",
+    "sourceModuleGitBlob": "07c1fd112434dfe547b48fc716964516bc7b838f",
+    "pendingWorkFingerprint": "1ae1c712f4158c7b5edc1aecf367314bd8297453b44fce2074e3dce173afeb4e"
+  },
+  "queries": [
+    "\"Baldassarre Franceschini\" \"One of Father Arlotto’s Tricks\"",
+    "Baldassarre Franceschini One of Father Arlotto s Tricks",
+    "Baldassarre Franceschini Шутка священника Арлотто"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 15609050,
+      "fileTitle": "File:Baldassarre Franceschini - One of Father Arlotto's Tricks - WGA08091.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg/960px-Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Baldassarre_Franceschini_-_One_of_Father_Arlotto%27s_Tricks_-_WGA08091.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1302,
+      "originalHeight": 900,
+      "fileSHA1": "6575ac8a4c7d1264acca361b1780d89b5bc6b8f2",
+      "mime": "image/jpeg",
+      "revisionId": 1196744351,
+      "artistDisplay": "Baldassare Franceschini",
+      "description": "",
+      "dateDisplay": "1630s date QS:P571,+1630-00-00T00:00:00Z/8",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"f/frances2/arlotto\"",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2011-06-25 04:30:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "One of Father Arlotto's Tricks",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1630s paintings from Italy|Volterrano|Images from Web Gallery of Art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Eating in paintings|1630s oil on canvas paintings in Italy|1630s paintings of food|Black clothing in art, male|CC-PD-Mark|WGA form: painting|17th-century paintings of meals|Galleria Palatina (Florence) - Sala delle Allegorie|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|WGA School: Italian|WGA time period: 1651-1700|WGA type: genre|Group paintings of people at outdoor tables|Pievano Arlotto|1630s paintings in Florence",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Baldassare_Franceschini\" class=\"extiw\" title=\"w:en:Baldassare Franceschini\"><span title=\"Italian painter (1611-1690)\">Baldassare Franceschini</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1630s<div style=\"display: none;\">date QS:P571,+1630-00-00T00:00:00Z/8</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/art/f/frances2/arlotto.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/art/f/frances2/arlotto.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"http://www.wga.hu/html/f/frances2/arlotto.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.wga.hu/html/f/frances2/arlotto.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"f/frances2/arlotto\"</div>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork     \n  |wikidata         = Q53996676\n  |artist           = \n  |title            = {{en|One of Father Arlotto's Tricks}}{{it|Una burla del pievano Arlotto}}\n  |description      = \n  |date             = {{other date|s|1630}}\n  |object type      = \n  |medium           = \n  |dimensions       = \n  |institution      = \n  |location         = <!-- location within the gallery/museum -->     \n  |references       = [http://www.polomuseale.firenze.it/inv1890/scheda.asp?position=1&ninv=582 Polomuseale inventario 1890]\n  |object history   =\n  |credit line      =\n  |inscriptions     =\n  |notes            = \n  |accession number =\n  |source           = {{WGA link|ID=8091|pic-url=http://www.wga.hu/art/f/frances2/arlotto.jpg|info-url=http://www.wga.hu/html/f/frances2/arlotto.html}}  \n  |permission       = \n  |other versions=<gallery>\n  File:Baldassarre Franceschini - One of Father Arlotto's Tricks - WGA08091.jpg|Una burla del pievano Arlotto 1630 (cm. 107x150) \ndi Baldassarre Franceschini] (1611-1689) detto il Volterrano\nFile:La-beffa-del-pievano-Arlotta-foto.jpg|Una burla del pievano Arlotto - bozzetto (cm.40x28) - fotografia \nFile:La-beffa-del-pievano-Arlotta-foto-retro.jpg|Note autografe di Antonio Mosca sul retro della fotografia\n</gallery>\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1690}}\n\n{{WGA tag|painting|genre|Italian|1651-1700}}\n\n{{DEFAULTSORT:Franceschini, Arlotto}}\n\n[[Category:Volterrano|Arlotto]]\n[[Category:Pievano Arlotto|Franceschini]]\n[[Category:Black clothing in art, male]]\n[[Category:Eating in paintings]]\n[[Category:Group paintings of people at outdoor tables]]\n[[Category:1630s paintings from Italy]]\n[[Category:1630s oil on canvas paintings in Italy]]\n[[Category:eating in paintings]]\n[[Category:WGA form: painting]]\n[[Category:WGA type: genre]]\n[[Category:WGA School: Italian]]\n[[Category:WGA time period: 1651-1700]]\n[[Category:17th-century paintings of meals]]\n[[Category:1630s paintings of food]]\n[[Category:Galleria Palatina (Florence) - Sala delle Allegorie]]\n[[Category:1630s paintings in Florence]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 664,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 211481,
+      "downloadSHA256": "094ba214dab4f41fcc1ef34f27214b2fd269ee1eccdc0553062fbb3be0e5855c"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

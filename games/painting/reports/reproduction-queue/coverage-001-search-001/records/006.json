@@ -1,0 +1,325 @@
+{
+  "number": 6,
+  "queueKey": "akseli_gallen_kallela:389490d857f21d1c",
+  "artistId": "akseli_gallen_kallela",
+  "artistName": "Аксели Галлен-Каллела",
+  "title": "Миф об Айно. Триптих",
+  "originalTitle": "Aino-taru, triptyykki",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/392351",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-132.js",
+    "sourceModuleGitBlob": "c4173f6bd7c73d0ec4a264faf4e4f96cc39ff4d2",
+    "pendingWorkFingerprint": "389490d857f21d1c3530d3ece9c1d8494a8bce16b85597c454ca5d21607ee6ac"
+  },
+  "queries": [
+    "\"Akseli Gallen-Kallela\" \"Aino-taru, triptyykki\"",
+    "Akseli Gallen-Kallela Aino taru triptyykki"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 7290292,
+      "fileTitle": "File:Gallen Kallela The Aino Triptych-2.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gallen_Kallela_The_Aino_Triptych-2.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Gallen_Kallela_The_Aino_Triptych-2.jpg/960px-Gallen_Kallela_The_Aino_Triptych-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gallen_Kallela_The_Aino_Triptych-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1945,
+      "originalHeight": 1942,
+      "fileSHA1": "793b0d7e983c3bb0cf1171b6f430bf64ca804daa",
+      "mime": "image/jpeg",
+      "revisionId": 1151248700,
+      "artistDisplay": "Akseli Gallen-Kallela",
+      "description": "",
+      "dateDisplay": "1891 date QS:P571,+1891-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Unknown source Unknown source",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2013-01-02 22:00:52",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Swedish:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"sv\"><i>Ainomyten, triptyk <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q3210167#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Aino Myth, Triptych, second panel</i></div></div><div style=\"display: none;\">label QS:Lsv,\"Ainomyten, triptyk, second panel\"</div><div style=\"display: none;\">label QS:Len,\"Aino Myth, Triptych, second panel\"</div><div style=\"display: none;\">label QS:Lfi,\"Aino-taru, triptyykki, second panel\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Retouched pictures|1891 paintings|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|PD-old-80-expired|CC-PD-Mark|Uploaded with derivativeFX|Artworks with group Wikidata item|Aino Triptych - Gallen-Kallela|Artworks digital representation of 2D work|Template Unknown (source)|Artworks digital representation of both 2D and 3D work|Paintings by Akseli Gallen-Kallela in the Ateneum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Akseli_Gallen-Kallela\" class=\"extiw\" title=\"w:en:Akseli Gallen-Kallela\"><span title=\"Finnish painter (1865-1931)\">Akseli Gallen-Kallela</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1891<div style=\"display: none;\">date QS:P571,+1891-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |artist             = {{Creator:Akseli Gallen-Kallela}}\n |author             = \n |title              = {{title|en=Aino Myth, Triptych, second panel|fi=Aino-taru, triptyykki, second panel|sv=Ainomyten, triptyk, second panel}}\n |description        = \n |object type        = \n |date               = 1891\n |medium             = {{oil on canvas}}\n |dimensions         = {{LangSwitch |en=The middle panel |fi=Keskiosa}}: {{size|cm|154|154|prec=1}}<br>{{LangSwitch |en=The left and right panels |fi=Vasen ja oikea paneelit}}: {{size|cm|77|154|prec=1}}\n |institution        = {{Institution:Ateneum Art Museum}}\n |department         = Helsinki\n |accession number   = A I 518\n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = {{en|1=[[w:Painting|Painting]] by [[w:Akseli Gallen-Kallela|Akseli Gallen-Kallela]], depicting a scene from [[w:Kalevala|Kalevala]], a [[w:Finland|Finnish]] [[w:epic poem|epic poem]]. [[w:Aino|Aino]] was [[w:Joukahainen|Joukahainen]]'s sister who was promised to the old and wise Väinämöinen in marriage after Joukahainen lost a magic singing match against Väinämöinen. Aino instead decides to drown herself.\n\nThe [[w:triptych|three pictures]] tell the story: the left panel one is about the first encounter of [[w:Väinämöinen|Väinämöinen]] and Aino in the forest, the right panel depicts mournful Aino weeping on the shore and listening to the call of the maids of Vellamo who are playing in the water. Aino has made her decision to choose death rather than her wizened suitor. The middle panel depicts the end of the story. Väinämöinen uses his magic to fish for Aino in the lake that she entered. He catches a small fish but decides it is too plain and insignificant to be his fiancée, so he throws it back. In that instant the fish changes into Aino who proceeds to mock the old man, that he held her in his hand but chose to let her go. After that she vanishes for ever.\nSee also the [http://kokoelmat.fng.fi/wandora/w?museumfilter=&imagesize=0&action=gen&artworkclassfilter=&timefilter=&si=http%3A%2F%2Fwww.muusa.net%2FTeos%2F6E246E4A-C36A-4ED4-87B0-FDC58D9292F9&query=aino-taru&qtype=http%3A%2F%2Fwww.wandora.net%2Fartwork&lang=en page] at the Finnish National Gallery website.}}\n{{fi|1=Katso myös [http://kokoelmat.fng.fi/wandora/w?museumfilter=&lang=fi&artworkclassfilter=&action=gen&timefilter=&query=aino-taru&qtype=http%3A%2F%2Fwww.wandora.net%2Fartwork&si=http%3A%2F%2Fwww.muusa.net%2FTeos%2F6E246E4A-C36A-4ED4-87B0-FDC58D9292F9&imagesize=0 sivu] Valtion taidemuseon sivustolla.}}\n |references         = \n |source             = {{Unknown|source}}\n |permission         = \n |other_versions     = <gallery>\nFile:Gallen_Kallela_The_Aino_Triptych.jpg|complete tryptich\n</gallery>\n |wikidata           = Q3210167\n |other_fields       = \n}}\n\n{{RetouchedPicture|Second part, separately|editor=Beaumain|orig=Gallen_Kallela_The_Aino_Triptych.jpg}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1931}}\n\n== {{Original upload log}} ==\nThis image is a derivative work of the following images:\n\n*[[:File:Gallen_Kallela_The_Aino_Triptych.jpg]] licensed with PD-Art, PD-old\n**2005-05-19T16:24:45Z [[User:Rdnk|Rdnk]] 912x439 (60234 Bytes) ''<nowiki>Painting by Akseli Gallen-Kallela, depicting a scene from Kalevala, a Finnish epic poem. Aino was Joukahainen's sister who was promised to marry the old Vainamoinen. She instead decides to drown herself.  The three pictures t</nowiki>''\n\n{{Uploaded with derivativeFX}}\n\n[[Category:Paintings by Akseli Gallen-Kallela in the Ateneum]]\n\n[[Category:1891 paintings]]\n[[Category:Aino Triptych - Gallen-Kallela]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 959,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 232398,
+      "downloadSHA256": "a270026bfeb1f54d94e82d76edc63e9f741fbafb7989c1aca8a7121c18dc3e80"
+    },
+    {
+      "commonsPageId": 152835,
+      "fileTitle": "File:Gallen Kallela The Aino Triptych.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gallen_Kallela_The_Aino_Triptych.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gallen_Kallela_The_Aino_Triptych.jpg/960px-Gallen_Kallela_The_Aino_Triptych.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/17/Gallen_Kallela_The_Aino_Triptych.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 5200,
+      "originalHeight": 2505,
+      "fileSHA1": "58f27c4adcf0c2bb25c8458bd3cf09d856b272e7",
+      "mime": "image/jpeg",
+      "revisionId": 1217514966,
+      "artistDisplay": "Akseli Gallen-Kallela",
+      "description": "",
+      "dateDisplay": "1891 date QS:P571,+1891-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "http://www.revuedada.fr/userfiles/image/Actualit%C3%A9s/Gallen%20Kallela/aino_ok.jpg",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2012-04-14 02:38:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Aino Myth, Triptych",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Framed paintings|1891 paintings from Finland|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Files with derivative versions|PD-old-80-expired|CC-PD-Mark|Artworks with group Wikidata item|Aino Triptych - Gallen-Kallela|Artworks digital representation of 2D work|Artworks digital representation of both 2D and 3D work|Paintings by Akseli Gallen-Kallela in the Ateneum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Akseli_Gallen-Kallela\" class=\"extiw\" title=\"w:en:Akseli Gallen-Kallela\"><span title=\"Finnish painter (1865-1931)\">Akseli Gallen-Kallela</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1891<div style=\"display: none;\">date QS:P571,+1891-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.revuedada.fr/userfiles/image/Actualit%C3%A9s/Gallen%20Kallela/aino_ok.jpg\">http://www.revuedada.fr/userfiles/image/Actualit%C3%A9s/Gallen%20Kallela/aino_ok.jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} == \n{{Artwork\n|wikidata=Q3210167\n | Artist         = {{Creator:Akseli Gallen-Kallela}}\n | Title          = \n{{en|1=Aino Myth, Triptych}}\n{{fi|1=Aino-taru, triptyykki}}\n{{sv|1=Ainomyten, triptyk}}\n | Year           = 1891\n | Technique      = {{oil on canvas}}\n | Dimensions     = \n{{en|1=The middle panel: {{size|cm|154.0|154.0|prec=1}}. The left and right panels: {{size|cm|77.0|154.0|prec=1}}}}\n{{fi|1=Keskiosa: 154,0&nbsp;cm&nbsp;×&nbsp;154,0&nbsp;cm. Sivuosat: 77,0&nbsp;cm&nbsp;×&nbsp;154,0&nbsp;cm}}\n | Gallery        = {{museum:Ateneum Art Museum}}\n | Location       = \n{{en|1=Helsinki, Finland}}\n{{es|1=Helsinki, Finlandia}}\n{{fi|1=Helsinki, Suomi}}\n{{sv|1=Helsingfors, Finland}}\n | Notes          = \n{{en|1=[[w:Painting|Painting]] by [[w:Akseli Gallen-Kallela|Akseli Gallen-Kallela]], depicting a scene from [[w:Kalevala|Kalevala]], a [[w:Finland|Finnish]] [[w:epic poem|epic poem]]. [[w:Aino|Aino]] was [[w:Joukahainen|Joukahainen]]'s sister who was promised to the old and wise Väinämöinen in marriage after Joukahainen lost a magic singing match against Väinämöinen. Aino instead decides to drown herself.\n\nThe [[w:triptych|three pictures]] tell the story: the left panel one is about the first encounter of [[w:Väinämöinen|Väinämöinen]] and Aino in the forest, the right panel depicts mournful Aino weeping on the shore and listening to the call of the maids of Vellamo who are playing in the water. Aino has made her decision to choose death rather than her wizened suitor. The middle panel depicts the end of the story. Väinämöinen goes to fish for Aino in the lake that she entered. He catches a fish which he thinks to be a salmon and tries to cut her up with a knife, but the fish slips away from his hands and springs back into the water. Then the fish changes into Aino who proceeds to mock the old man, that he held her in his hand but couldn't keep her. After that she vanishes for ever.\nSee also the [http://kokoelmat.fng.fi/wandora/w?museumfilter=&imagesize=0&action=gen&artworkclassfilter=&timefilter=&si=http%3A%2F%2Fwww.muusa.net%2FTeos%2F6E246E4A-C36A-4ED4-87B0-FDC58D9292F9&query=aino-taru&qtype=http%3A%2F%2Fwww.wandora.net%2Fartwork&lang=en page] at the Finnish National Gallery website.}}\n{{fi|1=Katso myös [http://kokoelmat.fng.fi/wandora/w?museumfilter=&lang=fi&artworkclassfilter=&action=gen&timefilter=&query=aino-taru&qtype=http%3A%2F%2Fwww.wandora.net%2Fartwork&si=http%3A%2F%2Fwww.muusa.net%2FTeos%2F6E246E4A-C36A-4ED4-87B0-FDC58D9292F9&imagesize=0 sivu] Valtion taidemuseon sivustolla.}}\n | ID             = A I 518\n | Source         = http://www.revuedada.fr/userfiles/image/Actualit%C3%A9s/Gallen%20Kallela/aino_ok.jpg\n | Permission     = \n | Other versions = \n}}\n{{PD-Art|PD-old-auto-expired|deathyear=1931}}\n\n== derivative works ==\n{{DerivativeVersions|Gallen Kallela The Aino Triptych-2.jpg}}\n\n[[Category:1891 paintings from Finland]]\n[[Category:Paintings by Akseli Gallen-Kallela in the Ateneum]]\n[[Category:Framed paintings]]\n[[Category:Aino Triptych - Gallen-Kallela]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 462,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 158103,
+      "downloadSHA256": "d81b4cdef70a4a7eb6f075b1fbdf61c2bf082cc39d0f57417b5da1975632e591"
+    },
+    {
+      "commonsPageId": 29191484,
+      "fileTitle": "File:Akseli Gallen-Kallela - Aino Myth, Triptych - Google Art Project.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Akseli_Gallen-Kallela_-_Aino_Myth,_Triptych_-_Google_Art_Project.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg/960px-Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/Akseli_Gallen-Kallela_-_Aino_Myth%2C_Triptych_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 8066,
+      "originalHeight": 4042,
+      "fileSHA1": "4dc8cd84748454a318c831231eaffff39a43feeb",
+      "mime": "image/jpeg",
+      "revisionId": 1036139821,
+      "artistDisplay": "Akseli Gallen-Kallela",
+      "description": "",
+      "dateDisplay": "1891 date QS:P571,+1891-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "JQEYUFgz8XC9TA at Google Cultural Institute , zoom level maximum",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2014-06-17 08:32:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Aino Myth, Triptych",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|PD-old-80-expired|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks with group Wikidata item|Aino Triptych - Gallen-Kallela|Artworks digital representation of 2D work|Artworks digital representation of both 2D and 3D work|Paintings by Akseli Gallen-Kallela in the Ateneum|Google Art Project works by Akseli Gallen-Kallela|Google Art Project works in Ateneum Art Museum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Akseli_Gallen-Kallela\" class=\"extiw\" title=\"w:en:Akseli Gallen-Kallela\"><span title=\"Finnish painter (1865-1931)\">Akseli Gallen-Kallela</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1891<div style=\"display: none;\">date QS:P571,+1891-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/JQEYUFgz8XC9TA\">JQEYUFgz8XC9TA at Google Cultural Institute</a>, zoom level maximum",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|commons:artist={{Creator:Akseli Gallen-Kallela}}\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions=\n|commons:institution={{Institution:Ateneum Art Museum}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions=\n|commons:zoom=\n\n|core:title = {{en|Aino Myth, Triptych}}\n|core:creator = {{en|Akseli Gallen-Kallela}}\n|core:date.dateCreated = 1891\n|core:format = {{en|w413 x h200 x d13 cm (with frame)}}\n|core:type = {{en|Paintings}}\n|commons:object type=painting\n|core:rights = {{en|http://www.fng.fi/informationandresearch/photographicservice}}\n|core:format.medium = {{en|Oil on canvas}}\n|art:artist_birth_place = {{en|Pori}}\n|art:artist_nationality = {{en|Finnish}}\n|art:artist_death_place = {{en|Stockholm}}\n|art:artist_date = 1865/1931\n|c-01b036b5:customtext.inventory_number = {{en|A I 518}}\n|c-01b036b5:customtext.dimensions = {{en|200 x 413 cm with frame, middle section canvas 154 x 154 cm, side canvases 154 x 77 cm}}\n|c-01b036b5:customtext.inventory_number_source = {{en|Ateneum}}\n|c-01b036b5:customtext.dimensions_source = {{en|Ateneum}}\n|c-01b036b5:customtext.medium_source = {{en|Ateneum}}\n|google:display_date = 1891\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:street_view_asset/id = dQFaYTtPJoYmWQ\n|google:street_view_level/id = 9329154126859276170\n|google:street_view_location = 60.170108795166016,24.943563461303711,0.38999998569488525,0FipR5GVAScof8QVnGG_mA\n|google:partner/id = 0000000001b036b5\n|google:is_artproject = TRUE\n|google:picasa_token = XkcmJ8R3LJB2_t5FMl01EB4J0bY\n|special:url_id = JQEYUFgz8XC9TA\n|google:partner/name = Ateneum Art Museum\n|special:partner/name_no_lang = Ateneum Art Museum\n}}\n\n=={{int:license-header}}==\n{{PD-Art-two-auto|1931}}\n\n[[Category:Google Art Project works by Akseli Gallen-Kallela]]\n[[Category:Aino Triptych - Gallen-Kallela]]\n[[Category:Paintings by Akseli Gallen-Kallela in the Ateneum]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

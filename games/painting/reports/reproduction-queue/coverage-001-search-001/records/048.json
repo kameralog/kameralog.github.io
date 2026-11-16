@@ -1,0 +1,237 @@
+{
+  "number": 48,
+  "queueKey": "barbara_longhi:560b3f0c136727fe",
+  "artistId": "barbara_longhi",
+  "artistName": "Барбара Лонги",
+  "title": "Мадонна с Младенцем, венчающим монахиню",
+  "originalTitle": "La Vierge et l’Enfant Jésus couronnant une religieuse",
+  "originalSource": "https://collections.louvre.fr/en/ark:/53355/cl010064975",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-110.js",
+    "sourceModuleGitBlob": "b266cfce2343b0cb952054037642ca2b8c498ee0",
+    "pendingWorkFingerprint": "560b3f0c136727fe78299ff3b63bc1bc8a69c929db73ba38e29aff5b8e148716"
+  },
+  "queries": [
+    "\"Barbara Longhi\" \"La Vierge et l’Enfant Jésus couronnant une religieuse\"",
+    "Barbara Longhi La Vierge et l Enfant Jésus",
+    "Barbara Longhi Мадонна с Младенцем венчающим монахиню"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 15483137,
+      "fileTitle": "File:Virgin and Child with Saint, Barbara Longhi.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Virgin_and_Child_with_Saint,_Barbara_Longhi.jpg",
+      "origin": "explicit_pending_reference",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Virgin_and_Child_with_Saint%2C_Barbara_Longhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Virgin_and_Child_with_Saint%2C_Barbara_Longhi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 389,
+      "originalHeight": 463,
+      "fileSHA1": "5dc3391e7d9f4ad2427dd3aa7cdd06fdd53f68ea",
+      "mime": "image/jpeg",
+      "revisionId": 1275911495,
+      "artistDisplay": "Barbara Longhi",
+      "description": "Joconde database : entry 000PE025618",
+      "dateDisplay": "circa 1590 date QS:P571,+1590-95-00T00:00:00Z/10,P1480,Q5727902",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=AUTR&VALUE_1=LONGHI%20Barbara&DOM=All&REL_SPECIFIC=1&IMAGE_ONLY=CHECKED",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2011-06-12 06:24:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Virgin and Child\n<div style=\"display: none;\">label QS:Lit,\"Madonna col Bambino\"</div>\n<div style=\"display: none;\">label QS:Lhu,\"Szűz Mária és a kis Jézus\"</div>\n<div style=\"display: none;\">label QS:Lcy,\"Y Forwyn a'r Plentyn\"</div>\n<div style=\"display: none;\">label QS:Lpt,\"A Virgem com o Menino\"</div>\n<div style=\"display: none;\">label QS:Lro,\"Fecioara cu Pruncul\"</div>\n<div style=\"display: none;\">label QS:Lja,\"聖母子\"</div>\n<div style=\"display: none;\">label QS:Lpl,\"Madonna z Dzieciątkiem\"</div>\n<div style=\"display: none;\">label QS:Lhe,\"הבתולה והילד\"</div>\n<div style=\"display: none;\">label QS:Lnl,\"Maria met kind\"</div>\n<div style=\"display: none;\">label QS:Les,\"La virgen y el Niño\"</div>\n<div style=\"display: none;\">label QS:Lfr,\"Vierge à l'Enfant\"</div>\n<div style=\"display: none;\">label QS:Lsl,\"Devica Marija z otrokom\"</div>\n<div style=\"display: none;\">label QS:Len,\"Virgin and Child\"</div>\n<div style=\"display: none;\">label QS:Leo,\"Dipatrino kun Infano\"</div>\n<div style=\"display: none;\">label QS:Lmk,\"Богородица со малиот Исус\"</div>\n<div style=\"display: none;\">label QS:Lde,\"Die heilige Jungfrau mit dem Kinde\"</div> with Saint</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Author died more than 100 years ago public domain images|Artworks with Wikidata item|Artworks with known accession number|Base Joconde|CC-PD-Mark|PD-old missing SDC copyright status|Artworks digital representation of 2D work|La Vierge et l'Enfant Jésus couronnant une religieuse",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Barbara_Longhi\" class=\"extiw\" title=\"w:en:Barbara Longhi\"><span title=\"painter from Italy (1552-1638)\">Barbara Longhi</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<a href=\"https://en.wikipedia.org/wiki/Joconde\" class=\"extiw\" title=\"en:Joconde\">Joconde database</a>:  entry  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.pop.culture.gouv.fr/notice/joconde/000PE025618\">000PE025618</a></div>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "circa 1590<div style=\"display: none;\">date QS:P571,+1590-95-00T00:00:00Z/10,P1480,Q5727902</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&amp;FIELD_1=AUTR&amp;VALUE_1=LONGHI%20Barbara&amp;DOM=All&amp;REL_SPECIFIC=1&amp;IMAGE_ONLY=CHECKED\">http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&amp;FIELD_1=AUTR&amp;VALUE_1=LONGHI%20Barbara&amp;DOM=All&amp;REL_SPECIFIC=1&amp;IMAGE_ONLY=CHECKED</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{artwork\n|description={{Joconde|000PE025618}}\n|title={{title|1={{Virgin and Child}} {{with}} {{langswitch|de=Heiliger|en=Saint}} }}\n|medium = {{oil on canvas}}\n|dimensions = 39 x 32.5 cm\n|Gallery = {{Institution:Louvre}}\n|date= {{circa|1590-95}}\n|ID=MI 614\n|notes=purchased 1861\n|source = http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=AUTR&VALUE_1=LONGHI%20Barbara&DOM=All&REL_SPECIFIC=1&IMAGE_ONLY=CHECKED\n|artist = {{Creator:Barbara Longhi}}\n|permission =\n|other_versions =\n|wikidata = Q19275162\n}}\n\n=={{int:license-header}}==\n{{PD-old-100}}\n\n[[Category:La Vierge et l'Enfant Jésus couronnant une religieuse]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 389,
+      "decodedHeight": 463,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 109541,
+      "downloadSHA256": "f83ae2ac8e009d145a73897d47abb64fbec27dc8129abfa2512dcbfd370eb32a"
+    },
+    {
+      "commonsPageId": 94878290,
+      "fileTitle": "File:Catalogo della Pinacoteca Scarpa di Motta di Livenza (IA catalogodellapin00impr).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Catalogo_della_Pinacoteca_Scarpa_di_Motta_di_Livenza_(IA_catalogodellapin00impr).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Catalogo_della_Pinacoteca_Scarpa_di_Motta_di_Livenza_%28IA_catalogodellapin00impr%29.pdf/page1-960px-Catalogo_della_Pinacoteca_Scarpa_di_Motta_di_Livenza_%28IA_catalogodellapin00impr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/31/Catalogo_della_Pinacoteca_Scarpa_di_Motta_di_Livenza_%28IA_catalogodellapin00impr%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1156,
+      "originalHeight": 1583,
+      "fileSHA1": "bf35b3c77651d202e9bac3a80806b1eb0ddba4b6",
+      "mime": "application/pdf",
+      "revisionId": 1104282172,
+      "artistDisplay": "Impresa di vendite in Italia di Giulio Sambon",
+      "description": "Library's copy 2 annotated by Ellis Waterhouse with some prices and numerous other notes. Copy 2 lacks cover Sale code: 4 At head of title on cover: Anno XVIII. 1895. N. 4 Lugt Date of sale: November 14, 1895, and following days Place of sale: Milan Subjects: Scarpa, Antonio, 1752-1832; Pinacoteca Scarpa; Painting, Italian; Painting, Italian; Painting; Pinacoteca Scarpa",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: catalogodellapin00impr https://archive.org/download/catalogodellapin00impr/catalogodellapin00impr.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-09 01:50:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nCatalogo della Pinacoteca Scarpa di Motta di Livenza : quadri dei più celebri autori italiani ... : di cui la vendita al pubblico incanto avrà luogo in Milano ... 14 novembre 1895 e giorno seguente ..</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Antonio Scarpa|Scans from the Internet Archive/unverified|PD US expired|1895 books from Italy|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|1895 books from Milan|Books published in Milan|Luigi Pirola",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nImpresa di vendite in Italia di Giulio Sambon</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>Library's copy 2 annotated by Ellis Waterhouse with some prices and numerous other notes. Copy 2 lacks cover</dd>\n<dd>Sale code: 4</dd>\n<dd>At head of title on cover: Anno XVIII. 1895. N. 4</dd>\n<dd>Lugt</dd>\n<dd>Date of sale: November 14, 1895, and following days</dd>\n<dd>Place of sale: Milan</dd></dl>\n<br>Subjects: Scarpa, Antonio, 1752-1832; Pinacoteca Scarpa; Painting, Italian; Painting, Italian; Painting; Pinacoteca Scarpa</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/catalogodellapin00impr\" class=\"extiw\" title=\"iarchive:catalogodellapin00impr\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> catalogodellapin00impr</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/catalogodellapin00impr/catalogodellapin00impr.pdf\">https://archive.org/download/catalogodellapin00impr/catalogodellapin00impr.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Impresa di vendite in Italia di Giulio Sambon\n|illustrator = \n|title = Catalogo della Pinacoteca Scarpa di Motta di Livenza : quadri dei più celebri autori italiani ... : di cui la vendita al pubblico incanto avrà luogo in Milano ... 14 novembre 1895 e giorno seguente ..\n|volume = \n|publisher = Milano : Tip. Luigi di Giacomo Pirola\n|noimage = 1\n|source = \n:{{Internet Archive link|catalogodellapin00impr}}\n:https://archive.org/download/catalogodellapin00impr/catalogodellapin00impr.pdf\n|accession number = catalogodellapin00impr\n|series title = \n|language = {{language|1=it}}\n|description = \n:Library's copy 2 annotated by Ellis Waterhouse with some prices and numerous other notes. Copy 2 lacks cover\n:Sale code: 4\n:At head of title on cover: Anno XVIII. 1895. N. 4\n:Lugt\n:Date of sale: November 14, 1895, and following days\n:Place of sale: Milan\n<br>Subjects: Scarpa, Antonio, 1752-1832; Pinacoteca Scarpa; Painting, Italian; Painting, Italian; Painting; Pinacoteca Scarpa\n|permission = \n|OCLC = 1041483499\n|publication date = 1895\n|notes = \n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:catalogodellapin00impr}}\n[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:1895 books from Italy]]\n[[Category:Books published in Milan]]\n[[Category:Antonio Scarpa]]\n[[Category:Luigi Pirola]]\n[[Category:1895 books from Milan]]",
+      "textSignals": [
+        "copy"
+      ],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1315,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 98718,
+      "downloadSHA256": "2fd728520d3236ba23d5279fd04aec96806eac13a7fb7cba4b9e980ac91b319a"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

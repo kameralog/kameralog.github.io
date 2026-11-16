@@ -1,0 +1,345 @@
+{
+  "number": 24,
+  "queueKey": "andrea_di_lione:6bb6d6922ef5c96f",
+  "artistId": "andrea_di_lione",
+  "artistName": "Андреа ди Лионе",
+  "title": "Слоны в цирке",
+  "originalTitle": "Elephants in a Circus",
+  "originalSource": "https://www.museodelprado.es/en/the-collection/art-work/elephants-in-a-circus/eed7ed66-4d51-4593-b44c-1f2cb1b1f901",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-88.js",
+    "sourceModuleGitBlob": "00196b4020bc8064548fccbe42858394d138b0c3",
+    "pendingWorkFingerprint": "6bb6d6922ef5c96f4eb6d7edd7c703679cf2c2ba78ca2da99103ab3466bca903"
+  },
+  "queries": [
+    "\"Andrea di Lione\" \"Elephants in a Circus\"",
+    "Andrea di Lione Elephants in a Circus"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 27538080,
+      "fileTitle": "File:Lione-elefantes en el circo-prado.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lione-elefantes_en_el_circo-prado.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Lione-elefantes_en_el_circo-prado.jpg/960px-Lione-elefantes_en_el_circo-prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lione-elefantes_en_el_circo-prado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 3072,
+      "originalHeight": 3051,
+      "fileSHA1": "291149bdb191409575ab770fe3d2e8751450b83d",
+      "mime": "image/jpeg",
+      "revisionId": 1205274579,
+      "artistDisplay": "",
+      "description": "",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "http://www.museodelprado.es/imagen/alta_resolucion/P00091.jpg",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2013-08-02 16:42:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lione-elefantes en el circo-prado",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Files with no machine-readable author|Italian paintings in the Museo del Prado|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks with Wikidata item missing genre|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Paintings by Andrea de Lione|17th-century paintings of elephants|Elephants in history paintings",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.museodelprado.es/imagen/alta_resolucion/P00091.jpg\">http://www.museodelprado.es/imagen/alta_resolucion/P00091.jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Art Photo\n |artist             = \n |title              = {{title|lang=es|1=Elefantes en un circo}}\n |description        = \n |object type        = painting\n |date               = {{otherdate|c|1635-1640}}\n |medium             = {{oil on canvas}}\n |dimensions         = 229 x 231 cm\n |institution        = {{Institution:Prado}}\n |department         = \n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = http://www.museodelprado.es/imagen/alta_resolucion/P00091.jpg\n |permission         = \n |other_versions     = \n |wikidata           = Q27700987\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1685}}\n\n[[Category:Paintings by Andrea de Lione]]\n[[Category:Italian paintings in the Museo del Prado]]\n[[Category:17th-century paintings of elephants]]\n[[Category:Elephants in history paintings]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 953,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 268101,
+      "downloadSHA256": "958027ece288c43cb0f777b3bcbb0a962b2d12ab9447546f1d4df4390ae10d44"
+    },
+    {
+      "commonsPageId": 155840557,
+      "fileTitle": "File:Elephants in a Circus Parade in Minneapolis - DPLA - e1001a37e541626feb2175b037012931.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Elephants_in_a_Circus_Parade_in_Minneapolis_-_DPLA_-_e1001a37e541626feb2175b037012931.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Elephants_in_a_Circus_Parade_in_Minneapolis_-_DPLA_-_e1001a37e541626feb2175b037012931.jpg/960px-Elephants_in_a_Circus_Parade_in_Minneapolis_-_DPLA_-_e1001a37e541626feb2175b037012931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Elephants_in_a_Circus_Parade_in_Minneapolis_-_DPLA_-_e1001a37e541626feb2175b037012931.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 5874,
+      "originalHeight": 4503,
+      "fileSHA1": "ffe219fb4592a69cfe6b69140d267e7ad33f6b99",
+      "mime": "image/jpeg",
+      "revisionId": 1266926079,
+      "artistDisplay": "Bromley, Edward A",
+      "description": "The parade is moving South along Hennepin Avenue. The Kasota building can be seen to the right. The trees on the left are on the property of the Levi Stewart residence. Note streetcar tracks BR0984",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "This file was contributed to Wikimedia Commons by Hennepin County Library as part of a cooperation project. The donation was facilitated by the Digital Public Library of America , via its partner Minnesota Digital Library . Record in source catalog DPLA identifier: e1001a37e541626feb2175b037012931",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2024-11-26 18:33:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nElephants in a Circus Parade in Minneapolis</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD US|Circus in the United States|Media contributed by the Digital Public Library of America|Artworks without Wikidata item|Parades in Minnesota|1901 in Minneapolis|Elephants in the United States|Media contributed by the Minnesota Digital Library|Media contributed by Hennepin County Library",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "Bromley, Edward A",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nThe parade is moving South along Hennepin Avenue. The Kasota building can be seen to the right. The trees on the left are on the property of the Levi Stewart residence. Note streetcar tracks BR0984</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "This file was contributed to Wikimedia Commons by <a href=\"https://en.wikipedia.org/wiki/en:Hennepin_County_Library\" class=\"extiw\" title=\"w:en:Hennepin County Library\"><span title=\"library system in Hennepin County, Minnesota\">Hennepin County Library</span></a> as part of a cooperation project. The donation was facilitated by the <a href=\"https://en.wikipedia.org/wiki/Digital_Public_Library_of_America\" class=\"extiw\" title=\"w:Digital Public Library of America\">Digital Public Library of America</a>, via its partner <a href=\"https://www.wikidata.org/wiki/Q83878485\" class=\"extiw\" title=\"d:Q83878485\"><span title=\"regional digital library in the United States, and service hub for DPLA\">Minnesota Digital Library</span></a>.<span style=\"text-align:left\">\n<ul><li><a rel=\"nofollow\" class=\"external text\" href=\"http://digitalcollections.hclib.org/cdm/ref/collection/p17208coll18/id/1015\">Record in source catalog</a></li>\n<li>DPLA identifier: <a rel=\"nofollow\" class=\"external text\" href=\"https://dp.la/item/e1001a37e541626feb2175b037012931\">e1001a37e541626feb2175b037012931</a></li></ul>\n</span>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This image might not be in the public domain outside of the United States; this especially applies in the countries and areas that do not apply the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a> for US works, such as Canada, Mainland China (not Hong Kong or Macao), Germany, Mexico, and Switzerland. The creator and year of publication are essential information and must be provided. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">Wikipedia:Public domain</a> and <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Copyrights\" class=\"extiw\" title=\"w:Wikipedia:Copyrights\">Wikipedia:Copyrights</a> for more details.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n     {{ Artwork\n        | Other fields 1 = {{ InFi | Creator | Bromley, Edward A }}\n        | title = Elephants in a Circus Parade in Minneapolis\n        | description = The parade is moving South along Hennepin Avenue. The Kasota building can be seen to the right. The trees on the left are on the property of the Levi Stewart residence. Note streetcar tracks BR0984\n        | date = \n        | permission = {{NoC-US | Q530512}}\n        | source = {{ DPLA\n            | Q530512\n            | hub = Q83878485\n            | url = https://digitalcollections.hclib.org/cdm/ref/collection/p17208coll18/id/1015\n            | dpla_id = e1001a37e541626feb2175b037012931\n            | local_id = \n        }}\n        | Institution = {{ Institution | wikidata = Q530512 }}\n     }}\n\n[[Category:1901 in Minneapolis]]\n[[Category:Parades in Minnesota]]\n[[Category:Circus in the United States]]\n[[Category:Elephants in the United States]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 736,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 250683,
+      "downloadSHA256": "563626e7204f9b7ef9a0e0ad02cc923dac5f3b07146d393d36ab96f6f80a5ce4"
+    },
+    {
+      "commonsPageId": 53524452,
+      "fileTitle": "File:Elephants belonging to Wirths' Circus in Bundaberg 1915 (12647671624).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Elephants_belonging_to_Wirths%27_Circus_in_Bundaberg_1915_(12647671624).jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Elephants_belonging_to_Wirths%27_Circus_in_Bundaberg_1915_%2812647671624%29.jpg/960px-Elephants_belonging_to_Wirths%27_Circus_in_Bundaberg_1915_%2812647671624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/87/Elephants_belonging_to_Wirths%27_Circus_in_Bundaberg_1915_%2812647671624%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 967,
+      "originalHeight": 1000,
+      "fileSHA1": "eee1420bfefe791faf7329a7bd8d07c2f8b8183e",
+      "mime": "image/jpeg",
+      "revisionId": 1227603926,
+      "artistDisplay": "State Library of Queensland, Australia",
+      "description": "Creator: Unidentified Location: Bundaberg, Queensland Description: A marquee and dray can be seen in the background. A couple of large tent stakes are lying on the ground. View this image at the State Library of Queensland: http://hdl.handle.net/10462/deriv/64786 Information about State Library of Queensland’s collection: http://www.slq.qld.gov.au/resources/picture-queensland",
+      "dateDisplay": "1915-01-01 00:00:00",
+      "licenseShortName": "No restrictions",
+      "licenseURL": "https://www.flickr.com/commons/usage/",
+      "creditDisplay": "https://www.flickr.com/photos/statelibraryqueensland/12647671624/",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2016-11-26 05:46:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Elephants belonging to Wirths' Circus in Bundaberg 1915 (12647671624)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images from the State Library of Queensland|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Elephants in circus|Files from Flickr's 'The Commons'|Files with coordinates missing SDC location of creation|Black and white photographs of elephants",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "-24.867050",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "152.346695",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<strong>Creator:</strong>  Unidentified<br>\n<p><strong>Location:</strong>Bundaberg, Queensland<br>\n<strong>Description:</strong>A marquee and dray can be seen in the background. A couple of large tent stakes are lying on the ground.<br>\nView this image at the State Library of Queensland:<a rel=\"nofollow\" class=\"external free\" href=\"http://hdl.handle.net/10462/deriv/64786\">http://hdl.handle.net/10462/deriv/64786</a><br>\n</p>\nInformation about State Library of Queensland’s collection: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.slq.qld.gov.au/resources/picture-queensland\">http://www.slq.qld.gov.au/resources/picture-queensland</a>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1915-01-01 00:00:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/statelibraryqueensland/12647671624/\">https://www.flickr.com/photos/statelibraryqueensland/12647671624/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/32605636@N06\">State Library of Queensland, Australia</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "No restrictions",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "No known copyright restrictions",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://www.flickr.com/commons/usage/",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{information\n|description={{en|1=<strong>Creator:</strong>  Unidentified<br>\n<strong>Location:</strong>Bundaberg, Queensland<br>\n<strong>Description:</strong>A marquee and dray can be seen in the background. A couple of large tent stakes are lying on the ground.<br>\nView this image at the State Library of Queensland:http://hdl.handle.net/10462/deriv/64786<br>\nInformation about State Library of Queensland’s collection: http://www.slq.qld.gov.au/resources/picture-queensland\n}}\n|date=1915-01-01 00:00:00\n|author=[https://www.flickr.com/people/32605636@N06 State Library of Queensland, Australia]\n|source=https://www.flickr.com/photos/statelibraryqueensland/12647671624/\n|permission={{User:Fæ/Flickr API}}\n|other_versions=\n|other_fields={{Information field|name=Flickr sets|value={{flatlist|\n*Circus\n}}}}{{Information field|name=Flickr tags|value={{flatlist|\n*elephants\n*circus\n*Wirths' circus\n*Bundaberg\n*big top\n*marquee\n*State Library of Queensland\n*SLQ\n*Queensland\n}}}}\n}}\n{{Location|1=-24.867050|2=152.346695}}\n\n== {{int:license-header}} ==\n{{Flickr-no known copyright restrictions}}\n{{User:FlickreviewR/reviewed-pass|State Library of Queensland, Australia|https://flickr.com/photos/32605636@N06/12647671624|2016-11-26 05:52:14|No known copyright restrictions|}}\n\n\n[[Category:Elephants in circus]]\n[[Category:Black and white photographs of elephants]]\n[[Category:Images from the State Library of Queensland]]\n[[Category:Photos uploaded from Flickr by Fæ using a script]]",
+      "textSignals": [
+        "copy"
+      ],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

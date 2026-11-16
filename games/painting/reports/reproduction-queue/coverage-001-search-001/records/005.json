@@ -1,0 +1,132 @@
+{
+  "number": 5,
+  "queueKey": "adriana_johanna_haanen:a6ac92e6c32675aa",
+  "artistId": "adriana_johanna_haanen",
+  "artistName": "Адриана Йоханна Ханен",
+  "title": "Лето: натюрморт с цветами",
+  "originalTitle": "'De zomer': stilleven met bloemen",
+  "originalSource": "https://www.rijksmuseum.nl/nl/collectie/object/De-zomer-stilleven-met-bloemen--7ee392357e28b617bb065384f6a58746",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-121.js",
+    "sourceModuleGitBlob": "ba437249acb0643bfd591ce5503dcb2ad16a50eb",
+    "pendingWorkFingerprint": "a6ac92e6c32675aae338c97b93257ed24ef373e899a727945ecf07db33074d36"
+  },
+  "queries": [
+    "\"Adriana Johanna Haanen\" \"'De zomer': stilleven met bloemen\"",
+    "Adriana Johanna Haanen De zomer stilleven met bloemen",
+    "Adriana Johanna Haanen Лето натюрморт с цветами"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 76753830,
+      "fileTitle": "File:A.J. Haanen - De Zomer, stilleven met bloemen - B307 - Cultural Heritage Agency of the Netherlands Art Collection.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A.J._Haanen_-_De_Zomer,_stilleven_met_bloemen_-_B307_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/A.J._Haanen_-_De_Zomer%2C_stilleven_met_bloemen_-_B307_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg/960px-A.J._Haanen_-_De_Zomer%2C_stilleven_met_bloemen_-_B307_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/A.J._Haanen_-_De_Zomer%2C_stilleven_met_bloemen_-_B307_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1359,
+      "originalHeight": 1772,
+      "fileSHA1": "4fcaadf1c7d89b6cc3ee2b08c055bc7c979fd08d",
+      "mime": "image/jpeg",
+      "revisionId": 1030545269,
+      "artistDisplay": "Adriana Johanna Haanen",
+      "description": "",
+      "dateDisplay": "between 1850 and 1884 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/detail/b0dfcd60-6f7d-56b4-9e65-fc1760ba65a0/media/df1941b9-e552-508d-0819-bede9d41ddcd",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2019-02-21 18:36:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>'Summer': Still Life with Flowers <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18607725#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"'Summer': Still Life with Flowers <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18607725#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"'Summer': Still Life with Flowers <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18607725#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnl,\"'De zomer': stilleven met bloemen\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Adriana Johanna Haanen|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Still-life paintings in the Cultural Heritage Agency of the Netherlands Art Collection|Artworks digital representation of 2D work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Adriana_Johanna_Haanen\" class=\"extiw\" title=\"w:en:Adriana Johanna Haanen\"><span title=\"painter from the Northern Netherlands (1814-1895)\">Adriana Johanna Haanen</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "between 1850 and 1884<div style=\"display: none;\">date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18607725#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/detail/b0dfcd60-6f7d-56b4-9e65-fc1760ba65a0/media/df1941b9-e552-508d-0819-bede9d41ddcd\">http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/detail/b0dfcd60-6f7d-56b4-9e65-fc1760ba65a0/media/df1941b9-e552-508d-0819-bede9d41ddcd</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|source=http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/detail/b0dfcd60-6f7d-56b4-9e65-fc1760ba65a0/media/df1941b9-e552-508d-0819-bede9d41ddcd\n|wikidata=Q18607725\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1895}}\n\n[[Category:Still-life paintings in the Cultural Heritage Agency of the Netherlands Art Collection]]\n[[Category:Adriana Johanna Haanen]]",
+      "textSignals": [
+        "detail"
+      ],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1252,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 502712,
+      "downloadSHA256": "04a282ab069876425730a23a8b08f56fa64eb9a3a5b1f901460799abc49a5d48"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

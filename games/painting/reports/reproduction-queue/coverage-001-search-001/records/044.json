@@ -1,0 +1,28 @@
+{
+  "number": 44,
+  "queueKey": "augusto_giacometti:8e0fbd22ad79fed3",
+  "artistId": "augusto_giacometti",
+  "artistName": "Аугусто Джакометти",
+  "title": "Хроматическая фантазия",
+  "originalTitle": "Chromatische Fantasie / Chromatic Fantasy",
+  "originalSource": "https://collection.kunsthaus.ch/multimedia/9/1109-en.pdf",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-145.js",
+    "sourceModuleGitBlob": "e3d03baa09b23b2952faa2f2ed247c67a447ef2e",
+    "pendingWorkFingerprint": "8e0fbd22ad79fed3d9f69509d10cece92f7af3115656d2d6026ed61761646326"
+  },
+  "queries": [
+    "\"Augusto Giacometti\" \"Chromatische Fantasie / Chromatic Fantasy\"",
+    "Augusto Giacometti Chromatische Fantasie Chromatic Fantasy",
+    "Augusto Giacometti Хроматическая фантазия"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

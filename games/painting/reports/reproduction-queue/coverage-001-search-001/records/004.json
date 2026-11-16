@@ -1,0 +1,325 @@
+{
+  "number": 4,
+  "queueKey": "adolf_von_becker:381d5c6e91547ea0",
+  "artistId": "adolf_von_becker",
+  "artistName": "Адольф фон Беккер",
+  "title": "Пишущая девочка",
+  "originalTitle": "A Girl Writing",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/1909604",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-133.js",
+    "sourceModuleGitBlob": "27f5daf16993fcdd5cbf382c91c80977be2c1d8d",
+    "pendingWorkFingerprint": "381d5c6e91547ea076e9b3ac6af69d1ceab5977bfa0e5b7370da4b39f0cd3235"
+  },
+  "queries": [
+    "\"Adolf von Becker\" \"A Girl Writing\"",
+    "Adolf von Becker A Girl Writing"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 194979609,
+      "fileTitle": "File:A biographical dictionary of fiddlers, including performers on the violoncello and double bass ... Containing a sketch of their artistic career. Together with notes of t (IA biographicaldict00claruoft).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A_biographical_dictionary_of_fiddlers,_including_performers_on_the_violoncello_and_double_bass_..._Containing_a_sketch_of_their_artistic_career._Together_with_notes_of_t_(IA_biographicaldict00claruoft).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/A_biographical_dictionary_of_fiddlers%2C_including_performers_on_the_violoncello_and_double_bass_..._Containing_a_sketch_of_their_artistic_career._Together_with_notes_of_t_%28IA_biographicaldict00claruoft%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/A_biographical_dictionary_of_fiddlers%2C_including_performers_on_the_violoncello_and_double_bass_..._Containing_a_sketch_of_their_artistic_career._Together_with_notes_of_t_%28IA_biographicaldict00claruoft%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 612,
+      "originalHeight": 1010,
+      "fileSHA1": "5ce487419a84d573270c096a83a70655929fd60b",
+      "mime": "application/pdf",
+      "revisionId": 1242410367,
+      "artistDisplay": "Clarke, A. Mason",
+      "description": "22 Subjects: Violinists, violoncellists, etc",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: biographicaldict00claruoft https://archive.org/download/biographicaldict00claruoft/biographicaldict00claruoft.pdf IA contributor: Music - University of Toronto IA digitizing sponsor: MSN",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2026-07-02 06:48:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nA biographical dictionary of fiddlers, including performers on the violoncello and double bass ... Containing a sketch of their artistic career. Together with notes of their compositions</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|Scans from University of Toronto|PD-old missing SDC copyright status",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nClarke, A. Mason</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<p>22\n</p>\n<br>Subjects: Violinists, violoncellists, etc</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/biographicaldict00claruoft\" class=\"extiw\" title=\"iarchive:biographicaldict00claruoft\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> biographicaldict00claruoft</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/biographicaldict00claruoft/biographicaldict00claruoft.pdf\">https://archive.org/download/biographicaldict00claruoft/biographicaldict00claruoft.pdf</a></dd></dl>\n<ul><li>IA contributor: Music - University of Toronto</li>\n<li>IA digitizing sponsor: MSN</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Clarke, A. Mason\n|illustrator = \n|title = A biographical dictionary of fiddlers, including performers on the violoncello and double bass ... Containing a sketch of their artistic career. Together with notes of their compositions\n|volume = \n|publisher = London W. Reeves\n|source = \n:{{Internet Archive link|biographicaldict00claruoft}}\n:https://archive.org/download/biographicaldict00claruoft/biographicaldict00claruoft.pdf\n*IA contributor: Music - University of Toronto\n*IA digitizing sponsor: MSN\n|accession number = biographicaldict00claruoft\n|series title = \n|language = {{language|1=en}}\n|description = 22\n<br>Subjects: Violinists, violoncellists, etc\n|permission = \n|OCLC = 1041590047\n|publication date = [1895]\n|notes = \n|department = IA Collections: facultyofmusic; toronto; university_of_toronto\n|noimage = 1\n}}\n== {{int:license-header}} ==\n{{PD-old-100-expired}}\n\n{{DEFAULTSORT:biographicaldict00claruoft}}\n[[Category:Scans from University of Toronto]]\n[[Category:IA uploads needing categories]]\n[[Category:Books uploaded by Fæ]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 824,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 83621,
+      "downloadSHA256": "ef077f2fb28f3cd0d0f6b3068e1860e3adab1c1300ef42b6e8932f572b08f780"
+    },
+    {
+      "commonsPageId": 95595819,
+      "fileTitle": "File:Kleist and Hebbel, a comparative study ; the novels (IA kleisthebbelcomp00beckrich).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kleist_and_Hebbel,_a_comparative_study_;_the_novels_(IA_kleisthebbelcomp00beckrich).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Kleist_and_Hebbel%2C_a_comparative_study_%3B_the_novels_%28IA_kleisthebbelcomp00beckrich%29.pdf/page1-500px-Kleist_and_Hebbel%2C_a_comparative_study_%3B_the_novels_%28IA_kleisthebbelcomp00beckrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Kleist_and_Hebbel%2C_a_comparative_study_%3B_the_novels_%28IA_kleisthebbelcomp00beckrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 822,
+      "originalHeight": 1304,
+      "fileSHA1": "db15929fb565b3d2a5fc3e048071803d3e59c9d2",
+      "mime": "application/pdf",
+      "revisionId": 506231234,
+      "artistDisplay": "Becker, Henrietta Katherine",
+      "description": "Thesis (Ph.D.)--University of Chicago \"Books and articles quoted\" : p. 69-71 Subjects: Kleist, Heinrich von, 1777-1811; Hebbel, Friedrich, 1813-1863",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: kleisthebbelcomp00beckrich https://archive.org/download/kleisthebbelcomp00beckrich/kleisthebbelcomp00beckrich.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-29 10:06:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nKleist and Hebbel, a comparative study ; the novels</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nBecker, Henrietta Katherine</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>Thesis (Ph.D.)--University of Chicago</dd>\n<dd>\"Books and articles quoted\" : p. 69-71</dd></dl>\n<br>Subjects: Kleist, Heinrich von, 1777-1811; Hebbel, Friedrich, 1813-1863</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/kleisthebbelcomp00beckrich\" class=\"extiw\" title=\"iarchive:kleisthebbelcomp00beckrich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> kleisthebbelcomp00beckrich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/kleisthebbelcomp00beckrich/kleisthebbelcomp00beckrich.pdf\">https://archive.org/download/kleisthebbelcomp00beckrich/kleisthebbelcomp00beckrich.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Becker, Henrietta Katherine\n|illustrator = \n|title = Kleist and Hebbel, a comparative study ; the novels\n|volume = \n|publisher = Chicago, Scott, Foresman and company\n|source = \n:{{Internet Archive link|kleisthebbelcomp00beckrich}}\n:https://archive.org/download/kleisthebbelcomp00beckrich/kleisthebbelcomp00beckrich.pdf\n|accession number = kleisthebbelcomp00beckrich\n|series title = \n|language = {{language|1=en}}\n|description = \n:Thesis (Ph.D.)--University of Chicago\n:\"Books and articles quoted\" : p. 69-71\n<br>Subjects: Kleist, Heinrich von, 1777-1811; Hebbel, Friedrich, 1813-1863\n|permission = \n|OCLC = 1047493576\n|publication date = 1904\n|notes = \n|department = IA Collections: cdl; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:kleisthebbelcomp00beckrich}}[[Category:California Digital Library]]\n[[Category:Books uploaded by Fæ]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 792,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 103905,
+      "downloadSHA256": "1a2b232f21f37a4ab6cd222750e88182622d906e05f8c00b7780ebbe04ef39b0"
+    },
+    {
+      "commonsPageId": 97775407,
+      "fileTitle": "File:Henry Wadsworth Longfellow. - A medley in prose and verse. (IA cu31924022036473).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Henry_Wadsworth_Longfellow._-_A_medley_in_prose_and_verse._(IA_cu31924022036473).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Henry_Wadsworth_Longfellow._-_A_medley_in_prose_and_verse._%28IA_cu31924022036473%29.pdf/page1-500px-Henry_Wadsworth_Longfellow._-_A_medley_in_prose_and_verse._%28IA_cu31924022036473%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Henry_Wadsworth_Longfellow._-_A_medley_in_prose_and_verse._%28IA_cu31924022036473%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 927,
+      "originalHeight": 1258,
+      "fileSHA1": "f02629f06242237a02d876488b7ada544f7c4df2",
+      "mime": "application/pdf",
+      "revisionId": 1296642048,
+      "artistDisplay": "Stoddard, Richard Henry, 1825-1903 Longfellow, Henry Wadsworth, 1807-1882. Selections. 1882",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. Includes various editorials, letters, and memorial addresses: p. 171-240 Includes bibliography of Longfellow: p. vii-xiv From verso of t.p. : H.J. Hewitt, Printer, ... New York Subjects: Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Authors, American",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: cu31924022036473 https://archive.org/download/cu31924022036473/cu31924022036473.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-12-18 20:57:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nHenry Wadsworth Longfellow. : A medley in prose and verse.</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Works by Henry Wadsworth Longfellow|Richard Henry Stoddard|Books from New York (state)|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library|PD-old missing SDC copyright status",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<dl><dd>Stoddard, Richard Henry, 1825-1903</dd>\n<dd>Longfellow, Henry Wadsworth, 1807-1882. Selections. 1882</dd></dl></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>Includes various editorials, letters, and memorial addresses: p. 171-240</dd>\n<dd>Includes bibliography of Longfellow: p. vii-xiv</dd>\n<dd>From verso of t.p. : H.J. Hewitt, Printer, ... New York</dd></dl>\n<br>Subjects: Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Authors, American</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/cu31924022036473\" class=\"extiw\" title=\"iarchive:cu31924022036473\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> cu31924022036473</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924022036473/cu31924022036473.pdf\">https://archive.org/download/cu31924022036473/cu31924022036473.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = \n:Stoddard, Richard Henry, 1825-1903\n:Longfellow, Henry Wadsworth, 1807-1882. Selections. 1882\n|illustrator = \n|title = Henry Wadsworth Longfellow. : A medley in prose and verse. \n|volume = \n|publisher = New York : George W. Harlan & Co., publishers\n|source = \n:{{Internet Archive link|cu31924022036473}}\n:https://archive.org/download/cu31924022036473/cu31924022036473.pdf\n|accession number = cu31924022036473\n|series title = \n|language = {{language|1=en}}\n|description = \n:The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the [https://archive.org/about/faqs.php#140 What is the directory structure for the texts?] FAQ for information about file content and naming conventions.\n:Includes various editorials, letters, and memorial addresses: p. 171-240\n:Includes bibliography of Longfellow: p. vii-xiv\n:From verso of t.p. : H.J. Hewitt, Printer, ... New York\n<br>Subjects: Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Authors, American\n|permission = \n|publication date = 1882\n|notes = \n|department = IA Collections: cornell; americana\n|noimage = 1\n}}\n== {{int:license-header}} ==\n{{PD-old-100-expired}}\n\n{{DEFAULTSORT:cu31924022036473}}\n[[Category:Books from New York (state)]]\n[[Category:Scans from Cornell University Library]]\n[[Category:Books uploaded by Fæ]]\n[[Category:Richard Henry Stoddard]]\n[[Category:Works by Henry Wadsworth Longfellow]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

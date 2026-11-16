@@ -1,0 +1,329 @@
+{
+  "number": 28,
+  "queueKey": "anna_dorothea_therbusch:d90979413fd20d5e",
+  "artistId": "anna_dorothea_therbusch",
+  "artistName": "Анна Доротея Тербуш",
+  "title": "Автопортрет со зрительным стеклом",
+  "originalTitle": "Selbstbildnis",
+  "originalSource": "https://www.smb.museum/ausstellungen/detail/anna-dorothea-therbusch/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-108.js",
+    "sourceModuleGitBlob": "b30ec250bf59b48403255a708bfe73ceffbd1d63",
+    "pendingWorkFingerprint": "d90979413fd20d5ecb60cf4508e48d4538e9e01b0af26b8bdcdd8863173a250b"
+  },
+  "queries": [
+    "\"Anna Dorothea Therbusch\" \"Selbstbildnis\""
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 4878129,
+      "fileTitle": "File:Anna Dorothea Therbusch - 1761.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anna_Dorothea_Therbusch_-_1761.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anna_Dorothea_Therbusch_-_1761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anna_Dorothea_Therbusch_-_1761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 847,
+      "originalHeight": 1162,
+      "fileSHA1": "be4df24976e2b5dc057b990e182442649e78ff42",
+      "mime": "image/jpeg",
+      "revisionId": 1226508672,
+      "artistDisplay": "Anna Dorothea Therbusch",
+      "description": "",
+      "dateDisplay": "1761 date QS:P571,+1761-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Franzes Borzello: Wie Frauen sich sehen - Selbstbildnisse aus fünf Jahrhunderten; S.72",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2010-08-23 16:44:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Selbstbildnis, 1761 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q122702853#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Self-portrait</i></div></div><div style=\"display: none;\">label QS:Len,\"Self-portrait\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "18th-century oil on canvas portrait paintings in Germany|1761 portrait paintings from Germany|18th-century self-portrait paintings of women from Germany|1761 oil on canvas paintings in Germany|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|18th-century portrait paintings of women, location missing|Women facing right and looking left|White clothing in art, female|CC-PD-Mark|18th-century oil portraits of women at half length|1761 paintings in Baden-Württemberg|Artworks with Wikidata item missing medium|1761 portrait paintings of women|Template Unknown (unspecified)|Artworks with Wikidata item missing genre|1760s self-portrait paintings of women|Artworks digital representation of 2D work|Female portrait paintings by Anna Dorothea Therbusch|18th-century self-portrait paintings of women holding palette and brushes",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_Dorothea_Therbusch\" class=\"extiw\" title=\"w:en:Anna Dorothea Therbusch\"><span title=\"painter from Prussia (1721-1782)\">Anna Dorothea Therbusch</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1761<div style=\"display: none;\">date QS:P571,+1761-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Franzes Borzello: Wie Frauen sich sehen - Selbstbildnisse aus fünf Jahrhunderten; S.72",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|artist     ={{Creator:Anna Dorothea Therbusch}}\n|title      ={{title|en={{Self-portrait}} }}\n|description=\n|year       =1761\n|object type = painting\n|medium     ={{Technique|painting}}\n|dimensions = \n|institution={{18PortraitWomenLocationMissing}}\n|location   =<!--within the institution-->\n|source     =Franzes Borzello: Wie Frauen sich sehen - Selbstbildnisse aus fünf Jahrhunderten; S.72\n|other versions=\n|wikidata=Q122702853\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1782}}\n\n{{DEFAULTSORT:1761; Anna Dorothea Therbusch}}\n[[Category:Female portrait paintings by Anna Dorothea Therbusch]]\n[[Category:1761 portrait paintings from Germany]]\n[[Category:1761 portrait paintings of women]]\n[[Category:18th-century oil portraits of women at half length]]\n[[Category:18th-century self-portrait paintings of women holding palette and brushes]]\n[[Category:White clothing in art, female]]\n[[Category:Women facing right and looking left]]\n[[Category:1761 paintings in Baden-Württemberg]]\n[[Category:18th-century oil on canvas portrait paintings in Germany]]\n[[Category:1761 oil on canvas paintings in Germany]]\n[[Category:18th-century self-portrait paintings of women from Germany]]\n[[Category:1760s self-portrait paintings of women]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 847,
+      "decodedHeight": 1162,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 188366,
+      "downloadSHA256": "c9906c8a8d66bd70e8c8f58548c67b1e7f78a6b34eff99ed2d316b9a6681bec3"
+    },
+    {
+      "commonsPageId": 15398347,
+      "fileTitle": "File:Anna Dorothea Therbusch - Self-Portrait - WGA22209.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg/960px-Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1000,
+      "originalHeight": 1300,
+      "fileSHA1": "346bc02564318e36eaa547037c2ad215a3ce2cac",
+      "mime": "image/jpeg",
+      "revisionId": 1225452462,
+      "artistDisplay": "Anna Dorothea Therbusch",
+      "description": "",
+      "dateDisplay": "between 1776 and 1777 date QS:P571,+1776-00-00T00:00:00Z/8,P1319,+1776-00-00T00:00:00Z/9,P1326,+1777-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/t/therbusc/1selfpor\"",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2011-06-04 10:06:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nSelf-portrait</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-Portrait with Monocle (Anna Dorothea Therbusch - Gemäldegalerie, Berlin)|Images from Web Gallery of Art|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|WGA form: painting|WGA time period: 1751-1800|Artworks with accession number from Wikidata|18th-century self-portraits|Artworks digital representation of 2D work|WGA School: German|WGA type: portrait|1 woman in art|Female people with objects in art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_Dorothea_Therbusch\" class=\"extiw\" title=\"w:en:Anna Dorothea Therbusch\"><span title=\"painter from Prussia (1721-1782)\">Anna Dorothea Therbusch</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "between 1776 and 1777<div style=\"display: none;\">date QS:P571,+1776-00-00T00:00:00Z/8,P1319,+1776-00-00T00:00:00Z/9,P1326,+1777-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/en:Web_Gallery_of_Art\" class=\"extiw\" title=\"w:en:Web Gallery of Art\"><span title=\"virtual art gallery for European fine art created before 1900\">Web Gallery of Art</span></a>:  <span typeof=\"mw:File\"><a href=\"https://www.wga.hu/art/t/therbusc/1selfpor.jpg\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/20px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Inkscape.svg/40px-Inkscape.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"60\" data-file-height=\"60\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.wga.hu/art/t/therbusc/1selfpor.jpg\">Image</a> <span typeof=\"mw:File\"><a href=\"https://www.wga.hu/html/t/therbusc/1selfpor.html\" rel=\"nofollow\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/20px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Information_icon.svg/40px-Information_icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"620\" data-file-height=\"620\"></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.wga.hu/html/t/therbusc/1selfpor.html\">Info about artwork</a><div style=\"display: none;\">wga QS:P11807,\"/t/therbusc/1selfpor\"</div>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n  |artist           = {{Creator:Anna Dorothea Therbusch}}\n|wikidata = Q23037976\n  |title            =\n{{self-portrait}}\n  |description      =    \n  |date             = {{otherdate|between|1776|1777}}\n  |medium           = {{Oil on canvas}}\n  |dimensions       = {{size|unit=cm|height=151|width=115}}\n  |institution      = {{Institution:Gemäldegalerie Berlin}}\n  |location         = <!--within the institution-->\n  |references       =\n  |object history   =\n  |credit line      =\n  |inscriptions     =\n  |notes            =\n  |accession number =\n  |source           = {{WGA link|ID=22209|pic-url=https://www.wga.hu/art/t/therbusc/1selfpor.jpg|info-url=https://www.wga.hu/html/t/therbusc/1selfpor.html}}\n}}{{PD-Art|PD-old-auto-expired|deathyear=1782}}\n{{WGA tag|painting|portrait|German|1751-1800}}\n\n[[Category:WGA form: painting]]\n[[Category:WGA type: portrait]]\n[[Category:WGA School: German]]\n[[Category:WGA time period: 1751-1800]]\n[[Category:Self-Portrait with Monocle (Anna Dorothea Therbusch - Gemäldegalerie, Berlin)| ]]\n[[Category:Female people with objects in art| ]]\n[[Category:1 woman in art| ]]\n[[Category:18th-century self-portraits]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1248,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 204131,
+      "downloadSHA256": "4873f6ea4cd0d249ba9e62becd3f2e48d2feb970a953d89d11129c4920bb0d41"
+    },
+    {
+      "commonsPageId": 73960935,
+      "fileTitle": "File:Therbusch Selbstbildnis@Herzog Anton Ulrich Museum.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Therbusch_Selbstbildnis@Herzog_Anton_Ulrich_Museum.JPG",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Therbusch_Selbstbildnis%40Herzog_Anton_Ulrich_Museum.JPG/960px-Therbusch_Selbstbildnis%40Herzog_Anton_Ulrich_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Therbusch_Selbstbildnis%40Herzog_Anton_Ulrich_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2667,
+      "originalHeight": 3269,
+      "fileSHA1": "938fb8e2fa75cd4c4b64c19cdc1315ae9fa2535d",
+      "mime": "image/jpeg",
+      "revisionId": 1053013667,
+      "artistDisplay": "Anna Dorothea Therbusch",
+      "description": "",
+      "dateDisplay": "1773",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Photographer and uploader was Hajotthu at de.wikipedia",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2018-10-30 16:15:38",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Self-portrait</i></div></div><div style=\"display: none;\">label QS:Len,\"Self-portrait\"</div><div style=\"display: none;\">label QS:Lde,\"Selbstporträt\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1773 portrait paintings from Germany|18th-century oil on canvas portrait paintings in Germany|18th-century self-portrait paintings of women from Germany|1773 oil on canvas paintings in Germany|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|18th-century oil oval portraits of women at bust length|18th-century three-quarter view portrait paintings of women, facing right and looking at viewer|1773 portrait paintings of women|1773 paintings in Lower Saxony|Artworks digital representation of 2D work|Female portrait paintings by Anna Dorothea Therbusch|Self-portrait paintings in the Herzog Anton Ulrich-Museum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_Dorothea_Therbusch\" class=\"extiw\" title=\"w:en:Anna Dorothea Therbusch\"><span title=\"painter from Prussia (1721-1782)\">Anna Dorothea Therbusch</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1773 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q72971242#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Photographer and uploader was <a href=\"https://de.wikipedia.org/wiki/User:Hajotthu\" class=\"extiw\" title=\"de:User:Hajotthu\">Hajotthu</a> at <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1782, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |wikidata         = Q72971242\n |source           = Photographer and uploader was [[:de:User:Hajotthu|Hajotthu]] at [http://de.wikipedia.org de.wikipedia]\n |permission       = {{PD-art|PD-old-auto-1923|deathyear=1782}}\n}}\n\n{{DEFAULTSORT:1773, Therbusch, Self-portrait}}\n\n[[Category:Female portrait paintings by Anna Dorothea Therbusch]]\n[[Category:Self-portrait paintings in the Herzog Anton Ulrich-Museum]]\n[[Category:1773 oil on canvas paintings in Germany|Portrait]]\n[[Category:1773 portrait paintings of women]]\n[[Category:18th-century oil oval portraits of women at bust length|1773]]\n[[Category:18th-century oil on canvas portrait paintings in Germany|1773]]\n[[Category:18th-century self-portrait paintings of women from Germany|1773]]\n[[Category:18th-century three-quarter view portrait paintings of women, facing right and looking at viewer|1773]]\n[[Category:1773 portrait paintings from Germany]]\n[[Category:1773 paintings in Lower Saxony]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

@@ -1,0 +1,130 @@
+{
+  "number": 34,
+  "queueKey": "ans_van_den_berg:abb1ca592a20fc36",
+  "artistId": "ans_van_den_berg",
+  "artistName": "Анс ван ден Берг",
+  "title": "Цветочный натюрморт",
+  "originalTitle": "Bloemenstilleven",
+  "originalSource": "https://www.wikidata.org/wiki/Q28094964",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-122.js",
+    "sourceModuleGitBlob": "e5e3193a3c9ff1d909e964760b9381b5c536f29a",
+    "pendingWorkFingerprint": "abb1ca592a20fc36bf811b33ce1d5663b34e6b51142c1d0253fda21b15a36ea5"
+  },
+  "queries": [
+    "\"Ans van den Berg\" \"Bloemenstilleven\"",
+    "Ans van den Berg Bloemenstilleven",
+    "Ans van den Berg Цветочный натюрморт"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 104162515,
+      "fileTitle": "File:A.C. van den Berg - Bloemenstilleven - K738 - Cultural Heritage Agency of the Netherlands Art Collection.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A.C._van_den_Berg_-_Bloemenstilleven_-_K738_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg",
+      "origin": "explicit_pending_reference",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/A.C._van_den_Berg_-_Bloemenstilleven_-_K738_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/41/A.C._van_den_Berg_-_Bloemenstilleven_-_K738_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 496,
+      "originalHeight": 485,
+      "fileSHA1": "eb67b97c5a659336c4bc83e1e47a61c922231c07",
+      "mime": "image/jpeg",
+      "revisionId": 1030545228,
+      "artistDisplay": "Ans van den Berg",
+      "description": "",
+      "dateDisplay": "between 1900 and 1942 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1900-00-00T00:00:00Z/9,P1326,+1942-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/detail/5a4f598d-ac80-512c-87c9-7573850cb9ff/media/a351ca3d-7eac-6021-eb3e-5d10d22e9e03",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2021-04-23 00:32:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Dutch:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"nl\"><i>Bloemenstilleven <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q28094964#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,nl:\"Bloemenstilleven <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q28094964#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnl,\"Bloemenstilleven <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q28094964#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ans van den Berg|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|PD-old-80-expired|CC-PD-Mark|Artworks with accession number from Wikidata|Still-life paintings in the Cultural Heritage Agency of the Netherlands Art Collection|Artworks digital representation of 2D work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Ans_van_den_Berg\" class=\"extiw\" title=\"w:en:Ans van den Berg\"><span title=\"Dutch painter (1873-1942)\">Ans van den Berg</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "between 1900 and 1942<div style=\"display: none;\">date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1900-00-00T00:00:00Z/9,P1326,+1942-00-00T00:00:00Z/9</div> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q28094964#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/detail/5a4f598d-ac80-512c-87c9-7573850cb9ff/media/a351ca3d-7eac-6021-eb3e-5d10d22e9e03\">http://beeldbank.cultureelerfgoed.nl/alle-afbeeldingen/detail/5a4f598d-ac80-512c-87c9-7573850cb9ff/media/a351ca3d-7eac-6021-eb3e-5d10d22e9e03</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1942}}\n\n[[Category:Still-life paintings in the Cultural Heritage Agency of the Netherlands Art Collection]]\n[[Category:Ans van den Berg]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 496,
+      "decodedHeight": 485,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 91316,
+      "downloadSHA256": "c05c0278ee832bcd1e10e662079d39570dda5995026240a24de11d5669ee0b45"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

@@ -1,0 +1,28 @@
+{
+  "number": 41,
+  "queueKey": "arvid_liljelund:0475b01a33c808a2",
+  "artistId": "arvid_liljelund",
+  "artistName": "Арвид Лильелунд",
+  "title": "Покупка народных костюмов в Сякюля",
+  "originalTitle": "Kansanpukujen osto Säkylässä / Buying National Costumes in Säkylä",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/615817",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-134.js",
+    "sourceModuleGitBlob": "d5ecfd5fd792b67db8f9cfe14feff0c2931e8ee1",
+    "pendingWorkFingerprint": "0475b01a33c808a2ab7564e69a36dda0348a5ab3928751938b3dfc9708408e6b"
+  },
+  "queries": [
+    "\"Arvid Liljelund\" \"Kansanpukujen osto Säkylässä / Buying National Costumes in Säkylä\"",
+    "Arvid Liljelund Kansanpukujen osto Säkylässä Buying National Costumes",
+    "Arvid Liljelund Покупка народных костюмов в Сякюля"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

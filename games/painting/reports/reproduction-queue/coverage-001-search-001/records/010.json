@@ -1,0 +1,321 @@
+{
+  "number": 10,
+  "queueKey": "alexander_laureus:f4aae9fa4596124e",
+  "artistId": "alexander_laureus",
+  "artistName": "Александр Лауреус",
+  "title": "Пир в пасторском доме",
+  "originalTitle": "Pastorin kestit",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/527583",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-133.js",
+    "sourceModuleGitBlob": "27f5daf16993fcdd5cbf382c91c80977be2c1d8d",
+    "pendingWorkFingerprint": "f4aae9fa4596124e62f0a9013c24006522f1d9239946baa253f906540136d121"
+  },
+  "queries": [
+    "\"Alexander Lauréus\" \"Pastorin kestit\"",
+    "Alexander Lauréus Pastorin kestit"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 66315325,
+      "fileTitle": "File:Alexander Lauréus - Party at the Parsonage - A-2002-563 - Finnish National Gallery.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg",
+      "origin": "explicit_pending_reference",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg/960px-Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/44/Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1619,
+      "originalHeight": 1234,
+      "fileSHA1": "1e67a5757a6f1185d92a32c82b4fcfac2e0d6d7f",
+      "mime": "image/jpeg",
+      "revisionId": 1289525857,
+      "artistDisplay": "Aleksander Lauréus",
+      "description": "",
+      "dateDisplay": "1815",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "http://kokoelmat.fng.fi/app?si=A-2002-563",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2018-02-11 00:39:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nParty at the Parsonage</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|1815 paintings from Finland|CC-PD-Mark|Artworks with Wikidata item missing genre|Paintings in the Finnish National Gallery|Artworks digital representation of 2D work|Paintings by Aleksander Lauréus",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Aleksander_Laur%C3%A9us\" class=\"extiw\" title=\"w:en:Aleksander Lauréus\"><span title=\"Finnish painter (1783-1823)\">Aleksander Lauréus</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1815 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q20782605#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://kokoelmat.fng.fi/app?si=A-2002-563\">http://kokoelmat.fng.fi/app?si=A-2002-563</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Aleksander Lauréus}}\n |author             = \n |title              = Party at the Parsonage\n |description        = \n |object type        = \n |date               = \n |medium             = \n |dimensions         = \n |institution        = {{Institution:Finnish National Gallery}}\n |department         = \n |accession number   = A-2002-563\n |place of creation  =    \n |place of discovery =    \n |object history     = \n |exhibition history =    \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = http://kokoelmat.fng.fi/app?si=A-2002-563\n |permission         = \n |other_versions     = \n |wikidata           = Q20782605 \n |other_fields       =  \n}}\n\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-1923|Cc-zero|deathyear=1823}}\n\n[[Category:1815 paintings from Finland]]\n[[Category:Paintings by Aleksander Lauréus]]\n[[Category:Paintings in the Finnish National Gallery]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 732,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 146319,
+      "downloadSHA256": "9ce254ba4e0e6e0738e35e04a4f4618f7c65dbcc268d16c640f25b4e8b82631f"
+    },
+    {
+      "commonsPageId": 92227490,
+      "fileTitle": "File:Extracts from the sermons of the late George Dunkle (IA extractsfromserm00kirk).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Extracts_from_the_sermons_of_the_late_George_Dunkle_(IA_extractsfromserm00kirk).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Extracts_from_the_sermons_of_the_late_George_Dunkle_%28IA_extractsfromserm00kirk%29.pdf/page1-500px-Extracts_from_the_sermons_of_the_late_George_Dunkle_%28IA_extractsfromserm00kirk%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Extracts_from_the_sermons_of_the_late_George_Dunkle_%28IA_extractsfromserm00kirk%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 825,
+      "originalHeight": 1156,
+      "fileSHA1": "ca544c07423b136f26a1cad60fe4b894b35c55d1",
+      "mime": "application/pdf",
+      "revisionId": 1176948396,
+      "artistDisplay": "Kirkham, Carrie E",
+      "description": "Subjects: Methodist Episcopal Church; Sermons, American",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: extractsfromserm00kirk https://archive.org/download/extractsfromserm00kirk/extractsfromserm00kirk.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-07-14 07:34:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nExtracts from the sermons of the late George Dunkle</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nKirkham, Carrie E</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects: Methodist Episcopal Church; Sermons, American</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/extractsfromserm00kirk\" class=\"extiw\" title=\"iarchive:extractsfromserm00kirk\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> extractsfromserm00kirk</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/extractsfromserm00kirk/extractsfromserm00kirk.pdf\">https://archive.org/download/extractsfromserm00kirk/extractsfromserm00kirk.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Kirkham, Carrie E\n|illustrator = \n|title = Extracts from the sermons of the late George Dunkle\n|volume = \n|publisher = Canandaigua, NY : The Author\n|noimage = 1\n|source = \n:{{Internet Archive link|extractsfromserm00kirk}}\n:https://archive.org/download/extractsfromserm00kirk/extractsfromserm00kirk.pdf\n|accession number = extractsfromserm00kirk\n|series title = \n|language = {{language|1=en}}\n|description = Subjects: Methodist Episcopal Church; Sermons, American\n|permission = \n|OCLC = 1045356634\n|publication date = 1894\n|notes = \n|department = IA Collections: library_of_congress; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n[[Category:Books in the Library of Congress]]\n[[Category:Books uploaded by Fæ]]\n{{DEFAULTSORT:extractsfromserm00kirk}}",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 701,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 49989,
+      "downloadSHA256": "9113ca8c14bf89d1533bd92217189d9f7578172653f42036ea3384cb153d23d2"
+    },
+    {
+      "commonsPageId": 112446230,
+      "fileTitle": "File:The Great Harry Thaw Case.djvu",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_Great_Harry_Thaw_Case.djvu",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Great_Harry_Thaw_Case.djvu/page1-960px-The_Great_Harry_Thaw_Case.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/The_Great_Harry_Thaw_Case.djvu?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2540,
+      "originalHeight": 3639,
+      "fileSHA1": "b6961a6d5c74a50af380ecb13a9e8b9cf5f8adb1",
+      "mime": "image/vnd.djvu",
+      "revisionId": 1103769475,
+      "artistDisplay": "Benjamin H Atwell",
+      "description": "",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: greatharrythawca00atwe",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2021-11-12 04:19:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe great Harry Thaw case, or, A woman's sacrifice</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1907 books|DjVu files in English|PD Old|Uploaded with IA Upload|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books without Wikidata item",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nBenjamin H Atwell</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"//archive.org/details/greatharrythawca00atwe\" class=\"extiw\" title=\"iarchive:greatharrythawca00atwe\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> greatharrythawca00atwe</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n| Author       = Benjamin H Atwell\n| Editor       = \n| Translator   = \n| Illustrator  = \n| Title        = The great Harry Thaw case, or, A woman's sacrifice\n| Subtitle     = \n| Series title = \n| Volume       = \n| Edition      = \n| Publisher    = Chicago : Laird & Lee\n| Printer      = \n| Date         = 1907\n| City         = \n| Language     = {{language|en}}\n| Description  = \n| Source       = {{IA|greatharrythawca00atwe}}\n| Image        = {{PAGENAME}}\n| Image page   = \n| Permission   = \n| OCLC         = 1045594267\n| Other versions = \n| Wikisource   = s:en:Index:{{PAGENAME}}\n| Homecat      = \n| Wikidata     = \n}}\n{{Djvu}}\n\n== {{int:license-header}} ==\n{{PD-scan}}\n\n[[Category:Uploaded with IA Upload]]\n[[Category:1907 books]]\n[[Category:DjVu files in English]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

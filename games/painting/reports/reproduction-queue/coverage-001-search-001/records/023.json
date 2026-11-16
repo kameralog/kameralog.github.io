@@ -1,0 +1,333 @@
+{
+  "number": 23,
+  "queueKey": "amelie_lundahl:8e81c48df6ce2be7",
+  "artistId": "amelie_lundahl",
+  "artistName": "Амели Лундаль",
+  "title": "Девушка-садовница",
+  "originalTitle": "The Garden Girl",
+  "originalSource": "https://awarewomenartists.com/en/magazine/sources-silencieuses/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-113.js",
+    "sourceModuleGitBlob": "15c6ec2976c173f9157954a6ae311f724fa883d5",
+    "pendingWorkFingerprint": "8e81c48df6ce2be7ee441ff123e213aa6a532519b1b6276ea15017d5a7c45b42"
+  },
+  "queries": [
+    "\"Amélie Lundahl\" \"The Garden Girl\""
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 29191489,
+      "fileTitle": "File:Amélie Lundahl - The Garden Girl - Google Art Project.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Am%C3%A9lie_Lundahl_-_The_Garden_Girl_-_Google_Art_Project.jpg",
+      "origin": "explicit_pending_reference",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Am%C3%A9lie_Lundahl_-_The_Garden_Girl_-_Google_Art_Project.jpg/960px-Am%C3%A9lie_Lundahl_-_The_Garden_Girl_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/74/Am%C3%A9lie_Lundahl_-_The_Garden_Girl_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2636,
+      "originalHeight": 4001,
+      "fileSHA1": "2f048235cf90c19508b8442a133d34a9929332b9",
+      "mime": "image/jpeg",
+      "revisionId": 1295523658,
+      "artistDisplay": "Amélie Lundahl",
+      "description": "",
+      "dateDisplay": "1885 date QS:P571,+1885-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "ggGi-x9f5hsMqQ at Google Cultural Institute , zoom level maximum",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2013-10-26 04:02:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "The Garden Girl",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1885 in Bretagne|Paintings in the Ateneum|PD-old-100-expired|1880s paintings from Finland|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|1885 paintings in Finland|1885 oil on canvas paintings|19th-century oil paintings of standing girls at three-quarter length|1885 paintings of people|Traditional clothing of Bretagne in art|Artworks with Wikidata item missing genre|1885 genre paintings|Artworks digital representation of 2D work|Paintings of gardeners|Paintings of breton women|Google Art Project works in Ateneum Art Museum|Google Art Project works by Amélie Lundahl|Portrait paintings by Amélie Lundahl|Paintings of Brittany by Amélie Lundahl",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Am%C3%A9lie_Lundahl\" class=\"extiw\" title=\"w:en:Amélie Lundahl\"><span title=\"Finnish artist (1850–1914)\">Amélie Lundahl</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1885<div style=\"display: none;\">date QS:P571,+1885-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/ggGi-x9f5hsMqQ\">ggGi-x9f5hsMqQ at Google Cultural Institute</a>, zoom level maximum",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|wikidata=Q20787829\n|commons:artist={{Creator:Amélie Helga Lundahl}}\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions=\n|commons:institution={{Institution:Ateneum Art Museum}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions=\n|commons:zoom=\n\n|core:title = {{en|The Garden Girl}}\n|core:creator = {{en|Amélie Lundahl}}\n|core:date.dateCreated = 1885\n|core:format = {{Size|unit=cm|width=67|height=100}}\n|core:type = {{en|Paintings}}\n|commons:object type=painting\n|core:rights = {{en|http://www.fng.fi/informationandresearch/photographicservice}}\n|core:format.medium = {{Oil on canvas}}\n|art:artist_birth_place = {{en|Oulu}}\n|art:artist_nationality = {{en|Finnish}}\n|art:artist_death_place = {{en|Helsinki}}\n|art:artist_date = 1850/1914\n|c-01b036b5:customtext.inventory_number = {{en|A I 224}}\n|c-01b036b5:customtext.dimensions = {{en|100 x 67 cm}}\n|google:display_date = 1885\n|google:is_artproject = TRUE\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:partner/id = 0000000001b036b5\n|google:picasa_token = BI3E2buI2-gioM_QLTp1Hiu9YM0\n|special:url_id = ggGi-x9f5hsMqQ\n|google:partner/name = Ateneum Art Museum\n|special:partner/name_no_lang = Ateneum Art Museum\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1914}}\n\n\n[[Category:Google Art Project works by Amélie Lundahl]]\n[[Category:Portrait paintings by Amélie Lundahl]]\n[[Category:Paintings in the Ateneum]]\n[[Category:1885 genre paintings]]\n[[Category:1880s paintings from Finland]]\n[[Category:1885 paintings in Finland]]\n[[Category:1885 in Bretagne]]\n[[Category:1885 oil on canvas paintings]]\n[[Category:1885 paintings of people]]\n[[Category:19th-century oil paintings of standing girls at three-quarter length]]\n[[Category:Paintings of gardeners]]\n[[Category:Paintings of breton women]]\n[[Category:Traditional clothing of Bretagne in art]]\n[[Category:Paintings of Brittany by Amélie Lundahl]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1457,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 421386,
+      "downloadSHA256": "f445d07ecb4fcdf9bcdac1f18591369968a1e3f3db31bd614863e16418419821"
+    },
+    {
+      "commonsPageId": 92844322,
+      "fileTitle": "File:Amélie Lundahl - The Garden Girl.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg/960px-Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Am%C3%A9lie_Lundahl_-_The_Garden_Girl.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2382,
+      "originalHeight": 3543,
+      "fileSHA1": "8350c7328cd2e7f985f1579fc5cbfa25df9582ca",
+      "mime": "image/jpeg",
+      "revisionId": 1295523748,
+      "artistDisplay": "Amélie Lundahl",
+      "description": "",
+      "dateDisplay": "1885 date QS:P571,+1885-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "https://www.kansallisgalleria.fi/fi/object/623797",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-08-03 11:24:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "The Garden Girl",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-old-100-expired|PD-Art (PD-old-100-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|1885 oil on canvas paintings|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Portrait paintings in the Ateneum|Portrait paintings by Amélie Lundahl|Paintings of Brittany by Amélie Lundahl",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Am%C3%A9lie_Lundahl\" class=\"extiw\" title=\"w:en:Amélie Lundahl\"><span title=\"Finnish artist (1850–1914)\">Amélie Lundahl</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1885<div style=\"display: none;\">date QS:P571,+1885-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.kansallisgalleria.fi/fi/object/623797\">https://www.kansallisgalleria.fi/fi/object/623797</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1914, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|artist = {{Creator:Amélie Lundahl}}\n|title = {{en|1=The Garden Girl}}\n{{fi|1=Puutarhatyttö}}\n|date = 1885\n|object type = painting\n|medium = {{technique|oil|canvas}}\n|dimensions = {{size|unit=cm|height=100|width=67}}\n|institution = {{Institution:Ateneum}}\n|source = https://www.kansallisgalleria.fi/fi/object/623797\n|object history = {{ProvenanceEvent|type=purchase|date=1886}}\n|accession number = A I 224\n|permission = {{PD-Art|PD-old-100-1923|deathyear=1914}}\n|wikidata = Q20787829\n|other versions = <gallery>\nAmélie Lundahl - The Garden Girl - Google Art Project.jpg|Google Art Project\n</gallery>\n}}\n\n[[Category:Portrait paintings by Amélie Lundahl]]\n[[Category:1885 oil on canvas paintings]]\n[[Category:Portrait paintings in the Ateneum]]\n[[Category:Paintings of Brittany by Amélie Lundahl]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1428,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 350567,
+      "downloadSHA256": "bd3c4056af81c006cc4378e9b6c058c11add16daf647c92a502f16c818b319c5"
+    },
+    {
+      "commonsPageId": 59007508,
+      "fileTitle": "File:Lundahl Skärgårdsflicka.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lundahl_Sk%C3%A4rg%C3%A5rdsflicka.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Lundahl_Sk%C3%A4rg%C3%A5rdsflicka.jpg/960px-Lundahl_Sk%C3%A4rg%C3%A5rdsflicka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Lundahl_Sk%C3%A4rg%C3%A5rdsflicka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2884,
+      "originalHeight": 4502,
+      "fileSHA1": "39d6e555ebd192de43ed6961c149ac144da5d97a",
+      "mime": "image/jpeg",
+      "revisionId": 1295520722,
+      "artistDisplay": "Amélie Lundahl",
+      "description": "GIRL WATERING FLOWERS Oil on canvas, 70x45 cm. Signed A. Lundahl at the bottom right Undated, but probably from the early 1890s GIRL FROM THE ARCHIPELAGO Pastel 70x44 cm Signed Amélie Lundahl at the bottom left Undated Amélie Lundahl (1850–1914) created her finest works in the last two decades of the 19th century. Her post-academic interests as a realist painter ranged from historical themes to the routines of everyday life. Lundahl matured as an artist in 1880s France, establishing her reputation, themes and colour palettes as a painter of outdoor scenes, with the solitary thoughtful woman emerging as a key theme in her art. Lundahl’s landscapes are usually illuminated by the even light of an overcast day that brings out a pearl-grey palette, speckled with old pink and mint green colours. While in France in 1885 Lundahl created one of her best-known paintings, a relatively large (99 x 67 cm) work in oils called La Petite Jardinière (the Garden Girl) that is now in the collections of the Finnish National Gallery. Instead of the customary view in profile, the girl is shown standing en face in a greenhouse. The significance of this painting is reflected in its unusually large size for this artist and the particular situation of the model in the challenging lighting conditions of the greenhouse. The painting was created for the Spring Salon exhibition in Paris, from which it was to emerge from among thousands of rival works. In the early 1890s Amélie Lundahl then painted a Nordic version of her French Garden Girl, which was once again a relatively large (70 x 45 cm) work in oils depicting a girl watering flowers on a windowsill. The scene is again illuminated from a point in the middle of the work, from which the light filters beautifully through the diaphanous fabric of the girl’s blouse. The gradation of colour is reminiscent of overcast daylight, with the pink and green hues employed by Lundahl in France, though the mood is brighter and the light a little stronger. The strawberry blonde subject is also captured in Lundahl’s preferred profile pose as she waters the seedlings, lost in her own thoughts. Lundahl has brought the verdure of Bretagne to the pale Nordic interior but here, too, the plants are thriving and the light streaming in from the window suggests the return of spring and summer. The large pastel work Girl from the Archipelago is similarly an adaptation of a theme from Lundahl’s Parisian years, showing a young woman returning from the fields in the early evening carrying some bundle on her shoulder. Lundahl painted several versions of this theme in Finland, including girls carrying a rake or bundles of brushwood. In this present work a beautiful woman approaches us through an archipelago landscape in early summer carrying a green branch, perhaps in preparation for the Midsummer celebration. After returning from France in summer 1885 Lundahl moved to Stockholm, aiming to make a living as a portrait painter. The new pastel technique accordingly suited the artist, as it was quicker and cheaper than working in oils. Lundahl became accomplished in this demanding technique over the years, with pastel paintings often emerging as the most vibrant and masterful of her later works. They vividly display the artist’s deepest aspirations, as she summarised in a personal letter: “A simple study, created naturally as the form of the model appeared to me.” (“En enkel studie efter naturen sådan den tedde sig för mig i modellens skepnad.”) The work is said to have passed through two families after it was won by the parents-in-law of the present family as a prize in a raffle organised by the Finnish Art Society in 1903. Many of Lundahl’s paintings found their first homes in this way and have evidently been cherished, as they often remained in the same family almost to this day, meaning for more than a century. - Pia Maria Montonen",
+      "dateDisplay": "Probably early 1890s",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Bukowskis",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2021-08-02 17:06:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lundahl Skärgårdsflicka",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Stripes|PD-Art (PD-old-70)|PD-Art (PD-old default)|CC-PD-Mark|Watering cans in art|Paintings without Wikidata item|Images from Bukowskis|1890s portrait paintings from Finland (female)|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Girls with flowers in art|People looking away in art|Profile views of people in art|Portrait paintings by Amélie Lundahl",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Am%C3%A9lie_Lundahl\" class=\"extiw\" title=\"w:en:Amélie Lundahl\"><span title=\"Finnish artist (1850–1914)\">Amélie Lundahl</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "GIRL WATERING FLOWERS\n<p>Oil on canvas, 70x45 cm.\nSigned A. Lundahl at the bottom right\nUndated, but probably from the early 1890s\n</p><p>GIRL FROM THE ARCHIPELAGO\nPastel 70x44 cm\nSigned Amélie Lundahl at the bottom left\nUndated\n</p><p>Amélie Lundahl (1850–1914) created her finest works in the last two decades of the 19th century. Her post-academic interests as a realist painter ranged from historical themes to the routines of everyday life. Lundahl matured as an artist in 1880s France, establishing her reputation, themes and colour palettes as a painter of outdoor scenes, with the solitary thoughtful woman emerging as a key theme in her art. Lundahl’s landscapes are usually illuminated by the even light of an overcast day that brings out a pearl-grey palette, speckled with old pink and mint green colours.\nWhile in France in 1885 Lundahl created one of her best-known paintings, a relatively large (99 x 67 cm) work in oils called La Petite Jardinière (the Garden Girl) that is now in the collections of the Finnish National Gallery. Instead of the customary view in profile, the girl is shown standing en face in a greenhouse. The significance of this painting is reflected in its unusually large size for this artist and the particular situation of the model in the challenging lighting conditions of the greenhouse. The painting was created for the Spring Salon exhibition in Paris, from which it was to emerge from among thousands of rival works.\nIn the early 1890s Amélie Lundahl then painted a Nordic version of her French Garden Girl, which was once again a relatively large (70 x 45 cm) work in oils depicting a girl watering flowers on a windowsill. The scene is again illuminated from a point in the middle of the work, from which the light filters beautifully through the diaphanous fabric of the girl’s blouse. The gradation of colour is reminiscent of overcast daylight, with the pink and green hues employed by Lundahl in France, though the mood is brighter and the light a little stronger. The strawberry blonde subject is also captured in Lundahl’s preferred profile pose as she waters the seedlings, lost in her own thoughts. Lundahl has brought the verdure of Bretagne to the pale Nordic interior but here, too, the plants are thriving and the light streaming in from the window suggests the return of spring and summer.\n</p><p>The large pastel work Girl from the Archipelago is similarly an adaptation of a theme from Lundahl’s Parisian years, showing a young woman returning from the fields in the early evening carrying some bundle on her shoulder. Lundahl painted several versions of this theme in Finland, including girls carrying a rake or bundles of brushwood. In this present work a beautiful woman approaches us through an archipelago landscape in early summer carrying a green branch, perhaps in preparation for the Midsummer celebration.\nAfter returning from France in summer 1885 Lundahl moved to Stockholm, aiming to make a living as a portrait painter. The new pastel technique accordingly suited the artist, as it was quicker and cheaper than working in oils. Lundahl became accomplished in this demanding technique over the years, with pastel paintings often emerging as the most vibrant and masterful of her later works. They vividly display the artist’s deepest aspirations, as she summarised in a personal letter: “A simple study, created naturally as the form of the model appeared to me.” (“En enkel studie efter naturen sådan den tedde sig för mig i modellens skepnad.”)\n</p><p>The work is said to have passed through two families after it was won by the parents-in-law of the present family as a prize in a raffle organised by the Finnish Art Society in 1903. Many of Lundahl’s paintings found their first homes in this way and have evidently been cherished, as they often remained in the same family almost to this day, meaning for more than a century.\n</p>\n- Pia Maria Montonen",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Probably early 1890s",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.bukowskis.com/sv/auctions/F186/lots/883838-amelie-lundahl-amelie-lundahl-girl-watering-flowers?from_language=en\">Bukowskis</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |wikidata           = \n |artist             = \n |author             = {{Creator:Amélie Lundahl}}\n |title              = \n |description        = {{en|1=GIRL WATERING FLOWERS\nOil on canvas, 70x45 cm.\nSigned A. Lundahl at the bottom right\nUndated, but probably from the early 1890s\n\nGIRL FROM THE ARCHIPELAGO\nPastel 70x44 cm\nSigned Amélie Lundahl at the bottom left\nUndated\n\nAmélie Lundahl (1850–1914) created her finest works in the last two decades of the 19th century. Her post-academic interests as a realist painter ranged from historical themes to the routines of everyday life. Lundahl matured as an artist in 1880s France, establishing her reputation, themes and colour palettes as a painter of outdoor scenes, with the solitary thoughtful woman emerging as a key theme in her art. Lundahl’s landscapes are usually illuminated by the even light of an overcast day that brings out a pearl-grey palette, speckled with old pink and mint green colours.\nWhile in France in 1885 Lundahl created one of her best-known paintings, a relatively large (99 x 67 cm) work in oils called La Petite Jardinière (the Garden Girl) that is now in the collections of the Finnish National Gallery. Instead of the customary view in profile, the girl is shown standing en face in a greenhouse. The significance of this painting is reflected in its unusually large size for this artist and the particular situation of the model in the challenging lighting conditions of the greenhouse. The painting was created for the Spring Salon exhibition in Paris, from which it was to emerge from among thousands of rival works.\nIn the early 1890s Amélie Lundahl then painted a Nordic version of her French Garden Girl, which was once again a relatively large (70 x 45 cm) work in oils depicting a girl watering flowers on a windowsill. The scene is again illuminated from a point in the middle of the work, from which the light filters beautifully through the diaphanous fabric of the girl’s blouse. The gradation of colour is reminiscent of overcast daylight, with the pink and green hues employed by Lundahl in France, though the mood is brighter and the light a little stronger. The strawberry blonde subject is also captured in Lundahl’s preferred profile pose as she waters the seedlings, lost in her own thoughts. Lundahl has brought the verdure of Bretagne to the pale Nordic interior but here, too, the plants are thriving and the light streaming in from the window suggests the return of spring and summer.\n\nThe large pastel work Girl from the Archipelago is similarly an adaptation of a theme from Lundahl’s Parisian years, showing a young woman returning from the fields in the early evening carrying some bundle on her shoulder. Lundahl painted several versions of this theme in Finland, including girls carrying a rake or bundles of brushwood. In this present work a beautiful woman approaches us through an archipelago landscape in early summer carrying a green branch, perhaps in preparation for the Midsummer celebration.\nAfter returning from France in summer 1885 Lundahl moved to Stockholm, aiming to make a living as a portrait painter. The new pastel technique accordingly suited the artist, as it was quicker and cheaper than working in oils. Lundahl became accomplished in this demanding technique over the years, with pastel paintings often emerging as the most vibrant and masterful of her later works. They vividly display the artist’s deepest aspirations, as she summarised in a personal letter: “A simple study, created naturally as the form of the model appeared to me.” (“En enkel studie efter naturen sådan den tedde sig för mig i modellens skepnad.”)\n\nThe work is said to have passed through two families after it was won by the parents-in-law of the present family as a prize in a raffle organised by the Finnish Art Society in 1903. Many of Lundahl’s paintings found their first homes in this way and have evidently been cherished, as they often remained in the same family almost to this day, meaning for more than a century.\n\n- Pia Maria Montonen}}\n{{sv|1=FLICKA VATTNAR BLOMMOR. \nOlja på duk, 70 x 45 cm.\nSignerad A. Lundahl nere till höger\nDatering saknas, men troligen från början av 1890-talet\n\nSKÄRGÅRDSFLICKA\nPastell 70 x 44 cm\nSignerad Amélie Lundahl nere till vänster\nDatering saknas\n\nAmélie Lundahls mest högklassiga produktion uppstod under 1800-talets två sista decennier. Som den realistiska konstnär hon var, riktades hennes intresse efter studietiden från historiska motiv till mera vardagliga motiv. Lundahl mognade som konstnär under sina år i Frankrike på 1880-talet. Det var även då hon skapade sitt rykte som friluftsmålare, sina motiv och sin färgskala. Ett centralt motiv blev en tankfull ensam kvinna. Utmärkande för Lundahls landskap är oftast ett jämnt ljus en molnig dag som för fram hennes pärlgråa färgskala. Gammelrosa och mintgrön förekommer ofta som färgklickar.\nÅr 1885 målar Lundahl en förhållandevis stor oljemålning i Frankrike som fick namnet Trädgårdsflicka (La Petite Jardinière, 99 x 67 cm). Målningen ingår numera i Ateneums konstmuseums samlingar och är ett av konstnärens mest kända verk. Flickan som avbildats i ett växthus har stannat upp för att posera för oss en face, rakt framifrån, till skillnad från den normala sidoprofilen. Den för konstnären ovanligt stora tavlan och modellens speciella placering samt växthusets ljusförhållanden som är svåra att få fram gör tavlan betydelsefull. Verket målades till vårsalongen i Paris och där var tanken att den skulle sticka ut bland tusentals andra verk.\nI början av 1890-talet målade Amélie Lundahl en mera nordisk version av den franska Trädgårdsflickan. Även denna oljemålning är relativt stor, 70 x 45 cm, sett till konstnärens övriga produktion. Målningen föreställer en flicka som står vid ett fönster och vattnar blommor. Ljuset står i centrum även i detta verk, ljuset silar vackert in genom det tunna tyget. Färgskalan påminner om den som Lundahl använde i Frankrike: en molnig dag och rosagröna nyanser. Stämningen är ljusare, ljuset något hårdare. Här har blondinen förevigats i Lundahls favoritposition, profil. Hon vattnar plantorna försjunken i egna tankar. Amélie Lundahl har flyttat frodigheten från Bretagne till ett rum i bleka nordiska färger, men även här frodas växterna. Ljuset som flödar in genom fönstret vittnar om vårens och sommarens återkomst.\n\nDen stora pastellmålningen Skärgårdsflicka är även den ett slags variation av motiven från åren i Paris. En ung kvinna kommer tillbaka från åkern i kvällningen bärandes på en kärve på axeln. I Finland målade Lundahl ett flertal versioner av motivet, inklusive flickor som bar på en räfsa eller på rishögar. I detta verk går en vacker kvinna som bär på en grön kvist mot oss i ett skärgårdslandskap på försommaren. Kanske handlar den om den stundande midsommarfesten?\nEfter att ha återvänt från Frankrike sommaren 1885 flyttade Lundahl till Stockholm där hon började försörja sig som porträttmålare. För detta ändamål lämpade sig konstnärens nya pastellteknik väl eftersom den var ett både snabbare och billigare arbetssätt än oljemålningen. Med åren utvecklades Lundahl till expert på den krävande tekniken och i hennes senaste produktion framträder ofta i synnerhet verken i pastell som verkligt levande och mästerliga. I dem lyser Amélie Lundahls djupaste strävanden som konstnär, eller såsom hon själv sammanfattade det i ett brev: ”En enkel studie efter naturen sådan den tedde sig för mig i modellens skepnad.”\n\nTraditionen berättar att verket har funnits i två släkter sedan den kom till den nuvarande släktens svärföräldrar som en lotterivinst från Finska Konstföreningen år 1903. Många av Lundahls målningar fick sitt första hem på ett liknande sätt och målningarna har uppenbarligen varit omtyckta eftersom de ofta har funnits hos samma släkt nästan ända fram till våra dagar, dvs. i över hundra års tid.\n\n- Pia Maria Montonen}}\n |object type        = painting\n |date               = Probably early 1890s\n |medium             = \n |dimensions         = \n |institution        = \n |department         = \n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = [https://www.bukowskis.com/sv/auctions/F186/lots/883838-amelie-lundahl-amelie-lundahl-girl-watering-flowers?from_language=en Bukowskis]\n |permission         = \n |other_versions     = \n |other_fields       = \n}}\n\n=={{int:license-header}}==\n{{PD-Art}}\n\n[[Category:Portrait paintings by Amélie Lundahl]]\n[[Category:Watering cans in art]]\n[[Category:1890s portrait paintings from Finland (female)]]\n[[Category:Girls with flowers in art]]\n[[Category:Images from Bukowskis]]\n[[Category:People looking away in art]]\n[[Category:Stripes]]\n[[Category:Profile views of people in art]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

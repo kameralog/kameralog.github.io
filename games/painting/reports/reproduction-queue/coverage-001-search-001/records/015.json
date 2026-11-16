@@ -1,0 +1,321 @@
+{
+  "number": 15,
+  "queueKey": "albert_anker:4c064db51dce4960",
+  "artistId": "albert_anker",
+  "artistName": "Альберт Анкер",
+  "title": "Экзамен в сельской школе",
+  "originalTitle": "Exam at the Village School",
+  "originalSource": "https://guide.kunstmuseumbern.ch/artwork/983",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-145.js",
+    "sourceModuleGitBlob": "e3d03baa09b23b2952faa2f2ed247c67a447ef2e",
+    "pendingWorkFingerprint": "4c064db51dce49608f6a82d2ee8b9077cd73a0eff0c7ce3fb462c89d88583915"
+  },
+  "queries": [
+    "\"Albert Anker\" \"Exam at the Village School\"",
+    "Albert Anker Exam at the Village School"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 197333227,
+      "fileTitle": "File:Publications of the Genealogical Society of Pennsylvania (IA publicationsofge1895gene).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Publications_of_the_Genealogical_Society_of_Pennsylvania_(IA_publicationsofge1895gene).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Publications_of_the_Genealogical_Society_of_Pennsylvania_%28IA_publicationsofge1895gene%29.pdf/page1-500px-Publications_of_the_Genealogical_Society_of_Pennsylvania_%28IA_publicationsofge1895gene%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/Publications_of_the_Genealogical_Society_of_Pennsylvania_%28IA_publicationsofge1895gene%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 864,
+      "originalHeight": 1237,
+      "fileSHA1": "2b7a4de7b1167c30727fea7719647e915e75b6c2",
+      "mime": "application/pdf",
+      "revisionId": 1260389009,
+      "artistDisplay": "Genealogical Society of Pennsylvania Genealogical Society of Pennsylvania. Annual report",
+      "description": "Description based on: Vol. 15, no. 3 (spring 1947); title from cover Vols. 1- include the Society's Annual report, 1st (1893)- CLICK ON WEB ADDRESS TO REACH VOLUMES 2-8 16 Subjects: genealogy",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: publicationsofge1895gene https://archive.org/download/publicationsofge1895gene/publicationsofge1895gene.pdf IA contributor: Allen County Public Library Genealogy Center",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2026-08-13 00:32:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nPublications of the Genealogical Society of Pennsylvania</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|Books from the Allen County Public Library",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<dl><dd>Genealogical Society of Pennsylvania</dd>\n<dd>Genealogical Society of Pennsylvania. Annual report</dd></dl></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>Description based on: Vol. 15, no. 3 (spring 1947); title from cover</dd>\n<dd>Vols. 1- include the Society's Annual report, 1st (1893)-</dd>\n<dd>CLICK ON WEB ADDRESS TO REACH VOLUMES 2-8</dd>\n<dd>16</dd></dl>\n<br>Subjects: genealogy</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/publicationsofge1895gene\" class=\"extiw\" title=\"iarchive:publicationsofge1895gene\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> publicationsofge1895gene</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/publicationsofge1895gene/publicationsofge1895gene.pdf\">https://archive.org/download/publicationsofge1895gene/publicationsofge1895gene.pdf</a></dd></dl>\n<ul><li>IA contributor: Allen County Public Library Genealogy Center</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = \n:Genealogical Society of Pennsylvania\n:Genealogical Society of Pennsylvania. Annual report\n|illustrator = \n|title = Publications of the Genealogical Society of Pennsylvania\n|volume = yr.1895\n|publisher = [Philadelphia] : The Society\n|source = \n:{{Internet Archive link|publicationsofge1895gene}}\n:https://archive.org/download/publicationsofge1895gene/publicationsofge1895gene.pdf\n*IA contributor: Allen County Public Library Genealogy Center\n|accession number = publicationsofge1895gene\n|series title = \n|language = {{language|1=en}}\n|description = \n:Description based on: Vol. 15, no. 3 (spring 1947); title from cover\n:Vols. 1- include the Society's Annual report, 1st (1893)-\n:CLICK ON WEB ADDRESS TO REACH VOLUMES 2-8\n:16\n<br>Subjects: genealogy\n|permission = \n|OCLC = 1051757189\n|publication date = 1895\n|notes = This is a digitization of a photocopied book. Text and images are faded.\n|department = IA Collections: allen_county; americana\n|noimage = 1\n}}\n== {{int:license-header}} ==\n{{PD-old-100-expired}}\n\n{{DEFAULTSORT:publicationsofge1895gene}}\n[[Category:Books from the Allen County Public Library]]\n[[Category:IA uploads needing categories]]\n[[Category:Books uploaded by Fæ]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 716,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 31118,
+      "downloadSHA256": "408a905dc05a5eb90df83d1ba199c523349137f96d24a095b107c6e27d95ad2e"
+    },
+    {
+      "commonsPageId": 99916218,
+      "fileTitle": "File:Victoria Daily Times (1922-06-07) (IA victoriadailytimes19220607).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1922-06-07)_(IA_victoriadailytimes19220607).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Victoria_Daily_Times_%281922-06-07%29_%28IA_victoriadailytimes19220607%29.pdf/page1-960px-Victoria_Daily_Times_%281922-06-07%29_%28IA_victoriadailytimes19220607%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Victoria_Daily_Times_%281922-06-07%29_%28IA_victoriadailytimes19220607%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2243,
+      "originalHeight": 2627,
+      "fileSHA1": "6bf20de58126cc4573358ca07a3dbf04ba4155fa",
+      "mime": "application/pdf",
+      "revisionId": 540324894,
+      "artistDisplay": "",
+      "description": "Historic newspaper from British Columbia - Canada Subjects: British Columbia; Newspapers",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: victoriadailytimes19220607 https://archive.org/download/victoriadailytimes19220607/1922_06_07.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2021-02-15 23:01:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nVictoria Daily Times (1922-06-07)</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Files with no machine-readable author|PD Canada|Scans from the Internet Archive/unverified|Scans from the Internet Archive|June 1922 in Canada|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|1922 Victoria Daily Times",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<p>Historic newspaper from British Columbia - Canada\n</p>\n<br>Subjects: British Columbia; Newspapers</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/victoriadailytimes19220607\" class=\"extiw\" title=\"iarchive:victoriadailytimes19220607\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> victoriadailytimes19220607</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/victoriadailytimes19220607/1922_06_07.pdf\">https://archive.org/download/victoriadailytimes19220607/1922_06_07.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = \n|illustrator = \n|title = Victoria Daily Times (1922-06-07)\n|volume = \n|publisher = University of Victoria\n|source = \n:{{Internet Archive link|victoriadailytimes19220607}}\n:https://archive.org/download/victoriadailytimes19220607/1922_06_07.pdf\n|accession number = victoriadailytimes19220607\n|series title = \n|language = {{language|1=en}}\n|description = Historic newspaper from British Columbia - Canada\n<br>Subjects: British Columbia; Newspapers\n|permission = \n|publication date = 1922\n|notes = \n|department = IA Collections: victoriadailytimes; additional_collections\n|noimage = 1\n}}\n== {{int:license-header}} ==\n{{PD-Canada}}\n\n{{DEFAULTSORT:victoriadailytimes19220607}}\n[[Category:1922 Victoria Daily Times]]\n[[Category:Books uploaded by Fæ]]\n[[Category:June 1922 in Canada]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1124,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 427159,
+      "downloadSHA256": "490d07b7396d3a65aaccef01ccc661805999dc410a6aab3984d26582dda5ef03"
+    },
+    {
+      "commonsPageId": 93410203,
+      "fileTitle": "File:Notable men of central New York; Syracuse and vicinity, Utica and vicinity, Auburn, Oswego, Watertown, Fulton, Rome, Oneida, Little Falls. XIX and XX centuries (IA notablemenofcent00stod).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Notable_men_of_central_New_York;_Syracuse_and_vicinity,_Utica_and_vicinity,_Auburn,_Oswego,_Watertown,_Fulton,_Rome,_Oneida,_Little_Falls._XIX_and_XX_centuries_(IA_notablemenofcent00stod).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Notable_men_of_central_New_York%3B_Syracuse_and_vicinity%2C_Utica_and_vicinity%2C_Auburn%2C_Oswego%2C_Watertown%2C_Fulton%2C_Rome%2C_Oneida%2C_Little_Falls._XIX_and_XX_centuries_%28IA_notablemenofcent00stod%29.pdf/page1-500px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Notable_men_of_central_New_York%3B_Syracuse_and_vicinity%2C_Utica_and_vicinity%2C_Auburn%2C_Oswego%2C_Watertown%2C_Fulton%2C_Rome%2C_Oneida%2C_Little_Falls._XIX_and_XX_centuries_%28IA_notablemenofcent00stod%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 835,
+      "originalHeight": 1285,
+      "fileSHA1": "aa84ba5a4c33b82096eed57402273bd1b3d05534",
+      "mime": "application/pdf",
+      "revisionId": 1062477487,
+      "artistDisplay": "Stoddard, Dwight J., pub",
+      "description": "Subjects: New York (State) -- Biography Portraits",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: notablemenofcent00stod https://archive.org/download/notablemenofcent00stod/notablemenofcent00stod.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-08-22 16:47:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nNotable men of central New York; Syracuse and vicinity, Utica and vicinity, Auburn, Oswego, Watertown, Fulton, Rome, Oneida, Little Falls. XIX and XX centuries</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Books from New York (state)|Scans from the Internet Archive/unverified|Images with extracted images|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress|Books from the United States PDF files|PD-US missing SDC copyright status|Notable Men of Central New York (1903)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nStoddard, Dwight J., pub</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects: New York (State) -- Biography Portraits</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/notablemenofcent00stod\" class=\"extiw\" title=\"iarchive:notablemenofcent00stod\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> notablemenofcent00stod</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/notablemenofcent00stod/notablemenofcent00stod.pdf\">https://archive.org/download/notablemenofcent00stod/notablemenofcent00stod.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Stoddard, Dwight J., pub\n|illustrator = \n|title = Notable men of central New York; Syracuse and vicinity, Utica and vicinity, Auburn, Oswego, Watertown, Fulton, Rome, Oneida, Little Falls. XIX and XX centuries\n|volume = \n|publisher = [Syracuse, N.Y.] D. J. Stoddard\n|source = \n:{{Internet Archive link|notablemenofcent00stod}}\n:https://archive.org/download/notablemenofcent00stod/notablemenofcent00stod.pdf\n|accession number = notablemenofcent00stod\n|series title = \n|language = {{language|1=en}}\n|description = Subjects: New York (State) -- Biography Portraits\n|permission = \n|OCLC = 1049955852\n|publication date = 1903\n|notes = \n|department = IA Collections: library_of_congress; americana\n}}\n{{Image extracted|1=Nathan Fitch Graves - Notable men of central New York (page 76 crop).jpg|2=John Jacob Crouse - Notable men of central New York (page 76 crop).jpg|3=Jason C. Woodruff - Notable men of central New York (page 87 crop).jpg}}\n\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:notablemenofcent00stod}}\n[[Category:Books from New York (state)]]\n[[Category:Books from the United States PDF files]]\n[[Category:Books in the Library of Congress]]\n[[Category:Books uploaded by Fæ]]\n[[Category:Notable Men of Central New York (1903)]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

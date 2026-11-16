@@ -1,0 +1,345 @@
+{
+  "number": 8,
+  "queueKey": "alvar_cawen:3eb8578e64ac0962",
+  "artistId": "alvar_cawen",
+  "artistName": "Алвар Кавен",
+  "title": "Слепой",
+  "originalTitle": "Pime / Blind",
+  "originalSource": "https://kunstimuuseum.ekm.ee/en/syndmus/the-dance-of-colours-finnish-modernist-art/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-133.js",
+    "sourceModuleGitBlob": "27f5daf16993fcdd5cbf382c91c80977be2c1d8d",
+    "pendingWorkFingerprint": "3eb8578e64ac09628924d562e6da5d3d13de7bf675aecf46464f17353bcc0117"
+  },
+  "queries": [
+    "\"Alvar Cawén\" \"Pime / Blind\"",
+    "Alvar Cawén Pime Blind"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 11040177,
+      "fileTitle": "File:Alvar Cawén \"Pime\" (blind).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Alvar_Caw%C3%A9n_%22Pime%22_(blind).jpg",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 461,
+      "originalHeight": 720,
+      "fileSHA1": "c02d4d9509796631789d9dc8d09dd14d75ea8c86",
+      "mime": "image/jpeg",
+      "revisionId": 1292377427,
+      "artistDisplay": "Alvar Cawén",
+      "description": "",
+      "dateDisplay": "1926 date QS:P571,+1926-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Art Museum of Estonia's Digital Archive",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2010-07-29 17:47:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<i>Blind</i>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|1926 paintings from Finland|People with visual impairment in art|PD-old-80-expired|Paintings of men of Finland|CC-PD-Mark|1926 paintings in Estonia|1926 portrait paintings of men|1920s portrait paintings from Finland|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|Paintings by Alvar Cawén|Portrait paintings in the Kadriorg Art Museum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Alvar_Caw%C3%A9n\" class=\"extiw\" title=\"w:en:Alvar Cawén\"><span title=\"Finnish painter (1886-1935)\">Alvar Cawén</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1926<div style=\"display: none;\">date QS:P571,+1926-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://digikogu.ekm.ee/eesti19saj_1940/maal/oid-1051\">Art Museum of Estonia's Digital Archive</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist           = {{Creator:Alvar Cawén}}\n |title            = {{et|„Pime“}}\n{{en|''Blind''}}\n |description      = \n |date             = 1926\n |medium           = {{Technique|Oil|paper}}\n |dimensions       = {{size|cm|64.0|44.2}}\n |institution      = [[:et:Kadrioru kunstimuuseum|Kadrioru kunstimuuseum]]\n |location         = \n |accession number = EKM M251\n |object history   = \n |credit line      = \n |inscriptions     = \n |notes            = \n |references       = \n |source           = [http://digikogu.ekm.ee/eesti19saj_1940/maal/oid-1051 Art Museum of Estonia's Digital Archive]\n |permission       = \n |other_versions   = \n |wikidata         = Q37979907\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1935}}\n\n[[Category:Paintings by Alvar Cawén]]\n[[Category:People with visual impairment in art]]\n[[Category:Paintings of men of Finland]]\n[[Category:1926 portrait paintings of men]]\n[[Category:1920s portrait paintings from Finland]]\n[[Category:Portrait paintings in the Kadriorg Art Museum]]\n[[Category:1926 paintings in Estonia]]\n[[Category:1926 paintings from Finland]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 461,
+      "decodedHeight": 720,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 71391,
+      "downloadSHA256": "bfe125f84742797bf88592356f231d650eec6380deb282ffe810b8b032350277"
+    },
+    {
+      "commonsPageId": 5577523,
+      "fileTitle": "File:Blind accordion player.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Blind_accordion_player.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Blind_accordion_player.jpg/960px-Blind_accordion_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Blind_accordion_player.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 4752,
+      "originalHeight": 3168,
+      "fileSHA1": "2fc0ba84278095de4c080dcb5c952007054d8ff3",
+      "mime": "image/jpeg",
+      "revisionId": 1301838169,
+      "artistDisplay": "Tomascastelazo",
+      "description": "Blind accordion player, Patzcuaro, Michoacán, México",
+      "dateDisplay": "2008-12-26",
+      "licenseShortName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2008-12-26 23:36:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Blind accordion player",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Featured pictures of Mexico|Music in 2008|GFDL|Taken with Canon EOS 50D|Pátzcuaro|Personality rights warning|License migration redundant|Self-published work|Featured pictures on Wikipedia, Spanish|Street musicians in Mexico|December 2008 in Mexico|Men with closed eyes|Mexico photographs taken on 2008-12-26|Street photography in Mexico|2008 in Michoacán|Featured pictures of musicians|People playing piano accordions|Assessment tagged pages marked as POTY candidates|People with accordions in Mexico|Blind street musicians",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|featured|poty|potd",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Blind accordion player, Patzcuaro, Michoacán, México",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2008-12-26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tomascastelazo\" title=\"User:Tomascastelazo\">Tomascastelazo</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table style=\"width:100%; clear:both; margin:0.5em auto; border-spacing:8px; background-color:var(--background-color-neutral-subtle,#f7f8ff); border:2px solid #8888aa;color: inherit;\" lang=\"en\" dir=\"ltr\" class=\"layouttemplate restrictiontemplate restriction-personality\">\n<tbody><tr>\n<td style=\"border:none; width:64px;\"><figure class=\"mw-halign-center\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Personality rights\"><img alt=\"Personality rights\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dialog-warning-yellow.svg/120px-Dialog-warning-yellow.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Dialog-warning-yellow.svg/250px-Dialog-warning-yellow.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></a><figcaption>Personality rights</figcaption></figure>\n</td>\n<td style=\"border:none;\"><span class=\"commons-template-name\" style=\"display:none\" id=\"commons-template-personality-rights\">Personality rights</span><div style=\"font-size:120%;font-weight:bold;\"><a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_people\" title=\"Special:MyLanguage/Commons:Photographs of identifiable people\">Personality rights warning</a></div>Although this work is <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">freely licensed</a> or in the <a href=\"https://en.wikipedia.org/wiki/Public_domain\" class=\"extiw\" title=\"en:Public domain\">public domain</a>, the <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_persons\" title=\"Special:MyLanguage/Commons:Photographs of identifiable persons\">person(s) shown</a> may have <a href=\"https://en.wikipedia.org/wiki/personality_rights\" class=\"extiw\" title=\"en:personality rights\">rights</a> that <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Country_specific_consent_requirements\" title=\"Special:MyLanguage/Commons:Country specific consent requirements\">legally restrict certain re-uses</a> unless those depicted consent to such uses. In these cases, a <a href=\"https://en.wikipedia.org/wiki/model_release\" class=\"extiw\" title=\"en:model release\">model release</a> or other evidence of consent could protect you from infringement claims. Though not obliged to do so, the uploader may be able to help you to obtain such evidence. See our <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:General_disclaimer\" title=\"Special:MyLanguage/Commons:General disclaimer\">general disclaimer</a> for more information.\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "personality",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Information\n|Description={{en|1=Blind accordion player, Patzcuaro, Michoacán, México}}\n  {{de|1=Blinder Akkordeonspieler, Patzcuaro, Michoacán, Mexico}}\n  {{fr|1=Un accordéoniste aveugle, Patzcuaro, Michoacán, México}}\n  {{es|1=Hombre ciego tocando el acordeón en Patzcuaro, Michoacán, México.}}\n  {{ru|1=Слепой [[:ru:аккордеон|аккордеонист]], город {{wr|Пацкуаро}}, штат {{wr|Мичоакан}}, {{wr|Мексика}}}}\n  {{uk|1=Сліпий акордеоніст, місто Пацкуаро, {{wu|Мічоакан}}, Мексика.}}\n|Source={{Own}}\n|Author=[[User:Tomascastelazo|Tomascastelazo]]\n|Date=2008-12-26\n|Permission= {{personality rights}}\n|other_versions=\n}}\n\n== {{Assessment}} ==\n{{Assessments|POTY=c|POTYyear=2009|featured=1|eswiki=1}}\n{{Picture of the day|year=2024|month=04|day=11}}\n{{QualityImage}}\n\n== {{int:license-header}} ==\n{{self|cc-by-sa-3.0|GFDL}}\n\n[[Category:Blind street musicians]]\n[[Category:Street musicians in Mexico]]\n[[Category:People playing piano accordions]]\n[[Category:Pátzcuaro]]\n[[Category:Music in 2008]]\n[[Category:Taken with Canon EOS 50D]]\n\n[[Category:Featured pictures of Mexico]]\n[[Category:Featured pictures of musicians]]\n[[Category:Men with closed eyes]]\n[[Category:Quality images of Michoacán]]\n[[Category:December 2008 in Mexico]]\n[[Category:2008 in Michoacán]]\n[[Category:Mexico photographs taken on 2008-12-26]]\n[[Category:Street photography in Mexico]]\n[[Category:Quality images of men]]\n[[Category:People with accordions in Mexico]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 640,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 186280,
+      "downloadSHA256": "57bf05e2a0e8549ab0877a3be5f97aa6f687107f6a7d39be58d6d4c0697ad79f"
+    },
+    {
+      "commonsPageId": 8146859,
+      "fileTitle": "File:Blind man carrying a paralysed man.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Blind_man_carrying_a_paralysed_man.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Blind_man_carrying_a_paralysed_man.jpg/960px-Blind_man_carrying_a_paralysed_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/50/Blind_man_carrying_a_paralysed_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2970,
+      "originalHeight": 4499,
+      "fileSHA1": "61821582b98aa75b68ca9906ff56fd8606673564",
+      "mime": "image/jpeg",
+      "revisionId": 1301860296,
+      "artistDisplay": "Tancrède Dumas",
+      "description": "A blind man carrying a deformed man on his back in the Levant.",
+      "dateDisplay": "1889 date QS:P571,+1889-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "This image is available from the United States Library of Congress 's Prints and Photographs division under the digital ID cph.3b41806 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2009-10-20 16:45:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Blind man carrying a paralysed man",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images from the Library of Congress|Retouched pictures|Levant|Tancrède Dumas|Human-powered litters|People with visual impairment|1889 in Syria|PD-old-100-expired|Piggy-back riding|PD-Art (PD-old-auto-expired)|Images with extracted images|Featured pictures on Wikipedia, Turkish|CC-PD-Mark|19th-century photographs of Syria|Featured pictures of people|19th-century portrait photographs of sitting men at full length|19th-century portrait photographs of standing men at three-quarter length|1889 portrait photographs of men|19th-century profile portrait photographs of men, facing left|Featured photographs in the public domain|Featured historical portrait photographs|Featured pictures from the Library of Congress|Assessment tagged pages marked as POTY candidates|19th-century portrait photographs of unidentified men|People carrying people|Transport of disabled people",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "featured|potd|poty",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tancr%C3%A8de_Dumas\" class=\"extiw\" title=\"w:en:Tancrède Dumas\"><span title=\"Italian photographer (1830-1905)\">Tancrède Dumas</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "A blind man carrying a deformed man on his back in the Levant.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1889<div style=\"display: none;\">date QS:P571,+1889-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "This image  is available from the United States <a href=\"//commons.wikimedia.org/wiki/Library_of_Congress\" title=\"Library of Congress\">Library of Congress</a>'s <a rel=\"nofollow\" class=\"external text\" href=\"//www.loc.gov/rr/print/\">Prints and Photographs division</a><br> under the digital ID <a rel=\"nofollow\" class=\"external text\" href=\"https://hdl.loc.gov/loc.pnp/cph.3b41806\">cph.3b41806</a>.<br><small>This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span></small>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "{{Assessments|POTY=c|POTYyear=2009|featured=1|trwiki=1}}\n{{picture of the day|year=2010|month=03|day=13}}\n=={{int:filedesc}}==\n{{Photograph\n|author     ={{Creator:Tancrède Dumas}}\n|description={{ar|رجل أعمى يحمل رجل كسيح على ظهره من بلاد الشام.}}\n{{de|Ein blinder Mann trägt einen gelähmten Mann.}}\n{{en|A blind man carrying a deformed man on his back in the Levant.}}\n{{fr|Un homme aveugle porte un homme difforme sur son dos. Photo prise dans le [[:fr:Levant (Moyen-Orient)|Levant]] avant 1890.}}\n{{it|Un cieco trasporta un paralitico. Foto scattata in Siria nel 1889}}\n{{ru|Слепой человек переносит на спине калеку в Леванте}}\n|date       =1889\n|source     ={{loc-image|cph.3b41806}}\n|other versions={{Image extracted|1=Face detail, Blind man carrying a paralysed man (cropped).jpg}}\n}}\n{{Retouched picture|1=Leveled colors, restoration of damaged parts, gray-scaling, cleaning dirt|editor=Banzoo|orig=Blind and paralised.tif}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1905}}\n\n[[Category:Tancrède Dumas]]\n[[Category:19th-century portrait photographs of unidentified men|1889]]\n[[Category:1889 portrait photographs of men]]\n[[Category:19th-century portrait photographs of sitting men at full length|1889]]\n[[Category:19th-century portrait photographs of standing men at three-quarter length|1889]]\n[[Category:19th-century profile portrait photographs of men, facing left|1889]]\n[[Category:Transport of disabled people]]\n[[Category:Featured pictures of people]]\n[[Category:Featured historical portrait photographs]]\n[[Category:Featured pictures from the Library of Congress]]\n[[Category:Human-powered litters]]\n[[Category:Levant]]\n[[Category:People carrying people]]\n[[Category:People with visual impairment]]\n[[Category:Piggy-back riding]]\n[[Category:Featured photographs in the public domain]]\n[[Category:19th-century photographs of Syria]]\n[[Category:1889 in Syria]]",
+      "textSignals": [
+        "cropped",
+        "detail"
+      ],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

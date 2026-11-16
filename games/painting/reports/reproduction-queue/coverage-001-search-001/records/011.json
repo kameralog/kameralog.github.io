@@ -1,0 +1,28 @@
+{
+  "number": 11,
+  "queueKey": "alexandre_perrier:6ff177053443c6ce",
+  "artistId": "alexandre_perrier",
+  "artistName": "Александр Перье",
+  "title": "Праз-де-Лис. Оттепель",
+  "originalTitle": "Praz-de-Lys, dégel",
+  "originalSource": "https://www.mahmah.ch/collection/oeuvres/praz-de-lys-degel/1996-0034",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-146.js",
+    "sourceModuleGitBlob": "6781f4323fc9067ec22b9fdc44c1ba81d99c3280",
+    "pendingWorkFingerprint": "6ff177053443c6ced3488ac8b366de7a0a5ceba14160a3ccd0412bb7093b0a11"
+  },
+  "queries": [
+    "\"Alexandre Perrier\" \"Praz-de-Lys, dégel\"",
+    "Alexandre Perrier Praz de Lys dégel",
+    "Alexandre Perrier Праз де Лис Оттепель"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

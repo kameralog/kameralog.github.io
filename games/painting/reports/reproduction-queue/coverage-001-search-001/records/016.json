@@ -1,0 +1,28 @@
+{
+  "number": 16,
+  "queueKey": "albert_paris_gutersloh:7e2422bf71259854",
+  "artistId": "albert_paris_gutersloh",
+  "artistName": "Альберт Парис Гютерсло",
+  "title": "Натюрморт со стулом",
+  "originalTitle": "Stillleben mit Sessel",
+  "originalSource": "https://onlinecollection.leopoldmuseum.org/objekt/158-stillleben-mit-sessel/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-148.js",
+    "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+    "pendingWorkFingerprint": "7e2422bf712598541c2de72fc3a4183c259275cb4ca76ca88476bbcdcd34bca5"
+  },
+  "queries": [
+    "\"Albert Paris Gütersloh\" \"Stillleben mit Sessel\"",
+    "Albert Paris Gütersloh Stillleben mit Sessel",
+    "Albert Paris Gütersloh Натюрморт со стулом"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

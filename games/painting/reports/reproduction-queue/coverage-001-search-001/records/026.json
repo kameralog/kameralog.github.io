@@ -1,0 +1,340 @@
+{
+  "number": 26,
+  "queueKey": "anna_boch:37680fe5146a53b2",
+  "artistId": "anna_boch",
+  "artistName": "Анна Бох",
+  "title": "Сбор урожая",
+  "originalTitle": "Cueillette",
+  "originalSource": "https://www.musee-orsay.fr/fr/oeuvres/cueillette-271208",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-123.js",
+    "sourceModuleGitBlob": "2bce1a29d76c64bc4458fc5c2f61c7cd40f6da01",
+    "pendingWorkFingerprint": "37680fe5146a53b2d3e615a51bbfb35e9aa6e9ed007df3f05f203205ba8340d1"
+  },
+  "queries": [
+    "\"Anna Boch\" \"Cueillette\""
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 137748548,
+      "fileTitle": "File:PM 150673 B Anna Boch.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:PM_150673_B_Anna_Boch.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/PM_150673_B_Anna_Boch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/PM_150673_B_Anna_Boch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 600,
+      "originalHeight": 405,
+      "fileSHA1": "9ba1e23f90ab292bbd497fbe6ac0a0e76d09a94c",
+      "mime": "image/jpeg",
+      "revisionId": 1285425036,
+      "artistDisplay": "PMRMaeyaert",
+      "description": "Musem Mu.ZEE. Oostende. West-Vlaanderen. Belgium. Schilderij, Anna Boch, De Pluk, 1890,privécollectie. Painting. Anna Boch. Picking. 1890. Private collection. . Anna Boch (1848-1936). pmrmaeyaert@gmail.com. © Paul M.R. Maeyaert. Cultural heritage|Techniques|Painting,Cultural heritage|Museum/private collection,Europe|Belgium,Europe|Belgium|West-Vlaanderen,Europe|Belgium|West-Vlaanderen|Oostende. © Paul M.R. MaeyaertRef: PM_150673_B_Anna_Boch. DO NOT CHANGE THE FILE NAME. DE BESTANDSNAAM NIET WIJZIGEN.",
+      "dateDisplay": "2023-09-13 12:08:44",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2023-09-17 18:29:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "PM 150673 B Anna Boch",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Photographs by User:PMRMaeyaert|Belgian paintings in the Musée d'Orsay|Anna Boch - Een impressionistische reis (2023)|Picking by Anna Boch",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Musem Mu.ZEE. Oostende. West-Vlaanderen. Belgium. Schilderij, Anna Boch, De Pluk, 1890,privécollectie. Painting. Anna Boch. Picking. 1890. Private collection. . Anna Boch (1848-1936). pmrmaeyaert@gmail.com. © Paul M.R. Maeyaert. Cultural heritage|Techniques|Painting,Cultural heritage|Museum/private collection,Europe|Belgium,Europe|Belgium|West-Vlaanderen,Europe|Belgium|West-Vlaanderen|Oostende. © Paul M.R. MaeyaertRef: PM_150673_B_Anna_Boch. DO NOT CHANGE THE FILE NAME. DE BESTANDSNAAM NIET WIJZIGEN.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-09-13 12:08:44",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:PMRMaeyaert\" title=\"User:PMRMaeyaert\">PMRMaeyaert</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Musem Mu.ZEE. Oostende. West-Vlaanderen. Belgium. Schilderij, Anna Boch, De Pluk, 1890,privécollectie. Painting. Anna Boch. Picking. 1890. Private collection. . Anna Boch (1848-1936). pmrmaeyaert@gmail.com. © Paul M.R. Maeyaert. Cultural heritage{{!}}Techniques{{!}}Painting,Cultural heritage{{!}}Museum/private collection,Europe{{!}}Belgium,Europe{{!}}Belgium{{!}}West-Vlaanderen,Europe{{!}}Belgium{{!}}West-Vlaanderen{{!}}Oostende. © Paul M.R. MaeyaertRef: PM_150673_B_Anna_Boch. DO NOT CHANGE THE FILE NAME. DE BESTANDSNAAM NIET WIJZIGEN.}}\n|date=2023-09-13 12:08:44\n|source={{own}}\n|author=[[User:PMRMaeyaert|PMRMaeyaert]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Photographs by User:PMRMaeyaert]]\n[[Category:Picking by Anna Boch]]\n[[Category:Anna Boch - Een impressionistische reis (2023)]]\n[[Category:Belgian paintings in the Musée d'Orsay]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 600,
+      "decodedHeight": 405,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 444870,
+      "downloadSHA256": "bc0d399af2212db9624bb8943ebf7279705200a319df10c550a33db6c107362e"
+    },
+    {
+      "commonsPageId": 95141119,
+      "fileTitle": "File:Catalogue de la ... Exposition (IA gri 33125009338845).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Catalogue_de_la_..._Exposition_(IA_gri_33125009338845).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Catalogue_de_la_..._Exposition_%28IA_gri_33125009338845%29.pdf/page1-960px-Catalogue_de_la_..._Exposition_%28IA_gri_33125009338845%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Catalogue_de_la_..._Exposition_%28IA_gri_33125009338845%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1183,
+      "originalHeight": 1500,
+      "fileSHA1": "9c60fea87a87eeec3ca63437891b090c8d0c0af6",
+      "mime": "application/pdf",
+      "revisionId": 1124006502,
+      "artistDisplay": "Libre esthétique (Society). Exposition",
+      "description": "10 v. ; 17 cm Title from cover Director: M. Octave Maus Contains woodcut decorations and cover illustrations 21 volumes ; 17 cm Director: Octave Maus Begininning in 1904, exhibition catalogs for some years are unnumbered and carry a theme title, so that 11, 15, and 17, are skipped in the numbering of the catalogs. The final numbered catalog was 19. (9 mars/14 avril 1912); it was followed by two unnumbered catalogs for the 1913 and 1914 exhibtions Latest issue consulted: Unnumbered exhibition catalog for 7 mars/13 avril 1914 with theme title: Hommage a Dario de Regoyos Subjects: Art -- Exhibitions; Libre esthétique (Society) -- Exhibitions; Impressionism (Art) -- Belgium -- Exhibitions; Impressionism (Art) -- Exhibitions; Post-impressionism (Art) -- Belgium -- Exhibitions; Post-impressionism (Art) -- Exhibitions; Decoration and ornament -- Belgium -- Exhibitions; Decoration and ornament -- Exhibitions",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: gri_33125009338845 https://archive.org/download/gri_33125009338845/gri_33125009338845.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-17 08:42:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nCatalogue de la ... Exposition</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|French-language books|Books published in Brussels|Exhibitions of La Libre Esthétique",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nLibre esthétique (Society). Exposition</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>10 v. ; 17 cm</dd>\n<dd>Title from cover</dd>\n<dd>Director: M. Octave Maus</dd>\n<dd>Contains woodcut decorations and cover illustrations</dd>\n<dd>21 volumes ; 17 cm</dd>\n<dd>Director: Octave Maus</dd>\n<dd>Begininning in 1904, exhibition catalogs for some years are unnumbered and carry a theme title, so that 11, 15, and 17, are skipped in the numbering of the catalogs. The final numbered catalog was 19. (9 mars/14 avril 1912); it was followed by two unnumbered catalogs for the 1913 and 1914 exhibtions</dd>\n<dd>Latest issue consulted: Unnumbered exhibition catalog for 7 mars/13 avril 1914 with theme title: Hommage a Dario de Regoyos</dd></dl>\n<br>Subjects: Art -- Exhibitions; Libre esthétique (Society) -- Exhibitions; Impressionism (Art) -- Belgium -- Exhibitions; Impressionism (Art) -- Exhibitions; Post-impressionism (Art) -- Belgium -- Exhibitions; Post-impressionism (Art) -- Exhibitions; Decoration and ornament -- Belgium -- Exhibitions; Decoration and ornament -- Exhibitions</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/gri_33125009338845\" class=\"extiw\" title=\"iarchive:gri 33125009338845\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> gri_33125009338845</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/gri_33125009338845/gri_33125009338845.pdf\">https://archive.org/download/gri_33125009338845/gri_33125009338845.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Libre esthétique (Society). Exposition\n|illustrator = \n|title = Catalogue de la ... Exposition\n|volume = 1907\n|publisher = Bruxelles : Libre esthétique\n|source = \n:{{Internet Archive link|gri_33125009338845}}\n:https://archive.org/download/gri_33125009338845/gri_33125009338845.pdf\n|accession number = gri_33125009338845\n|series title = \n|language = {{language|1=fr}}\n|description = \n:10 v. ; 17 cm\n:Title from cover\n:Director: M. Octave Maus\n:Contains woodcut decorations and cover illustrations\n:21 volumes ; 17 cm\n:Director: Octave Maus\n:Begininning in 1904, exhibition catalogs for some years are unnumbered and carry a theme title, so that 11, 15, and 17, are skipped in the numbering of the catalogs. The final numbered catalog was 19. (9 mars/14 avril 1912); it was followed by two unnumbered catalogs for the 1913 and 1914 exhibtions\n:Latest issue consulted: Unnumbered exhibition catalog for 7 mars/13 avril 1914 with theme title: Hommage a Dario de Regoyos\n<br>Subjects: Art -- Exhibitions; Libre esthétique (Society) -- Exhibitions; Impressionism (Art) -- Belgium -- Exhibitions; Impressionism (Art) -- Exhibitions; Post-impressionism (Art) -- Belgium -- Exhibitions; Post-impressionism (Art) -- Exhibitions; Decoration and ornament -- Belgium -- Exhibitions; Decoration and ornament -- Exhibitions\n|permission = \n|publication date = 1894\n|notes = \n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:gri_33125009338845}}\n[[Category:Books published in Brussels]]\n[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:French-language books]]\n[[Category:Exhibitions of La Libre Esthétique]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1217,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 262891,
+      "downloadSHA256": "7547a8595eb4f5a7b62a4041f97628291fc27a60c3c80248ea70133ac1c7f910"
+    },
+    {
+      "commonsPageId": 175798553,
+      "fileTitle": "File:Cueillette Anna Boch 1890.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cueillette_Anna_Boch_1890.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Cueillette_Anna_Boch_1890.jpg/960px-Cueillette_Anna_Boch_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Cueillette_Anna_Boch_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1600,
+      "originalHeight": 1071,
+      "fileSHA1": "cc2d18ac64c6c4321df889ad528e90f6c39ae144",
+      "mime": "image/jpeg",
+      "revisionId": 1155867356,
+      "artistDisplay": "Laeti2802",
+      "description": "Peinture d'une fillette en robe bleue dans un potager en fleurs",
+      "dateDisplay": "1890",
+      "licenseShortName": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "creditDisplay": "Own work",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2025-09-29 13:27:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cueillette Anna Boch 1890",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|All media needing categories as of 2025|Media needing categories as of 29 September 2025",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Peinture d'une fillette en robe bleue dans un potager en fleurs",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1890",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Laeti2802&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Laeti2802 (page does not exist)\">Laeti2802</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{fr|1=Peinture d'une fillette en robe bleue dans un potager en fleurs}}\n|date=1890\n|source={{own}}\n|author=[[User:Laeti2802|Laeti2802]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-zero}}\n\n{{Uncategorized|year=2025|month=September|day=29}}",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

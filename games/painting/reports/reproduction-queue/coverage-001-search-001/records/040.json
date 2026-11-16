@@ -1,0 +1,28 @@
+{
+  "number": 40,
+  "queueKey": "antonin_chittussi:940049ed211c0a3d",
+  "artistId": "antonin_chittussi",
+  "artistName": "Антонин Хиттусси",
+  "title": "Из долины Доубравки. Сумеречный вид",
+  "originalTitle": "Z údolí Doubravky / From the Valley of the River Doubravka",
+  "originalSource": "https://ct24.ceskatelevize.cz/clanek/kultura/antonin-chittussi-z-udoli-doubravky-276088",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-137.js",
+    "sourceModuleGitBlob": "913cb212302df32beb03990da48c345d4abdf1a0",
+    "pendingWorkFingerprint": "940049ed211c0a3d01962a4fd5bacfc3ae6785cd88c497442ff0d7cd3772457b"
+  },
+  "queries": [
+    "\"Antonín Chittussi\" \"Z údolí Doubravky / From the Valley of the River Doubravka\"",
+    "Antonín Chittussi Z údolí Doubravky From the Valley",
+    "Antonín Chittussi Из долины Доубравки Сумеречный вид"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

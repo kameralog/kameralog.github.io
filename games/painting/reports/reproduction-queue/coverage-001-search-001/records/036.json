@@ -1,0 +1,28 @@
+{
+  "number": 36,
+  "queueKey": "anton_kolig:41428b4fa5a868eb",
+  "artistId": "anton_kolig",
+  "artistName": "Антон Колиг",
+  "title": "Натюрморт с черепахой",
+  "originalTitle": "Stillleben mit Schildkröte",
+  "originalSource": "https://onlinecollection.leopoldmuseum.org/objekt/268-stillleben-mit-schildkrote/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-148.js",
+    "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+    "pendingWorkFingerprint": "41428b4fa5a868eb40f38833195cdf97f6c072df8277990a5293d49fb26c63a2"
+  },
+  "queries": [
+    "\"Anton Kolig\" \"Stillleben mit Schildkröte\"",
+    "Anton Kolig Stillleben mit Schildkröte",
+    "Anton Kolig Натюрморт с черепахой"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

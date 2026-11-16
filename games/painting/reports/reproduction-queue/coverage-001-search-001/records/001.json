@@ -1,0 +1,354 @@
+{
+  "number": 1,
+  "queueKey": "agostino_melissi:6cc834970c33d751",
+  "artistId": "agostino_melissi",
+  "artistName": "Агостино Мелисси",
+  "title": "Сусанна и старцы",
+  "originalTitle": "Susanna e i vecchioni",
+  "originalSource": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-99.js",
+    "sourceModuleGitBlob": "2e9401804705e7e0b678d4e75781b314fa8bff63",
+    "pendingWorkFingerprint": "6cc834970c33d7511b2911b261d350ae3294696ff28941911fce534abfeeafdd"
+  },
+  "queries": [
+    "\"Agostino Melissi\" \"Susanna e i vecchioni\""
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 38618999,
+      "fileTitle": "File:Agostino melissi, annuncio (susanna e i vecchioni), 1640 ca.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Agostino_melissi,_annuncio_(susanna_e_i_vecchioni),_1640_ca.JPG",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Agostino_melissi%2C_annuncio_%28susanna_e_i_vecchioni%29%2C_1640_ca.JPG/960px-Agostino_melissi%2C_annuncio_%28susanna_e_i_vecchioni%29%2C_1640_ca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Agostino_melissi%2C_annuncio_%28susanna_e_i_vecchioni%29%2C_1640_ca.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2160,
+      "originalHeight": 2224,
+      "fileSHA1": "13f9c8e6485559c40249bb9541b86860e567b5f2",
+      "mime": "image/jpeg",
+      "revisionId": 1244056369,
+      "artistDisplay": "Sailko",
+      "description": "",
+      "dateDisplay": "2013-12-13 12:58:38",
+      "licenseShortName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2015-02-26 20:04:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Agostino melissi, annuncio (susanna e i vecchioni), 1640 ca",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 700D|Paintings of Susanna and the Elders|Agostino Melissi|Compagnia di San Benedetto Bianco (Florence)|Self-published work|Artworks with Wikidata item|All media supported by Wikimedia CH|Images by Sailko - Supported by Wikimedia CH|Photographs of paintings by User:Sailko|Artworks digital representation of 2D work|Paintings in the Seminario Arcivescovile (Florence)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "DateTimeOriginal": {
+          "value": "2013-12-13 12:58:38",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "AuthorCount": {
+          "value": 2,
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Art Photo\n |wikidata           = Q124381971\n |artist             = {{creator:Agostino Melissi}}\n |title              = {{title|en={{Susanna and the Elders}} }}\n |description        = {{it|1=Seminario Arcivescovile Maggiore (Firenze)}}\n |date               = \n |object type        = painting\n |source             = {{own}}\n |photo description  = \n |photo date         = 2013-12-13 12:58:38\n |photographer       = [[User:Sailko|Sailko]]\n |photo license      = {{self|cc-by-3.0}}\n |other_versions     = \n}}\n{{Supported by Wikimedia CH|catname=Images by Sailko - Supported by Wikimedia CH}}\n\n[[Category:Paintings in the Seminario Arcivescovile (Florence)]]\n[[Category:Compagnia di San Benedetto Bianco (Florence)]]\n[[Category:Agostino Melissi]]\n[[Category:Photographs of paintings by User:Sailko]]\n[[Category:paintings of Susanna and the Elders]]\n[[Category:Taken with Canon EOS 700D]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 988,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 239438,
+      "downloadSHA256": "5d45342514622a5c7bfb0d84ed9572ae7662a4b4910fb979a5958d6c27f2d9b2"
+    },
+    {
+      "commonsPageId": 139571567,
+      "fileTitle": "File:Agostino melissi, susanna e i vecchioni, 1646, (seminario) 02.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Agostino_melissi,_susanna_e_i_vecchioni,_1646,_(seminario)_02.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg/960px-Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 4698,
+      "originalHeight": 3456,
+      "fileSHA1": "49634640049a46678c7185f96526b78a497e029b",
+      "mime": "image/jpeg",
+      "revisionId": 937123514,
+      "artistDisplay": "Sailko",
+      "description": "\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)",
+      "dateDisplay": "2015-10-22 11:45:48",
+      "licenseShortName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2023-10-26 11:47:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Agostino melissi, susanna e i vecchioni, 1646, (seminario) 02",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Agostino Melissi|Compagnia di San Benedetto Bianco (Florence)|Self-published work|Photographs by User:Sailko|All media supported by Wikimedia CH|Images by Sailko - Supported by Wikimedia CH|Photographs of paintings by User:Sailko|Paintings in the Seminario Arcivescovile (Florence)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-10-22 11:45:48",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)}}\n|date=2015-10-22 11:45:48\n|source={{own}}\n|author=[[User:Sailko|Sailko]]\n|permission=\n|other versions=\n}}\n\n[[Category:Compagnia di San Benedetto Bianco (Florence)]]\n\n=={{int:license-header}}==\n{{self|cc-by-3.0}}\n\n{{Supported by Wikimedia CH|catname=Images by Sailko - Supported by Wikimedia CH}}\n\n[[Category:Paintings in the Seminario Arcivescovile (Florence)]]\n[[Category:Agostino Melissi]]\n[[Category:Photographs by User:Sailko]]\n[[Category:Photographs of paintings by User:Sailko]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 706,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 210719,
+      "downloadSHA256": "e06342fa8526ff17db8799c63fbf9122456b56909b3a059c0444e39a69e49ae7"
+    },
+    {
+      "commonsPageId": 139571568,
+      "fileTitle": "File:Agostino melissi, susanna e i vecchioni, 1646, (seminario) 03.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Agostino_melissi,_susanna_e_i_vecchioni,_1646,_(seminario)_03.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_03.jpg/960px-Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Agostino_melissi%2C_susanna_e_i_vecchioni%2C_1646%2C_%28seminario%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 4542,
+      "originalHeight": 3456,
+      "fileSHA1": "cd94ee4594237ba1355164659e4d768eff8d7fb4",
+      "mime": "image/jpeg",
+      "revisionId": 1035282356,
+      "artistDisplay": "Sailko",
+      "description": "\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)",
+      "dateDisplay": "2015-10-22 11:46:17",
+      "licenseShortName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2023-10-26 11:47:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Agostino melissi, susanna e i vecchioni, 1646, (seminario) 03",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Agostino Melissi|Compagnia di San Benedetto Bianco (Florence)|Self-published work|Photographs by User:Sailko|All media supported by Wikimedia CH|Images by Sailko - Supported by Wikimedia CH|Photographs of paintings by User:Sailko|Paintings in the Seminario Arcivescovile (Florence)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-10-22 11:46:17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sailko\" title=\"User:Sailko\">Sailko</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)}}\n|date=2015-10-22 11:46:17\n|source={{own}}\n|author=[[User:Sailko|Sailko]]\n|permission=\n|other versions=\n}}\n\n[[Category:Compagnia di San Benedetto Bianco (Florence)]]\n\n=={{int:license-header}}==\n{{self|cc-by-3.0}}\n\n{{Supported by Wikimedia CH|catname=Images by Sailko - Supported by Wikimedia CH}}\n\n[[Category:Paintings in the Seminario Arcivescovile (Florence)]]\n[[Category:Agostino Melissi]]\n[[Category:Photographs by User:Sailko]]\n[[Category:Photographs of paintings by User:Sailko]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

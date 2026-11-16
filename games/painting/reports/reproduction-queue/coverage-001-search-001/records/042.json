@@ -1,0 +1,328 @@
+{
+  "number": 42,
+  "queueKey": "asta_norregaard:d06042cb30e018b6",
+  "artistId": "asta_norregaard",
+  "artistName": "Аста Нёррегор",
+  "title": "Автопортрет",
+  "originalTitle": "Selvportrett",
+  "originalSource": "https://www.nasjonalmuseet.no/en/collection/object/NMK.2008.0706",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-112.js",
+    "sourceModuleGitBlob": "68e57b4cac5b661a5930b0b4f7a63074be4068dd",
+    "pendingWorkFingerprint": "d06042cb30e018b6a035a590c49c36c830e956a186faa9b7da918ddf060f7b21"
+  },
+  "queries": [
+    "\"Asta Nørregaard\" \"Selvportrett\""
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 98009147,
+      "fileTitle": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+      "origin": "explicit_pending_reference",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/960px-Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2100,
+      "originalHeight": 3000,
+      "fileSHA1": "ba252af0513a61796b97b75d29f902c96b7cc0e4",
+      "mime": "image/jpeg",
+      "revisionId": 1243957017,
+      "artistDisplay": "Asta Nørregaard",
+      "description": "",
+      "dateDisplay": "1911",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "National Museum of Art, Architecture and Design",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-12-24 07:18:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Norwegian Bokmål:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"nb\"><i>Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Selvportrett</i></div></div><div style=\"display: none;\">title QS:P1476,nb:\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Selvportrett\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Asta Nørregaard|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|PD-old-80-expired|Portrait paintings of women of Norway|CC-PD-Mark|1911 paintings in Norway|Artworks with accession number from Wikidata|20th-century oil portraits of women at half length|20th-century self-portrait paintings of women|Self-portrait paintings in Norway|1911 oil on canvas paintings|20th-century oil on canvas portrait paintings in Norway|20th-century women looking at viewer in art|1911 portrait paintings from Norway|1911 portrait paintings of women|20th-century portrait paintings in the Nasjonalmuseet for kunst, arkitektur og design|1910s self-portrait paintings of women|20th-century paintings of women with black dresses|Artworks digital representation of 2D work|20th-century portrait paintings with neutral background|Paintings by Asta Nørregaard in the Nasjonalmuseet for kunst, arkitektur og design|Self-portrait paintings by Asta Nørregaard",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Asta_N%C3%B8rregaard\" class=\"extiw\" title=\"w:en:Asta Nørregaard\"><span title=\"Norwegian artist (1853–1933)\">Asta Nørregaard</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1911 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NMK.2008.0706\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |other versions = \n<gallery>\nAsta Nørregaard - Selvportrett - Nasjonalmuseet - NMK.2008.0706.png\n</gallery>\n}}\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1933}}\n\n{{DEFAULTSORT:Nørregaard, Asta; Selvportrett}}\n[[Category:Asta Nørregaard]]\n[[Category:Paintings by Asta Nørregaard in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Self-portrait paintings by Asta Nørregaard]]\n[[Category:20th-century portrait paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Portrait paintings of women of Norway]]\n[[Category:Self-portrait paintings in Norway]]\n[[Category:20th-century self-portrait paintings of women]]\n[[Category:1910s self-portrait paintings of women]]\n[[Category:20th-century women looking at viewer in art]]\n[[Category:20th-century paintings of women with black dresses]]\n[[Category:20th-century oil portraits of women at half length]]\n[[Category:20th-century portrait paintings with neutral background]]\n[[Category:1911 paintings in Norway]]\n[[Category:1911 portrait paintings from Norway]]\n[[Category:1911 portrait paintings of women]]\n[[Category:1911 oil on canvas paintings]]\n[[Category:20th-century oil on canvas portrait paintings in Norway]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1371,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 204776,
+      "downloadSHA256": "88212d31cd0ccd837be9755d6fce96895efe7440fa4001ded5bb535a8e5b97f4"
+    },
+    {
+      "commonsPageId": 67830391,
+      "fileTitle": "File:Nørregaard Asta Selvportrett 1890.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:N%C3%B8rregaard_Asta_Selvportrett_1890.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/N%C3%B8rregaard_Asta_Selvportrett_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/N%C3%B8rregaard_Asta_Selvportrett_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 639,
+      "originalHeight": 886,
+      "fileSHA1": "e2de41e9fa078461acacee7662c8a20c9e3eda0b",
+      "mime": "image/jpeg",
+      "revisionId": 1243956596,
+      "artistDisplay": "Asta Nørregaard",
+      "description": "Художница Аста Нёррегор (1853-1933). Авторпотрет, 1890",
+      "dateDisplay": "1890",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Oslo Museum : accession number OB.00057",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2019-01-25 09:36:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Norwegian Bokmål:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"nb\"><i>Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q60980512#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Self-portrait</i></div></div><div style=\"display: none;\">title QS:P1476,nb:\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q60980512#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q60980512#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Self-portrait\"</div><div style=\"display: none;\">label QS:Lfr,\"Autoportrait\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1890 paintings in Norway|Asta Nørregaard|PD-Art (PD-old-70)|Artworks with Wikidata item|Artworks with known accession number|Images from Digitalt Museum, Norway|Media from the collection of Oslo Museum|Portrait paintings of women of Norway|19th-century women looking at viewer in art|Three-quarter view portrait paintings of women, facing left|Portrait paintings of women wearing hats|CC-PD-Mark|Artworks with accession number from Wikidata|Self-portrait paintings in Norway|19th-century pastel portraits of women at half length|1890 portrait paintings from Norway|Artworks with Wikidata item missing author|1890s pastel portraits of women|1890 portrait paintings of women|1890s self-portrait paintings of women|1890 portrait drawings of women|Artworks digital representation of 2D work|19th-century portrait paintings in Oslo Museum|Photographs by Rune Aakvik|Paintings by Asta Nørregaard in Oslo Museum|Self-portrait paintings by Asta Nørregaard",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Asta_N%C3%B8rregaard\" class=\"extiw\" title=\"w:en:Asta Nørregaard\"><span title=\"Norwegian artist (1853–1933)\">Asta Nørregaard</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "Художница Аста Нёррегор (1853-1933). Авторпотрет, 1890",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1890",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/en:Oslo_Museum\" class=\"extiw\" title=\"w:en:Oslo Museum\"><span title=\"museum in Oslo\">Oslo Museum</span></a>: accession number <a rel=\"nofollow\" class=\"external text\" href=\"https://digitaltmuseum.no/search?q=%22OB.00057%22\">OB.00057</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |artist             = {{Creator:Asta Nørregaard}} \n |author             = {{Creator:Rune Aakvik}}{{Institution:Oslo Museum}}\n |description        = {{ru|1=Художница Аста Нёррегор (1853-1933). Авторпотрет, 1890}}\n |source             = {{DigitaltMuseum|OMU|OB.00057|things=021045470539}}\n |wikidata           = Q60980512\n |other_fields       = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-70}}\n\n{{DEFAULTSORT:Nørregaard, Asta; Selvportrett, OB.00057}}\n[[Category:Asta Nørregaard]]\n[[Category:Paintings by Asta Nørregaard in Oslo Museum]]\n[[Category:Self-portrait paintings by Asta Nørregaard]]\n[[Category:19th-century portrait paintings in Oslo Museum]]\n[[Category:19th-century pastel portraits of women at half length]]\n[[Category:1890s pastel portraits of women]]\n[[Category:1890 portrait drawings of women]]\n[[Category:1890s self-portrait paintings of women]]\n[[Category:Self-portrait paintings in Norway]]\n[[Category:Three-quarter view portrait paintings of women, facing left]]\n[[Category:19th-century women looking at viewer in art]]\n[[Category:Portrait paintings of women wearing hats]]\n[[Category:Portrait paintings of women of Norway]]\n[[Category:1890 portrait paintings of women]]\n[[Category:1890 portrait paintings from Norway]]\n[[Category:1890 paintings in Norway]]\n[[Category:Photographs by Rune Aakvik]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 639,
+      "decodedHeight": 886,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 135206,
+      "downloadSHA256": "cc145f2fc65584fa294fd957d3b15ec1ace9bc78435592e28244e1a93159702d"
+    },
+    {
+      "commonsPageId": 86437313,
+      "fileTitle": "File:Asta Nørregaard - Selvportrett - Nasjonalmuseet - NMK.2008.0706.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Asta_N%C3%B8rregaard_-_Selvportrett_-_Nasjonalmuseet_-_NMK.2008.0706.png",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/Asta_N%C3%B8rregaard_-_Selvportrett_-_Nasjonalmuseet_-_NMK.2008.0706.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/Asta_N%C3%B8rregaard_-_Selvportrett_-_Nasjonalmuseet_-_NMK.2008.0706.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 322,
+      "originalHeight": 460,
+      "fileSHA1": "b314e751c9dfcac2612b8aa34bddb83b4ede1380",
+      "mime": "image/png",
+      "revisionId": 1243957021,
+      "artistDisplay": "Asta Nørregaard",
+      "description": "",
+      "dateDisplay": "1911",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Norsk kunstnerleksikon",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-01-30 14:30:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Norwegian Bokmål:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"nb\"><i>Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Selvportrett</i></div></div><div style=\"display: none;\">title QS:P1476,nb:\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Selvportrett <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Selvportrett\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Asta Nørregaard|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|PD-old-80-expired|Portrait paintings of women of Norway|CC-PD-Mark|1911 paintings in Norway|Artworks with accession number from Wikidata|20th-century oil portraits of women at half length|20th-century self-portrait paintings of women|Self-portrait paintings in Norway|1911 oil on canvas paintings|20th-century oil on canvas portrait paintings in Norway|20th-century women looking at viewer in art|1911 portrait paintings from Norway|1911 portrait paintings of women|20th-century portrait paintings in the Nasjonalmuseet for kunst, arkitektur og design|1910s self-portrait paintings of women|20th-century paintings of women with black dresses|Artworks digital representation of 2D work|20th-century portrait paintings with neutral background|Paintings by Asta Nørregaard in the Nasjonalmuseet for kunst, arkitektur og design|Self-portrait paintings by Asta Nørregaard",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Asta_N%C3%B8rregaard\" class=\"extiw\" title=\"w:en:Asta Nørregaard\"><span title=\"Norwegian artist (1853–1933)\">Asta Nørregaard</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1911 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55409622#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://nkl.snl.no/Asta_N%C3%B8rregaard\">Norsk kunstnerleksikon</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |source         = [https://nkl.snl.no/Asta_Nørregaard Norsk kunstnerleksikon]\n |other versions = \n<gallery>\nAsta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg\n</gallery>\n |wikidata       = Q55409622\n}}\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1933}}\n\n{{DEFAULTSORT:Nørregaard, Asta; Selvportrett}}\n[[Category:Asta Nørregaard]]\n[[Category:Paintings by Asta Nørregaard in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Self-portrait paintings by Asta Nørregaard]]\n[[Category:20th-century portrait paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Portrait paintings of women of Norway]]\n[[Category:Self-portrait paintings in Norway]]\n[[Category:20th-century self-portrait paintings of women]]\n[[Category:1910s self-portrait paintings of women]]\n[[Category:20th-century women looking at viewer in art]]\n[[Category:20th-century paintings of women with black dresses]]\n[[Category:20th-century oil portraits of women at half length]]\n[[Category:20th-century portrait paintings with neutral background]]\n[[Category:1911 paintings in Norway]]\n[[Category:1911 portrait paintings from Norway]]\n[[Category:1911 portrait paintings of women]]\n[[Category:1911 oil on canvas paintings]]\n[[Category:20th-century oil on canvas portrait paintings in Norway]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

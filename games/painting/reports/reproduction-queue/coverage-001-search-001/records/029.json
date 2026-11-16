@@ -1,0 +1,130 @@
+{
+  "number": 29,
+  "queueKey": "anna_claypoole_peale:c76c1aef6ab224b1",
+  "artistId": "anna_claypoole_peale",
+  "artistName": "Анна Клейпул Пил",
+  "title": "Натюрморт с клубникой",
+  "originalTitle": "Still Life with Strawberries",
+  "originalSource": "https://nmwa.org/gallery-labels-rotunda-great-hall-mezzanine-and-stairwell-landings/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-116.js",
+    "sourceModuleGitBlob": "8fc51373a649c10c45f793830ac0f34f88703b26",
+    "pendingWorkFingerprint": "c76c1aef6ab224b12fffe1e29e4c98061153179ddce34757cffc21a42333748d"
+  },
+  "queries": [
+    "\"Anna Claypoole Peale\" \"Still Life with Strawberries\"",
+    "Anna Claypoole Peale Still Life with Strawberries",
+    "Anna Claypoole Peale Натюрморт с клубникой"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 95435961,
+      "fileTitle": "File:Miniature painters, British and foreign - with some account of those who practised in America in the eighteenth century (IA miniaturepainter02fost).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Miniature_painters,_British_and_foreign_-_with_some_account_of_those_who_practised_in_America_in_the_eighteenth_century_(IA_miniaturepainter02fost).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Miniature_painters%2C_British_and_foreign_-_with_some_account_of_those_who_practised_in_America_in_the_eighteenth_century_%28IA_miniaturepainter02fost%29.pdf/page1-960px-Miniature_painters%2C_British_and_foreign_-_with_some_account_of_those_who_practised_in_America_in_the_eighteenth_century_%28IA_miniaturepainter02fost%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/90/Miniature_painters%2C_British_and_foreign_-_with_some_account_of_those_who_practised_in_America_in_the_eighteenth_century_%28IA_miniaturepainter02fost%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 1502,
+      "originalHeight": 2095,
+      "fileSHA1": "7586766e5ee269b5e341c1eac316103dcf07d90a",
+      "mime": "application/pdf",
+      "revisionId": 964060025,
+      "artistDisplay": "Foster, J. J. (Joshua James), 1847-1923",
+      "description": "\"210 copies of this book have been printed for sale, of which 10 are 'Edition royale,' 50 are 'Edition de luxe,' and the remainder are the 'Author's edition'\"--Half title verso Includes index Subjects: Miniature painters; Miniature painters; Miniature painting; Portrait miniatures, British; Portrait miniatures, American",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: miniaturepainter02fost https://archive.org/download/miniaturepainter02fost/miniaturepainter02fost.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-25 05:23:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nMiniature painters, British and foreign : with some account of those who practised in America in the eighteenth century</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|Books from the United States PDF files|PD-US missing SDC copyright status",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nFoster, J. J. (Joshua James), 1847-1923</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>\"210 copies of this book have been printed for sale, of which 10 are 'Edition royale,' 50 are 'Edition de luxe,' and the remainder are the 'Author's edition'\"--Half title verso</dd>\n<dd>Includes index</dd></dl>\n<br>Subjects: Miniature painters; Miniature painters; Miniature painting; Portrait miniatures, British; Portrait miniatures, American</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/miniaturepainter02fost\" class=\"extiw\" title=\"iarchive:miniaturepainter02fost\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> miniaturepainter02fost</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/miniaturepainter02fost/miniaturepainter02fost.pdf\">https://archive.org/download/miniaturepainter02fost/miniaturepainter02fost.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Foster, J. J. (Joshua James), 1847-1923\n|illustrator = \n|title = Miniature painters, British and foreign : with some account of those who practised in America in the eighteenth century\n|volume = v.2\n|publisher = London : Dickinsons ; New York : E.P. Dutton\n|source = \n:{{Internet Archive link|miniaturepainter02fost}}\n:https://archive.org/download/miniaturepainter02fost/miniaturepainter02fost.pdf\n|accession number = miniaturepainter02fost\n|series title = \n|language = {{language|1=en}}\n|description = \n:\"210 copies of this book have been printed for sale, of which 10 are 'Edition royale,' 50 are 'Edition de luxe,' and the remainder are the 'Author's edition'\"--Half title verso\n:Includes index\n<br>Subjects: Miniature painters; Miniature painters; Miniature painting; Portrait miniatures, British; Portrait miniatures, American\n|permission = \n|OCLC = 741486463\n|publication date = 1903\n|notes = irregular page numbers throughout original.\n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:miniaturepainter02fost}}\n[[Category:Books from New York (state)]]\n[[Category:Books from the United States PDF files]]\n[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:Books published in London]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1340,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 120627,
+      "downloadSHA256": "2d9bfdfa7cd5096b4d0c5f43ba47a3f89f14ced001b2bf42c2f25059e843c110"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

@@ -1,0 +1,28 @@
+{
+  "number": 32,
+  "queueKey": "anna_syberg:2f9a6d839d68b73c",
+  "artistId": "anna_syberg",
+  "artistName": "Анна Сюберг",
+  "title": "Розы в кувшине",
+  "originalTitle": "Provinsroser i en krukke",
+  "originalSource": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-125.js",
+    "sourceModuleGitBlob": "9d6fb551d9fc836aa5d14add0ccc28ab527ff1aa",
+    "pendingWorkFingerprint": "2f9a6d839d68b73cdcc5dab8d3f1fe5a2edf1d21a04a747d03ebc72aea8b885f"
+  },
+  "queries": [
+    "\"Anna Syberg\" \"Provinsroser i en krukke\"",
+    "Anna Syberg Provinsroser i en krukke",
+    "Anna Syberg Розы в кувшине"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

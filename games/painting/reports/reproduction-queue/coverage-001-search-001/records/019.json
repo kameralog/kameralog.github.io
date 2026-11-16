@@ -1,0 +1,28 @@
+{
+  "number": 19,
+  "queueKey": "alhed_larsen:6972c6fb73c87f81",
+  "artistId": "alhed_larsen",
+  "artistName": "Альхед Ларсен",
+  "title": "Цветы в солнечном окне",
+  "originalTitle": "Blomster i et vindue med solskin",
+  "originalSource": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-125.js",
+    "sourceModuleGitBlob": "9d6fb551d9fc836aa5d14add0ccc28ab527ff1aa",
+    "pendingWorkFingerprint": "6972c6fb73c87f81dc5a938c68d60f44b7a505bf0f254ae8e17408a9ca9e1fc1"
+  },
+  "queries": [
+    "\"Alhed Larsen\" \"Blomster i et vindue med solskin\"",
+    "Alhed Larsen Blomster i et vindue med solskin",
+    "Alhed Larsen Цветы в солнечном окне"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

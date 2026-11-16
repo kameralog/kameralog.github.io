@@ -1,0 +1,324 @@
+{
+  "number": 21,
+  "queueKey": "amaldus_nielsen:fd8e7bdcbde62892",
+  "artistId": "amaldus_nielsen",
+  "artistName": "Амальдус Нильсен",
+  "title": "Утро в Ню-Хеллесунне",
+  "originalTitle": "Morgen ved Ny-Hellesund",
+  "originalSource": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00326",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-130.js",
+    "sourceModuleGitBlob": "7579d1f965ead058887271359122555fdf320e80",
+    "pendingWorkFingerprint": "fd8e7bdcbde628924876fc1a2c8d4e17508bb371552e3aec70441ebc699f8ed5"
+  },
+  "queries": [
+    "\"Amaldus Nielsen\" \"Morgen ved Ny-Hellesund\""
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 16938089,
+      "fileTitle": "File:Amaldus Nielsen Ny Hellesund 100720086284.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_Ny_Hellesund_100720086284.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Amaldus_Nielsen_Ny_Hellesund_100720086284.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Amaldus_Nielsen_Ny_Hellesund_100720086284.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 931,
+      "originalHeight": 532,
+      "fileSHA1": "e55f58fc668a352d05e80cab73799e4c77a311b5",
+      "mime": "image/jpeg",
+      "revisionId": 1137485034,
+      "artistDisplay": "Amaldus Nielsen",
+      "description": "",
+      "dateDisplay": "1885 date QS:P571,+1885-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Own work , Bjoertvedt , 2008-07-10",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2011-10-09 20:16:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Norwegian:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"no\"><i>Morgen ved Ny-Hellesund</i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Morning at Ny Hellesund, Southern Norway</i></div></div><div style=\"display: none;\">title QS:P1476,no:\"Morgen ved Ny-Hellesund\"</div><div style=\"display: none;\">label QS:Lno,\"Morgen ved Ny-Hellesund\"</div><div style=\"display: none;\">label QS:Len,\"Morning at Ny Hellesund, Southern Norway\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1885 paintings in Norway|Søgne|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|PD-old-80-expired|CC-PD-Mark|1885 landscape paintings from Norway|Artworks with Wikidata item missing genre|Artworks digital representation of 2D work|19th-century oil on canvas paintings of landscapes in Norway|Seascape paintings by Amaldus Nielsen|Paintings by Amaldus Nielsen in the Mandal museum|Taken with Nokia N73",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amaldus_Nielsen\" class=\"extiw\" title=\"w:en:Amaldus Nielsen\"><span title=\"Norwegian artist (1838-1932)\">Amaldus Nielsen</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1885<div style=\"display: none;\">date QS:P571,+1885-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"//commons.wikimedia.org/wiki/User:Bjoertvedt\" title=\"User:Bjoertvedt\">Bjoertvedt</a>, 2008-07-10",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{artwork\n|wikidata = Q110737224\n|artist={{Creator:Amaldus Nielsen}}\n|title ={{title|lang=no|Morgen ved Ny-Hellesund|en=Morning at Ny Hellesund, Southern Norway}}\n|date= 1885\n|object type = painting \n|medium = {{oil on canvas}}\n|gallery = {{Institution:Mandal museum}}\n|source={{own}}, [[User:Bjoertvedt|Bjoertvedt]], 2008-07-10\n|permission=\n|other_versions=\n<gallery>\nFile:Amaldus Nielsen Morgen Ny Hellesund.jpg\n</gallery>\n|other_fields=\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1932}}\n\n[[Category:Seascape paintings by Amaldus Nielsen]]\n[[Category:Søgne]]\n[[Category:1885 paintings in Norway]]\n[[Category:1885 landscape paintings from Norway]]\n[[Category:19th-century oil on canvas paintings of landscapes in Norway]]\n[[Category:Paintings by Amaldus Nielsen in the Mandal museum]]\n[[Category:Taken with Nokia N73]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 931,
+      "decodedHeight": 532,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 74184,
+      "downloadSHA256": "5d2f1ce3bc7ec0408bba2abc2544881985ceb9520cdca0982bacb0304b754f61"
+    },
+    {
+      "commonsPageId": 98010473,
+      "fileTitle": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/960px-Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/78/Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 4000,
+      "originalHeight": 2307,
+      "fileSHA1": "1cd91fd8ff32df209c9c8c39d0534c728d6e5e21",
+      "mime": "image/jpeg",
+      "revisionId": 1262122077,
+      "artistDisplay": "Amaldus Nielsen",
+      "description": "",
+      "dateDisplay": "1885",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "National Museum of Art, Architecture and Design",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-12-24 08:17:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Morning in Ny-Hellesund <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Morning in Ny-Hellesund <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Morning in Ny-Hellesund <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lnb,\"Morgen ved Ny-Hellesund\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Rowing in Norway|Rowboats in Norway|Art 3. Works from the collection 1814-1950|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Clouds in Norway|PD-old-80-expired|CC-PD-Mark|Artworks with accession number from Wikidata|Paintings of mornings|1885 oil on canvas paintings in Norway|1885 landscape paintings from Norway|Paintings of houses in Norway|Artworks digital representation of 2D work|Paintings of clouds|19th-century landscape paintings in the Nasjonalmuseet for kunst, arkitektur og design|Paintings of Norwegian fjords|Paintings of rowboats|Paintings by Amaldus Nielsen in the Nasjonalmuseet for kunst, arkitektur og design|19th-century paintings of mountains of Norway|Ny-Hellesund in art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amaldus_Nielsen\" class=\"extiw\" title=\"w:en:Amaldus Nielsen\"><span title=\"Norwegian artist (1838-1932)\">Amaldus Nielsen</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1885 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55421262#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.nasjonalmuseet.no//en/collection/object/NG.M.00326\">National Museum of Art, Architecture and Design</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1932}}\n\n{{DEFAULTSORT:Nielsen, Amaldus; Morning in Ny-Hellesund}}\n[[Category:Paintings by Amaldus Nielsen in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:19th-century landscape paintings in the Nasjonalmuseet for kunst, arkitektur og design]]\n[[Category:Ny-Hellesund in art]]\n[[Category:Paintings of Norwegian fjords]]\n[[Category:19th-century paintings of mountains of Norway]]\n[[Category:Paintings of mornings]]\n[[Category:Paintings of clouds]]\n[[Category:Clouds in Norway]]\n[[Category:Rowing in Norway]]\n[[Category:Rowboats in Norway]]\n[[Category:Paintings of rowboats]]\n[[Category:Paintings of houses in Norway]]\n[[Category:1885 landscape paintings from Norway]]\n[[Category:1885 oil on canvas paintings in Norway]]\n[[Category:Art 3. Works from the collection 1814-1950]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 554,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 114136,
+      "downloadSHA256": "3f2f8576e5bdbdb73580c2f4aa2c27b5894f9616f4b56b68473ac6a880925f17"
+    },
+    {
+      "commonsPageId": 795781,
+      "fileTitle": "File:Amaldus Nielsen Morgen Ny Hellesund.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_Morgen_Ny_Hellesund.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Amaldus_Nielsen_Morgen_Ny_Hellesund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Amaldus_Nielsen_Morgen_Ny_Hellesund.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 264,
+      "originalHeight": 153,
+      "fileSHA1": "8c2c60a9dde20192ca15dae143822d605fcede19",
+      "mime": "image/jpeg",
+      "revisionId": 1047543968,
+      "artistDisplay": "Amaldus Nielsen",
+      "description": "",
+      "dateDisplay": "1885 date QS:P571,+1885-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Unknown source Unknown source",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2006-05-19 21:22:52",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">Norwegian:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"no\"><i>Morgen ved Ny-Hellesund</i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Morning at Ny Hellesund, Southern Norway</i></div></div><div style=\"display: none;\">title QS:P1476,no:\"Morgen ved Ny-Hellesund\"</div><div style=\"display: none;\">label QS:Lno,\"Morgen ved Ny-Hellesund\"</div><div style=\"display: none;\">label QS:Len,\"Morning at Ny Hellesund, Southern Norway\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "1885 paintings in Norway|Søgne|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|PD-old-80-expired|CC-PD-Mark|1885 landscape paintings from Norway|Artworks digital representation of 2D work|Template Unknown (source)|19th-century oil on canvas paintings of landscapes in Norway|Seascape paintings by Amaldus Nielsen|Paintings by Amaldus Nielsen in the Mandal museum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amaldus_Nielsen\" class=\"extiw\" title=\"w:en:Amaldus Nielsen\"><span title=\"Norwegian artist (1838-1932)\">Amaldus Nielsen</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1885<div style=\"display: none;\">date QS:P571,+1885-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Unknown source<span style=\"display: none;\">Unknown source</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{artwork\n|wikidata = Q110245990\n|artist={{Creator:Amaldus Nielsen}}\n|title = {{title|lang=no|Morgen ved Ny-Hellesund|en=Morning at Ny Hellesund, Southern Norway}}\n|object type = painting \n|medium = {{oil on canvas}}\n|gallery = {{Institution:Mandal museum}}\n|Source={{unknown|Source}}\n|Date=1885\n|Permission=\n|other_versions=\n<gallery>\nFile:Amaldus Nielsen Ny Hellesund 100720086284.jpg\n</gallery>\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1932}}\n\n[[Category:Seascape paintings by Amaldus Nielsen]]\n[[Category:Søgne]]\n[[Category:1885 paintings in Norway]]\n[[Category:1885 landscape paintings from Norway]]\n[[Category:19th-century oil on canvas paintings of landscapes in Norway]]\n[[Category:Paintings by Amaldus Nielsen in the Mandal museum]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

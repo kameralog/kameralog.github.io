@@ -1,0 +1,329 @@
+{
+  "number": 31,
+  "queueKey": "anna_rosina_de_gasc:752486c27d4488e4",
+  "artistId": "anna_rosina_de_gasc",
+  "artistName": "Анна Розина де Гаск",
+  "title": "Автопортрет",
+  "originalTitle": "Selbstbildnis",
+  "originalSource": "https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum/sammlung/abteilungen/gemaeldesammlung-alte-meister",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-108.js",
+    "sourceModuleGitBlob": "b30ec250bf59b48403255a708bfe73ceffbd1d63",
+    "pendingWorkFingerprint": "752486c27d4488e4996e5435c4bced27c03da4c8b2ded797d15468bba59065cf"
+  },
+  "queries": [
+    "\"Anna Rosina de Gasc\" \"Selbstbildnis\""
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 73837889,
+      "fileTitle": "File:Gasc Selbstbildnis@Herzog Anton Ulrich Museum.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gasc_Selbstbildnis@Herzog_Anton_Ulrich_Museum.JPG",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Gasc_Selbstbildnis%40Herzog_Anton_Ulrich_Museum.JPG/960px-Gasc_Selbstbildnis%40Herzog_Anton_Ulrich_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/08/Gasc_Selbstbildnis%40Herzog_Anton_Ulrich_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2819,
+      "originalHeight": 3655,
+      "fileSHA1": "b98c859fa385a23668eb60a7309ebaff9279caab",
+      "mime": "image/jpeg",
+      "revisionId": 1267923287,
+      "artistDisplay": "Anna Rosina de Gasc",
+      "description": "",
+      "dateDisplay": "1767 date QS:P571,+1767-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Photographer and uploader was Hajotthu at de.wikipedia",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2018-10-24 09:40:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\">Self-portrait</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "18th-century self-portrait paintings of women from Germany|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|18th-century portrait paintings of sitting women at three-quarter length|1767 portrait paintings of women|1760s portrait paintings from Germany (female)|1760s self-portrait paintings of women|Artworks digital representation of 2D work|Paintings by Anna Rosina de Gasc in the Herzog Anton Ulrich-Museum|Self-portrait paintings in the Herzog Anton Ulrich-Museum|Self-portraits of Anna Rosina de Gasc",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_Rosina_de_Gasc\" class=\"extiw\" title=\"w:en:Anna Rosina de Gasc\"><span title=\"German painter (1713-1783)\">Anna Rosina de Gasc</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1767<div style=\"display: none;\">date QS:P571,+1767-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Photographer and uploader was <a href=\"https://de.wikipedia.org/wiki/User:Hajotthu\" class=\"extiw\" title=\"de:User:Hajotthu\">Hajotthu</a> at <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1783, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist           = {{Creator:Anna Rosina de Gasc}}\n |title            = {{title|{{Self-portrait}}}}\n |description      =\n |date             = 1767\n |object type      = painting \n |medium           = {{Technique|oil|canvas}}\n |dimensions         =\n |institution      = {{Institution:Herzog Anton Ulrich-Museum}}\n |location         =\n |accession number = GG 726\n |object history   =\n |credit line      =\n |inscriptions     =\n |references       =\n |source           = Photographer and uploader was [[:de:User:Hajotthu|Hajotthu]] at [http://de.wikipedia.org de.wikipedia]\n |permission       = {{PD-art|PD-old-auto-1923|deathyear=1783}}\n |other_versions   = \n | wikidata = Q23015690\n}}\n\n{{DEFAULTSORT:1767; Anna Rosina de Gasc}}\n[[Category:Paintings by Anna Rosina de Gasc in the Herzog Anton Ulrich-Museum|1]]\n[[Category:Self-portrait paintings in the Herzog Anton Ulrich-Museum|1]]\n[[Category:1760s self-portrait paintings of women]]\n[[Category:1767 portrait paintings of women]]\n[[Category:18th-century portrait paintings of sitting women at three-quarter length]]\n[[Category:Self-portraits of Anna Rosina de Gasc]]\n[[Category:1760s portrait paintings from Germany (female)]]\n[[Category:18th-century self-portrait paintings of women from Germany]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 1245,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 302639,
+      "downloadSHA256": "19e328f7ac09b1c33e16af23fe19b5873d6e0f2d32aab7b0879747b44e7ce890"
+    },
+    {
+      "commonsPageId": 8949102,
+      "fileTitle": "File:Anna Rosina Lisiewska.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anna_Rosina_Lisiewska.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Anna_Rosina_Lisiewska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Anna_Rosina_Lisiewska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 500,
+      "originalHeight": 672,
+      "fileSHA1": "2fe07a4788944c4663e7b59b6ecc06c2f8cec5ce",
+      "mime": "image/jpeg",
+      "revisionId": 1275287773,
+      "artistDisplay": "Anna Rosina de Gasc",
+      "description": "",
+      "dateDisplay": "1782",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "( Original text: http://www.deutschefotothek.de/per70003009.html ) Original uploader was Thyra at de.wikipedia ; transferred to Commons by User:Septembermorgen using CommonsHelper .",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2010-01-09 23:50:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Selbstbildnis <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Self-portrait</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Selbstbildnis <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lde,\"Selbstbildnis <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Les,\"Autorretrato\"</div><div style=\"display: none;\">label QS:Lhu,\"Önarckép\"</div><div style=\"display: none;\">label QS:Lnds,\"Sülvstporträt\"</div><div style=\"display: none;\">label QS:Lcy,\"Hunanbortread\"</div><div style=\"display: none;\">label QS:Lga,\"féinphortráid\"</div><div style=\"display: none;\">label QS:Lhy,\"Ինքնապատկեր\"</div><div style=\"display: none;\">label QS:Lzh,\"自画像\"</div><div style=\"display: none;\">label QS:Lda,\"Selvportræt\"</div><div style=\"display: none;\">label QS:Lro,\"Autoportret\"</div><div style=\"display: none;\">label QS:Lja,\"自画像\"</div><div style=\"display: none;\">label QS:Lsk,\"Autoportrét\"</div><div style=\"display: none;\">label QS:Lhe,\"דיוקן עצמי\"</div><div style=\"display: none;\">label QS:Lla,\"Effigies sui ipsius\"</div><div style=\"display: none;\">label QS:Lfi,\"Omakuva\"</div><div style=\"display: none;\">label QS:Lkk,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Leo,\"Memportreto\"</div><div style=\"display: none;\">label QS:Lbs,\"Autoportret\"</div><div style=\"display: none;\">label QS:Lit,\"Autoritratto\"</div><div style=\"display: none;\">label QS:Lfr,\"Autoportrait\"</div><div style=\"display: none;\">label QS:Lhr,\"Autoportret\"</div><div style=\"display: none;\">label QS:Luk,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Lvec,\"Autoritrato\"</div><div style=\"display: none;\">label QS:Lpt,\"Auto-retrato\"</div><div style=\"display: none;\">label QS:Lbr,\"Emboltred\"</div><div style=\"display: none;\">label QS:Lgl,\"Autorretrato\"</div><div style=\"display: none;\">label QS:Lca,\"Autoretrat\"</div><div style=\"display: none;\">label QS:Llt,\"Autoportretas\"</div><div style=\"display: none;\">label QS:Lsl,\"Avtoportret\"</div><div style=\"display: none;\">label QS:Lsr,\"Аутопортрет\"</div><div style=\"display: none;\">label QS:Lru,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Lmk,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Lth,\"ภาพเหมือนตนเอง\"</div><div style=\"display: none;\">label QS:Lpl,\"Autoportret\"</div><div style=\"display: none;\">label QS:Let,\"Autoportree\"</div><div style=\"display: none;\">label QS:Lnl,\"Zelfportret\"</div><div style=\"display: none;\">label QS:Lbe,\"Аўтапартрэт\"</div><div style=\"display: none;\">label QS:Lfa,\"چهرهٔ خود\"</div><div style=\"display: none;\">label QS:Lsv,\"Självporträtt\"</div><div style=\"display: none;\">label QS:Lbg,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Len,\"Self-portrait\"</div><div style=\"display: none;\">label QS:Lar,\"بورتريه ذاتي\"</div><div style=\"display: none;\">label QS:Lel,\"Αυτοπροσωπογραφία\"</div><div style=\"display: none;\">label QS:Lcs,\"Autoportrét\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|18th-century oil portraits of sitting women at three-quarter length|Portrait paintings of women sitting on chairs|18th-century three-quarter view portrait paintings of women, facing right and looking at viewer|1782 portrait paintings of women|Black and white reproductions of 18th-century portrait paintings of women in color|1780s portrait paintings from Germany (female)|1780s self-portrait paintings of women|Artworks digital representation of 2D work|Self-portraits of Anna Rosina de Gasc|Female portrait paintings by Anna Rosina de Gasc|18th-century portrait paintings in the Niedersächsisches Landesmuseum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_Rosina_de_Gasc\" class=\"extiw\" title=\"w:en:Anna Rosina de Gasc\"><span title=\"German painter (1713-1783)\">Anna Rosina de Gasc</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1782 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p>(<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\"><a rel=\"nofollow\" class=\"external free\" href=\"http://www.deutschefotothek.de/per70003009.html\">http://www.deutschefotothek.de/per70003009.html</a></bdi></i></span>)\n</p>\nOriginal uploader was <a href=\"https://de.wikipedia.org/wiki/User:Thyra\" class=\"extiw\" title=\"de:User:Thyra\">Thyra</a> at <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>; transferred to Commons by <a href=\"//commons.wikimedia.org/wiki/User:Septembermorgen\" title=\"User:Septembermorgen\">User:Septembermorgen</a> using <a rel=\"nofollow\" class=\"external text\" href=\"http://tools.wikimedia.de/~magnus/commonshelper.php\">CommonsHelper</a>.",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |wikidata       =Q23039025\n |source         =({{original text|nobold=1|1=http://www.deutschefotothek.de/per70003009.html}})\nOriginal uploader was [[:de:User:Thyra|Thyra]] at [http://de.wikipedia.org de.wikipedia]; transferred to Commons by [[User:Septembermorgen]] using [http://tools.wikimedia.de/~magnus/commonshelper.php CommonsHelper].\n}}\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1783}}\n\n\n[[Category:Self-portraits of Anna Rosina de Gasc]]\n[[Category:Female portrait paintings by Anna Rosina de Gasc|1]]\n[[Category:18th-century portrait paintings in the Niedersächsisches Landesmuseum|1770c]]\n[[Category:1780s portrait paintings from Germany (female)]]\n[[Category:1780s self-portrait paintings of women]]\n[[Category:1782 portrait paintings of women]]\n[[Category:18th-century oil portraits of sitting women at three-quarter length|1770c]]\n[[Category:18th-century three-quarter view portrait paintings of women, facing right and looking at viewer|1770c]]\n[[Category:Black and white reproductions of 18th-century portrait paintings of women in color|1770c]]\n[[Category:Portrait paintings of women sitting on chairs|1770c]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 672,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 39324,
+      "downloadSHA256": "cc0c3a71191eb149e958b428bad068b75de0a88f7627afe2462381fcba2f5f06"
+    },
+    {
+      "commonsPageId": 50819217,
+      "fileTitle": "File:Lisiewska (de Gasc) Selbstbildnis@Nieders. Landesmuseum20160811.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lisiewska_(de_Gasc)_Selbstbildnis@Nieders._Landesmuseum20160811.JPG",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Lisiewska_%28de_Gasc%29_Selbstbildnis%40Nieders._Landesmuseum20160811.JPG/960px-Lisiewska_%28de_Gasc%29_Selbstbildnis%40Nieders._Landesmuseum20160811.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lisiewska_%28de_Gasc%29_Selbstbildnis%40Nieders._Landesmuseum20160811.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2790,
+      "originalHeight": 3723,
+      "fileSHA1": "7eeac4e8aa9072596e1e32d3bf1ef066b4ce6b1f",
+      "mime": "image/jpeg",
+      "revisionId": 1275296740,
+      "artistDisplay": "Anna Rosina de Gasc",
+      "description": "",
+      "dateDisplay": "1782",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "photographer and uploader was Hajotthu at de.wikipedia",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2016-08-22 12:19:29",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-size:0.9em;display:inline-block;\">German:  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"de\"><i>Selbstbildnis <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><br><div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Self-portrait</i></div></div><div style=\"display: none;\">title QS:P1476,de:\"Selbstbildnis <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lde,\"Selbstbildnis <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Les,\"Autorretrato\"</div><div style=\"display: none;\">label QS:Lhu,\"Önarckép\"</div><div style=\"display: none;\">label QS:Lnds,\"Sülvstporträt\"</div><div style=\"display: none;\">label QS:Lcy,\"Hunanbortread\"</div><div style=\"display: none;\">label QS:Lga,\"féinphortráid\"</div><div style=\"display: none;\">label QS:Lhy,\"Ինքնապատկեր\"</div><div style=\"display: none;\">label QS:Lzh,\"自画像\"</div><div style=\"display: none;\">label QS:Lda,\"Selvportræt\"</div><div style=\"display: none;\">label QS:Lro,\"Autoportret\"</div><div style=\"display: none;\">label QS:Lja,\"自画像\"</div><div style=\"display: none;\">label QS:Lsk,\"Autoportrét\"</div><div style=\"display: none;\">label QS:Lhe,\"דיוקן עצמי\"</div><div style=\"display: none;\">label QS:Lla,\"Effigies sui ipsius\"</div><div style=\"display: none;\">label QS:Lfi,\"Omakuva\"</div><div style=\"display: none;\">label QS:Lkk,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Leo,\"Memportreto\"</div><div style=\"display: none;\">label QS:Lbs,\"Autoportret\"</div><div style=\"display: none;\">label QS:Lit,\"Autoritratto\"</div><div style=\"display: none;\">label QS:Lfr,\"Autoportrait\"</div><div style=\"display: none;\">label QS:Lhr,\"Autoportret\"</div><div style=\"display: none;\">label QS:Luk,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Lvec,\"Autoritrato\"</div><div style=\"display: none;\">label QS:Lpt,\"Auto-retrato\"</div><div style=\"display: none;\">label QS:Lbr,\"Emboltred\"</div><div style=\"display: none;\">label QS:Lgl,\"Autorretrato\"</div><div style=\"display: none;\">label QS:Lca,\"Autoretrat\"</div><div style=\"display: none;\">label QS:Llt,\"Autoportretas\"</div><div style=\"display: none;\">label QS:Lsl,\"Avtoportret\"</div><div style=\"display: none;\">label QS:Lsr,\"Аутопортрет\"</div><div style=\"display: none;\">label QS:Lru,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Lmk,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Lth,\"ภาพเหมือนตนเอง\"</div><div style=\"display: none;\">label QS:Lpl,\"Autoportret\"</div><div style=\"display: none;\">label QS:Let,\"Autoportree\"</div><div style=\"display: none;\">label QS:Lnl,\"Zelfportret\"</div><div style=\"display: none;\">label QS:Lbe,\"Аўтапартрэт\"</div><div style=\"display: none;\">label QS:Lfa,\"چهرهٔ خود\"</div><div style=\"display: none;\">label QS:Lsv,\"Självporträtt\"</div><div style=\"display: none;\">label QS:Lbg,\"Автопортрет\"</div><div style=\"display: none;\">label QS:Len,\"Self-portrait\"</div><div style=\"display: none;\">label QS:Lar,\"بورتريه ذاتي\"</div><div style=\"display: none;\">label QS:Lel,\"Αυτοπροσωπογραφία\"</div><div style=\"display: none;\">label QS:Lcs,\"Autoportrét\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "18th-century self-portrait paintings of women from Germany|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|18th-century oil portraits of sitting women at three-quarter length|Portrait paintings of women sitting on chairs|18th-century three-quarter view portrait paintings of women, facing right and looking at viewer|1782 portrait paintings of women|Portrait paintings of sitting women with crossed arms|1780s portrait paintings from Germany (female)|1780s self-portrait paintings of women|Artworks digital representation of 2D work|Self-portraits of Anna Rosina de Gasc|Female portrait paintings by Anna Rosina de Gasc|18th-century portrait paintings in the Niedersächsisches Landesmuseum",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Anna_Rosina_de_Gasc\" class=\"extiw\" title=\"w:en:Anna Rosina de Gasc\"><span title=\"German painter (1713-1783)\">Anna Rosina de Gasc</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1782 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q23039025#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "photographer and uploader was <a href=\"https://de.wikipedia.org/wiki/User:Hajotthu\" class=\"extiw\" title=\"de:User:Hajotthu\">Hajotthu</a> at <a class=\"external text\" data-mw-original-href=\"http://de.wikipedia.org\" href=\"https://de.wikipedia.org\">de.wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |wikidata       =Q23039025\n |source         =photographer and uploader was [[:de:User:Hajotthu|Hajotthu]] at [http://de.wikipedia.org de.wikipedia]\n}}\n=={{int:license-header}}==\n{{PD-art|PD-old-auto-1923|deathyear=1783}}  \n\n\n[[Category:Self-portraits of Anna Rosina de Gasc]]\n[[Category:Female portrait paintings by Anna Rosina de Gasc]]\n[[Category:18th-century portrait paintings in the Niedersächsisches Landesmuseum|1770c]]\n[[Category:18th-century self-portrait paintings of women from Germany|1770c]]\n[[Category:1780s self-portrait paintings of women|1770c]]\n[[Category:1780s portrait paintings from Germany (female)|1770c]]\n[[Category:1782 portrait paintings of women|sitting]]\n[[Category:18th-century oil portraits of sitting women at three-quarter length|1770c]]\n[[Category:18th-century three-quarter view portrait paintings of women, facing right and looking at viewer|1770c]]\n[[Category:Portrait paintings of sitting women with crossed arms|1770c]]\n[[Category:Portrait paintings of women sitting on chairs|1770c]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

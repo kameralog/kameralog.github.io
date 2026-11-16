@@ -1,0 +1,430 @@
+{
+  "number": 20,
+  "queueKey": "amalia_lindegren:927b9b10904371b3",
+  "artistId": "amalia_lindegren",
+  "artistName": "Амалия Линдегрен",
+  "title": "Воскресный вечер в крестьянском доме в Даларне",
+  "originalTitle": "Söndagsafton i en dalstuga / Sunday Evening in a Farmhouse in Dalecarlia",
+  "originalSource": "https://collection.nationalmuseum.se/en/collection/item/17995/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-113.js",
+    "sourceModuleGitBlob": "15c6ec2976c173f9157954a6ae311f724fa883d5",
+    "pendingWorkFingerprint": "927b9b10904371b3f1d2f0137df1f2d7359f9c1cead7b776d2df12330b6927da"
+  },
+  "queries": [
+    "\"Amalia Lindegren\" \"Söndagsafton i en dalstuga / Sunday Evening in a Farmhouse in Dalecarlia\"",
+    "Amalia Lindegren Söndagsafton i en dalstuga Sunday Evening"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 65340,
+      "fileTitle": "File:Söndagsafton i en dalastuga av Amalia Lindegren 1860.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalastuga_av_Amalia_Lindegren_1860.jpg",
+      "origin": "explicit_pending_reference",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/S%C3%B6ndagsafton_i_en_dalastuga_av_Amalia_Lindegren_1860.jpg/960px-S%C3%B6ndagsafton_i_en_dalastuga_av_Amalia_Lindegren_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/f/f1/S%C3%B6ndagsafton_i_en_dalastuga_av_Amalia_Lindegren_1860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2712,
+      "originalHeight": 2041,
+      "fileSHA1": "9e68b479c7ed0b030107b3d82fe974a5b4e7d6da",
+      "mime": "image/jpeg",
+      "revisionId": 1251377692,
+      "artistDisplay": "Amalia Lindegren",
+      "description": "",
+      "dateDisplay": "1860 date QS:P571,+1860-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Amalia Lindegren",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2012-07-10 22:39:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Sunday Evening in a Farmhouse in Dalecarlia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q10689147#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">label QS:Len,\"Sunday Evening in a Farmhouse in Dalecarlia\"</div><div style=\"display: none;\">label QS:Lru,\"Воскресный вечер в сельском доме\"</div><div style=\"display: none;\">label QS:Lsv,\"Söndagsafton i en dalstuga\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-old-100-expired|Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks digital representation of 2D work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amalia_Lindegren\" class=\"extiw\" title=\"w:en:Amalia Lindegren\"><span title=\"Swedish artist (1814-1891)\">Amalia Lindegren</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1860<div style=\"display: none;\">date QS:P571,+1860-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Amalia Lindegren",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n | wikidata =Q10689147\n \n|artist={{creator:Amalia Lindegren}}\n|title={{title|sv=Söndagsafton i en dalstuga|en=Sunday Evening in a Farmhouse in Dalecarlia|ru=Воскресный вечер в сельском доме}}\n|description=\n|date=1860\n|medium={{Oil on canvas}}\n|dimensions=88 x 117 cm\n|institution={{Institution:Nationalmuseum, Stockholm}}\n|location=\n|references=\n|object history=\n|exhibition history=\n|credit line=\n|inscriptions=\n|notes=\n|accession number={{Nationalmuseum Stockholm link|17995|NM 992}}\n|source=Amalia Lindegren\n|permission=\n|other_versions=[[File:Söndagsafton i en dalastuga av Amalia Lindegren 1860FXD.jpg|thumb|none|upright=.5|Remastered color]]\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1891}}\n\n[[Category:Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|1860]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 722,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 157739,
+      "downloadSHA256": "07234e37ea41cf6055eb7119601267ecf4ba5e6f2a68d5cb5059911159f4b752"
+    },
+    {
+      "commonsPageId": 88718650,
+      "fileTitle": "File:Söndagsafton i en dalstuga x Amalia Lindegren.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalstuga_x_Amalia_Lindegren.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/S%C3%B6ndagsafton_i_en_dalstuga_x_Amalia_Lindegren.jpg/960px-S%C3%B6ndagsafton_i_en_dalstuga_x_Amalia_Lindegren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/S%C3%B6ndagsafton_i_en_dalstuga_x_Amalia_Lindegren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2488,
+      "originalHeight": 1866,
+      "fileSHA1": "f25b7eb225175b718dc0e7b1152b19d26b8fc9b5",
+      "mime": "image/jpeg",
+      "revisionId": 1041077524,
+      "artistDisplay": "Amalia Lindegren",
+      "description": "Söndagsafton i en dalstuga skapad av Amalia Lindegren, avfotograferad bild från Allhems Svenskt konstnärslexikon.",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Svenskt konstnärslexikon",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-03-28 16:05:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Söndagsafton i en dalstuga x Amalia Lindegren",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|PD-Art (PD-old-100)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Art in Svenskt konstnärslexikon",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Söndagsafton i en dalstuga skapad av Amalia Lindegren, avfotograferad bild från Allhems Svenskt konstnärslexikon.",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Svenskt konstnärslexikon",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amalia_Lindegren\" class=\"extiw\" title=\"w:en:Amalia Lindegren\"><span title=\"Swedish artist (1814-1891)\">Amalia Lindegren</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{sv|1=Söndagsafton i en dalstuga skapad av Amalia Lindegren, avfotograferad bild från Allhems Svenskt konstnärslexikon.}}\n|date=\n|source=Svenskt konstnärslexikon\n|author={{Creator:Amalia Lindegren}}\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n\n{{PD-Art-old-100}}\n\n[[Category:Art in Svenskt konstnärslexikon|1860]]\n[[Category:Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|1860]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 720,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 218230,
+      "downloadSHA256": "624ec93f133699af7ce5ab032ccab40e6598afdc62118404d9d79ee5b9b915eb"
+    },
+    {
+      "commonsPageId": 93374653,
+      "fileTitle": "File:Detail. Sunday Evening in a Farmhouse in Dalecarlia, 1860, by Amalia Lindegren. Nationalmuseum, Stockholm, Sweden.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Detail._Sunday_Evening_in_a_Farmhouse_in_Dalecarlia,_1860,_by_Amalia_Lindegren._Nationalmuseum,_Stockholm,_Sweden.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Detail._Sunday_Evening_in_a_Farmhouse_in_Dalecarlia%2C_1860%2C_by_Amalia_Lindegren._Nationalmuseum%2C_Stockholm%2C_Sweden.jpg/960px-Detail._Sunday_Evening_in_a_Farmhouse_in_Dalecarlia%2C_1860%2C_by_Amalia_Lindegren._Nationalmuseum%2C_Stockholm%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Detail._Sunday_Evening_in_a_Farmhouse_in_Dalecarlia%2C_1860%2C_by_Amalia_Lindegren._Nationalmuseum%2C_Stockholm%2C_Sweden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 6016,
+      "originalHeight": 4016,
+      "fileSHA1": "f1841e44853651901a61283960fbf1e14b926f58",
+      "mime": "image/jpeg",
+      "revisionId": 1202278463,
+      "artistDisplay": "Amalia Lindegren",
+      "description": "Detail. Sunday Evening in a Farmhouse in Dalecarlia, 1860, by Amalia Lindegren (1814-1891). Nationalmuseum, Stockholm, Sweden. Oil on canvas. NM 992. Transferred 1865 Kongl. Museum.",
+      "dateDisplay": "16 July 2019, 15:01:07",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-08-21 16:12:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Sunday Evening in a Farmhouse in Dalecarlia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q10689147#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">title QS:P1476,en:\"Sunday Evening in a Farmhouse in Dalecarlia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q10689147#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Len,\"Sunday Evening in a Farmhouse in Dalecarlia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q10689147#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>\"</div><div style=\"display: none;\">label QS:Lru,\"Воскресный вечер в сельском доме\"</div><div style=\"display: none;\">label QS:Lsv,\"Söndagsafton i en dalstuga\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|Self-published work|Artworks with Wikidata item|Artworks with known accession number|Artworks with accession number from Wikidata|Artworks with Wikidata item missing author|Artworks digital representation of 2D work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amalia_Lindegren\" class=\"extiw\" title=\"w:en:Amalia Lindegren\"><span title=\"Swedish artist (1814-1891)\">Amalia Lindegren</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "Detail. Sunday Evening in a Farmhouse in Dalecarlia, 1860, by Amalia Lindegren (1814-1891). Nationalmuseum, Stockholm, Sweden. Oil on canvas. NM 992. Transferred 1865 Kongl. Museum.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "16 July 2019, 15:01:07",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |wikidata           = \n |artist             = \n |author             = [[User:Neuroforever|Osama Shukir Muhammed Amin FRCP(Glasg)]]\n |title              = \n |description        = {{en|1=Detail. Sunday Evening in a Farmhouse in Dalecarlia, 1860, by Amalia Lindegren (1814-1891). Nationalmuseum, Stockholm, Sweden. Oil on canvas. NM 992. Transferred 1865 Kongl. Museum.}}\n |object type        = painting\n |date               = 2019-07-16 15:01:07\n |medium             = \n |dimensions         = \n |institution        = \n |department         = \n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = {{own}}\n |permission         = \n |other_versions     = \n |other_fields       = \n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|1860]]",
+      "textSignals": [
+        "detail"
+      ],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    },
+    {
+      "commonsPageId": 23189355,
+      "fileTitle": "File:Söndagsafton i en dalstuga utan ram.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg/960px-S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 2719,
+      "originalHeight": 2038,
+      "fileSHA1": "950c950088e87b0b472b323382f2c53c126dc726",
+      "mime": "image/jpeg",
+      "revisionId": 1215225092,
+      "artistDisplay": "Amalia Lindegren",
+      "description": "",
+      "dateDisplay": "1860 date QS:P571,+1860-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "This file has been provided by the Nationalmuseum Stockholm from its digital collections. Any copyright resulting from the digitalisation are owned by the museum and releases these under Creative Commons CC0-license.",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2012-12-14 09:16:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Sunday Evening in a Farmhouse in Dalecarlia <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q10689147#P1476\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span></i></div></div><div style=\"display: none;\">label QS:Lsv,\"Söndagsafton i en dalstuga\"</div><div style=\"display: none;\">label QS:Len,\"Sunday Evening in a Farmhouse in Dalecarlia\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|PD-old-100-expired|Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|PD-Art (PD-old-auto-expired)|Artworks with Wikidata item|Artworks with known accession number|Items with VRTS permission confirmed|CC-PD-Mark|Images from the Nationalmuseum Stockholm|Artworks digital representation of 2D work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Amalia_Lindegren\" class=\"extiw\" title=\"w:en:Amalia Lindegren\"><span title=\"Swedish artist (1814-1891)\">Amalia Lindegren</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1860<div style=\"display: none;\">date QS:P571,+1860-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "This file has been provided by the Nationalmuseum Stockholm from its digital collections.<small><br>Any copyright resulting from the digitalisation are owned by the museum and releases these under Creative Commons CC0-license.</small>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n | wikidata = Q10689147\n|artist={{creator:Amalia Lindegren}}\n|title={{title|sv=Söndagsafton i en dalstuga|en=Sunday Evening in a Farmhouse in Dalecarlia}}\n|description=\n|date=1860\n|medium={{Oil on canvas}}\n|dimensions={{size|cm|88|117}}\n|institution={{Institution:Nationalmuseum, Stockholm}}\n|location=\n|references=\n|object history=\n|exhibition history=\n|credit line=\n|inscriptions=\n|notes=\n|accession number={{Nationalmuseum Stockholm link|17995|NM 992}}\n|source={{Nationalmuseum Stockholm image}}\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1891}}\n\n\n[[Category:Sunday evening in a farmhouse in Dalarna by Amalia Lindegren|*]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

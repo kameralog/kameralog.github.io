@@ -1,0 +1,349 @@
+{
+  "number": 45,
+  "queueKey": "aurel_bernath:56f3bf4dc1a49013",
+  "artistId": "aurel_bernath",
+  "artistName": "Аурел Бернат",
+  "title": "Ривьера",
+  "originalTitle": "Riviera",
+  "originalSource": "https://en.mng.hu/artworks/54158/",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-144.js",
+    "sourceModuleGitBlob": "da9b417844b9eea1b903dadac733982c9f7a914f",
+    "pendingWorkFingerprint": "56f3bf4dc1a49013625f8fa5f8de70caeae45ecb6f1efa3949879a0d6fdfdf65"
+  },
+  "queries": [
+    "\"Aurél Bernáth\" \"Riviera\"",
+    "Aurél Bernáth Riviera"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 120756497,
+      "fileTitle": "File:Buick Riviera 1971 engine.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Buick_Riviera_1971_engine.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Buick_Riviera_1971_engine.jpg/960px-Buick_Riviera_1971_engine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Buick_Riviera_1971_engine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 5951,
+      "originalHeight": 3219,
+      "fileSHA1": "ccf2c5eb516ce726252ecbf14ce22e1b4b5e7b4f",
+      "mime": "image/jpeg",
+      "revisionId": 1295442304,
+      "artistDisplay": "Palauenc05",
+      "description": "7.5-liter-V8 engine of a 1971 Buick Riviera .",
+      "dateDisplay": "2022-07-17",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2022-07-19 09:28:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Buick Riviera 1971 engine",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|1971 Buick Riviera|Buick big-block engines",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "7.5-liter-V8 engine of a 1971 <a href=\"https://en.wikipedia.org/wiki/Buick_Riviera\" class=\"extiw\" title=\"en:Buick Riviera\">Buick Riviera</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-07-17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Palauenc05\" title=\"User:Palauenc05\">Palauenc05</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{de|1=7,5-Liter-V8 Motor eines [[:de:Buick Riviera|Buick Riviera]] von 1971, gesehen beim Oldtimertreffen in Konz am 17. Juli 2022.}}\n{{en|1=7.5-liter-V8 engine of a 1971 [[:en:Buick Riviera|Buick Riviera]].}}\n|date=2022-07-17\n|source={{own}}\n|author=[[User:Palauenc05|Palauenc05]]\n|permission=\n|other versions=\n}}\n{{QualityImage}}\n{{VI|V8 engine of a [[:Category:1971 Buick Riviera|1971 Buick Riviera]]|00:18, 25 July 2022 (UTC)|subpage=Buick Riviera 1971 engine.jpg}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:1971 Buick Riviera]]\n[[Category:Buick big-block engines]]\n[[Category:Quality images by Palauenc05]]\n[[Category:Quality images of Buick automobiles]]\n[[Category:Valued images by User:Palauenc05]]\n[[Category:Valued images of automobiles]]\n[[Category:Quality images of automobile engines]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 519,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 184155,
+      "downloadSHA256": "e4796a9a963729be0e806dfb5f3c284621c0b704d7e3bb80c476ca48dc5bc9a1"
+    },
+    {
+      "commonsPageId": 20629033,
+      "fileTitle": "File:NSU-Fiat Jagst Riviera Vignale Cabrio.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:NSU-Fiat_Jagst_Riviera_Vignale_Cabrio.JPG",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/NSU-Fiat_Jagst_Riviera_Vignale_Cabrio.JPG/960px-NSU-Fiat_Jagst_Riviera_Vignale_Cabrio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/6a/NSU-Fiat_Jagst_Riviera_Vignale_Cabrio.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 4812,
+      "originalHeight": 2679,
+      "fileSHA1": "c8efaa6e97366a116ee4e0b5a4ca91a2830a033e",
+      "mime": "image/jpeg",
+      "revisionId": 1248736358,
+      "artistDisplay": "Lothar Spurzem",
+      "description": "NSU-Fiat Jagst Riviera, Karosserie Vignale; Fantasiekennzeichen",
+      "dateDisplay": "2012-07-12",
+      "licenseShortName": "CC BY-SA 2.0 de",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2018-01-06 15:15:21",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "NSU-Fiat Jagst Riviera Vignale Cabrio",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Location withheld|Number 153 on vehicle registration plates|Neckar Jagst 770 Riviera",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "NSU-Fiat Jagst Riviera, Karosserie Vignale; Fantasiekennzeichen",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-07-12",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Spurzem\" title=\"User:Spurzem\">Lothar Spurzem</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0 de",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0 de",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0-de",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "{{Information\n|Description = {{de|NSU-Fiat Jagst Riviera, Karosserie Vignale; Fantasiekennzeichen}}\n|Source      ={{own}}\n|Date        = 2012-07-12 \n|Author      = [[User:Spurzem|Lothar Spurzem]] \n|Permission  =\n}}\n{{Location withheld}}\n{{cc-by-sa-2.0-de}}\n\n{{QualityImage}}\n\n{{VI|{{c|NSU-Fiat Jagst}} with cabrio-body made by Vignale, front|06:30, 12 January 2018 (UTC)|\nsubpage=NSU-Fiat Jagst Riviera Vignale Cabrio.JPG}}\n\n[[Category:Neckar Jagst 770 Riviera]]\n[[Category:Number 153 on vehicle registration plates]]\n[[Category:Quality images of NSU automobiles]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 960,
+      "decodedHeight": 534,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 152320,
+      "downloadSHA256": "22764ad5cdb3d55f22645985613a899aece32964030d33241419bfc7aad36feb"
+    },
+    {
+      "commonsPageId": 146497820,
+      "fileTitle": "File:Riviera, Chablais et Léman.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Riviera,_Chablais_et_L%C3%A9man.jpg",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Riviera%2C_Chablais_et_L%C3%A9man.jpg/960px-Riviera%2C_Chablais_et_L%C3%A9man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Riviera%2C_Chablais_et_L%C3%A9man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 20550,
+      "originalHeight": 6338,
+      "fileSHA1": "abadafddef3ad11dceaca452d11a1356a42c4b91",
+      "mime": "image/jpeg",
+      "revisionId": 1196584264,
+      "artistDisplay": "Christian David",
+      "description": "La vue de Chardonne de la Riviera, du Chablais et du Grand Lac du Léman.",
+      "dateDisplay": "2024-03-13 16:16:17",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "creditDisplay": "Own work",
+      "attributionRequired": "true",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2024-03-17 17:06:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Riviera, Chablais et Léman",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm X-T30|Chablais|Views of Vevey from Chardonne|Riviera vaudoise|Self-published work|Lake Geneva, Grand Lac",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "La vue de Chardonne de la Riviera, du Chablais et du Grand Lac du Léman.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-03-13 16:16:17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Espandero\" title=\"User:Espandero\">Christian David</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{fr|1=La vue de Chardonne de la Riviera, du Chablais et du Grand Lac du Léman.}}\n|date=2024-03-13 16:16:17\n|source={{own}}\n|author=[[User:Espandero|Christian David]]\n|permission=\n|other versions={{G|Riviera, Chablais et Léman (1).jpg|}}\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Lake Geneva, Grand Lac]]\n[[Category:Riviera vaudoise]]\n[[Category:Chablais]]\n[[Category:Views of Vevey from Chardonne]]\n[[Category:Quality images by Christian David]]\n[[Category:Taken with Fujifilm X-T30]]\n[[Category:Quality images of the canton of Vaud]]\n{{QualityImage}}",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

@@ -1,0 +1,27 @@
+{
+  "number": 46,
+  "queueKey": "bagta:9875530a91a8887f",
+  "artistId": "bagta",
+  "artistName": "Багта",
+  "title": "Рават Гокул Дас у Сингх-Сагара",
+  "originalTitle": null,
+  "originalSource": "https://www.metmuseum.org/art/collection/search/76037",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-25.js",
+    "sourceModuleGitBlob": "41634174706b20ac1bd1323206805404cb932101",
+    "pendingWorkFingerprint": "9875530a91a8887fa511d1d9c7da908e79d57d2583b6fa96a86038ca8ed15d6e"
+  },
+  "queries": [
+    "\"Bagta (Bakhta)\" \"Рават Гокул Дас у Сингх-Сагара\"",
+    "Bagta (Bakhta) Рават Гокул Дас у Сингх Сагара"
+  ],
+  "candidates": [],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "no_candidates_in_this_search"
+}

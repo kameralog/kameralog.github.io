@@ -1,0 +1,233 @@
+{
+  "number": 25,
+  "queueKey": "andrea_semino:a224a815ed75bf90",
+  "artistId": "andrea_semino",
+  "artistName": "Андреа Семино",
+  "title": "Парнас",
+  "originalTitle": "Parnaso",
+  "originalSource": "https://www.museidigenova.it/it/parnaso",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-91.js",
+    "sourceModuleGitBlob": "47d0130a216f95f1025e7b7d6461baa7477a467c",
+    "pendingWorkFingerprint": "a224a815ed75bf902250168ac8c2ddadad68a5de465314e18cac114835d18746"
+  },
+  "queries": [
+    "\"Andrea Semino\" \"Parnaso\"",
+    "Andrea Semino Parnaso",
+    "Andrea Semino Парнас"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 95036844,
+      "fileTitle": "File:Frontespizi incisi nel libro italiano del seicento (IA frontespiziincis00boff).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Frontespizi_incisi_nel_libro_italiano_del_seicento_(IA_frontespiziincis00boff).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Frontespizi_incisi_nel_libro_italiano_del_seicento_%28IA_frontespiziincis00boff%29.pdf/page1-500px-Frontespizi_incisi_nel_libro_italiano_del_seicento_%28IA_frontespiziincis00boff%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Frontespizi_incisi_nel_libro_italiano_del_seicento_%28IA_frontespiziincis00boff%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 885,
+      "originalHeight": 1404,
+      "fileSHA1": "2bd8d214f2e3b63bf3e84b5b3162aad9687d329d",
+      "mime": "application/pdf",
+      "revisionId": 1148896197,
+      "artistDisplay": "Boffito, Giuseppe, 1869-1944",
+      "description": "Subjects: Title pages; Frontispiece; Engraving, Italian; Engravers; Printing",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: frontespiziincis00boff https://archive.org/download/frontespiziincis00boff/frontespiziincis00boff.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-13 21:55:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nFrontespizi incisi nel libro italiano del seicento</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Seeber (surname)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|Giuseppe Boffito|1922 books in Italian|1922 books from Florence",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nBoffito, Giuseppe, 1869-1944</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects: Title pages; Frontispiece; Engraving, Italian; Engravers; Printing</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/frontespiziincis00boff\" class=\"extiw\" title=\"iarchive:frontespiziincis00boff\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> frontespiziincis00boff</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/frontespiziincis00boff/frontespiziincis00boff.pdf\">https://archive.org/download/frontespiziincis00boff/frontespiziincis00boff.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Boffito, Giuseppe, 1869-1944\n|illustrator = \n|title = Frontespizi incisi nel libro italiano del seicento\n|volume = \n|publisher = Firenze, Succ. Seeber\n|noimage = 1\n|source = \n:{{Internet Archive link|frontespiziincis00boff}}\n:https://archive.org/download/frontespiziincis00boff/frontespiziincis00boff.pdf\n|accession number = frontespiziincis00boff\n|series title = \n|language = {{language|1=it}}\n|description = Subjects: Title pages; Frontispiece; Engraving, Italian; Engravers; Printing\n|permission = \n|OCLC = 1045613299\n|publication date = 1922\n|notes = No copyright page found.\n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:frontespiziincis00boff}}\n[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:Giuseppe Boffito]]\n[[Category:Seeber (surname)]]\n[[Category:1922 books from Florence]]\n[[Category:1922 books in Italian]]",
+      "textSignals": [
+        "copy"
+      ],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 793,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 170690,
+      "downloadSHA256": "b61d35cd599a8923898cd5b34547c9c093fcc6647d82863395fa34dd78e0e7bd"
+    },
+    {
+      "commonsPageId": 94785083,
+      "fileTitle": "File:Grammatica del dialetto napoletano (IA aht0264.0001.001.umich.edu).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Grammatica_del_dialetto_napoletano_(IA_aht0264.0001.001.umich.edu).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Grammatica_del_dialetto_napoletano_%28IA_aht0264.0001.001.umich.edu%29.pdf/page1-500px-Grammatica_del_dialetto_napoletano_%28IA_aht0264.0001.001.umich.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Grammatica_del_dialetto_napoletano_%28IA_aht0264.0001.001.umich.edu%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 854,
+      "originalHeight": 1060,
+      "fileSHA1": "33ffc789e1e7c6f5b1efa7a469944b68156c2ea0",
+      "mime": "application/pdf",
+      "revisionId": 1256281333,
+      "artistDisplay": "Capozzoli, Raffaele",
+      "description": "Compiled at the request of the Accademia dei filopatridi di Napoli. cf. Prefazione \"Tavola delle abbrevazioni\" (bibliography of works in the Neapolitan dialect): 4th prelim. leaf Mode of access: Internet Subjects: Italian language",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: aht0264.0001.001.umich.edu https://archive.org/download/aht0264.0001.001.umich.edu/aht0264.0001.001.umich.edu.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-05 21:50:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nGrammatica del dialetto napoletano</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|University of Michigan Books",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nCapozzoli, Raffaele</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>Compiled at the request of the Accademia dei filopatridi di Napoli. cf. Prefazione</dd>\n<dd>\"Tavola delle abbrevazioni\" (bibliography of works in the Neapolitan dialect): 4th prelim. leaf</dd>\n<dd>Mode of access: Internet</dd></dl>\n<br>Subjects: Italian language</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/aht0264.0001.001.umich.edu\" class=\"extiw\" title=\"iarchive:aht0264.0001.001.umich.edu\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> aht0264.0001.001.umich.edu</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/aht0264.0001.001.umich.edu/aht0264.0001.001.umich.edu.pdf\">https://archive.org/download/aht0264.0001.001.umich.edu/aht0264.0001.001.umich.edu.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Capozzoli, Raffaele\n|illustrator = \n|title = Grammatica del dialetto napoletano\n|volume = \n|publisher = Napoli, L. Chiurazzi\n|noimage = 1\n|source = \n:{{Internet Archive link|aht0264.0001.001.umich.edu}}\n:https://archive.org/download/aht0264.0001.001.umich.edu/aht0264.0001.001.umich.edu.pdf\n|accession number = aht0264.0001.001.umich.edu\n|series title = \n|language = {{language|1=it}}\n|description = \n:Compiled at the request of the Accademia dei filopatridi di Napoli. cf. Prefazione\n:\"Tavola delle abbrevazioni\" (bibliography of works in the Neapolitan dialect): 4th prelim. leaf\n:Mode of access: Internet\n<br>Subjects: Italian language\n|permission = \n|publication date = 1889\n|notes = \n|department = IA Collections: michigan_books; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:aht0264.0001.001.umich.edu}}\n[[Category:University of Michigan Books]]\n[[Category:Books uploaded by Fæ]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 621,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 118741,
+      "downloadSHA256": "d477c38649a8cf22f64e6756430a6d8fb43e726179012ea7aa3498698d21ffc7"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}

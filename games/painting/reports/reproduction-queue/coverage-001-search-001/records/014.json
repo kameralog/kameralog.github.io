@@ -1,0 +1,329 @@
+{
+  "number": 14,
+  "queueKey": "alice_ronner:5059f867e906c6bc",
+  "artistId": "alice_ronner",
+  "artistName": "Алиса Роннер",
+  "title": "Маки",
+  "originalTitle": "Les pavots",
+  "originalSource": "https://fine-arts-museum.be/fr/la-collection/alice-ronner-les-pavots",
+  "queueSnapshot": {
+    "sourceModule": "games/painting/artists-batch-123.js",
+    "sourceModuleGitBlob": "2bce1a29d76c64bc4458fc5c2f61c7cd40f6da01",
+    "pendingWorkFingerprint": "5059f867e906c6bc45a2c5d8cd02e0639b031310896cc5179b20dcc33f268e6b"
+  },
+  "queries": [
+    "\"Alice Ronner\" \"Les pavots\"",
+    "Alice Ronner Les pavots"
+  ],
+  "candidates": [
+    {
+      "commonsPageId": 70922817,
+      "fileTitle": "File:Bordeaux exposition 1895 catalogue - Les Arts Anciennes et Modernes.pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bordeaux_exposition_1895_catalogue_-_Les_Arts_Anciennes_et_Modernes.pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bordeaux_exposition_1895_catalogue_-_Les_Arts_Anciennes_et_Modernes.pdf/page1-500px-Bordeaux_exposition_1895_catalogue_-_Les_Arts_Anciennes_et_Modernes.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bordeaux_exposition_1895_catalogue_-_Les_Arts_Anciennes_et_Modernes.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 879,
+      "originalHeight": 1400,
+      "fileSHA1": "484b96ed06108b95f5f26caabd2b4a8711244725",
+      "mime": "application/pdf",
+      "revisionId": 1091908442,
+      "artistDisplay": "Anonymous (1895)",
+      "description": "Bordeaux exposition 1895 - Les Arts Anciennes et Modernes",
+      "dateDisplay": "1895",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Histoire des expositions de Bordeaux de Charles Bénards (1899)",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2018-07-17 05:34:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Bordeaux exposition 1895 catalogue - Les Arts Anciennes et Modernes",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Paul Maurou|Alms purses|Edmond De Schampheleer|PD-old-70-expired|CC-PD-Mark|PD-old missing SDC copyright status|Exposition d'Art Ancien et d'Art Moderne de Bordeaux (1895)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Bordeaux exposition 1895 - Les Arts Anciennes et Modernes",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1895",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Histoire des expositions de Bordeaux de Charles Bénards (1899)",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Anonymous (1895)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "=={{int:filedesc}}==\n{{Information\n|description={{fr|1=Bordeaux exposition 1895 - Les Arts Anciennes et Modernes}}\n|date=1895\n|source=Histoire des expositions de Bordeaux de Charles Bénards (1899)\n|author=Anonymous (1895)\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{PD-old-70-1923}}\n\n[[Category:Exposition d'Art Ancien et d'Art Moderne de Bordeaux (1895)]]\n[[Category:Alms purses]]\n[[Category:Edmond De Schampheleer]]\n[[Category:Paul Maurou]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 796,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 131295,
+      "downloadSHA256": "f3a78d72d93e4564a1bae18a3d1577e622957f8f9baaef388e9a764c89785f91"
+    },
+    {
+      "commonsPageId": 95501040,
+      "fileTitle": "File:Paris 1900 (IA parisexpositionuni00expo).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Paris_1900_(IA_parisexpositionuni00expo).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Paris_1900_%28IA_parisexpositionuni00expo%29.pdf/page1-500px-Paris_1900_%28IA_parisexpositionuni00expo%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/45/Paris_1900_%28IA_parisexpositionuni00expo%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 718,
+      "originalHeight": 985,
+      "fileSHA1": "7d340a8488cfd1e66d09a3a9d559e3e9a8f672ec",
+      "mime": "application/pdf",
+      "revisionId": 1122859105,
+      "artistDisplay": "Exposition universelle internationale de 1900 (Paris, France). Section belge des beaux-arts",
+      "description": "Subjects: Art, Belgian",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: parisexpositionuni00expo https://archive.org/download/parisexpositionuni00expo/parisexpositionuni00expo.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-26 19:43:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nParis 1900</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|PD-US missing SDC copyright status|French-language books|Books about the Exposition Universelle (1900)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nExposition universelle internationale de 1900 (Paris, France). Section belge des beaux-arts</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects: Art, Belgian</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/parisexpositionuni00expo\" class=\"extiw\" title=\"iarchive:parisexpositionuni00expo\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> parisexpositionuni00expo</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/parisexpositionuni00expo/parisexpositionuni00expo.pdf\">https://archive.org/download/parisexpositionuni00expo/parisexpositionuni00expo.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Exposition universelle internationale de 1900 (Paris, France). Section belge des beaux-arts\n|illustrator = \n|title = Paris 1900\n|volume = \n|publisher = Liège : Aug. Bénard\n|source = \n:{{Internet Archive link|parisexpositionuni00expo}}\n:https://archive.org/download/parisexpositionuni00expo/parisexpositionuni00expo.pdf\n|accession number = parisexpositionuni00expo\n|series title = \n|language = {{language|1=fr}}\n|description = Subjects: Art, Belgian\n|permission = \n|OCLC = 1050261031\n|publication date = 1900\n|notes = No table of contents.\n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:parisexpositionuni00expo}}[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:French-language books]]\n[[Category:Books about the Exposition Universelle (1900)]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "httpStatus": 200,
+      "decodedWidth": 500,
+      "decodedHeight": 685,
+      "decodedFormat": "JPEG",
+      "downloadBytes": 68331,
+      "downloadSHA256": "1552992876b90fbb1b416d699ebddda1f91892f718f61fefb3d5b0317237b43c"
+    },
+    {
+      "commonsPageId": 95025170,
+      "fileTitle": "File:Exposition internationale de Bruxelles 1897 - beaux-arts - catalogue général (IA expositionintern00cong).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_(IA_expositionintern00cong).pdf",
+      "origin": "commons_search",
+      "imageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_%28IA_expositionintern00cong%29.pdf/page1-500px-Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_%28IA_expositionintern00cong%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/02/Exposition_internationale_de_Bruxelles_1897_-_beaux-arts_-_catalogue_g%C3%A9n%C3%A9ral_%28IA_expositionintern00cong%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "originalWidth": 685,
+      "originalHeight": 1222,
+      "fileSHA1": "5d62eb2cde66a14cc1c23268eabd4e2776da996e",
+      "mime": "application/pdf",
+      "revisionId": 1123887740,
+      "artistDisplay": "Congrès international colonial (1897 : Brussels, Belgium)",
+      "description": "Subjects:",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "creditDisplay": "Internet Archive identifier: expositionintern00cong https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf",
+      "attributionRequired": "false",
+      "rightsMetadata": {
+        "DateTime": {
+          "value": "2020-10-13 14:47:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nExposition internationale de Bruxelles 1897 : beaux-arts : catalogue général</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|French-language books|Books published in Brussels",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nCongrès international colonial (1897 : Brussels, Belgium)</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/expositionintern00cong\" class=\"extiw\" title=\"iarchive:expositionintern00cong\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier:</bdi> expositionintern00cong</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf\">https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "wikitext": "== {{int:filedesc}} ==\n{{Book\n|author = Congrès international colonial (1897 : Brussels, Belgium)\n|illustrator = \n|title = Exposition internationale de Bruxelles 1897 : beaux-arts : catalogue général\n|volume = \n|publisher = Bruxelles : Ed. Lyon-Claesen\n|source = \n:{{Internet Archive link|expositionintern00cong}}\n:https://archive.org/download/expositionintern00cong/expositionintern00cong.pdf\n|accession number = expositionintern00cong\n|series title = \n|language = {{language|1=fr}}\n|description = Subjects: \n|permission = \n|OCLC = 1045413816\n|publication date = 1897\n|notes = No TOC.  \n|department = IA Collections: getty; americana\n}}\n== {{int:license-header}} ==\n{{PD-US-expired}}\n\n{{DEFAULTSORT:expositionintern00cong}}\n[[Category:Books published in Brussels]]\n[[Category:Images from the Getty Research Institute]]\n[[Category:Books uploaded by Fæ]]\n[[Category:French-language books]]",
+      "textSignals": [],
+      "identityReviewRequired": true,
+      "licenceReviewRequired": true,
+      "readyToBind": false,
+      "browserImageDecoded": false,
+      "fullVisualReview": false,
+      "deliveryStatus": "not_checked"
+    }
+  ],
+  "errors": [],
+  "identityCheckStatus": "manual_review_required",
+  "licenceCheckStatus": "manual_review_required",
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "sourceModuleChangedSinceQueue": false,
+  "status": "candidates_found_manual_review_required"
+}
