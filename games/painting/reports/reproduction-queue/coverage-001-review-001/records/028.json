@@ -1,0 +1,117 @@
+{
+  "number": 28,
+  "queueKey": "anna_dorothea_therbusch:d90979413fd20d5e",
+  "artistId": "anna_dorothea_therbusch",
+  "artistName": "Анна Доротея Тербуш",
+  "title": "Автопортрет со зрительным стеклом",
+  "originalSource": "https://www.smb.museum/ausstellungen/detail/anna-dorothea-therbusch/",
+  "expectedInventory": "",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 4878129,
+      "fileTitle": "File:Anna Dorothea Therbusch - 1761.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anna_Dorothea_Therbusch_-_1761.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna Dorothea Therbusch",
+      "objectTitle": "German: Selbstbildnis, 1761 Self-portrait label QS:Len,\"Self-portrait\"",
+      "description": "",
+      "dateDisplay": "1761 date QS:P571,+1761-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Self-portrait}}",
+        "{{PD-Art|PD-old-auto-expired|deathyear=1782}}"
+      ],
+      "creditDisplay": "Franzes Borzello: Wie Frauen sich sehen - Selbstbildnisse aus fünf Jahrhunderten; S.72",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 847,
+      "decodedHeight": 1162,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/028.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 15398347,
+      "fileTitle": "File:Anna Dorothea Therbusch - Self-Portrait - WGA22209.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anna_Dorothea_Therbusch_-_Self-Portrait_-_WGA22209.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna Dorothea Therbusch",
+      "objectTitle": "Self-portrait",
+      "description": "",
+      "dateDisplay": "between 1776 and 1777 date QS:P571,+1776-00-00T00:00:00Z/8,P1319,+1776-00-00T00:00:00Z/9,P1326,+1777-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{self-portrait}}",
+        "{{PD-Art|PD-old-auto-expired|deathyear=1782}}"
+      ],
+      "creditDisplay": "Web Gallery of Art : Image Info about artwork wga QS:P11807,\"/t/therbusc/1selfpor\"",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1248,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/028.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 73960935,
+      "fileTitle": "File:Therbusch Selbstbildnis@Herzog Anton Ulrich Museum.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Therbusch_Selbstbildnis@Herzog_Anton_Ulrich_Museum.JPG",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna Dorothea Therbusch",
+      "objectTitle": "Self-portrait label QS:Len,\"Self-portrait\" label QS:Lde,\"Selbstporträt\"",
+      "description": "",
+      "dateDisplay": "1773",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-art|PD-old-auto-1923|deathyear=1782}}"
+      ],
+      "creditDisplay": "Photographer and uploader was Hajotthu at de.wikipedia",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/028.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

@@ -1,0 +1,15 @@
+{
+  "number": 32,
+  "queueKey": "anna_syberg:2f9a6d839d68b73c",
+  "artistId": "anna_syberg",
+  "artistName": "Анна Сюберг",
+  "title": "Розы в кувшине",
+  "originalSource": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

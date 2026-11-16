@@ -1,0 +1,115 @@
+{
+  "number": 21,
+  "queueKey": "amaldus_nielsen:fd8e7bdcbde62892",
+  "artistId": "amaldus_nielsen",
+  "artistName": "Амальдус Нильсен",
+  "title": "Утро в Ню-Хеллесунне",
+  "originalSource": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00326",
+  "expectedInventory": "NG.M.00326",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 98010473,
+      "fileTitle": "File:Amaldus Nielsen - Morning in Ny-Hellesund - NG.M.00326 - National Museum of Art, Architecture and Design.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_-_Morning_in_Ny-Hellesund_-_NG.M.00326_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Amaldus Nielsen",
+      "objectTitle": "Morning in Ny-Hellesund title QS:P1476,en:\"Morning in Ny-Hellesund \" label QS:Len,\"Morning in Ny-Hellesund \" label QS:Lnb,\"Morgen ved Ny-Hellesund\"",
+      "description": "",
+      "dateDisplay": "1885",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1932}}"
+      ],
+      "creditDisplay": "National Museum of Art, Architecture and Design",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 554,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/021.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 16938089,
+      "fileTitle": "File:Amaldus Nielsen Ny Hellesund 100720086284.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_Ny_Hellesund_100720086284.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Amaldus Nielsen",
+      "objectTitle": "Norwegian: Morgen ved Ny-Hellesund Morning at Ny Hellesund, Southern Norway title QS:P1476,no:\"Morgen ved Ny-Hellesund\" label QS:Lno,\"Morgen ved Ny-Hellesund\" label QS:Len,\"Morning at Ny Hellesund, Southern Norway\"",
+      "description": "",
+      "dateDisplay": "1885 date QS:P571,+1885-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1932}}"
+      ],
+      "creditDisplay": "Own work , Bjoertvedt , 2008-07-10",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 931,
+      "decodedHeight": 532,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/021.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 795781,
+      "fileTitle": "File:Amaldus Nielsen Morgen Ny Hellesund.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Amaldus_Nielsen_Morgen_Ny_Hellesund.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Amaldus Nielsen",
+      "objectTitle": "Norwegian: Morgen ved Ny-Hellesund Morning at Ny Hellesund, Southern Norway title QS:P1476,no:\"Morgen ved Ny-Hellesund\" label QS:Lno,\"Morgen ved Ny-Hellesund\" label QS:Len,\"Morning at Ny Hellesund, Southern Norway\"",
+      "description": "",
+      "dateDisplay": "1885 date QS:P571,+1885-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1932}}"
+      ],
+      "creditDisplay": "Unknown source Unknown source",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/021.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

@@ -1,0 +1,113 @@
+{
+  "number": 26,
+  "queueKey": "anna_boch:37680fe5146a53b2",
+  "artistId": "anna_boch",
+  "artistName": "Анна Бох",
+  "title": "Сбор урожая",
+  "originalSource": "https://www.musee-orsay.fr/fr/oeuvres/cueillette-271208",
+  "expectedInventory": "RF MO P 2024 3",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 137748548,
+      "fileTitle": "File:PM 150673 B Anna Boch.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:PM_150673_B_Anna_Boch.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "PMRMaeyaert",
+      "objectTitle": "PM 150673 B Anna Boch",
+      "description": "Musem Mu.ZEE. Oostende. West-Vlaanderen. Belgium. Schilderij, Anna Boch, De Pluk, 1890,privécollectie. Painting. Anna Boch. Picking. 1890. Private collection. . Anna Boch (1848-1936). pmrmaeyaert@gmail.com. © Paul M.R. Maeyaert. Cultural heritage|Techniques|Painting,Cultural heritage|Museum/private collection,Europe|Belgium,Europe|Belgium|West-Vlaanderen,Europe|Belgium|West-Vlaanderen|Oostende. © Paul M.R. MaeyaertRef: PM_150673_B_Anna_Boch. DO NOT CHANGE THE FILE NAME. DE BESTANDSNAAM NIET WIJZIGEN.",
+      "dateDisplay": "2023-09-13 12:08:44",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "licenceTemplates": [
+        "{{self|cc-by-sa-4.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 600,
+      "decodedHeight": 405,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/026.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 175798553,
+      "fileTitle": "File:Cueillette Anna Boch 1890.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Cueillette_Anna_Boch_1890.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Laeti2802",
+      "objectTitle": "Cueillette Anna Boch 1890",
+      "description": "Peinture d'une fillette en robe bleue dans un potager en fleurs",
+      "dateDisplay": "1890",
+      "licenseShortName": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "licenceTemplates": [
+        "{{self|cc-zero}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/026.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 95141119,
+      "fileTitle": "File:Catalogue de la ... Exposition (IA gri 33125009338845).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Catalogue_de_la_..._Exposition_(IA_gri_33125009338845).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "Libre esthétique (Society). Exposition",
+      "objectTitle": "Catalogue de la ... Exposition",
+      "description": "10 v. ; 17 cm Title from cover Director: M. Octave Maus Contains woodcut decorations and cover illustrations 21 volumes ; 17 cm Director: Octave Maus Begininning in 1904, exhibition catalogs for some years are unnumbered and carry a theme title, so that 11, 15, and 17, are skipped in the numbering of the catalogs. The final numbered catalog was 19. (9 mars/14 avril 1912); it was followed by two unnumbered catalogs for the 1913 and 1914 exhibtions Latest issue consulted: Unnumbered exhibition catalog for 7 mars/13 avril 1914 with theme title: Hommage a Dario de Regoyos Subjects: Art -- Exhibitions; Libre esthétique (Society) -- Exhibitions; Impressionism (Art) -- Belgium -- Exhibitions; Impre",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [],
+      "creditDisplay": "Internet Archive identifier: gri_33125009338845 https://archive.org/download/gri_33125009338845/gri_33125009338845.pdf",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1217,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/026.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

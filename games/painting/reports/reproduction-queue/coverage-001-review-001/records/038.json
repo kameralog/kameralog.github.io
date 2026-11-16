@@ -1,0 +1,15 @@
+{
+  "number": 38,
+  "queueKey": "anton_faistauer:26c04c97e08bcf28",
+  "artistId": "anton_faistauer",
+  "artistName": "Антон Файстауэр",
+  "title": "Портрет дамы",
+  "originalSource": "https://onlinecollection.leopoldmuseum.org/en/object/39869-portrait-of-a-lady/",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

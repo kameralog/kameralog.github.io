@@ -1,0 +1,113 @@
+{
+  "number": 27,
+  "queueKey": "anna_de_weert:b05162f0ace5a9de",
+  "artistId": "anna_de_weert",
+  "artistName": "Анна де Верт",
+  "title": "Моя мастерская в июне",
+  "originalSource": "https://www.mskgent.be/en/collection/1912-b",
+  "expectedInventory": "1912-B",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 99282924,
+      "fileTitle": "File:Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mijn_atelier_in_juni,_Anna_De_Weert,_Museum_voor_Schone_Kunsten_Gent,_1912-B.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna De Weert",
+      "objectTitle": "Mijn atelier in juni",
+      "description": "Mijn atelier in juni, Anna De Weert, Museum voor Schone Kunsten Gent, 1912-B",
+      "dateDisplay": "between June 1909 and June 1910 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1909-06-00T00:00:00Z/10,P1326,+1910-06-00T00:00:00Z/10",
+      "licenseShortName": "CC0",
+      "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "licenceTemplates": [],
+      "creditDisplay": "Museum of Fine Arts Ghent (MSK)",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 640,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/027.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 140229278,
+      "fileTitle": "File:Anna De Weert - My Studio in June - 1912-B - Museum of Fine Arts Ghent (MSK).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anna_De_Weert_-_My_Studio_in_June_-_1912-B_-_Museum_of_Fine_Arts_Ghent_(MSK).jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna De Weert",
+      "objectTitle": "My Studio in June title QS:P1476,en:\"My Studio in June \" label QS:Len,\"My Studio in June \" label QS:Lfr,\"Mon atelier en juin\" label QS:Lnl,\"Mijn atelier in juni\"",
+      "description": "",
+      "dateDisplay": "between June 1909 and June 1910 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1909-06-00T00:00:00Z/10,P1326,+1910-06-00T00:00:00Z/10",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1950}}"
+      ],
+      "creditDisplay": "Museum of Fine Arts Ghent (MSK)",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 633,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/027.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 185409199,
+      "fileTitle": "File:Mijn atelier in juni - Anna De Weert - Museum voor Schone Kunsten Gent - 2.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Mijn_atelier_in_juni_-_Anna_De_Weert_-_Museum_voor_Schone_Kunsten_Gent_-_2.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna De Weert",
+      "objectTitle": "My Studio in June title QS:P1476,en:\"My Studio in June \" label QS:Len,\"My Studio in June \" label QS:Lfr,\"Mon atelier en juin\" label QS:Lnl,\"Mijn atelier in juni\"",
+      "description": "Mijn atelier in juni - Anna De Weert - Museum voor Schone Kunsten Gent",
+      "dateDisplay": "between June 1909 and June 1910 date QS:P,+1950-00-00T00:00:00Z/7,P1319,+1909-06-00T00:00:00Z/10,P1326,+1910-06-00T00:00:00Z/10",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1950}}"
+      ],
+      "creditDisplay": "https://artinflanders.be/en/artwork/0020163001",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/027.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

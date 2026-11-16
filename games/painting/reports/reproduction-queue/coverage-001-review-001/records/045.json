@@ -1,0 +1,115 @@
+{
+  "number": 45,
+  "queueKey": "aurel_bernath:56f3bf4dc1a49013",
+  "artistId": "aurel_bernath",
+  "artistName": "Аурел Бернат",
+  "title": "Ривьера",
+  "originalSource": "https://en.mng.hu/artworks/54158/",
+  "expectedInventory": "6370",
+  "status": "needs_targeted_search",
+  "candidates": [
+    {
+      "pageId": 120756497,
+      "fileTitle": "File:Buick Riviera 1971 engine.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Buick_Riviera_1971_engine.jpg",
+      "mime": "image/jpeg",
+      "disposition": "rejected_unrelated_subject_assistant_review",
+      "artistDisplay": "Palauenc05",
+      "objectTitle": "Buick Riviera 1971 engine",
+      "description": "7.5-liter-V8 engine of a 1971 Buick Riviera .",
+      "dateDisplay": "2022-07-17",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "licenceTemplates": [
+        "{{self|cc-by-sa-4.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 519,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/045.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 20629033,
+      "fileTitle": "File:NSU-Fiat Jagst Riviera Vignale Cabrio.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:NSU-Fiat_Jagst_Riviera_Vignale_Cabrio.JPG",
+      "mime": "image/jpeg",
+      "disposition": "rejected_unrelated_subject_assistant_review",
+      "artistDisplay": "Lothar Spurzem",
+      "objectTitle": "NSU-Fiat Jagst Riviera Vignale Cabrio",
+      "description": "NSU-Fiat Jagst Riviera, Karosserie Vignale; Fantasiekennzeichen",
+      "dateDisplay": "2012-07-12",
+      "licenseShortName": "CC BY-SA 2.0 de",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "licenceTemplates": [
+        "{{cc-by-sa-2.0-de}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 534,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/045.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 146497820,
+      "fileTitle": "File:Riviera, Chablais et Léman.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Riviera,_Chablais_et_L%C3%A9man.jpg",
+      "mime": "image/jpeg",
+      "disposition": "rejected_unrelated_subject_assistant_review",
+      "artistDisplay": "Christian David",
+      "objectTitle": "Riviera, Chablais et Léman",
+      "description": "La vue de Chardonne de la Riviera, du Chablais et du Grand Lac du Léman.",
+      "dateDisplay": "2024-03-13 16:16:17",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "licenceTemplates": [
+        "{{self|cc-by-sa-4.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/045.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

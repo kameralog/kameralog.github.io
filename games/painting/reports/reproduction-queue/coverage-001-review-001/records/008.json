@@ -1,0 +1,115 @@
+{
+  "number": 8,
+  "queueKey": "alvar_cawen:3eb8578e64ac0962",
+  "artistId": "alvar_cawen",
+  "artistName": "Алвар Кавен",
+  "title": "Слепой",
+  "originalSource": "https://kunstimuuseum.ekm.ee/en/syndmus/the-dance-of-colours-finnish-modernist-art/",
+  "expectedInventory": "",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 11040177,
+      "fileTitle": "File:Alvar Cawén \"Pime\" (blind).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Alvar_Caw%C3%A9n_%22Pime%22_(blind).jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Alvar Cawén",
+      "objectTitle": "Blind",
+      "description": "",
+      "dateDisplay": "1926 date QS:P571,+1926-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1935}}"
+      ],
+      "creditDisplay": "Art Museum of Estonia's Digital Archive",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 461,
+      "decodedHeight": 720,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/008.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 5577523,
+      "fileTitle": "File:Blind accordion player.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Blind_accordion_player.jpg",
+      "mime": "image/jpeg",
+      "disposition": "identity_not_supported_by_these_fields",
+      "artistDisplay": "Tomascastelazo",
+      "objectTitle": "Blind accordion player",
+      "description": "Blind accordion player, Patzcuaro, Michoacán, México",
+      "dateDisplay": "2008-12-26",
+      "licenseShortName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "licenceTemplates": [
+        "{{self|cc-by-sa-3.0|GFDL}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 640,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/008.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 8146859,
+      "fileTitle": "File:Blind man carrying a paralysed man.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Blind_man_carrying_a_paralysed_man.jpg",
+      "mime": "image/jpeg",
+      "disposition": "identity_not_supported_by_these_fields",
+      "artistDisplay": "Tancrède Dumas",
+      "objectTitle": "Blind man carrying a paralysed man",
+      "description": "A blind man carrying a deformed man on his back in the Levant.",
+      "dateDisplay": "1889 date QS:P571,+1889-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1905}}"
+      ],
+      "creditDisplay": "This image is available from the United States Library of Congress 's Prints and Photographs division under the digital ID cph.3b41806 . This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing .",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/008.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

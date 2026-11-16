@@ -1,0 +1,148 @@
+{
+  "number": 20,
+  "queueKey": "amalia_lindegren:927b9b10904371b3",
+  "artistId": "amalia_lindegren",
+  "artistName": "Амалия Линдегрен",
+  "title": "Воскресный вечер в крестьянском доме в Даларне",
+  "originalSource": "https://collection.nationalmuseum.se/en/collection/item/17995/",
+  "expectedInventory": "NM 992",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 65340,
+      "fileTitle": "File:Söndagsafton i en dalastuga av Amalia Lindegren 1860.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalastuga_av_Amalia_Lindegren_1860.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Amalia Lindegren",
+      "objectTitle": "Sunday Evening in a Farmhouse in Dalecarlia label QS:Len,\"Sunday Evening in a Farmhouse in Dalecarlia\" label QS:Lru,\"Воскресный вечер в сельском доме\" label QS:Lsv,\"Söndagsafton i en dalstuga\"",
+      "description": "",
+      "dateDisplay": "1860 date QS:P571,+1860-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1891}}"
+      ],
+      "creditDisplay": "Amalia Lindegren",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 722,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/020.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 23189355,
+      "fileTitle": "File:Söndagsafton i en dalstuga utan ram.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalstuga_utan_ram.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Amalia Lindegren",
+      "objectTitle": "Sunday Evening in a Farmhouse in Dalecarlia label QS:Lsv,\"Söndagsafton i en dalstuga\" label QS:Len,\"Sunday Evening in a Farmhouse in Dalecarlia\"",
+      "description": "",
+      "dateDisplay": "1860 date QS:P571,+1860-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1891}}"
+      ],
+      "creditDisplay": "This file has been provided by the Nationalmuseum Stockholm from its digital collections. Any copyright resulting from the digitalisation are owned by the museum and releases these under Creative Commons CC0-license.",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/020.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 88718650,
+      "fileTitle": "File:Söndagsafton i en dalstuga x Amalia Lindegren.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalstuga_x_Amalia_Lindegren.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Amalia Lindegren",
+      "objectTitle": "Söndagsafton i en dalstuga x Amalia Lindegren",
+      "description": "Söndagsafton i en dalstuga skapad av Amalia Lindegren, avfotograferad bild från Allhems Svenskt konstnärslexikon.",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art-old-100}}"
+      ],
+      "creditDisplay": "Svenskt konstnärslexikon",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 720,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/020.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 93374653,
+      "fileTitle": "File:Detail. Sunday Evening in a Farmhouse in Dalecarlia, 1860, by Amalia Lindegren. Nationalmuseum, Stockholm, Sweden.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Detail._Sunday_Evening_in_a_Farmhouse_in_Dalecarlia,_1860,_by_Amalia_Lindegren._Nationalmuseum,_Stockholm,_Sweden.jpg",
+      "mime": "image/jpeg",
+      "disposition": "boundary_or_view_review_required",
+      "artistDisplay": "Amalia Lindegren",
+      "objectTitle": "Sunday Evening in a Farmhouse in Dalecarlia title QS:P1476,en:\"Sunday Evening in a Farmhouse in Dalecarlia \" label QS:Len,\"Sunday Evening in a Farmhouse in Dalecarlia \" label QS:Lru,\"Воскресный вечер в сельском доме\" label QS:Lsv,\"Söndagsafton i en dalstuga\"",
+      "description": "Detail. Sunday Evening in a Farmhouse in Dalecarlia, 1860, by Amalia Lindegren (1814-1891). Nationalmuseum, Stockholm, Sweden. Oil on canvas. NM 992. Transferred 1865 Kongl. Museum.",
+      "dateDisplay": "16 July 2019, 15:01:07",
+      "licenseShortName": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "licenceTemplates": [
+        "{{self|cc-by-sa-4.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": true,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/020.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

@@ -1,0 +1,47 @@
+{
+  "number": 29,
+  "queueKey": "anna_claypoole_peale:c76c1aef6ab224b1",
+  "artistId": "anna_claypoole_peale",
+  "artistName": "Анна Клейпул Пил",
+  "title": "Натюрморт с клубникой",
+  "originalSource": "https://nmwa.org/gallery-labels-rotunda-great-hall-mezzanine-and-stairwell-landings/",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [
+    {
+      "pageId": 95435961,
+      "fileTitle": "File:Miniature painters, British and foreign - with some account of those who practised in America in the eighteenth century (IA miniaturepainter02fost).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Miniature_painters,_British_and_foreign_-_with_some_account_of_those_who_practised_in_America_in_the_eighteenth_century_(IA_miniaturepainter02fost).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "Foster, J. J. (Joshua James), 1847-1923",
+      "objectTitle": "Miniature painters, British and foreign : with some account of those who practised in America in the eighteenth century",
+      "description": "\"210 copies of this book have been printed for sale, of which 10 are 'Edition royale,' 50 are 'Edition de luxe,' and the remainder are the 'Author's edition'\"--Half title verso Includes index Subjects: Miniature painters; Miniature painters; Miniature painting; Portrait miniatures, British; Portrait miniatures, American",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [],
+      "creditDisplay": "Internet Archive identifier: miniaturepainter02fost https://archive.org/download/miniaturepainter02fost/miniaturepainter02fost.pdf",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1340,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/029.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

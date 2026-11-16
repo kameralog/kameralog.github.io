@@ -1,0 +1,115 @@
+{
+  "number": 17,
+  "queueKey": "albert_edelfelt:87f1887842967b09",
+  "artistId": "albert_edelfelt",
+  "artistName": "Альберт Эдельфельт",
+  "title": "В Люксембургском саду в Париже",
+  "originalSource": "https://ateneum.fi/en/touring-exhibitions-archive/albert-edelfelt-2022/",
+  "expectedInventory": "A II 835",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 47993767,
+      "fileTitle": "File:Albert Edelfelt - The Luxembourg Gardens, Paris.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_The_Luxembourg_Gardens,_Paris.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Albert Edelfelt",
+      "objectTitle": "Finnish: Pariisin Luxembourgin puistossa The Luxembourg Gardens, Paris label QS:Lfi,\"Pariisin Luxembourgin puistossa\" label QS:Len,\"The Luxembourg Gardens, Paris\"",
+      "description": "Scene from a Parisian park with women and children.",
+      "dateDisplay": "1887 date QS:P571,+1887-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Licensed-PD-Art|PD-old-70-1923|Cc-by-4.0|deathyear=1905}}"
+      ],
+      "creditDisplay": "The Finnish National Gallery has created and shares this file from the Antell Collections collection. Photograph: Finnish National Gallery / Hannu Aaltonen.",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 718,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/017.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 29191420,
+      "fileTitle": "File:Albert Edelfelt - The Luxembourg Gardens, Paris - Google Art Project.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_The_Luxembourg_Gardens,_Paris_-_Google_Art_Project.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Albert Edelfelt",
+      "objectTitle": "Finnish: Pariisin Luxembourgin puistossa The Luxembourg Gardens, Paris title QS:P1476,fi:\"Pariisin Luxembourgin puistossa\" label QS:Lfi,\"Pariisin Luxembourgin puistossa\" label QS:Lsv,\"I Luxembourg-trädgården i Paris\" label QS:Len,\"The Luxembourg Gardens, Paris\"",
+      "description": "",
+      "dateDisplay": "1887 date QS:P571,+1887-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto|deathyear=1905}}"
+      ],
+      "creditDisplay": "bgFsVLs-01MzFw at Google Cultural Institute , zoom level maximum",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/017.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 4477352,
+      "fileTitle": "File:Edelfelt Luxembourg Garden 1887.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Edelfelt_Luxembourg_Garden_1887.JPG",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Albert Edelfelt",
+      "objectTitle": "Finnish: Pariisin Luxembourgin puistossa The Luxembourg Garden label QS:Lfi,\"Pariisin Luxembourgin puistossa\" label QS:Len,\"The Luxembourg Garden\" .",
+      "description": "",
+      "dateDisplay": "1887 date QS:P571,+1887-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-art|PD-old-100}}"
+      ],
+      "creditDisplay": "Torsten Stjernschantz: Suomen taidetta Ateneumin kokoelmissa. Vihko 8. (Black and white). Kustannusosakeyhtiö Kirja Helsinki 1908.",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 702,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/017.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

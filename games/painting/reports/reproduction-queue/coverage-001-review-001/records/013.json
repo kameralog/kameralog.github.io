@@ -1,0 +1,117 @@
+{
+  "number": 13,
+  "queueKey": "alice_bailly:49d3f4c140415fc0",
+  "artistId": "alice_bailly",
+  "artistName": "Алис Байи",
+  "title": "Автопортрет",
+  "originalSource": "https://nmwa.org/art/collection/self-portrait/",
+  "expectedInventory": "",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 69423446,
+      "fileTitle": "File:Alice Bailly, Autorretrato, 1927.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Alice_Bailly,_Autorretrato,_1927.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Alice Bailly",
+      "objectTitle": "Self-portrait label QS:Len,\"Self-portrait\" label QS:Lde,\"Selbstporträt\"",
+      "description": "Óleo sobre lienzo. 32 x 23 El Museo Nacional de Mujeres en las Artes",
+      "dateDisplay": "24 May 2018",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Licensed-PD-Art|PD-old-auto-expired|deathyear=1938|cc-by-sa-4.0}}"
+      ],
+      "creditDisplay": "http://poramoralarte-exposito.blogspot.com.es/2017/11/alice-bailly-18721938.html",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 732,
+      "decodedHeight": 1000,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/013.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 13468965,
+      "fileTitle": "File:Bailly Self Portrait.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bailly_Self_Portrait.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Alice Bailly",
+      "objectTitle": "Self-portrait label QS:Len,\"Self-portrait\"",
+      "description": "Self-Portrait (1917), Oil on canvas, 32 x 23 1/2 in. The National Museum of Women in the Arts",
+      "dateDisplay": "1917 date QS:P571,+1917-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Self-Portrait}}",
+        "{{PD-Art|PD-old-auto-expired|deathyear=1938}}"
+      ],
+      "creditDisplay": "Website of California State Polytechnic University Page: http://www.csupomona.edu/~plin/women2/bailly.html",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 431,
+      "decodedHeight": 600,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/013.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 141591367,
+      "fileTitle": "File:Self-Portrait (1917) - Alice Bailly (Kunstmuseum Bern).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Self-Portrait_(1917)_-_Alice_Bailly_(Kunstmuseum_Bern).jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Alice Bailly",
+      "objectTitle": "Self-portrait label QS:Len,\"Self-portrait\" label QS:Lde,\"Selbstporträt\"",
+      "description": "Self-Portrait from 1917 by Alice Bailly. In Kunstmuseum Bern. This file was derived from: Self-Portrait ,Alice Bailly, 1917.jpg",
+      "dateDisplay": "1 December 2023",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{self|cc-by-sa-4.0}}",
+        "{{PD-Art|PD-old-auto-expired|deathyear=1938}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/013.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

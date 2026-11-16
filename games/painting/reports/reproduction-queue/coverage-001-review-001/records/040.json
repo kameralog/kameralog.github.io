@@ -1,0 +1,15 @@
+{
+  "number": 40,
+  "queueKey": "antonin_chittussi:940049ed211c0a3d",
+  "artistId": "antonin_chittussi",
+  "artistName": "Антонин Хиттусси",
+  "title": "Из долины Доубравки. Сумеречный вид",
+  "originalSource": "https://ct24.ceskatelevize.cz/clanek/kultura/antonin-chittussi-z-udoli-doubravky-276088",
+  "expectedInventory": "O 4688 — требует прямой сверки",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

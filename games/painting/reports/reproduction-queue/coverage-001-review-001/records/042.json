@@ -1,0 +1,115 @@
+{
+  "number": 42,
+  "queueKey": "asta_norregaard:d06042cb30e018b6",
+  "artistId": "asta_norregaard",
+  "artistName": "Аста Нёррегор",
+  "title": "Автопортрет",
+  "originalSource": "https://www.nasjonalmuseet.no/en/collection/object/NMK.2008.0706",
+  "expectedInventory": "NMK.2008.0706",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 98009147,
+      "fileTitle": "File:Asta Nørregaard - Selvportrett - NMK.2008.0706 - National Museum of Art, Architecture and Design.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Asta Nørregaard",
+      "objectTitle": "Norwegian Bokmål: Selvportrett Selvportrett title QS:P1476,nb:\"Selvportrett \" label QS:Lnb,\"Selvportrett \" label QS:Len,\"Selvportrett\"",
+      "description": "",
+      "dateDisplay": "1911",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Licensed-PD-Art|PD-old-auto-expired|cc-by-4.0|deathyear=1933}}"
+      ],
+      "creditDisplay": "National Museum of Art, Architecture and Design",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1371,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/042.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 86437313,
+      "fileTitle": "File:Asta Nørregaard - Selvportrett - Nasjonalmuseet - NMK.2008.0706.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Asta_N%C3%B8rregaard_-_Selvportrett_-_Nasjonalmuseet_-_NMK.2008.0706.png",
+      "mime": "image/png",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Asta Nørregaard",
+      "objectTitle": "Norwegian Bokmål: Selvportrett Selvportrett title QS:P1476,nb:\"Selvportrett \" label QS:Lnb,\"Selvportrett \" label QS:Len,\"Selvportrett\"",
+      "description": "",
+      "dateDisplay": "1911",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1933}}"
+      ],
+      "creditDisplay": "Norsk kunstnerleksikon",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/042.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 67830391,
+      "fileTitle": "File:Nørregaard Asta Selvportrett 1890.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:N%C3%B8rregaard_Asta_Selvportrett_1890.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Asta Nørregaard",
+      "objectTitle": "Norwegian Bokmål: Selvportrett Self-portrait title QS:P1476,nb:\"Selvportrett \" label QS:Lnb,\"Selvportrett \" label QS:Len,\"Self-portrait\" label QS:Lfr,\"Autoportrait\"",
+      "description": "Художница Аста Нёррегор (1853-1933). Авторпотрет, 1890",
+      "dateDisplay": "1890",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-70}}"
+      ],
+      "creditDisplay": "Oslo Museum : accession number OB.00057",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 639,
+      "decodedHeight": 886,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/042.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

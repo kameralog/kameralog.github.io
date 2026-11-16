@@ -1,0 +1,113 @@
+{
+  "number": 33,
+  "queueKey": "henriette_browne:26d7beac4ea5aa6b",
+  "artistId": "henriette_browne",
+  "artistName": "Анриетта Браун",
+  "title": "Монахиня",
+  "originalSource": "https://commons.wikimedia.org/wiki/Paintings_in_the_Walker_Art_Gallery,_Liverpool",
+  "expectedInventory": "",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 15000636,
+      "fileTitle": "File:La Religieuse-Henriette Browne.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:La_Religieuse-Henriette_Browne.png",
+      "mime": "image/png",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Henriette Browne",
+      "objectTitle": "La Religieuse ( A Nun )",
+      "description": "",
+      "dateDisplay": "1859 date QS:P571,+1859-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-100-expired}}"
+      ],
+      "creditDisplay": "[1]",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1167,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/033.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 472199,
+      "fileTitle": "File:Henriette Browne Nuns.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Henriette_Browne_Nuns.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Henriette Browne",
+      "objectTitle": "The Couvent Dispensary or Nuns at Work in the Cloister",
+      "description": "Exhibited at the Salon of Paris in 1859 with the title La pharmacie, intérieur (# 436 of the exhibition catalog)",
+      "dateDisplay": "1859",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1901}}"
+      ],
+      "creditDisplay": "[1]",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 597,
+      "decodedHeight": 627,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/033.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 94851195,
+      "fileTitle": "File:Albert de La Fizelière - A-Z ou Le salon en miniature, 1861 (IA azoulesalonenmin00lafi).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Albert_de_La_Fizeli%C3%A8re_-_A-Z_ou_Le_salon_en_miniature,_1861_(IA_azoulesalonenmin00lafi).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "La Fizelière, Albert de, 1819-1878",
+      "objectTitle": "A-Z; ou, Le salon en miniature",
+      "description": "Subjects: Société des artistes français. Salon (1861 : Paris, France); Art",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [],
+      "creditDisplay": "Internet Archive identifier: azoulesalonenmin00lafi https://archive.org/download/azoulesalonenmin00lafi/azoulesalonenmin00lafi.pdf",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/033.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

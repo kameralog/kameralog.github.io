@@ -1,0 +1,15 @@
+{
+  "number": 11,
+  "queueKey": "alexandre_perrier:6ff177053443c6ce",
+  "artistId": "alexandre_perrier",
+  "artistName": "Александр Перье",
+  "title": "Праз-де-Лис. Оттепель",
+  "originalSource": "https://www.mahmah.ch/collection/oeuvres/praz-de-lys-degel/1996-0034",
+  "expectedInventory": "1996-0034",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

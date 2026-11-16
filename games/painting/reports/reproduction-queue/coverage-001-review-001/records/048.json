@@ -1,0 +1,80 @@
+{
+  "number": 48,
+  "queueKey": "barbara_longhi:560b3f0c136727fe",
+  "artistId": "barbara_longhi",
+  "artistName": "Барбара Лонги",
+  "title": "Мадонна с Младенцем, венчающим монахиню",
+  "originalSource": "https://collections.louvre.fr/en/ark:/53355/cl010064975",
+  "expectedInventory": "MI 614",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 15483137,
+      "fileTitle": "File:Virgin and Child with Saint, Barbara Longhi.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Virgin_and_Child_with_Saint,_Barbara_Longhi.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Barbara Longhi",
+      "objectTitle": "Virgin and Child label QS:Lit,\"Madonna col Bambino\" label QS:Lhu,\"Szűz Mária és a kis Jézus\" label QS:Lcy,\"Y Forwyn a'r Plentyn\" label QS:Lpt,\"A Virgem com o Menino\" label QS:Lro,\"Fecioara cu Pruncul\" label QS:Lja,\"聖母子\" label QS:Lpl,\"Madonna z Dzieciątkiem\" label QS:Lhe,\"הבתולה והילד\" label QS:Lnl,\"Maria met kind\" label QS:Les,\"La virgen y el Niño\" label QS:Lfr,\"Vierge à l'Enfant\" label QS:Lsl,\"Devica Marija z otrokom\" label QS:Len,\"Virgin and Child\" label QS:Leo,\"Dipatrino kun Infano\" label QS:",
+      "description": "Joconde database : entry 000PE025618",
+      "dateDisplay": "circa 1590 date QS:P571,+1590-95-00T00:00:00Z/10,P1480,Q5727902",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-old-100}}"
+      ],
+      "creditDisplay": "http://www.culture.gouv.fr/public/mistral/joconde_fr?ACTION=CHERCHER&FIELD_1=AUTR&VALUE_1=LONGHI%20Barbara&DOM=All&REL_SPECIFIC=1&IMAGE_ONLY=CHECKED",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 389,
+      "decodedHeight": 463,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/048.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 94878290,
+      "fileTitle": "File:Catalogo della Pinacoteca Scarpa di Motta di Livenza (IA catalogodellapin00impr).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Catalogo_della_Pinacoteca_Scarpa_di_Motta_di_Livenza_(IA_catalogodellapin00impr).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "Impresa di vendite in Italia di Giulio Sambon",
+      "objectTitle": "Catalogo della Pinacoteca Scarpa di Motta di Livenza : quadri dei più celebri autori italiani ... : di cui la vendita al pubblico incanto avrà luogo in Milano ... 14 novembre 1895 e giorno seguente ..",
+      "description": "Library's copy 2 annotated by Ellis Waterhouse with some prices and numerous other notes. Copy 2 lacks cover Sale code: 4 At head of title on cover: Anno XVIII. 1895. N. 4 Lugt Date of sale: November 14, 1895, and following days Place of sale: Milan Subjects: Scarpa, Antonio, 1752-1832; Pinacoteca Scarpa; Painting, Italian; Painting, Italian; Painting; Pinacoteca Scarpa",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [],
+      "creditDisplay": "Internet Archive identifier: catalogodellapin00impr https://archive.org/download/catalogodellapin00impr/catalogodellapin00impr.pdf",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1315,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/048.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

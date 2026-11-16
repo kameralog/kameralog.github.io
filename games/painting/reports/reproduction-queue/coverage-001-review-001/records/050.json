@@ -1,0 +1,115 @@
+{
+  "number": 50,
+  "queueKey": "bela_ivanyi_grunwald:a8879c63771dfc51",
+  "artistId": "bela_ivanyi_grunwald",
+  "artistName": "Бела Иваньи-Грюнвальд",
+  "title": "Сушка белья",
+  "originalSource": "https://en.mng.hu/artworks/54204/",
+  "expectedInventory": "2480",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 12520635,
+      "fileTitle": "File:Drying Clothes Grunwald.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Drying_Clothes_Grunwald.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Béla Iványi-Grünwald",
+      "objectTitle": "Drying Clothes",
+      "description": "",
+      "dateDisplay": "1903 date QS:P571,+1903-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1940}}"
+      ],
+      "creditDisplay": "Fine Arts in Hungary:",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 635,
+      "decodedHeight": 800,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/050.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 197368058,
+      "fileTitle": "File:Béla IVÁNYI GRÜNWALD - Ruhaszárítás.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:B%C3%A9la_IV%C3%81NYI_GR%C3%9CNWALD_-_Ruhasz%C3%A1r%C3%ADt%C3%A1s.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Derbrauni",
+      "objectTitle": "Béla IVÁNYI GRÜNWALD - Ruhaszárítás",
+      "description": "Béla IVÁNYI GRÜNWALD: Ruhaszárítás | Drying Clothes, 1903. At the Hungarian National Gallery, Budapest.",
+      "dateDisplay": "2025-07-15 14:04:32",
+      "licenseShortName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+      "licenceTemplates": [
+        "{{self|cc-by-4.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1190,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/050.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 73722486,
+      "fileTitle": "File:Drying Clothes (152623937).jpeg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Drying_Clothes_(152623937).jpeg",
+      "mime": "image/jpeg",
+      "disposition": "identity_not_supported_by_these_fields",
+      "artistDisplay": "Jigar Patel",
+      "objectTitle": "Drying Clothes",
+      "description": "500px provided description: Taken while on a gondola ride [#Green ,#Color ,#Venice ,#Plants ,#Colorful ,#Gondola ,#Clothes ,#Color image ,#Drying]",
+      "dateDisplay": "before 7 May 2016, 00:32:12 (UTC)",
+      "licenseShortName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "licenceTemplates": [
+        "{{Cc-by-3.0}}"
+      ],
+      "creditDisplay": "Imported from 500px ( archived version ) by the Archive Team . ( detail page )",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/050.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

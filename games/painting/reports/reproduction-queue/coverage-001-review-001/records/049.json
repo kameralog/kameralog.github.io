@@ -1,0 +1,51 @@
+{
+  "number": 49,
+  "queueKey": "barthelemy_menn:866b7e44e5f57a1d",
+  "artistId": "barthelemy_menn",
+  "artistName": "Бартелеми Менн",
+  "title": "Автопортрет в соломенной шляпе",
+  "originalSource": "https://www.mahmah.ch/collection/oeuvres/autoportrait-au-chapeau-de-paille/1894-0012",
+  "expectedInventory": "1894-0012",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 155544,
+      "fileTitle": "File:Barthélemy Menn 002.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Barth%C3%A9lemy_Menn_002.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Barthélemy Menn",
+      "objectTitle": "Self-portrait",
+      "description": "",
+      "dateDisplay": "mid 19 th century date QS:P571,+1850-00-00T00:00:00Z/7",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{self-portrait}}",
+        "{{PD-old-100}}",
+        "{{PD-Art-YorckProject}}"
+      ],
+      "creditDisplay": "The Yorck Project (2002) 10.000 Meisterwerke der Malerei (DVD-ROM), distributed by DIRECTMEDIA Publishing GmbH. ISBN : 3936122202 .",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 703,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/049.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

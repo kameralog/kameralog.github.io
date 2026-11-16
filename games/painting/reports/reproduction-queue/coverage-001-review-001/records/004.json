@@ -1,0 +1,113 @@
+{
+  "number": 4,
+  "queueKey": "adolf_von_becker:381d5c6e91547ea0",
+  "artistId": "adolf_von_becker",
+  "artistName": "Адольф фон Беккер",
+  "title": "Пишущая девочка",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/1909604",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [
+    {
+      "pageId": 194979609,
+      "fileTitle": "File:A biographical dictionary of fiddlers, including performers on the violoncello and double bass ... Containing a sketch of their artistic career. Together with notes of t (IA biographicaldict00claruoft).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:A_biographical_dictionary_of_fiddlers,_including_performers_on_the_violoncello_and_double_bass_..._Containing_a_sketch_of_their_artistic_career._Together_with_notes_of_t_(IA_biographicaldict00claruoft).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "Clarke, A. Mason",
+      "objectTitle": "A biographical dictionary of fiddlers, including performers on the violoncello and double bass ... Containing a sketch of their artistic career. Together with notes of their compositions",
+      "description": "22 Subjects: Violinists, violoncellists, etc",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-old-100-expired}}"
+      ],
+      "creditDisplay": "Internet Archive identifier: biographicaldict00claruoft https://archive.org/download/biographicaldict00claruoft/biographicaldict00claruoft.pdf IA contributor: Music - University of Toronto IA digitizing sponsor: MSN",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 500,
+      "decodedHeight": 824,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/004.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 95595819,
+      "fileTitle": "File:Kleist and Hebbel, a comparative study ; the novels (IA kleisthebbelcomp00beckrich).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kleist_and_Hebbel,_a_comparative_study_;_the_novels_(IA_kleisthebbelcomp00beckrich).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "Becker, Henrietta Katherine",
+      "objectTitle": "Kleist and Hebbel, a comparative study ; the novels",
+      "description": "Thesis (Ph.D.)--University of Chicago \"Books and articles quoted\" : p. 69-71 Subjects: Kleist, Heinrich von, 1777-1811; Hebbel, Friedrich, 1813-1863",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [],
+      "creditDisplay": "Internet Archive identifier: kleisthebbelcomp00beckrich https://archive.org/download/kleisthebbelcomp00beckrich/kleisthebbelcomp00beckrich.pdf",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 500,
+      "decodedHeight": 792,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/004.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 97775407,
+      "fileTitle": "File:Henry Wadsworth Longfellow. - A medley in prose and verse. (IA cu31924022036473).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Henry_Wadsworth_Longfellow._-_A_medley_in_prose_and_verse._(IA_cu31924022036473).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "Stoddard, Richard Henry, 1825-1903 Longfellow, Henry Wadsworth, 1807-1882. Selections. 1882",
+      "objectTitle": "Henry Wadsworth Longfellow. : A medley in prose and verse.",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. Includes various editorials, letters, and memorial addresses: p. 171-240 Includes bibliography of Longfellow: p. vii-xiv From verso of t.p. : H.J. Hewitt, Printer, ... New York Subjects: Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Longfellow, Henry Wadsworth, 1807-1882; Authors, American",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-old-100-expired}}"
+      ],
+      "creditDisplay": "Internet Archive identifier: cu31924022036473 https://archive.org/download/cu31924022036473/cu31924022036473.pdf",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/004.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

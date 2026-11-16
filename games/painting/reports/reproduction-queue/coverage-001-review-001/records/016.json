@@ -1,0 +1,15 @@
+{
+  "number": 16,
+  "queueKey": "albert_paris_gutersloh:7e2422bf71259854",
+  "artistId": "albert_paris_gutersloh",
+  "artistName": "Альберт Парис Гютерсло",
+  "title": "Натюрморт со стулом",
+  "originalSource": "https://onlinecollection.leopoldmuseum.org/objekt/158-stillleben-mit-sessel/",
+  "expectedInventory": "83",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

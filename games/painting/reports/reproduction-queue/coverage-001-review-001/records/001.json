@@ -1,0 +1,115 @@
+{
+  "number": 1,
+  "queueKey": "agostino_melissi:6cc834970c33d751",
+  "artistId": "agostino_melissi",
+  "artistName": "Агостино Мелисси",
+  "title": "Сусанна и старцы",
+  "originalSource": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+  "expectedInventory": "",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 38618999,
+      "fileTitle": "File:Agostino melissi, annuncio (susanna e i vecchioni), 1640 ca.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Agostino_melissi,_annuncio_(susanna_e_i_vecchioni),_1640_ca.JPG",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Sailko",
+      "objectTitle": "Agostino melissi, annuncio (susanna e i vecchioni), 1640 ca",
+      "description": "",
+      "dateDisplay": "2013-12-13 12:58:38",
+      "licenseShortName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "licenceTemplates": [
+        "{{self|cc-by-3.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 988,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/001.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 139571567,
+      "fileTitle": "File:Agostino melissi, susanna e i vecchioni, 1646, (seminario) 02.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Agostino_melissi,_susanna_e_i_vecchioni,_1646,_(seminario)_02.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Sailko",
+      "objectTitle": "Agostino melissi, susanna e i vecchioni, 1646, (seminario) 02",
+      "description": "\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)",
+      "dateDisplay": "2015-10-22 11:45:48",
+      "licenseShortName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "licenceTemplates": [
+        "{{self|cc-by-3.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 706,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/001.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 139571568,
+      "fileTitle": "File:Agostino melissi, susanna e i vecchioni, 1646, (seminario) 03.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Agostino_melissi,_susanna_e_i_vecchioni,_1646,_(seminario)_03.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Sailko",
+      "objectTitle": "Agostino melissi, susanna e i vecchioni, 1646, (seminario) 03",
+      "description": "\"Il rigore e la grazia. La Compagnia di San Benedetto Bianco nel Seicento fiorentino\" (2014-2015 exhibition)",
+      "dateDisplay": "2015-10-22 11:46:17",
+      "licenseShortName": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "licenceTemplates": [
+        "{{self|cc-by-3.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/001.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

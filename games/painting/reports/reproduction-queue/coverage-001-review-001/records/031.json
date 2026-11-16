@@ -1,0 +1,116 @@
+{
+  "number": 31,
+  "queueKey": "anna_rosina_de_gasc:752486c27d4488e4",
+  "artistId": "anna_rosina_de_gasc",
+  "artistName": "Анна Розина де Гаск",
+  "title": "Автопортрет",
+  "originalSource": "https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum/sammlung/abteilungen/gemaeldesammlung-alte-meister",
+  "expectedInventory": "",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 73837889,
+      "fileTitle": "File:Gasc Selbstbildnis@Herzog Anton Ulrich Museum.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gasc_Selbstbildnis@Herzog_Anton_Ulrich_Museum.JPG",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna Rosina de Gasc",
+      "objectTitle": "Self-portrait",
+      "description": "",
+      "dateDisplay": "1767 date QS:P571,+1767-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Self-portrait}}",
+        "{{PD-art|PD-old-auto-1923|deathyear=1783}}"
+      ],
+      "creditDisplay": "Photographer and uploader was Hajotthu at de.wikipedia",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1245,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/031.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 8949102,
+      "fileTitle": "File:Anna Rosina Lisiewska.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anna_Rosina_Lisiewska.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna Rosina de Gasc",
+      "objectTitle": "German: Selbstbildnis Self-portrait title QS:P1476,de:\"Selbstbildnis \" label QS:Lde,\"Selbstbildnis \" label QS:Les,\"Autorretrato\" label QS:Lhu,\"Önarckép\" label QS:Lnds,\"Sülvstporträt\" label QS:Lcy,\"Hunanbortread\" label QS:Lga,\"féinphortráid\" label QS:Lhy,\"Ինքնապատկեր\" label QS:Lzh,\"自画像\" label QS:Lda,\"Selvportræt\" label QS:Lro,\"Autoportret\" label QS:Lja,\"自画像\" label QS:Lsk,\"Autoportrét\" label QS:Lhe,\"דיוקן עצמי\" label QS:Lla,\"Effigies sui ipsius\" label QS:Lfi,\"Omakuva\" label QS:Lkk,\"Автопортрет\" la",
+      "description": "",
+      "dateDisplay": "1782",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1783}}"
+      ],
+      "creditDisplay": "( Original text: http://www.deutschefotothek.de/per70003009.html ) Original uploader was Thyra at de.wikipedia ; transferred to Commons by User:Septembermorgen using CommonsHelper .",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 500,
+      "decodedHeight": 672,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/031.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 50819217,
+      "fileTitle": "File:Lisiewska (de Gasc) Selbstbildnis@Nieders. Landesmuseum20160811.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lisiewska_(de_Gasc)_Selbstbildnis@Nieders._Landesmuseum20160811.JPG",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Anna Rosina de Gasc",
+      "objectTitle": "German: Selbstbildnis Self-portrait title QS:P1476,de:\"Selbstbildnis \" label QS:Lde,\"Selbstbildnis \" label QS:Les,\"Autorretrato\" label QS:Lhu,\"Önarckép\" label QS:Lnds,\"Sülvstporträt\" label QS:Lcy,\"Hunanbortread\" label QS:Lga,\"féinphortráid\" label QS:Lhy,\"Ինքնապատկեր\" label QS:Lzh,\"自画像\" label QS:Lda,\"Selvportræt\" label QS:Lro,\"Autoportret\" label QS:Lja,\"自画像\" label QS:Lsk,\"Autoportrét\" label QS:Lhe,\"דיוקן עצמי\" label QS:Lla,\"Effigies sui ipsius\" label QS:Lfi,\"Omakuva\" label QS:Lkk,\"Автопортрет\" la",
+      "description": "",
+      "dateDisplay": "1782",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-art|PD-old-auto-1923|deathyear=1783}}"
+      ],
+      "creditDisplay": "photographer and uploader was Hajotthu at de.wikipedia",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/031.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

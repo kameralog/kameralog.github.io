@@ -1,0 +1,15 @@
+{
+  "number": 19,
+  "queueKey": "alhed_larsen:6972c6fb73c87f81",
+  "artistId": "alhed_larsen",
+  "artistName": "Альхед Ларсен",
+  "title": "Цветы в солнечном окне",
+  "originalSource": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

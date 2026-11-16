@@ -1,0 +1,15 @@
+{
+  "number": 36,
+  "queueKey": "anton_kolig:41428b4fa5a868eb",
+  "artistId": "anton_kolig",
+  "artistName": "Антон Колиг",
+  "title": "Натюрморт с черепахой",
+  "originalSource": "https://onlinecollection.leopoldmuseum.org/objekt/268-stillleben-mit-schildkrote/",
+  "expectedInventory": "194",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

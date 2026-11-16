@@ -1,0 +1,113 @@
+{
+  "number": 43,
+  "queueKey": "astrid_holm:a18fc6b5cbfd9fad",
+  "artistId": "astrid_holm",
+  "artistName": "Астрид Хольм",
+  "title": "Роуз накрывает на стол",
+  "originalSource": "https://www.diva-portal.org/smash/get/diva2:1398527/FULLTEXT01.pdf",
+  "expectedInventory": "KMS8558",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 46660591,
+      "fileTitle": "File:Rose dækker bord.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Rose_d%C3%A6kker_bord.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Astrid Holm",
+      "objectTitle": "Danish: Rose dækker bord Rose Laying the Table title QS:P1476,da:\"Rose dækker bord \" label QS:Lda,\"Rose dækker bord \" label QS:Lca,\"Rose parant la taula\" label QS:Len,\"Rose Laying the Table\" label QS:Lnl,\"Rose dækker bord\"",
+      "description": "Rose Laying the Table by Astrid Holm, 1914, oil on canvas, 97.7 x 79 cm., National Gallery of Denmark",
+      "dateDisplay": "1914",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto|deathyear=1937}}"
+      ],
+      "creditDisplay": "http://www.smk.dk/udforsk-kunsten/soeg-i-smk/#/detail/KMS8558",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1195,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/043.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 145270834,
+      "fileTitle": "File:Astrid Holm, Rose dækker bord, 1914, KMS8558, Statens Museum for Kunst.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Astrid_Holm,_Rose_d%C3%A6kker_bord,_1914,_KMS8558,_Statens_Museum_for_Kunst.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Astrid Holm",
+      "objectTitle": "Rose dækker bord",
+      "description": "Rose dækker bord",
+      "dateDisplay": "1914 date QS:P571,+1914-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{Licensed-PD-Art|PD-old-auto-expired|deathyear=1937|Cc-zero}}"
+      ],
+      "creditDisplay": "image",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 1195,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": true,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/043.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 95585512,
+      "fileTitle": "File:Joy; a play on the letter \"I\" in three acts (IA joyplayonletteri00gals).pdf",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Joy;_a_play_on_the_letter_%22I%22_in_three_acts_(IA_joyplayonletteri00gals).pdf",
+      "mime": "application/pdf",
+      "disposition": "document_or_nonimage_reference_only",
+      "artistDisplay": "Galsworthy, John, 1867-1933",
+      "objectTitle": "Joy; a play on the letter \"I\" in three acts",
+      "description": "Subjects:",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [],
+      "creditDisplay": "Internet Archive identifier: joyplayonletteri00gals https://archive.org/download/joyplayonletteri00gals/joyplayonletteri00gals.pdf",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/043.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

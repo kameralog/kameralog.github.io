@@ -1,0 +1,15 @@
+{
+  "number": 46,
+  "queueKey": "bagta:9875530a91a8887f",
+  "artistId": "bagta",
+  "artistName": "Багта",
+  "title": "Рават Гокул Дас у Сингх-Сагара",
+  "originalSource": "https://www.metmuseum.org/art/collection/search/76037",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

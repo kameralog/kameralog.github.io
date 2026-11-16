@@ -1,0 +1,115 @@
+{
+  "number": 39,
+  "queueKey": "antonin_slavicek:05226b127426b457",
+  "artistId": "antonin_slavicek",
+  "artistName": "Антонин Славичек",
+  "title": "У нас в Каменичках",
+  "originalSource": "https://pardubice.rozhlas.cz/u-nas-v-kamenickach-6036834",
+  "expectedInventory": "",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 3686869,
+      "fileTitle": "File:Antonin Slavicek - U nas v Kamenickach (1904).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Antonin_Slavicek_-_U_nas_v_Kamenickach_(1904).jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Antonín Slavíček",
+      "objectTitle": "Antonin Slavicek - U nas v Kamenickach (1904)",
+      "description": "U nás v Kameničkách (1904), olej, plátno, 166 x 192 cm",
+      "dateDisplay": "",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-old-100}}"
+      ],
+      "creditDisplay": "Gallery",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 763,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/039.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 151973337,
+      "fileTitle": "File:Antonín Slavíček - At Kameničky - O 17427 - National Gallery Prague.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Antonín Slavíček",
+      "objectTitle": "At Kameničky title QS:P1476,en:\"At Kameničky \" label QS:Len,\"At Kameničky \" label QS:Lcs,\"U nás v Kameničkách\"",
+      "description": "",
+      "dateDisplay": "1904",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1910}}"
+      ],
+      "creditDisplay": "National Gallery Prague",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 800,
+      "decodedHeight": 688,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": false
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/039.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    },
+    {
+      "pageId": 27457480,
+      "fileTitle": "File:Kameničky, škola.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Kameni%C4%8Dky,_%C5%A1kola.JPG",
+      "mime": "image/jpeg",
+      "disposition": "identity_not_supported_by_these_fields",
+      "artistDisplay": "Ondrej.konicek",
+      "objectTitle": "Kameničky, škola",
+      "description": "Elementary school in Kameničky",
+      "dateDisplay": "2013-07-25 16:42:29",
+      "licenseShortName": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "licenceTemplates": [
+        "{{self|cc-by-sa-3.0}}"
+      ],
+      "creditDisplay": "Own work",
+      "deliveryStatus": "not_checked",
+      "decodedWidth": null,
+      "decodedHeight": null,
+      "signals": {
+        "artistNameInArtistField": false,
+        "artistNameInTitleOrDescription": false,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": false,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/039.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

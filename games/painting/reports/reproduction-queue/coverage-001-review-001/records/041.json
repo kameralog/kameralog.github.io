@@ -1,0 +1,15 @@
+{
+  "number": 41,
+  "queueKey": "arvid_liljelund:0475b01a33c808a2",
+  "artistId": "arvid_liljelund",
+  "artistName": "Арвид Лильелунд",
+  "title": "Покупка народных костюмов в Сякюля",
+  "originalSource": "https://kokoelma.kansallisgalleria.fi/en/object/615817",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

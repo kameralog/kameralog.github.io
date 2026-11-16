@@ -1,0 +1,15 @@
+{
+  "number": 37,
+  "queueKey": "anton_mahringer:d8d1572ba15a064f",
+  "artistId": "anton_mahringer",
+  "artistName": "Антон Марингер",
+  "title": "Синий пейзаж",
+  "originalSource": "https://www.leopoldmuseum.org/de/presse/news/1366/Leopold-Museum-Wertvolle-Schenkung-aus-bedeutender-oesterreichischer-Privatsammlung",
+  "expectedInventory": "",
+  "status": "needs_targeted_search",
+  "candidates": [],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}

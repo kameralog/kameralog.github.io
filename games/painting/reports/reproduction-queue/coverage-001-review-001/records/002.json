@@ -1,0 +1,49 @@
+{
+  "number": 2,
+  "queueKey": "adele_kindt:be1bb69a42ca9757",
+  "artistId": "adele_kindt",
+  "artistName": "Адель Киндт",
+  "title": "Аллегория революции 1830 года",
+  "originalSource": "https://collections.heritage.brussels/fr/objects/46644",
+  "expectedInventory": "K.1939.1",
+  "status": "metadata_candidates_need_final_review",
+  "candidates": [
+    {
+      "pageId": 1743688,
+      "fileTitle": "File:Adele Kindt Episode La révolution de 1830 (1830).jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_(1830).jpg",
+      "mime": "image/jpeg",
+      "disposition": "supporting_metadata_final_review_required",
+      "artistDisplay": "Adèle Kindt",
+      "objectTitle": "French: La révolution de 1830 title QS:P1476,fr:\"La révolution de 1830\" label QS:Lfr,\"La révolution de 1830\"",
+      "description": "",
+      "dateDisplay": "1830 date QS:P571,+1830-00-00T00:00:00Z/9",
+      "licenseShortName": "Public domain",
+      "licenseURL": "",
+      "licenceTemplates": [
+        "{{PD-Art|PD-old-auto-expired|deathyear=1884}}"
+      ],
+      "creditDisplay": "[1]",
+      "deliveryStatus": "downloaded_and_decoded_with_pillow",
+      "decodedWidth": 960,
+      "decodedHeight": 778,
+      "signals": {
+        "artistNameInArtistField": true,
+        "artistNameInTitleOrDescription": true,
+        "inventoryTextMatch": false,
+        "museumSourceURLMatch": true,
+        "boundaryOrDetailFlag": false,
+        "authorshipCaution": false,
+        "dateDifferenceNeedsRoleReview": true
+      },
+      "fullEvidenceFile": "games/painting/reports/reproduction-queue/coverage-001-search-001/records/002.json",
+      "identityVerified": false,
+      "licenceFinallyVerified": false,
+      "readyToBind": false
+    }
+  ],
+  "readyToBind": false,
+  "browserReviewPerformed": false,
+  "fullVisualReview": false,
+  "reviewScope": "Автоматическая сортировка сигналов метаданных; отдельная проверка источника для №3 и отклонение трёх посторонних файлов №45 выполнены ассистентом."
+}
