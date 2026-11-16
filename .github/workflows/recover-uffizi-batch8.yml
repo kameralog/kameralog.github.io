@@ -1,0 +1,71 @@
+name: Recover wiki batch eight with corrected counts
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/recover-uffizi-batch8.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  recover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run pinned batch-eight script with four exact corrections
+        run: |
+          set -euo pipefail
+          python3 <<'PY'
+          import hashlib
+          import pathlib
+          import re
+          import subprocess
+          root = pathlib.Path.cwd()
+          source = root / '.github/workflows/publish-uffizi-batch8.yml'
+          raw = source.read_bytes()
+          actual = hashlib.sha1(b'blob ' + str(len(raw)).encode() + b'\0' + raw).hexdigest()
+          assert actual == '4db3bb7708178d75b2c0e012334df2987f229701', 'Original workflow changed; review again'
+          assert not (root / 'games/painting/reports/wiki-batches/batch-008.json').exists(), 'Batch-eight report already exists; do not duplicate'
+          text = raw.decode('utf-8')
+          changes = [
+              ('assert.equal(groups.size,20)', 'assert.equal(groups.size,19)'),
+              ('assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,21)', 'assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,20)'),
+              ('artistPages:21,sourceFiles:20', 'artistPages:20,sourceFiles:19'),
+              ('artists-batch-{15,17,19,29,36,37,51,52,59,64,87,88,95,100,101,103,106,107,109,111}.js', 'artists-batch-{15,17,19,29,36,37,51,52,59,87,88,95,100,101,103,106,107,109,111}.js'),
+          ]
+          for old, new in changes:
+              assert text.count(old) == 1, 'Unexpected correction target: ' + old
+              text = text.replace(old, new, 1)
+          chunks = re.split(r'(?m)^      - name: ', text)[1:]
+          expected_names = [
+              'Apply reviewed eighth batch and preserve existing data',
+              'Commit catalogue and report and request Pages build',
+              'Verify published catalogue and record result',
+          ]
+          assert [chunk.splitlines()[0] for chunk in chunks] == expected_names, 'Unexpected step layout'
+          scripts = []
+          for chunk in chunks:
+              assert chunk.count('        run: |\n') == 1
+              metadata, body = chunk.split('        run: |\n', 1)
+              lines = body.splitlines()
+              assert all(not line.strip() or line.startswith('          ') for line in lines), 'Unexpected run-block indentation'
+              command = '\n'.join(line[10:] if line else '' for line in lines) + '\n'
+              directory = root / 'games/painting' if '        working-directory: games/painting\n' in metadata else root
+              scripts.append((chunk.splitlines()[0], directory, command))
+          for name, directory, command in scripts:
+              print('::group::' + name, flush=True)
+              subprocess.run(['bash', '-e', '-o', 'pipefail', '-c', command], cwd=directory, check=True)
+              print('::endgroup::', flush=True)
+          assert source.read_bytes() == raw, 'Original workflow must remain unchanged'
+          PY
