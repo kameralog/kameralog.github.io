@@ -7,7 +7,7 @@
     350
   ],
   "checkedDate": "2026-11-16",
-  "status": "connected_publication_pending",
+  "status": "published_catalogue_verified_rendered_pages_pending",
   "total": 50,
   "foundReproductions": 50,
   "browserImagesDecoded": 50,
@@ -19,7 +19,7 @@
   "deferredConfirmed": 2,
   "artistPages": 11,
   "sourceFiles": 10,
-  "liveArtistsJsMatchesMain": false,
+  "liveArtistsJsMatchesMain": true,
   "renderedPagesVerified": false,
   "fullVisualReview": false,
   "gameQuestionsChanged": false,
@@ -461,7 +461,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=lorenzo_lotto",
       "work": {
         "key": "wiki-uffizi-batch7:Q649875",
@@ -503,7 +503,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=nicolas_de_largilliere",
       "work": {
         "key": "wiki-uffizi-batch7:Q114241481",
@@ -545,7 +545,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=jacob_van_ruisdael",
       "work": {
         "key": "wiki-uffizi-batch7:Q20819833",
@@ -587,7 +587,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=jacob_van_ruisdael",
       "work": {
         "key": "wiki-uffizi-batch7:Q20890597",
@@ -629,7 +629,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=giotto",
       "work": {
         "key": "wiki-uffizi-batch7:Q2016193",
@@ -671,7 +671,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=giorgio_vasari",
       "work": {
         "key": "wiki-uffizi-batch7:Q12118453",
@@ -713,7 +713,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=giorgio_vasari",
       "work": {
         "key": "wiki-uffizi-batch7:Q125022698",
@@ -755,7 +755,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=giorgio_vasari",
       "work": {
         "key": "wiki-uffizi-batch7:Q131449675",
@@ -798,7 +798,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=giorgio_vasari",
       "work": {
         "key": "wiki-uffizi-batch7:Q15974337",
@@ -840,7 +840,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=giorgio_vasari",
       "work": {
         "key": "wiki-uffizi-batch7:Q16670765",
@@ -882,7 +882,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=giorgio_vasari",
       "work": {
         "key": "wiki-uffizi-batch7:Q17354853",
@@ -924,7 +924,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q30117227",
@@ -966,7 +966,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q51155321",
@@ -1008,7 +1008,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q51211435",
@@ -1050,7 +1050,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q51212939",
@@ -1092,7 +1092,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q51214161",
@@ -1134,7 +1134,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q51214997",
@@ -1176,7 +1176,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q51215792",
@@ -1218,7 +1218,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=frans_van_mieris_the_elder",
       "work": {
         "key": "wiki-uffizi-batch7:Q51265867",
@@ -1283,7 +1283,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q131561181",
@@ -1325,7 +1325,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q131561182",
@@ -1367,7 +1367,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q131561183",
@@ -1409,7 +1409,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q131561184",
@@ -1451,7 +1451,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q131561185",
@@ -1493,7 +1493,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q131561186",
@@ -1535,7 +1535,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q2397593",
@@ -1578,7 +1578,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=leonardo_da_vinci",
       "work": {
         "key": "wiki-uffizi-batch7:Q3373694",
@@ -1620,7 +1620,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q1134281",
@@ -1662,7 +1662,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2035209",
@@ -1704,7 +1704,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2052275",
@@ -1746,7 +1746,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2276546",
@@ -1788,7 +1788,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2344505",
@@ -1830,7 +1830,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2515309",
@@ -1872,7 +1872,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2607055",
@@ -1914,7 +1914,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2610729",
@@ -1956,7 +1956,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q2713823",
@@ -1998,7 +1998,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q3013751",
@@ -2040,7 +2040,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q3399492",
@@ -2082,7 +2082,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q3842604",
@@ -2124,7 +2124,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q428274",
@@ -2166,7 +2166,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q555821",
@@ -2208,7 +2208,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q948034",
@@ -2250,7 +2250,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=raphael",
       "work": {
         "key": "wiki-uffizi-batch7:Q966681",
@@ -2292,7 +2292,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=francisco_goya",
       "work": {
         "key": "wiki-uffizi-batch7:Q11824924",
@@ -2334,7 +2334,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=francisco_goya",
       "work": {
         "key": "wiki-uffizi-batch7:Q11824928",
@@ -2376,7 +2376,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=el_greco",
       "work": {
         "key": "wiki-uffizi-batch7:Q104772137",
@@ -2418,7 +2418,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=el_greco",
       "work": {
         "key": "wiki-uffizi-batch7:Q48927682",
@@ -2484,7 +2484,7 @@
         "browserImageDecoded": true,
         "fullVisualReview": false
       },
-      "status": "connected_pending_site_verification",
+      "status": "published_catalogue_verified",
       "artistPage": "https://kameralog.github.io/games/painting/?artist=domenico_veneziano",
       "work": {
         "key": "wiki-uffizi-batch7:Q2350980",
@@ -2510,7 +2510,6 @@
     }
   ],
   "remainingChecks": [
-    "live_publication",
     "rendered_artist_pages"
   ],
   "notes": [
@@ -2519,5 +2518,6 @@
     "№349 отложен: автор в источниках Никколо ди Пьетро (Q4320785), не Доменико Венециано.",
     "№334: сохранены сведения о фотографе ThePhotografer и лицензии CC BY-SA 4.0.",
     "№326: лицензия CC BY-SA 4.0."
-  ]
+  ],
+  "livePublishedRecords": 48
 }
