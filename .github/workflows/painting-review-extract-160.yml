@@ -1,0 +1,46 @@
+name: Extract painting browser report for batch 160
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/painting-review-extract-160.yml'
+      - 'tools/extract-painting-browser-160.mjs'
+permissions:
+  contents: write
+concurrency:
+  group: painting-review-extract-160
+  cancel-in-progress: false
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Extract archived batch 160 evidence and audit current catalogue
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          saved=false
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            node --check tools/extract-painting-browser-160.mjs
+            node tools/extract-painting-browser-160.mjs --self-test
+            node tools/extract-painting-browser-160.mjs
+            git diff --exit-code -- games/painting editorial/painting tools .github
+            git add reports/painting-browser/160
+            if git diff --cached --quiet; then saved=true; break; fi
+            git commit -m 'Extract archived Playwright evidence and catalogue audit for batch 160'
+            if git push origin HEAD:main; then saved=true; break; fi
+            sleep "$((attempt * 2))"
+          done
+          test "$saved" = true
+          echo 'Batch 160 evidence extracted. Artist cards unchanged; editorial checks remain unapproved.' >> "$GITHUB_STEP_SUMMARY"
