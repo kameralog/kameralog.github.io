@@ -20,14 +20,48 @@
     ],
     "innovation": "Учебный ракурс — различать подготовительное произведение и осуществлённую монументальную декорацию.",
     "caution": "1701 относится к выбранной подготовительной работе. Не называем её самой росписью купола и не переносим на неё технику фрески без подтверждения. Выставочная запись не доказывает нынешнюю экспозицию. Ключ редакционный.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Галереи Уффици; по выставочной записи: Слава святой Марии Магдалины, возносимой ангелами на небо",
       "url": "https://www.uffizi.it/en/events/florence-and-europe"
+    },
+    {
+      "title": "Репродукция: Портрет Анны Марии Луизы Медичи в юности",
+      "url": "https://commons.wikimedia.org/wiki/File:Anton_Domenico_Gabbiani_-_Portrait_of_Anna_Maria_Luisa_de%27_Medici_as_a_Young_Woman_-_WGA8363.jpg"
+    },
+    {
+      "title": "Репродукция: Похищение Ганимеда",
+      "url": "https://commons.wikimedia.org/wiki/File:AD_Gabbiani_Rapto_de_Gan%C3%ADmedes_Uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:AD_Gabbiani_Autorretrato.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch6:Q125986172",
+      "title": "Портрет Анны Марии Луизы Медичи в юности",
+      "date": "1685",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Anton_Domenico_Gabbiani_-_Portrait_of_Anna_Maria_Luisa_de%27_Medici_as_a_Young_Woman_-_WGA8363.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q50399525",
+      "title": "Похищение Ганимеда",
+      "date": "1700",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:AD_Gabbiani_Rapto_de_Gan%C3%ADmedes_Uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q52153808",
+      "title": "Автопортрет",
+      "date": "1685",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:AD_Gabbiani_Autorretrato.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

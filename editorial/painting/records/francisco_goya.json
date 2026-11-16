@@ -32,6 +32,14 @@
     {
       "title": "Art Institute of Chicago: Friar Pedro Shoots El Maragato as His Horse Runs Off",
       "url": "https://www.artic.edu/artworks/16362"
+    },
+    {
+      "title": "Репродукция: Портрет Марии Луизы де Бурбон-и-Вальябрига",
+      "url": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_-_Ritratto_di_Mar%C3%ADa_Luisa_de_Borb%C3%B3n_y_Vallabriga_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Конный портрет Марии Терезы де Вальябрига",
+      "url": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Portrait_of_Mar%C3%ADa_Teresa_de_Vallabriga_on_Horseback_-_WGA9990.jpg"
     }
   ],
   "works": [
@@ -55,6 +63,20 @@
       "date": "c. 1806",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/16362"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q11824924",
+      "title": "Портрет Марии Луизы де Бурбон-и-Вальябрига",
+      "date": "около 1800",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_-_Ritratto_di_Mar%C3%ADa_Luisa_de_Borb%C3%B3n_y_Vallabriga_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q11824928",
+      "title": "Конный портрет Марии Терезы де Вальябрига",
+      "date": "1783",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Portrait_of_Mar%C3%ADa_Teresa_de_Vallabriga_on_Horseback_-_WGA9990.jpg"
     }
   ],
   "pendingWorksCount": 0

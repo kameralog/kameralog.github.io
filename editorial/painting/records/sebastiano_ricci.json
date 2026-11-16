@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Sebastiano_Ricci_-_Bacchus_and_Ariadne_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Юпитер и Семела",
+      "url": "https://commons.wikimedia.org/wiki/File:Sebastiano_Ricci_-_Dionysus_%281695%29.jpg"
+    },
+    {
+      "title": "Репродукция: Аллегория Тосканы",
+      "url": "https://commons.wikimedia.org/wiki/File:Sebastiano_Ricci_003.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "вероятно 1700–1710",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/sebastiano-ricci-bacchus-and-ariadne"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q107420119",
+      "title": "Юпитер и Семела",
+      "date": "около 1695",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sebastiano_Ricci_-_Dionysus_%281695%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q50846578",
+      "title": "Аллегория Тосканы",
+      "date": "1706",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Sebastiano_Ricci_003.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -42,6 +42,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Gerrit_Berckheyde_-_The_Market_Place_and_the_Grote_Kerk_at_Haarlem.jpg"
+    },
+    {
+      "title": "Репродукция: Большой рынок (Гроте-Маркт) в Харлеме",
+      "url": "https://commons.wikimedia.org/wiki/File:Gerrit_Adriaensz._Berckheyde_-_The_Great_Market_in_Haarlem_-_WGA1928.jpg"
     }
   ],
   "works": [
@@ -51,6 +55,13 @@
       "date": "1674",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/gerrit-berckheyde-the-market-place-and-the-grote-kerk-at-haarlem"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q42296531",
+      "title": "Большой рынок (Гроте-Маркт) в Харлеме",
+      "date": "1693",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Gerrit_Adriaensz._Berckheyde_-_The_Great_Market_in_Haarlem_-_WGA1928.jpg"
     }
   ],
   "pendingWorksCount": 0

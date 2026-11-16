@@ -18,14 +18,26 @@
     ],
     "innovation": "Русский музей пишет, что «купчихи» Кустодиева с пышными фигурами и румяными щеками воплощали русский национальный идеал здоровья и красоты, а его сюжеты — безвозвратно ушедшую жизнь, не потерявшую своего острого аромата.",
     "caution": "Картина написана в 1918 году: музей видит в ней воспоминание об исчезнувшем быте. Репродукцию не подключаю: файл ещё не выбран.",
-    "editorialStatus": "text_only_image_rights_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Виртуальный Русский музей: Купчиха за чаем",
       "url": "https://rusmuseumvrm.ru/data/collections/painting/19_20/zh_1868/index.php?lang=en"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Kustodiev_self_portrait.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch6:Q30100850",
+      "title": "Автопортрет",
+      "date": "1912",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Kustodiev_self_portrait.jpg"
+    }
+  ],
   "pendingWorksCount": 0
 }

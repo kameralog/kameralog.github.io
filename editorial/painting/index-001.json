@@ -1,5 +1,10 @@
 [
   {
+    "id": "antonin_slavicek",
+    "name": "Антонин Славичек",
+    "path": "records/antonin_slavicek.json"
+  },
+  {
     "id": "antonin_chittussi",
     "name": "Антонин Хиттусси",
     "path": "records/antonin_chittussi.json"
@@ -493,10 +498,5 @@
     "id": "vilhelm_melbye",
     "name": "Вильхельм Мельбю",
     "path": "records/vilhelm_melbye.json"
-  },
-  {
-    "id": "van-gogh",
-    "name": "Винсент ван Гог",
-    "path": "records/van-gogh.json"
   }
 ]

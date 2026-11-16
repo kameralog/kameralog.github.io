@@ -18,12 +18,36 @@
     ],
     "innovation": "Картина позволяет сравнить замысел и исполнение: рабочая сетка остаётся видимым инструментом построения композиции.",
     "caution": "Венера и амуры здесь персонифицируют искушения Иеронима; это не самостоятельная мифологическая сцена.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Art Institute of Chicago: The Temptation of Saint Jerome",
       "url": "https://www.artic.edu/artworks/110242"
+    },
+    {
+      "title": "Репродукция: Портрет Лоренцо Медичи Великолепного",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_de%27_Medici%2C_the_Magnificent_%281449%E2%80%931492%29%2C_by_Giorgio_Vasari_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Аллегория Непорочного зачатия",
+      "url": "https://commons.wikimedia.org/wiki/File:All%C3%A9gorie_de_l%27immacul%C3%A9e_conception_%28Vasari%29.png"
+    },
+    {
+      "title": "Репродукция: Аллегория Терпения — атрибуция Джорджо Вазари (возможен Гаспар Бесерра)",
+      "url": "https://commons.wikimedia.org/wiki/File:Allegoria_della_pazienza_-_Palazzo_Pitti.jpg"
+    },
+    {
+      "title": "Репродукция: Кузница Вулкана",
+      "url": "https://commons.wikimedia.org/wiki/File:Giorgio_Vasari_002.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Алессандро Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Alessandro_de_Medici_Ruestung.jpg"
+    },
+    {
+      "title": "Репродукция: Пророк Елисей",
+      "url": "https://commons.wikimedia.org/wiki/File:Giorgio_Vasari_001.jpg"
     }
   ],
   "works": [
@@ -33,6 +57,48 @@
       "date": "1541–48",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/110242"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q12118453",
+      "title": "Портрет Лоренцо Медичи Великолепного",
+      "date": "около 1533–1534",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Lorenzo_de%27_Medici%2C_the_Magnificent_%281449%E2%80%931492%29%2C_by_Giorgio_Vasari_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q125022698",
+      "title": "Аллегория Непорочного зачатия",
+      "date": "около 1550",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:All%C3%A9gorie_de_l%27immacul%C3%A9e_conception_%28Vasari%29.png"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q131449675",
+      "title": "Аллегория Терпения — атрибуция Джорджо Вазари (возможен Гаспар Бесерра)",
+      "date": "1551",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Allegoria_della_pazienza_-_Palazzo_Pitti.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q15974337",
+      "title": "Кузница Вулкана",
+      "date": "около 1540–1560",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giorgio_Vasari_002.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q16670765",
+      "title": "Портрет Алессандро Медичи",
+      "date": "1534",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Alessandro_de_Medici_Ruestung.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q17354853",
+      "title": "Пророк Елисей",
+      "date": "1566",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giorgio_Vasari_001.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -42,6 +42,22 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_023.jpg"
+    },
+    {
+      "title": "Репродукция: Колдовство (Аллегория Геркулеса)",
+      "url": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_004.jpg"
+    },
+    {
+      "title": "Репродукция: Явление Богоматери святым Иоанну Крестителю и Иоанну Богослову",
+      "url": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_034.jpg"
+    },
+    {
+      "title": "Репродукция: Отдых Святого Семейства на пути в Египет",
+      "url": "https://commons.wikimedia.org/wiki/File:Dosso%2C_riposo.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет воина",
+      "url": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_01.jpg"
     }
   ],
   "works": [
@@ -50,6 +66,34 @@
       "title": "Поклонение волхвов",
       "date": "около 1527–1529",
       "source": "https://www.nationalgallery.org.uk/paintings/dosso-dossi-the-adoration-of-the-kings"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3612423",
+      "title": "Колдовство (Аллегория Геркулеса)",
+      "date": "около 1535",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_004.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3620828",
+      "title": "Явление Богоматери святым Иоанну Крестителю и Иоанну Богослову",
+      "date": "1520-е — 1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_034.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3936369",
+      "title": "Отдых Святого Семейства на пути в Египет",
+      "date": "первая половина XVI века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Dosso%2C_riposo.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3937734",
+      "title": "Портрет воина",
+      "date": "1530-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Dosso_Dossi_01.jpg"
     }
   ],
   "pendingWorksCount": 0

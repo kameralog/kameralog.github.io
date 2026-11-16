@@ -20,14 +20,26 @@
     ],
     "innovation": "Тень не только уменьшает яркость: она остаётся цветной. Сопоставление планов и тканей помогает увидеть соединение тосканского колорита с генуэзской композиционной традицией.",
     "caution": "Подпись «G Batt . Paggi . 1615» подтверждает 1615, хотя заголовок страницы говорит «около 1615». Версия 1591 года из Палаццо Спинола — другое полотно. Первоначальное назначение выбранной работы неизвестно. Художественная поддержка Камбьязо не равна установленному формальному ученичеству. Ключ редакционный.",
-    "editorialStatus": "text_only_image_file_and_rights_pending"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Musei di Strada Nuova, Палаццо Бьянко, Генуя: Бичевание Христа",
       "url": "https://www.museidigenova.it/it/flagellazione-di-cristo-circa-1615"
+    },
+    {
+      "title": "Репродукция: Портрет Пьеро ди Лоренцо Медичи",
+      "url": "https://commons.wikimedia.org/wiki/File:Ritratto_di_Piero_de%27_Medici.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch6:Q120379763",
+      "title": "Портрет Пьеро ди Лоренцо Медичи",
+      "date": "XVI век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Ritratto_di_Piero_de%27_Medici.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

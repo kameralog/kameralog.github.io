@@ -38,6 +38,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Cornelis_van_Poelenburch_-_Women_bathing_in_a_Landscape.jpg"
+    },
+    {
+      "title": "Репродукция: Римские руины",
+      "url": "https://commons.wikimedia.org/wiki/File:Cornelis_van_Poelenburch_-_Roman_Ruins_-_WGA18013.jpg"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "около 1630",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/cornelis-van-poelenburgh-women-bathing-in-a-landscape"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q53996660",
+      "title": "Римские руины",
+      "date": "около 1620",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cornelis_van_Poelenburch_-_Roman_Ruins_-_WGA18013.jpg"
     }
   ],
   "pendingWorksCount": 0

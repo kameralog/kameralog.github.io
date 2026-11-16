@@ -1,0 +1,46 @@
+{
+  "id": "gustaf_rydberg",
+  "name": "Густаф Рюдберг",
+  "latin": "Gustaf Rydberg",
+  "life": "1835–1933",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Для карточки выбран «Летний день в Арильде», датированный 1894 годом.",
+      "В записи Commons указаны масло на холсте, размер 47 × 73 см и подпись G. Rydberg 1894 внизу слева. Источник изображения — аукционный лот 2540 от 8 декабря 2010 года.",
+      "Сравните летнее состояние с зимними и вечерними пейзажами предыдущей десятки; сезон сам по себе не определяет художественное направление."
+    ],
+    "technique": [
+      "Масло на холсте; 47 × 73 см",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Сравните летнее состояние с зимними и вечерними пейзажами предыдущей десятки; сезон сам по себе не определяет художественное направление.",
+    "caution": "Аукционный дом — источник репродукции, не установленное современное место хранения. Дата 1894 указана в описании подписи. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Gustaf_Rydberg_-_Sommardag%2C_Arilds_l%C3%A4ge_%281894%29.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=26312124"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_26312124",
+      "title": "Летний день в Арильде",
+      "date": "1894",
+      "museum": "Собрание в прочитанном паспорте не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:Gustaf_Rydberg_-_Sommardag%2C_Arilds_l%C3%A4ge_%281894%29.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

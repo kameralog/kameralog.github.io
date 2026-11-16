@@ -1,5 +1,40 @@
 [
   {
+    "id": "christian_skredsvig",
+    "name": "Кристиан Скредсвиг",
+    "path": "records/christian_skredsvig.json"
+  },
+  {
+    "id": "christian_holm",
+    "name": "Кристиан Хольм",
+    "path": "records/christian_holm.json"
+  },
+  {
+    "id": "kristian_zahrtmann",
+    "name": "Кристиан Цартман",
+    "path": "records/kristian_zahrtmann.json"
+  },
+  {
+    "id": "christine_lovmand",
+    "name": "Кристине Лёвманн",
+    "path": "records/christine_lovmand.json"
+  },
+  {
+    "id": "christine_swane",
+    "name": "Кристине Сване",
+    "path": "records/christine_swane.json"
+  },
+  {
+    "id": "cristofano_allori",
+    "name": "Кристофано Аллори",
+    "path": "records/cristofano_allori.json"
+  },
+  {
+    "id": "christoffer_wilhelm_eckersberg",
+    "name": "Кристоффер Вильхельм Эккерсберг",
+    "path": "records/christoffer_wilhelm_eckersberg.json"
+  },
+  {
     "id": "kristjan_raud",
     "name": "Кристьян Рауд",
     "path": "records/kristjan_raud.json"
@@ -463,40 +498,5 @@
     "id": "marie_ellenrieder",
     "name": "Мария Элленридер",
     "path": "records/marie_ellenrieder.json"
-  },
-  {
-    "id": "rothko",
-    "name": "Марк Ротко",
-    "path": "records/rothko.json"
-  },
-  {
-    "id": "chagall",
-    "name": "Марк Шагал",
-    "path": "records/chagall.json"
-  },
-  {
-    "id": "marco_basaiti",
-    "name": "Марко Базаити",
-    "path": "records/marco_basaiti.json"
-  },
-  {
-    "id": "marco_d_oggiono",
-    "name": "Марко д’Оджоно",
-    "path": "records/marco_d_oggiono.json"
-  },
-  {
-    "id": "marco_palmezzano",
-    "name": "Марко Пальмеццано",
-    "path": "records/marco_palmezzano.json"
-  },
-  {
-    "id": "marco_ricci",
-    "name": "Марко Риччи",
-    "path": "records/marco_ricci.json"
-  },
-  {
-    "id": "marthe_donas",
-    "name": "Марта Донас",
-    "path": "records/marthe_donas.json"
   }
 ]

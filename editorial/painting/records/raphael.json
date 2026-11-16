@@ -32,6 +32,70 @@
     {
       "title": "Музей: техническая проверка атрибуции",
       "url": "https://www.nationalgallery.org.uk/paintings/learn-about-art/paintings-in-depth/how-to-spot-a-raphael"
+    },
+    {
+      "title": "Репродукция: Видение Иезекииля",
+      "url": "https://commons.wikimedia.org/wiki/File:Raffaello_-_Visione_di_Ezechiele.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна Грандука",
+      "url": "https://commons.wikimedia.org/wiki/File:Raffaello_%281483-1520%29_-_La_Madonna_del_Granduca_-_178_-_Galleria_Palatina.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна дель Импанната",
+      "url": "https://commons.wikimedia.org/wiki/File:Madonna_dell%E2%80%99Impannata%2C_by_Raphael.jpg"
+    },
+    {
+      "title": "Репродукция: Донна Гравида",
+      "url": "https://commons.wikimedia.org/wiki/File:Raphael-LaDonnaGravida%281505-1506%29.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна со щеглом",
+      "url": "https://commons.wikimedia.org/wiki/File:Madonna_of_the_Goldfinch_%28by_Raffaello_Sanzio%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Аньоло Дони",
+      "url": "https://commons.wikimedia.org/wiki/File:Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Маддалены Дони",
+      "url": "https://commons.wikimedia.org/wiki/File:Ritratto_di_maddalena_strozzi.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Льва X с кардиналами Джулио Медичи и Луиджи Росси",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Leo_X_and_his_cousins%2C_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_%28by_Raphael%29.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет юноши с яблоком",
+      "url": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_%28Urbino_1483_-_Roma_1520%29_-_Ritratto_di_giovane_con_pomo_-_8760_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Гвидобальдо да Монтефельтро",
+      "url": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Guidobaldo_da_Montefeltro_-_WGA18653.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет кардинала Биббиены",
+      "url": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Ritratto_del_Cardinale_Bibbiena_-_158_-_Galleria_Palatina.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна дель Бальдаккино",
+      "url": "https://commons.wikimedia.org/wiki/File:Raffaello_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Madonna_con_Bambino_in_trono_e_i_santi_Pietro%2C_Bernardo%2C_Agostino_e_Ranieri%2C_detta_Madonna_del_Baldacchino_-_165_-_Galleria_Palatina.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Томмазо Ингирами (Федра)",
+      "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Tommaso_Inghirami_%28by_Raphael%29_-_type_2.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio.jpg"
+    },
+    {
+      "title": "Репродукция: Донна Велата",
+      "url": "https://commons.wikimedia.org/wiki/File:La_velada%2C_por_Rafael.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна в кресле",
+      "url": "https://commons.wikimedia.org/wiki/File:Raphael_Madonna_della_seggiola.jpg"
     }
   ],
   "works": [
@@ -41,6 +105,118 @@
       "date": "ок. 1506–1507",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/raphael-the-madonna-of-the-pinks-la-madonna-dei-garofani"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q1134281",
+      "title": "Видение Иезекииля",
+      "date": "1518",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_-_Visione_di_Ezechiele.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2035209",
+      "title": "Мадонна Грандука",
+      "date": "1506–1507",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_%281483-1520%29_-_La_Madonna_del_Granduca_-_178_-_Galleria_Palatina.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2052275",
+      "title": "Мадонна дель Импанната",
+      "date": "1513",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Madonna_dell%E2%80%99Impannata%2C_by_Raphael.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2276546",
+      "title": "Донна Гравида",
+      "date": "1505–1506",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raphael-LaDonnaGravida%281505-1506%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2344505",
+      "title": "Мадонна со щеглом",
+      "date": "1505–1506",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Madonna_of_the_Goldfinch_%28by_Raffaello_Sanzio%29_%E2%80%93_Galleria_degli_Uffizi%2C_Florence.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2515309",
+      "title": "Портрет Аньоло Дони",
+      "date": "1505–1506",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Agnolo_Doni%27s_portrait_paintings_by_Raffaello_Sanzio.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2607055",
+      "title": "Портрет Маддалены Дони",
+      "date": "1505–1506",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Ritratto_di_maddalena_strozzi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2610729",
+      "title": "Портрет Льва X с кардиналами Джулио Медичи и Луиджи Росси",
+      "date": "1518",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Leo_X_and_his_cousins%2C_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_%28by_Raphael%29.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2713823",
+      "title": "Портрет юноши с яблоком",
+      "date": "1504",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_%28Urbino_1483_-_Roma_1520%29_-_Ritratto_di_giovane_con_pomo_-_8760_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q3013751",
+      "title": "Портрет Гвидобальдо да Монтефельтро",
+      "date": "около 1507",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_Guidobaldo_da_Montefeltro_-_WGA18653.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q3399492",
+      "title": "Портрет кардинала Биббиены",
+      "date": "1516",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Ritratto_del_Cardinale_Bibbiena_-_158_-_Galleria_Palatina.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q3842604",
+      "title": "Мадонна дель Бальдаккино",
+      "date": "около 1506–1508",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_%28Urbino_1483_%E2%80%93_Roma_1520%29_-_Madonna_con_Bambino_in_trono_e_i_santi_Pietro%2C_Bernardo%2C_Agostino_e_Ranieri%2C_detta_Madonna_del_Baldacchino_-_165_-_Galleria_Palatina.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q428274",
+      "title": "Портрет Томмазо Ингирами (Федра)",
+      "date": "около 1510–1511",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Tommaso_Inghirami_%28by_Raphael%29_-_type_2.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q555821",
+      "title": "Автопортрет",
+      "date": "1504–1506",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q948034",
+      "title": "Донна Велата",
+      "date": "около 1512–1515",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:La_velada%2C_por_Rafael.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q966681",
+      "title": "Мадонна в кресле",
+      "date": "1513–1514",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Raphael_Madonna_della_seggiola.jpg"
     }
   ],
   "pendingWorksCount": 0

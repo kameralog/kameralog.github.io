@@ -1,0 +1,46 @@
+{
+  "id": "john_kindborg",
+  "name": "Йохан Киндборг",
+  "latin": "John Kindborg",
+  "life": "1861–1907",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, встречающийся в источниках как John и Johan Kindborg. Варианты имени объединены в одной карточке.",
+      "Выбран «Свиндерсвик в Накке», 1883. Описание Commons указывает оригинал в Свиндерсвике и фотографию Хольгера Эльгаарда.",
+      "Для сравнения с другими водными видами: как соотносятся архитектура, берег и глубина пространства? Это вопрос для осмотра, не выполненный визуальный анализ."
+    ],
+    "technique": [
+      "Живопись; точная техника и размеры в прочитанной записи не указаны",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Для сравнения с другими водными видами: как соотносятся архитектура, берег и глубина пространства? Это вопрос для осмотра, не выполненный визуальный анализ.",
+    "caution": "John и Johan — варианты имени одного автора. Шаблон Creator:Johan Kindberg в wikitext раскрывается как John Kindborg; это не отдельный художник. Техника не уточнена до масла на холсте. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Svindersvik_1883.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=7577065"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_7577065",
+      "title": "Свиндерсвик в Накке",
+      "date": "1883",
+      "museum": "Свиндерсвик; по описанию Commons",
+      "source": "https://commons.wikimedia.org/wiki/File:Svindersvik_1883.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

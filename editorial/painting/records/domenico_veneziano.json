@@ -20,7 +20,7 @@
     ],
     "innovation": "Античный идеал человеческого тела соединяется с христианским подвигом отречения. Золотой нимб превращает классический образ юноши в святого, а готическая условность гор сосуществует с новым интересом к телесности.",
     "caution": "Это панель пределлы, не центральная часть алтаря. Дата около 1445–1450 принята по NGA; на странице файла стоит около 1445. Не принимай условные скалы за недостаток наблюдения: музей объясняет их выразительную функцию. Название «Венециано» не означает, что выбранная работа принадлежит венецианской школе XVI века. Визуальный просмотр и загрузка в браузере не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,10 @@
     {
       "title": "Репродукция: сведения о файле",
       "url": "https://commons.wikimedia.org/wiki/File:Domenico_Veneziano_001.jpg"
+    },
+    {
+      "title": "Репродукция: Алтарь Санта-Лючия-деи-Маньоли",
+      "url": "https://commons.wikimedia.org/wiki/File:Domenico_Veneziano_-_Pala_di_Santa_Lucia_dei_Magnoli_-_Google_Art_Project.jpg"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "около 1445–1450",
       "museum": "Национальная галерея искусства, Вашингтон",
       "source": "https://www.nga.gov/artworks/12146-saint-john-desert"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2350980",
+      "title": "Алтарь Санта-Лючия-деи-Маньоли",
+      "date": "1445–1447",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Domenico_Veneziano_-_Pala_di_Santa_Lucia_dei_Magnoli_-_Google_Art_Project.jpg"
     }
   ],
   "pendingWorksCount": 0

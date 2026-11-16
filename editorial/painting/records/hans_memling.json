@@ -19,12 +19,40 @@
     ],
     "innovation": "Диптих работал как посредник между миром зрителя и священным пространством: гризайль внешних створок и «выход» ноги святого за раму подводили к молитвенной встрече. Такие портретные диптихи были популярны после 1400 года и исчезли около 1530-х.",
     "caution": "Кливлендская «Мадонна с Младенцем» (1934.29), по мнению музея, написана, видимо, членом мастерской Мемлинга, поэтому в игру она не включена. Портретная часть чикагского диптиха плохо сохранилась.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
       "title": "Art Institute of Chicago: Virgin and Child",
       "url": "https://www.artic.edu/artworks/16295"
+    },
+    {
+      "title": "Репродукция: Мадонна на троне с Младенцем и двумя музицирующими ангелами",
+      "url": "https://commons.wikimedia.org/wiki/File:Hans_Memling_-_Virgin_enthroned_with_child_and_two_angels_making_music.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Фолько Портинари",
+      "url": "https://commons.wikimedia.org/wiki/File:Hans_Memling_-_L%27uomo_con_la_lettera_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет неизвестного мужчины на фоне пейзажа",
+      "url": "https://commons.wikimedia.org/wiki/File:Hans_memling%2C_ritratto_d%27ignoto%2C_uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Триптих Бенедетто Портинари: правая створка — Портрет молящегося мужчины",
+      "url": "https://commons.wikimedia.org/wiki/File:Memling%2C_trittico_di_Benedetto_Portinari%2C_ritratto%2C_parte_destra.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет неизвестного мужчины с письмом",
+      "url": "https://commons.wikimedia.org/wiki/File:Hans_memling%2C_uomo_con_la_lettera%2C_uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Триптих Бенедетто Портинари: левая створка — Святой Бенедикт",
+      "url": "https://commons.wikimedia.org/wiki/File:Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"
+    },
+    {
+      "title": "Репродукция: Триптих Бенедетто Портинари",
+      "url": "https://commons.wikimedia.org/wiki/File:Memling_Tr%C3%ADpticPortinari.jpg"
     }
   ],
   "works": [
@@ -34,6 +62,55 @@
       "date": "c. 1485",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/16295"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3842767",
+      "title": "Мадонна на троне с Младенцем и двумя музицирующими ангелами",
+      "date": "1480",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_Memling_-_Virgin_enthroned_with_child_and_two_angels_making_music.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3937530",
+      "title": "Портрет Фолько Портинари",
+      "date": "около 1490",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_Memling_-_L%27uomo_con_la_lettera_-_Google_Art_Project.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3937745",
+      "title": "Портрет неизвестного мужчины на фоне пейзажа",
+      "date": "1480-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_memling%2C_ritratto_d%27ignoto%2C_uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3999120",
+      "title": "Триптих Бенедетто Портинари: правая створка — Портрет молящегося мужчины",
+      "date": "1487",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Memling%2C_trittico_di_Benedetto_Portinari%2C_ritratto%2C_parte_destra.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q4006168",
+      "title": "Портрет неизвестного мужчины с письмом",
+      "date": "1480-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Hans_memling%2C_uomo_con_la_lettera%2C_uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q43283983",
+      "title": "Триптих Бенедетто Портинари: левая створка — Святой Бенедикт",
+      "date": "1487",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Memling%2C_Trittico_di_Benedetto_Portinari%2C_San_Benedetto.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q43284760",
+      "title": "Триптих Бенедетто Портинари",
+      "date": "1487",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Memling_Tr%C3%ADpticPortinari.jpg"
     }
   ],
   "pendingWorksCount": 0

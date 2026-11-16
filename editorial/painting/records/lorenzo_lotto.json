@@ -20,7 +20,7 @@
     ],
     "innovation": "Портрет показывает не только внешность, но и публично заявленный образ добродетели. Нарисованная героиня становится аргументом, который модель предъявляет зрителю; при этом изменения фона и рисунка раскрывают, как тщательно выстраивалось высказывание.",
     "caution": "Это не буквальное изображение римской Лукреции и не установленный портрет Лукреции Валье. Современный паспорт даёт около 1530–1533, каталог — около 1530–1532. История античной героини связана с сексуальным насилием и самоубийством: надпись отражает нормы прошлого, а не вину пострадавшей или необходимость следовать её поступку. Копии и рисунок внутри картины не заменяют само полотно NG4256. Страница файла и PD-Art проверены; визуальное соответствие и браузерная загрузка не проверены.",
-    "editorialStatus": "museum_sources_commons_file_rights_checked_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -42,6 +42,18 @@
     {
       "title": "Commons: файл NG4256 и PD-Art",
       "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_-_Portrait_of_a_Woman_inspired_by_Lucretia_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет молодого человека",
+      "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto-_Portrait_of_a_Young_Man.JPG"
+    },
+    {
+      "title": "Репродукция: Святое семейство со святыми Иеронимом и Анной",
+      "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_%28Venezia%2C_1480_-_Loreto%2C_1556%29_-_Sacra_Famiglia_con_San_Girolamo_-_893_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Сусанна и старцы",
+      "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_058.jpg"
     }
   ],
   "works": [
@@ -51,6 +63,27 @@
       "date": "около 1530–1533",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/lorenzo-lotto-portrait-of-a-woman-inspired-by-lucretia"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3937705",
+      "title": "Портрет молодого человека",
+      "date": "около 1505",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto-_Portrait_of_a_Young_Man.JPG"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3944473",
+      "title": "Святое семейство со святыми Иеронимом и Анной",
+      "date": "1534",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_%28Venezia%2C_1480_-_Loreto%2C_1556%29_-_Sacra_Famiglia_con_San_Girolamo_-_893_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q649875",
+      "title": "Сусанна и старцы",
+      "date": "1517",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Lorenzo_Lotto_058.jpg"
     }
   ],
   "pendingWorksCount": 0

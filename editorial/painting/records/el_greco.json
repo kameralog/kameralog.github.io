@@ -20,7 +20,7 @@
     ],
     "innovation": "Музеи показывают двух Эль Греко: мастера больших алтарей и мастера небольших повторений. Чикагская картина «Святой Мартин и нищий» — небольшая реплика алтаря для частной капеллы Сан-Хосе в Толедо; такие уменьшенные версии помогали художнику выйти на более широкий рынок.",
     "caution": "Мастерская Эль Греко делала версии и реплики; чикагскую работу «Святой Мартин и нищий» музей прямо называет небольшой репликой алтаря. Картины «мастерской Эль Греко» в игру не включены. Годы 1541–1614 — общие для чикагской и кливлендской записей.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -38,6 +38,14 @@
     {
       "title": "Art Institute of Chicago: Saint Martin and the Beggar",
       "url": "https://www.artic.edu/artworks/67362"
+    },
+    {
+      "title": "Репродукция: Слёзы святого Петра",
+      "url": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Tears_of_Saint_Peter%2C_Contini-Bonacossi.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Иоанн Богослов и святой Франциск",
+      "url": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Sts_John_and_Francis_-_WGA10549.jpg"
     }
   ],
   "works": [
@@ -68,6 +76,20 @@
       "date": "c. 1597–c. 1600",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/67362"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q104772137",
+      "title": "Слёзы святого Петра",
+      "date": "1610",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Tears_of_Saint_Peter%2C_Contini-Bonacossi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q48927682",
+      "title": "Святой Иоанн Богослов и святой Франциск",
+      "date": "около 1600",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Sts_John_and_Francis_-_WGA10549.jpg"
     }
   ],
   "pendingWorksCount": 0

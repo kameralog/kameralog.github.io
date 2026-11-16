@@ -1,0 +1,54 @@
+{
+  "id": "hugo_salmson",
+  "name": "Хуго Сальмсон",
+  "latin": "Hugo Salmson",
+  "life": "1843–1894",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, продолживший обучение в Париже. Музей Гента связывает его сельские сюжеты с Пикардией и Сконе, куда он приезжал летом с 1883 года.",
+      "Выбрана работа из MSK Gent, инвентарь 1886-J, датированная музеем около 1886 года. Музей описывает сцену разговора четырёх сельских женщин за тяжёлым столом.",
+      "MSK подчёркивает идеализированный и слегка театральный характер его живописи: изображение сельской жизни не следует автоматически считать нейтральной документальной записью."
+    ],
+    "technique": [
+      "Масло на холсте; 127 × 162 см (размеры по Wikidata)",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: MSK подчёркивает идеализированный и слегка театральный характер его живописи: изображение сельской жизни не следует автоматически считать нейтральной документальной записью.",
+    "caution": "Около 1886 — датировка музейного паспорта. Сконе как место создания музей предполагает, а не устанавливает безоговорочно. Русский заголовок — редакционный перевод с учётом музейного описания. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Hugo_Frederik_Salmson_-_Visiting_the_Tenant_Farmer_-_1886-J_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=140214260"
+    },
+    {
+      "title": "MSK Gent: музейный паспорт",
+      "url": "https://www.mskgent.be/en/collection/1886-j"
+    },
+    {
+      "title": "Wikidata: размеры и материал",
+      "url": "https://www.wikidata.org/wiki/Q21673969"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_140214260",
+      "title": "В гостях у крестьянки-арендаторши",
+      "date": "Около 1886",
+      "museum": "Museum voor Schone Kunsten Gent (MSK)",
+      "source": "https://commons.wikimedia.org/wiki/File:Hugo_Frederik_Salmson_-_Visiting_the_Tenant_Farmer_-_1886-J_-_Museum_of_Fine_Arts_Ghent_%28MSK%29.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

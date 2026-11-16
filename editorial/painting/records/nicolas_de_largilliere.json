@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Largilli%C3%A8re,_Nicolas_de_-_The_Artist_and_his_Family_-_c._1710.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Жана-Батиста Руссо",
+      "url": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_of_Jean-Baptiste_Rousseau_-_WGA12477.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "около 1720–1730",
       "museum": "Лувр, Париж",
       "source": "https://collections.louvre.fr/ark:/53355/cl010059567"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q114241481",
+      "title": "Портрет Жана-Батиста Руссо",
+      "date": "1710",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Nicolas_de_Largilli%C3%A8re_-_Portrait_of_Jean-Baptiste_Rousseau_-_WGA12477.jpg"
     }
   ],
   "pendingWorksCount": 0

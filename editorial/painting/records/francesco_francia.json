@@ -42,6 +42,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Francesco_Francia_(c.1450-1517)_-_The_Virgin_and_Child_with_Saint_Anne_and_Other_Saints_-_NG179_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Эванджелисты Скаппи",
+      "url": "https://commons.wikimedia.org/wiki/File:Francesco_Francia_004.jpg"
     }
   ],
   "works": [
@@ -50,6 +54,13 @@
       "title": "Богоматерь с Младенцем, святой Анной, Иоанном Крестителем и четырьмя святыми",
       "date": "1510–1512",
       "source": "https://www.nationalgallery.org.uk/paintings/francesco-francia-saint-anne-with-the-virgin-and-four-saints"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3937516",
+      "title": "Портрет Эванджелисты Скаппи",
+      "date": "1500–1505",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Francesco_Francia_004.jpg"
     }
   ],
   "pendingWorksCount": 0

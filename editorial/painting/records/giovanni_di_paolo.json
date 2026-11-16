@@ -20,7 +20,7 @@
     ],
     "innovation": "Британская энциклопедия видит в нём мастера, который сохранял мистическую напряжённость и условный декоративный стиль готической традиции вопреки движению тосканской живописи к научному натурализму. Влияние на развитие искусства после его смерти, по её оценке, было небольшим, но в XX веке интерес к его напряжённым, часто драматическим работам вырос.",
     "caution": "Годы жизни расходятся: Метрополитен-музей и Чикаго указывают рождение в 1398 году, Кливленд и Британская энциклопедия — около 1403. Кватроченто означает итальянский XV век и не исключает готической манеры, которую сохранял Джованни. Многие его работы — панели и фрагменты разобранных алтарей, поэтому в музеях они выглядят отдельными картинами.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -42,6 +42,10 @@
     {
       "title": "Art Institute of Chicago: Saint John the Baptist Entering the Wilderness",
       "url": "https://www.artic.edu/artworks/16156"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и святыми",
+      "url": "https://commons.wikimedia.org/wiki/File:Giovanni_di_paolo%2C_madonna_col_bambino_e_santi.jpg"
     }
   ],
   "works": [
@@ -72,6 +76,13 @@
       "date": "1460s",
       "museum": "Cleveland Museum of Art",
       "source": "https://clevelandart.org/art/1966.3"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3842527",
+      "title": "Мадонна с Младенцем и святыми",
+      "date": "около 1445",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Giovanni_di_paolo%2C_madonna_col_bambino_e_santi.jpg"
     }
   ],
   "pendingWorksCount": 0

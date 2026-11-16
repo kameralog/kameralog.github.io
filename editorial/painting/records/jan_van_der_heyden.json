@@ -38,6 +38,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:View_of_the_Westerkerk_Amsterdam_1660_Jan_van_der_Heyden.jpg"
+    },
+    {
+      "title": "Репродукция: Ратуша в Амстердаме",
+      "url": "https://commons.wikimedia.org/wiki/File:The_Town_Hall_of_Amsterdam_1667_Jan_van_der_Heyden.jpg"
     }
   ],
   "works": [
@@ -47,6 +51,13 @@
       "date": "вероятно 1660",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/jan-van-der-heyden-view-of-the-westerkerk-amsterdam"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q41796100",
+      "title": "Ратуша в Амстердаме",
+      "date": "1667",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Town_Hall_of_Amsterdam_1667_Jan_van_der_Heyden.jpg"
     }
   ],
   "pendingWorksCount": 0

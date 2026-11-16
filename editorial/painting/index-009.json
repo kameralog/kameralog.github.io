@@ -1,5 +1,50 @@
 [
   {
+    "id": "halfdan_egedius",
+    "name": "Хальфдан Эгедиус",
+    "path": "records/halfdan_egedius.json"
+  },
+  {
+    "id": "hanna_pauli",
+    "name": "Ханна Паули",
+    "path": "records/hanna_pauli.json"
+  },
+  {
+    "id": "hans_andersen_brendekilde",
+    "name": "Ханс Андерсен Брендекилле",
+    "path": "records/hans_andersen_brendekilde.json"
+  },
+  {
+    "id": "hans_gude",
+    "name": "Ханс Гуде",
+    "path": "records/hans_gude.json"
+  },
+  {
+    "id": "hans_smidth",
+    "name": "Ханс Смит",
+    "path": "records/hans_smidth.json"
+  },
+  {
+    "id": "han_gan",
+    "name": "Хань Гань",
+    "path": "records/han_gan.json"
+  },
+  {
+    "id": "harald_slott_moller",
+    "name": "Харальд Слотт-Мёллер",
+    "path": "records/harald_slott_moller.json"
+  },
+  {
+    "id": "harald_sohlberg",
+    "name": "Харальд Сульберг",
+    "path": "records/harald_sohlberg.json"
+  },
+  {
+    "id": "harriet_backer",
+    "name": "Харриет Баккер",
+    "path": "records/harriet_backer.json"
+  },
+  {
     "id": "hashimoto_gaho",
     "name": "Хасимото Гахо",
     "path": "records/hashimoto_gaho.json"
@@ -108,6 +153,11 @@
     "id": "juana_romani",
     "name": "Хуана Романи",
     "path": "records/juana_romani.json"
+  },
+  {
+    "id": "hugo_salmson",
+    "name": "Хуго Сальмсон",
+    "path": "records/hugo_salmson.json"
   },
   {
     "id": "hugo_simberg",
@@ -448,55 +498,5 @@
     "id": "emma_sandys",
     "name": "Эмма Сэндис",
     "path": "records/emma_sandys.json"
-  },
-  {
-    "id": "emma_thomsen",
-    "name": "Эмма Томсен",
-    "path": "records/emma_thomsen.json"
-  },
-  {
-    "id": "warhol",
-    "name": "Энди Уорхол",
-    "path": "records/warhol.json"
-  },
-  {
-    "id": "wyeth",
-    "name": "Эндрю Уайет",
-    "path": "records/wyeth.json"
-  },
-  {
-    "id": "anne_killigrew",
-    "name": "Энн Киллигрю",
-    "path": "records/anne_killigrew.json"
-  },
-  {
-    "id": "eni",
-    "name": "Энъи",
-    "path": "records/eni.json"
-  },
-  {
-    "id": "erik_werenskiold",
-    "name": "Эрик Вереншёлль",
-    "path": "records/erik_werenskiold.json"
-  },
-  {
-    "id": "ercole_de_roberti",
-    "name": "Эрколе де Роберти",
-    "path": "records/ercole_de_roberti.json"
-  },
-  {
-    "id": "ernest_bieler",
-    "name": "Эрнест Билер",
-    "path": "records/ernest_bieler.json"
-  },
-  {
-    "id": "ernst_ludwig_kirchner",
-    "name": "Эрнст Людвиг Кирхнер",
-    "path": "records/ernst_ludwig_kirchner.json"
-  },
-  {
-    "id": "ernst_meyer",
-    "name": "Эрнст Мейер",
-    "path": "records/ernst_meyer.json"
   }
 ]

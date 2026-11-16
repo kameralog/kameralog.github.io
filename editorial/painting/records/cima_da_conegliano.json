@@ -34,6 +34,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano_London_NG_Incredulita_STommaso_1504.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем",
+      "url": "https://commons.wikimedia.org/wiki/File:Cima_da_conegliano%2C_madonna_col_bambino%2C_uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Святой Иероним",
+      "url": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano%2C_San_Girolamo_Palazzo_Pitti%2C_Firenze.jpg"
     }
   ],
   "works": [
@@ -42,6 +50,20 @@
       "title": "Неверие святого Фомы",
       "date": "около 1502–1504",
       "source": "https://www.nationalgallery.org.uk/paintings/giovanni-battista-cima-da-conegliano-the-incredulity-of-saint-thomas"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3842464",
+      "title": "Мадонна с Младенцем",
+      "date": "около 1504",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cima_da_conegliano%2C_madonna_col_bambino%2C_uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3947301",
+      "title": "Святой Иероним",
+      "date": "1510–1520",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cima_da_Conegliano%2C_San_Girolamo_Palazzo_Pitti%2C_Firenze.jpg"
     }
   ],
   "pendingWorksCount": 0

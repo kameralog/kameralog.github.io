@@ -1,0 +1,46 @@
+{
+  "id": "severin_nilsson",
+  "name": "Северин Нильссон",
+  "latin": "Severin Nilsson",
+  "life": "1846–1918",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Для карточки выбрана живописная работа «Малышка в саду. Мотив из Сконе».",
+      "В wikitext указаны масло на холсте, 90 × 68 см и подпись внизу слева; год и собрание не заполнены. Происхождение репродукции обозначено Unknown source.",
+      "Вертикальный садовый мотив даёт учебную пару пейзажам и интерьеру десятки. Неизвестный год сохранён как неопределённость, а не восстановлен по стилю."
+    ],
+    "technique": [
+      "Масло на холсте; 90 × 68 см",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Вертикальный садовый мотив даёт учебную пару пейзажам и интерьеру десятки. Неизвестный год сохранён как неопределённость, а не восстановлен по стилю.",
+    "caution": "В Commons явно указан Unknown source; происхождение цифровой репродукции не установлено. Правовой шаблон прочитан, но он не заменяет историю происхождения. Следующее действие — найти музейный или аукционный паспорт того же холста; дату не угадывать. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Severin_Nilsson-Lillan_i_tr%C3%A4dg%C3%A5rden.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=7641008"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_7641008",
+      "title": "Малышка в саду. Мотив из Сконе",
+      "date": "Дата не установлена",
+      "museum": "Собрание не указано",
+      "source": "https://commons.wikimedia.org/wiki/File:Severin_Nilsson-Lillan_i_tr%C3%A4dg%C3%A5rden.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

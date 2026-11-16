@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Giordano,_Luca_-_Die_H%C3%B6hle_der_Ewigkeit.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Luca_Giordano_Fapresto.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "начало 1680-х",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/luca-giordano-the-cave-of-eternity"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q52157997",
+      "title": "Автопортрет",
+      "date": "около 1670",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Luca_Giordano_Fapresto.jpg"
     }
   ],
   "pendingWorksCount": 0

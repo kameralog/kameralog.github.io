@@ -28,6 +28,38 @@
     {
       "title": "Репродукция: сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Leonardo%20da%20Vinci%20Virgin%20of%20the%20Rocks%20(National%20Gallery%20London).jpg"
+    },
+    {
+      "title": "Репродукция: Этюды голов старика и юноши в профиль",
+      "url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci%2C_Heads_of_an_old_man_and_a_youth.jpg"
+    },
+    {
+      "title": "Репродукция: Профиль старика",
+      "url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci%2C_Profile_of_an_old_man.jpg"
+    },
+    {
+      "title": "Репродукция: Женская голова",
+      "url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci%2C_Female_Head.jpg"
+    },
+    {
+      "title": "Репродукция: Женская голова в профиль",
+      "url": "https://commons.wikimedia.org/wiki/File:Da_Vinci_-_Weiblicher_Kopf_im_Profil.jpg"
+    },
+    {
+      "title": "Репродукция: Перспективный этюд к «Поклонению волхвов»",
+      "url": "https://commons.wikimedia.org/wiki/File:Leonardo_study_AdorationofMagi.JPG"
+    },
+    {
+      "title": "Репродукция: Два профиля и этюды механизмов",
+      "url": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Profili_affrontati_di_un_giovane_e_di_un_vecchio_e_scritte%2C_in_alto_ed_in_basso%2C_di_mano_di_Leonardo.jpg"
+    },
+    {
+      "title": "Репродукция: Тавола Дориа — по «Битве при Ангиари» Леонардо",
+      "url": "https://commons.wikimedia.org/wiki/File:La_Battaglia_di_Anghiari_di_Leonardo.jpg"
+    },
+    {
+      "title": "Репродукция: Пейзаж долины Арно",
+      "url": "https://commons.wikimedia.org/wiki/File:Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg"
     }
   ],
   "works": [
@@ -37,6 +69,62 @@
       "date": "ок. 1491/1492–1499 и 1506–1508",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/leonardo-da-vinci-the-virgin-of-the-rocks"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q131561181",
+      "title": "Этюды голов старика и юноши в профиль",
+      "date": "1495–1500",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci%2C_Heads_of_an_old_man_and_a_youth.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q131561182",
+      "title": "Профиль старика",
+      "date": "вторая половина XV века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci%2C_Profile_of_an_old_man.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q131561183",
+      "title": "Женская голова",
+      "date": "вторая половина XV века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_vinci%2C_Female_Head.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q131561184",
+      "title": "Женская голова в профиль",
+      "date": "конец XV века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Da_Vinci_-_Weiblicher_Kopf_im_Profil.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q131561185",
+      "title": "Перспективный этюд к «Поклонению волхвов»",
+      "date": "конец XV — начало XVI века",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_study_AdorationofMagi.JPG"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q131561186",
+      "title": "Два профиля и этюды механизмов",
+      "date": "XV век",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Profili_affrontati_di_un_giovane_e_di_un_vecchio_e_scritte%2C_in_alto_ed_in_basso%2C_di_mano_di_Leonardo.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q2397593",
+      "title": "Тавола Дориа — по «Битве при Ангиари» Леонардо",
+      "date": "1503–1505 (оригинал)",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:La_Battaglia_di_Anghiari_di_Leonardo.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch7:Q3373694",
+      "title": "Пейзаж долины Арно",
+      "date": "1473",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Paisagem_do_Arno_-_Leonardo_da_Vinci.jpg"
     }
   ],
   "pendingWorksCount": 0

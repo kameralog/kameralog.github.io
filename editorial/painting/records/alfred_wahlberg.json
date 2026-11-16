@@ -1,0 +1,46 @@
+{
+  "id": "alfred_wahlberg",
+  "name": "Альфред Вальберг",
+  "latin": "Alfred Wahlberg",
+  "life": "1834–1906",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Для карточки выбран пейзаж «Вид близ Ваксхольма» из Nationalmuseum в Стокгольме.",
+      "В Commons указаны 1872 год, масло на холсте и инвентарный номер 1641. Цифровая репродукция — фотография пользователя Szilas.",
+      "Сравнение водного пространства с Кристенсеном и Мёнстедом — учебная задача, а не утверждение о прямом влиянии."
+    ],
+    "technique": [
+      "Масло на холсте; размеры не указаны в прочитанном wikitext",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Сравнение водного пространства с Кристенсеном и Мёнстедом — учебная задача, а не утверждение о прямом влиянии.",
+    "caution": "1872 — год картины; 1907 в истории объекта — год музейного приобретения, а не создания. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Wahlberg_-_View_near_Vaxholm.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=21886171"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_21886171",
+      "title": "Вид близ Ваксхольма",
+      "date": "1872",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Wahlberg_-_View_near_Vaxholm.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

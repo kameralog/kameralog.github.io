@@ -20,14 +20,26 @@
     ],
     "innovation": "Учебный ракурс — сравнение материала, композиции и профессионального самопредставления; без неподтверждённых заявлений о первенстве.",
     "caution": "Не смешивать с поздним vanitas с подсолнухом Rijksmuseum SK-A-5104. У файла Vanitas-Still Life, Oosterwijck.jpg прочитана PD-Art, но история содержит замену с комментарием reverse: ориентация и обработка требуют проверки. Право на другой музейный файл этим не подтверждено.",
-    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_CHECK_PENDING"
+    "editorialStatus": "partially_illustrated"
   },
   "sources": [
     {
       "title": "Музей истории искусств, Вена: Натюрморт vanitas",
       "url": "https://www.khm.at/en/artworks/vanitas-still-life-1370"
+    },
+    {
+      "title": "Репродукция: Ваза с цветами",
+      "url": "https://commons.wikimedia.org/wiki/File:Maria_van_Oosterwijk_-_Blumen_und_Fruechte_1670er.jpg"
     }
   ],
-  "works": [],
+  "works": [
+    {
+      "key": "wiki-uffizi-batch6:Q133253797",
+      "title": "Ваза с цветами",
+      "date": "1670-е годы",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Maria_van_Oosterwijk_-_Blumen_und_Fruechte_1670er.jpg"
+    }
+  ],
   "pendingWorksCount": 1
 }

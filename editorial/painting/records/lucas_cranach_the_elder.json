@@ -19,7 +19,7 @@
     ],
     "innovation": "Кранах показывает северное Возрождение как придворное и протестантское искусство. Чикагский музей замечает, что в «Распятии» он усилил протестантский акцент на силе веры и личной ответственности: например, мальчик, который учится у старика у подножия центрального креста.",
     "caution": "Музей прямо пишет, что пара «Адам» и «Ева» — одна из лучших из многих версий, созданных Кранахом и его мастерской. Поэтому читай «Кранах» как имя мастера и мастерской.",
-    "editorialStatus": ""
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -33,6 +33,18 @@
     {
       "title": "Art Institute of Chicago: The Crucifixion",
       "url": "https://www.artic.edu/artworks/59856"
+    },
+    {
+      "title": "Репродукция: Адам и Ева",
+      "url": "https://commons.wikimedia.org/wiki/File:Cranach%2C_adamo_ed_eva%2C_uffizi.jpg"
+    },
+    {
+      "title": "Репродукция: Мадонна с Младенцем и юным Иоанном Крестителем",
+      "url": "https://commons.wikimedia.org/wiki/File:Cranach%2C_madonna_col_bambino_e_san_giovannino.jpg"
+    },
+    {
+      "title": "Репродукция: Женский портрет — Лукас Кранах Старший и мастерская",
+      "url": "https://commons.wikimedia.org/wiki/File:Cranach%2C_ritratto_di_donna%2C_uffizi.jpg"
     }
   ],
   "works": [
@@ -56,6 +68,27 @@
       "date": "1538",
       "museum": "Art Institute of Chicago",
       "source": "https://www.artic.edu/artworks/59856"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3605055",
+      "title": "Адам и Ева",
+      "date": "1528",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cranach%2C_adamo_ed_eva%2C_uffizi.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3842524",
+      "title": "Мадонна с Младенцем и юным Иоанном Крестителем",
+      "date": "1514",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cranach%2C_madonna_col_bambino_e_san_giovannino.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q3937781",
+      "title": "Женский портрет — Лукас Кранах Старший и мастерская",
+      "date": "около 1530",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Cranach%2C_ritratto_di_donna%2C_uffizi.jpg"
     }
   ],
   "pendingWorksCount": 0

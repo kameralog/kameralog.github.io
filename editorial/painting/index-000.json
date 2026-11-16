@@ -210,6 +210,11 @@
     "path": "records/alphonse_mucha.json"
   },
   {
+    "id": "alfred_wahlberg",
+    "name": "Альфред Вальберг",
+    "path": "records/alfred_wahlberg.json"
+  },
+  {
     "id": "alfred_sisley",
     "name": "Альфред Сислей",
     "path": "records/alfred_sisley.json"
@@ -493,10 +498,5 @@
     "id": "anthonie_palamedesz",
     "name": "Антони Паламедес",
     "path": "records/anthonie_palamedesz.json"
-  },
-  {
-    "id": "antonin_slavicek",
-    "name": "Антонин Славичек",
-    "path": "records/antonin_slavicek.json"
   }
 ]

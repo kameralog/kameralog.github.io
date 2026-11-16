@@ -30,6 +30,14 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Clement_IX_Rospigliosi_(by_Carlo_Maratti_or_Maratta)_%E2%80%93_Pinacoteca_Vaticana,_Vatican_Museums.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Maratta%2C_Carlo_-_Autoritratto_-_1686_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Явление Богоматери святому Филиппу Нери",
+      "url": "https://commons.wikimedia.org/wiki/File:Carlo_Maratta_-_The_Virgin_Appearing_to_St_Philip_Neri_-_WGA14052.jpg"
     }
   ],
   "works": [
@@ -39,6 +47,20 @@
       "date": "1669",
       "museum": "Пинакотека Ватикана",
       "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/la-pinacoteca/sala-xv---secolo-xviii/carlo-maratta--ritratto-di-clemente-ix.html"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q52155208",
+      "title": "Автопортрет",
+      "date": "1682",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Maratta%2C_Carlo_-_Autoritratto_-_1686_-_Uffizi_Gallery.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q53995784",
+      "title": "Явление Богоматери святому Филиппу Нери",
+      "date": "1675",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlo_Maratta_-_The_Virgin_Appearing_to_St_Philip_Neri_-_WGA14052.jpg"
     }
   ],
   "pendingWorksCount": 0

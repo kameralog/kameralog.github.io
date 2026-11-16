@@ -1,5 +1,15 @@
 [
   {
+    "id": "giovanni_lanfranco",
+    "name": "Джованни Ланфранко",
+    "path": "records/giovanni_lanfranco.json"
+  },
+  {
+    "id": "giovanni_martinelli",
+    "name": "Джованни Мартинелли",
+    "path": "records/giovanni_martinelli.json"
+  },
+  {
     "id": "giovanni_segantini",
     "name": "Джованни Сегантини",
     "path": "records/giovanni_segantini.json"
@@ -488,15 +498,5 @@
     "id": "joachim_wtewael",
     "name": "Йоахим Эйтевал",
     "path": "records/joachim_wtewael.json"
-  },
-  {
-    "id": "job_berckheyde",
-    "name": "Йоб Беркхейде",
-    "path": "records/job_berckheyde.json"
-  },
-  {
-    "id": "joza_uprka",
-    "name": "Йожа Упрка",
-    "path": "records/joza_uprka.json"
   }
 ]

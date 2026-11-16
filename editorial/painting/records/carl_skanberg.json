@@ -1,0 +1,46 @@
+{
+  "id": "carl_skanberg",
+  "name": "Карл Сконберг",
+  "latin": "Carl Skånberg",
+  "life": "1850–1883",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Для карточки выбран паромный мотив в Дордрехте из художественного музея Норрчёпинга.",
+      "Описание файла указывает 1876 год, масло на панели, видимую часть 20 × 35 см и номер NKM A 68. Фотограф репродукции — Gotogo, не автор картины.",
+      "Нидерландский мотив позволяет связать шведскую подборку с ранее собранной живописью водных путей и гаваней без утверждения о заимствовании."
+    ],
+    "technique": [
+      "Масло на панели; видимая часть 20 × 35 см",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Нидерландский мотив позволяет связать шведскую подборку с ранее собранной живописью водных путей и гаваней без утверждения о заимствовании.",
+    "caution": "1876 — дата живописи в описании; 2026-07-14 — дата фотографии. Dagermått означает видимую часть, не доказанный полный размер основы. Основа — панель, не холст. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Sk%C3%A5nberg%2C_Ferry%2C_Dordrecht_%281876%29.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=197840981"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_197840981",
+      "title": "Паромный мотив. Дордрехт",
+      "date": "1876",
+      "museum": "Norrköpings konstmuseum",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Sk%C3%A5nberg%2C_Ferry%2C_Dordrecht_%281876%29.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

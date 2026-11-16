@@ -1,0 +1,46 @@
+{
+  "id": "johan_krouthen",
+  "name": "Йохан Кроутен",
+  "latin": "Johan Krouthén",
+  "life": "1858–1932",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Выбранный вид Скагена хранится в Skagens Museum и представлен в Google Cultural Institute.",
+      "Паспорт даёт 1883 год и оригинальное датское название Grenen. Skagen. Шведское авторство и датское место изображения не смешиваются.",
+      "Сопоставьте береговой мотив с работами Карла Лохера; общая география не означает одинаковой манеры."
+    ],
+    "technique": [
+      "Масло на холсте; 23 × 60 см",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Сопоставьте береговой мотив с работами Карла Лохера; общая география не означает одинаковой манеры.",
+    "caution": "Музейный размер 23 × 60 см и пропорции цифрового файла различаются; причина и полнота композиции визуально не установлены. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Johan_Krouth%C3%A9n_-_The_Skaw_Spit._Skagen_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=29867849"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_29867849",
+      "title": "Коса у Скагена",
+      "date": "1883",
+      "museum": "Skagens Museum",
+      "source": "https://commons.wikimedia.org/wiki/File:Johan_Krouth%C3%A9n_-_The_Skaw_Spit._Skagen_-_Google_Art_Project.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

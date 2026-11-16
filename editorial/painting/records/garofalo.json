@@ -38,6 +38,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Benvenuto_Tisi_da_Garofalo_(c.1481-1559)_-_An_Allegory_of_Love_-_NG1362_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Благовещение",
+      "url": "https://commons.wikimedia.org/wiki/File:Garofalo%2C_Benvenuto_Tisi_%E2%80%94_Annuntiatio_Domini_%E2%80%94_1528.jpg"
     }
   ],
   "works": [
@@ -46,6 +50,13 @@
       "title": "Две пары с Купидоном — прежде «Аллегория любви»",
       "date": "около 1535–1545",
       "source": "https://www.nationalgallery.org.uk/paintings/garofalo-two-couples-with-cupid"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q131450093",
+      "title": "Благовещение",
+      "date": "1528–1535",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Garofalo%2C_Benvenuto_Tisi_%E2%80%94_Annuntiatio_Domini_%E2%80%94_1528.jpg"
     }
   ],
   "pendingWorksCount": 0

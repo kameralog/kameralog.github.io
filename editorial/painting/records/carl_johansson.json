@@ -1,0 +1,50 @@
+{
+  "id": "carl_johansson",
+  "name": "Карл Юханссон",
+  "latin": "Carl Johansson",
+  "life": "1863–1944",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник Карл Август Юханссон; не смешивается с одноимёнными людьми других профессий. Для карточки выбран «Стурехелль».",
+      "Описание файла и внешняя карточка произведения дают 1892 год. Указанная в Commons дата 28 февраля 2024 года относится к фотографии Classicartworks.",
+      "Репродукция требует кредита Classicartworks, ссылки на CC BY-SA 4.0 и указания изменений. Здесь используются уменьшенные версии без редакционной обрезки."
+    ],
+    "technique": [
+      "Техника и размеры здесь не утверждаются: в прочитанной записи Commons не указаны",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Репродукция требует кредита Classicartworks, ссылки на CC BY-SA 4.0 и указания изменений. Здесь используются уменьшенные версии без редакционной обрезки.",
+    "caution": "Artist/author=Classicartworks в шаблоне Information относится к фотографии. 2024-02-28 — дата фотографии, не живописи. Лицензия репродукции сохранена как CC BY-SA 4.0, не заменена Public Domain. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Johansson_-_Stureh%C3%A4ll%2C_1892.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=153639325"
+    },
+    {
+      "title": "Карточка произведения: датировка живописи",
+      "url": "https://www.classicartworks.com/products/carl-johansson-3"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_153639325",
+      "title": "Стурехелль",
+      "date": "1892",
+      "museum": "Текущее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Johansson_-_Stureh%C3%A4ll%2C_1892.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

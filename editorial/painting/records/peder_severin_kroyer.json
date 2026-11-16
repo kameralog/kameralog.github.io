@@ -20,7 +20,7 @@
     ],
     "innovation": "Учебный ракурс: Как жесты объединяют участников?",
     "caution": "Не путать с Мари Крёйер из 125. Фотопрототип связан с праздником 1884 и Фрицем Штольтенбергом; не утверждаем, что фотографию сделал сам Крёйер. Дар 1902 — не дата картины.",
-    "editorialStatus": "RESEARCH_DRAFT_GLOBAL_AND_BROWSER_CHECK_PENDING"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,10 @@
     {
       "title": "История JPEG-версии",
       "url": "https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/delist/2024"
+    },
+    {
+      "title": "Репродукция: Автопортрет",
+      "url": "https://commons.wikimedia.org/wiki/File:Self-portrait_of_Pedar_Severin_Kroyer_in_the_Vasari_Corridor_2016-05-06.jpg"
     }
   ],
   "works": [
@@ -43,6 +47,13 @@
       "date": "1888 по подписи; в описании файла 1887–1888",
       "museum": "Göteborgs konstmuseum",
       "source": "https://en.wikipedia.org/wiki/Hip,_Hip,_Hurrah!"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q22931136",
+      "title": "Автопортрет",
+      "date": "1888",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Self-portrait_of_Pedar_Severin_Kroyer_in_the_Vasari_Corridor_2016-05-06.jpg"
     }
   ],
   "pendingWorksCount": 0

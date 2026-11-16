@@ -30,6 +30,10 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Philips_Koninck_-_Panoramisch_landschap_-_NG4251_-_National_Gallery.jpg"
+    },
+    {
+      "title": "Репродукция: Автопортрет рядом с бюстом Геркулеса",
+      "url": "https://commons.wikimedia.org/wiki/File:Philips_Koninck_-_Self_Portrait_-_Uffizi_Gallery.jpg"
     }
   ],
   "works": [
@@ -39,6 +43,13 @@
       "date": "около 1670",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/philips-koninck-an-extensive-landscape"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q116912721",
+      "title": "Автопортрет рядом с бюстом Геркулеса",
+      "date": "1661",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Philips_Koninck_-_Self_Portrait_-_Uffizi_Gallery.jpg"
     }
   ],
   "pendingWorksCount": 0

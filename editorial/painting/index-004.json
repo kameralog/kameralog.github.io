@@ -1,5 +1,15 @@
 [
   {
+    "id": "job_berckheyde",
+    "name": "Йоб Беркхейде",
+    "path": "records/job_berckheyde.json"
+  },
+  {
+    "id": "joza_uprka",
+    "name": "Йожа Упрка",
+    "path": "records/joza_uprka.json"
+  },
+  {
     "id": "jozsef_borsos",
     "name": "Йожеф Боршош",
     "path": "records/jozsef_borsos.json"
@@ -55,9 +65,19 @@
     "path": "records/johan_vilhelm_gertner.json"
   },
   {
+    "id": "john_kindborg",
+    "name": "Йохан Киндборг",
+    "path": "records/john_kindborg.json"
+  },
+  {
     "id": "johan_christian_dahl",
     "name": "Йохан Кристиан Даль",
     "path": "records/johan_christian_dahl.json"
+  },
+  {
+    "id": "johan_krouthen",
+    "name": "Йохан Кроутен",
+    "path": "records/johan_krouthen.json"
   },
   {
     "id": "johan_laurentz_jensen",
@@ -73,6 +93,11 @@
     "id": "johan_rohde",
     "name": "Йохан Роде",
     "path": "records/johan_rohde.json"
+  },
+  {
+    "id": "johan_tiren",
+    "name": "Йохан Тирен",
+    "path": "records/johan_tiren.json"
   },
   {
     "id": "johan_thomas_lundbye",
@@ -195,6 +220,11 @@
     "path": "records/karl_nordstrom.json"
   },
   {
+    "id": "carl_skanberg",
+    "name": "Карл Сконберг",
+    "path": "records/carl_skanberg.json"
+  },
+  {
     "id": "carl_holsoe",
     "name": "Карл Хольсёе",
     "path": "records/carl_holsoe.json"
@@ -203,6 +233,11 @@
     "id": "carl_spitzweg",
     "name": "Карл Шпицвег",
     "path": "records/carl_spitzweg.json"
+  },
+  {
+    "id": "carl_johansson",
+    "name": "Карл Юханссон",
+    "path": "records/carl_johansson.json"
   },
   {
     "id": "karlis_padegs",
@@ -463,40 +498,5 @@
     "id": "christian_krohg",
     "name": "Кристиан Крог",
     "path": "records/christian_krohg.json"
-  },
-  {
-    "id": "christian_skredsvig",
-    "name": "Кристиан Скредсвиг",
-    "path": "records/christian_skredsvig.json"
-  },
-  {
-    "id": "christian_holm",
-    "name": "Кристиан Хольм",
-    "path": "records/christian_holm.json"
-  },
-  {
-    "id": "kristian_zahrtmann",
-    "name": "Кристиан Цартман",
-    "path": "records/kristian_zahrtmann.json"
-  },
-  {
-    "id": "christine_lovmand",
-    "name": "Кристине Лёвманн",
-    "path": "records/christine_lovmand.json"
-  },
-  {
-    "id": "christine_swane",
-    "name": "Кристине Сване",
-    "path": "records/christine_swane.json"
-  },
-  {
-    "id": "cristofano_allori",
-    "name": "Кристофано Аллори",
-    "path": "records/cristofano_allori.json"
-  },
-  {
-    "id": "christoffer_wilhelm_eckersberg",
-    "name": "Кристоффер Вильхельм Эккерсберг",
-    "path": "records/christoffer_wilhelm_eckersberg.json"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "id": "van-gogh",
+    "name": "Винсент ван Гог",
+    "path": "records/van-gogh.json"
+  },
+  {
     "id": "vincenzo_dandini",
     "name": "Винченцо Дандини",
     "path": "records/vincenzo_dandini.json"
@@ -238,6 +243,11 @@
     "id": "gustaf_fjaestad",
     "name": "Густав Фьестад",
     "path": "records/gustaf_fjaestad.json"
+  },
+  {
+    "id": "gustaf_rydberg",
+    "name": "Густаф Рюдберг",
+    "path": "records/gustaf_rydberg.json"
   },
   {
     "id": "gustave_courbet",
@@ -488,15 +498,5 @@
     "id": "giovanni_di_paolo",
     "name": "Джованни ди Паоло",
     "path": "records/giovanni_di_paolo.json"
-  },
-  {
-    "id": "giovanni_lanfranco",
-    "name": "Джованни Ланфранко",
-    "path": "records/giovanni_lanfranco.json"
-  },
-  {
-    "id": "giovanni_martinelli",
-    "name": "Джованни Мартинелли",
-    "path": "records/giovanni_martinelli.json"
   }
 ]

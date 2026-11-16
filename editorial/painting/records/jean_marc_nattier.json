@@ -30,6 +30,18 @@
     {
       "title": "Репродукция и сведения о правах",
       "url": "https://commons.wikimedia.org/wiki/File:Manon_Balletti_(1757)_by_Jean-Marc_Nattier.jpg"
+    },
+    {
+      "title": "Репродукция: Портрет Марии Зефирины Французской",
+      "url": "https://commons.wikimedia.org/wiki/File:Marie_Z%C3%A9phirine_de_France_par_Nattier.jpg"
+    },
+    {
+      "title": "Репродукция: Мария Аделаида Французская в образе Дианы",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Marc_Nattier.jpg"
+    },
+    {
+      "title": "Репродукция: Генриетта Французская в образе Флоры",
+      "url": "https://commons.wikimedia.org/wiki/File:Jean-Marc_Nattier_-_Henriette_of_France_as_Flora_-_WGA16455.jpg"
     }
   ],
   "works": [
@@ -39,6 +51,27 @@
       "date": "1757",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/jean-marc-nattier-manon-balletti"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q114241470",
+      "title": "Портрет Марии Зефирины Французской",
+      "date": "1751",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Marie_Z%C3%A9phirine_de_France_par_Nattier.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q16910479",
+      "title": "Мария Аделаида Французская в образе Дианы",
+      "date": "1745",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Marc_Nattier.jpg"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q16910581",
+      "title": "Генриетта Французская в образе Флоры",
+      "date": "1742",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean-Marc_Nattier_-_Henriette_of_France_as_Flora_-_WGA16455.jpg"
     }
   ],
   "pendingWorksCount": 0

@@ -1,0 +1,46 @@
+{
+  "id": "oscar_bjork",
+  "name": "Оскар Бьёрк",
+  "latin": "Oscar Björck",
+  "life": "1860–1929",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, представленный в Skagens Museum. В этой карточке выбрана сцена спуска лодки на воду в Скагене.",
+      "Паспорт Google Cultural Institute датирует холст 1884 годом и указывает размер 160 × 194,5 см. Дата относится к картине, не к цифровой съёмке.",
+      "Учебное сопоставление с Лохером: как действие людей связано с берегом и морским пространством?"
+    ],
+    "technique": [
+      "Масло на холсте; 160 × 194,5 см",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Учебное сопоставление с Лохером: как действие людей связано с берегом и морским пространством?",
+    "caution": "Инвентарный номер не перенесён: в прочитанном wikitext соответствующее поле пусто. Датское название не меняет национальность автора. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Oscar_Bj%C3%B6rck_-_Launching_the_boat._Skagen_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=29865417"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_29865417",
+      "title": "Спуск лодки на воду. Скаген",
+      "date": "1884",
+      "museum": "Skagens Museum",
+      "source": "https://commons.wikimedia.org/wiki/File:Oscar_Bj%C3%B6rck_-_Launching_the_boat._Skagen_-_Google_Art_Project.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

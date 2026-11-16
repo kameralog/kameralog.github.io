@@ -20,7 +20,7 @@
     ],
     "innovation": "Повествование о пути Христа соединено с переживанием Богоматери, а направление света справа согласовано с освещением первоначального места в церкви. Разобранная картина показывает, что композиция алтаря рассчитана не только на сюжет, но и на конкретное пространство и форму почитания.",
     "caution": "Боккаччо Боккаччино — не писатель Джованни Боккаччо и не его сын, художник Камилло Боккаччино. Предположения о заказчиках среди воинов и о портрете Камилло не доказаны. Дата около 1501 года приблизительна. Не переноси локально свободное письмо этой работы на всё творчество художника. Сюжет содержит религиозное насилие. У Commons файл отнесён к PD-Art, хотя старые EXIF-метаданные содержат отметку Copyrighted; это разные уровни описания, а не единое разрешение музея. Визуальный просмотр и браузерная загрузка не проверены.",
-    "editorialStatus": "museum_sources_commons_image_browser_check_pending"
+    "editorialStatus": "illustrated"
   },
   "sources": [
     {
@@ -34,6 +34,10 @@
     {
       "title": "Commons: файл NG806, статус PD-Art и метаданные",
       "url": "https://commons.wikimedia.org/wiki/File:Boccaccio_Boccaccino_-_Christ_carrying_the_Cross_(National_Gallery,_London).jpg"
+    },
+    {
+      "title": "Репродукция: Цыганка",
+      "url": "https://commons.wikimedia.org/wiki/File:Boccaccino%2C_zingarella.jpg"
     }
   ],
   "works": [
@@ -43,6 +47,13 @@
       "date": "около 1501",
       "museum": "Национальная галерея, Лондон",
       "source": "https://www.nationalgallery.org.uk/paintings/boccaccio-boccaccino-christ-carrying-the-cross-and-the-virgin-mary-swooning"
+    },
+    {
+      "key": "wiki-uffizi-batch6:Q4024486",
+      "title": "Цыганка",
+      "date": "1504",
+      "museum": "Галереи Уффици, Флоренция",
+      "source": "https://commons.wikimedia.org/wiki/File:Boccaccino%2C_zingarella.jpg"
     }
   ],
   "pendingWorksCount": 0

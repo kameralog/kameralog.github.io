@@ -1,5 +1,40 @@
 [
   {
+    "id": "rothko",
+    "name": "Марк Ротко",
+    "path": "records/rothko.json"
+  },
+  {
+    "id": "chagall",
+    "name": "Марк Шагал",
+    "path": "records/chagall.json"
+  },
+  {
+    "id": "marco_basaiti",
+    "name": "Марко Базаити",
+    "path": "records/marco_basaiti.json"
+  },
+  {
+    "id": "marco_d_oggiono",
+    "name": "Марко д’Оджоно",
+    "path": "records/marco_d_oggiono.json"
+  },
+  {
+    "id": "marco_palmezzano",
+    "name": "Марко Пальмеццано",
+    "path": "records/marco_palmezzano.json"
+  },
+  {
+    "id": "marco_ricci",
+    "name": "Марко Риччи",
+    "path": "records/marco_ricci.json"
+  },
+  {
+    "id": "marthe_donas",
+    "name": "Марта Донас",
+    "path": "records/marthe_donas.json"
+  },
+  {
     "id": "maerten_van_heemskerck",
     "name": "Мартен ван Хемскерк",
     "path": "records/maerten_van_heemskerck.json"
@@ -350,6 +385,11 @@
     "path": "records/orazio_gentileschi.json"
   },
   {
+    "id": "oscar_bjork",
+    "name": "Оскар Бьёрк",
+    "path": "records/oscar_bjork.json"
+  },
+  {
     "id": "oscar_wergeland",
     "name": "Оскар Вергеланн",
     "path": "records/oscar_wergeland.json"
@@ -458,45 +498,5 @@
     "id": "peder_monsted",
     "name": "Педер Мёнстед",
     "path": "records/peder_monsted.json"
-  },
-  {
-    "id": "peder_severin_kroyer",
-    "name": "Педер Северин Крёйер",
-    "path": "records/peder_severin_kroyer.json"
-  },
-  {
-    "id": "pekka_halonen",
-    "name": "Пекка Халонен",
-    "path": "records/pekka_halonen.json"
-  },
-  {
-    "id": "peter_ilsted",
-    "name": "Петер Ильстед",
-    "path": "records/peter_ilsted.json"
-  },
-  {
-    "id": "peter_christian_skovgaard",
-    "name": "Петер Кристиан Сковгор",
-    "path": "records/peter_christian_skovgaard.json"
-  },
-  {
-    "id": "peter_raadsig",
-    "name": "Петер Родсиг",
-    "path": "records/peter_raadsig.json"
-  },
-  {
-    "id": "peter_fendi",
-    "name": "Петер Фенди",
-    "path": "records/peter_fendi.json"
-  },
-  {
-    "id": "peter_hansen",
-    "name": "Петер Хансен",
-    "path": "records/peter_hansen.json"
-  },
-  {
-    "id": "konchalovsky",
-    "name": "Пётр Кончаловский",
-    "path": "records/konchalovsky.json"
   }
 ]

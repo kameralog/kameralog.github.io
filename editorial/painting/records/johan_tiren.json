@@ -1,0 +1,50 @@
+{
+  "id": "johan_tiren",
+  "name": "Йохан Тирен",
+  "latin": "Johan Tirén",
+  "life": "1853–1911",
+  "tag": "Швеция · пейзаж, фигура и художественные связи",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-155.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Для карточки выбрана работа 1892 года о саамах, собирающих застреленных оленей.",
+      "В паспортах Commons и Wikidata работа связана с Nationalmuseum, номер NM 1437; размер холста — 150 × 241 см.",
+      "Эта работа расширяет подборку за пределы идиллического пейзажа. Название сцены не заменяет документальную проверку конкретного исторического события."
+    ],
+    "technique": [
+      "Масло на холсте; 150 × 241 см",
+      "Физические размеры даны как высота × ширина; исключения отмечены в примечании."
+    ],
+    "innovation": "Учебная связь: Эта работа расширяет подборку за пределы идиллического пейзажа. Название сцены не заменяет документальную проверку конкретного исторического события.",
+    "caution": "Низкое разрешение оригинала: 588 × 361 пиксель. Первый запрос оригинала не декодировался; повтор с параметром batch155=20261116 и миниатюра 500px декодированы. Историческое название с Lappar сохранено только в имени файла источника. Русское название — редакционный перевод. Независимый визуальный осмотр, полнота композиции, сборка, Pages и игровые раунды не проверены.",
+    "editorialStatus": "METADATA_RIGHTS_IMAGE_DECODE_ARTIST_KEY_AUDIT_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Wikimedia Commons: конкретная репродукция и условия прав",
+      "url": "https://commons.wikimedia.org/wiki/File:Johan_Tir%C3%A9n_Lappar_tillvaratagande_skjutna_renar.jpg"
+    },
+    {
+      "title": "Commons API: imageinfo и wikitext",
+      "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata&rvprop=content&rvslots=main&pageids=19891700"
+    },
+    {
+      "title": "Wikidata: паспорт NM 1437",
+      "url": "https://www.wikidata.org/wiki/Q10554222"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting155_commons_19891700",
+      "title": "Саамы собирают застреленных оленей",
+      "date": "1892",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Johan_Tir%C3%A9n_Lappar_tillvaratagande_skjutna_renar.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}
