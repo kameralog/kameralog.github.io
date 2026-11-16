@@ -1,0 +1,136 @@
+name: Publish reviewed tenth wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch10.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply reviewed tenth batch and preserve existing data
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch10-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch10-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const raw=`451|Портрет Алессандро Медичи|1555–1565|Angelo Bronzino - Alessandro de' Medici - WGA3243.jpg|700|895
+          452|Портрет Лукреции ди Козимо Медичи|1555–1565|Angelo Bronzino - Lucrezia di Cosimo - WGA3256.jpg|700|930
+          453|Фердинандо I Медичи в детстве|1555–1565|Angelo Bronzino - Ferdinando de' Medici - WGA3252.jpg|700|929
+          454|Портрет Луки Мартини|около 1555–1556|Agnolo Tori detto Bronzino (Firenze, 1503-1572) - Ritratto di Luca Martini - 434 - Galleria Palatina.jpg|1537|1865
+          455|Портрет Элеоноры Толедской с сыном Джованни|1544–1545|Bronzino - Eleonora di Toledo col figlio Giovanni - Google Art Project.jpg|2553|3098
+          456|Портрет Лукреции Панчатики|1545|Agnolo di Cosimo Tori detto Bronzino (Firenze, 1503-1572) - Ritratto di Lucrezia Panciatichi - 736 - Uffizi Gallery.jpg|1839|2300
+          457|Портрет Козимо I Медичи в доспехах|1543–1545|Portrait of Cosimo I de' Medici in armour, by Agnolo Bronzino (Uffizi Gallery, Florence).jpg|5625|6866
+          458|Портрет Джованни Медичи в детстве|1545|Bronzino - Portrait of Giovanni de’ Medici - 1475 - Uffizi Gallery.jpg|1447|1867
+          459|Портрет Бии Медичи|1542–1545|Bia di Cosimo de‘ Medici, by Agnolo Bronzino.jpg|2293|3000
+          460|Портрет Бартоломео Панчатики|около 1540|Painting - Portrait of Bartolomeo Panciatichi by Bronzino.jpg|3099|3780
+          461|Святое семейство Панчатики|1539–1540|Bronzino - Sacra famiglia Panciatichi or Madonna Panciatichi - Google Art Project.jpg|2648|3421
+          462|Портрет девушки с книгой|1545|Bronzino, Agnolo - Portrait of a Young Girl with a book.jpeg|547|691
+          463|Портрет Франческо I Медичи в детстве|1551|FrancescodeMedici.jpg|716|1001
+          464|Портрет Марии ди Козимо I Медичи|1551|Agnolo Bronzino - Maria (di Cosimo I) de' Medici.jpg|600|847
+          465|Портрет юноши с лютней|1530–1532|Angelo Bronzino 064.jpg|2536|3089
+          466|Аллегория удачи (счастья)|1564|Allegory of Fortune, by Agnolo Bronzino (Oberösterreichische Landesmuseum) (cropped).jpg|2140|2785
+          467|Пьета со святой Марией Магдалиной|1529|Angelo Bronzino - Pietà - WGA3284.jpg|1444|1691
+          468|Воплощение Христа (Непорочное зачатие со святыми)|1485–1505|Piero di Cosimo Incarnation of Jesus 01.jpg|3488|4128
+          469|Персей, освобождающий Андромеду|1510–1515|Piero di Cosimo - Liberazione di Andromeda - Google Art Project.jpg|9704|5520
+          470|Натюрморт с фруктами и насекомыми|1711|Rachel Ruysch - Still-Life with Fruit and Insects - WGA20557.jpg|2104|1736
+          471|Корзина с цветами|1711|Rachel Ruysch - Basket of Flowers - WGA20551.jpg|1626|1212
+          472|Цветы, фрукты, рептилии и насекомые на опушке леса|1716|Rachel Ruysch - Flowers, Fruit, and Insects - WGA20554.jpg|770|1016
+          473|Цветы в стеклянной вазе с гранатами на мраморной балюстраде|1716|Rachel Ruysch - Still-Life with Flowers - WGA20555.jpg|800|1106
+          474|Корабли в шторм|1667|Ludolf Backhuysen 001.jpg|2024|1682
+          475|Жертвоприношение Исаака|около 1607|Isaac Cigoli.jpg|801|1076
+          476|Автопортрет|около 1510|Self-portrait Jacob Cornelisz van Oostsaanen.png|410|601
+          477|Обрезание Христа|до 1525|Mazzolino, circoncisione, uffizi.jpeg|653|876
+          478|Мадонна с Младенцем и святыми|около 1522|Ludovico Mazzolino, Madonna col Bambino santi, 1522 circa -FG2.jpg|1679|2250
+          479|Избиение младенцев — спорная атрибуция (Маццолино или феррарский мастер круга Баттисты Досси)|до 1525 (около 1528–1530)|Mazzolino (attr.), strage degli innocenti, ante 1525, uffizi 2.jpeg|998|676
+          480|Поклонение пастухов|1520|Ludovico Mazzolino - Adoration of the Shepherds - WGA14713.jpg|701|962
+          481|Саломея получает голову Иоанна Крестителя|1615–1620|BattistelloSalome.jpg|700|573
+          482|Священная аллегория|около 1490–1500|Giovanni Bellini — Holy Allegory.jpg|7557|4510
+          483|Портрет молодого человека|1490–1510|BELLINI, Giovanni.jpg|708|904
+          484|Святой Иероним в пустыне|1477–1478|Giovanni Bellini — Saint Jerome Reading in the Desert.jpg|3964|5188
+          485|Мадонна, поклоняющаяся спящему Младенцу Христу|около 1475|Giovanni Bellini - Madonna in Adoration of the Sleeping Child - WGA01671.jpg|676|961
+          486|Автопортрет|1620-е годы|Simon Vouet self-portrait in the Uffizi.jpg|547|720
+          487|Автопортрет|1907|Sargent, John SInger (1856-1925) - Self-Portrait 1907 b.jpg|2727|3683
+          488|Милосердие (из цикла добродетелей)|1469–1470|Piero del Pollaiolo charity.jpg|751|1500
+          489|Вера (из цикла добродетелей)|1470|Piero del Pollaiolo faith.jpg|781|1500
+          490|Правосудие (из цикла добродетелей)|1469–1470|Pollaiolo, giustizia.jpg|769|1500
+          491|Благоразумие (из цикла добродетелей)|1470|Piero del Pollaiolo prudence.jpg|792|1500
+          492|Портрет Галеаццо Марии Сфорца|1471|Pollaiuolo, Piero -Portrait of Galeazzo Maria Sforza - inv. 1890 1492.jpeg|1239|1918
+          493|Надежда (из цикла добродетелей)|1470|Piero del Pollaiolo hope.jpg|792|1500
+          494|Умеренность (из цикла добродетелей)|1470|Piero del Pollaiolo - Temperance - Uffizi.jpeg|2956|5683
+          495|Автопортрет с палитрой и кистью|1680–1682|Simone Pignoni - Self-portrait with palette and brush.jpg|811|1073`;
+          const data=raw.split('\n').map(line=>{const[n,title,date,file,w,h]=line.trim().split('|');return {n:+n,title,date,file,width:+w,height:+h};});assert.deepEqual(data.map(r=>r.n),Array.from({length:45},(_,i)=>i+451));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c',queueDirectory='reports/uffizi-packages/43457577858-1',queueFiles=[1,2,3,4,5,6,7,8,9,10,11].map(n=>'new_work_candidates-'+String(n).padStart(3,'0')+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));const originalRecords=lists.flat().slice(450).map((r,i)=>({number:i+451,...r}));assert.equal(originalRecords.length,45);
+          const pageBatch={agnolo_bronzino:9,piero_di_cosimo:42,rachel_ruysch:109,ludolf_bakhuizen:73,ludovico_cardi:98,jacob_cornelisz_van_oostsanen:56,ludovico_mazzolino:52,battistello_caracciolo:85,giovanni_bellini:41,simon_vouet:102,john_singer_sargent:20,piero_del_pollaiuolo:37,simone_pignoni:99};
+          const expected={9:'94fcb12a1d5c067a55ba228705ce75af13bd7d53',20:'6371126e2e944c1a39ba24f6ab85dcba9911ff3f',37:'292430fa91c8fe38cea5dac43b34661391a7a765',41:'30e27a6b64000bd702657dfd118a68ab6c260943',42:'cc1104ec7fba675c8f27f92f7323a712067f1266',52:'e4129e8059a140bc834794d8f4dd10da665e2eec',56:'80ab5a3cf2cadf8ee5d592b06cfcc06b7a66d6e7',73:'e24ee1002dea330216e65cb60ec694401200bed0',85:'a8ca86417591b0d6f0207628a5018a31f1db59b2',98:'2d9aa79273715be254c3bbf9fa9abaef59f53976',99:'a55ae543d24e6221e4ecb23deea2f87f731657a6',102:'f204562f319c9d024799442d1edbc1200d2c3bd5',109:'fb5f9551aa050dd67e06ffab2dbb21e97005d650'};
+          const reportPath='reports/wiki-batches/batch-010.json';assert(!fs.existsSync(reportPath));const previous=[1,2,3,4,5,6,7,8,9].map(n=>{const path='reports/wiki-batches/batch-00'+n+'.json';return {path,text:fs.readFileSync(path,'utf8')};});
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          for(const r of data){const candidate=originalRecords[r.n-451],id=candidate.artistId,Q=candidate.work;assert.equal(candidate.number,r.n);assert(/^Q\d+$/.test(Q));const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const baseLicense=r.n===478?'CC0':(r.n===457||r.n===460)?'PD-old-100-expired; фотография CC BY-SA 4.0':'Public domain';const entry={number:r.n,workId:Q,originalArtistId:id,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,licenseShortName:baseLicense,originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseTemplatesChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          if(r.n===466){Object.assign(entry,{status:'deferred',reason:'Файл помечен cropped и происходит из Oberösterreichische Landesmuseum; полнота композиции не подтверждена.',parentFileFromMetadata:'Allegory of Fortune, by Agnolo Bronzino (Oberösterreichische Landesmuseum).jpg',nextAction:'Сопоставить кадрированный файл с исходным изображением и уточнить версию Уффици (инв. 00021916).'});results.push(entry);continue;}
+          const bn=pageBatch[id];assert(bn);const filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch10-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch10:'+Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name),original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const photo=r.n===460?'фотография Yanko Malinov; ':r.n===478?'фотография Fabrizio Garrisi; ':(r.n===482||r.n===484)?'фотография Gleb Simonov; ':'';
+          const credit=artist.name+'; '+photo+'Wikimedia Commons; '+baseLicense;let note='Источник репродукции и сведения о правах — в карточке конкретного файла Commons.';
+          if(r.n===479)note+=' Современная литература отвергает атрибуцию Маццолино и приписывает работу анонимному феррарскому мастеру круга Баттисты Досси.';if([460,478,482].includes(r.n))note+=' Современная дата съёмки не использована как дата картины.';if([488,489,490,491,493,494].includes(r.n))note+=' Относится к циклу добродетелей для Трибунала Мерканции.';if(Math.min(r.width,r.height)<600)note+=' Небольшой исходный файл не увеличивался искусственно.';
+          const work={key,title:r.title,date:r.date,author:artist.name,medium:'',museum:'Галереи Уффици, Флоренция',source:imageSource,image:sized(960),zoom:sized(1920),imageSource,license:baseLicense,creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n===479)work.attributionStatus='disputed';if([488,489,490,491,493,494].includes(r.n))work.objectGroup='pollaiuolo-virtues-uffizi';
+          group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,13);assert.equal(results.filter(r=>r.work).length,44);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,13);assert.equal(results.filter(r=>r.status==='deferred').length,1);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:10,batchSize:45,range:[451,495],checkedDate:'2026-11-16',status:'connected_publication_pending',total:45,foundReproductions:45,browserImagesDecoded:45,ruOrEnWikipediaArticlesFound:22,newlyConnected:44,alreadyPresentCount:0,alreadyPresent:[],duplicatesCount:0,deferredConfirmed:1,artistPages:13,sourceFiles:13,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(450)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['Все 45 файлов найдены и прошли браузерную загрузку (№451 подтверждён при повторной проверке); полный визуальный просмотр не заявляется.','№466 отложен: файл помечен cropped и происходит из Oberösterreichische Landesmuseum.','№479: сохранена оговорка о спорной атрибуции Маццолино.','№457 и №460: сохранены лицензии CC BY-SA 4.0 на фотографии; №478, 482, 484: CC0.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of previous)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch10-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{9,20,37,41,42,52,56,73,85,98,99,102,109}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-010.json
+          git diff --cached --stat
+          git commit -m 'Connect 44 tenth-batch reproductions and record deferred work'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify published catalogue and record result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch10=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch10-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch10-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-010.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=44;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-010.json
+              git commit -m 'Record live catalogue verification for wiki batch ten'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified live catalogue: 44 new bindings, one deferred. Individual page and full visual reviews remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; live catalogue verification remains pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
