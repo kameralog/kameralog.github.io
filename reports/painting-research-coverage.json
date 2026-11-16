@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "sourceCommit": "9289703d79ab3d66d6e5fdcfd03c32190688c6d3",
+  "sourceCommit": "2ee248d3871e4fd22b8ff22f7c1111c6d0f1cd49",
   "catalogueCount": 1126,
-  "connectedPackageCount": 41,
-  "connectedDossierCount": 443,
+  "connectedPackageCount": 42,
+  "connectedDossierCount": 453,
   "connectedIds": [
     "abraham_bloemaert",
     "abraham_brueghel",
@@ -139,12 +139,22 @@
     "basawan",
     "battista_di_biagio_sanguigni",
     "battistello_caracciolo",
+    "bela_czobel",
+    "bela_ivanyi_grunwald",
+    "bela_kadar",
+    "bela_uitz",
+    "benedetto_luti",
     "benozzo_gozzoli",
+    "berlinghiero",
+    "bernaert_van_orley",
     "bernardino_bergognone",
     "bernardino_butinone",
     "bernardino_luini",
+    "bernardo_castello",
+    "bernardo_cavallino",
     "bernardo_strozzi",
     "bernardo_zenale",
+    "berndt_lindholm",
     "boccaccio_boccaccino",
     "bonaventura_berlinghieri",
     "botticelli",
@@ -451,7 +461,7 @@
   ],
   "unconnectedPackageFiles": [],
   "unconnectedIds": [],
-  "remainingCount": 683,
+  "remainingCount": 673,
   "next50": [
     {
       "id": "august_hagborg",
@@ -472,56 +482,6 @@
       "id": "atetelco_white_patio",
       "name": "Атетелько: Белый дворик",
       "path": "records/atetelco_white_patio.json"
-    },
-    {
-      "id": "bela_ivanyi_grunwald",
-      "name": "Бела Иваньи-Грюнвальд",
-      "path": "records/bela_ivanyi_grunwald.json"
-    },
-    {
-      "id": "bela_kadar",
-      "name": "Бела Кадар",
-      "path": "records/bela_kadar.json"
-    },
-    {
-      "id": "bela_uitz",
-      "name": "Бела Уиц",
-      "path": "records/bela_uitz.json"
-    },
-    {
-      "id": "bela_czobel",
-      "name": "Бела Цобель",
-      "path": "records/bela_czobel.json"
-    },
-    {
-      "id": "benedetto_luti",
-      "name": "Бенедетто Лути",
-      "path": "records/benedetto_luti.json"
-    },
-    {
-      "id": "berlinghiero",
-      "name": "Берлингьеро Берлингьери",
-      "path": "records/berlinghiero.json"
-    },
-    {
-      "id": "bernardo_cavallino",
-      "name": "Бернардо Каваллино",
-      "path": "records/bernardo_cavallino.json"
-    },
-    {
-      "id": "bernardo_castello",
-      "name": "Бернардо Кастелло",
-      "path": "records/bernardo_castello.json"
-    },
-    {
-      "id": "bernaert_van_orley",
-      "name": "Бернарт ван Орлей",
-      "path": "records/bernaert_van_orley.json"
-    },
-    {
-      "id": "berndt_lindholm",
-      "name": "Берндт Линдхольм",
-      "path": "records/berndt_lindholm.json"
     },
     {
       "id": "berthe_art",
@@ -702,12 +662,62 @@
       "id": "vilhelm_groth",
       "name": "Вильхельм Грот",
       "path": "records/vilhelm_groth.json"
+    },
+    {
+      "id": "vilhelm_kyhn",
+      "name": "Вильхельм Кюн",
+      "path": "records/vilhelm_kyhn.json"
+    },
+    {
+      "id": "vilhelm_melbye",
+      "name": "Вильхельм Мельбю",
+      "path": "records/vilhelm_melbye.json"
+    },
+    {
+      "id": "van-gogh",
+      "name": "Винсент ван Гог",
+      "path": "records/van-gogh.json"
+    },
+    {
+      "id": "vincenzo_dandini",
+      "name": "Винченцо Дандини",
+      "path": "records/vincenzo_dandini.json"
+    },
+    {
+      "id": "virginie_demont_breton",
+      "name": "Виржини Демон-Бретон",
+      "path": "records/virginie_demont_breton.json"
+    },
+    {
+      "id": "vittore_ghislandi",
+      "name": "Витторе Гисланди",
+      "path": "records/vittore_ghislandi.json"
+    },
+    {
+      "id": "vojtech_hynais",
+      "name": "Войтех Гинайc",
+      "path": "records/vojtech_hynais.json"
+    },
+    {
+      "id": "vaino_blomstedt",
+      "name": "Вяйнё Блумстедт",
+      "path": "records/vaino_blomstedt.json"
+    },
+    {
+      "id": "vaino_kunnas",
+      "name": "Вяйнё Куннас",
+      "path": "records/vaino_kunnas.json"
+    },
+    {
+      "id": "hans_makart",
+      "name": "Ганс Макарт",
+      "path": "records/hans_makart.json"
     }
   ],
   "inputSHA256": {
     "editorial/painting/manifest.json": "da010b882d7119b671011bf00e59f2edda4d6a3412c3075e1dfeeda35def3c22",
-    "editorial/painting/research/manifest.json": "3d5cf636eb318671008c4c5dc6c7b92345ba0d075958e30c30c72a777ecde7d1",
-    "editorial/painting/summary.json": "758e6fcb3ee32dd8009e9fa6b84e725c113b9037e8bdd40efffcec538bc3a26a",
+    "editorial/painting/research/manifest.json": "536654e6e6b79395662e66c9e9c2b3aa00cfd77d223367d7343bf3c642329d9c",
+    "editorial/painting/summary.json": "296c9dc6eb18ad1e9f4e7fb41f7fd4dc15f8fc623b9d37ff2a6b2b06c0df08a0",
     "editorial/painting/index-000.json": "5c5bd1dbd63d0ddc99db53e1d76d72b151372d406f649a154199936c9d0e0e2f",
     "editorial/painting/index-001.json": "cc7e7dffc657c42eadde87a7e6bc488f0ff2158b8d73aa033ea0c01c769ec176",
     "editorial/painting/index-002.json": "8832d5f0a885af20875683ede0b0f4819c667d66aa5e53cb64dc04b5310d5d8e",
@@ -761,20 +771,11 @@
     "editorial/painting/research/batch-016b.json": "730c1ce000945af2d746db351a08b27d647f39e395405d93361a909464e53c16",
     "editorial/painting/research/batch-016c.json": "01b8ed807c434f4fc19c0e27513738b491dcf4608457d1590c4bb87b7f36ac33",
     "editorial/painting/research/batch-016d.json": "5b9bbd3d3561c0a98aef5eb1bf751ff895ce438a8072c13e6606b19df1d645ea",
+    "editorial/painting/research/batch-016e.json": "09811989936c3ffd443ab07f04c1ab639e408ca8e6cc4ab608b5bb8e851c21c8",
     "editorial/painting/records/august_hagborg.json": "20a2cecca2516d07fabbfe1f20a7898ad8c1117d8b1d9f70ea230500c17d7f19",
     "editorial/painting/records/axel_borg.json": "b5353609ab849e512d71b7d1a2b74ee200d474880877f67204d45adbd5f19395",
     "editorial/painting/records/axel_kulle.json": "72afb645bf08050f3026d42c0d63b46336f51d821d6d4ad8ab783936144e1b07",
     "editorial/painting/records/atetelco_white_patio.json": "634b5dfa73fe26d48c53e4033f6d0626744c5df95bbbd8bfa63f3553fecf45c6",
-    "editorial/painting/records/bela_ivanyi_grunwald.json": "110fb564b11fc98b130302e19830b7a8ee3c94dbf5378c98ee07ebb2f94a68b4",
-    "editorial/painting/records/bela_kadar.json": "b30a349b4e76513f7fc9d80e906812bb4174dbe522e626dde48d0147da971eec",
-    "editorial/painting/records/bela_uitz.json": "5eef0bf9213d40d8cd9b313d0f986d6adc27eb3efaa6e9816477951bd47671a3",
-    "editorial/painting/records/bela_czobel.json": "6b8eff83810dcd0ee31387a8b2577f3ca4cdf947bf0fc5385f0306c66e9ecf90",
-    "editorial/painting/records/benedetto_luti.json": "f2b723fc87f1debc5ee3c03719b239b1c634aab19a5d4ed994033a5b29b9aefe",
-    "editorial/painting/records/berlinghiero.json": "6475bea5d43e915425aefd11d08c8edf8ba3865b8b5067a0d99f05e0a14ca8ec",
-    "editorial/painting/records/bernardo_cavallino.json": "48b5993ad729dcc40332d0450157e56216f0d120c867b457072f554b4a379dd2",
-    "editorial/painting/records/bernardo_castello.json": "e039c96f0f6bb801adbd1d4f1797df79ce3deb52922c58737b8e683d9dcaf7e7",
-    "editorial/painting/records/bernaert_van_orley.json": "0569ca2fdcffc5e35f9ad1729d973896fa3749765f4d8d1b386e6b9decd44495",
-    "editorial/painting/records/berndt_lindholm.json": "193ef2d92836cb4402b193ce8b10e0599b16e93ebb200442876aeafa44ff2688",
     "editorial/painting/records/berthe_art.json": "e4f06323cd06e1930ca885999cc95f061473d4e68da7cd801d052d07f7f8b42f",
     "editorial/painting/records/bertha_wegmann.json": "2c4f406ce1a69f3f952331aa8ff1bfc22439676534c034e82c1d79b6991bda5a",
     "editorial/painting/records/bertalan_por.json": "1c0446f0617398b9f92265ac3fe4927d20ddd294624400f8e4e4fb6d1d7050d9",
@@ -810,7 +811,17 @@
     "editorial/painting/records/wilhelm_smith.json": "393729be3b052a5252c9927f0c875bce3841ffbf5a132d57df111c8b9d11a394",
     "editorial/painting/records/vilmos_aba_novak.json": "fff4bb58d3ad71e54d01fdfeb7749c25a6130b2de97b1f1d4059bf8de1fc5260",
     "editorial/painting/records/vilmos_perlrott_csaba.json": "730682ba0246f2d6af45e1b97a284a553b09c20ef550f8b8b097d08dc90afd7d",
-    "editorial/painting/records/vilhelm_groth.json": "95fdde6a96fdfccfb41e281ea20a68dae02de90f416d204a788688c0752a7060"
+    "editorial/painting/records/vilhelm_groth.json": "95fdde6a96fdfccfb41e281ea20a68dae02de90f416d204a788688c0752a7060",
+    "editorial/painting/records/vilhelm_kyhn.json": "5e571d701da2341d1369a6496eae6855cd05b7b150360d2d3269d754bece268f",
+    "editorial/painting/records/vilhelm_melbye.json": "09a5e94910a03989246494b63c4e9b5951f941eade8f983fec386826f4c4b433",
+    "editorial/painting/records/van-gogh.json": "edcf14c5531136aae1f1788628b251ace339978845fd512ca9400092b14ed917",
+    "editorial/painting/records/vincenzo_dandini.json": "8355550ace631314ae2dbf4314b182deee7b59552f75b7a0b997ed2ed45b33b6",
+    "editorial/painting/records/virginie_demont_breton.json": "41d91c6270e74f1391aad9df08a73464882fb4870269ca3e6af572f1d6b4e404",
+    "editorial/painting/records/vittore_ghislandi.json": "dc0b43284d00dd8f44b5c043999aa92148a0a8e82535e4801c692f3a5eabbf82",
+    "editorial/painting/records/vojtech_hynais.json": "b6a6dca9a3752419d6baaca23b2ed9aba5e243ab674dcf635fbda1aa25cad116",
+    "editorial/painting/records/vaino_blomstedt.json": "dbadf89f9eded54d12d715eee4b90ceac027666504b06f05dd1ef1ab13f053bf",
+    "editorial/painting/records/vaino_kunnas.json": "52fff1057e33983671cda2a425b3409bb5c051c03fff49e3ceda77eb31625ba3",
+    "editorial/painting/records/hans_makart.json": "a97d5da57feddbc7d5dba3b144d049be0175ea3a3060ec20ddf78dc39b603dca"
   },
   "verificationScope": "ID, path, structure and count checks only; not historical, visual or rights verification"
 }
