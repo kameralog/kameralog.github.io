@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "label": "Batch 160: candidate files only; duplicate audit, identity, rights and visual review are not approved",
+  "items": [
+    {
+      "id": "oscar_torna_grez",
+      "file": "File:Landscape near Grez-sur-Loing (Oscar Törnå) - Nationalmuseum - 19129.tif"
+    },
+    {
+      "id": "axel_borg_jester",
+      "file": "File:Axel Borg - Gycklare med apa.jpg"
+    },
+    {
+      "id": "axel_kulle_fishergirl",
+      "file": "File:Fishergirl from Skåne (Henrik Axel Kulle) - Gothenburg Museum of Art - F 63.tif"
+    },
+    {
+      "id": "ferdinand_fagerlin_bachelorhood",
+      "file": "File:Ferdinand Fagerlin - The Hardships of Bachelorhood - NG.M.00234 - National Museum of Art, Architecture and Design.jpg"
+    },
+    {
+      "id": "august_hagborg_shore",
+      "file": "File:Shore with Boats (August Hagborg) - Gothenburg Museum of Art - F 32b.tif"
+    },
+    {
+      "id": "nils_forsberg_hero_study",
+      "file": "File:Death of a Hero. Study. (Nils Forsberg) - Gothenburg Museum of Art - GKM 2013-114.tif"
+    },
+    {
+      "id": "joseph_magnus_stack_capri",
+      "file": "File:Joseph Magnus Stäck - View from Capri - NM 6790 - Nationalmuseum.jpg"
+    },
+    {
+      "id": "kilian_zoll_midsummer",
+      "file": "File:Midsummer Dance at Rättvik (Kilian Zoll) - Nationalmuseum - 19489.tif"
+    },
+    {
+      "id": "egron_lundgren_fruit_sellers",
+      "file": "File:Egron Lundgren - Neapolitan Fruit-Sellers - NM 2255 - Nationalmuseum.jpg"
+    },
+    {
+      "id": "per_daniel_holm_laponian",
+      "file": "File:Per Daniel Holm - Laponian Landscape with Reindeer and Sami - NM 6593 - Nationalmuseum.jpg"
+    }
+  ]
+}
