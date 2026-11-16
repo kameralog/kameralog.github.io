@@ -1,0 +1,97 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_karl_nordstrom",
+  "input": {
+    "id": "reserve50_karl_nordstrom",
+    "file": "File:Karl Nordström - Storm Clouds - Google Art Project.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg/1280px-Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg/1280px-Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1143,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 22264304,
+    "title": "File:Karl Nordström - Storm Clouds - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 3488,
+    "height": 3114,
+    "extmetadata": {
+      "Artist": {
+        "value": "<div class=\"fn value\">\nKarl Nordström (1855 - 1923)  (Swedish)<br> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/artist/karl-nordstrom/4132258/\">Details on Google Art Project</a></div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1893<div style=\"display: none;\">date QS:P571,+1893-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/ngEvYXM8IcuDDw\">ngEvYXM8IcuDDw at Google Cultural Institute</a> maximum zoom level",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n | wikidata = Q18574638\n|commons_artist=\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_year = 1855\n|artist_death_year = 1923\n|artist_first_name = Karl\n|artist_gender = Male\n|artist_id = 465059\n|artist_last_name = Nordström\n|artist_nationality = Swedish\n|artist_pretty_display_date = (1855 - 1923)\n|absolute_url = /collection/nationalmuseum-stockholm/artwork/storm-clouds-karl-nordstrom/462074/\n|artist_display_name = Karl Nordström\n|canonical_artist_detail_url = /artist/karl-nordstrom/4132258/\n|canonical_artist_id = 4132258\n|collection_detail_url = /collection/nationalmuseum-stockholm/\n|collection_display_name = Nationalmuseum Stockholm\n|collection_id = 392279\n|collection_website = https://www.nationalmuseum.se/\n|created = 12/8/2011 2:26:59 PM\n|detail_url = /collection/nationalmuseum-stockholm/artwork/storm-clouds-karl-nordstrom/462074/\n|earliest_date = 1893\n|facet_medium = Oil on canvas\n|height = 720\n|id = 462074\n|in_streetview = False\n|latest_date = 1893\n|measurement_extent = without frame\n|modified = 3/24/2012 2:37:07 AM\n|museum_internal_id = {{Nationalmuseum Stockholm link|18898|NM 1893}}\n|object_rights = Nationalmuseum\n|object_work_type = Painting\n|pivot_earliest_decade = 1890\n|pivot_latest_decade = 1900\n|pretty_dimensions = w800 x h720 cm\n|pretty_display_date = 1893\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.12035010940919\n|primary_image_rights = Nationalmuseum\n|record_type = Object\n|slug = storm-clouds-karl-nordstrom\n|title = Storm Clouds\n|title_firstletter = s\n|width = 800\n|Medium = {{technique|oil|canvas}}\n|Signature = KN 93\n|Title_in_Swedish = Ovädersmoln\n|special:url_id = ngEvYXM8IcuDDw\n}}\n\n=={{int:license-header}}==\n{{PD-Art-two-auto|1923}}\n\n[[Category:Paintings by Karl Nordström in the Nationalmuseum Stockholm]]\n[[Category:Google Art Project works by Karl Nordström]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3488,
+    3114
+  ]
+}

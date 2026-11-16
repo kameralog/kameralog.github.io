@@ -1,0 +1,106 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_werner_holmberg",
+  "input": {
+    "id": "reserve50_werner_holmberg",
+    "file": "File:Werner Holmberg (1830–1860)- Road in Häme (A Hot Summer Day) - Maantie Hämeessä (Helteinen kesäpäivä) (29649636045).jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg/1280px-Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg/1280px-Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1084,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg/3840px-Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg/3840px-Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 3251,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 51745423,
+    "title": "File:Werner Holmberg (1830–1860)- Road in Häme (A Hot Summer Day) - Maantie Hämeessä (Helteinen kesäpäivä) (29649636045).jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Werner_Holmberg_(1830%E2%80%931860)-_Road_in_H%C3%A4me_(A_Hot_Summer_Day)_-_Maantie_H%C3%A4meess%C3%A4_(Helteinen_kes%C3%A4p%C3%A4iv%C3%A4)_(29649636045).jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/61/Werner_Holmberg_%281830%E2%80%931860%29-_Road_in_H%C3%A4me_%28A_Hot_Summer_Day%29_-_Maantie_H%C3%A4meess%C3%A4_%28Helteinen_kes%C3%A4p%C3%A4iv%C3%A4%29_%2829649636045%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 9203,
+    "height": 7792,
+    "extmetadata": {
+      "Artist": {
+        "value": "<div class=\"fn value\">\n<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/127104863@N05\">Finnish National Gallery</a></div>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<div class=\"description\">\n<p>artist / taiteilija: Werner Holmberg (1830–1860)\n</p><p>title / teosnimi: Road in Häme (A Hot Summer Day) / Maantie Hämeessä (Helteinen kesäpäivä)\n</p><p>date / ajoitus: 1860\n</p><p>technique / tekniikka: oil on canvas / öljy kankaalle\n</p><p>measurements / mitat: 88,5 cm x 103,5 cm\n</p><p>University of Helsinki / Helsingin yliopisto\n</p><p>Deposit Finnish National Gallery / Ateneum Art Museum\nTalletus Kansallisgalleria / Ateneumin taidemuseo\n</p><p>inv. no. A II 1002\n</p>\nphoto / kuva: Finnish National Gallery / Kansallisgalleria / Hannu Aaltonen</div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "27 November 2015, 12:50",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/finnishnationalgallery/29649636045/\">Werner Holmberg (1830–1860): Road in Häme (A Hot Summer Day) / Maantie Hämeessä (Helteinen kesäpäivä)</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata           = \n |artist             = \n |author             = [https://www.flickr.com/people/127104863@N05 Finnish National Gallery]\n |title              = \n |description        = artist / taiteilija: Werner Holmberg (1830–1860)\n\ntitle / teosnimi: Road in Häme (A Hot Summer Day) / Maantie Hämeessä (Helteinen kesäpäivä)\n\ndate / ajoitus: 1860\n\ntechnique / tekniikka: oil on canvas / öljy kankaalle\n\nmeasurements / mitat: 88,5 cm x 103,5 cm\n\nUniversity of Helsinki / Helsingin yliopisto\n\nDeposit Finnish National Gallery / Ateneum Art Museum\nTalletus Kansallisgalleria / Ateneumin taidemuseo\n\ninv. no. A II 1002\n\nphoto / kuva: Finnish National Gallery / Kansallisgalleria / Hannu Aaltonen\n |object type        = painting\n |date               = 2015-11-27 12:50\n |medium             = \n |dimensions         = \n |institution        = \n |department         = \n |accession number   = \n |place of creation  = \n |place of discovery = \n |object history     = \n |exhibition history = \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = [https://www.flickr.com/photos/finnishnationalgallery/29649636045/ Werner Holmberg (1830–1860): Road in Häme (A Hot Summer Day) / Maantie Hämeessä (Helteinen kesäpäivä)]\n |permission         = \n |other_versions     = \n |other_fields       = \n}}\n\n=={{int:license-header}}==\n{{cc-zero}}\n{{User:FlickreviewR/reviewed-pass|Finnish National Gallery|https://flickr.com/photos/127104863@N05/29649636045|2016-09-26 00:30:53|cc-zero|}}\n[[Category:Road in Häme (A Hot Summer Day) by Werner Holmberg]]\n[[Category:Taken with Hasselblad H5D-50 MS]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    9203,
+    7792
+  ]
+}

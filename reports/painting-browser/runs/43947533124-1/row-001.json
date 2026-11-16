@@ -1,0 +1,52 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "coverage001_retry_039_antonin_slavicek",
+  "input": {
+    "id": "coverage001_retry_039_antonin_slavicek",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+    "native": [
+      800,
+      688
+    ],
+    "evidenceRow": 14
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 800,
+      "height": 688,
+      "attempt": 1,
+      "screenshot": "001-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/7/74/Anton%C3%ADn_Slav%C3%AD%C4%8Dek_-_At_Kameni%C4%8Dky_-_O_17427_-_National_Gallery_Prague.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 800,
+      "height": 688,
+      "attempt": 1,
+      "screenshot": "001-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    800,
+    688
+  ]
+}

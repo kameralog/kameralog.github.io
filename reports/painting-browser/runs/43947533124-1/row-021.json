@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_pekka_halonen",
+  "input": {
+    "id": "reserve50_pekka_halonen",
+    "file": "File:Pekka Halonen - Oijustie.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Pekka_Halonen_-_Oijustie.jpg/1280px-Pekka_Halonen_-_Oijustie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Pekka_Halonen_-_Oijustie.jpg/1280px-Pekka_Halonen_-_Oijustie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 2012,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Pekka_Halonen_-_Oijustie.jpg/3840px-Pekka_Halonen_-_Oijustie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Pekka_Halonen_-_Oijustie.jpg/3840px-Pekka_Halonen_-_Oijustie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 6035,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 22129777,
+    "title": "File:Pekka Halonen - Oijustie.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Pekka_Halonen_-_Oijustie.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pekka_Halonen_-_Oijustie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4000,
+    "height": 6286,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Pekka_Halonen\" class=\"extiw\" title=\"w:en:Pekka Halonen\"><span title=\"Finnish painter (1865-1933)\">Pekka Halonen</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1892<div style=\"display: none;\">date QS:P571,+1892-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://paintingdb.com/view/8677\">PaintingDb, Object 8677</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|wikidata=Q18346893\n|Artist = {{Creator:Pekka Halonen}}\n|Title = {{title|en=The Short Cut|fi=Oijustie|sv=Genvägen}}\n|Year = 1892\n|Technique = {{oil on canvas}}\n|Dimensions = {{size|cm|145|92}}\n|institution = {{Institution:Ateneum Art Museum}}\n|Location = Helsinki\n|Notes = \n|references=[http://kokoelmat.fng.fi/wandora/w?si=A+IV+2940 kokoelmat.fng.fi]\n|credit line=osto 11.3.1955\n|ID = A IV 2940\n|Source = {{paintingdb|8677}}\n|Permission = \n|Other versions = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1933}}\n\n[[Category:The Short-Cut (Pekka Halonen)]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4000,
+    6286
+  ]
+}

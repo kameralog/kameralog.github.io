@@ -1,0 +1,102 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_victor_westerholm",
+  "input": {
+    "id": "reserve50_victor_westerholm",
+    "file": "File:Victor Westerholm - Cows in a Birch Forest.png"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Victor_Westerholm_-_Cows_in_a_Birch_Forest.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Victor_Westerholm_-_Cows_in_a_Birch_Forest.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded.",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 92874601,
+    "title": "File:Victor Westerholm - Cows in a Birch Forest.png",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Victor_Westerholm_-_Cows_in_a_Birch_Forest.png",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Victor_Westerholm_-_Cows_in_a_Birch_Forest.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/png",
+    "width": 724,
+    "height": 969,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Victor_Westerholm\" class=\"extiw\" title=\"w:en:Victor Westerholm\"><span title=\"Finnish landscape painter (1860–1919)\">Victor Westerholm</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1886<div style=\"display: none;\">date QS:P571,+1886-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Rantala, Satu (2010). Alkuperäiskehys Victor Westerholmin maalaukseen Lehmiä koivumetsässä : Kehyksen konservointi ja restaurointi. <a rel=\"nofollow\" class=\"external free\" href=\"https://www.theseus.fi/handle/10024/15024\">https://www.theseus.fi/handle/10024/15024</a>. (frames cropped)",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color: var(--background-color-interactive, #f0f0f0); color: inherit; border: 2px solid var(--border-color-subtle, #e0e0e0); width:100%;\" class=\"layouttemplate\" dir=\"ltr\" lang=\"en\">\n<tbody><tr>\n<td>\n<div class=\"center\">This is a faithful photographic reproduction of a two-dimensional, <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> work of art. The work of art itself is in the public domain for the following reason:</div>\n<div dir=\"auto\">\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1919, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></div>\n<div class=\"center\">The official position taken by the Wikimedia Foundation is that \"<i>faithful reproductions of two-dimensional public domain works of art are public domain</i>\".<br><b>This photographic reproduction is therefore also considered to be in the public domain in the United States.</b> In other jurisdictions, re-use of this content may be restricted; <b>see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Reuse of PD-Art photographs</a> for details.</b></div> \n</td></tr></tbody></table>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|artist = {{Creator:Victor Westerholm}}\n|title = {{en|1=Cows in a Birch Forest}}\n{{fi|1=Lehmiä koivumetsässä}}\n|date = 1886\n|object type = painting\n|medium = {{technique|oil|canvas}}\n|dimensions = {{size|unit=cm|height=172|width=129}}\n|institution = {{Institution:Turku Art Museum}}\n|source = Rantala, Satu (2010). Alkuperäiskehys Victor Westerholmin maalaukseen Lehmiä koivumetsässä : Kehyksen konservointi ja restaurointi. https://www.theseus.fi/handle/10024/15024. (frames cropped)\n|notes = There is also a sketch of the work sold by Hagelstam: https://www.hagelstam.fi/victor-westerholm-1860-1919-1b0084ac0294e60f3c021e7c47620268. This completed painting is on display at Turku Art Museum as described in the source and as seen on TripAdvisor: https://www.tripadvisor.fi/Attraction_Review-g189949-d2648868-Reviews-or15-Turku_Art_Museum-Turku_Southwest_Finland.html#photos;aggregationId=101&albumid=101&filter=7&ff=399312016. There is also a strange image here that seems to show sides of the painting usually covered by the frame: kevät – kesä valikoima 2019 - Mastermark https://www.mastermark.fi/media/filer/2019/01/24/muurla_kokonaisvalikoima_2019.pdf. The image quality wasn't as good so it was an easy choice not uploading it instead.\n|object history = \n|accession number =\n|permission = {{PD-Art|PD-old-100-1923|deathyear=1919}}\n}}\n\n[[Category:Landscape paintings by Victor Westerholm]]\n[[Category:Cows in art of Finland]]\n[[Category:Landscape paintings with cows]]\n[[Category:1880s landscape paintings from Finland]]\n[[Category:1886 paintings from Finland]]\n[[Category:1886 oil on canvas paintings]]\n[[Category:Paintings in the Turku Art Museum]]\n[[Category:Cattle in art]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    724,
+    969
+  ]
+}

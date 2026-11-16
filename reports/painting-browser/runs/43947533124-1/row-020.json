@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_magnus_von_wright",
+  "input": {
+    "id": "reserve50_magnus_von_wright",
+    "file": "File:Magnus von Wright - Annankatu on a Cold Winter Morning - Google Art Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg/1280px-Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg/1280px-Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 853,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg/3840px-Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg/3840px-Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2559,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 29191474,
+    "title": "File:Magnus von Wright - Annankatu on a Cold Winter Morning - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Magnus_von_Wright_-_Annankatu_on_a_Cold_Winter_Morning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4001,
+    "height": 2666,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Magnus_von_Wright\" class=\"extiw\" title=\"w:en:Magnus von Wright\"><span title=\"Finnish painter and ornithologist (1805-1868)\">Magnus von Wright</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1868<div style=\"display: none;\">date QS:P571,+1868-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/WQFzQLHtC-E2ow\">WQFzQLHtC-E2ow at Google Cultural Institute</a>, zoom level maximum",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Cultural Institute\n|wikidata=Q11851646\n|commons:artist={{Creator:Magnus von Wright}}\n|commons:title=\n|commons:description=\n|commons:date=\n|commons:medium=\n|commons:dimensions=\n|commons:institution={{Institution:Ateneum Art Museum}}\n|commons:location=\n|commons:references=\n|commons:object_history=\n|commons:exhibition_history=\n|commons:credit_line=\n|commons:inscriptions=\n|commons:notes=\n|commons:accession_number=\n|commons:source=\n|commons:permission=\n|commons:other_versions=\n|commons:zoom=\n\n|core:title = {{en|Annankatu on a Cold Winter Morning}}\n|core:creator = {{en|Magnus von Wright}}\n|core:date.dateCreated = 1868\n|core:format = {{en|w54 x h36 cm (without frame)}}\n|core:type = {{en|Paintings}}\n|commons:object type=painting\n|core:rights = {{en|http://www.fng.fi/informationandresearch/photographicservice}}\n|core:format.medium = {{en|Oil on canvas}}\n|art:artist_birth_place = {{en|Haminalahti, Kuopio}}\n|art:artist_nationality = {{en|Finnish}}\n|art:artist_death_place = {{en|Helsinki}}\n|art:artist_date = 1805/1868\n|c-01b036b5:customtext.inventory_number = {{en|A I 30}}\n|c-01b036b5:customtext.dimensions = {{en|36 x 54 cm}}\n|c-01b036b5:customtext.inventory_number_source = {{en|Ateneum}}\n|c-01b036b5:customtext.dimensions_source = {{en|Ateneum}}\n|c-01b036b5:customtext.dimensions_extent = {{en|Without frame}}\n|c-01b036b5:customtext.medium_source = {{en|Ateneum}}\n|google:display_date = 1868\n|google:is_gigapixel = FALSE\n|google:is_secured = TRUE\n|google:street_view_asset/id = dQFaYTtPJoYmWQ\n|google:street_view_level/id = 9329154126859276170\n|google:street_view_location = 60.169845581054688,24.943901062011719,1.0700000524520874,1Nd3dbA3fV13JCAkzkEr0w\n|google:partner/id = 0000000001b036b5\n|google:is_artproject = TRUE\n|google:picasa_token = juiJ9l6LM9AHNZTEOuRd7ditbF0\n|special:url_id = WQFzQLHtC-E2ow\n|google:partner/name = Ateneum Art Museum\n|special:partner/name_no_lang = Ateneum Art Museum\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-100-1923|deathyear=1868}}\n\n[[Category:Google Art Project works by Magnus von Wright]]\n[[Category:Paintings of Helsinki]]\n[[Category:1860s paintings from Finland]]\n[[Category:1860s landscape paintings from Finland]]\n[[Category:1868 in Helsinki]]\n[[Category:Annankatu]]\n[[Category:Winter in art of Finland]]\n[[Category:Paintings of city streets in winter]]\n[[Category:Paintings by Magnus von Wright]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4001,
+    2666
+  ]
+}

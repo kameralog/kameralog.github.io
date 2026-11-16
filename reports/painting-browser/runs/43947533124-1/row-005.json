@@ -1,0 +1,51 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "coverage001_retry_046_bagta",
+  "input": {
+    "id": "coverage001_retry_046_bagta",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg/1280px-Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "native": [
+      1900,
+      1326
+    ],
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg",
+    "evidenceRow": 18
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg/1280px-Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg/1280px-Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 893,
+      "attempt": 1,
+      "screenshot": "005-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ravat_Gokul_Das_II_at_Sing_Sagar_Lake_Palace._Devgarh%2C_Mewar%2C_dated_1806%2C_The_Ashmolean_Museum%2C_Oxford..jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1900,
+      "height": 1326,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    1900,
+    1326
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "coverage001_retry_044_augusto_giacometti",
+  "input": {
+    "id": "coverage001_retry_044_augusto_giacometti",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Augusto_Giacometti_-_Chromatische_Fantasie_-_1954-0030_-_Kunsthaus_Z%C3%BCrich.jpg",
+    "native": [
+      1194,
+      1200
+    ],
+    "evidenceRow": 17
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Augusto_Giacometti_-_Chromatische_Fantasie_-_1954-0030_-_Kunsthaus_Z%C3%BCrich.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Augusto_Giacometti_-_Chromatische_Fantasie_-_1954-0030_-_Kunsthaus_Z%C3%BCrich.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1194,
+      "height": 1200,
+      "attempt": 1,
+      "screenshot": "004-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Augusto_Giacometti_-_Chromatische_Fantasie_-_1954-0030_-_Kunsthaus_Z%C3%BCrich.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Augusto_Giacometti_-_Chromatische_Fantasie_-_1954-0030_-_Kunsthaus_Z%C3%BCrich.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1194,
+      "height": 1200,
+      "attempt": 1,
+      "screenshot": "004-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    1194,
+    1200
+  ]
+}

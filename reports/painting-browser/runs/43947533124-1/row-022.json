@@ -1,0 +1,112 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_richard_bergh",
+  "input": {
+    "id": "reserve50_richard_bergh",
+    "file": "File:Bergh, Richard - Nordic Summer Evening - Gothenburg Museum of Art - F 7.tif"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif/lossy-page1-1280px-Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif/lossy-page1-1280px-Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 980,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif/lossy-page1-3840px-Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif/lossy-page1-3840px-Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2940,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 139013451,
+    "title": "File:Bergh, Richard - Nordic Summer Evening - Gothenburg Museum of Art - F 7.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Bergh,_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/08/Bergh%2C_Richard_-_Nordic_Summer_Evening_-_Gothenburg_Museum_of_Art_-_F_7.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 9255,
+    "height": 7087,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Richard_Bergh\" class=\"extiw\" title=\"w:en:Richard Bergh\"><span title=\"Swedish artist (1858–1919)\">Richard Bergh</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1899-1900",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://emp-web-34.zetcom.ch:443/eMP/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=2146&amp;viewType=detailView\">Göteborgs konstmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou</div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY 4.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 4.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/4.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-4.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n |artist = {{Creator:Richard Bergh}}\n |author = \n |title = {{sv|Nordisk sommarkväll}} {{en|Nordic Summer Evening}}\n |description = \n |date = 1899-1900\n |medium = {{Oil on canvas}}\n |dimensions = 170 x 223,5 cm\nFrame: 189,5 x 243,5 x 8,5 cm\n |institution = {{institution:Göteborgs konstmuseum}}\n |department = \n |place of discovery = \n |object history = \n |exhibition history = \n |credit line = {{sv|Testamentarisk gåva av Pontus och Göthilda Fürstenberg 1902}} {{en|Bequest of Pontus and Göthilda Fürstenberg, 1902}}\n |inscriptions = {{sv|Signatur: RB. (monogram) 1899-1900}}\n |notes = {{Q|Q263985}}\n |accession number = F 7\n |object type = painting\n |depicted people = \n |depicted place = {{Q|Q54349}}\n |place of creation = \n |source = [https://emp-web-34.zetcom.ch:443/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=2146&viewType=detailView Göteborgs konstmuseum]\n |permission = {{Cc-by-4.0|Göteborgs konstmuseum (Gothenburg Museum of Art). Photo: Hossein Sehatlou}}\n |other_versions = \n |references = \n |wikidata = Q17190395\n}}\n\n=={{int:license-header}}==\n\n\n[[Category:Media contributed by Göteborgs konstmuseum]]\n[[Category:Media contributed by Göteborgs konstmuseum: 2023]]\n[[Category:Nordic Summer Evening]]\n\n[[Category:Uploaded with pattypan]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    9255,
+    7087
+  ]
+}

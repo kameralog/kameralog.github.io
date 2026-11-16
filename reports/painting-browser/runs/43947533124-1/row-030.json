@@ -1,0 +1,111 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_janis_rozentals",
+  "input": {
+    "id": "reserve50_janis_rozentals",
+    "file": "File:Janis Rozentāls - The Princess and the Monkey - Google Art Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg/1280px-Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg/1280px-Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 2628,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg/3840px-Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg/3840px-Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 7885,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 23593701,
+    "title": "File:Janis Rozentāls - The Princess and the Monkey - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Janis_Rozent%C4%81ls_-_The_Princess_and_the_Monkey_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4001,
+    "height": 8216,
+    "extmetadata": {
+      "GPSLatitude": {
+        "value": "56.956278",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "24.112522",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<div class=\"fn value\">\nJanis Rozentāls (1866 - 1916) – Creator (Latvian)<br> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/artist/j%C4%81nis-rozent%C4%81ls/28880182/\">Details on Google Art Project</a></div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1913<div style=\"display: none;\">date QS:P571,+1913-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/5AGVkIl2OPVUSw\">5AGVkIl2OPVUSw at Google Cultural Institute</a> maximum zoom level",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n|wikidata=Q22043968\n|commons_artist=\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_date_display = 1866\n|artist_birth_year = 1866\n|artist_death_date_display = 1916\n|artist_death_year = 1916\n|artist_first_name = Janis\n|artist_gender = Male\n|artist_id = 28187252\n|artist_last_name = Rozentāls\n|artist_nationality = Latvian\n|artist_pretty_display_date = (1866 - 1916)\n|absolute_url = /collection/national-museum-latvia/artwork/the-princess-and-the-monkey-janis-rozentals/28694013/\n|artist_display_name = Janis Rozentāls\n|artist_role = Creator\n|canonical_artist_detail_url = /artist/j%C4%81nis-rozent%C4%81ls/28880182/\n|canonical_artist_id = 28880182\n|collection_detail_url = /collection/national-museum-latvia/\n|collection_display_name = Latvian National Museum of Art\n|collection_id = 28138414\n|collection_website = http://www.lnmm.lv/\n|detail_url = /collection/national-museum-latvia/artwork/the-princess-and-the-monkey-janis-rozentals/28694013/\n|earliest_date = 1913\n|height = 147.5\n|id = 28694013\n|in_streetview = False\n|museum_internal_id = 5D\n|object_work_type = Painting\n|pivot_earliest_decade = 1910\n|pivot_latest_decade = 1920\n|pretty_dimensions = w71 x h147 cm\n|pretty_display_date = 1913\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 0.486328125\n|record_type = Object\n|slug = the-princess-and-the-monkey-janis-rozentals\n|title = The Princess and the Monkey\n|title_firstletter = p\n|width = 71\n|special:url_id = 5AGVkIl2OPVUSw\n}}\n\n=={{int:license-header}}==\n{{PD-Art-two-auto|1916}}\n\n[[Category:Google Art Project works by Janis Rozentāls]]\n[[Category:1913 paintings]]\n[[Category:Monkeys in art]]\n[[Category:Red hair in art]]\n[[Category:Paintings by Janis Rozentals in the Latvian National Museum of Arts]]\n[[Category:1913 works in Latvia]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4001,
+    8216
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "status": "derived_evidence_not_editorially_approved",
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "manifest": "tools/painting-browser/coverage-001-scale-50.json",
+  "manifestSha256": "5c9019327d1aacaaa7674d66894d7c9877a1c5dfb00b222f1aa60c4eef6960e8",
+  "selectionComplete": true,
+  "browserStatus": "failed",
+  "browserSmokePassed": true,
+  "counts": {
+    "selected": 37,
+    "completed": 37,
+    "passed": 26,
+    "failed": 11
+  },
+  "errors": [],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "rows": [
+    {
+      "id": "coverage001_retry_034_ans_van_den_berg",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-000.json"
+    },
+    {
+      "id": "coverage001_retry_039_antonin_slavicek",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-001.json"
+    },
+    {
+      "id": "coverage001_retry_040_antonin_chittussi",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-002.json"
+    },
+    {
+      "id": "coverage001_retry_041_arvid_liljelund",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-003.json"
+    },
+    {
+      "id": "coverage001_retry_044_augusto_giacometti",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-004.json"
+    },
+    {
+      "id": "coverage001_retry_046_bagta",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-005.json"
+    },
+    {
+      "id": "coverage001_retry_047_baldassarre_franceschini",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-006.json"
+    },
+    {
+      "id": "coverage001_retry_048_barbara_longhi",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-007.json"
+    },
+    {
+      "id": "coverage001_retry_049_barthelemy_menn",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-008.json"
+    },
+    {
+      "id": "coverage001_retry_050_bela_ivanyi_grunwald",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43947533124-1/row-009.json"
+    },
+    {
+      "id": "reserve50_fanny_churberg",
+      "status": "passed",
+      "pageid": 66321276,
+      "path": "reports/painting-browser/runs/43947533124-1/row-010.json"
+    },
+    {
+      "id": "reserve50_dora_wahlroos",
+      "status": "failed",
+      "pageid": 92000773,
+      "path": "reports/painting-browser/runs/43947533124-1/row-011.json"
+    },
+    {
+      "id": "reserve50_gunnar_berndtson",
+      "status": "passed",
+      "pageid": 92167179,
+      "path": "reports/painting-browser/runs/43947533124-1/row-012.json"
+    },
+    {
+      "id": "reserve50_oskar_kleineh",
+      "status": "passed",
+      "pageid": 66322539,
+      "path": "reports/painting-browser/runs/43947533124-1/row-013.json"
+    },
+    {
+      "id": "reserve50_yrjo_ollila",
+      "status": "passed",
+      "pageid": 51745430,
+      "path": "reports/painting-browser/runs/43947533124-1/row-014.json"
+    },
+    {
+      "id": "reserve50_eero_jarnefelt",
+      "status": "passed",
+      "pageid": 29191853,
+      "path": "reports/painting-browser/runs/43947533124-1/row-015.json"
+    },
+    {
+      "id": "reserve50_ferdinand_von_wright",
+      "status": "passed",
+      "pageid": 11379092,
+      "path": "reports/painting-browser/runs/43947533124-1/row-016.json"
+    },
+    {
+      "id": "reserve50_victor_westerholm",
+      "status": "failed",
+      "pageid": 92874601,
+      "path": "reports/painting-browser/runs/43947533124-1/row-017.json"
+    },
+    {
+      "id": "reserve50_werner_holmberg",
+      "status": "passed",
+      "pageid": 51745423,
+      "path": "reports/painting-browser/runs/43947533124-1/row-018.json"
+    },
+    {
+      "id": "reserve50_karl_nordstrom",
+      "status": "failed",
+      "pageid": 22264304,
+      "path": "reports/painting-browser/runs/43947533124-1/row-019.json"
+    },
+    {
+      "id": "reserve50_magnus_von_wright",
+      "status": "passed",
+      "pageid": 29191474,
+      "path": "reports/painting-browser/runs/43947533124-1/row-020.json"
+    },
+    {
+      "id": "reserve50_pekka_halonen",
+      "status": "passed",
+      "pageid": 22129777,
+      "path": "reports/painting-browser/runs/43947533124-1/row-021.json"
+    },
+    {
+      "id": "reserve50_richard_bergh",
+      "status": "passed",
+      "pageid": 139013451,
+      "path": "reports/painting-browser/runs/43947533124-1/row-022.json"
+    },
+    {
+      "id": "reserve50_ernst_josephson",
+      "status": "failed",
+      "pageid": 7657940,
+      "path": "reports/painting-browser/runs/43947533124-1/row-023.json"
+    },
+    {
+      "id": "reserve50_gustaf_fjaestad",
+      "status": "failed",
+      "pageid": 103212063,
+      "path": "reports/painting-browser/runs/43947533124-1/row-024.json"
+    },
+    {
+      "id": "reserve50_nils_kreuger",
+      "status": "passed",
+      "pageid": 21980021,
+      "path": "reports/painting-browser/runs/43947533124-1/row-025.json"
+    },
+    {
+      "id": "reserve50_konrad_magi",
+      "status": "passed",
+      "pageid": 5309634,
+      "path": "reports/painting-browser/runs/43947533124-1/row-026.json"
+    },
+    {
+      "id": "reserve50_paul_raud",
+      "status": "failed",
+      "pageid": 5314135,
+      "path": "reports/painting-browser/runs/43947533124-1/row-027.json"
+    },
+    {
+      "id": "reserve50_johann_koler",
+      "status": "failed",
+      "pageid": 17888304,
+      "path": "reports/painting-browser/runs/43947533124-1/row-028.json"
+    },
+    {
+      "id": "reserve50_oskar_kallis",
+      "status": "failed",
+      "pageid": 95838925,
+      "path": "reports/painting-browser/runs/43947533124-1/row-029.json"
+    },
+    {
+      "id": "reserve50_janis_rozentals",
+      "status": "passed",
+      "pageid": 23593701,
+      "path": "reports/painting-browser/runs/43947533124-1/row-030.json"
+    },
+    {
+      "id": "reserve50_vilhelms_purvitis",
+      "status": "passed",
+      "pageid": 24338002,
+      "path": "reports/painting-browser/runs/43947533124-1/row-031.json"
+    },
+    {
+      "id": "reserve50_janis_valters",
+      "status": "passed",
+      "pageid": 23593490,
+      "path": "reports/painting-browser/runs/43947533124-1/row-032.json"
+    },
+    {
+      "id": "reserve50_emil_filla",
+      "status": "failed",
+      "pageid": 143385171,
+      "path": "reports/painting-browser/runs/43947533124-1/row-033.json"
+    },
+    {
+      "id": "reserve50_josef_manes",
+      "status": "failed",
+      "pageid": 1502823,
+      "path": "reports/painting-browser/runs/43947533124-1/row-034.json"
+    },
+    {
+      "id": "reserve50_jan_preisler",
+      "status": "passed",
+      "pageid": 72048516,
+      "path": "reports/painting-browser/runs/43947533124-1/row-035.json"
+    },
+    {
+      "id": "reserve50_bohumil_kubista",
+      "status": "failed",
+      "pageid": 47356896,
+      "path": "reports/painting-browser/runs/43947533124-1/row-036.json"
+    }
+  ]
+}

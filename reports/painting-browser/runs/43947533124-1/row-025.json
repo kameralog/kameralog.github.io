@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_nils_kreuger",
+  "input": {
+    "id": "reserve50_nils_kreuger",
+    "file": "File:Nils Kreuger - Spring in Halland. Three Paintings in a Frame Sculpted by the Artist - Google Art Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg/1280px-Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg/1280px-Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 431,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg/3840px-Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg/3840px-Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 1292,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 21980021,
+    "title": "File:Nils Kreuger - Spring in Halland. Three Paintings in a Frame Sculpted by the Artist - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nils_Kreuger_-_Spring_in_Halland._Three_Paintings_in_a_Frame_Sculpted_by_the_Artist_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4792,
+    "height": 1612,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nils_Kreuger\" class=\"extiw\" title=\"w:en:Nils Kreuger\"><span title=\"Swedish artist (1858-1930)\">Nils Kreuger</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1894<div style=\"display: none;\">date QS:P571,+1894-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/wAF4v1UOuyGFZw\">wAF4v1UOuyGFZw at Google Cultural Institute</a> maximum zoom level",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n | wikidata = Q18574185\n|commons_artist={{Creator:Nils Kreuger}}\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_year = 1858\n|artist_death_year = 1930\n|artist_first_name = Nils\n|artist_gender = Male\n|artist_id = 464066\n|artist_last_name = Kreuger\n|artist_nationality = Swedish\n|artist_pretty_display_date = (1858 - 1930)\n|absolute_url = /collection/nationalmuseum-stockholm/artwork/spring-in-halland-three-paintings-in-a-frame-sculpted-by-the-artist-nils-kreuger/462065/\n|artist_display_name = Nils Kreuger\n|canonical_artist_detail_url = /artist/nils-kreuger/4130255/\n|canonical_artist_id = 4130255\n|collection_detail_url = /collection/nationalmuseum-stockholm/\n|collection_display_name = Nationalmuseum Stockholm\n|collection_id = 392279\n|collection_website = http://www.nationalmuseum.se/\n|created = 12/8/2011 2:26:43 PM\n|detail_url = /collection/nationalmuseum-stockholm/artwork/spring-in-halland-three-paintings-in-a-frame-sculpted-by-the-artist-nils-kreuger/462065/\n|earliest_date = 1894\n|facet_medium = Oil on panel\n|height = 770\n|id = 462065\n|in_streetview = False\n|latest_date = 1894\n|measurement_extent = with frame\n|modified = 3/24/2012 2:36:55 AM\n|museum_internal_id = {{Nationalmuseum Stockholm link|18486|NM 1483}}\n|object_rights = Nationalmuseum\n|object_work_type = Painting\n|pivot_earliest_decade = 1890\n|pivot_latest_decade = 1900\n|pretty_dimensions = w1590 x h770 x d50 cm\n|pretty_display_date = 1894\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 2.97674418604651\n|primary_image_rights = Nationalmuseum\n|record_type = Object\n|slug = spring-in-halland-three-paintings-in-a-frame-sculpted-by-the-artist-nils-kreuger\n|title = Spring in Halland. Three Paintings in a Frame Sculpted by the Artist\n|title_firstletter = s\n|width = 1590\n|Medium = {{technique|oil|panel}}\n|Signature = N. KREUGER 1894.\n|Title_in_Swedish = Vår i Halland. Tre landskap i en ram, skulpterad av konstnären\n|special:url_id = wAF4v1UOuyGFZw\n}}\n\n=={{int:license-header}}==\n{{PD-Art-two-auto|1930}}\n\n[[Category:Paintings by Nils Kreuger in the Nationalmuseum Stockholm]]\n[[Category:Google Art Project works by Nils Kreuger]]\n[[Category:Paintings of spring]]\n[[Category:Spring in Sweden]]\n[[Category:Halland]]\n[[Category:1894 paintings in Sweden]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4792,
+    1612
+  ]
+}

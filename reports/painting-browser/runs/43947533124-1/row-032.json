@@ -1,0 +1,111 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_janis_valters",
+  "input": {
+    "id": "reserve50_janis_valters",
+    "file": "File:Johans Valters - Boys Bathing - Google Art Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg/1280px-Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg/1280px-Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 980,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg/3840px-Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg/3840px-Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2940,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 23593490,
+    "title": "File:Johans Valters - Boys Bathing - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Johans_Valters_-_Boys_Bathing_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 5226,
+    "height": 4001,
+    "extmetadata": {
+      "GPSLatitude": {
+        "value": "56.956278",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "24.112522",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Johann_Walter-Kurau\" class=\"extiw\" title=\"w:en:Johann Walter-Kurau\"><span title=\"Baltic German painter (1869-1932)\">Johann Walter-Kurau</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1900<div style=\"display: none;\">date QS:P571,+1900-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/cgHBKBDys3HUZg\">cgHBKBDys3HUZg at Google Cultural Institute</a> maximum zoom level",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n|commons_artist={{Creator:Johann Walter-Kurau}}\n|commons_title={{title|en=Boys Bathing|de=Badende Jungs|ru=Купание мальчиков}}\n|commons_description=\n|commons_date=\n|commons_medium={{Technique| | }}\n|commons_dimensions={{Size|cm|36|45}}\n|commons_institution={{Institution:Latvian National Museum of Arts}}\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n|wikidata=Q22056331\n\n|artist_birth_date_display = 1869\n|artist_birth_year = 1869\n|artist_death_date_display = 1932\n|artist_death_year = 1932\n|artist_first_name = Johann\n|artist_gender = Male\n|artist_id = 28147160\n|artist_last_name = Walter\n|artist_nationality = Latvian\n|artist_pretty_display_date = (1869 - 1932)\n|absolute_url = /collection/national-museum-latvia/artwork/boys-bathing-johans-valters/28430013/\n|artist_display_name = Johans Valters\n|artist_role = Creator\n|canonical_artist_detail_url = /artist/j%C4%81nis-valters/28889348/\n|canonical_artist_id = 28889348\n|collection_detail_url = /collection/national-museum-latvia/\n|collection_display_name = Latvian National Museum of Art\n|collection_id = 28138414\n|collection_website = http://www.lnmm.lv/\n|detail_url = /collection/national-museum-latvia/artwork/boys-bathing-johans-valters/28430013/\n|earliest_date = 1900\n|height = 360\n|id = 28430013\n|in_streetview = False\n|museum_internal_id = 4B\n|object_work_type = Painting\n|pivot_earliest_decade = 1900\n|pivot_latest_decade = 1910\n|pretty_dimensions = w45 x h36 cm\n|pretty_display_date = 1900\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.30612244897959\n|record_type = Object\n|slug = boys-bathing-johans-valters\n|title = Boys Bathing\n|title_firstletter = b\n|width = 450\n|special:url_id = cgHBKBDys3HUZg\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1932}}\n{{DEFAULTSORT:Walter-Kurau; Boys 1900; Latvian National Museum of Arts}}\n\n[[Category:Nude paintings by Johann Walter-Kurau]]\n[[Category:Google Art Project works by Johans Valters]]\n[[Category:Paintings by Johann Walter-Kurau in the Latvian National Museum of Arts]]\n[[Category:Bathing children in art]]\n[[Category:1900 nude paintings]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    5226,
+    4001
+  ]
+}

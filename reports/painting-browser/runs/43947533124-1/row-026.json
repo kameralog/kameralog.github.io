@@ -1,0 +1,115 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_konrad_magi",
+  "input": {
+    "id": "reserve50_konrad_magi",
+    "file": "File:Konrad Mägi - Maastik punase pilvega - õli.JPG"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG/1280px-Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG/1280px-Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1162,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG/3840px-Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG/3840px-Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 3485,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 5309634,
+    "title": "File:Konrad Mägi - Maastik punase pilvega - õli.JPG",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/6/62/Konrad_M%C3%A4gi_-_Maastik_punase_pilvega_-_%C3%B5li.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4332,
+    "height": 3931,
+    "extmetadata": {
+      "GPSLatitude": {
+        "value": "59.436544",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "24.796989",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Konrad_M%C3%A4gi\" class=\"extiw\" title=\"w:en:Konrad Mägi\"><span title=\"Estonian artist (1878-1925)\">Konrad Mägi</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "Konrad Mägi \"Landscape with red cloud\" - oil",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1913 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q21152819#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.europeana.eu/portal/en/record/2063607/EST_280_006.html?q=konrad+m%C3%A4gi\">Europeana 280</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Konrad Mägi}}\n |title              = \n |description        = {{en|1=Konrad Mägi \"Landscape with red cloud\" - oil}}\n{{et|1=Konrad Mägi \"Maastik punase pilvega\" - õli}}\n |date               = \n |medium             = \n |dimensions         = \n |institution        = \n |department         = \n |accession number   = \n |place of creation  =    \n |place of discovery =    \n |object history     = \n |exhibition history =    \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = [https://www.europeana.eu/portal/en/record/2063607/EST_280_006.html?q=konrad+m%C3%A4gi Europeana 280]\n |permission         = \n |other_versions     = [[File:Konrad Mägi - Maastik punase pilvega + Color chart.jpg|200px|Uncropped jpg]][[File:Konrad Mägi - Maastik punase pilvega + Color chart.tif|200px|Uncropped tif]]\n |wikidata           =Q21152819\n}}\n\n== {{int:license-header}} ==\n{{PD-old}}\n\n[[Category:Oil paintings of landscapes]]\n[[Category:Landscape paintings by Konrad Mägi]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4332,
+    3931
+  ]
+}

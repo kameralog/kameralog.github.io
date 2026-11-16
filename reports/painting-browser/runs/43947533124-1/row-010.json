@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_fanny_churberg",
+  "input": {
+    "id": "reserve50_fanny_churberg",
+    "file": "File:Fanny Churberg - Talvimaisema, auringon mailleen mentyä - A I 189 - Finnish National Gallery.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg/1280px-Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg/1280px-Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 837,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg/3840px-Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg/3840px-Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2511,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 66321276,
+    "title": "File:Fanny Churberg - Talvimaisema, auringon mailleen mentyä - A I 189 - Finnish National Gallery.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Fanny_Churberg_-_Talvimaisema,_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Fanny_Churberg_-_Talvimaisema%2C_auringon_mailleen_menty%C3%A4_-_A_I_189_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4000,
+    "height": 2616,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Fanny_Churberg\" class=\"extiw\" title=\"w:en:Fanny Churberg\"><span title=\"Finnish artist (1845-1892)\">Fanny Churberg</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1880 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q20792383#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://kokoelmat.fng.fi/app?si=A+I+189\">http://kokoelmat.fng.fi/app?si=A+I+189</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Fanny Churberg}}\n |author             = \n |title              = {{en|1=Winter Landscape, Evening Atmosphere}} \n{{fi|1=Talvimaisema, iltatunnelma; Talvimaisema, auringon mailleen mentyä}} \n{{sv|1=Vinterlandskap, aftonstämning}}\n |description        = \n |object type        = \n |date               = \n |medium             = \n |dimensions         = \n |institution        = {{Institution:Finnish National Gallery}}\n |department         = \n |accession number   = A I 189\n |place of creation  =    \n |place of discovery =    \n |object history     = \n |exhibition history =    \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = http://kokoelmat.fng.fi/app?si=A+I+189\n |permission         = \n |other_versions     = \n |wikidata           = Q20792383 \n |other_fields       =  \n}}\n\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-1923|Cc-zero|deathyear=1892}}\n\n[[Category:Landscape paintings in the Finnish National Gallery]]\n[[Category:Paintings by Fanny Churberg in the Finnish National Gallery]]\n[[Category:1880 paintings in Finland]]\n[[Category:1880 paintings from Finland]]\n[[Category:1880s landscape paintings from Finland]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4000,
+    2616
+  ]
+}

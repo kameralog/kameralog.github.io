@@ -1,0 +1,97 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_oskar_kallis",
+  "input": {
+    "id": "reserve50_oskar_kallis",
+    "file": "File:Kalevipoeg laudu kandmas, Oskar Kallis, EKM j 190-118 M 553.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kalevipoeg_laudu_kandmas%2C_Oskar_Kallis%2C_EKM_j_190-118_M_553.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kalevipoeg_laudu_kandmas%2C_Oskar_Kallis%2C_EKM_j_190-118_M_553.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded.",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 95838925,
+    "title": "File:Kalevipoeg laudu kandmas, Oskar Kallis, EKM j 190-118 M 553.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Kalevipoeg_laudu_kandmas,_Oskar_Kallis,_EKM_j_190-118_M_553.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/99/Kalevipoeg_laudu_kandmas%2C_Oskar_Kallis%2C_EKM_j_190-118_M_553.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 757,
+    "height": 800,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Oskar_Kallis\" class=\"extiw\" title=\"w:en:Oskar Kallis\"><span title=\"Estonian painter (1892-1918)\">Oskar Kallis</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1914 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q55807057#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.muis.ee/museaalview/249996\">EKM j 190:118 M 553</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork\n|wikidata=Q55807057\n|source=[https://www.muis.ee/museaalview/249996 EKM j 190:118 M 553]\n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-expired|deathyear=1918}}\n\n[[Category:Illustrations for the epic «Kalevipoeg» by Oskar Kallis]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    757,
+    800
+  ]
+}

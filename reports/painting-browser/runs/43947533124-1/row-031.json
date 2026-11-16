@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_vilhelms_purvitis",
+  "input": {
+    "id": "reserve50_vilhelms_purvitis",
+    "file": "File:Vilhelms Purvītis - Spring Waters (Maestoso) - Google Art Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg/1280px-Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg/1280px-Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 907,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg/3840px-Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg/3840px-Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2722,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 24338002,
+    "title": "File:Vilhelms Purvītis - Spring Waters (Maestoso) - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Vilhelms_Purv%C4%ABtis_-_Spring_Waters_(Maestoso)_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Vilhelms_Purv%C4%ABtis_-_Spring_Waters_%28Maestoso%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 5645,
+    "height": 4001,
+    "extmetadata": {
+      "Artist": {
+        "value": "<div class=\"fn value\">\nVilhelms Purvītis (1872 - 1945) – Creator<br> <a rel=\"nofollow\" class=\"external text\" href=\"http://www.googleartproject.com/artist/vilhelms-purv%C4%ABtis/28875330/\">Details on Google Art Project</a></div>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1910<div style=\"display: none;\">date QS:P571,+1910-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/2gEvpdKlNCyhDA\">2gEvpdKlNCyhDA at Google Cultural Institute</a> maximum zoom level",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Google Art Project\n|wikidata=Q28810769\n|commons_artist=\n|commons_title=\n|commons_description=\n|commons_date=\n|commons_medium=\n|commons_dimensions=\n|commons_institution=\n|commons_location=\n|commons_references=\n|commons_object_history=\n|commons_exhibition_history=\n|commons_credit_line=\n|commons_inscriptions=\n|commons_notes=\n|commons_accession_number=\n|commons_source=\n|commons_permission=\n|commons_other_versions=\n|commons_zoom=\n\n|artist_birth_year = 1872\n|artist_death_year = 1945\n|artist_id = 28677011\n|artist_pretty_display_date = (1872 - 1945)\n|absolute_url = /collection/national-museum-latvia/artwork/spring-waters-maestoso-vilhelms-purvitis/28703006/\n|artist_display_name = Vilhelms Purvītis\n|artist_role = Creator\n|canonical_artist_detail_url = /artist/vilhelms-purv%C4%ABtis/28875330/\n|canonical_artist_id = 28875330\n|collection_detail_url = /collection/national-museum-latvia/\n|collection_display_name = Latvian National Museum of Art\n|collection_id = 28138414\n|collection_website = https://www.lnmm.lv/\n|detail_url = /collection/national-museum-latvia/artwork/spring-waters-maestoso-vilhelms-purvitis/28703006/\n|earliest_date = 1910\n|height = 102.5\n|id = 28703006\n|in_streetview = False\n|museum_internal_id = 24A\n|object_work_type = Painting\n|pivot_earliest_decade = 1910\n|pivot_latest_decade = 1920\n|pretty_dimensions = w144 x h102 cm\n|pretty_display_date = 1910\n|primary_asset_is_gigapixel = False\n|primary_image_aspect_ratio = 1.41046831955923\n|record_type = Object\n|slug = spring-waters-maestoso-vilhelms-purvitis\n|title = Spring Waters (Maestoso)\n|title_firstletter = s\n|width = 144\n|special:url_id = 2gEvpdKlNCyhDA\n}}\n\n== {{int:license-header}} ==\n{{PD-Art|PD-old-auto-expired|deathyear=1945}}\n\n[[Category:Vilhelms Purvītis]]\n[[Category:Google Art Project works by Vilhelms Purvītis]]\n[[Category:Paintings in the Latvian National Museum of Arts]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    5645,
+    4001
+  ]
+}

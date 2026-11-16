@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_jan_preisler",
+  "input": {
+    "id": "reserve50_jan_preisler",
+    "file": "File:Jan Preisler - Černé jezero (1904).jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg/1280px-Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg/1280px-Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 934,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg/3840px-Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg/3840px-Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 2802,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 72048516,
+    "title": "File:Jan Preisler - Černé jezero (1904).jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_(1904).jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Jan_Preisler_-_%C4%8Cern%C3%A9_jezero_%281904%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 5000,
+    "height": 3649,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Jan_Preisler\" class=\"extiw\" title=\"w:en:Jan Preisler\"><span title=\"Czech painter and university educator (1872–1918)\">Jan Preisler</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1904<div style=\"display: none;\">date QS:P571,+1904-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://sbirky.ngprague.cz/dielo/CZE:NG.O_2618\">National Gallery in Prague</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |wikidata           = Q104983973\n |object type        = painting\n |artist             = {{Creator:Jan Preisler}}\n |title              = {{title|en=Black Lake|de=Schwarzer See|cs=Černé jezero}}\n |date               = 1904\n |medium             = {{Oil on canvas}}\n |dimensions         = {{size|unit=cm|height=111|width=153}}\n |institution        = {{institution:Národní galerie v Praze}}\n |department         = {{langSwitch|en=Collection of the Art of the 19th Century|cs=Sbírka umění 19. století|de=Sammlung: Kunst des 19. Jh.}}, {{label|Q496259}}\n |accession number   = O 2618\n |inscriptions       = {{inscription|J Preisler 904|lang=~|position=lr|type=signature / date}}\n |source             = [http://sbirky.ngprague.cz/dielo/CZE:NG.O_2618 {{langSwitch|cs=Národní galerie v Praze|en=National Gallery in Prague|de=Nationalgalerie Prag}}]\n |other versions     = \n}}\n\n=={{int:license-header}}==\n{{PD-Art|PD-old-auto-1923|deathyear=1918}}\n\n\n{{DEFAULTSORT:Preisler, Jan; Black lake 1904; NGP}}\n[[Category:Jan Preisler]]\n[[Category:Paintings in the National Gallery, Prague]]\n[[Category:20th-century paintings in the National Gallery, Prague]]\n[[Category:1900s paintings in the Czech Republic]]\n[[Category:Paintings in the Veletržní palác]]\n[[Category:1904 oil on canvas paintings]]\n[[Category:1904 paintings of people]]\n[[Category:20th-century paintings of people with horses]]\n[[Category:20th-century oil paintings of standing men at full length]]\n[[Category:Paintings of men with horses]]\n[[Category:Symbolist paintings of horses]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    5000,
+    3649
+  ]
+}

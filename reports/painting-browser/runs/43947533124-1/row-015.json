@@ -1,0 +1,98 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_eero_jarnefelt",
+  "input": {
+    "id": "reserve50_eero_jarnefelt",
+    "file": "File:Eero Järnefelt - Under the Yoke (Burning the Brushwood) - Google Art Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg/1280px-Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg/1280px-Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1016,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg/3840px-Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg/3840px-Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 3048,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 29191853,
+    "title": "File:Eero Järnefelt - Under the Yoke (Burning the Brushwood) - Google Art Project.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Eero_J%C3%A4rnefelt_-_Under_the_Yoke_(Burning_the_Brushwood)_-_Google_Art_Project.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Eero_J%C3%A4rnefelt_-_Under_the_Yoke_%28Burning_the_Brushwood%29_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 30000,
+    "height": 23815,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Eero_J%C3%A4rnefelt\" class=\"extiw\" title=\"w:en:Eero Järnefelt\"><span title=\"Finnish realist painter (1863–1937)\">Eero Järnefelt</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1893<div style=\"display: none;\">date QS:P571,+1893-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"//www.google.com/culturalinstitute/asset-viewer/TgE5-s2gPkOE6Q\">TgE5-s2gPkOE6Q at Google Cultural Institute</a>, zoom level maximum",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Tile set available}}\n\n{{Tile set/Under the Yoke (Burning the Brushwood)/grid}}\n\n=={{int:filedesc}}==\n{{Google Cultural Institute\n | wikidata = Q11889613\n|commons:artist={{Creator:Eero Järnefelt}}\n|commons:institution={{Institution:Ateneum Art Museum}}\n|commons:other_versions=<gallery>\nFile:Raatajat rahanalaiset.JPG\n</gallery>\n|commons:zoom=\n\n|core:title = {{en|Under the Yoke (Burning the Brushwood)}}\n|core:creator = {{en|Eero Järnefelt}}\n|core:date.dateCreated = 1893\n|core:format = {{en|w164 x h131 cm (without frame)}}\n|core:type = {{en|Paintings}}\n|core:rights = {{en|Ateneum Art Museum}}\n|core:format.medium = {{en|Oil on canvas}}\n|art:artist_birth_place = {{en|Vyborg}}\n|art:artist_nationality = {{en|Finnish}}\n|art:artist_death_place = {{en|Helsinki}}\n|art:artist_date = 1863/1937\n|c-01b036b5:customtext.inventory_number = {{en|A I 514}}\n|c-01b036b5:customtext.dimensions = {{en|131 x 164 cm}}\n|c-01b036b5:customtext.medium_source = {{en|Ateneum}}\n|c-01b036b5:customtext.inventory_number_source = {{en|Ateneum}}\n|c-01b036b5:customtext.dimensions_source = {{en|Ateneum}}\n|c-01b036b5:customtext.dimensions_extent = {{en|without frame}}\n|google:display_date = 1893\n|google:homepage_image = TRUE\n|google:is_artproject = TRUE\n|google:is_gigapixel = TRUE\n|google:is_secured = TRUE\n|google:partner/id = 0000000001b036b5\n|google:picasa_token = -ODZV5HiPTb6VSxiDEZobMIiqH4\n|special:url_id = TgE5-s2gPkOE6Q\n|google:partner/name = Ateneum Art Museum\n|special:partner/name_no_lang = Ateneum Art Museum\n}}\n\n=={{int:license-header}}==\n{{PD-Art-two-auto|1937}}\n\n\n[[Category:Tile set of Under the Yoke (Burning the Brushwood)]]\n[[Category:Under the Yoke (Burning the Brushwood) by Eero Järnefelt]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    30000,
+    23815
+  ]
+}

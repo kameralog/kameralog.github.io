@@ -1,0 +1,97 @@
+{
+  "sourceReportCommit": "5514cbad8bba4b4825ef60fbf88543bdc3bc7925",
+  "sourceReportBlob": "b9ddbe1c37e90446d9c9151663061aebb763bc9c",
+  "browserRunId": "43947533124",
+  "sourceCommit": "0d2b9cb057beb60e33a6c84e4ba6a999198e303a",
+  "id": "reserve50_paul_raud",
+  "input": {
+    "id": "reserve50_paul_raud",
+    "file": "File:Paul raud magav koer.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_raud_magav_koer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_raud_magav_koer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded.",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 5314135,
+    "title": "File:Paul raud magav koer.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Paul_raud_magav_koer.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Paul_raud_magav_koer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 500,
+    "height": 338,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Paul_Raud\" class=\"extiw\" title=\"w:en:Paul Raud\"><span title=\"Estonian artist (1865-1930)\">Paul Raud</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "Paul Raud, \"A Sleeping Dog\"",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/22601320@N00/2670769943/\">https://www.flickr.com/photos/22601320@N00/2670769943/</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n|title = \n|Description={{en|1=Paul Raud, \"A Sleeping Dog\"}}\n{{et|1=Paul Raud, \"Magav koer\"}}\n|Source=https://www.flickr.com/photos/22601320@N00/2670769943/\n|Author={{Creator:Paul Raud}}\n|Date=\n|technique=\n|dimensions=\n|gallery=\n|location=\n|notes=\n|ID=\n|permission=\n|other_versions=\n}}\n\n\n\n[[Category:Paul Raud]]\n[[Category:Paintings of dogs]]\n[[Category:Sleeping dogs]]\n[[Category:curled up dogs]]\n[[Category:Paintings not categorised by year]]\n[[Category:Location of museum or gallery missing]]\n\n== {{int:license-header}} ==\n{{PD-old}}",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    500,
+    338
+  ]
+}
