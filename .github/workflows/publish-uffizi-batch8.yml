@@ -1,0 +1,141 @@
+name: Publish reviewed eighth wiki batch
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-batch8.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply reviewed eighth batch and preserve existing data
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/wiki-batch8-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-uffizi-batch8-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const raw=`351|Ахилл и кентавр Хирон|1746|Pompeo Batoni - Achilles and the Centaur Chiron - WGA1498.jpg|1000|1213
+          352|Автопортрет|1773–1774|Pompeo-batoni-painting-self-portrait.jpg|3013|3824
+          353|Избиение младенцев|1557|Daniele da Volterra - The Massacre of the Innocents - WGA05910.jpg|1100|1113
+          354|Автопортрет|1867|William Holman Hunt - Selfportrait.jpg|845|1200
+          355|Свадебный танец на открытом воздухе — версия Уффици (приписывается Брейгелям)|около 1564–1565|Bruegel - De bruiloft dans (Firenze).jpg|510|411
+          356|Великая Голгофа|около 1604|Jan brueghel il vecchio, grande calvario.jpg|627|922
+          357|Обрезание Христа|около 1461|Andrea Mantegna 002.jpg|1256|2585
+          358|Триптих (Уффици)|около 1463–1464|Andrea Mantegna - Trittico - Google Art Project.jpg|8382|4116
+          359|Поклонение волхвов|около 1461|Andrea Mantegna 001.jpg|2558|2516
+          360|Портрет Карло Медичи|1466|Andrea Mantegna 110.jpg|1576|2384
+          361|Видение святого Бернарда|1504|Fra bartolomeo 02 Vision of St Bernard with Sts Benedict and John the Evangelist.jpg|1065|1027
+          362|Оплакивание Христа|1511|Fra Bartolomeo - Lamentation - WGA1369.jpg|1109|900
+          363|Мистическое обручение святой Екатерины Сиенской|1512|Fra bartolomeo 08 Mystic Marriage of St Catherine.jpg|900|1182
+          364|Порция|1510-е годы|Fra bartolomeo, porzia.jpg|528|1134
+          365|Христос с четырьмя евангелистами|1516|Fra bartolomeo 03 Christ with the Four Evangelists.jpg|1000|1372
+          366|Святой Марк|1515|San marco, fra bartolomeo.jpg|617|1025
+          367|Благовещение, Обрезание и Рождество Христово (Табернакль дель Пульезе)|около 1500|Fra bartolomeo, tabernacolo del pugliese chiuso e aperto.jpg|921|443
+          368|Цветы и утки|до 1674|Abate Andrea Belvedere - Flowers and Ducks - WGA01850.jpg|1067|800
+          369|Автопортрет в традиционном костюме Брегенцского леса у мольберта|около 1757–1759|Angelica Kauffman - Self-Portrait in the Traditional Costume of the Bregenz Forest, Seated at her Easel.jpg|1484|2049
+          370|Автопортрет в образе Музы живописи|1787|Angelica Kauffmann Self Portrait as the Muse of Painting.jpg|4204|5806
+          371|Воспитание Богоматери|1700|Jean-Baptiste Jouvenet - The Education of the Virgin - WGA12032.jpg|650|940
+          372|Архитектурный вид|1627|Viviano Codazzi - Architectural View - WGA5104.jpg|800|596
+          373|Автопортрет|1667|Bartholomeus van der Helst self portrait 1667 cropped.jpg|641|704
+          374|Автопортрет|1606–1607|Elsheimer, Adam - Self-portrait.jpg|623|849
+          375|Портрет Каспара Шоппе|около 1606|Peter Paul Rubens - Portrait of Kaspar Scioppius - WGA20354.jpg|971|1300
+          376|Три грации|1620–1623|Peter Paul Rubens - The Three Graces - WGA20440.jpg|750|1111
+          377|Триумфальный въезд Генриха IV в Париж|1627|Peter Paul Rubens - Triumphal Entry ofHenry IV into Paris.jpg|4941|2713
+          378|Четыре философа|1611|Peter Paul Rubens 118.jpg|1576|1944
+          379|Последствия войны|1637–1638|Los horrores de la guerra.jpg|1350|809
+          380|Генрих IV в битве при Иври|около 1627–1630|Ivryrubens.jpg|860|468
+          381|Мадонна с корзиной|около 1615|Rubens, sacra famiglia, pitti.jpg|770|1021
+          382|Воскресение Христа|около 1616|Rubens, resurrezione, pitti.jpg|326|400
+          383|Крестьяне, возвращающиеся с полей|около 1640|Peter Paul Rubens - Return from the Fields - WGA20412.jpg|1422|900
+          384|Одиссей на острове феаков|1630-е годы|Rubens, Ulisse nell'isola dei Feaci.jpg|600|375
+          385|Автопортрет|1618|Peter Paul Rubens - Self-Portrait (Uffizi).jpg|1030|1278
+          386|Автопортрет в шляпе|около 1623–1625|Peter Paul Rubens - Self-Portrait with a Hat - WGA20373.jpg|800|952
+          387|Портрет Изабеллы Брант|около 1626|Peter Paul Rubens - Portrait of Isabella Brant (Uffizi).jpg|862|1194
+          388|Юдифь с головой Олоферна|1620–1622|Rubens72.jpg|527|688
+          389|Автопортрет|1925|Cecilia Beaux - Self-portrait in Uffizi Gallery.jpg|508|800
+          390|Портрет Леопольдо Медичи в пелёнках|1618|Tiberio di Tito - Prince Leopoldo de' Medici in a Cradle - WGA22723.jpg|1091|900
+          391|Автопортрет|1880|Millais - Self-Portrait.jpg|1000|1403
+          392|Автопортрет|1790|Self-portrait (by Elisabeth Vigée-Lebrun) – Galleria degli Uffizi, Florence.jpg|1949|2488
+          393|Принесение во храм|1342|Ambrogio Lorenzetti - Presentazione di Gesù al tempio - Google Art Project.jpg|8387|12003
+          394|Алтарь святого Прокула|около 1332|Ambrogio Lorenzetti - san procolo.jpg|1064|1173
+          395|Старуха, изучающая азбуку, над которой смеётся девочка|1550-е годы|Sofonisba Anguissola - Old Woman Studying the Alphabet with a Laughing Girl - WGA00699.jpg|1029|900
+          396|Мадонна с Младенцем, святым Иоанном Богословом и святым Бенедиктом|около 1470–1475|Antonello da Messina, Madonna col Bambino, San Giovanni Evangelista e San Benedetto, circa 1470-75 -FG.jpg|5440|3626
+          397|Мадонна с Младенцем (створка полиптиха Уффици)|около 1470|Antonello da messina, madonna uffizi.jpg|471|1000
+          398|Святой Иоанн Богослов (створка полиптиха Уффици)|1470|Antonello da messina, san giovanni uffizi.jpg|337|1000
+          399|Портрет Пьетро Секко Суардо|1563|Giovanni Battista Moroni 023.jpg|270|500
+          400|Портрет учёного|1560-е годы|Giovanni battista moroni, ritratto di un dotto, 1560 ca.jpg|1140|1507`;
+          const data=raw.split('\n').map(line=>{const[n,title,date,file,w,h]=line.trim().split('|');return {n:+n,title,date,file,width:+w,height:+h};});assert.deepEqual(data.map(r=>r.n),Array.from({length:50},(_,i)=>i+351));
+          const queueCommit='c87132553e8496200d6ab19a06be5977c41b0b2c',queueDirectory='reports/uffizi-packages/43457577858-1',queueFiles=[1,2,3,4,5,6,7,8,9].map(n=>'new_work_candidates-00'+n+'.json');
+          const lists=await Promise.all(queueFiles.map(async name=>{const r=await fetch('https://raw.githubusercontent.com/kameralog/kameralog.github.io/'+queueCommit+'/'+queueDirectory+'/'+name);assert(r.ok);return r.json();}));const originalRecords=lists.flat().slice(350,400).map((r,i)=>({number:i+351,...r}));assert.equal(originalRecords.length,50);
+          const pageBatch={pompeo_batoni:95,daniele_da_volterra:101,william_holman_hunt:19,bruegel:29,andrea_mantegna:36,fra_bartolomeo:52,andrea_belvedere:88,angelica_kauffmann:107,jean_jouvenet:103,viviano_codazzi:87,bartholomeus_van_der_helst:64,adam_elsheimer:59,peter_paul_rubens:17,cecilia_beaux:111,jacopo_ligozzi:100,john_everett_millais:19,elisabeth_louise_vigee_le_brun:106,ambrogio_lorenzetti:15,sofonisba_anguissola:109,antonello_da_messina:37,giovanni_battista_moroni:51};
+          const expected={15:'02dfde294a6abd71a38878f7b4e518f526b78318',17:'1b80e8f6bd55ab04326ebbc380ada0247ed08522',19:'0c088e883da63df0c51c03e2b81c3a39f52e2d71',29:'0ec8dc7af0f9257e94ee33ec7b95050d9353e88a',36:'58dbbd4c72592fbe6dcbdf6ff110215c6c998aac',37:'292430fa91c8fe38cea5dac43b34661391a7a765',51:'a03b098171c893713844b31f58b74e1740b041d1',52:'e4129e8059a140bc834794d8f4dd10da665e2eec',59:'c2bb4506b4a98881d7573758b0e36d154f0ac1c6',64:'105e1d005c9578a9a303f229fda62b3c85784062',87:'253c930cded7487cc8358fde943c1ff91903ccee',88:'8a997c9bc22fecc275e2be0c14a721bd064d1596',95:'ae7091ed6319f2c584c904a267b236abceac5160',100:'390fd79a913e0e9a9626ee1ec0788efe0167bc3d',101:'1a1330fd84455986582335eb21c82a5e2e39c0fb',103:'9ba128b40b6876a7291ab9da99393fd8b36d225b',106:'cf6cdc4fe9983c004f6bf2458c9c71598a59f042',107:'78b409161c6647615ff170bbd1d05deaa714578a',109:'fb5f9551aa050dd67e06ffab2dbb21e97005d650',111:'8cbb493f9b5d9a8fe3462bb30cb95cbb2468926f'};
+          const reportPath='reports/wiki-batches/batch-008.json';assert(!fs.existsSync(reportPath));const previous=[1,2,3,4,5,6,7].map(n=>{const path='reports/wiki-batches/batch-00'+n+'.json';return {path,text:fs.readFileSync(path,'utf8')};});
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];const esc=s=>encodeURIComponent(s).replace(/[!'()*]/g,c=>'%'+c.charCodeAt(0).toString(16).toUpperCase());
+          for(const r of data){const candidate=originalRecords[r.n-351],id=candidate.artistId,Q=candidate.work;assert.equal(candidate.number,r.n);assert(/^Q\d+$/.test(Q));const imageSource='https://commons.wikimedia.org/wiki/File:'+esc(r.file.replace(/ /g,'_'));const baseLicense=r.n===396?'CC0':'Public domain';const entry={number:r.n,workId:Q,originalArtistId:id,artistId:id,title:r.title,date:r.date,commonsFile:r.file,commonsUrl:imageSource,licenseShortName:baseLicense,originalImageWidth:r.width,originalImageHeight:r.height,checks:{commonsFileFound:true,licenseTemplatesChecked:true,browserImageDecoded:true,fullVisualReview:false}};
+          if(r.n===356){Object.assign(entry,{status:'deferred',artistId:null,intendedArtistName:'Ян Брейгель Старший',reason:'В очереди указан Питер Брейгель Старший, но в Commons указан Ян Брейгель Старший (около 1604). На страницу Питера Брейгеля Старшего не добавлять.',nextAction:'Проверить наличие отдельной карточки Яна Брейгеля Старшего и при необходимости подключить к ней.'});results.push(entry);continue;}
+          if(r.n===373){Object.assign(entry,{status:'deferred',reason:'Файл помечен cropped; полнота композиции без визуального сравнения с исходником не подтверждена.',nextAction:'Сопоставить кадрированный файл с исходным изображением портрета.'});results.push(entry);continue;}
+          const bn=pageBatch[id];assert(bn);const filename='artists-batch-'+bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[bn],filename+': changed since review');assert(!source.includes('/*wiki-uffizi-batch8-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}const group=groups.get(filename),artist=group.before[id];assert(artist);const key='wiki-uffizi-batch8:'+Q;assert(!(artist.works||[]).some(w=>w.key===key||decodeURIComponent(w.imageSource||'').replace(/_/g,' ')===decodeURIComponent(imageSource).replace(/_/g,' ')));
+          const name=r.file.replace(/ /g,'_'),hash=createHash('md5').update(name).digest('hex'),path=hash[0]+'/'+hash.slice(0,2)+'/'+esc(name),original='https://upload.wikimedia.org/wikipedia/commons/'+path;const sized=n=>r.width<=n?original:'https://thumb.wikimedia.org/wikipedia/commons/thumb/'+path+'/'+n+'px-'+esc(name);
+          const credit=artist.name+'; '+(r.n===396?'фотография Fabrizio Garrisi; ':'')+'Wikimedia Commons; '+baseLicense;let note='Источник репродукции и сведения о правах — в карточке конкретного файла Commons.';
+          if(r.n===355)note+=' Атрибуция версии Уффици (инв. 1890 №840) в источнике колеблется между Питером и Яном Брейгелями.';if(r.n===390)note+=' Ранее приписывалась Тиберио ди Тито.';if(r.n===396)note+=' Современная дата съёмки 2024-02-20 не использована как дата картины.';if([396,397,398].includes(r.n))note+=' Часть полиптиха Антонелло да Мессины в Уффици.';if(Math.min(r.width,r.height)<600)note+=' Небольшой исходный файл не увеличивался искусственно.';
+          const work={key,title:r.title,date:r.date,author:artist.name,medium:'',museum:'Галереи Уффици, Флоренция',source:imageSource,image:sized(960),zoom:sized(1920),imageSource,license:baseLicense,creditLine:credit,imageWidth:Math.min(960,r.width),imageHeight:Math.round(r.height*Math.min(960,r.width)/r.width),originalImageWidth:r.width,originalImageHeight:r.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, лицензионные шаблоны и браузерная загрузка; полный визуальный просмотр не подтверждён',look:note+' Репродукция: '+credit+'. '+imageSource};
+          if(r.n===355)work.attributionStatus='attributed';if([396,397,398].includes(r.n)){work.objectGroup='antonello-da-messina-uffizi-polyptych';work.relatedWorkKeys=['Q131690602','Q3842503','Q3947253'].filter(q=>q!==Q).map(q=>'wiki-uffizi-batch8:'+q);}
+          group.records.push({number:r.n,artistId:id,work});Object.assign(entry,{status:'connected_pending_site_verification',artistPage:'https://kameralog.github.io/games/painting/?artist='+id,work});results.push(entry);}
+          assert.equal(groups.size,20);assert.equal(results.filter(r=>r.work).length,48);assert.equal(new Set(results.filter(r=>r.work).map(r=>r.artistId)).size,21);assert.equal(results.filter(r=>r.status==='deferred').length,2);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const report={schemaVersion:1,batch:8,batchSize:50,range:[351,400],checkedDate:'2026-11-16',status:'connected_publication_pending',total:50,foundReproductions:50,browserImagesDecoded:50,ruOrEnWikipediaArticlesFound:16,newlyConnected:48,alreadyPresentCount:0,alreadyPresent:[],duplicatesCount:0,deferredConfirmed:2,artistPages:21,sourceFiles:20,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,gameQuestionsChanged:false,previousBatchReportsChanged:false,sourceQueue:{repository:'kameralog/kameralog.github.io',commit:queueCommit,directory:queueDirectory,lists:queueFiles,selection:'Concatenate lists in order; zero-based slice(350,400)'},originalRecords,reviewResults:results,remainingChecks:['live_publication','rendered_artist_pages'],notes:['Все 50 файлов найдены и прошли браузерную загрузку; полный визуальный просмотр не заявляется.','№356 отложен: автор в Commons Ян Брейгель Старший, не Питер Брейгель Старший.','№373 отложен: файл помечен cropped.','№396: CC0, фотограф Fabrizio Garrisi; №396–398 связаны в полиптих Антонелло да Мессины.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of previous)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/wiki-batch8-index.html"
+      - name: Commit catalogue and report and request Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{15,17,19,29,36,37,51,52,59,64,87,88,95,100,101,103,106,107,109,111}.js games/painting/artists.js games/painting/reports/wiki-batches/batch-008.json
+          git diff --cached --stat
+          git commit -m 'Connect 48 eighth-batch reproductions and record deferred works'
+          git pull --rebase origin main
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify published catalogue and record result
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?wiki-batch8=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/wiki-batch8-live.js" && cmp -s artists.js "$RUNNER_TEMP/wiki-batch8-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/batch-008.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=48;r.remainingChecks=["rendered_artist_pages"];for(const x of r.reviewResults)if(x.status==="connected_pending_site_verification")x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/batch-008.json
+              git commit -m 'Record live catalogue verification for wiki batch eight'
+              git pull --rebase origin main
+              git push origin HEAD:main
+              echo 'Verified live catalogue: 48 new bindings, two deferred. Individual page and full visual reviews remain unclaimed.' >> "$GITHUB_STEP_SUMMARY"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; live catalogue verification remains pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
