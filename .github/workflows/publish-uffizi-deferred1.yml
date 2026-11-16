@@ -1,0 +1,92 @@
+name: Publish first deferred reproduction pass
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/publish-uffizi-deferred1.yml']
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: painting-build
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate and apply five source-file bindings
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          cp index.html "$RUNNER_TEMP/deferred1-index.html"
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          import {createHash} from 'node:crypto';
+          import {execFileSync} from 'node:child_process';
+          const base='3c6845ebaedbcb7e11f7f0f1e0465dbf9306700b';
+          const blob=s=>createHash('sha1').update('blob '+Buffer.byteLength(s)+'\0').update(s).digest('hex');
+          const helper=fs.readFileSync('publish-uffizi-batch1.mjs','utf8');assert.equal(blob(helper),'3a4d96c5443e6ccda9fd5cba00bbb7c257d31509');
+          const prefix=helper.split('async function main(){')[0].replace('wiki-uffizi-batch1-v1','wiki-deferred-pass1-v1');
+          const {read,wrap,getCards,test}=await import('data:text/javascript;base64,'+Buffer.from(prefix+'\nexport {read,wrap,getCards,test};').toString('base64'));test();
+          const data=[
+          {n:60,batch:2,Q:'Q135163749',id:'francesco_furini',bn:96,title:'Портрет Виттории делла Ровере',date:'1645',file:'Francesco Furini - Portrait of Vittoria della Rovere.jpg',lic:'Public domain',photo:'',source:'https://www.uffizi.it/opere/ritratto-vittoria-della-rovere'},
+          {n:96,batch:2,Q:'Q111307784',id:'lavinia_fontana',bn:109,title:'Христос является Марии Магдалине — Noli me tangere',date:'1581',file:'Lavinia Fontana - Christ appears to Mary Magdalen. Noli me tangere, 1581.jpg',lic:'Public domain',photo:''},
+          {n:200,batch:4,Q:'Q50422860',id:'titian',bn:16,title:'Портрет папы Сикста IV',date:'около 1545–1546',file:'Tizian Portrait Papst Sixtus IV ca. 1545-46 Uffizien Florenz-01.jpg',lic:'CC BY-SA 3.0',photo:'Rufus46'},
+          {n:239,batch:5,Q:'Q134409392',id:'guercino',bn:83,title:'Святой Себастьян',date:'1652',file:'Guercino - San Sebastiano, 1652.jpg',lic:'Public domain',photo:''},
+          {n:320,batch:7,Q:'Q1217213',id:'leonardo_da_vinci',bn:16,title:'Благовещение',date:'около 1472',file:'Annunciation (Leonardo).jpg',lic:'CC BY-SA 4.0',photo:'Livioandronico2013',source:'https://www.uffizi.it/en/artworks/annunciation'}
+          ];
+          const expected={16:'490d4465374ff060ed8ec2b3b24255bec79cbc54',83:'6dfd395ade8e16c73b7e3e41fef04626f816479a',96:'0564690c23cf9d11932912ac93767f1fcf640e5c',109:'225ce66b64bc9078d10c3c2a65d9cac675c64161'};
+          const reportPath='reports/wiki-batches/deferred-001.json';assert(!fs.existsSync(reportPath));const history=[],pending=[];
+          for(let n=1;n<=10;n++){const path='reports/wiki-batches/batch-'+String(n).padStart(3,'0')+'.json';const text=fs.readFileSync(path,'utf8');assert.equal(blob(text),execFileSync('git',['rev-parse',base+':games/painting/'+path],{encoding:'utf8'}).trim());history.push({path,text});const j=JSON.parse(text);if(n===1)for(const r of j.deferred)pending.push({batch:n,number:r[0],workId:r[1]});else for(const r of j.reviewResults||[])if(r.status==='deferred')pending.push({batch:n,...r});}
+          assert.equal(pending.length,28);for(const r of data)assert(pending.some(p=>p.number===r.n&&p.batch===r.batch&&p.workId===r.Q));
+          const params=new URLSearchParams({action:'query',titles:data.map(r=>'File:'+r.file).join('|'),prop:'imageinfo|revisions',iiprop:'url|size|extmetadata',iiurlwidth:'960',rvprop:'ids|content',rvslots:'main',format:'json'});
+          const response=await fetch('https://commons.wikimedia.org/w/api.php?'+params,{headers:{'User-Agent':'Kameralog painting catalogue/1.0 (https://kameralog.github.io/)'}});assert(response.ok);const meta=await response.json();assert(!meta.error);
+          const cards=getCards(fs.readFileSync('index.html','utf8')),groups=new Map(),results=[];
+          for(const r of data){const page=Object.values(meta.query.pages).find(p=>p.title==='File:'+r.file);assert(page&&page.imageinfo?.length);const ii=page.imageinfo[0],ex=ii.extmetadata||{};assert.equal(ex.LicenseShortName?.value,r.lic,'Licence changed: '+r.file);
+          const filename='artists-batch-'+r.bn+'.js';if(!groups.has(filename)){const source=fs.readFileSync(filename,'utf8');assert.equal(blob(source),expected[r.bn],filename+': changed since review');assert(!source.includes('/*wiki-deferred-pass1-v1*/'));groups.set(filename,{filename,source,before:read(source,cards),records:[]});}
+          const g=groups.get(filename),a=g.before[r.id];assert(a);const key='wiki-uffizi-deferred1:'+r.Q;assert(!(a.works||[]).some(w=>w.key===key||w.key?.endsWith(':'+r.Q)));const image=ii.thumburl||ii.url;const delivery=await fetch(image);assert(delivery.ok,'Image delivery failed');const bytes=new Uint8Array(await delivery.arrayBuffer());assert(bytes.length>100&&bytes[0]===255&&bytes[1]===216,'Expected JPEG');
+          const imageSource=ii.descriptionurl;assert(imageSource?.startsWith('https://commons.wikimedia.org/wiki/File:'));const credit=a.name+'; '+(r.photo?'фотография '+r.photo+'; ':'')+'Wikimedia Commons; '+r.lic;
+          const work={key,title:r.title,date:r.date,author:a.name,medium:'',museum:r.n===239?'Галерея Палатина, Палаццо Питти; Галереи Уффици, Флоренция':'Галереи Уффици, Флоренция',source:r.source||imageSource,image,zoom:ii.url,imageSource,license:r.lic,licenseURL:ex.LicenseUrl?.value||'',creditLine:credit,imageWidth:ii.thumbwidth||ii.width,imageHeight:ii.thumbheight||ii.height,originalImageWidth:ii.width,originalImageHeight:ii.height,imageVisuallyReviewed:false,imageReviewStatus:'Проверены источники, права и загрузка исходного файла вместо цифровой вырезки; полный визуальный просмотр не заявляется',look:'Выбран исходный файл Commons вместо ранее отложенного кадрированного или ретушированного варианта. Дата фотографии не используется как дата произведения. Репродукция: '+credit+'. '+imageSource,metadataSources:[imageSource,...(r.source?[r.source]:[])]};
+          g.records.push({number:r.n,artistId:r.id,work});results.push({sourceBatch:r.batch,sourceNumber:r.n,workId:r.Q,artistId:r.id,commonsFile:r.file,commonsPageRevision:page.revisions?.[0]?.revid,status:'connected_pending_site_verification',browserImageDecodedDuringResearch:true,httpRechecked:true,fullVisualReview:false,work});}
+          assert.equal(groups.size,4);assert.equal(results.length,5);assert.equal(new Set(results.map(r=>r.artistId)).size,5);
+          for(const g of groups.values()){g.next=wrap(g.source,g.records);const after=read(g.next,cards);assert.deepEqual(Object.keys(after),Object.keys(g.before));for(const id of Object.keys(g.before)){const own=g.records.filter(r=>r.artistId===id);if(!own.length){assert.deepEqual(after[id],g.before[id]);continue;}const keys=new Set(own.map(r=>r.work.key));assert.equal(after[id].works.length,(g.before[id].works||[]).length+own.length);assert.deepEqual(after[id].works.filter(w=>!keys.has(w.key)),g.before[id].works||[]);for(const field of Object.keys(g.before[id]))if(!['works','sources','editorialStatus'].includes(field))assert.deepEqual(after[id][field],g.before[id][field]);}}
+          const selected=new Set(data.map(r=>r.n));const report={schemaVersion:1,pass:'deferred-001',reviewedBaseCommit:base,status:'connected_publication_pending',initialDeferredCount:28,newlyConnected:5,resolvedSourceNumbers:[...selected],remainingDeferredCount:23,remainingSourceNumbers:pending.filter(r=>!selected.has(r.number)).map(r=>r.number),artistPages:5,sourceFiles:4,liveArtistsJsMatchesMain:false,renderedPagesVerified:false,fullVisualReview:false,originalBatchReportsPreserved:true,reviewResults:results,notes:['Исторические статусы в batch-001…010 сохранены. Для текущего остатка учитывать этот журнал разрешений.','Пять исходных файлов выбраны вместо цифровых вырезок; полный визуальный просмотр не заявляется.','Другие 23 записи не считаются разрешёнными.','№200: фото Rufus46, CC BY-SA 3.0; №320: фото Livioandronico2013, CC BY-SA 4.0.']};
+          for(const g of groups.values())fs.writeFileSync(g.filename,g.next);fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');for(const p of history)assert.equal(fs.readFileSync(p.path,'utf8'),p.text);
+          NODE
+          node build-artists.mjs
+          cmp index.html "$RUNNER_TEMP/deferred1-index.html"
+      - name: Commit only first deferred-pass bindings and report
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add games/painting/artists-batch-{16,83,96,109}.js games/painting/artists.js games/painting/reports/wiki-batches/deferred-001.json
+          git commit -m 'Connect five original-source reproductions from deferred queue'
+          git push origin HEAD:main
+          gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds"
+      - name: Verify live catalogue and record publication
+        working-directory: games/painting
+        run: |
+          set -euo pipefail
+          for attempt in $(seq 1 36); do
+            if curl --fail --silent --show-error --compressed --location --connect-timeout 5 --max-time 20 "https://kameralog.github.io/games/painting/artists.js?deferred1=$GITHUB_RUN_ID-$attempt" -o "$RUNNER_TEMP/deferred1-live.js" && cmp -s artists.js "$RUNNER_TEMP/deferred1-live.js"; then
+              node --input-type=module -e 'import fs from "node:fs";const p="reports/wiki-batches/deferred-001.json";const r=JSON.parse(fs.readFileSync(p,"utf8"));r.status="published_catalogue_verified_rendered_pages_pending";r.liveArtistsJsMatchesMain=true;r.livePublishedRecords=5;for(const x of r.reviewResults)x.status="published_catalogue_verified";fs.writeFileSync(p,JSON.stringify(r,null,2)+"\n");'
+              git add reports/wiki-batches/deferred-001.json
+              git commit -m 'Record publication of five resolved deferred bindings'
+              git push origin HEAD:main
+              exit 0
+            fi
+            sleep 10
+          done
+          echo 'Bindings committed; publication verification is still pending.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1
