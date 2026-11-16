@@ -1,0 +1,2373 @@
+{
+  "schemaVersion": 1,
+  "series": "coverage",
+  "batch": 1,
+  "requestedBatchSize": 50,
+  "actualBatchSize": 50,
+  "status": "research_queue_prepared",
+  "sourceCommit": "8c22d358cfa0a7fd7ab0f2d4e67a3b5a3166e9de",
+  "createdAtUTC": "2026-11-16T11:21:04.593Z",
+  "moduleArtistCount": 1103,
+  "sourceModules": [
+    {
+      "file": "artists-batch-2.js",
+      "gitBlob": "08068ed3f0334c1a3afc27f989faf93f7ba295e7"
+    },
+    {
+      "file": "artists-batch-3.js",
+      "gitBlob": "56f1e96bbfcddee7e9ade9dac506aff32d2900a6"
+    },
+    {
+      "file": "artists-batch-4.js",
+      "gitBlob": "131b650e79cb31ad7fbfb23c1ea1176e0aaec0b7"
+    },
+    {
+      "file": "artists-batch-5.js",
+      "gitBlob": "fb459aba4265bbfce568f75bb0b4f86585e8cf51"
+    },
+    {
+      "file": "artists-batch-6.js",
+      "gitBlob": "cc1fe7f01b3d2c00b1b4292bc5b97d8902e54e6a"
+    },
+    {
+      "file": "artists-batch-7.js",
+      "gitBlob": "7fbf0cbf0f1e618c91418a63879f01199c85c330"
+    },
+    {
+      "file": "artists-batch-8.js",
+      "gitBlob": "92555e703683c94cdebf9a2a887c6f5b45abe8c3"
+    },
+    {
+      "file": "artists-batch-9.js",
+      "gitBlob": "6de6a2906332f9d08cbff1876cdc3a5b84cbe177"
+    },
+    {
+      "file": "artists-batch-10.js",
+      "gitBlob": "6c4a265f00925a1dc93a3fad2bc4e9c50549767a"
+    },
+    {
+      "file": "artists-batch-11.js",
+      "gitBlob": "b5088cf8f9b259b095462270452890fc15413c04"
+    },
+    {
+      "file": "artists-batch-12.js",
+      "gitBlob": "8e7fbd3ac571cde1ed91157288a3ee1a67b7490c"
+    },
+    {
+      "file": "artists-batch-13.js",
+      "gitBlob": "1861c96a1595c81233e2080c3d89640a47f24cb9"
+    },
+    {
+      "file": "artists-batch-14.js",
+      "gitBlob": "f43e0305a218994a23d0997a1b9c8f9047c0c2f8"
+    },
+    {
+      "file": "artists-batch-15.js",
+      "gitBlob": "fcbe2b722752a88c299bc3f7da44f44ea426e382"
+    },
+    {
+      "file": "artists-batch-16.js",
+      "gitBlob": "306ce228bd237c6305a048a60b3fbf03359f9aa9"
+    },
+    {
+      "file": "artists-batch-17.js",
+      "gitBlob": "3aa89950dddb436f8627ea5800589b982b74c0ec"
+    },
+    {
+      "file": "artists-batch-18.js",
+      "gitBlob": "f0695b0af56ff8056d11ec1cc51e2887b78c3694"
+    },
+    {
+      "file": "artists-batch-19.js",
+      "gitBlob": "12f00da78d412621bfd36aca4a313319f2e3ce75"
+    },
+    {
+      "file": "artists-batch-20.js",
+      "gitBlob": "98ea9ef00dd1d6b48e3faaf5feaf5d46479ca51e"
+    },
+    {
+      "file": "artists-batch-21.js",
+      "gitBlob": "4689f55701794201ab30f1b2054d66eb63285d7f"
+    },
+    {
+      "file": "artists-batch-22.js",
+      "gitBlob": "41a060eb24c85d0974daeb04d8dba5b7b05dd0d2"
+    },
+    {
+      "file": "artists-batch-23.js",
+      "gitBlob": "99a415a1fffb2068cbaccf4e4be898ff79cccbee"
+    },
+    {
+      "file": "artists-batch-24.js",
+      "gitBlob": "c30fac903a8f644ee067d47253b8319c1da6f190"
+    },
+    {
+      "file": "artists-batch-25.js",
+      "gitBlob": "41634174706b20ac1bd1323206805404cb932101"
+    },
+    {
+      "file": "artists-batch-26.js",
+      "gitBlob": "eda3864364a74e2aeb2546dfadace75f92803d3b"
+    },
+    {
+      "file": "artists-batch-27.js",
+      "gitBlob": "9f054dc746dc6e3fa2328ed5954f58a640ec1ef2"
+    },
+    {
+      "file": "artists-batch-28.js",
+      "gitBlob": "731a5c9fc0f8e45fd9b39b12d051db0929a44864"
+    },
+    {
+      "file": "artists-batch-29.js",
+      "gitBlob": "101fb5b1198910da72651a2e97cf5ea492ade7eb"
+    },
+    {
+      "file": "artists-batch-30.js",
+      "gitBlob": "0154b3ca228f99ad58054f7222ecdf96f53cc7ea"
+    },
+    {
+      "file": "artists-batch-31.js",
+      "gitBlob": "f9d68a6519ea68d4854cfa37d88b3d31577edd06"
+    },
+    {
+      "file": "artists-batch-32.js",
+      "gitBlob": "92a48307a6a6193eb98be854ccaefbce5841869a"
+    },
+    {
+      "file": "artists-batch-33.js",
+      "gitBlob": "f9be7e4ba43150ae2e9c7fd4296784fb4752bc53"
+    },
+    {
+      "file": "artists-batch-34.js",
+      "gitBlob": "8795d291d6704d9ac1bc8b6dbf25826551103b86"
+    },
+    {
+      "file": "artists-batch-35.js",
+      "gitBlob": "79490d45498eff3fe19844fb392968e8b1c180fe"
+    },
+    {
+      "file": "artists-batch-36.js",
+      "gitBlob": "fda84938129a7f035d5c04b5924525b82d784831"
+    },
+    {
+      "file": "artists-batch-37.js",
+      "gitBlob": "e538ca80706600540760959900013b2bf4899548"
+    },
+    {
+      "file": "artists-batch-38.js",
+      "gitBlob": "a6bfadd4071ff0b0f14bd7283a8f20421cbafbb1"
+    },
+    {
+      "file": "artists-batch-39.js",
+      "gitBlob": "cedc6e556b66ef175395bb7f41bf6f3458029d92"
+    },
+    {
+      "file": "artists-batch-40.js",
+      "gitBlob": "939cbc8be4993a5ca6d1e1a5602d2a39dd9ed132"
+    },
+    {
+      "file": "artists-batch-41.js",
+      "gitBlob": "02a47bd2f0bc57283786251e93cc71dcfb8ed2b1"
+    },
+    {
+      "file": "artists-batch-42.js",
+      "gitBlob": "f1b58a555c3a22970ac2207fcbd8b90315e75a0a"
+    },
+    {
+      "file": "artists-batch-43.js",
+      "gitBlob": "b448a6c8b27b3ae1094febfce5cb801f8d2c82b8"
+    },
+    {
+      "file": "artists-batch-44.js",
+      "gitBlob": "757ee5e512b42f638bb1e70c37ba8d86495cb77f"
+    },
+    {
+      "file": "artists-batch-45.js",
+      "gitBlob": "2082c5c4fceb14114d38407914e5e8b704cc7993"
+    },
+    {
+      "file": "artists-batch-46.js",
+      "gitBlob": "b649fdd9d1efeb45d6000c7a6b8cb6438bd7d8a4"
+    },
+    {
+      "file": "artists-batch-47.js",
+      "gitBlob": "452d574d19bf996240c63714eb64d97a5b1c1b54"
+    },
+    {
+      "file": "artists-batch-48.js",
+      "gitBlob": "83b2889a059f3786367f8c001c1021bbba8371a5"
+    },
+    {
+      "file": "artists-batch-49.js",
+      "gitBlob": "23b973f294fd593b7310eb7d3058ba7be34a00cd"
+    },
+    {
+      "file": "artists-batch-50.js",
+      "gitBlob": "bee574bf91c4210469e8836126fcba6e163ae0a9"
+    },
+    {
+      "file": "artists-batch-51.js",
+      "gitBlob": "90a6e31f3b4811fdb792b874580f742beba84c45"
+    },
+    {
+      "file": "artists-batch-52.js",
+      "gitBlob": "dd6c7f9c4a3fcda064c4eb4b18a8b9fff5969cf1"
+    },
+    {
+      "file": "artists-batch-53.js",
+      "gitBlob": "35e731bf7cc22fdb471c01119567b2c17447b1fc"
+    },
+    {
+      "file": "artists-batch-54.js",
+      "gitBlob": "0d409263ec7dcd5f1092d0b10da938d8e415beb7"
+    },
+    {
+      "file": "artists-batch-55.js",
+      "gitBlob": "238693e7987280835f8ae5292275daa43eec97ad"
+    },
+    {
+      "file": "artists-batch-56.js",
+      "gitBlob": "9abf22ec75cb94871394f91c00fc782a951a4567"
+    },
+    {
+      "file": "artists-batch-57.js",
+      "gitBlob": "06467ad8504aca7f8cc2d568d084071550aaebaa"
+    },
+    {
+      "file": "artists-batch-58.js",
+      "gitBlob": "8755b362de3d1098fe2c125d98bce24c38db50ee"
+    },
+    {
+      "file": "artists-batch-59.js",
+      "gitBlob": "8bd12b9ce8ba7aa732049688c9c0bbc420265078"
+    },
+    {
+      "file": "artists-batch-60.js",
+      "gitBlob": "70e3683085ae08b863e8133591b4bc13aa29238c"
+    },
+    {
+      "file": "artists-batch-61.js",
+      "gitBlob": "e5de2bfb19b0b9d2f7c5b88fbabcb89ff51aab29"
+    },
+    {
+      "file": "artists-batch-62.js",
+      "gitBlob": "676a1d111252030f583c6088fa7b9e6b8a142916"
+    },
+    {
+      "file": "artists-batch-63.js",
+      "gitBlob": "ee09ded2976133fe8d54a9e3bfdd73d1ab16763f"
+    },
+    {
+      "file": "artists-batch-64.js",
+      "gitBlob": "105e1d005c9578a9a303f229fda62b3c85784062"
+    },
+    {
+      "file": "artists-batch-65.js",
+      "gitBlob": "cf0c1bf8f65b735fbc366a0183f0812fe5bdf078"
+    },
+    {
+      "file": "artists-batch-66.js",
+      "gitBlob": "7aa63c287c785862908c9ad015a35a967aee9803"
+    },
+    {
+      "file": "artists-batch-67.js",
+      "gitBlob": "8270415736c862499b684e17b7aae2e5ff004e60"
+    },
+    {
+      "file": "artists-batch-68.js",
+      "gitBlob": "6a26b59ec695969790aee217dd6ed86686aca649"
+    },
+    {
+      "file": "artists-batch-69.js",
+      "gitBlob": "0d6ba4071f128f14a5811423da96c04f0910d9fd"
+    },
+    {
+      "file": "artists-batch-70.js",
+      "gitBlob": "7aae9c536ee4c4a4f85c1acffa3a49109b45e1af"
+    },
+    {
+      "file": "artists-batch-71.js",
+      "gitBlob": "f397f7dd5cdde4578be0ca5ab98d22e8827b8b5a"
+    },
+    {
+      "file": "artists-batch-72.js",
+      "gitBlob": "e181e095271143f2093ba4774ca7ff80d453e9bc"
+    },
+    {
+      "file": "artists-batch-73.js",
+      "gitBlob": "374169857e422e062f5f618e53387cdd6a5da689"
+    },
+    {
+      "file": "artists-batch-74.js",
+      "gitBlob": "673b1845f5bbc81f0e7c6a13aa6c2f3e25c6b79d"
+    },
+    {
+      "file": "artists-batch-75.js",
+      "gitBlob": "5f86f9c51aab7568e5911fab930c97e9ea005a7e"
+    },
+    {
+      "file": "artists-batch-76.js",
+      "gitBlob": "e366360c83a6a898d179c4bb17d7b7a9a0273c1a"
+    },
+    {
+      "file": "artists-batch-77.js",
+      "gitBlob": "6b8efc05615a6d1ab2fd0977d0cec1391d2a9a4f"
+    },
+    {
+      "file": "artists-batch-78.js",
+      "gitBlob": "5144dd6a236ee5585199866d5c38998d9a41fa47"
+    },
+    {
+      "file": "artists-batch-79.js",
+      "gitBlob": "8d7ff390454a1b77fc1560926a4279c380d7b272"
+    },
+    {
+      "file": "artists-batch-80.js",
+      "gitBlob": "2782e019d11113e1edd2640ac008edbfd91303ed"
+    },
+    {
+      "file": "artists-batch-81.js",
+      "gitBlob": "2037de5b99775a6611de0696c44040b4a7fa12d4"
+    },
+    {
+      "file": "artists-batch-82.js",
+      "gitBlob": "12e0d4671dec07cbe050f12c45b90f5427640950"
+    },
+    {
+      "file": "artists-batch-83.js",
+      "gitBlob": "5cee1125cd7afb7882b2e2f7e448625e851d42dc"
+    },
+    {
+      "file": "artists-batch-84.js",
+      "gitBlob": "48b3dafbdbc8db693ce0cb9d9e2389be0fcdba1a"
+    },
+    {
+      "file": "artists-batch-85.js",
+      "gitBlob": "deb5f281e51178092295faa010311c1d5f1d9162"
+    },
+    {
+      "file": "artists-batch-86.js",
+      "gitBlob": "ec15ce5b7f4cab4c87b29a3da53b7f5433e8d223"
+    },
+    {
+      "file": "artists-batch-87.js",
+      "gitBlob": "f556b66e5ec5104964961883d3127728d7d03cdd"
+    },
+    {
+      "file": "artists-batch-88.js",
+      "gitBlob": "00196b4020bc8064548fccbe42858394d138b0c3"
+    },
+    {
+      "file": "artists-batch-89.js",
+      "gitBlob": "b2f0da8167554723d23a856a34f44e979a582111"
+    },
+    {
+      "file": "artists-batch-90.js",
+      "gitBlob": "d851542a5967946749ed4af54cd8df91647a172f"
+    },
+    {
+      "file": "artists-batch-91.js",
+      "gitBlob": "47d0130a216f95f1025e7b7d6461baa7477a467c"
+    },
+    {
+      "file": "artists-batch-92.js",
+      "gitBlob": "4de96a7873d0521b768c130a2c9ad892d93c191b"
+    },
+    {
+      "file": "artists-batch-93.js",
+      "gitBlob": "15d0cae10ea9e463c0f996878d5d08f864990a9f"
+    },
+    {
+      "file": "artists-batch-94.js",
+      "gitBlob": "b80d98117020b9ae09553f7e370a638702903439"
+    },
+    {
+      "file": "artists-batch-95.js",
+      "gitBlob": "f3f8da07ef4845b106856a3310514b051328c372"
+    },
+    {
+      "file": "artists-batch-96.js",
+      "gitBlob": "64386d21ed281ad2055efdfa5da613ca6fb83d62"
+    },
+    {
+      "file": "artists-batch-97.js",
+      "gitBlob": "07c1fd112434dfe547b48fc716964516bc7b838f"
+    },
+    {
+      "file": "artists-batch-98.js",
+      "gitBlob": "4728f8680cb91675cd459cc253e0b6008c775d47"
+    },
+    {
+      "file": "artists-batch-99.js",
+      "gitBlob": "2e9401804705e7e0b678d4e75781b314fa8bff63"
+    },
+    {
+      "file": "artists-batch-100.js",
+      "gitBlob": "171f8c9e99209df7544efb3de4d43e7cc1697f81"
+    },
+    {
+      "file": "artists-batch-101.js",
+      "gitBlob": "00336b8039ccb5e498f99b2d67b4d212b9b484ab"
+    },
+    {
+      "file": "artists-batch-102.js",
+      "gitBlob": "ad0e040b748e65fcdaa50c8685a057eaa004105a"
+    },
+    {
+      "file": "artists-batch-103.js",
+      "gitBlob": "3bd384b844d7fff03ef19125b05de16951b22c3f"
+    },
+    {
+      "file": "artists-batch-104.js",
+      "gitBlob": "a1341fff6ad416710f88612e0ad00b52648a9cce"
+    },
+    {
+      "file": "artists-batch-105.js",
+      "gitBlob": "d31c7cfbcaf5434afc5a2e17a6bd9a709ab53b80"
+    },
+    {
+      "file": "artists-batch-106.js",
+      "gitBlob": "e4d56c03654c26bfdf9c9fa2d2993c614b26e6d9"
+    },
+    {
+      "file": "artists-batch-107.js",
+      "gitBlob": "11ca969084cdcadd85b3e0012993d72d1ce54077"
+    },
+    {
+      "file": "artists-batch-108.js",
+      "gitBlob": "b30ec250bf59b48403255a708bfe73ceffbd1d63"
+    },
+    {
+      "file": "artists-batch-109.js",
+      "gitBlob": "d59eca6bf3d4ed795f09896a0059b4c2e5dea802"
+    },
+    {
+      "file": "artists-batch-110.js",
+      "gitBlob": "b266cfce2343b0cb952054037642ca2b8c498ee0"
+    },
+    {
+      "file": "artists-batch-111.js",
+      "gitBlob": "ca772edae2d0a657c4b395722274b165404910e6"
+    },
+    {
+      "file": "artists-batch-112.js",
+      "gitBlob": "68e57b4cac5b661a5930b0b4f7a63074be4068dd"
+    },
+    {
+      "file": "artists-batch-113.js",
+      "gitBlob": "15c6ec2976c173f9157954a6ae311f724fa883d5"
+    },
+    {
+      "file": "artists-batch-114.js",
+      "gitBlob": "4e7aeb5bdeb26de5106d5df0d88fb7daf2a72613"
+    },
+    {
+      "file": "artists-batch-115.js",
+      "gitBlob": "e9ea6e9a80b99f642c10bd096acd82bc51549bb0"
+    },
+    {
+      "file": "artists-batch-116.js",
+      "gitBlob": "8fc51373a649c10c45f793830ac0f34f88703b26"
+    },
+    {
+      "file": "artists-batch-117.js",
+      "gitBlob": "70ed1008c44a6ad0f8914f4b37706120f2a94443"
+    },
+    {
+      "file": "artists-batch-118.js",
+      "gitBlob": "091acab6be09db44075939d87bb623c436c3c5b4"
+    },
+    {
+      "file": "artists-batch-119.js",
+      "gitBlob": "bb61e1f38deb6172690ddb04e25bb73016a3b69e"
+    },
+    {
+      "file": "artists-batch-120.js",
+      "gitBlob": "406663337448d1002d4d56979ebccdd70c12745e"
+    },
+    {
+      "file": "artists-batch-121.js",
+      "gitBlob": "ba437249acb0643bfd591ce5503dcb2ad16a50eb"
+    },
+    {
+      "file": "artists-batch-122.js",
+      "gitBlob": "e5e3193a3c9ff1d909e964760b9381b5c536f29a"
+    },
+    {
+      "file": "artists-batch-123.js",
+      "gitBlob": "2bce1a29d76c64bc4458fc5c2f61c7cd40f6da01"
+    },
+    {
+      "file": "artists-batch-124.js",
+      "gitBlob": "f7b008bbfff315daad1957121d4ca3ea0b3c6f32"
+    },
+    {
+      "file": "artists-batch-125.js",
+      "gitBlob": "9d6fb551d9fc836aa5d14add0ccc28ab527ff1aa"
+    },
+    {
+      "file": "artists-batch-126.js",
+      "gitBlob": "b2e543db93257f40c563e71893fd94928806cf83"
+    },
+    {
+      "file": "artists-batch-127.js",
+      "gitBlob": "6be22366ecc96277cf4a7d679e9ed43caac62fe5"
+    },
+    {
+      "file": "artists-batch-128.js",
+      "gitBlob": "f04f76ab324872164ded30e860352be92c8ea59a"
+    },
+    {
+      "file": "artists-batch-129.js",
+      "gitBlob": "7332a38fa4900b999284f62cc3359e28ab84d64d"
+    },
+    {
+      "file": "artists-batch-130.js",
+      "gitBlob": "7579d1f965ead058887271359122555fdf320e80"
+    },
+    {
+      "file": "artists-batch-131.js",
+      "gitBlob": "137d7d675a9889754d674c1dc99d5150918f5741"
+    },
+    {
+      "file": "artists-batch-132.js",
+      "gitBlob": "c4173f6bd7c73d0ec4a264faf4e4f96cc39ff4d2"
+    },
+    {
+      "file": "artists-batch-133.js",
+      "gitBlob": "27f5daf16993fcdd5cbf382c91c80977be2c1d8d"
+    },
+    {
+      "file": "artists-batch-134.js",
+      "gitBlob": "d5ecfd5fd792b67db8f9cfe14feff0c2931e8ee1"
+    },
+    {
+      "file": "artists-batch-135.js",
+      "gitBlob": "a8d4999b99e096fecf4b6d4414908376f2ba3f77"
+    },
+    {
+      "file": "artists-batch-136.js",
+      "gitBlob": "3a29ec62561286cdaf34f14774d9685556090a95"
+    },
+    {
+      "file": "artists-batch-137.js",
+      "gitBlob": "913cb212302df32beb03990da48c345d4abdf1a0"
+    },
+    {
+      "file": "artists-batch-138.js",
+      "gitBlob": "576dcd87aa2e150586149b7f51ef63b967505926"
+    },
+    {
+      "file": "artists-batch-139.js",
+      "gitBlob": "f792e08a6eae8ee26f0c0edbc186efcff76ce8ef"
+    },
+    {
+      "file": "artists-batch-140.js",
+      "gitBlob": "181c6f9f551d72a4e16b05c204e7b08e198f68e8"
+    },
+    {
+      "file": "artists-batch-141.js",
+      "gitBlob": "6dfe0daead09a1a93684a094471a8718b352095e"
+    },
+    {
+      "file": "artists-batch-142.js",
+      "gitBlob": "f4518843483dcf208005e68c204b0828f0ab3d75"
+    },
+    {
+      "file": "artists-batch-143.js",
+      "gitBlob": "84c5ab1ea2efa3b18b95e20c200b1f67e24ff113"
+    },
+    {
+      "file": "artists-batch-144.js",
+      "gitBlob": "da9b417844b9eea1b903dadac733982c9f7a914f"
+    },
+    {
+      "file": "artists-batch-145.js",
+      "gitBlob": "e3d03baa09b23b2952faa2f2ed247c67a447ef2e"
+    },
+    {
+      "file": "artists-batch-146.js",
+      "gitBlob": "6781f4323fc9067ec22b9fdc44c1ba81d99c3280"
+    },
+    {
+      "file": "artists-batch-147.js",
+      "gitBlob": "b9753196ec85e3d6aeab40172f39825284d932e4"
+    },
+    {
+      "file": "artists-batch-148.js",
+      "gitBlob": "d954778e9f084446515f6b8d164219296290b2fe"
+    },
+    {
+      "file": "artists-batch-149.js",
+      "gitBlob": "4983688a6aa7e77854d3fc56c6acc2d740e690a6"
+    },
+    {
+      "file": "artists-batch-150.js",
+      "gitBlob": "f2359b2f02bd08b3cc98985de61bf51d4599e8de"
+    },
+    {
+      "file": "artists-batch-151.js",
+      "gitBlob": "2b0c716bcc15598e5d54b34e9c805463bc42209b"
+    },
+    {
+      "file": "artists-batch-152.js",
+      "gitBlob": "9b312927b8afe4c7c179d9c8b24514e5b9f63025"
+    },
+    {
+      "file": "artists-batch-153.js",
+      "gitBlob": "ef4791e22b070f10ff5ab9d30d655f535061325b"
+    },
+    {
+      "file": "artists-batch-154.js",
+      "gitBlob": "ebb8c1496b322aac3877172e8173d06614034be8"
+    },
+    {
+      "file": "artists-batch-155.js",
+      "gitBlob": "99f74177340c9e04f8f2d17ed70315cfcd7f1cee"
+    },
+    {
+      "file": "artists-batch-156.js",
+      "gitBlob": "9dec848fb21f60544e7667d1e330001e76b24385"
+    },
+    {
+      "file": "artists-batch-157.js",
+      "gitBlob": "7f21ce78f0e64d8e097eafc4f198d3a68e9d7b4e"
+    },
+    {
+      "file": "artists-batch-158.js",
+      "gitBlob": "c277e2501f3b28c2e770407123934b381ee8ca71"
+    }
+  ],
+  "emptyWorksArtists": 488,
+  "excludedEmptyArtists": 2,
+  "eligibleArtists": 411,
+  "eligiblePendingWorks": 411,
+  "selectedArtistCount": 50,
+  "shortfall": 0,
+  "pausedDeferredSourceNumbers": [
+    3,
+    12,
+    26,
+    27,
+    31,
+    38,
+    41,
+    42,
+    45,
+    97,
+    140,
+    152,
+    217,
+    234,
+    238,
+    349,
+    356,
+    373,
+    413,
+    416,
+    428,
+    429,
+    466
+  ],
+  "imagesVerifiedCount": null,
+  "readyToBindCount": 0,
+  "records": [
+    {
+      "number": 1,
+      "queueKey": "agostino_melissi:6cc834970c33d751",
+      "artistId": "agostino_melissi",
+      "artistName": "Агостино Мелисси",
+      "latin": "Agostino Melissi",
+      "sourceModule": "games/painting/artists-batch-99.js",
+      "sourceModuleGitBlob": "2e9401804705e7e0b678d4e75781b314fa8bff63",
+      "existingWorksCount": 0,
+      "originalPendingKey": "catalogue:rigore-grazia:19",
+      "pendingWorkFingerprint": "6cc834970c33d7511b2911b261d350ae3294696ff28941911fce534abfeeafdd",
+      "title": "Сусанна и старцы",
+      "date": "Точная дата не установлена",
+      "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+      "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+      "originalPending": {
+        "key": "catalogue:rigore-grazia:19",
+        "title": "Сусанна и старцы",
+        "originalTitle": "Susanna e i vecchioni",
+        "date": "Точная дата не установлена",
+        "medium": "Холст; восьмиугольный формат; точная техника и размеры не установлены",
+        "museum": "Семинария Флоренции — цикл по каталогу 2015 года; нынешнее местонахождение не проверено",
+        "source": "https://shop.uffizi.it/wp-content/uploads/2022/06/9788883478208-Il-rigore_grazia_benedetto_bioanco_barocco_firenze_assaggio.pdf",
+        "look": "Как расположение участников передаёт отношения между ними? Не заменяй проверку изображения общим пересказом сюжета.",
+        "reason": "Конкретный свободный файл репродукции, его лицензия и кредит не проверены."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 2,
+      "queueKey": "adele_kindt:be1bb69a42ca9757",
+      "artistId": "adele_kindt",
+      "artistName": "Адель Киндт",
+      "latin": "Adèle Kindt",
+      "sourceModule": "games/painting/artists-batch-124.js",
+      "sourceModuleGitBlob": "f7b008bbfff315daad1957121d4ca3ea0b3c6f32",
+      "existingWorksCount": 0,
+      "originalPendingKey": "adele_kindt_selected",
+      "pendingWorkFingerprint": "be1bb69a42ca9757919a0ccb983abc4a3bf86a6bca44acb0f09c3c1d228f1843",
+      "title": "Аллегория революции 1830 года",
+      "date": "1831 по подписи и музейной карточке",
+      "museum": "Musée de la Ville de Bruxelles, Maison du Roi",
+      "source": "https://collections.heritage.brussels/fr/objects/46644",
+      "originalPending": {
+        "key": "adele_kindt_selected",
+        "title": "Аллегория революции 1830 года",
+        "originalTitle": "Allégorie de la révolution de 1830",
+        "date": "1831 по подписи и музейной карточке",
+        "medium": "Живопись; точная техника и основа требуют сверки",
+        "museum": "Musée de la Ville de Bruxelles, Maison du Roi",
+        "source": "https://collections.heritage.brussels/fr/objects/46644",
+        "look": "Как женщина защищает детей? Как построены передний и дальний планы? Как флаг связан с действием? Что усиливает драматизм? Почему дата изображённого события отличается от даты картины?",
+        "reason": "Commons-кандидат найден, но тождество версии, дата, границы и полная лицензия не закрыты; старый вариант файла был фрагментом.",
+        "inventoryNumber": "K.1939.1",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Adele_Kindt_Episode_La_r%C3%A9volution_de_1830_(1830).jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 3,
+      "queueKey": "adolph_tidemand:7e354ca1fbe8e34a",
+      "artistId": "adolph_tidemand",
+      "artistName": "Адольф Тидеманд",
+      "latin": "Adolph Tidemand",
+      "sourceModule": "games/painting/artists-batch-129.js",
+      "sourceModuleGitBlob": "7332a38fa4900b999284f62cc3359e28ab84d64d",
+      "existingWorksCount": 0,
+      "originalPendingKey": "adolph_tidemand_selected",
+      "pendingWorkFingerprint": "7e354ca1fbe8e34a492cb903e1acabe42c9ae0d63f827051b4b2f7662fcf44be",
+      "title": "Хаугианцы",
+      "date": "1848",
+      "museum": "Nasjonalmuseet — Национальный музей Норвегии",
+      "source": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.04419",
+      "originalPending": {
+        "key": "adolph_tidemand_selected",
+        "title": "Хаугианцы",
+        "originalTitle": "Haugianerne",
+        "date": "1848",
+        "medium": "Масло на холсте; 98,8 × 123,2 см",
+        "museum": "Nasjonalmuseet — Национальный музей Норвегии",
+        "inventoryNumber": "NG.M.04419",
+        "source": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.04419",
+        "look": "Как выделен проповедник? Как различаются реакции слушателей? Как предметы связывают сцену с исторической средой?",
+        "reason": "Музейная репродукция найдена в предметной карточке; конкретный файл, полная лицензия, кредит и доставка изображения ещё не проверены."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 4,
+      "queueKey": "adolf_von_becker:381d5c6e91547ea0",
+      "artistId": "adolf_von_becker",
+      "artistName": "Адольф фон Беккер",
+      "latin": "Adolf von Becker",
+      "sourceModule": "games/painting/artists-batch-133.js",
+      "sourceModuleGitBlob": "27f5daf16993fcdd5cbf382c91c80977be2c1d8d",
+      "existingWorksCount": 0,
+      "originalPendingKey": "adolf_von_becker_selected",
+      "pendingWorkFingerprint": "381d5c6e91547ea076e9b3ac6af69d1ceab5977bfa0e5b7370da4b39f0cd3235",
+      "title": "Пишущая девочка",
+      "date": "1872",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://kokoelma.kansallisgalleria.fi/en/object/1909604",
+      "originalPending": {
+        "key": "adolf_von_becker_selected",
+        "title": "Пишущая девочка",
+        "originalTitle": "A Girl Writing",
+        "date": "1872",
+        "medium": "Масло; основа требует сверки; 46,5 × 56 см",
+        "museum": "Finnish National Gallery / Ateneum Art Museum",
+        "source": "https://kokoelma.kansallisgalleria.fi/en/object/1909604",
+        "look": "Как занятие героини организует позу? Как пространство поддерживает камерность сцены? Где название не позволяет установить личность модели?",
+        "reason": "Источник произведения с изображением найден; конкретный свободный файл, его версия, полный кредит и доставка не проверены полностью."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 5,
+      "queueKey": "adriana_johanna_haanen:a6ac92e6c32675aa",
+      "artistId": "adriana_johanna_haanen",
+      "artistName": "Адриана Йоханна Ханен",
+      "latin": "Adriana Johanna Haanen",
+      "sourceModule": "games/painting/artists-batch-121.js",
+      "sourceModuleGitBlob": "ba437249acb0643bfd591ce5503dcb2ad16a50eb",
+      "existingWorksCount": 0,
+      "originalPendingKey": "adriana_johanna_haanen_selected",
+      "pendingWorkFingerprint": "a6ac92e6c32675aae338c97b93257ed24ef373e899a727945ecf07db33074d36",
+      "title": "Лето: натюрморт с цветами",
+      "date": "1850–1884",
+      "museum": "Rijksmuseum",
+      "source": "https://www.rijksmuseum.nl/nl/collectie/object/De-zomer-stilleven-met-bloemen--7ee392357e28b617bb065384f6a58746",
+      "originalPending": {
+        "key": "adriana_johanna_haanen_selected",
+        "title": "Лето: натюрморт с цветами",
+        "originalTitle": "'De zomer': stilleven met bloemen",
+        "date": "1850–1884",
+        "medium": "Масло на холсте; 132 × 102 см",
+        "museum": "Rijksmuseum",
+        "source": "https://www.rijksmuseum.nl/nl/collectie/object/De-zomer-stilleven-met-bloemen--7ee392357e28b617bb065384f6a58746",
+        "look": "Как ваза организует букет? Как ветви выходят за основной силуэт? Как цветы соотносятся со стеной? Как различаются фактуры? Какие сведения нельзя проверить без репродукции?",
+        "reason": "Музей прямо сообщает, что произведение не доступно цифровым изображением. Свободная репродукция другого файла не установлена.",
+        "inventoryNumber": "SK-A-1186"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 6,
+      "queueKey": "akseli_gallen_kallela:389490d857f21d1c",
+      "artistId": "akseli_gallen_kallela",
+      "artistName": "Аксели Галлен-Каллела",
+      "latin": "Akseli Gallen-Kallela",
+      "sourceModule": "games/painting/artists-batch-132.js",
+      "sourceModuleGitBlob": "c4173f6bd7c73d0ec4a264faf4e4f96cc39ff4d2",
+      "existingWorksCount": 0,
+      "originalPendingKey": "akseli_gallen_kallela_selected",
+      "pendingWorkFingerprint": "389490d857f21d1c3530d3ece9c1d8494a8bce16b85597c454ca5d21607ee6ac",
+      "title": "Миф об Айно. Триптих",
+      "date": "1891",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://kokoelma.kansallisgalleria.fi/en/object/392351",
+      "originalPending": {
+        "key": "akseli_gallen_kallela_selected",
+        "title": "Миф об Айно. Триптих",
+        "originalTitle": "Aino-taru, triptyykki",
+        "date": "1891",
+        "medium": "Масло на холсте; 200 × 413 см",
+        "museum": "Finnish National Gallery / Ateneum Art Museum",
+        "source": "https://kokoelma.kansallisgalleria.fi/en/object/392351",
+        "look": "Как порядок трёх сцен отличается от обычного чтения слева направо? Как рама связывает текст и изображение? Как фигуры включены в озёрный пейзаж?",
+        "reason": "Предметный или музейный источник найден; конкретный свободный файл, его версия, полный кредит и доставка не проверены полностью.",
+        "inventoryNumber": "A I 518"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 7,
+      "queueKey": "axel_haartman:d54437951e80c4fc",
+      "artistId": "axel_haartman",
+      "artistName": "Аксель Хаартман",
+      "latin": "Axel Haartman",
+      "sourceModule": "games/painting/artists-batch-134.js",
+      "sourceModuleGitBlob": "d5ecfd5fd792b67db8f9cfe14feff0c2931e8ee1",
+      "existingWorksCount": 0,
+      "originalPendingKey": "axel_haartman_selected",
+      "pendingWorkFingerprint": "d54437951e80c4fcca3fe68b1aad95b8df1a1b22796578cc5cfbf165c851a5bc",
+      "title": "Мюнхенский пейзаж",
+      "date": "1902",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://kokoelma.kansallisgalleria.fi/en/object/416417",
+      "originalPending": {
+        "key": "axel_haartman_selected",
+        "title": "Мюнхенский пейзаж",
+        "originalTitle": "Maisema Münchenista",
+        "date": "1902",
+        "medium": "Масло на холсте; 45 × 34,5 см; глубина 2 см",
+        "museum": "Finnish National Gallery / Ateneum Art Museum",
+        "source": "https://kokoelma.kansallisgalleria.fi/en/object/416417",
+        "look": "Как вертикальный формат организует вид? Как соотносятся ближний и дальний планы? Что название позволяет сказать о месте и чего не доказывает?",
+        "reason": "Музейная запись найдена, но конкретная свободная репродукция не установлена. Автор умер в 1969 году; права произведения и снимка требуют отдельной проверки, изображение не подключено.",
+        "inventoryNumber": "A-2014-331"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 8,
+      "queueKey": "alvar_cawen:3eb8578e64ac0962",
+      "artistId": "alvar_cawen",
+      "artistName": "Алвар Кавен",
+      "latin": "Alvar Cawén",
+      "sourceModule": "games/painting/artists-batch-133.js",
+      "sourceModuleGitBlob": "27f5daf16993fcdd5cbf382c91c80977be2c1d8d",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alvar_cawen_selected",
+      "pendingWorkFingerprint": "3eb8578e64ac09628924d562e6da5d3d13de7bf675aecf46464f17353bcc0117",
+      "title": "Слепой",
+      "date": "1926",
+      "museum": "Art Museum of Estonia — Художественный музей Эстонии",
+      "source": "https://kunstimuuseum.ekm.ee/en/syndmus/the-dance-of-colours-finnish-modernist-art/",
+      "originalPending": {
+        "key": "alvar_cawen_selected",
+        "title": "Слепой",
+        "originalTitle": "Pime / Blind",
+        "date": "1926",
+        "medium": "Масляная живопись; основа и размеры требуют предметной сверки",
+        "museum": "Art Museum of Estonia — Художественный музей Эстонии",
+        "source": "https://kunstimuuseum.ekm.ee/en/syndmus/the-dance-of-colours-finnish-modernist-art/",
+        "look": "Как цвет влияет на ощущение пространства? Как поза и силуэт организуют фигуру? Что название не позволяет утверждать о личности героя?",
+        "reason": "Источник произведения с изображением найден; конкретный свободный файл, его версия, полный кредит и доставка не проверены полностью."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 9,
+      "queueKey": "alexandre_calame:707bec79539f77f0",
+      "artistId": "alexandre_calame",
+      "artistName": "Александр Калам",
+      "latin": "Alexandre Calame",
+      "sourceModule": "games/painting/artists-batch-146.js",
+      "sourceModuleGitBlob": "6781f4323fc9067ec22b9fdc44c1ba81d99c3280",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alexandre_calame_selected",
+      "pendingWorkFingerprint": "707bec79539f77f08c803dec1d6b8ee9b09a4f370852f05eea824767c75680dd",
+      "title": "Гроза у Хандека",
+      "date": "1839",
+      "museum": "Musée d’art et d’histoire, Женева",
+      "source": "https://www.mahmah.ch/collection/oeuvres/orage-la-handeck/1839-0001",
+      "originalPending": {
+        "title": "Гроза у Хандека",
+        "originalTitle": "Orage à la Handeck",
+        "date": "1839",
+        "medium": "Масло на холсте; 190,2 × 260 см по актуальной записи MAH",
+        "museum": "Musée d’art et d’histoire, Женева",
+        "key": "alexandre_calame_selected",
+        "source": "https://www.mahmah.ch/collection/oeuvres/orage-la-handeck/1839-0001",
+        "look": "Вопросы для будущего рассматривания, не самостоятельный визуальный анализ: Как гроза превращает конкретное место в драматическое событие? Как масштаб холста влияет на переживание гор? Какие предметные данные отличают оригинал от уменьшенной копии?",
+        "reason": "Конкретный файл, версия, права репродукции, полный кредит, разрешение и браузерная доставка не проверены в совокупности. Музейное изображение не подключено автоматически.",
+        "inventoryNumber": "1839-0001"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 10,
+      "queueKey": "alexander_laureus:f4aae9fa4596124e",
+      "artistId": "alexander_laureus",
+      "artistName": "Александр Лауреус",
+      "latin": "Alexander Lauréus",
+      "sourceModule": "games/painting/artists-batch-133.js",
+      "sourceModuleGitBlob": "27f5daf16993fcdd5cbf382c91c80977be2c1d8d",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alexander_laureus_selected",
+      "pendingWorkFingerprint": "f4aae9fa4596124e62f0a9013c24006522f1d9239946baa253f906540136d121",
+      "title": "Пир в пасторском доме",
+      "date": "1815",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://kokoelma.kansallisgalleria.fi/en/object/527583",
+      "originalPending": {
+        "key": "alexander_laureus_selected",
+        "title": "Пир в пасторском доме",
+        "originalTitle": "Pastorin kestit",
+        "date": "1815",
+        "medium": "Масло на холсте; размеры требуют прямой предметной сверки",
+        "museum": "Finnish National Gallery / Ateneum Art Museum",
+        "source": "https://kokoelma.kansallisgalleria.fi/en/object/527583",
+        "look": "Как группы людей создают социальную иерархию? Как жесты поддерживают комическое прочтение? Чем литературная основа отличается от документа реального приёма?",
+        "reason": "Конкретный файловый кандидат найден, но страницу не удалось прочитать. Лицензия, текущая версия, кредит и доставка не проверены; CC0 по аналогии с другими файлами музея не назначена.",
+        "inventoryNumber": "A-2002-563",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Alexander_Laur%C3%A9us_-_Party_at_the_Parsonage_-_A-2002-563_-_Finnish_National_Gallery.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 11,
+      "queueKey": "alexandre_perrier:6ff177053443c6ce",
+      "artistId": "alexandre_perrier",
+      "artistName": "Александр Перье",
+      "latin": "Alexandre Perrier",
+      "sourceModule": "games/painting/artists-batch-146.js",
+      "sourceModuleGitBlob": "6781f4323fc9067ec22b9fdc44c1ba81d99c3280",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alexandre_perrier_selected",
+      "pendingWorkFingerprint": "6ff177053443c6ced3488ac8b366de7a0a5ceba14160a3ccd0412bb7093b0a11",
+      "title": "Праз-де-Лис. Оттепель",
+      "date": "1904",
+      "museum": "Musée d’art et d’histoire, Женева",
+      "source": "https://www.mahmah.ch/collection/oeuvres/praz-de-lys-degel/1996-0034",
+      "originalPending": {
+        "title": "Праз-де-Лис. Оттепель",
+        "originalTitle": "Praz-de-Lys, dégel",
+        "date": "1904",
+        "medium": "Масло на холсте; 62 × 81 см",
+        "museum": "Musée d’art et d’histoire, Женева",
+        "key": "alexandre_perrier_selected",
+        "source": "https://www.mahmah.ch/collection/oeuvres/praz-de-lys-degel/1996-0034",
+        "look": "Вопросы для будущего рассматривания, не самостоятельный визуальный анализ: Как следы снега организуют пространство оттепели? Как мазок соотносится с прозрачностью красочного слоя? Как изменение каталогизации влияет на датировку?",
+        "reason": "Конкретный файл, версия, права репродукции, полный кредит, разрешение и браузерная доставка не проверены в совокупности. Музейное изображение не подключено автоматически.",
+        "inventoryNumber": "1996-0034"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 12,
+      "queueKey": "alix_d_anethan:a0eaf26cf6f61010",
+      "artistId": "alix_d_anethan",
+      "artistName": "Аликс д’Анетан",
+      "latin": "Alix d’Anethan",
+      "sourceModule": "games/painting/artists-batch-124.js",
+      "sourceModuleGitBlob": "f7b008bbfff315daad1957121d4ca3ea0b3c6f32",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alix_d_anethan_selected",
+      "pendingWorkFingerprint": "a0eaf26cf6f61010bca28c49e63d7a9f50e1bb8b2c0e697c3cc888bc2a614884",
+      "title": "Святые жёны у гробницы",
+      "date": "до 1911; точный год не установлен",
+      "museum": "Musées royaux des Beaux-Arts de Belgique",
+      "source": "https://fine-arts-museum.be/fr/la-collection/alix-d-anethan-les-saintes-femmes-au-tombeau",
+      "originalPending": {
+        "key": "alix_d_anethan_selected",
+        "title": "Святые жёны у гробницы",
+        "originalTitle": "Les saintes femmes au tombeau",
+        "date": "до 1911; точный год не установлен",
+        "medium": "Масло на холсте; 109,5 × 147 см",
+        "museum": "Musées royaux des Beaux-Arts de Belgique",
+        "source": "https://fine-arts-museum.be/fr/la-collection/alix-d-anethan-les-saintes-femmes-au-tombeau",
+        "look": "Как сгруппированы фигуры? Как жесты связывают персонажей? Как организовано пространство у гробницы? Как цвет поддерживает настроение? Чем религиозная интерпретация отличается от документа события?",
+        "reason": "Музейный снимок кредитован J. Geleyns — Art Photography; свободная лицензия конкретного файла не установлена.",
+        "inventoryNumber": "3979"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 13,
+      "queueKey": "alice_bailly:49d3f4c140415fc0",
+      "artistId": "alice_bailly",
+      "artistName": "Алис Байи",
+      "latin": "Alice Bailly",
+      "sourceModule": "games/painting/artists-batch-146.js",
+      "sourceModuleGitBlob": "6781f4323fc9067ec22b9fdc44c1ba81d99c3280",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alice_bailly_selected",
+      "pendingWorkFingerprint": "49d3f4c140415fc0881ced8f9799df975076d5d9b4acb655b265bc9f2bf7ed67",
+      "title": "Автопортрет",
+      "date": "1917",
+      "museum": "National Museum of Women in the Arts, Вашингтон",
+      "source": "https://nmwa.org/art/collection/self-portrait/",
+      "originalPending": {
+        "title": "Автопортрет",
+        "originalTitle": "Self-Portrait",
+        "date": "1917",
+        "medium": "Масло на холсте; 32 × 23½ дюйма без рамы, в единицах музея",
+        "museum": "National Museum of Women in the Arts, Вашингтон",
+        "key": "alice_bailly_selected",
+        "source": "https://nmwa.org/art/collection/self-portrait/",
+        "look": "Вопросы для будущего рассматривания, не самостоятельный визуальный анализ: Какие детали сохраняют узнаваемость художницы? Как цвет, дуги и грани по-разному строят фигуру? Почему сопоставление с несколькими движениями не равно членству в каждом?",
+        "reason": "Кандидат для вашингтонской картины имеет 431 × 600 пикселей; полный правовой статус и кредит конкретной репродукции не проверены, разрешение недостаточно для качественного zoom. Файл с Kunstmuseum Bern в названии не подставлен вместо вашингтонской работы.",
+        "candidateFilePage": "https://fr.wikipedia.org/wiki/Fichier:Bailly_Self_Portrait.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 14,
+      "queueKey": "alice_ronner:5059f867e906c6bc",
+      "artistId": "alice_ronner",
+      "artistName": "Алиса Роннер",
+      "latin": "Alice Ronner",
+      "sourceModule": "games/painting/artists-batch-123.js",
+      "sourceModuleGitBlob": "2bce1a29d76c64bc4458fc5c2f61c7cd40f6da01",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alice_ronner_selected",
+      "pendingWorkFingerprint": "5059f867e906c6bc45a2c5d8cd02e0639b031310896cc5179b20dcc33f268e6b",
+      "title": "Маки",
+      "date": "1909 по авторской надписи",
+      "museum": "Musées royaux des Beaux-Arts de Belgique",
+      "source": "https://fine-arts-museum.be/fr/la-collection/alice-ronner-les-pavots",
+      "originalPending": {
+        "key": "alice_ronner_selected",
+        "title": "Маки",
+        "originalTitle": "Les pavots",
+        "date": "1909 по авторской надписи",
+        "medium": "Масло на холсте; 82,5 × 72,5 см по музею",
+        "museum": "Musées royaux des Beaux-Arts de Belgique",
+        "source": "https://fine-arts-museum.be/fr/la-collection/alice-ronner-les-pavots",
+        "look": "Как цветы распределены по формату? Как устроен основной силуэт? Как сопоставлены светлые и тёмные участки? Что различает листья и лепестки? Как подпись позволяет отличить автора от её матери?",
+        "reason": "Музейное изображение найдено; свободная лицензия конкретного файла и права произведения в нужных юрисдикциях не установлены."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 15,
+      "queueKey": "albert_anker:4c064db51dce4960",
+      "artistId": "albert_anker",
+      "artistName": "Альберт Анкер",
+      "latin": "Albert Anker",
+      "sourceModule": "games/painting/artists-batch-145.js",
+      "sourceModuleGitBlob": "e3d03baa09b23b2952faa2f2ed247c67a447ef2e",
+      "existingWorksCount": 0,
+      "originalPendingKey": "albert_anker_selected",
+      "pendingWorkFingerprint": "4c064db51dce49608f6a82d2ee8b9077cd73a0eff0c7ce3fb462c89d88583915",
+      "title": "Экзамен в сельской школе",
+      "date": "1862",
+      "museum": "Kunstmuseum Bern, Берн",
+      "source": "https://guide.kunstmuseumbern.ch/artwork/983",
+      "originalPending": {
+        "title": "Экзамен в сельской школе",
+        "originalTitle": "Exam at the Village School",
+        "date": "1862",
+        "medium": "Масло на холсте; 103 × 175 см — по вторичной публикации, размеры требуют прямой музейной сверки",
+        "museum": "Kunstmuseum Bern, Берн",
+        "source": "https://guide.kunstmuseumbern.ch/artwork/983",
+        "key": "albert_anker_selected",
+        "look": "Вопросы для будущего рассматривания, не самостоятельные визуальные наблюдения: Как расположены учитель, ученики и проверяющие? Что праздничные детали сообщают о значимости экзамена? Как различаются наблюдение художника и заказная репрезентация?",
+        "reason": "Конкретный файл, его версия, права, разрешение, полный кредит и доставка не проверены в совокупности."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 16,
+      "queueKey": "albert_paris_gutersloh:7e2422bf71259854",
+      "artistId": "albert_paris_gutersloh",
+      "artistName": "Альберт Парис Гютерсло",
+      "latin": "Albert Paris Gütersloh",
+      "sourceModule": "games/painting/artists-batch-148.js",
+      "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+      "existingWorksCount": 0,
+      "originalPendingKey": "albert_paris_gutersloh_selected",
+      "pendingWorkFingerprint": "7e2422bf712598541c2de72fc3a4183c259275cb4ca76ca88476bbcdcd34bca5",
+      "title": "Натюрморт со стулом",
+      "date": "1912",
+      "museum": "Leopold Museum, Вена",
+      "source": "https://onlinecollection.leopoldmuseum.org/objekt/158-stillleben-mit-sessel/",
+      "originalPending": {
+        "title": "Натюрморт со стулом",
+        "originalTitle": "Stillleben mit Sessel",
+        "date": "1912",
+        "medium": "Масло на холсте; музейные габариты 60,9 × 60,3 × 2,6 см",
+        "museum": "Leopold Museum, Вена",
+        "key": "albert_paris_gutersloh_selected",
+        "source": "https://onlinecollection.leopoldmuseum.org/objekt/158-stillleben-mit-sessel/",
+        "look": "Вопросы для будущего рассматривания, не самостоятельные визуальные наблюдения: Как цветовые участки объединяются при неустойчивой перспективе? Как стул и стол могут образовать пространственную загадку? Как отличить автора произведения от изображённой модели?",
+        "reason": "Музейная репродукция сопровождается © Bildrecht, Wien 2022. Разрешение на использование конкретного файла не установлено.",
+        "inventoryNumber": "83"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 17,
+      "queueKey": "albert_edelfelt:87f1887842967b09",
+      "artistId": "albert_edelfelt",
+      "artistName": "Альберт Эдельфельт",
+      "latin": "Albert Edelfelt",
+      "sourceModule": "games/painting/artists-batch-132.js",
+      "sourceModuleGitBlob": "c4173f6bd7c73d0ec4a264faf4e4f96cc39ff4d2",
+      "existingWorksCount": 0,
+      "originalPendingKey": "albert_edelfelt_selected",
+      "pendingWorkFingerprint": "87f1887842967b09cff2f139656e7ce355c3cfd16c51eaad184cfbff07221c70",
+      "title": "В Люксембургском саду в Париже",
+      "date": "1887",
+      "museum": "Finnish National Gallery / Ateneum Art Museum, Antell Collection",
+      "source": "https://ateneum.fi/en/touring-exhibitions-archive/albert-edelfelt-2022/",
+      "originalPending": {
+        "key": "albert_edelfelt_selected",
+        "title": "В Люксембургском саду в Париже",
+        "originalTitle": "Pariisin Luxembourgin puistossa",
+        "date": "1887",
+        "medium": "Масло на холсте; 141,5 × 186,5 см",
+        "museum": "Finnish National Gallery / Ateneum Art Museum, Antell Collection",
+        "source": "https://ateneum.fi/en/touring-exhibitions-archive/albert-edelfelt-2022/",
+        "look": "Как группы людей организуют пространство парка? Как городская прогулка становится сюжетом большой картины? Как связаны освещение, одежда и движение фигур?",
+        "reason": "Страница конкретного файла прочитана: CC BY 4.0, 8724 × 6528, A II 835. Поле Source/Photographer пусто; полный атрибуционный кредит не установлен, загрузчик не назван фотографом.",
+        "inventoryNumber": "A II 835",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Albert_Edelfelt_-_The_Luxembourg_Gardens%2C_Paris.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 18,
+      "queueKey": "alfred_william_finch:385e32fbfa90f386",
+      "artistId": "alfred_william_finch",
+      "artistName": "Альфред Уильям Финч",
+      "latin": "Alfred William Finch",
+      "sourceModule": "games/painting/artists-batch-134.js",
+      "sourceModuleGitBlob": "d5ecfd5fd792b67db8f9cfe14feff0c2931e8ee1",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alfred_william_finch_selected",
+      "pendingWorkFingerprint": "385e32fbfa90f38642f9063ddee0be2d260b344973917c1c5b7bb4faf8473ece",
+      "title": "Лейндон-Хилл II",
+      "date": "1905",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://kokoelma.kansallisgalleria.fi/en/object/586905",
+      "originalPending": {
+        "key": "alfred_william_finch_selected",
+        "title": "Лейндон-Хилл II",
+        "originalTitle": "Laindon Hill II",
+        "date": "1905",
+        "medium": "Живопись; точная техника, основа и размеры требуют предметной сверки",
+        "museum": "Finnish National Gallery / Ateneum Art Museum",
+        "source": "https://kokoelma.kansallisgalleria.fi/en/object/586905",
+        "look": "Как цвет разделяет планы? Как деревья направляют движение взгляда? Как отличить точечный мазок от общего определения стиля художника?",
+        "reason": "Предметный или музейный источник найден; конкретный свободный файл, версия, полный кредит и доставка не проверены полностью."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 19,
+      "queueKey": "alhed_larsen:6972c6fb73c87f81",
+      "artistId": "alhed_larsen",
+      "artistName": "Альхед Ларсен",
+      "latin": "Alhed Larsen",
+      "sourceModule": "games/painting/artists-batch-125.js",
+      "sourceModuleGitBlob": "9d6fb551d9fc836aa5d14add0ccc28ab527ff1aa",
+      "existingWorksCount": 0,
+      "originalPendingKey": "alhed_larsen_selected",
+      "pendingWorkFingerprint": "6972c6fb73c87f81dc5a938c68d60f44b7a505bf0f254ae8e17408a9ca9e1fc1",
+      "title": "Цветы в солнечном окне",
+      "date": "1903",
+      "museum": "Faaborg Museum",
+      "source": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+      "originalPending": {
+        "key": "alhed_larsen_selected",
+        "title": "Цветы в солнечном окне",
+        "originalTitle": "Blomster i et vindue med solskin",
+        "date": "1903",
+        "medium": "Живопись; точная техника и основа требуют сверки",
+        "museum": "Faaborg Museum",
+        "source": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+        "look": "Как окно распределяет свет? Как растения разделяют пространство? Что связывает интерьер и сад? Как цвет создаёт глубину? Как отличить её работу от одноимённой картины мужа?",
+        "reason": "Музейная репродукция найдена; свободная лицензия конкретного файла не установлена."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 20,
+      "queueKey": "amalia_lindegren:927b9b10904371b3",
+      "artistId": "amalia_lindegren",
+      "artistName": "Амалия Линдегрен",
+      "latin": "Amalia Lindegren",
+      "sourceModule": "games/painting/artists-batch-113.js",
+      "sourceModuleGitBlob": "15c6ec2976c173f9157954a6ae311f724fa883d5",
+      "existingWorksCount": 0,
+      "originalPendingKey": "NM 992",
+      "pendingWorkFingerprint": "927b9b10904371b3f1d2f0137df1f2d7359f9c1cead7b776d2df12330b6927da",
+      "title": "Воскресный вечер в крестьянском доме в Даларне",
+      "date": "1860",
+      "museum": "Национальный музей Швеции, Стокгольм",
+      "source": "https://collection.nationalmuseum.se/en/collection/item/17995/",
+      "originalPending": {
+        "key": "NM 992",
+        "title": "Воскресный вечер в крестьянском доме в Даларне",
+        "originalTitle": "Söndagsafton i en dalstuga / Sunday Evening in a Farmhouse in Dalecarlia",
+        "date": "1860",
+        "medium": "Масло на холсте; 88 × 117 см",
+        "museum": "Национальный музей Швеции, Стокгольм",
+        "source": "https://collection.nationalmuseum.se/en/collection/item/17995/",
+        "look": "Вопросы для рассматривания: Интерьер: проверь организацию. Фигуры: сравни положения. Свет: проследи акценты. Занятие: проверь действия. Контекст: отличи сцену от её общественного восприятия.",
+        "reason": "Файл найден, полная страница прав недоступна.",
+        "inventoryNumber": "NM 992",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:S%C3%B6ndagsafton_i_en_dalastuga_av_Amalia_Lindegren_1860.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 21,
+      "queueKey": "amaldus_nielsen:fd8e7bdcbde62892",
+      "artistId": "amaldus_nielsen",
+      "artistName": "Амальдус Нильсен",
+      "latin": "Amaldus Nielsen",
+      "sourceModule": "games/painting/artists-batch-130.js",
+      "sourceModuleGitBlob": "7579d1f965ead058887271359122555fdf320e80",
+      "existingWorksCount": 0,
+      "originalPendingKey": "amaldus_nielsen_selected",
+      "pendingWorkFingerprint": "fd8e7bdcbde628924876fc1a2c8d4e17508bb371552e3aec70441ebc699f8ed5",
+      "title": "Утро в Ню-Хеллесунне",
+      "date": "1885",
+      "museum": "Nasjonalmuseet",
+      "source": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00326",
+      "originalPending": {
+        "key": "amaldus_nielsen_selected",
+        "title": "Утро в Ню-Хеллесунне",
+        "originalTitle": "Morgen ved Ny-Hellesund",
+        "date": "1885",
+        "medium": "Живопись; точный материал и размеры требуют предметной сверки",
+        "museum": "Nasjonalmuseet",
+        "inventoryNumber": "NG.M.00326",
+        "source": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00326",
+        "look": "Как свет связывает скалы и дома? Как лодка задаёт масштаб? Чем этюд отличается от позднейшей мастерской картины?",
+        "reason": "Изображение найдено в предметном источнике; конкретный свободный файл, версия, полный кредит и доставка не проверены полностью."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 22,
+      "queueKey": "amanda_sidwall:832c1a70535411cb",
+      "artistId": "amanda_sidwall",
+      "artistName": "Аманда Сидваль",
+      "latin": "Amanda Sidwall",
+      "sourceModule": "games/painting/artists-batch-113.js",
+      "sourceModuleGitBlob": "15c6ec2976c173f9157954a6ae311f724fa883d5",
+      "existingWorksCount": 0,
+      "originalPendingKey": "NM 7102",
+      "pendingWorkFingerprint": "832c1a70535411cb4464b867fbb423f150ff5ffab7547f9ebf7a9275c04dce94",
+      "title": "Портрет девочки",
+      "date": "XIX век; точный год не указан в полученной музейной карточке",
+      "museum": "Национальный музей Швеции, Стокгольм",
+      "source": "https://collection.nationalmuseum.se/en/collection/item/133153/",
+      "originalPending": {
+        "key": "NM 7102",
+        "title": "Портрет девочки",
+        "originalTitle": "Flickporträtt / Portrait of a Girl",
+        "date": "XIX век; точный год не указан в полученной музейной карточке",
+        "medium": "Масло на деревянной панели; 23,1 × 18,5 см",
+        "museum": "Национальный музей Швеции, Стокгольм",
+        "source": "https://collection.nationalmuseum.se/en/collection/item/133153/",
+        "look": "Вопросы для рассматривания: Лицо: проверь освещение. Контур: сравни края. Масштаб: учти небольшой формат. Основа: отличи дерево от холста. Модель: не придумывай имя.",
+        "reason": "2473 × 2885, 20,44 MB по категории; конкретные права и браузерная пригодность TIFF не проверены.",
+        "inventoryNumber": "NM 7102",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Girl_(Amanda_Sidvall)_-_Nationalmuseum_-_133153.tif"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 23,
+      "queueKey": "amelie_lundahl:8e81c48df6ce2be7",
+      "artistId": "amelie_lundahl",
+      "artistName": "Амели Лундаль",
+      "latin": "Amélie Lundahl",
+      "sourceModule": "games/painting/artists-batch-113.js",
+      "sourceModuleGitBlob": "15c6ec2976c173f9157954a6ae311f724fa883d5",
+      "existingWorksCount": 0,
+      "originalPendingKey": "editorial:113:amelie_lundahl",
+      "pendingWorkFingerprint": "8e81c48df6ce2be7ee441ff123e213aa6a532519b1b6276ea15017d5a7c45b42",
+      "title": "Девушка-садовница",
+      "date": "1885 по подписи источника; в его текстесте есть несогласованная дата выставления 1884",
+      "museum": "Финская национальная галерея, Атенеум, Хельсинки",
+      "source": "https://awarewomenartists.com/en/magazine/sources-silencieuses/",
+      "originalPending": {
+        "key": "editorial:113:amelie_lundahl",
+        "title": "Девушка-садовница",
+        "originalTitle": "The Garden Girl",
+        "date": "1885 по подписи источника; в его текстесте есть несогласованная дата выставления 1884",
+        "medium": "Масло на холсте; 100 × 67 см по научной публикации",
+        "museum": "Финская национальная галерея, Атенеум, Хельсинки",
+        "source": "https://awarewomenartists.com/en/magazine/sources-silencieuses/",
+        "look": "Вопросы для рассматривания: Девушка: проверь положение. Теплица: найди признаки окружения. Растения: сравни фактуры. Свет: проследи направление. Дата: отдели подпись от противоречия текста.",
+        "reason": "2636 × 4001 по категории; страница прав недоступна, противоречие 1884/1885 в научном источнике не закрыто.",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Am%C3%A9lie_Lundahl_-_The_Garden_Girl_-_Google_Art_Project.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 24,
+      "queueKey": "andrea_di_lione:6bb6d6922ef5c96f",
+      "artistId": "andrea_di_lione",
+      "artistName": "Андреа ди Лионе",
+      "latin": "Andrea di Lione",
+      "sourceModule": "games/painting/artists-batch-88.js",
+      "sourceModuleGitBlob": "00196b4020bc8064548fccbe42858394d138b0c3",
+      "existingWorksCount": 0,
+      "originalPendingKey": "editorial:di-lione-elephants-prado",
+      "pendingWorkFingerprint": "6bb6d6922ef5c96f4eb6d7edd7c703679cf2c2ba78ca2da99103ab3466bca903",
+      "title": "Слоны в цирке",
+      "date": "около 1640",
+      "museum": "Прадо, Мадрид",
+      "source": "https://www.museodelprado.es/en/the-collection/art-work/elephants-in-a-circus/eed7ed66-4d51-4593-b44c-1f2cb1b1f901",
+      "originalPending": {
+        "key": "editorial:di-lione-elephants-prado",
+        "title": "Слоны в цирке",
+        "originalTitle": "Elephants in a Circus",
+        "date": "около 1640",
+        "medium": "Масло на холсте; размеры здесь не уточняются",
+        "museum": "Прадо, Мадрид",
+        "source": "https://www.museodelprado.es/en/the-collection/art-work/elephants-in-a-circus/eed7ed66-4d51-4593-b44c-1f2cb1b1f901",
+        "look": "Сравни порядок животных и свободное движение людей впереди. Почему впечатление живой сцены ещё не доказывает, что художник видел таких слонов собственными глазами?",
+        "reason": "Музейная запись установлена; конкретный свободный файл репродукции и его права не проверены."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 25,
+      "queueKey": "andrea_semino:a224a815ed75bf90",
+      "artistId": "andrea_semino",
+      "artistName": "Андреа Семино",
+      "latin": "Andrea Semino",
+      "sourceModule": "games/painting/artists-batch-91.js",
+      "sourceModuleGitBlob": "47d0130a216f95f1025e7b7d6461baa7477a467c",
+      "existingWorksCount": 0,
+      "originalPendingKey": "editorial:genova-semino-parnaso",
+      "pendingWorkFingerprint": "a224a815ed75bf902250168ac8c2ddadad68a5de465314e18cac114835d18746",
+      "title": "Парнас",
+      "date": "XVI век; точный год не установлен",
+      "museum": "Musei di Genova, Генуя",
+      "source": "https://www.museidigenova.it/it/parnaso",
+      "originalPending": {
+        "key": "editorial:genova-semino-parnaso",
+        "title": "Парнас",
+        "originalTitle": "Parnaso",
+        "date": "XVI век; точный год не установлен",
+        "medium": "Масло на холсте; 55 × 80 см",
+        "museum": "Musei di Genova, Генуя",
+        "source": "https://www.museidigenova.it/it/parnaso",
+        "look": "Проверь, как организован небольшой горизонтальный холст. Отделяй видимые связи фигур от предположений о персонажах и первоначальном назначении.",
+        "reason": "Музейная запись установлена; конкретный свободный файл репродукции и права на него не проверены."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 26,
+      "queueKey": "anna_boch:37680fe5146a53b2",
+      "artistId": "anna_boch",
+      "artistName": "Анна Бох",
+      "latin": "Anna Boch",
+      "sourceModule": "games/painting/artists-batch-123.js",
+      "sourceModuleGitBlob": "2bce1a29d76c64bc4458fc5c2f61c7cd40f6da01",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anna_boch_selected",
+      "pendingWorkFingerprint": "37680fe5146a53b2d3e615a51bbfb35e9aa6e9ed007df3f05f203205ba8340d1",
+      "title": "Сбор урожая",
+      "date": "1890",
+      "museum": "Musée d’Orsay",
+      "source": "https://www.musee-orsay.fr/fr/oeuvres/cueillette-271208",
+      "originalPending": {
+        "key": "anna_boch_selected",
+        "title": "Сбор урожая",
+        "originalTitle": "Cueillette",
+        "date": "1890",
+        "medium": "Масло на холсте; 74 × 107 см без рамы",
+        "museum": "Musée d’Orsay",
+        "source": "https://www.musee-orsay.fr/fr/oeuvres/cueillette-271208",
+        "look": "Как фигура связана с огородом? Как соломенное покрытие меняет свет теплицы? Как соотносятся красные и зелёные мазки? Как построена глубина? Что в старой критике отражает предубеждения эпохи?",
+        "reason": "Конкретный музейный снимок кредитован Sophie Crépy / GrandPalaisRmn; свободная лицензия отдельного файла не установлена.",
+        "inventoryNumber": "RF MO P 2024 3"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 27,
+      "queueKey": "anna_de_weert:b05162f0ace5a9de",
+      "artistId": "anna_de_weert",
+      "artistName": "Анна де Верт",
+      "latin": "Anna De Weert",
+      "sourceModule": "games/painting/artists-batch-123.js",
+      "sourceModuleGitBlob": "2bce1a29d76c64bc4458fc5c2f61c7cd40f6da01",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anna_de_weert_selected",
+      "pendingWorkFingerprint": "b05162f0ace5a9de5eada07cc8912e0037eaa49f469b4ab274ecdc0b55905b2f",
+      "title": "Моя мастерская в июне",
+      "date": "1909–1910",
+      "museum": "Museum voor Schone Kunsten Gent",
+      "source": "https://www.mskgent.be/en/collection/1912-b",
+      "originalPending": {
+        "key": "anna_de_weert_selected",
+        "title": "Моя мастерская в июне",
+        "originalTitle": "My Studio in June / Mijn atelier in juni",
+        "date": "1909–1910",
+        "medium": "Масло на холсте",
+        "museum": "Museum voor Schone Kunsten Gent",
+        "source": "https://www.mskgent.be/en/collection/1912-b",
+        "look": "Как сад связан с мастерской? Как свет различает участки растительности? Как чередуются цветовые пятна? Как построена глубина? Как надписи уточняют сезон и часы работы?",
+        "reason": "Музейная репродукция найдена; свободная лицензия конкретного полного файла не установлена.",
+        "inventoryNumber": "1912-B"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 28,
+      "queueKey": "anna_dorothea_therbusch:d90979413fd20d5e",
+      "artistId": "anna_dorothea_therbusch",
+      "artistName": "Анна Доротея Тербуш",
+      "latin": "Anna Dorothea Therbusch",
+      "sourceModule": "games/painting/artists-batch-108.js",
+      "sourceModuleGitBlob": "b30ec250bf59b48403255a708bfe73ceffbd1d63",
+      "existingWorksCount": 0,
+      "originalPendingKey": "editorial:108:anna_dorothea_therbusch",
+      "pendingWorkFingerprint": "d90979413fd20d5ecb60cf4508e48d4538e9e01b0af26b8bdcdd8863173a250b",
+      "title": "Автопортрет со зрительным стеклом",
+      "date": "около 1782 по музейной выставочной странице; датировка на дополнительной сверке",
+      "museum": "Берлинская картинная галерея",
+      "source": "https://www.smb.museum/ausstellungen/detail/anna-dorothea-therbusch/",
+      "originalPending": {
+        "key": "editorial:108:anna_dorothea_therbusch",
+        "title": "Автопортрет со зрительным стеклом",
+        "originalTitle": "Selbstbildnis",
+        "date": "около 1782 по музейной выставочной странице; датировка на дополнительной сверке",
+        "medium": "Техника и размеры требуют дополнительной сверки",
+        "museum": "Берлинская картинная галерея",
+        "source": "https://www.smb.museum/ausstellungen/detail/anna-dorothea-therbusch/",
+        "look": "Вопросы для рассматривания: как организованы фигуры и предметы, направления взглядов и свет? Ответы пока не утверждаются.",
+        "reason": "Конкретный свободный файл, его права, качество и доступность ещё не проверены полностью."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 29,
+      "queueKey": "anna_claypoole_peale:c76c1aef6ab224b1",
+      "artistId": "anna_claypoole_peale",
+      "artistName": "Анна Клейпул Пил",
+      "latin": "Anna Claypoole Peale",
+      "sourceModule": "games/painting/artists-batch-116.js",
+      "sourceModuleGitBlob": "8fc51373a649c10c45f793830ac0f34f88703b26",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anna_claypoole_peale_selected",
+      "pendingWorkFingerprint": "c76c1aef6ab224b12fffe1e29e4c98061153179ddce34757cffc21a42333748d",
+      "title": "Натюрморт с клубникой",
+      "date": "около конца 1820-х",
+      "museum": "National Museum of Women in the Arts, Вашингтон",
+      "source": "https://nmwa.org/gallery-labels-rotunda-great-hall-mezzanine-and-stairwell-landings/",
+      "originalPending": {
+        "key": "anna_claypoole_peale_selected",
+        "title": "Натюрморт с клубникой",
+        "originalTitle": "Still Life with Strawberries",
+        "date": "около конца 1820-х",
+        "medium": "Масло на холсте",
+        "museum": "National Museum of Women in the Arts, Вашингтон",
+        "source": "https://nmwa.org/gallery-labels-rotunda-great-hall-mezzanine-and-stairwell-landings/",
+        "look": "Как ягоды заполняют чашу? Как устроен край стола? Что создаёт блеск? Как сочетаются масштаб и детализация? Почему техника миниатюр не определяет материал этой картины?",
+        "reason": "Музейная репродукция найдена; свободная лицензия конкретного файла не установлена."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 30,
+      "queueKey": "anna_klumpke:c013204f002d9089",
+      "artistId": "anna_klumpke",
+      "artistName": "Анна Клюмпке",
+      "latin": "Anna Klumpke",
+      "sourceModule": "games/painting/artists-batch-120.js",
+      "sourceModuleGitBlob": "406663337448d1002d4d56979ebccdd70c12745e",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anna_klumpke_selected",
+      "pendingWorkFingerprint": "c013204f002d908936dbb91bef05d2ec5b3224802f37be2674a7229f12547c7d",
+      "title": "В прачечной",
+      "date": "1888",
+      "museum": "Pennsylvania Academy of the Fine Arts",
+      "source": "https://www.pafa.org/museum/collection/item/wash-house",
+      "originalPending": {
+        "key": "anna_klumpke_selected",
+        "title": "В прачечной",
+        "originalTitle": "In the Wash-House",
+        "date": "1888",
+        "medium": "Масло на холсте, монтированном на дерево",
+        "museum": "Pennsylvania Academy of the Fine Arts",
+        "source": "https://www.pafa.org/museum/collection/item/wash-house",
+        "look": "Как распределён труд между фигурами? Как интерьер направляет взгляд? Как показан свет? Как предметы обозначают работу? Почему монтированный холст не равен живописи прямо на дереве?",
+        "reason": "PAFA указывает No known copyright restrictions, но права конкретного Commons-снимка не прочитаны полностью.",
+        "inventoryNumber": "1890.1",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:'In_the_Wash-house'_by_Anna_Elizabeth_Klumpke%2C_1888.JPG"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 31,
+      "queueKey": "anna_rosina_de_gasc:752486c27d4488e4",
+      "artistId": "anna_rosina_de_gasc",
+      "artistName": "Анна Розина де Гаск",
+      "latin": "Anna Rosina de Gasc",
+      "sourceModule": "games/painting/artists-batch-108.js",
+      "sourceModuleGitBlob": "b30ec250bf59b48403255a708bfe73ceffbd1d63",
+      "existingWorksCount": 0,
+      "originalPendingKey": "editorial:108:anna_rosina_de_gasc",
+      "pendingWorkFingerprint": "752486c27d4488e4996e5435c4bced27c03da4c8b2ded797d15468bba59065cf",
+      "title": "Автопортрет",
+      "date": "1767",
+      "museum": "Музей герцога Антона Ульриха, Брауншвейг",
+      "source": "https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum/sammlung/abteilungen/gemaeldesammlung-alte-meister",
+      "originalPending": {
+        "key": "editorial:108:anna_rosina_de_gasc",
+        "title": "Автопортрет",
+        "originalTitle": "Selbstbildnis",
+        "date": "1767",
+        "medium": "Техника и размеры требуют дополнительной сверки",
+        "museum": "Музей герцога Антона Ульриха, Брауншвейг",
+        "source": "https://3landesmuseen-braunschweig.de/herzog-anton-ulrich-museum/sammlung/abteilungen/gemaeldesammlung-alte-meister",
+        "look": "Вопросы для рассматривания: как организованы фигуры и предметы, направления взглядов и свет? Ответы пока не утверждаются.",
+        "reason": "Конкретный свободный файл, его права, качество и доступность ещё не проверены полностью."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 32,
+      "queueKey": "anna_syberg:2f9a6d839d68b73c",
+      "artistId": "anna_syberg",
+      "artistName": "Анна Сюберг",
+      "latin": "Anna Syberg",
+      "sourceModule": "games/painting/artists-batch-125.js",
+      "sourceModuleGitBlob": "9d6fb551d9fc836aa5d14add0ccc28ab527ff1aa",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anna_syberg_selected",
+      "pendingWorkFingerprint": "2f9a6d839d68b73cdcc5dab8d3f1fe5a2edf1d21a04a747d03ebc72aea8b885f",
+      "title": "Розы в кувшине",
+      "date": "1909",
+      "museum": "Faaborg Museum",
+      "source": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+      "originalPending": {
+        "key": "anna_syberg_selected",
+        "title": "Розы в кувшине",
+        "originalTitle": "Provinsroser i en krukke",
+        "date": "1909",
+        "medium": "Акварель по экспозиционным публикациям",
+        "museum": "Faaborg Museum",
+        "source": "https://www.faaborgmuseum.dk/en/art-and-artists/women-artists/",
+        "look": "Как букет занимает формат? Как розы соотносятся с сосудом? Как различаются плотные и прозрачные участки? Как кадр ограничивает цветы? Что отличает художественный натюрморт от ботанической схемы?",
+        "reason": "Музейная репродукция найдена; свободная лицензия конкретного полного файла не установлена."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 33,
+      "queueKey": "henriette_browne:26d7beac4ea5aa6b",
+      "artistId": "henriette_browne",
+      "artistName": "Анриетта Браун",
+      "latin": "Henriette Browne",
+      "sourceModule": "games/painting/artists-batch-120.js",
+      "sourceModuleGitBlob": "406663337448d1002d4d56979ebccdd70c12745e",
+      "existingWorksCount": 0,
+      "originalPendingKey": "henriette_browne_selected",
+      "pendingWorkFingerprint": "26d7beac4ea5aa6b9ca428da9655390e76e7c98d8120bcb7c2dbcd80e31ffd23",
+      "title": "Монахиня",
+      "date": "1858 или 1859; требуется сверка",
+      "museum": "Walker Art Gallery, Liverpool",
+      "source": "https://commons.wikimedia.org/wiki/Paintings_in_the_Walker_Art_Gallery,_Liverpool",
+      "originalPending": {
+        "key": "henriette_browne_selected",
+        "title": "Монахиня",
+        "originalTitle": "La religieuse",
+        "date": "1858 или 1859; требуется сверка",
+        "medium": "Масло на холсте",
+        "museum": "Walker Art Gallery, Liverpool",
+        "source": "https://commons.wikimedia.org/wiki/Paintings_in_the_Walker_Art_Gallery,_Liverpool",
+        "look": "Как книга связана с положением рук? Как выделены лицо и головной убор? Как работает тёмный фон? Что в чтении сцены остаётся интерпретацией? Почему молитва не доказывает личность модели?",
+        "reason": "Страницу Commons-файла получить не удалось; права, дата и соответствие версии не закрыты.",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:La_Religieuse-Henriette_Browne.png"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 34,
+      "queueKey": "ans_van_den_berg:abb1ca592a20fc36",
+      "artistId": "ans_van_den_berg",
+      "artistName": "Анс ван ден Берг",
+      "latin": "Ans van den Berg",
+      "sourceModule": "games/painting/artists-batch-122.js",
+      "sourceModuleGitBlob": "e5e3193a3c9ff1d909e964760b9381b5c536f29a",
+      "existingWorksCount": 0,
+      "originalPendingKey": "ans_van_den_berg_selected",
+      "pendingWorkFingerprint": "abb1ca592a20fc36bf811b33ce1d5663b34e6b51142c1d0253fda21b15a36ea5",
+      "title": "Цветочный натюрморт",
+      "date": "1900–1942 по сводным данным; требуется первичная сверка",
+      "museum": "Rijksdienst voor het Cultureel Erfgoed",
+      "source": "https://www.wikidata.org/wiki/Q28094964",
+      "originalPending": {
+        "key": "ans_van_den_berg_selected",
+        "title": "Цветочный натюрморт",
+        "originalTitle": "Bloemenstilleven",
+        "date": "1900–1942 по сводным данным; требуется первичная сверка",
+        "medium": "Масло на холсте по данным реестра",
+        "museum": "Rijksdienst voor het Cultureel Erfgoed",
+        "source": "https://www.wikidata.org/wiki/Q28094964",
+        "look": "Как букет занимает формат? Как цвет распределён между цветами? Что отделяет букет от фона? Как соотносятся цветы и сосуд? Какие сведения подтверждены лишь сводным реестром?",
+        "reason": "Commons-кандидат найден, но полная лицензия не прочитана; первичная коллекционная запись также требует сверки.",
+        "inventoryNumber": "K738",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:A.C._van_den_Berg_-_Bloemenstilleven_-_K738_-_Cultural_Heritage_Agency_of_the_Netherlands_Art_Collection.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 35,
+      "queueKey": "antanas_zmuidzinavicius:86a5dd182f286a68",
+      "artistId": "antanas_zmuidzinavicius",
+      "artistName": "Антанас Жмуйдзинавичюс",
+      "latin": "Antanas Žmuidzinavičius",
+      "sourceModule": "games/painting/artists-batch-136.js",
+      "sourceModuleGitBlob": "3a29ec62561286cdaf34f14774d9685556090a95",
+      "existingWorksCount": 0,
+      "originalPendingKey": "antanas_zmuidzinavicius_selected",
+      "pendingWorkFingerprint": "86a5dd182f286a68cdee65f4bc37de8893f5450db8eb5ac6590d98514f8fb33d",
+      "title": "Всю ночь",
+      "date": "1906",
+      "museum": "Lithuanian National Museum of Art / National Gallery of Art, Вильнюс",
+      "source": "https://www.vle.lt/straipsnis/antanas-zmuidzinavicius/",
+      "originalPending": {
+        "key": "antanas_zmuidzinavicius_selected",
+        "title": "Всю ночь",
+        "originalTitle": "Per kiaurą naktį / All Through the Night",
+        "date": "1906",
+        "medium": "Масло; фанера и 84 × 110 см — по вторичным описаниям, требуют предметной сверки",
+        "museum": "Lithuanian National Museum of Art / National Gallery of Art, Вильнюс",
+        "source": "https://www.vle.lt/straipsnis/antanas-zmuidzinavicius/",
+        "look": "Как лампа связывает героя и пространство стола? Как окно соотносится с ночным интерьером? Чем историческая рецепция отличается от авторского объяснения?",
+        "reason": "Музейная репродукция в публикации LRT и энциклопедии найдена; точный полный свободный файл и лицензия не установлены. Автор умер в 1966 году; статус произведения и фотографии проверяется отдельно."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 36,
+      "queueKey": "anton_kolig:41428b4fa5a868eb",
+      "artistId": "anton_kolig",
+      "artistName": "Антон Колиг",
+      "latin": "Anton Kolig",
+      "sourceModule": "games/painting/artists-batch-148.js",
+      "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anton_kolig_selected",
+      "pendingWorkFingerprint": "41428b4fa5a868eb40f38833195cdf97f6c072df8277990a5293d49fb26c63a2",
+      "title": "Натюрморт с черепахой",
+      "date": "1913",
+      "museum": "Leopold Museum, Вена",
+      "source": "https://onlinecollection.leopoldmuseum.org/objekt/268-stillleben-mit-schildkrote/",
+      "originalPending": {
+        "title": "Натюрморт с черепахой",
+        "originalTitle": "Stillleben mit Schildkröte",
+        "date": "1913",
+        "medium": "Масло на холсте; 92,5 × 73,6 см",
+        "museum": "Leopold Museum, Вена",
+        "key": "anton_kolig_selected",
+        "source": "https://onlinecollection.leopoldmuseum.org/objekt/268-stillleben-mit-schildkrote/",
+        "look": "Вопросы для будущего рассматривания, не самостоятельные визуальные наблюдения: Как единая структура мазков объединяет разные предметы? Как животное меняет традиционный неподвижный натюрморт? Как авторская надпись соотносится с музейной атрибуцией?",
+        "reason": "Не завершена совокупная проверка конкретного файла, версии, разрешения, предметной идентичности, полного кредита и прав репродукции.",
+        "inventoryNumber": "194"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 37,
+      "queueKey": "anton_mahringer:d8d1572ba15a064f",
+      "artistId": "anton_mahringer",
+      "artistName": "Антон Марингер",
+      "latin": "Anton Mahringer",
+      "sourceModule": "games/painting/artists-batch-148.js",
+      "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anton_mahringer_selected",
+      "pendingWorkFingerprint": "d8d1572ba15a064f631b1a4bab61a7c643fe218210ad0ba884c0d5e2c67ae318",
+      "title": "Синий пейзаж",
+      "date": "1961",
+      "museum": "Leopold Museum, Вена; дар 2024 года",
+      "source": "https://www.leopoldmuseum.org/de/presse/news/1366/Leopold-Museum-Wertvolle-Schenkung-aus-bedeutender-oesterreichischer-Privatsammlung",
+      "originalPending": {
+        "title": "Синий пейзаж",
+        "originalTitle": "Blaue Landschaft",
+        "date": "1961",
+        "medium": "Живопись; техника и размеры требуют предметной сверки",
+        "museum": "Leopold Museum, Вена; дар 2024 года",
+        "key": "anton_mahringer_selected",
+        "source": "https://www.leopoldmuseum.org/de/presse/news/1366/Leopold-Museum-Wertvolle-Schenkung-aus-bedeutender-oesterreichischer-Privatsammlung",
+        "look": "Вопросы для будущего рассматривания, не самостоятельные визуальные наблюдения: Как цвет может задавать пространственные отношения без подробного рисунка? Что определяет узнаваемость горного мотива? Как отличить конкретную топографию от обобщения?",
+        "reason": "Не завершена совокупная проверка конкретного файла, версии, разрешения, предметной идентичности, полного кредита и прав репродукции."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 38,
+      "queueKey": "anton_faistauer:26c04c97e08bcf28",
+      "artistId": "anton_faistauer",
+      "artistName": "Антон Файстауэр",
+      "latin": "Anton Faistauer",
+      "sourceModule": "games/painting/artists-batch-148.js",
+      "sourceModuleGitBlob": "d954778e9f084446515f6b8d164219296290b2fe",
+      "existingWorksCount": 0,
+      "originalPendingKey": "anton_faistauer_selected",
+      "pendingWorkFingerprint": "26c04c97e08bcf283068c57ecdca01c1e68c2a72cf3cf35f2e3c0c5c7f375778",
+      "title": "Портрет дамы",
+      "date": "1929",
+      "museum": "Частное собрание; долгосрочное предоставление Leopold Museum, Вена",
+      "source": "https://onlinecollection.leopoldmuseum.org/en/object/39869-portrait-of-a-lady/",
+      "originalPending": {
+        "title": "Портрет дамы",
+        "originalTitle": "Portrait of a Lady",
+        "date": "1929",
+        "medium": "Масло на холсте; 54,5 × 40,7 см",
+        "museum": "Частное собрание; долгосрочное предоставление Leopold Museum, Вена",
+        "key": "anton_faistauer_selected",
+        "source": "https://onlinecollection.leopoldmuseum.org/en/object/39869-portrait-of-a-lady/",
+        "look": "Вопросы для будущего рассматривания, не самостоятельные визуальные наблюдения: Как обрезка фигуры усиливает присутствие модели? Как устойчивый контур соотносится со следами поиска формы? Как отделить интерпретацию выражения лица от доказанного факта?",
+        "reason": "Не завершена совокупная проверка конкретного файла, версии, разрешения, предметной идентичности, полного кредита и прав репродукции."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 39,
+      "queueKey": "antonin_slavicek:05226b127426b457",
+      "artistId": "antonin_slavicek",
+      "artistName": "Антонин Славичек",
+      "latin": "Antonín Slavíček",
+      "sourceModule": "games/painting/artists-batch-137.js",
+      "sourceModuleGitBlob": "913cb212302df32beb03990da48c345d4abdf1a0",
+      "existingWorksCount": 0,
+      "originalPendingKey": "antonin_slavicek_selected",
+      "pendingWorkFingerprint": "05226b127426b457713da59a9d40cbefaf02a289cc6e5e9e5c39fe904ac40489",
+      "title": "У нас в Каменичках",
+      "date": "1904",
+      "museum": "National Gallery Prague — Национальная галерея Праги",
+      "source": "https://pardubice.rozhlas.cz/u-nas-v-kamenickach-6036834",
+      "originalPending": {
+        "key": "antonin_slavicek_selected",
+        "title": "У нас в Каменичках",
+        "originalTitle": "U nás v Kameničkách",
+        "date": "1904",
+        "medium": "Масло на холсте; 166 × 192 см по файловому описанию",
+        "museum": "National Gallery Prague — Национальная галерея Праги",
+        "source": "https://pardubice.rozhlas.cz/u-nas-v-kamenickach-6036834",
+        "look": "Как небо связано с водой и лугами? Как фигуры включены в большой пейзаж? Что сохраняется при сравнении картины с современным местом?",
+        "reason": "Источник произведения с изображением найден; конкретный свободный файл, его версия, полный кредит и доставка ещё не проверены полностью.",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Antonin_Slavicek_-_U_nas_v_Kamenickach_(1904).jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 40,
+      "queueKey": "antonin_chittussi:940049ed211c0a3d",
+      "artistId": "antonin_chittussi",
+      "artistName": "Антонин Хиттусси",
+      "latin": "Antonín Chittussi",
+      "sourceModule": "games/painting/artists-batch-137.js",
+      "sourceModuleGitBlob": "913cb212302df32beb03990da48c345d4abdf1a0",
+      "existingWorksCount": 0,
+      "originalPendingKey": "antonin_chittussi_selected",
+      "pendingWorkFingerprint": "940049ed211c0a3d01962a4fd5bacfc3ae6785cd88c497442ff0d7cd3772457b",
+      "title": "Из долины Доубравки. Сумеречный вид",
+      "date": "1884 — по вторичным описаниям, требует прямой сверки",
+      "museum": "National Gallery Prague — Национальная галерея Праги",
+      "source": "https://ct24.ceskatelevize.cz/clanek/kultura/antonin-chittussi-z-udoli-doubravky-276088",
+      "originalPending": {
+        "key": "antonin_chittussi_selected",
+        "title": "Из долины Доубравки. Сумеречный вид",
+        "originalTitle": "Z údolí Doubravky / From the Valley of the River Doubravka",
+        "date": "1884 — по вторичным описаниям, требует прямой сверки",
+        "medium": "Масляная живопись; основа и размеры требуют предметной сверки",
+        "museum": "National Gallery Prague — Национальная галерея Праги",
+        "source": "https://ct24.ceskatelevize.cz/clanek/kultura/antonin-chittussi-z-udoli-doubravky-276088",
+        "look": "Как сумеречное освещение связывает планы? Как река ведёт взгляд через пейзаж? Где родной мотив превращается в обобщённый образ?",
+        "reason": "Источник произведения с изображением найден; конкретный свободный файл, его версия, полный кредит и доставка ещё не проверены полностью.",
+        "inventoryNumber": "O 4688 — требует прямой сверки"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 41,
+      "queueKey": "arvid_liljelund:0475b01a33c808a2",
+      "artistId": "arvid_liljelund",
+      "artistName": "Арвид Лильелунд",
+      "latin": "Arvid Liljelund",
+      "sourceModule": "games/painting/artists-batch-134.js",
+      "sourceModuleGitBlob": "d5ecfd5fd792b67db8f9cfe14feff0c2931e8ee1",
+      "existingWorksCount": 0,
+      "originalPendingKey": "arvid_liljelund_selected",
+      "pendingWorkFingerprint": "0475b01a33c808a2ab7564e69a36dda0348a5ab3928751938b3dfc9708408e6b",
+      "title": "Покупка народных костюмов в Сякюля",
+      "date": "1878",
+      "museum": "Finnish National Gallery / Ateneum Art Museum",
+      "source": "https://kokoelma.kansallisgalleria.fi/en/object/615817",
+      "originalPending": {
+        "key": "arvid_liljelund_selected",
+        "title": "Покупка народных костюмов в Сякюля",
+        "originalTitle": "Kansanpukujen osto Säkylässä / Buying National Costumes in Säkylä",
+        "date": "1878",
+        "medium": "Масляная живопись; основа и размеры требуют предметной сверки",
+        "museum": "Finnish National Gallery / Ateneum Art Museum",
+        "source": "https://kokoelma.kansallisgalleria.fi/en/object/615817",
+        "look": "Как предметы одежды связывают участников? Как интерьер организует сцену обмена? Чем изображение народного костюма отличается от этнографической описи?",
+        "reason": "Предметный или музейный источник найден; конкретный свободный файл, версия, полный кредит и доставка не проверены полностью."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 42,
+      "queueKey": "asta_norregaard:d06042cb30e018b6",
+      "artistId": "asta_norregaard",
+      "artistName": "Аста Нёррегор",
+      "latin": "Asta Nørregaard",
+      "sourceModule": "games/painting/artists-batch-112.js",
+      "sourceModuleGitBlob": "68e57b4cac5b661a5930b0b4f7a63074be4068dd",
+      "existingWorksCount": 0,
+      "originalPendingKey": "NMK.2008.0706",
+      "pendingWorkFingerprint": "d06042cb30e018b6a035a590c49c36c830e956a186faa9b7da918ddf060f7b21",
+      "title": "Автопортрет",
+      "date": "1911",
+      "museum": "Национальный музей Норвегии, Осло",
+      "source": "https://www.nasjonalmuseet.no/en/collection/object/NMK.2008.0706",
+      "originalPending": {
+        "key": "NMK.2008.0706",
+        "title": "Автопортрет",
+        "originalTitle": "Selvportrett",
+        "date": "1911",
+        "medium": "Масло на холсте; 80 × 56 см",
+        "museum": "Национальный музей Норвегии, Осло",
+        "source": "https://www.nasjonalmuseet.no/en/collection/object/NMK.2008.0706",
+        "look": "Вопросы для рассматривания: Лицо: проверь освещение. Одежда: сравни тёмные поверхности. Взгляд: проследи направление. Формат: соотнеси размеры и фигуру. Роль: отличи собственное произведение от позирования.",
+        "reason": "2100 × 3000 по категории; лицензия конкретного снимка не прочитана.",
+        "inventoryNumber": "NMK.2008.0706",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Asta_N%C3%B8rregaard_-_Selvportrett_-_NMK.2008.0706_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 43,
+      "queueKey": "astrid_holm:a18fc6b5cbfd9fad",
+      "artistId": "astrid_holm",
+      "artistName": "Астрид Хольм",
+      "latin": "Astrid Holm",
+      "sourceModule": "games/painting/artists-batch-125.js",
+      "sourceModuleGitBlob": "9d6fb551d9fc836aa5d14add0ccc28ab527ff1aa",
+      "existingWorksCount": 0,
+      "originalPendingKey": "astrid_holm_selected",
+      "pendingWorkFingerprint": "a18fc6b5cbfd9fad9d0be7172641b95aae8b8a10617d80b699bb1d8223709ced",
+      "title": "Роуз накрывает на стол",
+      "date": "1914",
+      "museum": "Statens Museum for Kunst",
+      "source": "https://www.diva-portal.org/smash/get/diva2:1398527/FULLTEXT01.pdf",
+      "originalPending": {
+        "key": "astrid_holm_selected",
+        "title": "Роуз накрывает на стол",
+        "originalTitle": "Rose dækker bord",
+        "date": "1914",
+        "medium": "Масло на холсте; 97,7 × 79 см",
+        "museum": "Statens Museum for Kunst",
+        "source": "https://www.diva-portal.org/smash/get/diva2:1398527/FULLTEXT01.pdf",
+        "look": "Как фигура связана со столом? Как цветы и фрукты поддерживают композицию? Как устроены цветовые контрасты? Какие сведения о модели известны, а какие предполагаются? Как позиция художницы влияет на интерпретацию сцены?",
+        "reason": "Конкретная страница файла прочитана, но поле Permission пустое и полная свободная лицензия не получена. Общая политика SMK на Commons-файл не перенесена.",
+        "inventoryNumber": "KMS8558",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Rose_d%C3%A6kker_bord.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 44,
+      "queueKey": "augusto_giacometti:8e0fbd22ad79fed3",
+      "artistId": "augusto_giacometti",
+      "artistName": "Аугусто Джакометти",
+      "latin": "Augusto Giacometti",
+      "sourceModule": "games/painting/artists-batch-145.js",
+      "sourceModuleGitBlob": "e3d03baa09b23b2952faa2f2ed247c67a447ef2e",
+      "existingWorksCount": 0,
+      "originalPendingKey": "augusto_giacometti_selected",
+      "pendingWorkFingerprint": "8e0fbd22ad79fed3d9f69509d10cece92f7af3115656d2d6026ed61761646326",
+      "title": "Хроматическая фантазия",
+      "date": "1914",
+      "museum": "Kunsthaus Zürich, Цюрих",
+      "source": "https://collection.kunsthaus.ch/multimedia/9/1109-en.pdf",
+      "originalPending": {
+        "title": "Хроматическая фантазия",
+        "originalTitle": "Chromatische Fantasie / Chromatic Fantasy",
+        "date": "1914",
+        "medium": "Масло на холсте; 99,5 × 99,5 см по актуальной музейной PDF-записи",
+        "museum": "Kunsthaus Zürich, Цюрих",
+        "source": "https://collection.kunsthaus.ch/multimedia/9/1109-en.pdf",
+        "key": "augusto_giacometti_selected",
+        "look": "Вопросы для будущего рассматривания, не самостоятельные визуальные наблюдения: Как цветовые отношения организуют квадрат? Как диагональ меняет действие сетки? Как отличить год создания от года приобретения?",
+        "reason": "Конкретный файл, его версия, права, разрешение, полный кредит и доставка не проверены в совокупности.",
+        "inventoryNumber": "1954/0030"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 45,
+      "queueKey": "aurel_bernath:56f3bf4dc1a49013",
+      "artistId": "aurel_bernath",
+      "artistName": "Аурел Бернат",
+      "latin": "Aurél Bernáth",
+      "sourceModule": "games/painting/artists-batch-144.js",
+      "sourceModuleGitBlob": "da9b417844b9eea1b903dadac733982c9f7a914f",
+      "existingWorksCount": 0,
+      "originalPendingKey": "aurel_bernath_selected",
+      "pendingWorkFingerprint": "56f3bf4dc1a49013625f8fa5f8de70caeae45ecb6f1efa3949879a0d6fdfdf65",
+      "title": "Ривьера",
+      "date": "1926–1927",
+      "museum": "Hungarian National Gallery — Венгерская национальная галерея, Будапешт",
+      "source": "https://en.mng.hu/artworks/54158/",
+      "originalPending": {
+        "title": "Ривьера",
+        "originalTitle": "Riviera",
+        "date": "1926–1927",
+        "medium": "Масло на холсте; 130,5 × 150,5 см",
+        "key": "aurel_bernath_selected",
+        "museum": "Hungarian National Gallery — Венгерская национальная галерея, Будапешт",
+        "source": "https://en.mng.hu/artworks/54158/",
+        "look": "Вопросы для будущего рассматривания; самостоятельный визуальный осмотр не выполнен: Как сопоставлены скалы, море и небо? Как фигуры задают масштаб пейзажа? Чем внутренний замысел отличается от непосредственного этюда вида?",
+        "reason": "Предметные сведения найдены; конкретная репродукция, версия файла, права, разрешение, полный кредит и доставка не подтверждены в совокупности.",
+        "inventoryNumber": "6370"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 46,
+      "queueKey": "bagta:9875530a91a8887f",
+      "artistId": "bagta",
+      "artistName": "Багта",
+      "latin": "Bagta (Bakhta)",
+      "sourceModule": "games/painting/artists-batch-25.js",
+      "sourceModuleGitBlob": "41634174706b20ac1bd1323206805404cb932101",
+      "existingWorksCount": 0,
+      "originalPendingKey": null,
+      "pendingWorkFingerprint": "9875530a91a8887fa511d1d9c7da908e79d57d2583b6fa96a86038ca8ed15d6e",
+      "title": "Рават Гокул Дас у Сингх-Сагара",
+      "date": "1806",
+      "museum": "",
+      "source": "https://www.metmuseum.org/art/collection/search/76037",
+      "originalPending": {
+        "title": "Рават Гокул Дас у Сингх-Сагара",
+        "date": "1806",
+        "source": "https://www.metmuseum.org/art/collection/search/76037",
+        "reason": "Met 2022.234; Image © Ashmolean, специальное ограничение изображения"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 47,
+      "queueKey": "baldassarre_franceschini:1ae1c712f4158c7b",
+      "artistId": "baldassarre_franceschini",
+      "artistName": "Бальдассарре Франческини",
+      "latin": "Baldassarre Franceschini",
+      "sourceModule": "games/painting/artists-batch-97.js",
+      "sourceModuleGitBlob": "07c1fd112434dfe547b48fc716964516bc7b838f",
+      "existingWorksCount": 0,
+      "originalPendingKey": "editorial:pitti-volterrano-arlotto",
+      "pendingWorkFingerprint": "1ae1c712f4158c7b5edc1aecf367314bd8297453b44fce2074e3dce173afeb4e",
+      "title": "Шутка священника Арлотто",
+      "date": "около 1640",
+      "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+      "source": "https://www.uffizi.it/en/artworks/volterrano-one-of-father-arlotto-s-tricks",
+      "originalPending": {
+        "key": "editorial:pitti-volterrano-arlotto",
+        "title": "Шутка священника Арлотто",
+        "originalTitle": "One of Father Arlotto’s Tricks",
+        "date": "около 1640",
+        "medium": "Темпера на холсте; 107 × 150 см",
+        "museum": "Палатинская галерея, Палаццо Питти, Флоренция",
+        "source": "https://www.uffizi.it/en/artworks/volterrano-one-of-father-arlotto-s-tricks",
+        "look": "Как сцена организована вокруг стола? Не превращай анекдот о человеке XV века в документ наблюдений художника XVII века.",
+        "reason": "Конкретный свободный файл репродукции, его лицензия и кредит не проверены."
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 48,
+      "queueKey": "barbara_longhi:560b3f0c136727fe",
+      "artistId": "barbara_longhi",
+      "artistName": "Барбара Лонги",
+      "latin": "Barbara Longhi",
+      "sourceModule": "games/painting/artists-batch-110.js",
+      "sourceModuleGitBlob": "b266cfce2343b0cb952054037642ca2b8c498ee0",
+      "existingWorksCount": 0,
+      "originalPendingKey": "MI 614",
+      "pendingWorkFingerprint": "560b3f0c136727fe78299ff3b63bc1bc8a69c929db73ba38e29aff5b8e148716",
+      "title": "Мадонна с Младенцем, венчающим монахиню",
+      "date": "конец XVI — начало XVII века; каталог: 1575–1625",
+      "museum": "Лувр, Париж",
+      "source": "https://collections.louvre.fr/en/ark:/53355/cl010064975",
+      "originalPending": {
+        "key": "MI 614",
+        "title": "Мадонна с Младенцем, венчающим монахиню",
+        "originalTitle": "La Vierge et l’Enfant Jésus couronnant une religieuse",
+        "date": "конец XVI — начало XVII века; каталог: 1575–1625",
+        "medium": "Масло на холсте; 39 × 32,5 см",
+        "museum": "Лувр, Париж",
+        "source": "https://collections.louvre.fr/en/ark:/53355/cl010064975",
+        "look": "Вопросы для рассматривания: Фигуры: проверь расположение. Жест: проследи действие венчания. Монахиня: не придумывай личность. Масштаб: соотнеси формат и сцену. Дата: отдели широкий диапазон от точного года.",
+        "reason": "Старое название файла не заменяет музейного названия; права ещё не прочитаны.",
+        "inventoryNumber": "MI 614",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Virgin_and_Child_with_Saint%2C_Barbara_Longhi.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 49,
+      "queueKey": "barthelemy_menn:866b7e44e5f57a1d",
+      "artistId": "barthelemy_menn",
+      "artistName": "Бартелеми Менн",
+      "latin": "Barthélemy Menn",
+      "sourceModule": "games/painting/artists-batch-146.js",
+      "sourceModuleGitBlob": "6781f4323fc9067ec22b9fdc44c1ba81d99c3280",
+      "existingWorksCount": 0,
+      "originalPendingKey": "barthelemy_menn_selected",
+      "pendingWorkFingerprint": "866b7e44e5f57a1d7b33a563b533689b95cfc4a2e14ff64408e3a3a8f36cc823",
+      "title": "Автопортрет в соломенной шляпе",
+      "date": "около 1867",
+      "museum": "Musée d’art et d’histoire, Женева",
+      "source": "https://www.mahmah.ch/collection/oeuvres/autoportrait-au-chapeau-de-paille/1894-0012",
+      "originalPending": {
+        "title": "Автопортрет в соломенной шляпе",
+        "originalTitle": "Autoportrait au chapeau de paille",
+        "date": "около 1867",
+        "medium": "Масло на картоне, закреплённом на дереве; живописная поверхность 42,6 × 60,1 см",
+        "museum": "Musée d’art et d’histoire, Женева",
+        "key": "barthelemy_menn_selected",
+        "source": "https://www.mahmah.ch/collection/oeuvres/autoportrait-au-chapeau-de-paille/1894-0012",
+        "look": "Вопросы для будущего рассматривания, не самостоятельный визуальный анализ: Как горизонтальный формат меняет традиционную постановку автопортрета? Как свет связывает лицо, шляпу и окружение? Почему описание основы нужно проверять по предметной записи?",
+        "reason": "Конкретный файл, версия, права репродукции, полный кредит, разрешение и браузерная доставка не проверены в совокупности. Музейное изображение не подключено автоматически.",
+        "inventoryNumber": "1894-0012",
+        "candidateFilePage": "https://fr.wikipedia.org/wiki/Fichier:Barth%C3%A9lemy_Menn_002.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    },
+    {
+      "number": 50,
+      "queueKey": "bela_ivanyi_grunwald:a8879c63771dfc51",
+      "artistId": "bela_ivanyi_grunwald",
+      "artistName": "Бела Иваньи-Грюнвальд",
+      "latin": "Béla Iványi-Grünwald",
+      "sourceModule": "games/painting/artists-batch-139.js",
+      "sourceModuleGitBlob": "f792e08a6eae8ee26f0c0edbc186efcff76ce8ef",
+      "existingWorksCount": 0,
+      "originalPendingKey": "bela_ivanyi_grunwald_selected",
+      "pendingWorkFingerprint": "a8879c63771dfc51791d7473a3a365dfd8e15e7beb4a36714593fc14af7b9fff",
+      "title": "Сушка белья",
+      "date": "1903",
+      "museum": "Hungarian National Gallery — Венгерская национальная галерея, Будапешт",
+      "source": "https://en.mng.hu/artworks/54204/",
+      "originalPending": {
+        "key": "bela_ivanyi_grunwald_selected",
+        "title": "Сушка белья",
+        "originalTitle": "Ruhaszárítás / Drying Clothes",
+        "date": "1903",
+        "medium": "Масло на холсте; высота 166–167 см по разным источникам, ширина 133 см",
+        "museum": "Hungarian National Gallery — Венгерская национальная галерея, Будапешт",
+        "source": "https://en.mng.hu/artworks/54204/",
+        "look": "Как белое бельё взаимодействует с освещением? Как фигуры включены в пейзаж? Как обычное занятие становится задачей цвета?",
+        "reason": "Прочитана страница файла 635 × 800, номер 2480, источник Fine Arts in Hungary. В структурированных категориях есть PD-Art, но полный текст правового основания не извлечён, поле Permission пусто; полный кредит и доставка не проверены.",
+        "inventoryNumber": "2480",
+        "candidateFilePage": "https://commons.wikimedia.org/wiki/File:Drying_Clothes_Grunwald.jpg"
+      },
+      "status": "research_pending",
+      "imageSearchStatus": "not_started",
+      "identityCheckStatus": "not_started",
+      "licenceCheckStatus": "not_started",
+      "imageDeliveryStatus": "not_started",
+      "readyToBind": false
+    }
+  ],
+  "notes": [
+    "Новая очередь исследования, не продолжение нумерации 495 записей Уффици.",
+    "Отобраны только карточки исходных artists-batch-модулей с пустым works и конкретными pendingWorks. Отдельные базовые карточки index.html не отбираются этим проходом.",
+    "unresearched в редакторском экспорте не использован как признак отсутствия изображений.",
+    "Сначала одна работа на художника, затем следующие работы при нехватке разных художников; порядок художников по русскому имени.",
+    "Карточки, связанные с оставшимися отложенными записями, исключены из этого прохода.",
+    "Изображения не искались, права не проверялись, привязки не создавались.",
+    "Количество работ в очереди не является числом найденных или готовых репродукций."
+  ]
+}
