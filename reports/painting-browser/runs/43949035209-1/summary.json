@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "status": "derived_evidence_not_editorially_approved",
+  "sourceReportCommit": "2834f037550d1de5360f48d25dace12159aee390",
+  "sourceReportBlob": "ebff0329594cc37a1286589de569fc68e6d66c58",
+  "browserRunId": "43949035209",
+  "sourceCommit": "d4e2b35bab592354881b05572bc26d6e1ff143d7",
+  "manifest": "tools/painting-browser/coverage-001-reserve-retry-11.json",
+  "manifestSha256": "6a805d38777745b7a72e9dec784e9563e2ddae721c6fdd0a4a623df3556fa32f",
+  "selectionComplete": true,
+  "browserStatus": "failed",
+  "browserSmokePassed": true,
+  "counts": {
+    "selected": 11,
+    "completed": 11,
+    "passed": 10,
+    "failed": 1
+  },
+  "errors": [],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "rows": [
+    {
+      "id": "reserve50_retry_dora_wahlroos",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-000.json"
+    },
+    {
+      "id": "reserve50_retry_victor_westerholm",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-001.json"
+    },
+    {
+      "id": "reserve50_retry_karl_nordstrom",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-002.json"
+    },
+    {
+      "id": "reserve50_retry_ernst_josephson",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-003.json"
+    },
+    {
+      "id": "reserve50_retry_gustaf_fjaestad",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-004.json"
+    },
+    {
+      "id": "reserve50_retry_paul_raud",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-005.json"
+    },
+    {
+      "id": "reserve50_retry_johann_koler",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-006.json"
+    },
+    {
+      "id": "reserve50_retry_oskar_kallis",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-007.json"
+    },
+    {
+      "id": "reserve50_retry_emil_filla",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-008.json"
+    },
+    {
+      "id": "reserve50_retry_josef_manes",
+      "status": "passed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-009.json"
+    },
+    {
+      "id": "reserve50_retry_bohumil_kubista",
+      "status": "failed",
+      "pageid": null,
+      "path": "reports/painting-browser/runs/43949035209-1/row-010.json"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "sourceReportCommit": "2834f037550d1de5360f48d25dace12159aee390",
+  "sourceReportBlob": "ebff0329594cc37a1286589de569fc68e6d66c58",
+  "browserRunId": "43949035209",
+  "sourceCommit": "d4e2b35bab592354881b05572bc26d6e1ff143d7",
+  "id": "reserve50_retry_johann_koler",
+  "input": {
+    "id": "reserve50_retry_johann_koler",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Truu_valvur%2C_EKM00534_M01744_K8ler_Truu_valvur_ACE6563.jpg",
+    "native": [
+      1163,
+      1600
+    ],
+    "evidenceRow": 28
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Truu_valvur%2C_EKM00534_M01744_K8ler_Truu_valvur_ACE6563.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Truu_valvur%2C_EKM00534_M01744_K8ler_Truu_valvur_ACE6563.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1163,
+      "height": 1600,
+      "attempt": 1,
+      "screenshot": "006-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Truu_valvur%2C_EKM00534_M01744_K8ler_Truu_valvur_ACE6563.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Truu_valvur%2C_EKM00534_M01744_K8ler_Truu_valvur_ACE6563.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1163,
+      "height": 1600,
+      "attempt": 1,
+      "screenshot": "006-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    1163,
+    1600
+  ]
+}

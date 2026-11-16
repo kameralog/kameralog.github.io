@@ -1,0 +1,49 @@
+{
+  "sourceReportCommit": "2834f037550d1de5360f48d25dace12159aee390",
+  "sourceReportBlob": "ebff0329594cc37a1286589de569fc68e6d66c58",
+  "browserRunId": "43949035209",
+  "sourceCommit": "d4e2b35bab592354881b05572bc26d6e1ff143d7",
+  "id": "reserve50_retry_bohumil_kubista",
+  "input": {
+    "id": "reserve50_retry_bohumil_kubista",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg/1280px-Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "native": [
+      3018,
+      4000
+    ],
+    "evidenceRow": 36,
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg"
+  },
+  "status": "failed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg/1280px-Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg/1280px-Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1696,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": false,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Bohumil_Kubi%C5%A1ta_-_Svat%C3%BD_%C5%A0ebesti%C3%A1n_%281912%29.jpg",
+      "finalURL": null,
+      "http": null,
+      "mime": null,
+      "attempt": 2,
+      "error": "Error: page.evaluate: EncodingError: The source image cannot be decoded."
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    3018,
+    4000
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "sourceReportCommit": "2834f037550d1de5360f48d25dace12159aee390",
+  "sourceReportBlob": "ebff0329594cc37a1286589de569fc68e6d66c58",
+  "browserRunId": "43949035209",
+  "sourceCommit": "d4e2b35bab592354881b05572bc26d6e1ff143d7",
+  "id": "reserve50_retry_ernst_josephson",
+  "input": {
+    "id": "reserve50_retry_ernst_josephson",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ernst_Josephson-N%C3%A4cken.jpg/1280px-Ernst_Josephson-N%C3%A4cken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "native": [
+      2813,
+      3535
+    ],
+    "evidenceRow": 23,
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ernst_Josephson-N%C3%A4cken.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ernst_Josephson-N%C3%A4cken.jpg/1280px-Ernst_Josephson-N%C3%A4cken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ernst_Josephson-N%C3%A4cken.jpg/1280px-Ernst_Josephson-N%C3%A4cken.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1609,
+      "attempt": 1,
+      "screenshot": "003-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ernst_Josephson-N%C3%A4cken.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ernst_Josephson-N%C3%A4cken.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 2813,
+      "height": 3535,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    2813,
+    3535
+  ]
+}

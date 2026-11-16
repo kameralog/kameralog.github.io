@@ -1,0 +1,51 @@
+{
+  "sourceReportCommit": "2834f037550d1de5360f48d25dace12159aee390",
+  "sourceReportBlob": "ebff0329594cc37a1286589de569fc68e6d66c58",
+  "browserRunId": "43949035209",
+  "sourceCommit": "d4e2b35bab592354881b05572bc26d6e1ff143d7",
+  "id": "reserve50_retry_karl_nordstrom",
+  "input": {
+    "id": "reserve50_retry_karl_nordstrom",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg/1280px-Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "native": [
+      3488,
+      3114
+    ],
+    "evidenceRow": 19,
+    "zoom": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg"
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg/1280px-Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg/1280px-Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1143,
+      "attempt": 1,
+      "screenshot": "002-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Karl_Nordstr%C3%B6m_-_Storm_Clouds_-_Google_Art_Project.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3488,
+      "height": 3114,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    3488,
+    3114
+  ]
+}

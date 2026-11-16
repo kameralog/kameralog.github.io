@@ -1,0 +1,52 @@
+{
+  "sourceReportCommit": "2834f037550d1de5360f48d25dace12159aee390",
+  "sourceReportBlob": "ebff0329594cc37a1286589de569fc68e6d66c58",
+  "browserRunId": "43949035209",
+  "sourceCommit": "d4e2b35bab592354881b05572bc26d6e1ff143d7",
+  "id": "reserve50_retry_dora_wahlroos",
+  "input": {
+    "id": "reserve50_retry_dora_wahlroos",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dora_Wahlroos_-_Inspiration.jpg",
+    "native": [
+      1194,
+      1600
+    ],
+    "evidenceRow": 11
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dora_Wahlroos_-_Inspiration.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dora_Wahlroos_-_Inspiration.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1194,
+      "height": 1600,
+      "attempt": 1,
+      "screenshot": "000-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dora_Wahlroos_-_Inspiration.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dora_Wahlroos_-_Inspiration.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1194,
+      "height": 1600,
+      "attempt": 1,
+      "screenshot": "000-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    1194,
+    1600
+  ]
+}

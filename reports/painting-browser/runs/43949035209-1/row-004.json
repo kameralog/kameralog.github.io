@@ -1,0 +1,52 @@
+{
+  "sourceReportCommit": "2834f037550d1de5360f48d25dace12159aee390",
+  "sourceReportBlob": "ebff0329594cc37a1286589de569fc68e6d66c58",
+  "browserRunId": "43949035209",
+  "sourceCommit": "d4e2b35bab592354881b05572bc26d6e1ff143d7",
+  "id": "reserve50_retry_gustaf_fjaestad",
+  "input": {
+    "id": "reserve50_retry_gustaf_fjaestad",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gustaf_Fj%C3%A6stad_-_Winter_Evening_by_a_River_-_NM_1703_-_Nationalmuseum.jpg",
+    "native": [
+      1000,
+      813
+    ],
+    "evidenceRow": 24
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gustaf_Fj%C3%A6stad_-_Winter_Evening_by_a_River_-_NM_1703_-_Nationalmuseum.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gustaf_Fj%C3%A6stad_-_Winter_Evening_by_a_River_-_NM_1703_-_Nationalmuseum.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 813,
+      "attempt": 1,
+      "screenshot": "004-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gustaf_Fj%C3%A6stad_-_Winter_Evening_by_a_River_-_NM_1703_-_Nationalmuseum.jpg",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Gustaf_Fj%C3%A6stad_-_Winter_Evening_by_a_River_-_NM_1703_-_Nationalmuseum.jpg",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 813,
+      "attempt": 1,
+      "screenshot": "004-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": null,
+  "native": [
+    1000,
+    813
+  ]
+}
