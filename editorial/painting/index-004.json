@@ -1,5 +1,20 @@
 [
   {
+    "id": "isack_van_ostade",
+    "name": "Исак ван Остаде",
+    "path": "records/isack_van_ostade.json"
+  },
+  {
+    "id": "istvan_nagy",
+    "name": "Иштван Надь",
+    "path": "records/istvan_nagy.json"
+  },
+  {
+    "id": "istvan_reti",
+    "name": "Иштван Рети",
+    "path": "records/istvan_reti.json"
+  },
+  {
     "id": "istvan_szonyi",
     "name": "Иштван Сёни",
     "path": "records/istvan_szonyi.json"
@@ -98,6 +113,11 @@
     "id": "josef_danhauser",
     "name": "Йозеф Данхаузер",
     "path": "records/josef_danhauser.json"
+  },
+  {
+    "id": "joseph_magnus_stack",
+    "name": "Йозеф Магнус Стэк",
+    "path": "records/joseph_magnus_stack.json"
   },
   {
     "id": "josef_manes",
@@ -435,6 +455,11 @@
     "path": "records/kerstin_cardon.json"
   },
   {
+    "id": "kilian_zoll",
+    "name": "Килиан Цолль",
+    "path": "records/kilian_zoll.json"
+  },
+  {
     "id": "kim_hongdo",
     "name": "Ким Хондо",
     "path": "records/kim_hongdo.json"
@@ -473,30 +498,5 @@
     "id": "coba_surie",
     "name": "Коба Сюри",
     "path": "records/coba_surie.json"
-  },
-  {
-    "id": "cosimo_tura",
-    "name": "Козимо Тура",
-    "path": "records/cosimo_tura.json"
-  },
-  {
-    "id": "colijn_de_coter",
-    "name": "Колейн де Котер",
-    "path": "records/colijn_de_coter.json"
-  },
-  {
-    "id": "koloman_moser",
-    "name": "Коломан Мозер",
-    "path": "records/koloman_moser.json"
-  },
-  {
-    "id": "konrad_magi",
-    "name": "Конрад Мяги",
-    "path": "records/konrad_magi.json"
-  },
-  {
-    "id": "constance_mayer",
-    "name": "Констанс Майер",
-    "path": "records/constance_mayer.json"
   }
 ]

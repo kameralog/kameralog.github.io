@@ -1,5 +1,20 @@
 [
   {
+    "id": "willem_duyster",
+    "name": "Виллем Дёйстер",
+    "path": "records/willem_duyster.json"
+  },
+  {
+    "id": "willem_claesz_heda",
+    "name": "Виллем Клас Хеда",
+    "path": "records/willem_claesz_heda.json"
+  },
+  {
+    "id": "wilhelm_bendz",
+    "name": "Вильгельм Бендз",
+    "path": "records/wilhelm_bendz.json"
+  },
+  {
     "id": "wilhelm_marstrand",
     "name": "Вильгельм Марстранн",
     "path": "records/wilhelm_marstrand.json"
@@ -483,20 +498,5 @@
     "id": "giovanni_battista_moroni",
     "name": "Джованни Баттиста Морони",
     "path": "records/giovanni_battista_moroni.json"
-  },
-  {
-    "id": "giovanni_battista_paggi",
-    "name": "Джованни Баттиста Паджи",
-    "path": "records/giovanni_battista_paggi.json"
-  },
-  {
-    "id": "giovanni_battista_pittoni",
-    "name": "Джованни Баттиста Питтони",
-    "path": "records/giovanni_battista_pittoni.json"
-  },
-  {
-    "id": "giovanni_battista_piazzetta",
-    "name": "Джованни Баттиста Пьяццетта",
-    "path": "records/giovanni_battista_piazzetta.json"
   }
 ]

@@ -1,0 +1,49 @@
+{
+  "id": "oscar_torna",
+  "name": "Оскар Тёрно",
+  "latin": "Oscar Törnå",
+  "life": "1842–1894",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец. В 1870-е годы приехал во Францию и одним из первых шведских художников присоединился к колонии в Гре-сюр-Луэн.",
+      "Музейное описание связывает его работы 1876–1877 годов с распространением пленэрной живописи в Швеции. Выбранный пейзаж подписан в сентябре 1876 года; шведский мотив на обороте того же холста составляет отдельную работу."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "43 × 77 см"
+    ],
+    "innovation": "Учебная связь: Музейное описание связывает его работы 1876–1877 годов с распространением пленэрной живописи в Швеции. Выбранный пейзаж подписан в сентябре 1876 года; шведский мотив на обороте того же холста составляет отдельную работу.",
+    "caution": "Выбрана лицевая сторона NM 2069 recto. На обороте написан другой пейзаж, из Скедеви; его сведения и изображение не подставлены. В правовом блоке Commons есть напоминание об отдельном основании Public Domain для США; универсальная юридическая гарантия не заявляется. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-000.json"
+    },
+    {
+      "title": "Nationalmuseum: конкретная работа",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/19129/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_52133172",
+      "title": "Пейзаж близ Гре-сюр-Луэн",
+      "date": "1876; в подписи — сентябрь",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Landscape_near_Grez-sur-Loing_%28Oscar_T%C3%B6rn%C3%A5%29_-_Nationalmuseum_-_19129.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

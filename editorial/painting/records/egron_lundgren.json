@@ -1,0 +1,57 @@
+{
+  "id": "egron_lundgren",
+  "name": "Эгрон Лундгрен",
+  "latin": "Egron Lundgren",
+  "life": "1815–1875",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Svenskt biografiskt lexikon относит «Неаполитанских продавцов фруктов» 1843 года к жанровым картинам его римского периода, когда он работал преимущественно маслом.",
+      "«Neapolitanska fruktförsäljare» датируется 1843 годом. Материал — масло на холсте; специализацию или другие техники художника нельзя автоматически переносить на конкретную картину."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "99 × 136,5 см"
+    ],
+    "innovation": "Учебная связь: «Neapolitanska fruktförsäljare» датируется 1843 годом. Материал — масло на холсте; специализацию или другие техники художника нельзя автоматически переносить на конкретную картину.",
+    "caution": "Выбранная работа — масло на холсте, не акварель. Сведения биографического справочника о римском периоде отделены от паспорта конкретной картины 1843 года. Номер 2255 — инвентарь, не размер или год. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-008.json"
+    },
+    {
+      "title": "Nationalmuseum: паспорт NM 2255",
+      "url": "https://collection.nationalmuseum.se/sv/collection/item/19315/"
+    },
+    {
+      "title": "DigitaltMuseum: материал и дата",
+      "url": "https://digitaltmuseum.se/021046508737/neapolitanska-fruktforsaljare"
+    },
+    {
+      "title": "Riksarkivet, Svenskt biografiskt lexikon: биография и работа 1843 года",
+      "url": "https://sok.riksarkivet.se/sbl/mobil/Artikel/9827"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_103232611",
+      "title": "Неаполитанские продавцы фруктов",
+      "date": "1843",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Egron_Lundgren_-_Neapolitan_Fruit-Sellers_-_NM_2255_-_Nationalmuseum.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ferdinand_fagerlin",
+  "name": "Фердинанд Фагерлин",
+  "latin": "Ferdinand Fagerlin",
+  "life": "1825–1907",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский жанровый живописец. Согласно музейному паспорту, выбранная картина создана в Дюссельдорфе в 1866 году.",
+      "Nasjonalmuseet указывает масло на холсте, размер 80 × 70,5 см и приобретение в 1866 году. Конкретный инвентарный номер NG.M.00234 отделяет эту работу от других жанровых сцен художника."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "80 × 70,5 см; по Nasjonalmuseet"
+    ],
+    "innovation": "Учебная связь: Nasjonalmuseet указывает масло на холсте, размер 80 × 70,5 см и приобретение в 1866 году. Конкретный инвентарный номер NG.M.00234 отделяет эту работу от других жанровых сцен художника.",
+    "caution": "В Commons сводное поле обозначено Public domain, но полный шаблон также содержит CC BY 4.0 для репродукции; оба сведения сохранены. Музей указывает фотографа Børre Høstland, но совпадение именно этого снимка независимо не осмотрено. Норвежское название в текущем музее — Ungkarslivets prøvelser; старое название в метаданных Commons отличается. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-003.json"
+    },
+    {
+      "title": "Nasjonalmuseet: паспорт, размеры и фотокредит",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00234"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_97995336",
+      "title": "Тяготы холостяцкой жизни",
+      "date": "1866",
+      "museum": "Nasjonalmuseet, Norway",
+      "source": "https://commons.wikimedia.org/wiki/File:Ferdinand_Fagerlin_-_The_Hardships_of_Bachelorhood_-_NG.M.00234_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

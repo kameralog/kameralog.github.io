@@ -1,5 +1,20 @@
 [
   {
+    "id": "giovanni_battista_paggi",
+    "name": "Джованни Баттиста Паджи",
+    "path": "records/giovanni_battista_paggi.json"
+  },
+  {
+    "id": "giovanni_battista_pittoni",
+    "name": "Джованни Баттиста Питтони",
+    "path": "records/giovanni_battista_pittoni.json"
+  },
+  {
+    "id": "giovanni_battista_piazzetta",
+    "name": "Джованни Баттиста Пьяццетта",
+    "path": "records/giovanni_battista_piazzetta.json"
+  },
+  {
     "id": "giovanni_battista_recco",
     "name": "Джованни Баттиста Рекко",
     "path": "records/giovanni_battista_recco.json"
@@ -483,20 +498,5 @@
     "id": "levitan",
     "name": "Исаак Левитан",
     "path": "records/levitan.json"
-  },
-  {
-    "id": "isack_van_ostade",
-    "name": "Исак ван Остаде",
-    "path": "records/isack_van_ostade.json"
-  },
-  {
-    "id": "istvan_nagy",
-    "name": "Иштван Надь",
-    "path": "records/istvan_nagy.json"
-  },
-  {
-    "id": "istvan_reti",
-    "name": "Иштван Рети",
-    "path": "records/istvan_reti.json"
   }
 ]

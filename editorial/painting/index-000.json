@@ -25,6 +25,11 @@
     "path": "records/august_malmstrom.json"
   },
   {
+    "id": "august_hagborg",
+    "name": "Август Хагборг",
+    "path": "records/august_hagborg.json"
+  },
+  {
     "id": "agostino_carracci",
     "name": "Агостино Карраччи",
     "path": "records/agostino_carracci.json"
@@ -93,6 +98,16 @@
     "id": "akseli_gallen_kallela",
     "name": "Аксели Галлен-Каллела",
     "path": "records/akseli_gallen_kallela.json"
+  },
+  {
+    "id": "axel_borg",
+    "name": "Аксель Борг",
+    "path": "records/axel_borg.json"
+  },
+  {
+    "id": "axel_kulle",
+    "name": "Аксель Кулле",
+    "path": "records/axel_kulle.json"
   },
   {
     "id": "axel_haartman",
@@ -483,20 +498,5 @@
     "id": "anton_kolig",
     "name": "Антон Колиг",
     "path": "records/anton_kolig.json"
-  },
-  {
-    "id": "anton_mahringer",
-    "name": "Антон Марингер",
-    "path": "records/anton_mahringer.json"
-  },
-  {
-    "id": "anton_melbye",
-    "name": "Антон Мельбю",
-    "path": "records/anton_melbye.json"
-  },
-  {
-    "id": "anton_raphael_mengs",
-    "name": "Антон Рафаэль Менгс",
-    "path": "records/anton_raphael_mengs.json"
   }
 ]

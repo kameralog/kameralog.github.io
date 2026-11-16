@@ -1,0 +1,49 @@
+{
+  "id": "kilian_zoll",
+  "name": "Килиан Цолль",
+  "latin": "Kilian Zoll",
+  "life": "1818–1860",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Выбранная картина 1852 года соединяет жанровую сцену с обозначенным в названии местом — Реттвиком.",
+      "Паспорт NM 2428 даёт масло на холсте и небольшой размер 31,5 × 41 см. Работа позволяет поставить учебные вопросы об изображении коллективного праздника, не превращая картину в нейтральную этнографическую фиксацию."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "31,5 × 41 см"
+    ],
+    "innovation": "Учебная связь: Паспорт NM 2428 даёт масло на холсте и небольшой размер 31,5 × 41 см. Работа позволяет поставить учебные вопросы об изображении коллективного праздника, не превращая картину в нейтральную этнографическую фиксацию.",
+    "caution": "Выбран конкретный музейный TIFF, не небольшой файл с похожим названием. Размер рамы 46 × 56 см не подставлен вместо 31,5 × 41 см. Правовой блок Commons содержит напоминание об отдельном основании Public Domain для США. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-007.json"
+    },
+    {
+      "title": "Nationalmuseum: конкретная работа",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/19489/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_52123357",
+      "title": "Праздничный танец в Реттвике",
+      "date": "1852",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Midsummer_Dance_at_R%C3%A4ttvik_%28Kilian_Zoll%29_-_Nationalmuseum_-_19489.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

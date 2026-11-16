@@ -1,5 +1,30 @@
 [
   {
+    "id": "marie_van_regteren_altena",
+    "name": "Мари ван Регтерен Алтена",
+    "path": "records/marie_van_regteren_altena.json"
+  },
+  {
+    "id": "marie_de_bievre",
+    "name": "Мари де Бьевр",
+    "path": "records/marie_de_bievre.json"
+  },
+  {
+    "id": "marie_cazin",
+    "name": "Мари Казен",
+    "path": "records/marie_cazin.json"
+  },
+  {
+    "id": "marie_collart",
+    "name": "Мари Коллар",
+    "path": "records/marie_collart.json"
+  },
+  {
+    "id": "marie_kroyer",
+    "name": "Мари Крёйер",
+    "path": "records/marie_kroyer.json"
+  },
+  {
     "id": "marie_luplau",
     "name": "Мари Луплау",
     "path": "records/marie_luplau.json"
@@ -435,6 +460,11 @@
     "path": "records/niels_skovgaard.json"
   },
   {
+    "id": "nils_forsberg",
+    "name": "Нильс Форсберг",
+    "path": "records/nils_forsberg.json"
+  },
+  {
     "id": "noel_coypel",
     "name": "Ноэль Куапель",
     "path": "records/noel_coypel.json"
@@ -468,35 +498,5 @@
     "id": "honore_daumier",
     "name": "Оноре Домье",
     "path": "records/honore_daumier.json"
-  },
-  {
-    "id": "orazio_borgianni",
-    "name": "Орацио Борджанни",
-    "path": "records/orazio_borgianni.json"
-  },
-  {
-    "id": "orazio_de_ferrari",
-    "name": "Орацио де Феррари",
-    "path": "records/orazio_de_ferrari.json"
-  },
-  {
-    "id": "orazio_gentileschi",
-    "name": "Орацио Джентилески",
-    "path": "records/orazio_gentileschi.json"
-  },
-  {
-    "id": "oscar_bjork",
-    "name": "Оскар Бьёрк",
-    "path": "records/oscar_bjork.json"
-  },
-  {
-    "id": "oscar_wergeland",
-    "name": "Оскар Вергеланн",
-    "path": "records/oscar_wergeland.json"
-  },
-  {
-    "id": "oszkar_glatz",
-    "name": "Оскар Глац",
-    "path": "records/oszkar_glatz.json"
   }
 ]

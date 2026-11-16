@@ -1,0 +1,49 @@
+{
+  "id": "joseph_magnus_stack",
+  "name": "Йозеф Магнус Стэк",
+  "latin": "Joseph Magnus Stäck",
+  "life": "1812–1868",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец. Для карточки выбран итальянский мотив из собрания Nationalmuseum, NM 6790.",
+      "Музей определяет основу как бумагу, наклеенную на холст: это не просто «масло на холсте». Выбранная репродукция имеет умеренное разрешение; другой вид Капри не подставляется ради увеличенного изображения."
+    ],
+    "technique": [
+      "Масло на бумаге, наклеенной на холст; по Nationalmuseum",
+      "37,8 × 46,3 см; музей также указывает минимальные 36,1 × 45,6 см"
+    ],
+    "innovation": "Учебная связь: Музей определяет основу как бумагу, наклеенную на холст: это не просто «масло на холсте». Выбранная репродукция имеет умеренное разрешение; другой вид Капри не подставляется ради увеличенного изображения.",
+    "caution": "Не заменять интервал 1840–1849 одним годом. Материал и размеры взяты у музея, а не из старого отображения Commons. В Commons есть категория Framed paintings; наличие рамки и состав кадра независимо не осмотрены. image и zoom используют один оригинал 1000 × 853, без увеличения. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-006.json"
+    },
+    {
+      "title": "Nationalmuseum: материал и размеры",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/23839/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_103263388",
+      "title": "Вид Капри",
+      "date": "1840–1849; по Commons",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Joseph_Magnus_St%C3%A4ck_-_View_from_Capri_-_NM_6790_-_Nationalmuseum.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

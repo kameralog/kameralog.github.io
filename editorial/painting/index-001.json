@@ -1,5 +1,20 @@
 [
   {
+    "id": "anton_mahringer",
+    "name": "Антон Марингер",
+    "path": "records/anton_mahringer.json"
+  },
+  {
+    "id": "anton_melbye",
+    "name": "Антон Мельбю",
+    "path": "records/anton_melbye.json"
+  },
+  {
+    "id": "anton_raphael_mengs",
+    "name": "Антон Рафаэль Менгс",
+    "path": "records/anton_raphael_mengs.json"
+  },
+  {
     "id": "anton_romako",
     "name": "Антон Ромако",
     "path": "records/anton_romako.json"
@@ -483,20 +498,5 @@
     "id": "dekooning",
     "name": "Виллем де Кунинг",
     "path": "records/dekooning.json"
-  },
-  {
-    "id": "willem_duyster",
-    "name": "Виллем Дёйстер",
-    "path": "records/willem_duyster.json"
-  },
-  {
-    "id": "willem_claesz_heda",
-    "name": "Виллем Клас Хеда",
-    "path": "records/willem_claesz_heda.json"
-  },
-  {
-    "id": "wilhelm_bendz",
-    "name": "Вильгельм Бендз",
-    "path": "records/wilhelm_bendz.json"
   }
 ]

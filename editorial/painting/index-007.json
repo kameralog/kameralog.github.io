@@ -1,5 +1,35 @@
 [
   {
+    "id": "orazio_borgianni",
+    "name": "Орацио Борджанни",
+    "path": "records/orazio_borgianni.json"
+  },
+  {
+    "id": "orazio_de_ferrari",
+    "name": "Орацио де Феррари",
+    "path": "records/orazio_de_ferrari.json"
+  },
+  {
+    "id": "orazio_gentileschi",
+    "name": "Орацио Джентилески",
+    "path": "records/orazio_gentileschi.json"
+  },
+  {
+    "id": "oscar_bjork",
+    "name": "Оскар Бьёрк",
+    "path": "records/oscar_bjork.json"
+  },
+  {
+    "id": "oscar_wergeland",
+    "name": "Оскар Вергеланн",
+    "path": "records/oscar_wergeland.json"
+  },
+  {
+    "id": "oszkar_glatz",
+    "name": "Оскар Глац",
+    "path": "records/oszkar_glatz.json"
+  },
+  {
     "id": "oskar_kallis",
     "name": "Оскар Каллис",
     "path": "records/oskar_kallis.json"
@@ -18,6 +48,11 @@
     "id": "oskar_laske",
     "name": "Оскар Ласке",
     "path": "records/oskar_laske.json"
+  },
+  {
+    "id": "oscar_torna",
+    "name": "Оскар Тёрно",
+    "path": "records/oscar_torna.json"
   },
   {
     "id": "otakar_lebeda",
@@ -108,6 +143,11 @@
     "id": "pekka_halonen",
     "name": "Пекка Халонен",
     "path": "records/pekka_halonen.json"
+  },
+  {
+    "id": "per_daniel_holm",
+    "name": "Пер Даниэль Хольм",
+    "path": "records/per_daniel_holm.json"
   },
   {
     "id": "per_ekstrom",
@@ -458,45 +498,5 @@
     "id": "dali",
     "name": "Сальвадор Дали",
     "path": "records/dali.json"
-  },
-  {
-    "id": "salvator_rosa",
-    "name": "Сальватор Роза",
-    "path": "records/salvator_rosa.json"
-  },
-  {
-    "id": "samuel_van_hoogstraten",
-    "name": "Самюэл ван Хогстратен",
-    "path": "records/samuel_van_hoogstraten.json"
-  },
-  {
-    "id": "botticelli",
-    "name": "Сандро Боттичелли",
-    "path": "records/botticelli.json"
-  },
-  {
-    "id": "sano_di_pietro",
-    "name": "Сано ди Пьетро",
-    "path": "records/sano_di_pietro.json"
-  },
-  {
-    "id": "santi_di_tito",
-    "name": "Санти ди Тито",
-    "path": "records/santi_di_tito.json"
-  },
-  {
-    "id": "sarah_goodridge",
-    "name": "Сара Гудридж",
-    "path": "records/sarah_goodridge.json"
-  },
-  {
-    "id": "sarah_miriam_peale",
-    "name": "Сара Мириам Пил",
-    "path": "records/sarah_miriam_peale.json"
-  },
-  {
-    "id": "sassoferrato",
-    "name": "Сассоферрато",
-    "path": "records/sassoferrato.json"
   }
 ]

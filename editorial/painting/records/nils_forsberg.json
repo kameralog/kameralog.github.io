@@ -1,0 +1,49 @@
+{
+  "id": "nils_forsberg",
+  "name": "Нильс Форсберг",
+  "latin": "Nils Forsberg",
+  "life": "1842–1934",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Выбранный этюд «En hjältes död. Skiss.» подписан и датирован N. F. 1883.",
+      "Это отдельный объект Гётеборгского художественного музея, GKM 2013-114. Паспорт связывает его с собранием Густафа Вернера и передачей музею в 2013 году; дата передачи не является датой создания."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "49,5 × 74 см по Commons; музейный отчёт 2013: 47,3 × 72 см (dagermått)"
+    ],
+    "innovation": "Учебная связь: Это отдельный объект Гётеборгского художественного музея, GKM 2013-114. Паспорт связывает его с собранием Густафа Вернера и передачей музею в 2013 году; дата передачи не является датой создания.",
+    "caution": "Выбран этюд 1883 года, не законченная картина из Nationalmuseum. Commons даёт 49,5 × 74 см; годовой отчёт музея 2013 года указывает 47,3 × 72 см с пометой dagermått. Не объявлять эти значения одной и той же мерой. Категория Nationalmuseum в Commons не подменяет собрание, явно названное в паспорте. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-005.json"
+    },
+    {
+      "title": "Göteborgs konstmuseum: годовой отчёт 2013, размер dagermått",
+      "url": "https://goteborgskonstmuseum.se/wp-content/uploads/2016/07/arstryck-2013-goteborgs-konstmuseum.pdf"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_112966950",
+      "title": "Смерть героя. Этюд",
+      "date": "1883",
+      "museum": "Göteborgs konstmuseum",
+      "source": "https://commons.wikimedia.org/wiki/File:Death_of_a_Hero._Study._%28Nils_Forsberg%29_-_Gothenburg_Museum_of_Art_-_GKM_2013-114.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

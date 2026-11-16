@@ -1,5 +1,30 @@
 [
   {
+    "id": "cosimo_tura",
+    "name": "Козимо Тура",
+    "path": "records/cosimo_tura.json"
+  },
+  {
+    "id": "colijn_de_coter",
+    "name": "Колейн де Котер",
+    "path": "records/colijn_de_coter.json"
+  },
+  {
+    "id": "koloman_moser",
+    "name": "Коломан Мозер",
+    "path": "records/koloman_moser.json"
+  },
+  {
+    "id": "konrad_magi",
+    "name": "Конрад Мяги",
+    "path": "records/konrad_magi.json"
+  },
+  {
+    "id": "constance_mayer",
+    "name": "Констанс Майер",
+    "path": "records/constance_mayer.json"
+  },
+  {
     "id": "constance_charpentier",
     "name": "Констанс Шарпантье",
     "path": "records/constance_charpentier.json"
@@ -473,30 +498,5 @@
     "id": "margit_anna",
     "name": "Маргит Анна",
     "path": "records/margit_anna.json"
-  },
-  {
-    "id": "marie_van_regteren_altena",
-    "name": "Мари ван Регтерен Алтена",
-    "path": "records/marie_van_regteren_altena.json"
-  },
-  {
-    "id": "marie_de_bievre",
-    "name": "Мари де Бьевр",
-    "path": "records/marie_de_bievre.json"
-  },
-  {
-    "id": "marie_cazin",
-    "name": "Мари Казен",
-    "path": "records/marie_cazin.json"
-  },
-  {
-    "id": "marie_collart",
-    "name": "Мари Коллар",
-    "path": "records/marie_collart.json"
-  },
-  {
-    "id": "marie_kroyer",
-    "name": "Мари Крёйер",
-    "path": "records/marie_kroyer.json"
   }
 ]

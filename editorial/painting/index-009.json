@@ -1,5 +1,50 @@
 [
   {
+    "id": "frantisek_kupka",
+    "name": "Франтишек Купка",
+    "path": "records/frantisek_kupka.json"
+  },
+  {
+    "id": "franz_wiegele",
+    "name": "Франц Вигеле",
+    "path": "records/franz_wiegele.json"
+  },
+  {
+    "id": "franz_marc",
+    "name": "Франц Марк",
+    "path": "records/franz_marc.json"
+  },
+  {
+    "id": "francesco_bonsignori",
+    "name": "Франческо Бонсиньори",
+    "path": "records/francesco_bonsignori.json"
+  },
+  {
+    "id": "francesco_guardi",
+    "name": "Франческо Гварди",
+    "path": "records/francesco_guardi.json"
+  },
+  {
+    "id": "francesco_de_mura",
+    "name": "Франческо де Мура",
+    "path": "records/francesco_de_mura.json"
+  },
+  {
+    "id": "francesco_del_cossa",
+    "name": "Франческо дель Косса",
+    "path": "records/francesco_del_cossa.json"
+  },
+  {
+    "id": "francesco_curradi",
+    "name": "Франческо Курради",
+    "path": "records/francesco_curradi.json"
+  },
+  {
+    "id": "francesco_melzi",
+    "name": "Франческо Мельци",
+    "path": "records/francesco_melzi.json"
+  },
+  {
     "id": "francesco_pesellino",
     "name": "Франческо Пезеллино",
     "path": "records/francesco_pesellino.json"
@@ -453,50 +498,5 @@
     "id": "egbert_van_der_poel",
     "name": "Эгберт ван дер Пул",
     "path": "records/egbert_van_der_poel.json"
-  },
-  {
-    "id": "eglon_hendrik_van_der_neer",
-    "name": "Эглон Хендрик ван дер Нер",
-    "path": "records/eglon_hendrik_van_der_neer.json"
-  },
-  {
-    "id": "schiele",
-    "name": "Эгон Шиле",
-    "path": "records/schiele.json"
-  },
-  {
-    "id": "edvard_westman",
-    "name": "Эдвард Вестман",
-    "path": "records/edvard_westman.json"
-  },
-  {
-    "id": "munch",
-    "name": "Эдвард Мунк",
-    "path": "records/munch.json"
-  },
-  {
-    "id": "edward_rosenberg",
-    "name": "Эдвард Розенберг",
-    "path": "records/edward_rosenberg.json"
-  },
-  {
-    "id": "hopper",
-    "name": "Эдвард Хоппер",
-    "path": "records/hopper.json"
-  },
-  {
-    "id": "degas",
-    "name": "Эдгар Дега",
-    "path": "records/degas.json"
-  },
-  {
-    "id": "odon_marffy",
-    "name": "Эдён Марффи",
-    "path": "records/odon_marffy.json"
-  },
-  {
-    "id": "edith_collier",
-    "name": "Эдит Коллиер",
-    "path": "records/edith_collier.json"
   }
 ]

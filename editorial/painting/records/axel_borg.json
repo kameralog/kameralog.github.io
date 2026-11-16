@@ -1,0 +1,49 @@
+{
+  "id": "axel_borg",
+  "name": "Аксель Борг",
+  "latin": "Axel Borg",
+  "life": "1847–1916",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. В этой карточке представлен произведением «Gycklare med apa», для которого Commons указывает масло на холсте и размер 90,5 × 65 см.",
+      "Репродукция связана с аукционной записью Bukowskis. Точный год и нынешнее собрание в прочитанном паспорте отсутствуют; эти пробелы не заполнены предположениями."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "90,5 × 65 см"
+    ],
+    "innovation": "Учебная связь: Репродукция связана с аукционной записью Bukowskis. Точный год и нынешнее собрание в прочитанном паспорте отсутствуют; эти пробелы не заполнены предположениями.",
+    "caution": "Commons даёт только границу «до 1917», а не точный год. Источник файла — Bukowskis 571/38, не другая аукционная запись с тем же названием. Аукцион не выдан за нынешнее место хранения. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Axel_Borg_-_Gycklare_med_apa.jpg"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-001.json"
+    },
+    {
+      "title": "Bukowskis: источник файла",
+      "url": "https://www.bukowskis.com/sv/auctions/571/38"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_30094554",
+      "title": "Шут с обезьяной",
+      "date": "До 1917; точный год не установлен",
+      "museum": "Нынешнее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Axel_Borg_-_Gycklare_med_apa.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

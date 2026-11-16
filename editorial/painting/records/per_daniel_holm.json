@@ -1,0 +1,49 @@
+{
+  "id": "per_daniel_holm",
+  "name": "Пер Даниэль Хольм",
+  "latin": "Per Daniel Holm",
+  "life": "1835–1903",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Для карточки выбран горный пейзаж 1871 года, в названии которого указаны олени и саамы.",
+      "Картина учтена в Nationalmuseum под номером NM 6593. В прочитанной выписке Commons нет развёрнутого паспорта материала и размеров, поэтому эти поля не заполнены данными похожего произведения."
+    ],
+    "technique": [
+      "Живопись; материал и основа не подтверждены прочитанным паспортом",
+      "Физические размеры не подтверждены"
+    ],
+    "innovation": "Учебная связь: Картина учтена в Nationalmuseum под номером NM 6593. В прочитанной выписке Commons нет развёрнутого паспорта материала и размеров, поэтому эти поля не заполнены данными похожего произведения.",
+    "caution": "Выбрана работа NM 6593 1871 года, не другой лапландский пейзаж и не «Саггат». Неопределённость материала и физических размеров сохранена. image и zoom — один оригинал 1000 × 657. Изображение саамов сторонним художником не выдаётся за самоописание саамской культуры. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-009.json"
+    },
+    {
+      "title": "Nationalmuseum: название и объект",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/23642/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_103391998",
+      "title": "Лапландский горный пейзаж с оленями и саамами",
+      "date": "1871; по Commons",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Per_Daniel_Holm_-_Laponian_Landscape_with_Reindeer_and_Sami_-_NM_6593_-_Nationalmuseum.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

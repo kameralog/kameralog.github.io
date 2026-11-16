@@ -1,0 +1,45 @@
+{
+  "id": "axel_kulle",
+  "name": "Аксель Кулле",
+  "latin": "Axel Kulle",
+  "life": "1846–1908",
+  "tag": "Швеция · живопись XIX века",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-160.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец. Выбранная работа датирована 1884 годом; подпись, воспроизведённая в паспорте, называет Arilds läge.",
+      "Картина F 63 находится в Гётеборгском художественном музее. Источник указывает масло на панели, а не на холсте, и поступление по завещанию Понтуса и Гётильды Фюрстенберг в 1902 году."
+    ],
+    "technique": [
+      "Масло на панели; по паспорту Commons",
+      "46 × 37,5 см; рама указана отдельно"
+    ],
+    "innovation": "Учебная связь: Картина F 63 находится в Гётеборгском художественном музее. Источник указывает масло на панели, а не на холсте, и поступление по завещанию Понтуса и Гётильды Фюрстенберг в 1902 году.",
+    "caution": "Фотография имеет CC BY 4.0 и обязательный кредит музея и Hossein Sehatlou; возраст картины не заменяет лицензию снимка. В паспорте приведена подпись «AXEL. KULLE. Arilds läge 1884.». Размер рамы не подменяет размер работы. Русское название — редакционный перевод. Независимый визуальный осмотр, идентификация по самому изображению и полнота композиции не проверены. Правовой статус передан по конкретному файлу и указанным источникам; различия юрисдикций не исключены.",
+    "editorialStatus": "DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_BROWSER_CHECKED_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл, метаданные и права",
+      "url": "https://commons.wikimedia.org/wiki/File:Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif"
+    },
+    {
+      "title": "Полная выписка Playwright и аудит кандидата",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/dc8276bd3d8a20903ebef260d46a8f63460e6624/reports/painting-browser/160/row-002.json"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting160_commons_112968680",
+      "title": "Рыбачка из Сконе",
+      "date": "1884",
+      "museum": "Göteborgs konstmuseum",
+      "source": "https://commons.wikimedia.org/wiki/File:Fishergirl_from_Sk%C3%A5ne_%28Henrik_Axel_Kulle%29_-_Gothenburg_Museum_of_Art_-_F_63.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}
