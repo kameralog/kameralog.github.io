@@ -1,0 +1,33 @@
+{
+  "auditSnapshot": "282c9bd3ada8fa61f2a76ea6d777dba6f0870f62",
+  "auditWorkflowCommit": "282c9bd3ada8fa61f2a76ea6d777dba6f0870f62",
+  "auditWorkflowRunId": "44294294960",
+  "manifest": "tools/painting-browser/batch-162-candidates.json",
+  "manifestSha256": "ad0c676c7797df70fad0cb0d43f1a277f44828432187298df0e716c8ff360577",
+  "manifestBlob": "f2ae8d726283cfcf7a1eee48bdeda3d139025d01",
+  "browserRunId": "44294095796",
+  "browserArchive": "reports/painting-browser/runs/44294095796-1",
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserEvidencePath": "reports/painting-browser/runs/44294095796-1/row-007.json",
+  "id": "gustaf_lundberg_tessin",
+  "candidateArtistId": "gustaf_lundberg",
+  "candidateNames": [
+    "Gustaf Lundberg",
+    "Густаф Лундберг"
+  ],
+  "inputFile": "File:Count Carl Gustaf Tessin. Pendant to NMB 127 (Gustaf Lundberg) - Nationalmuseum - 24067.tif",
+  "canonicalFile": "File:Count Carl Gustaf Tessin. Pendant to NMB 127 (Gustaf Lundberg) - Nationalmuseum - 24067.tif",
+  "pageid": 52119033,
+  "browserIndex": 7,
+  "browserStatus": "passed",
+  "proposedWorkKey": "painting162_commons_52119033",
+  "keyCollision": false,
+  "existingArtistMatches": [],
+  "existingSourceMatches": [],
+  "otherCandidateMatches": [],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}

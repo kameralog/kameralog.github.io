@@ -1,0 +1,33 @@
+{
+  "auditSnapshot": "282c9bd3ada8fa61f2a76ea6d777dba6f0870f62",
+  "auditWorkflowCommit": "282c9bd3ada8fa61f2a76ea6d777dba6f0870f62",
+  "auditWorkflowRunId": "44294294960",
+  "manifest": "tools/painting-browser/batch-162-candidates.json",
+  "manifestSha256": "ad0c676c7797df70fad0cb0d43f1a277f44828432187298df0e716c8ff360577",
+  "manifestBlob": "f2ae8d726283cfcf7a1eee48bdeda3d139025d01",
+  "browserRunId": "44294095796",
+  "browserArchive": "reports/painting-browser/runs/44294095796-1",
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserEvidencePath": "reports/painting-browser/runs/44294095796-1/row-018.json",
+  "id": "carl_peter_mazer_kyakhta",
+  "candidateArtistId": "carl_peter_mazer",
+  "candidateNames": [
+    "Carl Peter Mazer",
+    "Карл Петер Мазер"
+  ],
+  "inputFile": "File:Chinese Trader in Kyakhta (Russia) (Carl Peter Mazer) - Gothenburg Museum of Art - GKM 2136.tif",
+  "canonicalFile": "File:Chinese Trader in Kyakhta (Russia) (Carl Peter Mazer) - Gothenburg Museum of Art - GKM 2136.tif",
+  "pageid": 112970455,
+  "browserIndex": 18,
+  "browserStatus": "passed",
+  "proposedWorkKey": "painting162_commons_112970455",
+  "keyCollision": false,
+  "existingArtistMatches": [],
+  "existingSourceMatches": [],
+  "otherCandidateMatches": [],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "readyToCommit": false
+}
