@@ -1,0 +1,53 @@
+{
+  "id": "per_sodermark",
+  "name": "Пер Сёдермарк",
+  "latin": "Per Södermark",
+  "life": "1822–1889",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец. В батче представлен портретом Кристоффера Эйхгорна, датированным 1889 годом.",
+      "Произведение числится в собрании Nationalmuseum, отдел Gripsholm, под номером NMGrh 1738. Имя и годы жизни изображённого человека отделены от биографии художника."
+    ],
+    "technique": [
+      "Масло; основа в прочитанном паспорте не указана",
+      "70 × 57 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Произведение числится в собрании Nationalmuseum, отдел Gripsholm, под номером NMGrh 1738. Имя и годы жизни изображённого человека отделены от биографии художника.",
+    "caution": "1837–1889 в заголовке — годы жизни модели. Дата портрета — 1889. Материал Olja не уточняется до холста; автора не смешивать с Олофом Йоханом Сёдермарком. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Kristoffer_Eichhorn%2C_1837-1889_%28Per_S%C3%B6dermark%29_-_Nationalmuseum_-_39791.tif"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-008.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-008.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/39791/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_64077159",
+      "title": "Кристоффер Эйхгорн",
+      "date": "1889",
+      "museum": "Nationalmuseum / Gripsholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Kristoffer_Eichhorn%2C_1837-1889_%28Per_S%C3%B6dermark%29_-_Nationalmuseum_-_39791.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

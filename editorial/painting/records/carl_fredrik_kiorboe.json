@@ -1,0 +1,53 @@
+{
+  "id": "carl_fredrik_kiorboe",
+  "name": "Карл Фредрик Кьёрбу",
+  "latin": "Carl Fredrik Kiörboe",
+  "life": "1799–1876",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Музей классифицирует выбранную работу как охотничью сцену, этюд животных и лесной интерьер.",
+      "Паспорт NG.M.00231 даёт предположительную дату 1863, масло на холсте и размер 116,5 × 90,5 см. Формы Kiörboe и Kiørboe относятся здесь к одному художнику, а не к разным карточкам."
+    ],
+    "technique": [
+      "Масло на холсте; по Nasjonalmuseet",
+      "116,5 × 90,5 см; по Nasjonalmuseet; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Паспорт NG.M.00231 даёт предположительную дату 1863, масло на холсте и размер 116,5 × 90,5 см. Формы Kiörboe и Kiørboe относятся здесь к одному художнику, а не к разным карточкам.",
+    "caution": "Commons указывает 1863 без оговорки, музей — Antagelig 1863; сохранена осторожная музейная датировка. Полный шаблон содержит CC BY 4.0 наряду с PD старого произведения. Фотокредит музея не является визуальным подтверждением идентичности снимка. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-015.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-015.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00231"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_97998022",
+      "title": "Охота на лис",
+      "date": "Предположительно 1863",
+      "museum": "Nasjonalmuseet, Norway",
+      "source": "https://commons.wikimedia.org/wiki/File:Carl_Fredrik_Ki%C3%B8rboe_-_Revejakt_-_NG.M.00231_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

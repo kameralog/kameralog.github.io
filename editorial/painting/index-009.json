@@ -1,5 +1,100 @@
 [
   {
+    "id": "filippino_lippi",
+    "name": "Филиппино Липпи",
+    "path": "records/filippino_lippi.json"
+  },
+  {
+    "id": "philips_wouwerman",
+    "name": "Филипс Вауверман",
+    "path": "records/philips_wouwerman.json"
+  },
+  {
+    "id": "philips_koninck",
+    "name": "Филипс Конинк",
+    "path": "records/philips_koninck.json"
+  },
+  {
+    "id": "florence_carlyle",
+    "name": "Флоренс Карлайл",
+    "path": "records/florence_carlyle.json"
+  },
+  {
+    "id": "florence_helena_mcgillivray",
+    "name": "Флоренс Хелена Макгилливрей",
+    "path": "records/florence_helena_mcgillivray.json"
+  },
+  {
+    "id": "floris_van_dijck",
+    "name": "Флорис ван Дейк",
+    "path": "records/floris_van_dijck.json"
+  },
+  {
+    "id": "floris_van_schooten",
+    "name": "Флорис ван Схотен",
+    "path": "records/floris_van_schooten.json"
+  },
+  {
+    "id": "fra_angelico",
+    "name": "Фра Анджелико",
+    "path": "records/fra_angelico.json"
+  },
+  {
+    "id": "fra_bartolomeo",
+    "name": "Фра Бартоломео",
+    "path": "records/fra_bartolomeo.json"
+  },
+  {
+    "id": "fra_filippo_lippi",
+    "name": "Фра Филиппо Липпи",
+    "path": "records/fra_filippo_lippi.json"
+  },
+  {
+    "id": "frank_buchser",
+    "name": "Франк Бухзер",
+    "path": "records/frank_buchser.json"
+  },
+  {
+    "id": "frans_van_cuyck_de_myerhop",
+    "name": "Франс ван Кёйк де Мейерхоп",
+    "path": "records/frans_van_cuyck_de_myerhop.json"
+  },
+  {
+    "id": "frans_van_mieris_the_elder",
+    "name": "Франс ван Мирис Старший",
+    "path": "records/frans_van_mieris_the_elder.json"
+  },
+  {
+    "id": "hals",
+    "name": "Франс Халс",
+    "path": "records/hals.json"
+  },
+  {
+    "id": "francisco_goya",
+    "name": "Франсиско Гойя",
+    "path": "records/francisco_goya.json"
+  },
+  {
+    "id": "francois_boucher",
+    "name": "Франсуа Буше",
+    "path": "records/francois_boucher.json"
+  },
+  {
+    "id": "francois_diday",
+    "name": "Франсуа Диде",
+    "path": "records/francois_diday.json"
+  },
+  {
+    "id": "francois_hubert_drouais",
+    "name": "Франсуа-Юбер Друэ",
+    "path": "records/francois_hubert_drouais.json"
+  },
+  {
+    "id": "frantisek_zenisek",
+    "name": "Франтишек Женишек",
+    "path": "records/frantisek_zenisek.json"
+  },
+  {
     "id": "frantisek_kupka",
     "name": "Франтишек Купка",
     "path": "records/frantisek_kupka.json"
@@ -118,6 +213,11 @@
     "id": "fredrik_ahlstedt",
     "name": "Фредрик Альштедт",
     "path": "records/fredrik_ahlstedt.json"
+  },
+  {
+    "id": "fredric_westin",
+    "name": "Фредрик Вестин",
+    "path": "records/fredric_westin.json"
   },
   {
     "id": "kahlo",
@@ -398,105 +498,5 @@
     "id": "cecco_bravo",
     "name": "Чекко Браво",
     "path": "records/cecco_bravo.json"
-  },
-  {
-    "id": "zhao_mengfu",
-    "name": "Чжао Мэнфу",
-    "path": "records/zhao_mengfu.json"
-  },
-  {
-    "id": "zhou_fang",
-    "name": "Чжоу Фан",
-    "path": "records/zhou_fang.json"
-  },
-  {
-    "id": "cima_da_conegliano",
-    "name": "Чима да Конельяно",
-    "path": "records/cima_da_conegliano.json"
-  },
-  {
-    "id": "cimabue",
-    "name": "Чимабуэ",
-    "path": "records/cimabue.json"
-  },
-  {
-    "id": "jeong_seon",
-    "name": "Чон Сон",
-    "path": "records/jeong_seon.json"
-  },
-  {
-    "id": "chen_hongshou",
-    "name": "Чэнь Хуншоу",
-    "path": "records/chen_hongshou.json"
-  },
-  {
-    "id": "sandor_bortnyik",
-    "name": "Шандор Бортник",
-    "path": "records/sandor_bortnyik.json"
-  },
-  {
-    "id": "sandor_ziffer",
-    "name": "Шандор Зиффер",
-    "path": "records/sandor_ziffer.json"
-  },
-  {
-    "id": "charles_de_la_fosse",
-    "name": "Шарль де Лафосс",
-    "path": "records/charles_de_la_fosse.json"
-  },
-  {
-    "id": "charles_giron",
-    "name": "Шарль Жирон",
-    "path": "records/charles_giron.json"
-  },
-  {
-    "id": "charles_le_brun",
-    "name": "Шарль Лебрен",
-    "path": "records/charles_le_brun.json"
-  },
-  {
-    "id": "charles_l_eplattenier",
-    "name": "Шарль Леплатенье",
-    "path": "records/charles_l_eplattenier.json"
-  },
-  {
-    "id": "charles_meynier",
-    "name": "Шарль Мейнье",
-    "path": "records/charles_meynier.json"
-  },
-  {
-    "id": "shaikh_zainuddin",
-    "name": "Шейх Зайн-уд-Дин",
-    "path": "records/shaikh_zainuddin.json"
-  },
-  {
-    "id": "sheikh_taju",
-    "name": "Шейх Таджу",
-    "path": "records/sheikh_taju.json"
-  },
-  {
-    "id": "simon_hollosy",
-    "name": "Шимон Холлоши",
-    "path": "records/simon_hollosy.json"
-  },
-  {
-    "id": "shitao",
-    "name": "Шитао",
-    "path": "records/shitao.json"
-  },
-  {
-    "id": "shen_zhou",
-    "name": "Шэнь Чжоу",
-    "path": "records/shen_zhou.json"
-  },
-  {
-    "id": "evelyn_de_morgan",
-    "name": "Эвелин де Морган",
-    "path": "records/evelyn_de_morgan.json"
-  },
-  {
-    "id": "egbert_van_der_poel",
-    "name": "Эгберт ван дер Пул",
-    "path": "records/egbert_van_der_poel.json"
   }
 ]

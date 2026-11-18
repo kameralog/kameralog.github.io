@@ -1,5 +1,30 @@
 [
   {
+    "id": "imre_amos",
+    "name": "Имре Амош",
+    "path": "records/imre_amos.json"
+  },
+  {
+    "id": "imre_revesz",
+    "name": "Имре Ревес",
+    "path": "records/imre_revesz.json"
+  },
+  {
+    "id": "johann_koerbecke",
+    "name": "Иоганн Кёрбеке",
+    "path": "records/johann_koerbecke.json"
+  },
+  {
+    "id": "johann_peter_krafft",
+    "name": "Иоганн Петер Крафт",
+    "path": "records/johann_peter_krafft.json"
+  },
+  {
+    "id": "levitan",
+    "name": "Исаак Левитан",
+    "path": "records/levitan.json"
+  },
+  {
     "id": "isack_van_ostade",
     "name": "Исак ван Остаде",
     "path": "records/isack_van_ostade.json"
@@ -150,6 +175,11 @@
     "path": "records/johan_vilhelm_gertner.json"
   },
   {
+    "id": "johan_gustaf_sandberg",
+    "name": "Йохан Густаф Сандберг",
+    "path": "records/johan_gustaf_sandberg.json"
+  },
+  {
     "id": "john_kindborg",
     "name": "Йохан Киндборг",
     "path": "records/john_kindborg.json"
@@ -185,6 +215,11 @@
     "path": "records/johan_rohde.json"
   },
   {
+    "id": "johan_sevenbom",
+    "name": "Йохан Севенбом",
+    "path": "records/johan_sevenbom.json"
+  },
+  {
     "id": "johan_tiren",
     "name": "Йохан Тирен",
     "path": "records/johan_tiren.json"
@@ -193,6 +228,11 @@
     "id": "johan_thomas_lundbye",
     "name": "Йохан Томас Лундбю",
     "path": "records/johan_thomas_lundbye.json"
+  },
+  {
+    "id": "johan_fredrik_hockert",
+    "name": "Йохан Фредрик Хёккерт",
+    "path": "records/johan_fredrik_hockert.json"
   },
   {
     "id": "johan_fredrik_eckersberg",
@@ -285,6 +325,16 @@
     "path": "records/carl_bloch.json"
   },
   {
+    "id": "carl_wahlbom",
+    "name": "Карл Вальбом",
+    "path": "records/carl_wahlbom.json"
+  },
+  {
+    "id": "carl_gustaf_plagemann",
+    "name": "Карл Густаф Плагеман",
+    "path": "records/carl_gustaf_plagemann.json"
+  },
+  {
     "id": "carl_gustaf_hellqvist",
     "name": "Карл Густаф Хелльквист",
     "path": "records/carl_gustaf_hellqvist.json"
@@ -293,6 +343,11 @@
     "id": "karl_isakson",
     "name": "Карл Исаксон",
     "path": "records/karl_isakson.json"
+  },
+  {
+    "id": "carl_johan_fahlcrantz",
+    "name": "Карл Йохан Фалькранц",
+    "path": "records/carl_johan_fahlcrantz.json"
   },
   {
     "id": "carl_larsson",
@@ -328,6 +383,21 @@
     "id": "carl_skanberg",
     "name": "Карл Сконберг",
     "path": "records/carl_skanberg.json"
+  },
+  {
+    "id": "carl_stefan_bennet",
+    "name": "Карл Стефан Беннет",
+    "path": "records/carl_stefan_bennet.json"
+  },
+  {
+    "id": "carl_tragardh",
+    "name": "Карл Трегорд",
+    "path": "records/carl_tragardh.json"
+  },
+  {
+    "id": "carl_fredrik_kiorboe",
+    "name": "Карл Фредрик Кьёрбу",
+    "path": "records/carl_fredrik_kiorboe.json"
   },
   {
     "id": "carl_fredrik_hill",
@@ -428,75 +498,5 @@
     "id": "caterino_veneziano",
     "name": "Катерино Венециано",
     "path": "records/caterino_veneziano.json"
-  },
-  {
-    "id": "quinten_massys",
-    "name": "Квентин Массейс",
-    "path": "records/quinten_massys.json"
-  },
-  {
-    "id": "quiringh_van_brekelenkam",
-    "name": "Квирин ван Брекеленкам",
-    "path": "records/quiringh_van_brekelenkam.json"
-  },
-  {
-    "id": "kate_bunce",
-    "name": "Кейт Банс",
-    "path": "records/kate_bunce.json"
-  },
-  {
-    "id": "kate_hayllar",
-    "name": "Кейт Хейллар",
-    "path": "records/kate_hayllar.json"
-  },
-  {
-    "id": "kerstin_cardon",
-    "name": "Керстин Кардон",
-    "path": "records/kerstin_cardon.json"
-  },
-  {
-    "id": "kilian_zoll",
-    "name": "Килиан Цолль",
-    "path": "records/kilian_zoll.json"
-  },
-  {
-    "id": "kim_hongdo",
-    "name": "Ким Хондо",
-    "path": "records/kim_hongdo.json"
-  },
-  {
-    "id": "kitty_kielland",
-    "name": "Китти Хьелланн",
-    "path": "records/kitty_kielland.json"
-  },
-  {
-    "id": "clara_peeters",
-    "name": "Клара Петерс",
-    "path": "records/clara_peeters.json"
-  },
-  {
-    "id": "clara_southern",
-    "name": "Клара Саутерн",
-    "path": "records/clara_southern.json"
-  },
-  {
-    "id": "claude_lorrain",
-    "name": "Клод Лоррен",
-    "path": "records/claude_lorrain.json"
-  },
-  {
-    "id": "monet",
-    "name": "Клод Моне",
-    "path": "records/monet.json"
-  },
-  {
-    "id": "coba_ritsema",
-    "name": "Коба Ритсема",
-    "path": "records/coba_ritsema.json"
-  },
-  {
-    "id": "coba_surie",
-    "name": "Коба Сюри",
-    "path": "records/coba_surie.json"
   }
 ]

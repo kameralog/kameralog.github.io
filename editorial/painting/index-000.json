@@ -110,6 +110,11 @@
     "path": "records/axel_kulle.json"
   },
   {
+    "id": "axel_nordgren",
+    "name": "Аксель Нордгрен",
+    "path": "records/axel_nordgren.json"
+  },
+  {
     "id": "axel_haartman",
     "name": "Аксель Хаартман",
     "path": "records/axel_haartman.json"
@@ -493,10 +498,5 @@
     "id": "anton_domenico_gabbiani",
     "name": "Антон Доменико Габбиани",
     "path": "records/anton_domenico_gabbiani.json"
-  },
-  {
-    "id": "anton_kolig",
-    "name": "Антон Колиг",
-    "path": "records/anton_kolig.json"
   }
 ]

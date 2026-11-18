@@ -1,0 +1,53 @@
+{
+  "id": "nils_blommer",
+  "name": "Нильс Бломмер",
+  "latin": "Nils Blommér",
+  "life": "1816–1853",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, обращавшийся к северной мифологии и фольклору. Описание Commons связывает его поездку 1847 года через Германию с интересом к образам Морица фон Швинда.",
+      "Согласно описанию источника, картина создана в Париже в 1850 году для задуманного цикла времён года и представляла весну. Эти сведения не означают, что весь цикл был завершён."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "115 × 143 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Согласно описанию источника, картина создана в Париже в 1850 году для задуманного цикла времён года и представляла весну. Эти сведения не означают, что весь цикл был завершён.",
+    "caution": "В выбранном файле и музейном паспорте — 1850, не 1852 из другого агрегатора. Разрешение 920 × 713, image и zoom совпадают. Описание источника не выдаётся за независимый визуальный анализ. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-013.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-013.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/19222/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_398138",
+      "title": "Луговые эльфы",
+      "date": "1850",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:%C3%84ngs%C3%A4lvor_-_Nils_Blomm%C3%A9r_1850.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

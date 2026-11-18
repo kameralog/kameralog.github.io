@@ -1,0 +1,53 @@
+{
+  "id": "per_wickenberg",
+  "name": "Пер Викенберг",
+  "latin": "Per Wickenberg",
+  "life": "1812–1846",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Выбран небольшой зимний пейзаж с рыболовным сюжетом, для которого паспорт указывает сложную основу: холст на панели.",
+      "Точный год работы не установлен. История владения в Commons упоминает прежнее собрание семьи Бонде в Сегершё; источник изображения — конкретная запись Bukowskis."
+    ],
+    "technique": [
+      "Масло на холсте, смонтированном на панели",
+      "22 × 31 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Точный год работы не установлен. История владения в Commons упоминает прежнее собрание семьи Бонде в Сегершё; источник изображения — конкретная запись Bukowskis.",
+    "caution": "Год 1839 из предварительной биографической галереи не перенесён: конкретный файл имеет Unknown date. Семейное собрание Бонде в Сегершё названо прежним владельцем, а аукцион — источником репродукции, не нынешним собранием. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Per_Gabriel_Wickenberg_-_Vinterfiske.jpg"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-004.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-004.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://www.bukowskis.com/auctions/S193/150-per-wickenberg-vinterfiske?locale=en"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_20267774",
+      "title": "Зимняя рыбная ловля",
+      "date": "Дата не установлена",
+      "museum": "Нынешнее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Per_Gabriel_Wickenberg_-_Vinterfiske.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

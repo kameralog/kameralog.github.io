@@ -1,0 +1,53 @@
+{
+  "id": "olof_johan_sodermark",
+  "name": "Олоф Йохан Сёдермарк",
+  "latin": "Olof Johan Södermark",
+  "life": "1790–1848",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник, скульптор и офицер. Выбранная работа 1835 года — портрет Каролины Бюглер.",
+      "Формулировка названия связывает модель со скульптором Йоханом Никласом Бюстрёмом. Она не меняет авторства картины и не превращает упомянутого скульптора в живописца этого портрета."
+    ],
+    "technique": [
+      "Живопись; точная техника и основа в выписке не уточнены",
+      "Физические размеры в прочитанной выписке не указаны; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Формулировка названия связывает модель со скульптором Йоханом Никласом Бюстрёмом. Она не меняет авторства картины и не превращает упомянутого скульптора в живописца этого портрета.",
+    "caution": "Йохан Никлас Бюстрём назван в заголовке как скульптор, для которого позировала модель, не как автор картины. image и zoom используют один оригинал 810 × 1000. Техника и размеры не заимствуются у другого портрета. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-009.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-009.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18388/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_103211932",
+      "title": "Портрет Каролины Бюглер",
+      "date": "1835; по Commons",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Olof_Johan_S%C3%B6dermark_-_Karolina_Bygler._Model_to_the_Sculptor_Johan_Niclas_Bystr%C3%B6m_-_NM_1385_-_Nationalmuseum.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

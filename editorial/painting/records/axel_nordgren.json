@@ -1,0 +1,53 @@
+{
+  "id": "axel_nordgren",
+  "name": "Аксель Нордгрен",
+  "latin": "Axel Nordgren",
+  "life": "1828–1888",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Для карточки выбран лунный пейзаж с рыбацким поселением, источник репродукции — конкретная запись Uppsala Auktionskammare.",
+      "Паспорт указывает масло на холсте, размер 81 × 108 см и только верхнюю границу датировки. Сравнение с Фалькранцем — учебная задача, не утверждение о прямой художественной зависимости."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "81 × 108 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Паспорт указывает масло на холсте, размер 81 × 108 см и только верхнюю границу датировки. Сравнение с Фалькранцем — учебная задача, не утверждение о прямой художественной зависимости.",
+    "caution": "Сохранена граница до 1879, не произвольно выбранный год. Выбрано собственное произведение Акселя, не его портрет кисти Carl Wilhelm Nordgren. Аукционный источник не назван нынешним собранием. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-018.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-018.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://www.uppsalaauktion.se/a:20150120/o:664/axel_wilhelm_nordgren"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_39151420",
+      "title": "Рыбацкий посёлок в лунном свете",
+      "date": "До 1879; по Commons",
+      "museum": "Нынешнее собрание не установлено",
+      "source": "https://commons.wikimedia.org/wiki/File:Axel_Wilhelm_Nordgren_-_Fiskel%C3%A4ge_i_m%C3%A5nsken.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

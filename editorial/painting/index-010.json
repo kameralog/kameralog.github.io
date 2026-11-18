@@ -1,5 +1,105 @@
 [
   {
+    "id": "zhao_mengfu",
+    "name": "Чжао Мэнфу",
+    "path": "records/zhao_mengfu.json"
+  },
+  {
+    "id": "zhou_fang",
+    "name": "Чжоу Фан",
+    "path": "records/zhou_fang.json"
+  },
+  {
+    "id": "cima_da_conegliano",
+    "name": "Чима да Конельяно",
+    "path": "records/cima_da_conegliano.json"
+  },
+  {
+    "id": "cimabue",
+    "name": "Чимабуэ",
+    "path": "records/cimabue.json"
+  },
+  {
+    "id": "jeong_seon",
+    "name": "Чон Сон",
+    "path": "records/jeong_seon.json"
+  },
+  {
+    "id": "chen_hongshou",
+    "name": "Чэнь Хуншоу",
+    "path": "records/chen_hongshou.json"
+  },
+  {
+    "id": "sandor_bortnyik",
+    "name": "Шандор Бортник",
+    "path": "records/sandor_bortnyik.json"
+  },
+  {
+    "id": "sandor_ziffer",
+    "name": "Шандор Зиффер",
+    "path": "records/sandor_ziffer.json"
+  },
+  {
+    "id": "charles_de_la_fosse",
+    "name": "Шарль де Лафосс",
+    "path": "records/charles_de_la_fosse.json"
+  },
+  {
+    "id": "charles_giron",
+    "name": "Шарль Жирон",
+    "path": "records/charles_giron.json"
+  },
+  {
+    "id": "charles_le_brun",
+    "name": "Шарль Лебрен",
+    "path": "records/charles_le_brun.json"
+  },
+  {
+    "id": "charles_l_eplattenier",
+    "name": "Шарль Леплатенье",
+    "path": "records/charles_l_eplattenier.json"
+  },
+  {
+    "id": "charles_meynier",
+    "name": "Шарль Мейнье",
+    "path": "records/charles_meynier.json"
+  },
+  {
+    "id": "shaikh_zainuddin",
+    "name": "Шейх Зайн-уд-Дин",
+    "path": "records/shaikh_zainuddin.json"
+  },
+  {
+    "id": "sheikh_taju",
+    "name": "Шейх Таджу",
+    "path": "records/sheikh_taju.json"
+  },
+  {
+    "id": "simon_hollosy",
+    "name": "Шимон Холлоши",
+    "path": "records/simon_hollosy.json"
+  },
+  {
+    "id": "shitao",
+    "name": "Шитао",
+    "path": "records/shitao.json"
+  },
+  {
+    "id": "shen_zhou",
+    "name": "Шэнь Чжоу",
+    "path": "records/shen_zhou.json"
+  },
+  {
+    "id": "evelyn_de_morgan",
+    "name": "Эвелин де Морган",
+    "path": "records/evelyn_de_morgan.json"
+  },
+  {
+    "id": "egbert_van_der_poel",
+    "name": "Эгберт ван дер Пул",
+    "path": "records/egbert_van_der_poel.json"
+  },
+  {
     "id": "eglon_hendrik_van_der_neer",
     "name": "Эглон Хендрик ван дер Нер",
     "path": "records/eglon_hendrik_van_der_neer.json"
@@ -398,105 +498,5 @@
     "id": "jacob_cornelisz_van_oostsanen",
     "name": "Якоб Корнелис ван Остсанен",
     "path": "records/jacob_cornelisz_van_oostsanen.json"
-  },
-  {
-    "id": "jacob_ochtervelt",
-    "name": "Якоб Охтервелт",
-    "path": "records/jacob_ochtervelt.json"
-  },
-  {
-    "id": "jacob_pynas",
-    "name": "Якоб Пейнас",
-    "path": "records/jacob_pynas.json"
-  },
-  {
-    "id": "jacoba_van_heemskerck",
-    "name": "Якоба ван Хемскерк",
-    "path": "records/jacoba_van_heemskerck.json"
-  },
-  {
-    "id": "jacopo_bassano",
-    "name": "Якопо Бассано",
-    "path": "records/jacopo_bassano.json"
-  },
-  {
-    "id": "jacopo_vignali",
-    "name": "Якопо Виньяли",
-    "path": "records/jacopo_vignali.json"
-  },
-  {
-    "id": "jacopo_del_sellaio",
-    "name": "Якопо дель Селлайо",
-    "path": "records/jacopo_del_sellaio.json"
-  },
-  {
-    "id": "jacopo_chimenti",
-    "name": "Якопо Кименти",
-    "path": "records/jacopo_chimenti.json"
-  },
-  {
-    "id": "jacopo_ligozzi",
-    "name": "Якопо Лигоцци",
-    "path": "records/jacopo_ligozzi.json"
-  },
-  {
-    "id": "pontormo",
-    "name": "Якопо Понтормо",
-    "path": "records/pontormo.json"
-  },
-  {
-    "id": "jakub_schikaneder",
-    "name": "Якуб Шиканедер",
-    "path": "records/jakub_schikaneder.json"
-  },
-  {
-    "id": "jalmari_ruokokoski",
-    "name": "Ялмари Руококоски",
-    "path": "records/jalmari_ruokokoski.json"
-  },
-  {
-    "id": "hjalmar_munsterhjelm",
-    "name": "Яльмар Мунстеръельм",
-    "path": "records/hjalmar_munsterhjelm.json"
-  },
-  {
-    "id": "jan_asselijn",
-    "name": "Ян Асселейн",
-    "path": "records/jan_asselijn.json"
-  },
-  {
-    "id": "jan_both",
-    "name": "Ян Бот",
-    "path": "records/jan_both.json"
-  },
-  {
-    "id": "jan_van_goyen",
-    "name": "Ян ван Гойен",
-    "path": "records/jan_van_goyen.json"
-  },
-  {
-    "id": "jan_van_de_cappelle",
-    "name": "Ян ван де Каппелле",
-    "path": "records/jan_van_de_cappelle.json"
-  },
-  {
-    "id": "jan_van_den_hecke_the_elder",
-    "name": "Ян ван ден Хекке Старший",
-    "path": "records/jan_van_den_hecke_the_elder.json"
-  },
-  {
-    "id": "jan_van_der_heyden",
-    "name": "Ян ван дер Хейден",
-    "path": "records/jan_van_der_heyden.json"
-  },
-  {
-    "id": "jan_van_ravesteyn",
-    "name": "Ян ван Равестейн",
-    "path": "records/jan_van_ravesteyn.json"
-  },
-  {
-    "id": "jan_van_scorel",
-    "name": "Ян ван Скорел",
-    "path": "records/jan_van_scorel.json"
   }
 ]

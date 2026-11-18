@@ -1,5 +1,75 @@
 [
   {
+    "id": "quinten_massys",
+    "name": "Квентин Массейс",
+    "path": "records/quinten_massys.json"
+  },
+  {
+    "id": "quiringh_van_brekelenkam",
+    "name": "Квирин ван Брекеленкам",
+    "path": "records/quiringh_van_brekelenkam.json"
+  },
+  {
+    "id": "kate_bunce",
+    "name": "Кейт Банс",
+    "path": "records/kate_bunce.json"
+  },
+  {
+    "id": "kate_hayllar",
+    "name": "Кейт Хейллар",
+    "path": "records/kate_hayllar.json"
+  },
+  {
+    "id": "kerstin_cardon",
+    "name": "Керстин Кардон",
+    "path": "records/kerstin_cardon.json"
+  },
+  {
+    "id": "kilian_zoll",
+    "name": "Килиан Цолль",
+    "path": "records/kilian_zoll.json"
+  },
+  {
+    "id": "kim_hongdo",
+    "name": "Ким Хондо",
+    "path": "records/kim_hongdo.json"
+  },
+  {
+    "id": "kitty_kielland",
+    "name": "Китти Хьелланн",
+    "path": "records/kitty_kielland.json"
+  },
+  {
+    "id": "clara_peeters",
+    "name": "Клара Петерс",
+    "path": "records/clara_peeters.json"
+  },
+  {
+    "id": "clara_southern",
+    "name": "Клара Саутерн",
+    "path": "records/clara_southern.json"
+  },
+  {
+    "id": "claude_lorrain",
+    "name": "Клод Лоррен",
+    "path": "records/claude_lorrain.json"
+  },
+  {
+    "id": "monet",
+    "name": "Клод Моне",
+    "path": "records/monet.json"
+  },
+  {
+    "id": "coba_ritsema",
+    "name": "Коба Ритсема",
+    "path": "records/coba_ritsema.json"
+  },
+  {
+    "id": "coba_surie",
+    "name": "Коба Сюри",
+    "path": "records/coba_surie.json"
+  },
+  {
     "id": "cosimo_tura",
     "name": "Козимо Тура",
     "path": "records/cosimo_tura.json"
@@ -428,75 +498,5 @@
     "id": "magnus_von_wright",
     "name": "Магнус фон Вригт",
     "path": "records/magnus_von_wright.json"
-  },
-  {
-    "id": "magnus_enckell",
-    "name": "Магнус Энкель",
-    "path": "records/magnus_enckell.json"
-  },
-  {
-    "id": "madeleine_lemaire",
-    "name": "Мадлен Лемер",
-    "path": "records/madeleine_lemaire.json"
-  },
-  {
-    "id": "masaccio",
-    "name": "Мазаччо",
-    "path": "records/masaccio.json"
-  },
-  {
-    "id": "max_buri",
-    "name": "Макс Бури",
-    "path": "records/max_buri.json"
-  },
-  {
-    "id": "max_svabinsky",
-    "name": "Макс Швабинский",
-    "path": "records/max_svabinsky.json"
-  },
-  {
-    "id": "ernst",
-    "name": "Макс Эрнст",
-    "path": "records/ernst.json"
-  },
-  {
-    "id": "manaku",
-    "name": "Манаку",
-    "path": "records/manaku.json"
-  },
-  {
-    "id": "manuel_panselinos",
-    "name": "Мануил Панселин",
-    "path": "records/manuel_panselinos.json"
-  },
-  {
-    "id": "margaret_stoddart",
-    "name": "Маргарет Стоддарт",
-    "path": "records/margaret_stoddart.json"
-  },
-  {
-    "id": "margaretha_roosenboom",
-    "name": "Маргарета Розенбом",
-    "path": "records/margaretha_roosenboom.json"
-  },
-  {
-    "id": "margaretta_angelica_peale",
-    "name": "Маргаретта Анжелика Пил",
-    "path": "records/margaretta_angelica_peale.json"
-  },
-  {
-    "id": "marguerite_verboeckhoven",
-    "name": "Маргерит Вербукховен",
-    "path": "records/marguerite_verboeckhoven.json"
-  },
-  {
-    "id": "marguerite_gerard",
-    "name": "Маргерит Жерар",
-    "path": "records/marguerite_gerard.json"
-  },
-  {
-    "id": "margit_anna",
-    "name": "Маргит Анна",
-    "path": "records/margit_anna.json"
   }
 ]

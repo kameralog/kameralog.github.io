@@ -1,0 +1,53 @@
+{
+  "id": "johan_gustaf_sandberg",
+  "name": "Йохан Густаф Сандберг",
+  "latin": "Johan Gustaf Sandberg",
+  "life": "1782–1854",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Музейное описание связывает выбранную картину 1836 года с образом Густава Вазы как национального героя.",
+      "Сандберг исполнил этот сюжет также в виде большой фрески в Уппсальском соборе. Здесь рассматривается отдельная масляная картина NM 2451; носитель и размер другой версии не переносятся."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "48,5 × 73,5 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Сандберг исполнил этот сюжет также в виде большой фрески в Уппсальском соборе. Здесь рассматривается отдельная масляная картина NM 2451; носитель и размер другой версии не переносятся.",
+    "caution": "1520 — время изображённого события; 1836 — дата живописи. Выбрана масляная картина, не фреска того же сюжета в Уппсальском соборе. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:King_Gustav_Vasa_of_Sweden_Addressing_Men_from_Dalarna_in_Mora_%28Johan_Gustaf_Sandberg%29_-_Nationalmuseum_-_19512.tif"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-010.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-010.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/19512/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_52125696",
+      "title": "Густав Ваза обращается к далекарлийцам в Муре",
+      "date": "1836",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:King_Gustav_Vasa_of_Sweden_Addressing_Men_from_Dalarna_in_Mora_%28Johan_Gustaf_Sandberg%29_-_Nationalmuseum_-_19512.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

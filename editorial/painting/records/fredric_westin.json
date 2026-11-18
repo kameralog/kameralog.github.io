@@ -1,0 +1,53 @@
+{
+  "id": "fredric_westin",
+  "name": "Фредрик Вестин",
+  "latin": "Fredric Westin",
+  "life": "1782–1862",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. В карточке представлен мифологическим произведением «Amor», подписанным и датированным 1807 годом.",
+      "Полотно NM 1243 имеет размер 177 × 119 см. Оно позволяет сопоставить мифологический образ Амура с фольклорной темой картины Бломмера, сохраняя различие сюжетов."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "177 × 119 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Полотно NM 1243 имеет размер 177 × 119 см. Оно позволяет сопоставить мифологический образ Амура с фольклорной темой картины Бломмера, сохраняя различие сюжетов.",
+    "caution": "В паспорте приведена подпись F. Westin 1807. Размер рамы не подставлен вместо размера полотна. Русское название уточнено по музейному английскому заголовку Cupid Shooting an Arrow. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Cupid_%28Fredric_Westin%29_-_Nationalmuseum_-_18246.tif"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-011.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-011.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18246/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_52118807",
+      "title": "Амур, пускающий стрелу",
+      "date": "1807",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Cupid_%28Fredric_Westin%29_-_Nationalmuseum_-_18246.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

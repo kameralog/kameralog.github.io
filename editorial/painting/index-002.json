@@ -1,5 +1,15 @@
 [
   {
+    "id": "willem_van_de_velde_the_elder",
+    "name": "Виллем ван де Велде Старший",
+    "path": "records/willem_van_de_velde_the_elder.json"
+  },
+  {
+    "id": "dekooning",
+    "name": "Виллем де Кунинг",
+    "path": "records/dekooning.json"
+  },
+  {
     "id": "willem_duyster",
     "name": "Виллем Дёйстер",
     "path": "records/willem_duyster.json"
@@ -305,9 +315,24 @@
     "path": "records/gustaf_fjaestad.json"
   },
   {
+    "id": "gustaf_brusewitz",
+    "name": "Густаф Брусевиц",
+    "path": "records/gustaf_brusewitz.json"
+  },
+  {
+    "id": "gustaf_wilhelm_palm",
+    "name": "Густаф Вильхельм Пальм",
+    "path": "records/gustaf_wilhelm_palm.json"
+  },
+  {
     "id": "gustaf_rydberg",
     "name": "Густаф Рюдберг",
     "path": "records/gustaf_rydberg.json"
+  },
+  {
+    "id": "gustaf_soderberg",
+    "name": "Густаф Сёдерберг",
+    "path": "records/gustaf_soderberg.json"
   },
   {
     "id": "gustaf_cederstrom",
@@ -473,30 +498,5 @@
     "id": "giovanni_antonio_boltraffio",
     "name": "Джованни Антонио Больтраффио",
     "path": "records/giovanni_antonio_boltraffio.json"
-  },
-  {
-    "id": "giovanni_antonio_pellegrini",
-    "name": "Джованни Антонио Пеллегрини",
-    "path": "records/giovanni_antonio_pellegrini.json"
-  },
-  {
-    "id": "giovanni_antonio_pordenone",
-    "name": "Джованни Антонио Порденоне",
-    "path": "records/giovanni_antonio_pordenone.json"
-  },
-  {
-    "id": "giovanni_baglione",
-    "name": "Джованни Бальоне",
-    "path": "records/giovanni_baglione.json"
-  },
-  {
-    "id": "giovanni_battista_gaulli",
-    "name": "Джованни Баттиста Гаулли",
-    "path": "records/giovanni_battista_gaulli.json"
-  },
-  {
-    "id": "giovanni_battista_moroni",
-    "name": "Джованни Баттиста Морони",
-    "path": "records/giovanni_battista_moroni.json"
   }
 ]

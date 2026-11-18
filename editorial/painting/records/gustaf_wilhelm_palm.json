@@ -1,0 +1,53 @@
+{
+  "id": "gustaf_wilhelm_palm",
+  "name": "Густаф Вильхельм Пальм",
+  "latin": "Gustaf Wilhelm Palm",
+  "life": "1810–1890",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский пейзажист. Выбранная работа с итальянским мотивом датирована 1844 годом; в паспорте приведена подпись G.W. с изображением пальмы и названием Villa Borghese.",
+      "Картина GKM 0597 поступила в музей как дар Гёсты Френкеля в 1917 году. Дата поступления отделена от даты самой живописи."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "39,5 × 61,5 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Картина GKM 0597 поступила в музей как дар Гёсты Френкеля в 1917 году. Дата поступления отделена от даты самой живописи.",
+    "caution": "Для выбранной фотографии обязательны кредит Hossein Sehatlou и ссылка на CC BY 4.0. 1917 — год дарения музею, не дата создания. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:From_Villa_Borghese_%28Gustaf_Wilhelm_Palm%29_-_Gothenburg_Museum_of_Art_-_GKM_0597.tif"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-005.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-005.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "http://emp-web-34.zetcom.ch/eMuseumPlus?service=ExternalInterface&module=collection&objectId=8160&viewType=detailView"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_112975789",
+      "title": "Вилла Боргезе",
+      "date": "1844",
+      "museum": "Göteborgs konstmuseum",
+      "source": "https://commons.wikimedia.org/wiki/File:From_Villa_Borghese_%28Gustaf_Wilhelm_Palm%29_-_Gothenburg_Museum_of_Art_-_GKM_0597.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,5 +1,10 @@
 [
   {
+    "id": "anton_kolig",
+    "name": "Антон Колиг",
+    "path": "records/anton_kolig.json"
+  },
+  {
     "id": "anton_mahringer",
     "name": "Антон Марингер",
     "path": "records/anton_mahringer.json"
@@ -250,6 +255,11 @@
     "path": "records/bela_czobel.json"
   },
   {
+    "id": "bengt_nordenberg",
+    "name": "Бенгт Норденберг",
+    "path": "records/bengt_nordenberg.json"
+  },
+  {
     "id": "benedetto_luti",
     "name": "Бенедетто Лути",
     "path": "records/benedetto_luti.json"
@@ -488,15 +498,5 @@
     "id": "willem_van_de_velde_the_younger",
     "name": "Виллем ван де Велде Младший",
     "path": "records/willem_van_de_velde_the_younger.json"
-  },
-  {
-    "id": "willem_van_de_velde_the_elder",
-    "name": "Виллем ван де Велде Старший",
-    "path": "records/willem_van_de_velde_the_elder.json"
-  },
-  {
-    "id": "dekooning",
-    "name": "Виллем де Кунинг",
-    "path": "records/dekooning.json"
   }
 ]

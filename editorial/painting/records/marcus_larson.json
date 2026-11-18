@@ -1,0 +1,53 @@
+{
+  "id": "marcus_larson",
+  "name": "Маркус Ларсон",
+  "latin": "Marcus Larson",
+  "life": "1825–1864",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский художник. Выбранная марина подписана и датирована 1858 годом; её большой формат указан как 148 × 199 см.",
+      "Учебная линия карточки — драматический морской пейзаж и связь природной стихии с техническим объектом. Подробности конкретного происшествия не придумываются из одного названия."
+    ],
+    "technique": [
+      "Масло на холсте",
+      "148 × 199 см; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Учебная линия карточки — драматический морской пейзаж и связь природной стихии с техническим объектом. Подробности конкретного происшествия не придумываются из одного названия.",
+    "caution": "Подпись в паспорте: M Larson. 1858. Это самостоятельная выбранная работа, не совместное «Кораблекрушение» Ларсона и Килиана Цолля. Название судна в прочитанном паспорте не установлено. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Burning_Steamer_%28Marcus_Larson%29_-_Nationalmuseum_-_18217.tif"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-002.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-002.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://collection.nationalmuseum.se/en/collection/item/18217/"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_52132087",
+      "title": "Горящий пароход",
+      "date": "1858",
+      "museum": "Nationalmuseum, Stockholm",
+      "source": "https://commons.wikimedia.org/wiki/File:Burning_Steamer_%28Marcus_Larson%29_-_Nationalmuseum_-_18217.tif"
+    }
+  ],
+  "pendingWorksCount": 0
+}

@@ -1,5 +1,30 @@
 [
   {
+    "id": "giovanni_antonio_pellegrini",
+    "name": "Джованни Антонио Пеллегрини",
+    "path": "records/giovanni_antonio_pellegrini.json"
+  },
+  {
+    "id": "giovanni_antonio_pordenone",
+    "name": "Джованни Антонио Порденоне",
+    "path": "records/giovanni_antonio_pordenone.json"
+  },
+  {
+    "id": "giovanni_baglione",
+    "name": "Джованни Бальоне",
+    "path": "records/giovanni_baglione.json"
+  },
+  {
+    "id": "giovanni_battista_gaulli",
+    "name": "Джованни Баттиста Гаулли",
+    "path": "records/giovanni_battista_gaulli.json"
+  },
+  {
+    "id": "giovanni_battista_moroni",
+    "name": "Джованни Баттиста Морони",
+    "path": "records/giovanni_battista_moroni.json"
+  },
+  {
     "id": "giovanni_battista_paggi",
     "name": "Джованни Баттиста Паджи",
     "path": "records/giovanni_battista_paggi.json"
@@ -473,30 +498,5 @@
     "id": "repin",
     "name": "Илья Репин",
     "path": "records/repin.json"
-  },
-  {
-    "id": "imre_amos",
-    "name": "Имре Амош",
-    "path": "records/imre_amos.json"
-  },
-  {
-    "id": "imre_revesz",
-    "name": "Имре Ревес",
-    "path": "records/imre_revesz.json"
-  },
-  {
-    "id": "johann_koerbecke",
-    "name": "Иоганн Кёрбеке",
-    "path": "records/johann_koerbecke.json"
-  },
-  {
-    "id": "johann_peter_krafft",
-    "name": "Иоганн Петер Крафт",
-    "path": "records/johann_peter_krafft.json"
-  },
-  {
-    "id": "levitan",
-    "name": "Исаак Левитан",
-    "path": "records/levitan.json"
   }
 ]

@@ -1,5 +1,75 @@
 [
   {
+    "id": "magnus_enckell",
+    "name": "Магнус Энкель",
+    "path": "records/magnus_enckell.json"
+  },
+  {
+    "id": "madeleine_lemaire",
+    "name": "Мадлен Лемер",
+    "path": "records/madeleine_lemaire.json"
+  },
+  {
+    "id": "masaccio",
+    "name": "Мазаччо",
+    "path": "records/masaccio.json"
+  },
+  {
+    "id": "max_buri",
+    "name": "Макс Бури",
+    "path": "records/max_buri.json"
+  },
+  {
+    "id": "max_svabinsky",
+    "name": "Макс Швабинский",
+    "path": "records/max_svabinsky.json"
+  },
+  {
+    "id": "ernst",
+    "name": "Макс Эрнст",
+    "path": "records/ernst.json"
+  },
+  {
+    "id": "manaku",
+    "name": "Манаку",
+    "path": "records/manaku.json"
+  },
+  {
+    "id": "manuel_panselinos",
+    "name": "Мануил Панселин",
+    "path": "records/manuel_panselinos.json"
+  },
+  {
+    "id": "margaret_stoddart",
+    "name": "Маргарет Стоддарт",
+    "path": "records/margaret_stoddart.json"
+  },
+  {
+    "id": "margaretha_roosenboom",
+    "name": "Маргарета Розенбом",
+    "path": "records/margaretha_roosenboom.json"
+  },
+  {
+    "id": "margaretta_angelica_peale",
+    "name": "Маргаретта Анжелика Пил",
+    "path": "records/margaretta_angelica_peale.json"
+  },
+  {
+    "id": "marguerite_verboeckhoven",
+    "name": "Маргерит Вербукховен",
+    "path": "records/marguerite_verboeckhoven.json"
+  },
+  {
+    "id": "marguerite_gerard",
+    "name": "Маргерит Жерар",
+    "path": "records/marguerite_gerard.json"
+  },
+  {
+    "id": "margit_anna",
+    "name": "Маргит Анна",
+    "path": "records/margit_anna.json"
+  },
+  {
     "id": "marie_van_regteren_altena",
     "name": "Мари ван Регтерен Алтена",
     "path": "records/marie_van_regteren_altena.json"
@@ -148,6 +218,11 @@
     "id": "marco_ricci",
     "name": "Марко Риччи",
     "path": "records/marco_ricci.json"
+  },
+  {
+    "id": "marcus_larson",
+    "name": "Маркус Ларсон",
+    "path": "records/marcus_larson.json"
   },
   {
     "id": "marthe_donas",
@@ -423,80 +498,5 @@
     "id": "nicolaes_berchem",
     "name": "Николас Берхем",
     "path": "records/nicolaes_berchem.json"
-  },
-  {
-    "id": "nicolaes_gillis",
-    "name": "Николас Гиллис",
-    "path": "records/nicolaes_gillis.json"
-  },
-  {
-    "id": "nicolaes_maes",
-    "name": "Николас Мас",
-    "path": "records/nicolaes_maes.json"
-  },
-  {
-    "id": "nicolaes_moeyaert",
-    "name": "Николас Мойарт",
-    "path": "records/nicolaes_moeyaert.json"
-  },
-  {
-    "id": "nicolaes_eliasz_pickenoy",
-    "name": "Николас Элиас Пикеной",
-    "path": "records/nicolaes_eliasz_pickenoy.json"
-  },
-  {
-    "id": "nils_kreuger",
-    "name": "Нильс Крейгер",
-    "path": "records/nils_kreuger.json"
-  },
-  {
-    "id": "niels_simonsen",
-    "name": "Нильс Симонсен",
-    "path": "records/niels_simonsen.json"
-  },
-  {
-    "id": "niels_skovgaard",
-    "name": "Нильс Сковгор",
-    "path": "records/niels_skovgaard.json"
-  },
-  {
-    "id": "nils_forsberg",
-    "name": "Нильс Форсберг",
-    "path": "records/nils_forsberg.json"
-  },
-  {
-    "id": "noel_coypel",
-    "name": "Ноэль Куапель",
-    "path": "records/noel_coypel.json"
-  },
-  {
-    "id": "ogata_korin",
-    "name": "Огата Корин",
-    "path": "records/ogata_korin.json"
-  },
-  {
-    "id": "auguste_baud_bovy",
-    "name": "Огюст Бод-Бови",
-    "path": "records/auguste_baud_bovy.json"
-  },
-  {
-    "id": "nerdrum",
-    "name": "Одд Нердрум",
-    "path": "records/nerdrum.json"
-  },
-  {
-    "id": "odilon_redon",
-    "name": "Одилон Редон",
-    "path": "records/odilon_redon.json"
-  },
-  {
-    "id": "olga_wisinger_florian",
-    "name": "Ольга Визингер-Флориан",
-    "path": "records/olga_wisinger_florian.json"
-  },
-  {
-    "id": "honore_daumier",
-    "name": "Оноре Домье",
-    "path": "records/honore_daumier.json"
   }
 ]

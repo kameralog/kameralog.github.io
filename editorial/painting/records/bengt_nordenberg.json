@@ -1,0 +1,53 @@
+{
+  "id": "bengt_nordenberg",
+  "name": "Бенгт Норденберг",
+  "latin": "Bengt Nordenberg",
+  "life": "1822–1902",
+  "tag": "Швеция · живопись XVIII–XIX веков",
+  "status": "unresearched",
+  "directions": [],
+  "synopsis": "",
+  "notes": "Импорт существующей карточки. Исследовательское досье ещё не подготовлено.",
+  "sourceFile": "games/painting/artists-batch-161.js",
+  "existing": {
+    "bio": [
+      "Шведский живописец. Выбранная жанровая картина с церковным интерьером датируется 1856 годом и хранится в норвежском Nasjonalmuseet.",
+      "Независимо прочитанный музейный паспорт подтверждает масло на холсте, размер 134,5 × 173,5 см и приобретение в 1857 году. Историю предмета отделяем от изображённого обряда."
+    ],
+    "technique": [
+      "Масло на холсте; по Nasjonalmuseet",
+      "134,5 × 173,5 см; по Nasjonalmuseet; порядок размеров: высота × ширина"
+    ],
+    "innovation": "Учебная связь: Независимо прочитанный музейный паспорт подтверждает масло на холсте, размер 134,5 × 173,5 см и приобретение в 1857 году. Историю предмета отделяем от изображённого обряда.",
+    "caution": "Краткое поле Commons говорит Public domain; полный шаблон сохраняет также CC BY 4.0 для репродукции. Музей называет Børre Høstland, но соответствие снимка независимо не осмотрено. 1857 — год приобретения, не создания. Русское название — редакционный перевод. Независимые визуальная идентификация, осмотр кадрирования и полноты композиции не выполнены. Правовые сведения переданы по конкретному файлу; применимость зависит от юрисдикции. Некоторые блоки PD-old-auto в Commons содержат отдельное напоминание об основании Public Domain в США; это не скрывается утверждением об универсально свободном статусе.",
+    "editorialStatus": "LOCAL_DRAFT_METADATA_REVIEWED_WITH_LIMITATIONS_NOT_VISUALLY_REVIEWED_NOT_PUBLISHED"
+  },
+  "sources": [
+    {
+      "title": "Commons: конкретный файл и заявленные права",
+      "url": "https://commons.wikimedia.org/wiki/File:Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    },
+    {
+      "title": "Полная архивная выписка Playwright",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/4d440720104cc8cbb5c3a78e57a5532ba185d2a0/reports/painting-browser/runs/43947411903-1/row-014.json"
+    },
+    {
+      "title": "Аудит кандидата по исходному каталогу",
+      "url": "https://github.com/kameralog/kameralog.github.io/blob/6799bcf11fac4af4337bed9d7f9f260848576238/reports/painting-candidate-audits/batch-161/candidate-014.json"
+    },
+    {
+      "title": "Музей или аукцион: ссылка на объект из паспорта",
+      "url": "https://www.nasjonalmuseet.no/en/collection/object/NG.M.00216"
+    }
+  ],
+  "works": [
+    {
+      "key": "painting161_commons_98001213",
+      "title": "Причастие в шведской приходской церкви",
+      "date": "1856",
+      "museum": "Nasjonalmuseet, Norway",
+      "source": "https://commons.wikimedia.org/wiki/File:Bengt_Nordenberg_-_Celebrating_Communion_in_a_Swedish_Parish_Church_-_NG.M.00216_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg"
+    }
+  ],
+  "pendingWorksCount": 0
+}

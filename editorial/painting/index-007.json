@@ -1,5 +1,90 @@
 [
   {
+    "id": "nicolaes_gillis",
+    "name": "Николас Гиллис",
+    "path": "records/nicolaes_gillis.json"
+  },
+  {
+    "id": "nicolaes_maes",
+    "name": "Николас Мас",
+    "path": "records/nicolaes_maes.json"
+  },
+  {
+    "id": "nicolaes_moeyaert",
+    "name": "Николас Мойарт",
+    "path": "records/nicolaes_moeyaert.json"
+  },
+  {
+    "id": "nicolaes_eliasz_pickenoy",
+    "name": "Николас Элиас Пикеной",
+    "path": "records/nicolaes_eliasz_pickenoy.json"
+  },
+  {
+    "id": "nils_blommer",
+    "name": "Нильс Бломмер",
+    "path": "records/nils_blommer.json"
+  },
+  {
+    "id": "nils_kreuger",
+    "name": "Нильс Крейгер",
+    "path": "records/nils_kreuger.json"
+  },
+  {
+    "id": "niels_simonsen",
+    "name": "Нильс Симонсен",
+    "path": "records/niels_simonsen.json"
+  },
+  {
+    "id": "niels_skovgaard",
+    "name": "Нильс Сковгор",
+    "path": "records/niels_skovgaard.json"
+  },
+  {
+    "id": "nils_forsberg",
+    "name": "Нильс Форсберг",
+    "path": "records/nils_forsberg.json"
+  },
+  {
+    "id": "noel_coypel",
+    "name": "Ноэль Куапель",
+    "path": "records/noel_coypel.json"
+  },
+  {
+    "id": "ogata_korin",
+    "name": "Огата Корин",
+    "path": "records/ogata_korin.json"
+  },
+  {
+    "id": "auguste_baud_bovy",
+    "name": "Огюст Бод-Бови",
+    "path": "records/auguste_baud_bovy.json"
+  },
+  {
+    "id": "nerdrum",
+    "name": "Одд Нердрум",
+    "path": "records/nerdrum.json"
+  },
+  {
+    "id": "odilon_redon",
+    "name": "Одилон Редон",
+    "path": "records/odilon_redon.json"
+  },
+  {
+    "id": "olof_johan_sodermark",
+    "name": "Олоф Йохан Сёдермарк",
+    "path": "records/olof_johan_sodermark.json"
+  },
+  {
+    "id": "olga_wisinger_florian",
+    "name": "Ольга Визингер-Флориан",
+    "path": "records/olga_wisinger_florian.json"
+  },
+  {
+    "id": "honore_daumier",
+    "name": "Оноре Домье",
+    "path": "records/honore_daumier.json"
+  },
+  {
     "id": "orazio_borgianni",
     "name": "Орацио Борджанни",
     "path": "records/orazio_borgianni.json"
@@ -145,9 +230,19 @@
     "path": "records/pekka_halonen.json"
   },
   {
+    "id": "per_wickenberg",
+    "name": "Пер Викенберг",
+    "path": "records/per_wickenberg.json"
+  },
+  {
     "id": "per_daniel_holm",
     "name": "Пер Даниэль Хольм",
     "path": "records/per_daniel_holm.json"
+  },
+  {
+    "id": "per_sodermark",
+    "name": "Пер Сёдермарк",
+    "path": "records/per_sodermark.json"
   },
   {
     "id": "per_ekstrom",
@@ -403,100 +498,5 @@
     "id": "richard_gerstl",
     "name": "Рихард Герстль",
     "path": "records/richard_gerstl.json"
-  },
-  {
-    "id": "robert_campin",
-    "name": "Робер Кампен",
-    "path": "records/robert_campin.json"
-  },
-  {
-    "id": "robert_bereny",
-    "name": "Роберт Берень",
-    "path": "records/robert_bereny.json"
-  },
-  {
-    "id": "robert_wilhelm_ekman",
-    "name": "Роберт Вильгельм Экман",
-    "path": "records/robert_wilhelm_ekman.json"
-  },
-  {
-    "id": "rauschenberg",
-    "name": "Роберт Раушенберг",
-    "path": "records/rauschenberg.json"
-  },
-  {
-    "id": "robert_thegerstrom",
-    "name": "Роберт Тегерстрём",
-    "path": "records/robert_thegerstrom.json"
-  },
-  {
-    "id": "robert_zund",
-    "name": "Роберт Цюнд",
-    "path": "records/robert_zund.json"
-  },
-  {
-    "id": "robin_christian_andersen",
-    "name": "Робин Кристиан Андерсен",
-    "path": "records/robin_christian_andersen.json"
-  },
-  {
-    "id": "rose_adelaide_ducreux",
-    "name": "Роз-Аделаида Дюкре",
-    "path": "records/rose_adelaide_ducreux.json"
-  },
-  {
-    "id": "rosa_bonheur",
-    "name": "Роза Бонёр",
-    "path": "records/rosa_bonheur.json"
-  },
-  {
-    "id": "rosalba_carriera",
-    "name": "Розальба Каррьера",
-    "path": "records/rosalba_carriera.json"
-  },
-  {
-    "id": "lichtenstein",
-    "name": "Рой Лихтенштейн",
-    "path": "records/lichtenstein.json"
-  },
-  {
-    "id": "romans_suta",
-    "name": "Роман Сута",
-    "path": "records/romans_suta.json"
-  },
-  {
-    "id": "rhona_haszard",
-    "name": "Рона Хазард",
-    "path": "records/rhona_haszard.json"
-  },
-  {
-    "id": "rosso_fiorentino",
-    "name": "Россо Фьорентино",
-    "path": "records/rosso_fiorentino.json"
-  },
-  {
-    "id": "rudolf_von_alt",
-    "name": "Рудольф фон Альт",
-    "path": "records/rudolf_von_alt.json"
-  },
-  {
-    "id": "roelant_savery",
-    "name": "Рулант Саверей",
-    "path": "records/roelant_savery.json"
-  },
-  {
-    "id": "roelof_koets",
-    "name": "Рулоф Кутс",
-    "path": "records/roelof_koets.json"
-  },
-  {
-    "id": "salomon_koninck",
-    "name": "Саломон Конинк",
-    "path": "records/salomon_koninck.json"
-  },
-  {
-    "id": "dali",
-    "name": "Сальвадор Дали",
-    "path": "records/dali.json"
   }
 ]
