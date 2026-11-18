@@ -1,0 +1,112 @@
+{
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserRunId": "44294095796",
+  "sourceCommit": "ce0a6495b1ef04fe65d80ec28666db26a913da4c",
+  "id": "louis_jean_desprez_hogland",
+  "input": {
+    "id": "louis_jean_desprez_hogland",
+    "file": "File:La Victoire d´Hogland (Louis Jean Desprez) - Nationalmuseum - 73746.tif",
+    "candidateArtistId": "louis_jean_desprez",
+    "candidateNames": [
+      "Louis Jean Desprez",
+      "Луи Жан Депре"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif/lossy-page1-1280px-La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif/lossy-page1-1280px-La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1082,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif/lossy-page1-3840px-La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif/lossy-page1-3840px-La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 3245,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 64094529,
+    "title": "File:La Victoire d´Hogland (Louis Jean Desprez) - Nationalmuseum - 73746.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:La_Victoire_d%C2%B4Hogland_(Louis_Jean_Desprez)_-_Nationalmuseum_-_73746.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Victoire_d%C2%B4Hogland_%28Louis_Jean_Desprez%29_-_Nationalmuseum_-_73746.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 3990,
+    "height": 3372,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Louis_Jean_Desprez\" class=\"extiw\" title=\"w:en:Louis Jean Desprez\"><span title=\"French painter and architect (1743-1804)\">Louis Jean Desprez</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/en:Battle_of_Hogland\" class=\"extiw\" title=\"w:en:Battle of Hogland\"><span title=\"naval battle in 1788\">Battle of Hogland</span></a>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1794 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18573125#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=73746&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p>The author died in 1804, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n |wikidata             = Q18573125\n |description          = {{en|{{label|Q2657874}}}}{{fr|La Victoire d´Hogland}}\n |source               = {{Nationalmuseum Stockholm link|73746| Erik Cornelius / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1804}}\n}}\n\n\n[[Category:Paintings by Louis Jean Desprez in the Nationalmuseum Stockholm]]\n[[Category:1790s paintings in the Nationalmuseum Stockholm]]\n[[Category:1794 paintings from Sweden]]\n[[Category:18th-century paintings of ships]]\n[[Category:Battle of Hogland]]\n[[Category:Gustaf III (1972-1973)]]\n[[Category:Media contributed by Nationalmuseum Stockholm: 2017-11]]\n[[Category:Marine paintings in the Nationalmuseum Stockholm]]\n[[Category:1794 oil on canvas paintings in Sweden]]\n[[Category:Rosersbergs slott]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3990,
+    3372
+  ]
+}

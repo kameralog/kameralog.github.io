@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "status": "derived_evidence_not_editorially_approved",
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserRunId": "44294095796",
+  "sourceCommit": "ce0a6495b1ef04fe65d80ec28666db26a913da4c",
+  "manifest": "tools/painting-browser/batch-162-candidates.json",
+  "manifestSha256": "ad0c676c7797df70fad0cb0d43f1a277f44828432187298df0e716c8ff360577",
+  "selectionComplete": true,
+  "browserStatus": "passed_selected_targets",
+  "browserSmokePassed": true,
+  "counts": {
+    "selected": 20,
+    "completed": 20,
+    "passed": 20,
+    "failed": 0
+  },
+  "errors": [],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "rows": [
+    {
+      "id": "elias_martin_stockholm",
+      "status": "passed",
+      "pageid": 52132192,
+      "path": "reports/painting-browser/runs/44294095796-1/row-000.json"
+    },
+    {
+      "id": "pehr_hillestrom_drottningholm",
+      "status": "passed",
+      "pageid": 103290708,
+      "path": "reports/painting-browser/runs/44294095796-1/row-001.json"
+    },
+    {
+      "id": "carl_gustaf_pilo_frederik_v",
+      "status": "passed",
+      "pageid": 52120572,
+      "path": "reports/painting-browser/runs/44294095796-1/row-002.json"
+    },
+    {
+      "id": "lorens_pasch_dy_lovisa_ulrika",
+      "status": "passed",
+      "pageid": 52113252,
+      "path": "reports/painting-browser/runs/44294095796-1/row-003.json"
+    },
+    {
+      "id": "ulrika_pasch_stierneld",
+      "status": "passed",
+      "pageid": 52120518,
+      "path": "reports/painting-browser/runs/44294095796-1/row-004.json"
+    },
+    {
+      "id": "per_krafft_dy_leipzig",
+      "status": "passed",
+      "pageid": 52117473,
+      "path": "reports/painting-browser/runs/44294095796-1/row-005.json"
+    },
+    {
+      "id": "carl_fredrik_von_breda_father",
+      "status": "passed",
+      "pageid": 52111993,
+      "path": "reports/painting-browser/runs/44294095796-1/row-006.json"
+    },
+    {
+      "id": "gustaf_lundberg_tessin",
+      "status": "passed",
+      "pageid": 52119033,
+      "path": "reports/painting-browser/runs/44294095796-1/row-007.json"
+    },
+    {
+      "id": "david_klocker_ehrenstrahl_black_grouse",
+      "status": "passed",
+      "pageid": 64080164,
+      "path": "reports/painting-browser/runs/44294095796-1/row-008.json"
+    },
+    {
+      "id": "johan_henrik_scheffel_wrede",
+      "status": "passed",
+      "pageid": 52116497,
+      "path": "reports/painting-browser/runs/44294095796-1/row-009.json"
+    },
+    {
+      "id": "olof_arenius_tessin",
+      "status": "passed",
+      "pageid": 52115881,
+      "path": "reports/painting-browser/runs/44294095796-1/row-010.json"
+    },
+    {
+      "id": "johan_pasch_monkeys",
+      "status": "passed",
+      "pageid": 52130390,
+      "path": "reports/painting-browser/runs/44294095796-1/row-011.json"
+    },
+    {
+      "id": "jakob_bjorck_tessin",
+      "status": "passed",
+      "pageid": 52115851,
+      "path": "reports/painting-browser/runs/44294095796-1/row-012.json"
+    },
+    {
+      "id": "georg_engelhard_schroder_ulrika_eleonora",
+      "status": "passed",
+      "pageid": 52132952,
+      "path": "reports/painting-browser/runs/44294095796-1/row-013.json"
+    },
+    {
+      "id": "alexander_laureus_candle",
+      "status": "passed",
+      "pageid": 52115169,
+      "path": "reports/painting-browser/runs/44294095796-1/row-014.json"
+    },
+    {
+      "id": "louis_jean_desprez_hogland",
+      "status": "passed",
+      "pageid": 64094529,
+      "path": "reports/painting-browser/runs/44294095796-1/row-015.json"
+    },
+    {
+      "id": "ferdinand_von_wright_eagle_owl",
+      "status": "passed",
+      "pageid": 90597946,
+      "path": "reports/painting-browser/runs/44294095796-1/row-016.json"
+    },
+    {
+      "id": "magnus_von_wright_suopeltovuori",
+      "status": "passed",
+      "pageid": 66321068,
+      "path": "reports/painting-browser/runs/44294095796-1/row-017.json"
+    },
+    {
+      "id": "carl_peter_mazer_kyakhta",
+      "status": "passed",
+      "pageid": 112970455,
+      "path": "reports/painting-browser/runs/44294095796-1/row-018.json"
+    },
+    {
+      "id": "hildegard_thorell_tamm_children",
+      "status": "passed",
+      "pageid": 52121915,
+      "path": "reports/painting-browser/runs/44294095796-1/row-019.json"
+    }
+  ]
+}

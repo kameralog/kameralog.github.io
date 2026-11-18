@@ -1,0 +1,108 @@
+{
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserRunId": "44294095796",
+  "sourceCommit": "ce0a6495b1ef04fe65d80ec28666db26a913da4c",
+  "id": "pehr_hillestrom_drottningholm",
+  "input": {
+    "id": "pehr_hillestrom_drottningholm",
+    "file": "File:Pehr Hilleström d.ä. - Reading at Drottningholm Palace - NMDrh 751 - Nationalmuseum.jpg",
+    "candidateArtistId": "pehr_hillestrom",
+    "candidateNames": [
+      "Pehr Hilleström",
+      "Пер Хиллестрём",
+      "Pehr Hillestrom",
+      "Per Hilleström"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pehr_Hillestr%C3%B6m_d.%C3%A4._-_Reading_at_Drottningholm_Palace_-_NMDrh_751_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pehr_Hillestr%C3%B6m_d.%C3%A4._-_Reading_at_Drottningholm_Palace_-_NMDrh_751_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 634,
+      "attempt": 1,
+      "screenshot": "001-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pehr_Hillestr%C3%B6m_d.%C3%A4._-_Reading_at_Drottningholm_Palace_-_NMDrh_751_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "finalURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pehr_Hillestr%C3%B6m_d.%C3%A4._-_Reading_at_Drottningholm_Palace_-_NMDrh_751_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1000,
+      "height": 634,
+      "attempt": 1,
+      "screenshot": "001-image.png",
+      "reused": true
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 103290708,
+    "title": "File:Pehr Hilleström d.ä. - Reading at Drottningholm Palace - NMDrh 751 - Nationalmuseum.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Pehr_Hillestr%C3%B6m_d.%C3%A4._-_Reading_at_Drottningholm_Palace_-_NMDrh_751_-_Nationalmuseum.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Pehr_Hillestr%C3%B6m_d.%C3%A4._-_Reading_at_Drottningholm_Palace_-_NMDrh_751_-_Nationalmuseum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 1000,
+    "height": 634,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Pehr_Hillestr%C3%B6m\" class=\"extiw\" title=\"w:en:Pehr Hilleström\"><span title=\"Swedish artist (1732-1816)\">Pehr Hilleström</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1779 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q18574831#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=35231&amp;viewType=detailView\">Nationalmuseum</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" class=\"mw-file-description\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "=={{int:filedesc}}==\n{{Artwork}}\n\n=={{int:license-header}}==\n{{PD-Art-old-100-expired}}\n\n\n[[Category:Paintings by Pehr Hilleström]]\n[[Category:18th-century paintings in the Nationalmuseum Stockholm]]\n[[Category:1770s paintings in Sweden]]\n[[Category:1779 paintings of people]]\n[[Category:18th-century paintings of people in rooms]]\n[[Category:18th-century paintings of people with dogs]]\n[[Category:18th-century people of Sweden]]\n[[Category:Gustav III i samtida konst - Utställning till 200-årsminnet av konungens födelse (1946)]]\n[[Category:National Costume of Sweden of 1778]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    1000,
+    634
+  ]
+}

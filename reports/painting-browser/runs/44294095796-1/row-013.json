@@ -1,0 +1,109 @@
+{
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserRunId": "44294095796",
+  "sourceCommit": "ce0a6495b1ef04fe65d80ec28666db26a913da4c",
+  "id": "georg_engelhard_schroder_ulrika_eleonora",
+  "input": {
+    "id": "georg_engelhard_schroder_ulrika_eleonora",
+    "file": "File:Ulrika Eleonora d.y., 1688-1741, drottning av Sverige (Georg Engelhard Schröder) - Nationalmuseum - 16028.tif",
+    "candidateArtistId": "georg_engelhard_schroder",
+    "candidateNames": [
+      "Georg Engelhard Schröder",
+      "Георг Энгельхард Шрёдер",
+      "Georg Engelhard Schroder"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif/lossy-page1-1280px-Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif/lossy-page1-1280px-Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 2001,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif/lossy-page1-1920px-Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif/lossy-page1-1920px-Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1920,
+      "height": 3002,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 52132952,
+    "title": "File:Ulrika Eleonora d.y., 1688-1741, drottning av Sverige (Georg Engelhard Schröder) - Nationalmuseum - 16028.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Ulrika_Eleonora_d.y.,_1688-1741,_drottning_av_Sverige_(Georg_Engelhard_Schr%C3%B6der)_-_Nationalmuseum_-_16028.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ulrika_Eleonora_d.y.%2C_1688-1741%2C_drottning_av_Sverige_%28Georg_Engelhard_Schr%C3%B6der%29_-_Nationalmuseum_-_16028.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 3792,
+    "height": 5928,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Georg_Engelhard_Schr%C3%B6der\" class=\"extiw\" title=\"w:en:Georg Engelhard Schröder\"><span title=\"Swedish artist (1684-1750)\">Georg Engelhard Schröder</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "Unknown date",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=16028&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<p>The author died in 1750, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n |other_fields_1       = {{depicted person|[[:d:Q52933|Drottning Ulrika Eleonora d.y.]]|style=information field}} \n |artist               = {{Creator:Georg Engelhard Schröder}}\n |title                = {{sv|Ulrika Eleonora d.y., 1688-1741, drottning av Sverige}}\n |wikidata             = Q18587773\n |object_type          = painting\n |description          = \n |other_fields_2       = \n |date                 = {{unknown|date}}\n |medium               = {{Oil on canvas}}\n |dimensions           = {{Size|unit=cm|width=159|height=240|depth=}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |department           = {{Institution:Gripsholm Castle}}\n |inscriptions         = {{sv|Signerad: G. Schröder pinxit}}\n |accession number     = NMGrh 1359\n |place of creation    = \n |source               ={{Nationalmuseum Stockholm link|16028| Erik Cornelius / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1750}}\n |other_versions       =\n}}\n\n<!-- Metadata categories -->\n[[Category:Media contributed by Nationalmuseum Stockholm: 2016-10]]\n[[Category:18th-century portrait paintings in Gripsholms slott]]\n[[Category:Portrait paintings in the Nationalmuseum Stockholm]]\n<!-- Content categories -->\n[[Category:Portrait paintings by Georg Engelhard Schröder (Swedish royalty)]]\n[[Category:Portrait paintings of Ulrika Eleonora of Sweden]]\n[[Category:Ulrika Eleonora of Sweden in unidentified year]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3792,
+    5928
+  ]
+}

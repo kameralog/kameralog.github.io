@@ -1,0 +1,103 @@
+{
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserRunId": "44294095796",
+  "sourceCommit": "ce0a6495b1ef04fe65d80ec28666db26a913da4c",
+  "id": "magnus_von_wright_suopeltovuori",
+  "input": {
+    "id": "magnus_von_wright_suopeltovuori",
+    "file": "File:Magnus von Wright - Suopeltovuori in Haminalahti - A I 28 - Finnish National Gallery.jpg",
+    "candidateArtistId": "magnus_von_wright",
+    "candidateNames": [
+      "Magnus von Wright",
+      "Магнус фон Вригт"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg/1280px-Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg/1280px-Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1080,
+      "attempt": 1
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg/3840px-Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg/3840px-Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 3240,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 66321068,
+    "title": "File:Magnus von Wright - Suopeltovuori in Haminalahti - A I 28 - Finnish National Gallery.jpg",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/4/48/Magnus_von_Wright_-_Suopeltovuori_in_Haminalahti_-_A_I_28_-_Finnish_National_Gallery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/jpeg",
+    "width": 4000,
+    "height": 3375,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Magnus_von_Wright\" class=\"extiw\" title=\"w:en:Magnus von Wright\"><span title=\"Finnish painter and ornithologist (1805-1868)\">Magnus von Wright</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1867 <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q20792800#P571\" title=\"Edit this at Wikidata\"><img alt=\"Edit this at Wikidata\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://kokoelmat.fng.fi/app?si=A+I+28\">http://kokoelmat.fng.fi/app?si=A+I+28</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "== {{int:filedesc}} ==\n{{Artwork\n |artist             = {{Creator:Magnus von Wright}}\n |author             = \n |title              = Suopeltovuori in Haminalahti\n |description        = \n |object type        = \n |date               = \n |medium             = \n |dimensions         = \n |institution        = {{Institution:Finnish National Gallery}}\n |department         = \n |accession number   = A I 28\n |place of creation  =    \n |place of discovery =    \n |object history     = \n |exhibition history =    \n |credit line        = \n |inscriptions       = \n |notes              = \n |references         = \n |source             = http://kokoelmat.fng.fi/app?si=A+I+28\n |permission         = \n |other_versions     = \n |wikidata           = Q20792800 \n |other_fields       =  \n}}\n\n\n=={{int:license-header}}==\n{{Licensed-PD-Art|PD-old-auto-1923|Cc-zero|deathyear=1868}}\n\n[[Category:Landscape paintings in the Finnish National Gallery]]\n[[Category:1867 paintings in Finland]]\n[[Category:1867 paintings from Finland]]\n[[Category:1860s landscape paintings from Finland]]\n[[Category:Paintings by Magnus von Wright in the Finnish National Gallery]]\n[[Category:Paintings of Kuopio]]\n[[Category:Paintings of hills of Finland]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    4000,
+    3375
+  ]
+}

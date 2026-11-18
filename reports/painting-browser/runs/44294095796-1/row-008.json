@@ -1,0 +1,110 @@
+{
+  "sourceReportCommit": "a44139ee4cf3f1e63c2b73977e5cb97f3fc44ec2",
+  "sourceReportBlob": "1eb51870dbaba55d9bb6ea4a96a971fc438a1f1a",
+  "browserRunId": "44294095796",
+  "sourceCommit": "ce0a6495b1ef04fe65d80ec28666db26a913da4c",
+  "id": "david_klocker_ehrenstrahl_black_grouse",
+  "input": {
+    "id": "david_klocker_ehrenstrahl_black_grouse",
+    "file": "File:Stilleben med två orrtuppar mot en brädvägg (David Klöcker Ehrenstrahl) - Nationalmuseum - 113792.tif",
+    "candidateArtistId": "david_klocker_ehrenstrahl",
+    "candidateNames": [
+      "David Klöcker Ehrenstrahl",
+      "Давид Клёккер Эренстраль",
+      "David Klocker Ehrenstrahl"
+    ]
+  },
+  "status": "passed",
+  "checks": [
+    {
+      "role": "image",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif/lossy-page1-1280px-Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif/lossy-page1-1280px-Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 1280,
+      "height": 1033,
+      "attempt": 1,
+      "screenshot": "008-image.png"
+    },
+    {
+      "role": "zoom",
+      "ok": true,
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif/lossy-page1-3840px-Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "finalURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif/lossy-page1-3840px-Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "http": 200,
+      "mime": "image/jpeg",
+      "width": 3840,
+      "height": 3099,
+      "attempt": 1
+    }
+  ],
+  "identityReviewed": false,
+  "rightsReviewed": false,
+  "imageVisuallyReviewed": false,
+  "metadata": {
+    "pageid": 64080164,
+    "title": "File:Stilleben med två orrtuppar mot en brädvägg (David Klöcker Ehrenstrahl) - Nationalmuseum - 113792.tif",
+    "descriptionURL": "https://commons.wikimedia.org/wiki/File:Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_(David_Kl%C3%B6cker_Ehrenstrahl)_-_Nationalmuseum_-_113792.tif",
+    "originalURL": "https://upload.wikimedia.org/wikipedia/commons/5/59/Stilleben_med_tv%C3%A5_orrtuppar_mot_en_br%C3%A4dv%C3%A4gg_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_113792.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "mime": "image/tiff",
+    "width": 3884,
+    "height": 3135,
+    "extmetadata": {
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:David_Kl%C3%B6cker_Ehrenstrahl\" class=\"extiw\" title=\"w:en:David Klöcker Ehrenstrahl\"><span title=\"German-Swedish artist (1628-1698)\">David Klöcker Ehrenstrahl</span></a></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "1672<div style=\"display: none;\">date QS:P571,+1672-00-00T00:00:00Z/9</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=113792&amp;viewType=detailView\">  Erik Cornelius / Nationalmuseum</a>",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0);\" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate\" role=\"presentation\">\n<tbody><tr>\n<td style=\"width:100px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Nationalmuseum_Stockholm\" title=\"Nationalmuseum\"><img alt=\"Nationalmuseum\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/120px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"88\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/250px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2600\" data-file-height=\"2640\"></a></span>\n</td>\n<td>This file was provided to Wikimedia Commons by the <b>Nationalmuseum</b> (Stockholm) as part of a <b><a href=\"//commons.wikimedia.org/wiki/Commons:Nationalmuseum_Stockholm\" title=\"Commons:Nationalmuseum Stockholm\">cooperation project</a></b> with Wikimedia Sverige.\n</td>\n<td style=\"width:60px\"><span class=\"skin-invert\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige/en\" title=\"Wikimedia Sverige\"><img alt=\"Wikimedia Sverige\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"119\" height=\"89\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"581\" data-file-height=\"435\"></a></span>\n</td></tr></tbody></table>\n<div lang=\"en\">\n<table cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color: var(--background-color-neutral-subtle, #f9f9f9); color: var(--color-base, #202122); border: 2px solid var(--border-color-muted, #dadde3); border-spacing: 8px; box-sizing: border-box; padding: 0;\" lang=\"en\" class=\"layouttemplate\" dir=\"ltr\">\n<tbody><tr>\n<td>\n<p><i>This is a faithful photographic reproduction of an original two-dimensional work of art. The work of art itself is in the <a href=\"//commons.wikimedia.org/wiki/Public_domain\" class=\"mw-redirect\" title=\"Public domain\">public domain</a> for the following reason:</i>\n</p>\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>The author died in 1698, so this work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.\n</p>\n<hr>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in the <a href=\"https://en.wikipedia.org/wiki/United_States\" class=\"extiw\" title=\"en:United States\">United States</a> because it was <a href=\"//commons.wikimedia.org/wiki/Commons:Publication\" title=\"Commons:Publication\">published</a> (or registered with the <a href=\"https://en.wikipedia.org/wiki/United_States_Copyright_Office\" class=\"extiw\" title=\"en:United States Copyright Office\">U.S. Copyright Office</a>) before January 1, 1931.\n</p>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>  \n<p>This digital reproduction has been released under the following licenses:\n</p>\n<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:100px\"><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>Nationalmuseum has placed those images in the Public Domain which have been acquired exclusively by digital reproduction of those works of art that are no longer protected by copyright. Nationalmuseum does not consider that a new copyright emerges for the reproduction.\n<p>Nationalmuseum has stated some guidelines below what we consider best practice when using images in the Public Domain. The guidelines below are based on the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.europeana.eu/portal/sv/rights/public-domain.html\">Europeanas Public Domain Usage Guidelines</a>, but there is <b>no legal liability</b> to comply to them. \n</p>\n<ul><li>When you use a public domain work please credit the author or creator.</li>\n<li>Please also credit Nationalmuseum and the photographer, who created the digital reproduction and made it available.</li>\n<li>When you use or modify a public domain work you should not attribute the changes to the creator or the provider of the work.</li></ul>\n<p>You can easily link to the object as a source, otherwise we recommend the following:\n</p>\n<div class=\"center\">\n<p><i>Artist: Title, Date, Nationalmuseum (Photo: photographer’s name), public domain</i>\n</p>\n</div>\n</td>\n<td style=\"width:100px\"><span typeof=\"mw:File\"><span title=\"Nationalmuseum\"><img alt=\"Nationalmuseum\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/120px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"89\" height=\"90\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nationalmuseum_kollage_3c.jpg/250px-Nationalmuseum_kollage_3c.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"2600\" data-file-height=\"2640\"></span></span>\n</td></tr>\n<tr>\n<td colspan=\"3\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n<p>In many jurisdictions, faithful reproductions of two-dimensional public domain works of art are not copyrightable. The Wikimedia Foundation's position is that these works are not copyrightable in the United States (see <a href=\"//commons.wikimedia.org/wiki/Commons:Reuse_of_PD-Art_photographs\" title=\"Commons:Reuse of PD-Art photographs\">Commons:Reuse of PD-Art photographs</a>). In these jurisdictions, this work is actually in the public domain and the requirements of the digital reproduction's license are not compulsory.\n</p>\n</td></tr></tbody></table></div>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    },
+    "wikitext": "{{Artwork\n |other_fields_1       = \n |artist               = {{Creator:David Klöcker Ehrenstrahl}}\n |title                = {{sv|Stilleben med två orrtuppar mot en brädvägg}}\n |wikidata             = \n Q43221205|object_type          = \n |description          = \n |other_fields_2       = \n |date                 = 1672\n |medium               = {{oil on canvas}}\n |dimensions           = \n* {{Size|unit=cm|width=107|height=85|depth=}}\n* ''Framed'': {{Size|unit=cm|width=118|height=96|depth=}}\n |institution          = {{Institution:Nationalmuseum Stockholm}}\n |inscriptions         = {{sv|Påskrift: N:2 [på baksida] Signerad: David Klöcker fecit 1672 [nere till höger]}}\n |accession number     = NMStrh 27\n |place of creation    = \n |source               ={{Nationalmuseum Stockholm link|113792| Erik Cornelius / Nationalmuseum}}\n |permission           = {{Nationalmuseum Stockholm cooperation project}}\n{{Licensed-PD-Art|1=PD-old-auto-1923|2=PD-Nationalmuseum_Stockholm|attribution=|deathyear=1698}}\n |other_versions       =\n}}\n\n\n[[Category:Paintings by David Klöcker Ehrenstrahl in the Nationalmuseum Stockholm]]\n[[Category:Still-life paintings in the Nationalmuseum Stockholm]]\n[[Category:Media contributed by Nationalmuseum Stockholm: 2017-11]]",
+    "normalized": [],
+    "redirects": []
+  },
+  "native": [
+    3884,
+    3135
+  ]
+}
