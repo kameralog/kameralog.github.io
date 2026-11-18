@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "label": "Batch 162: 20 candidate artists and files; not approved artwork bindings; full duplicate, identity, rights and visual reviews pending",
+  "items": [
+    {
+      "id": "elias_martin_stockholm",
+      "file": "File:View of Stockholm (Elias Martin) - Nationalmuseum - 18473.tif",
+      "candidateArtistId": "elias_martin",
+      "candidateNames": [
+        "Elias Martin",
+        "Элиас Мартин"
+      ]
+    },
+    {
+      "id": "pehr_hillestrom_drottningholm",
+      "file": "File:Pehr Hilleström d.ä. - Reading at Drottningholm Palace - NMDrh 751 - Nationalmuseum.jpg",
+      "candidateArtistId": "pehr_hillestrom",
+      "candidateNames": [
+        "Pehr Hilleström",
+        "Пер Хиллестрём",
+        "Pehr Hillestrom",
+        "Per Hilleström"
+      ]
+    },
+    {
+      "id": "carl_gustaf_pilo_frederik_v",
+      "file": "File:Frederik V, King of Denmark (Carl Gustav Pilo) - Nationalmuseum - 19318.tif",
+      "candidateArtistId": "carl_gustaf_pilo",
+      "candidateNames": [
+        "Carl Gustaf Pilo",
+        "Карл Густав Пило",
+        "Carl Gustav Pilo"
+      ]
+    },
+    {
+      "id": "lorens_pasch_dy_lovisa_ulrika",
+      "file": "File:The Dowager Queen Lovisa Ulrika of Sweden (Lorens Pasch d.y.) - Nationalmuseum - 20059.tif",
+      "candidateArtistId": "lorens_pasch_dy",
+      "candidateNames": [
+        "Lorens Pasch the Younger",
+        "Лоренс Паш Младший",
+        "Lorens Pasch d.y.",
+        "Lorenz Pasch"
+      ]
+    },
+    {
+      "id": "ulrika_pasch_stierneld",
+      "file": "File:Adolf Ludvig Stierneld (Ulrica Fredrica Pasch) - Nationalmuseum - 39470.tif",
+      "candidateArtistId": "ulrika_pasch",
+      "candidateNames": [
+        "Ulrika Pasch",
+        "Ульрика Паш",
+        "Ulrica Fredrica Pasch",
+        "Ulrika Fredrika Pasch"
+      ]
+    },
+    {
+      "id": "per_krafft_dy_leipzig",
+      "file": "File:The Storming of Leipzig (Per Krafft d.y.) - Nationalmuseum - 21717.tif",
+      "candidateArtistId": "per_krafft_dy",
+      "candidateNames": [
+        "Per Krafft the Younger",
+        "Пер Краффт Младший",
+        "Per Krafft d.y."
+      ]
+    },
+    {
+      "id": "carl_fredrik_von_breda_father",
+      "file": "File:The Artist's Father (Carl Fredrik von Breda) - Nationalmuseum - 17943.tif",
+      "candidateArtistId": "carl_fredrik_von_breda",
+      "candidateNames": [
+        "Carl Fredrik von Breda",
+        "Карл Фредрик фон Бреда",
+        "Carl Fredric von Breda"
+      ]
+    },
+    {
+      "id": "gustaf_lundberg_tessin",
+      "file": "File:Count Carl Gustaf Tessin. Pendant to NMB 127 (Gustaf Lundberg) - Nationalmuseum - 24067.tif",
+      "candidateArtistId": "gustaf_lundberg",
+      "candidateNames": [
+        "Gustaf Lundberg",
+        "Густаф Лундберг"
+      ]
+    },
+    {
+      "id": "david_klocker_ehrenstrahl_black_grouse",
+      "file": "File:Stilleben med två orrtuppar mot en brädvägg (David Klöcker Ehrenstrahl) - Nationalmuseum - 113792.tif",
+      "candidateArtistId": "david_klocker_ehrenstrahl",
+      "candidateNames": [
+        "David Klöcker Ehrenstrahl",
+        "Давид Клёккер Эренстраль",
+        "David Klocker Ehrenstrahl"
+      ]
+    },
+    {
+      "id": "johan_henrik_scheffel_wrede",
+      "file": "File:Fabian Wrede af Elimä d.y., 1694-1768 (Johan Henrik Scheffel) - Nationalmuseum - 16195.tif",
+      "candidateArtistId": "johan_henrik_scheffel",
+      "candidateNames": [
+        "Johan Henrik Scheffel",
+        "Йохан Хенрик Шеффель"
+      ]
+    },
+    {
+      "id": "olof_arenius_tessin",
+      "file": "File:Carl Gustaf Tessin, 1695-1770 (Olof Arenius) - Nationalmuseum - 16109.tif",
+      "candidateArtistId": "olof_arenius",
+      "candidateNames": [
+        "Olof Arenius",
+        "Олоф Арениус"
+      ]
+    },
+    {
+      "id": "johan_pasch_monkeys",
+      "file": "File:Monkeys Acting in front of the Governor's House, Stockholm (Johan Pasch d.ä.) - Nationalmuseum - 21727.tif",
+      "candidateArtistId": "johan_pasch",
+      "candidateNames": [
+        "Johan Pasch",
+        "Йохан Паш",
+        "Johan Pasch d.ä."
+      ]
+    },
+    {
+      "id": "jakob_bjorck_tessin",
+      "file": "File:Carl Gustaf Tessin, 1695-1770, greve (Jakob Björck) - Nationalmuseum - 15706.tif",
+      "candidateArtistId": "jakob_bjorck",
+      "candidateNames": [
+        "Jakob Björck",
+        "Якоб Бьёрк",
+        "Jakob Bjorck",
+        "Jacob Björck"
+      ]
+    },
+    {
+      "id": "georg_engelhard_schroder_ulrika_eleonora",
+      "file": "File:Ulrika Eleonora d.y., 1688-1741, drottning av Sverige (Georg Engelhard Schröder) - Nationalmuseum - 16028.tif",
+      "candidateArtistId": "georg_engelhard_schroder",
+      "candidateNames": [
+        "Georg Engelhard Schröder",
+        "Георг Энгельхард Шрёдер",
+        "Georg Engelhard Schroder"
+      ]
+    },
+    {
+      "id": "alexander_laureus_candle",
+      "file": "File:A Woman with a Burning Candle (Alexander Lauréus) - Nationalmuseum - 18220.tif",
+      "candidateArtistId": "alexander_laureus",
+      "candidateNames": [
+        "Alexander Lauréus",
+        "Александр Лауреус",
+        "Alexander Laureus",
+        "Aleksander Lauréus"
+      ]
+    },
+    {
+      "id": "louis_jean_desprez_hogland",
+      "file": "File:La Victoire d´Hogland (Louis Jean Desprez) - Nationalmuseum - 73746.tif",
+      "candidateArtistId": "louis_jean_desprez",
+      "candidateNames": [
+        "Louis Jean Desprez",
+        "Луи Жан Депре"
+      ]
+    },
+    {
+      "id": "ferdinand_von_wright_eagle_owl",
+      "file": "File:Ferdinand von Wright - An Eagle-Owl Seizes a Hare.jpg",
+      "candidateArtistId": "ferdinand_von_wright",
+      "candidateNames": [
+        "Ferdinand von Wright",
+        "Фердинанд фон Вригт"
+      ]
+    },
+    {
+      "id": "magnus_von_wright_suopeltovuori",
+      "file": "File:Magnus von Wright - Suopeltovuori in Haminalahti - A I 28 - Finnish National Gallery.jpg",
+      "candidateArtistId": "magnus_von_wright",
+      "candidateNames": [
+        "Magnus von Wright",
+        "Магнус фон Вригт"
+      ]
+    },
+    {
+      "id": "carl_peter_mazer_kyakhta",
+      "file": "File:Chinese Trader in Kyakhta (Russia) (Carl Peter Mazer) - Gothenburg Museum of Art - GKM 2136.tif",
+      "candidateArtistId": "carl_peter_mazer",
+      "candidateNames": [
+        "Carl Peter Mazer",
+        "Карл Петер Мазер"
+      ]
+    },
+    {
+      "id": "hildegard_thorell_tamm_children",
+      "file": "File:Hildegard and Alfhild Tamm Children (Hildegard Thorell) - Nationalmuseum - 20095.tif",
+      "candidateArtistId": "hildegard_thorell",
+      "candidateNames": [
+        "Hildegard Thorell",
+        "Хильдегард Торелль"
+      ]
+    }
+  ]
+}
